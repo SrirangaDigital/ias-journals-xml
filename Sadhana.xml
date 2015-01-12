@@ -10954,135 +10954,152 @@
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Design of multi-objective damping controller for gate-controlled series capacitor</title>
 				<feature></feature>
-				<page></page>
+				<page>0363-0376</page>
 				<abstract>
-					<p></p>
+					<p>This paper proposes an optimization procedure based on eigenvalues to carry out the stabilization function of the Gate-Controlled Series Capacitor (GCSC) in a power system. It is aimed to provide a reliable damping framework by means of a GCSC based multi-objective damping controller. The proposed method employs Particle Swarm Optimization (PSO) to search for optimal parameter settings of a widely used multi-objective lead-lag damping controller. The eigenvalue analysis is considered as the cornerstone of the performed studies in order to investigate the multi-objective methodology in which the unstable or lightly damped modes are scheduled to effectively shift to some prescribed stability zones in the s-plane. The effectiveness of the suggested approach in damping local and interarea oscillations modes in a multi-machine power system, over a wide range of loading conditions, is confirmed through eigenvalue analysis and time simulation.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>GCSC; PSO; Inter-area oscillation damping; multi-machine power system.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Safari" fname="Amin" isfellow="0">Safari, Amin</author>
+					<author lname="Rezaei" fname="Navid" isfellow="0">Rezaei, Navid</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Transaction charges allocation using sensitivity factor methodology</title>
 				<feature></feature>
-				<page></page>
+				<page>0377-0390</page>
 				<abstract>
-					<p></p>
+					<p>Deregulation of the electricity industry aims for creating a competitive market to trade electricity, which generates a host of new technical challenges among market participants and power system researchers. One of the major challenges is to establish a cost for system services on a nondiscriminatory basis. In this paper, the evaluation of transmission cost is proposed based on sensitivity factor method like AC Power Transfer Distribution Factor (ACPTDF) method for bilateral and multilateral transactions. The transacted power is estimated by ACPTDF method for each transaction. The advantages of the proposed methodology are demonstrated on a sample 6 bus, IEEE 30 bus and Indian Utility 69 bus systems. The solution provides a better pricing approach that can impact a more reasonable economic indicator for transmission cost.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Deregulation; transmission pricing; AC power transfer distribution factor (ACPTDF); bilateral transaction; multilateral transaction</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Raja" fname="S. Charles" isfellow="0">Raja, S. Charles</author>
+					<author lname="Nesamalar" fname="J. Jeslin Drusila" isfellow="0">Nesamalar, J. Jeslin Drusila</author>
+					<author lname="Venkatesh" fname="P." isfellow="0">Venkatesh, P.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Two-motor single-inverter field-oriented induction machine drive dynamic performance</title>
 				<feature></feature>
-				<page></page>
+				<page>0391-0407</page>
 				<abstract>
-					<p></p>
+					<p>Multi-machine, single-inverter induction motor drives are attractive in situations in which all machines are of similar ratings, and operate at approximately the same load torques. The advantages include small size compared to multi-inverter system, lower weight and overall cost. However, field oriented control of such drives is a challenge since no two motors will have exactly the same operating conditions at any time. In general, at least some motors in the system will operate away from perfect field orientation. It is therefore important to analyse their torque dynamics carefully. This paper discusses existing multi-machine field-oriented control methods, and analyses and compares them from the viewpoint of dynamic performance. For this, an analytical framework based on small-signal analysis is developed to compare multi-machine control methods. This analysis is verified by simulations and experiments.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Multi-machine induction motor drives; field oriented control dynamics; small-signal analysis.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Joshi" fname="Bhakti M." isfellow="0">Joshi, Bhakti M.</author>
+					<author lname="Chandorkar" fname="Mukul C." isfellow="0">Chandorkar, Mukul C.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Analog domain adaptive equalizer for low power 40 Gbps DP-QPSK receivers</title>
 				<feature></feature>
-				<page></page>
+				<page>0409-0418</page>
 				<abstract>
-					<p></p>
+					<p>Electrical domain equalization of chromatic and polarization mode dispersion is attractive in coherent optical communication links. Digital coherent receivers used for this purpose are based on high speed ADCs followed by DSP, which dissipate excessive amount of power and are very costly to implement. We propose analog coherent receiver to drastically reduce the power consumption, size and cost. An adaptive feed forward equalizer for 40 Gbps dual polarization quadrature phase shift keying (DP-QPSK) systems, which processes signals in analog domain itself, is demonstrated using circuit and system simulations. The equalizer, designed in 90 nm CMOS technology, consumes 450 mW of power and occupies 1.8 mm $\times$ 1.1 mm chip area. System simulations are used to show that blind equalization is also possible when this approach is used in decision directed mode.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Optical fibre communications; analog signal processing; adaptive equalizers; CMOS integrated circuits.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Nambath" fname="Nandakumar" isfellow="0">Nambath, Nandakumar</author>
+					<author lname="Moyade" fname="Pawan Kumar" isfellow="0">Moyade, Pawan Kumar</author>
+					<author lname="Ansari" fname="Allmin" isfellow="0">Ansari, Allmin</author>
+					<author lname="Gupta" fname="Shalabh" isfellow="0">Gupta, Shalabh</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Efficiency of wave impeding barrier in pipeline construction under earthquake excitation using nonlinear finite element analysis</title>
 				<feature></feature>
-				<page></page>
+				<page>0419-0436</page>
 				<abstract>
-					<p></p>
+					<p>Earthquakes have caused colossal casualties and severe damages to engineering structures and especially leading to substantial economic loss to the underground structures and/or infrastructures. Pipelines are one of most important component of lifeline engineering. For instance, the Southern Caucasus- Eastern Turkey energy corridors are formed by several key pipelines carrying crude oil and natural gas from Azerbaijan, via Georgia, to world markets through Mediterranean Sea. Many project accomplished recently and construction of new corridors are still going on. They should be protected from earthquake disaster especially when they pass through high seismicity zones. The installation of wave impeding barriers (WIB) below the vulnerable infrastructures as pipelines established in soft soil can be used to reduce the effect of the earthquake induced ground borne vibrations. In this paper, a WIB as artificial bedrock based on the cut-off frequency of a soil layer over bedrock is proposed as isolation measurement in order to mitigate the dynamic response of the buried pipelines under earthquake strong ground motion. The computational simulation of the wave propagation problem is directly achieved by employing nonlinear 2D finite element modelling for prediction of screening performance of WIB on the dynamic response of vibrating coupled soil-pipeline system. Energy absorbing boundaries along the truncated interfaces of the unbounded nature of the underlying soil media are implemented in the time domain along with Newmark’s integration. An extensive parametric investigation and systematic computations are performed with different controlling parameters. The obtained numerical results point out that WIB can be very promising as an isolator to protect pipelines when they establish for a certain depth.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Wave impeding barrier; FE analysis; infrastructures; earthquake motion; non-linear soil.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Goktepe" fname="Fatih" isfellow="0">Goktepe, Fatih</author>
+					<author lname="Kuyuk" fname="H. Serdar" isfellow="0">Kuyuk, H. Serdar</author>
+					<author lname="Celebi" fname="Erkan" isfellow="0">Celebi, Erkan</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Evaluation of the main parameters affecting seismic performance of the RC buildings</title>
 				<feature></feature>
-				<page></page>
+				<page>0437-0450</page>
 				<abstract>
-					<p></p>
+					<p>Low and mid-rise reinforced concrete (RC) buildings consist of an important portion of the building stock in many earthquake prone countries. Therefore understanding their seismic behaviour is important for mitigation studies. This study aims to evaluate how much and when; seismic code, number of stories, concrete strength, amount of transverse reinforcement and infill-wall contribution parameters are important for seismic performances of RC buildings. Seismic performances of the models reflecting different cases are determined for different performance levels and seismic loading conditions. Based on the considered values of the parameters, it is concluded that: modern code specifications and higher transverse reinforcement 50%, the concrete strength up to 66%, infill-walls 15% and number of story 55% increase the seismic performance for life safety level. Evaluations on the effect of the considered parameters for different performance levels and seismic loadings in relation with other parameters are also given in this paper.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Existing building; infill wall; nonlinear analysis; number of story; seismic code; transverse reinforcement.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Ozmen" fname="Hayri Baytan" isfellow="0">Ozmen, Hayri Baytan</author>
+					<author lname="Inel" fname="Mehmet" isfellow="0">Inel, Mehmet</author>
+					<author lname="Meral" fname="Emrah" isfellow="0">Meral, Emrah</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Disturbance of SH-type waves due to moving stress discontinuity in an anisotropic soil layer overlying an inhomogeneous elastic half-space</title>
 				<feature></feature>
-				<page></page>
+				<page>0451-0465</page>
 				<abstract>
-					<p></p>
+					<p>The disturbance and propagation of SH-type waves in an anisotropic soil layer overlying an inhomogeneous elastic half-space by a moving stress discontinuity is considered. Stress discontinuity moves with non-uniform velocity and is impulsive in nature. The displacements are obtained in exact form by themethod due to Cagniard modified by de Hoop. The numerical result is calculated for special cases and the natures are depicted graphically.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>SH-type waves; anisotropic soil layer; inhomogeneous media; Cagniard-de Hoop technique; moving stress discontinuity.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Mandal" fname="D." isfellow="0">Mandal, D.</author>
+					<author lname="Pal" fname="P. C." isfellow="0">Pal, P. C.</author>
+					<author lname="Kumar" fname="S." isfellow="0">Kumar, S.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Uncertainty modelling of atmospheric dispersion by stochastic response surface method under aleatory and epistemic uncertainties</title>
 				<feature></feature>
-				<page></page>
+				<page>0467-0485</page>
 				<abstract>
-					<p></p>
+					<p>The parameters associated to a environmental dispersion model may include different kinds of variability, imprecision and uncertainty. More often, it is seen that available information is interpreted in probabilistic sense. Probability theory is a well-established theory to measure such kind of variability. However, not all available information, data or model parameters affected by variability, imprecision and uncertainty, can be handled by traditional probability theory. Uncertainty or imprecision may occur due to incomplete information or data, measurement error or data obtained from expert judgement or subjective interpretation of available data or information. Thus for model parameters, data may be affected by subjective uncertainty. Traditional probability theory is inappropriate to represent subjective uncertainty. Possibility theory is used as a tool to describe parameters with insufficient knowledge. Based on the polynomial chaos expansion, stochastic response surface method has been utilized in this article for the uncertainty propagation of atmospheric dispersion model under consideration of both probabilistic and possibility information. The proposed method has been demonstrated through a hypothetical case study of atmospheric dispersion.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Uncertainty; polynomial chaos expansion; fuzzy set theory; cumulative distribution function; uniform distribution; membership function.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Chutia" fname="Rituparna" isfellow="0">Chutia, Rituparna</author>
+					<author lname="Mahanta" fname="Supahi" isfellow="0">Mahanta, Supahi</author>
+					<author lname="Datta" fname="D." isfellow="0">Datta, D.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Temporal moment analysis of solute transport in a coupled fracture-skin-matrix system</title>
 				<feature></feature>
-				<page></page>
+				<page>0487-0509</page>
 				<abstract>
-					<p></p>
+					<p>In the present study, method of temporal moments has been used to analyse the transport characteristics of reactive solute along fracture in a coupled fracture-skin-matrix system. In order to obtain the concentration distribution within the fracture, a system of coupled partial differential equations for fracture, fractureskin and rock-matrix has been solved numerically in a pseudo two-dimensional domain using implicit finite difference method. Subsequently, lower order temporal moments of solute have been computed from the concentration distribution to analyse the transport characteristics of solutes in the fracture. This study has been done by considering an inlet boundary condition of constant continuous source in a single fracture. The effect of various fracture-skin parameters like porosity, thickness and diffusion coefficient on the transport of solutes have been studied by doing sensitivity analyses. The effect of nonlinear sorption and radioactive decay of solutes have also been analysed by carrying out simulations for different sorption intensities and decay constants. Numerical results suggested that the presence of fracture-skin significantly influences the transport characteristics of reactive solutes along the fracture.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Single fracture; fracture-skin; numerical model; temporal moment; sorption; decay.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Renu" fname="V." isfellow="0">Renu, V.</author>
+					<author lname="Kumar" fname="G. Suresh" isfellow="0">Kumar, G. Suresh</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Buckling analysis of partially corroded steel plates with irregular surfaces</title>
 				<feature></feature>
-				<page></page>
+				<page>0511-0524</page>
 				<abstract>
-					<p></p>
+					<p>Corrosion is a long-term, inevitable process, lessens the thickness and load carrying capacity of structures. Old steel structures are more vulnerable to buckling, yielding and fracture due to corrosion. In lieu of a detailed analysis, average thickness assumption is employed for general type of corrosion. However, the estimation of load carrying capacity reduction of corroded structures typically need a much higher level of accuracy, since the actual corroded plates would have irregular surfaces. The objective of this article is to determine the effect of general corrosion on reduction of elastic buckling strength of both-sided partially corroded plates with irregular surfaces. Eigenvalue analysis using finite element method is employed for Euler stress calculation of corroded plates. The effects of different influential parameters are investigated and it is found that, aspect ratio of plate, location of corroded area, standard deviation of thickness diminution and concentration of corrosion have influence on reduction of elastic buckling strength. Reduction of elastic buckling strength is very sensitive to the amount of corrosion loss. The higher the amount of corrosion loss, the more reduction of elastic buckling strength.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Partially corroded plate; corrosion; elastic buckling strength; FEM; irregular surface.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Rahbar-Ranji" fname="Ahmad" isfellow="0">Rahbar-Ranji, Ahmad</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>The stretch zone of automotive steel sheets</title>
 				<feature></feature>
-				<page></page>
+				<page>0525-0530</page>
 				<abstract>
-					<p></p>
+					<p>The paper deals with an experimental determination of the stretch zone dimensions in the notch tip in thin steel sheets. The stretch zone dimensions depend on steel grade, on the rolling direction as well as on the loading rate. Stretch zones were observed and measured on three steel grades. Fracture area and stretch zones were analysed by SEM. Stable crack growth was monitored by videoextensometry techniques on CT (Compact Tension) specimens. Specimens were loaded under two loading rates by eccentric tension, whereby the deformation in the notch surrounding area was recorded using a non-contact measurement–videoextensometry technique. Linear relation between the stretch zone dimensions was determined.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Stretch zone; thin sheet; videoextensometry; CTOD; deformation and fracture; electron microscopy.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Ambriško" fname="Ľ." isfellow="0">Ambriško, Ľ.</author>
+					<author lname="Pešek" fname="L." isfellow="0">Pešek, L.</author>
 				</allauthors>
 			</entry>
         </issue>
