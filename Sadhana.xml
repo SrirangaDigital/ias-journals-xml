@@ -10668,4 +10668,423 @@
 			</entry>
         </issue>
 	</volume>
+    <volume vnum="039">
+		<issue inum="01" month="02" year="2014">
+			<entry issup="0">
+				<title>General Editorial on Publication Ethics</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<abstract />
+                <keywords />
+				<allauthors />
+			</entry>
+			<entry issup="0">
+				<title>Dual watermarking technique with multiple biometric watermarks</title>
+				<feature></feature>
+				<page>0003-0026</page>
+				<abstract>
+					<p>In order to improve the robustness of the watermarking algorithm, a dual watermarking method is proposed to prove copyright ownership. Visible watermarking is important for protecting online resources from unauthorized reproduction. However robust, visible watermarks are vulnerable to illegal removal and other common signal processing and geometric attacks. Multiple invisible watermarks can enhance the protection of the visibly watermarked image. When the ownership of tampered image is in question, the invisible watermark can be extracted to provide appropriate ownership information. We have proposed dual watermarking scheme with multiple biometric watermarks in which it embeds speech and face biometric traits of owner invisibly and lastly offline signature is overlaid translucently on image. Before embedding, speech is compressed using Linear Predictive Coding (LPC) and Gabor face is created from face biometric trait. All three watermarks Gabor face, LPC coefficients and offline signature are the biometric characteristics of the owner and hence they are highly related with copyright holder. The proposed scheme is robust enough, Gabor face and LPC coefficients can be extracted from the signature marked image or even from the tampered image from which signature is removed illegally or legally. As multiple watermarks are embedded at least one watermark survives under different attacks. It can find application for joint ownership or to address single ownership multiple times.</p>
+				</abstract>
+				<keywords>Biometric features; dual watermarking; multiple watermarking; Gabor filter; linear predictive coding (LPC); human visual system (HVS) model.</keywords>
+				<allauthors>
+					<author lname="Inamdar" fname="Vandana S." isfellow="0">Inamdar, Vandana S.</author>
+					<author lname="Rege" fname="Priti P." isfellow="0">Rege, Priti P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Providing an efficient intelligent transportation system through detection, tracking and recognition of the region of interest in traffic signs by using non-linear SVM classifier in line with histogram oriented gradient and Kalman filter approach</title>
+				<feature></feature>
+				<page>0027-0037</page>
+				<abstract>
+					<p>With a focus on new researches in the area of intelligent transportation systems (ITS), an efficient approach has been investigated here. Based on the present view point, analysis of traffic signs are first considered via intelligence based approach, which is carried out through three main stages including detection, tracking and recognition, respectively, in this research. The key role of detection is to identify traffic signs by classification of road sign shapes in accordance with their signatures. This classification consists of four different shapes of circle, semicircle, triangle and square, as well. The linear classification of traffic sign is also carried out via support vector machine (SVM) by using one against all (OAA), since the present SVMs classifiers realized via linear kernel. The next step is to track traffic sign. It should be noted that this technique is now developed to reduce the searching mode in case of the whole area to be optimized its computational processing, consequently. This research work is investigated by realizing Kalman filter approach, where, finally, in recognition step, a feature of the region of interest (ROI) has been extracted for SVM classification. Histogram of oriented gradient (HOG) is realized in organizing the approach, as long as Gaussian kernel is also developed for non-linear SVM classifier.</p>
+				</abstract>
+				<keywords>RGBN; signature; bounding box; SVM; ROI; HOG.</keywords>
+				<allauthors>
+					<author lname="Mazinan" fname="A. H." isfellow="0">Mazinan, A. H.</author>
+					<author lname="Sarikhani" fname="M." isfellow="0">Sarikhani, M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Gain ratio based fuzzy weighted association rule mining classifier for medical diagnostic interface</title>
+				<feature></feature>
+				<page>0039-0052</page>
+				<abstract>
+					<p>The health care environment still needs knowledge based discovery for handling wealth of data. Extraction of the potential causes of the diseases is the most important factor for medical data mining. Fuzzy association rule mining is wellperformed better than traditional classifiers but it suffers from the exponential growth of the rules produced. In the past, we have proposed an information gain based fuzzy association rule mining algorithm for extracting both association rules and membership functions of medical data to reduce the rules. It used a ranking based weight value to identify the potential attribute. When we take a large number of distinct values, the computation of information gain value is not feasible. In this paper, an enhanced approach, called gain ratio based fuzzy weighted association rule mining, is thus proposed for distinct diseases and also increase the learning time of the previous one. Experimental results show that there is a marginal improvement in the attribute selection process and also improvement in the classifier accuracy. The system has been implemented in Java platform and verified by using benchmark data from the UCI machine learning repository.</p>
+				</abstract>
+				<keywords>Feature selection; gain ratio; ranking based weight; medical data mining; fuzzy weighted support and confidence; UCI repository.</keywords>
+				<allauthors>
+					<author lname="Nithya" fname="N. S." isfellow="0">Nithya, N. S.</author>
+					<author lname="Duraiswamy" fname="K." isfellow="0">Duraiswamy, K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mining knowledge from text repositories using information extraction: A review</title>
+				<feature></feature>
+				<page>0053-0062</page>
+				<abstract>
+					<p>There are two approaches to mining text form online repositories. First, when the knowledge to be discovered is expressed directly in the documents to be mined, Information Extraction (IE) alone can serve as an effective tool for such text mining. Second, when the documents contain concrete data in unstructured form rather than abstract knowledge, Information Extraction (IE) can be used to first transform the unstructured data in the document corpus into a structured database, and then use some state-of-the-art data mining algorithms/tools to identify abstract patterns in this extracted data. This paper presents the review of several methods related to these two approaches.</p>
+				</abstract>
+				<keywords>Information extraction (IE); text mining; text repositories; knowledge discovery from database (KDD).</keywords>
+				<allauthors>
+					<author lname="Sirsat" fname="Sandeep R." isfellow="0">Sirsat, Sandeep R.</author>
+					<author lname="Chavan" fname="Dr Vinay" isfellow="0">Chavan, Dr Vinay</author>
+					<author lname="Deshpande" fname="Dr Shrinivas P." isfellow="0">Deshpande, Dr Shrinivas P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A string matching based algorithm for performance evaluation of mathematical expression recognition</title>
+				<feature></feature>
+				<page>0063-0079</page>
+				<abstract>
+					<p>In this paper, we have addressed the problem of automated performance evaluation of Mathematical Expression (ME) recognition. Automated evaluation requires that recognition output and ground truth in some editable format like LATEX, MathML, etc. have to be matched. But standard forms can have extraneous symbols or tags. For example, $\le$mo$\ge$ tag is added for an operator in MathML and $\$begin{array} is used to encoded matrices in LATEX. These extraneous symbols are also involved in matching that is not intuitive. For that, we have proposed a novel structure encoded string representation that is independent of any editable format. Structure encoded strings retain the structure (spatial relationships like superscript, subscript, etc.) and do not contain any extraneous symbols. As structure encoded strings give the linear representation of MEs, Levenshtein edit distance is used as a measure for performance evaluation. Therefore, in our approach, recognition output and ground truth in LATEX form are converted to their corresponding structure encoded strings and Levenshtein edit distance is computed between them.</p>
+				</abstract>
+				<keywords>Mathematical expression recognition; performance evaluation; linear representation; Levenshtein edit distance.</keywords>
+				<allauthors>
+					<author lname="Kumar" fname="P. Pavan" isfellow="0">Kumar, P. Pavan</author>
+					<author lname="Agarwal" fname="Arun" isfellow="0">Agarwal, Arun</author>
+					<author lname="Bhagvati" fname="Chakravarthy" isfellow="0">Bhagvati, Chakravarthy</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Certain investigations on the reduction of side lobe level of an uniform linear antenna array using biogeography based optimization technique with sinusoidal migration model and simplified-BBO</title>
+				<feature></feature>
+				<page>0081-0095</page>
+				<abstract>
+					<p>In this paper, we propose biogeography based optimization technique, with linear and sinusoidal migration models and simplified biogeography based optimization (S-BBO), for uniformly spaced linear antenna array synthesis to maximize the reduction of side lobe level (SLL). This paper explores biogeography theory. It generalizes two migration models in BBO namely, linear migration model and sinusoidal migration model. The performance of SLL reduction in ULA is investigated. Our performance study shows that among the two, sinusoidal migration model is a promising candidate for optimization. In our work, simplified – BBO algorithmis also deployed. This determines an optimum set value for amplitude excitations of antenna array elements that generate a radiation pattern with maximum side lobe level reduction. Our detailed investigation also shows that sinusoidal migration model of BBO performs better compared to the other evolutionary algorithms discussed in this paper.</p>
+				</abstract>
+				<keywords>Biogeography based optimization; linear migration model; sinusoidal migration model; simplified-BBO; linear antenna array synthesis; side lobe level reduction.</keywords>
+				<allauthors>
+					<author lname="Laseetha" fname="T. S. Jeyali" isfellow="0">Laseetha, T. S. Jeyali</author>
+					<author lname="Sukanesh" fname="R." isfellow="0">Sukanesh, R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Automatic Tamil lyric generation based on ontological interpretation for semantics</title>
+				<feature></feature>
+				<page>0097-0121</page>
+				<abstract>
+					<p>This system proposes an $N$-gram based approach to automatic Tamil lyric generation, by the ontological semantic interpretation of the input scene. The approach is based on identifying the semantics conveyed in the scenario, thereby making the system understand the situation and generate lyrics accordingly. The heart of the system includes the ontological interpretation of the scenario, and the selection of the appropriate tri-grams for generating the lyrics. To fulfill this, we have designed a new ontology with weighted edges, where the edges correspond to a set of sentences, which indicate a relationship, and are represented as a tri-gram. Once the appropriate tri-grams are selected, the root words from these tri-grams are sent to the morphological generator, to form words in their packed form. These words are then assembled to form the final lyrics. Parameters of poetry like rhyme, alliteration, simile, vocative words, etc., are also taken care of by the system. Using this approach, we achieved an average accuracy of 77.3% with respect to the exact semantic details being conveyed in the generated lyrics.</p>
+				</abstract>
+				<keywords>Tamil lyric; lyric generation; ontology; semantics; $N$-gram.</keywords>
+				<allauthors>
+					<author lname="Sridhar" fname="Rajeswari" isfellow="0">Sridhar, Rajeswari</author>
+					<author lname="Gladis" fname="D. Jalin" isfellow="0">Gladis, D. Jalin</author>
+					<author lname="Ganga" fname="Kameswaran" isfellow="0">Ganga, Kameswaran</author>
+					<author lname="Prabha" fname="G. Dhivya" isfellow="0">Prabha, G. Dhivya</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Development of semi-active hydraulic damper as active interaction control device to withstand external excitation</title>
+				<feature></feature>
+				<page>0123-0138</page>
+				<abstract>
+					<p>Semi-automatic control systems have the characteristics of being adaptable and requiring low energy. The objective of this research was to study the performance of an improved DSHD (Displacement Semi-Active Hydraulic Damper) by converting it to AIC (Active Interaction Control Device) with the addition of an accumulator. The prototype was tested using full-scale elements for examining the structural displacement, and typical responses of the interacting interface element developed in this research, the pressure variation of the pressure storage device, and the energy dissipation hysteresis loop when the structure installed with these elements is subjected to external force of various magnitude. The laboratory results confirm that the device developed in this research is capable of applying the energy dissipation characteristics of DSHD so that these elements are appropriate for developing the proposed AIC. The mutual interaction between the subordinate structure and the main structure to be protected is capable of transforming the quake energy applied to the main structure to the subordinate structure so that the objective of minimizing the deformation of main structural can be achieved.</p>
+				</abstract>
+				<keywords>Semi-auto controller; displacement semi-active hydraulic damper; DSHD; active interaction control device; AIC.</keywords>
+				<allauthors>
+					<author lname="Shih" fname="Ming-Hsiang" isfellow="0">Shih, Ming-Hsiang</author>
+					<author lname="Sung" fname="Wen-Pei" isfellow="0">Sung, Wen-Pei</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A reexamination of some puzzling results in linearized elasticity</title>
+				<feature></feature>
+				<page>0139-0147</page>
+				<abstract>
+					<p>In this paper, we analyse three commonly discussed ‘flaws’ of linearized elasticity theory and attempt to resolve them. The first ‘flaw’ concerns cylindrically orthotropic material models. Since the work of Lekhnitskii (1968), there has been a growing body of work that continues to this day, that shows that infinite stresses arise with the use of a cylindrically orthotropicmaterial model even in the case of linearized elasticity. Besides infinite stresses, interpenetration of matter is also shown to occur. These infinite stresses and interpenetration occur when the ratio of the circumferential Young modulus to the radial Young modulus is less than one. If the ratio is greater than one, then the stresses at the center of a spinning disk are found to be zero (recall that for an isotropic material model, the stresses are maximum at the center). Thus, the stresses go abruptly from a maximum value to a value of zero as the ratio is increased to a value even slightly above one! One of the explanations provided for this extremely anomalous behaviour is the failure of linearized elasticity to satisfy material frameindifference. However, if this is the true cause, then the anomalous behaviour should also occur with the use of an isotropic material model, where, no such anomalies are observed.We show that the real cause of the problem is elsewhere and also show how these anomalies can be resolved. We also discuss how the formulation of linearized elastodynamics in the case of small deformations superposed on a rigid motion can be given in a succinct manner. Finally, we show how the long-standing problem of devising three compatibility relations instead of six can be resolved.</p>
+				</abstract>
+				<keywords>Linearized elasticity; singularities; compatibility; orthotropy; isotropy; elastodynamics.</keywords>
+				<allauthors>
+					<author lname="Jog" fname="C. S." isfellow="0">Jog, C. S.</author>
+					<author lname="Cherukuri" fname="Harish P." isfellow="0">Cherukuri, Harish P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Kinetic mesh-free method for flutter prediction in turbomachines</title>
+				<feature></feature>
+				<page>0149-0164</page>
+				<abstract>
+					<p>The present paper deals with the development and application of a kinetic theory-based mesh-free method for unsteady flows. The method has the capability to compute on any arbitrary distribution of moving nodes. In general, computation of unsteady flow past multiple moving boundaries using conventional finite volume solvers are quite involved. They invariably require repeated grid generation or an efficient grid movement strategy. This approach becomes more difficult when there are many moving boundaries. In the present work, we propose a simple and an effective node movement strategy for the mesh-free solver. This can tackle the unsteady problems with moving boundaries in a much easier way. Using the present method we have computed unsteady flow in oscillating turbomachinery blades. A simple energy method has been used to predict flutter using the unsteady computations. The results compare well with the available experiments and other computations.</p>
+				</abstract>
+				<keywords>Mesh-free kinetic upwind scheme; unsteady flows; modified CIR splitting; Eigenvector based weights; flutter prediction; turbomachinery blades.</keywords>
+				<allauthors>
+					<author lname="Ramesh" fname="V." isfellow="0">Ramesh, V.</author>
+					<author lname="Deshpande" fname="S. M." isfellow="0">Deshpande, S. M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Optimal way of selecting cities and conveyances for supplying coal in uncertain environment</title>
+				<feature></feature>
+				<page>0165-0187</page>
+				<abstract>
+					<p>In this paper, the limitations and shortcomings of the existing methods for solving fuzzy solid transportation problem are pointed out and to overcome these shortcomings, a new method is proposed for solving fuzzy solid transportation problem. The advantages of the proposed method over the existing methods are discussed. To illustrate the proposed method, an existing fuzzy solid transportation problem is solved. Also, to show the application of the proposed method in real life problems an existing real life fuzzy solid transportation problem is solved by the proposed method.</p>
+				</abstract>
+				<keywords>Fuzzy solid transportation problem; ranking function; $LR$ flat fuzzy number.</keywords>
+				<allauthors>
+					<author lname="Kumar" fname="Amit" isfellow="0">Kumar, Amit</author>
+					<author lname="Kaur" fname="Amarpreet" isfellow="0">Kaur, Amarpreet</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A new method for solving single and multi-objective fuzzy minimum cost flow problems with different membership functions</title>
+				<feature></feature>
+				<page>0189-0206</page>
+				<abstract>
+					<p>Several authors have proposed different methods for solving fuzzy minimum cost flow (MCF) problems. In this paper, some single and multi-objective fuzzy MCF problems are chosen which cannot be solved by using any of the existing methods and a new method is proposed for solving such type of problems. The main advantage of the proposed method over existing methods is that the fuzzy MCF problems which can be solved by using the existing methods can also be solved by the proposed method. But, there exist several fuzzy MCF problems which can be solved only by using the proposed method i.e., it is not possible to solve these problems by using the existing methods. To illustrate the proposed method and also to show the advantages of the proposed method over existing methods some single and multiobjective fuzzy MCF problems which cannot be solved by using the existing methods are solved by using the proposed method and the obtained results are discussed.</p>
+				</abstract>
+				<keywords>Single and multi-objective fuzzy MCF problems; fuzzy linear programming; $L − R$ fuzzy numbers; ranking function.</keywords>
+				<allauthors>
+					<author lname="Kumar" fname="Amit" isfellow="0">Kumar, Amit</author>
+					<author lname="Kaur" fname="Manjot" isfellow="0">Kaur, Manjot</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Stress determination and geomechanical stability analysis of an oil well of Iran</title>
+				<feature></feature>
+				<page>0207-0220</page>
+				<abstract>
+					<p>In this paper, a numerical model using three-dimensional finite difference code FLAC3D is proposed for analysing the stability of an oil well drilled in four formations. Normalized Yielded Zone Area (NYZA, i.e., the ratio of surrounding yielded cross-sectional area to initial area of well) has been determined for different mud pressures. In each formation, by interpolating of obtained NYZA equal to one, the optimized mud pressure was determined using MATLAB software. Practical data including geomechanical parameters along with drilling data from one of Iranian oilfields, Mansouri-54 well have been utilized in this analysis. $In situ$ stress was determined using stress polygon method and conducting hydraulic fracturing data in the field. Analytical solution using the Mogi–Coulomb and the Hoek–Brown failure criteria has been carried out and results are compared with the presented model. The results demonstrated that the NYZA and Hoek–Brown criteria might underestimate and overestimate the drilling mud pressure, respectively, and should be used cautiously. In the inclined section of the well, plastic zone showed more extension in the lower part than upper part of the well because of the high stress concentration.</p>
+				</abstract>
+				<keywords>Finite difference; NYZA; optimum mud pressure; stress polygon; failure criterion.</keywords>
+				<allauthors>
+					<author lname="Elyasi" fname="Ayub" isfellow="0">Elyasi, Ayub</author>
+					<author lname="Goshtasbi" fname="Kamran" isfellow="0">Goshtasbi, Kamran</author>
+					<author lname="Saeidi" fname="Omid" isfellow="0">Saeidi, Omid</author>
+					<author lname="Torabi" fname="Seyed Rahman" isfellow="0">Torabi, Seyed Rahman</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of geological medium on seismic signals from underground nuclear explosion events – A case study for Baneberry site</title>
+				<feature></feature>
+				<page>0221-0266</page>
+				<abstract>
+					<p>Seismic signals due to any underground nuclear explosion events are known to be influenced by the local geology of the test site and the yield level. In this paper, transient three-dimensional finite element code SHOCK-3D developed for the simulation of underground nuclear explosion events has been used to obtain synthetic acceleration signals for Baneberry site (Nevada) single and composite rock media. At this site an underground nuclear test of 10 kT conducted on 18th December 1970 at source depth of 278 m resulted into venting as reported by Terhune $et al$ with 2D simulation results and later by us through 3D simulation in Ranjan $et al$. First, the reasons of the venting for this event are summarized. After the successful validation of the 3D numerical model for Baneberry site rock media, parametric studies are carried out for 1 and 8 kT yields at 100 m depth (Scaled Depths of Burst SDOB $\sim$ 100 and 50 m$/$kT$^{1/3}$, respectively) for homogeneous and composite Paleozoic and Tuff media of Baneberry site. It is demonstrated that the near source local geological formations and associated nonlinear effects significantly influence the seismic signals. With this study the seismic decoupling of the source by an order of magnitude has been illustrated. Finally, it is concluded that the seismic signals alone, in the absence of in-depth information of the local geology of the specific test site, are not appropriate measures of the source strength.</p>
+				</abstract>
+				<keywords>Underground nuclear explosion; transient finite element; fluid-structure interaction; Baneberry event; nuclear yield estimation; nuclear event discrimination.</keywords>
+				<allauthors>
+					<author lname="Singh" fname="R. K." isfellow="0">Singh, R. K.</author>
+					<author lname="Sikka" fname="S. K." isfellow="0">Sikka, S. K.</author>
+					<author lname="Kakodkar" fname="Anil" isfellow="0">Kakodkar, Anil</author>
+				</allauthors>
+			</entry>
+        </issue>
+        <issue inum="02" month="04" year="2014">
+			<entry issup="0">
+				<title>A new colour constancy algorithm based on automatic determination of gray framework parameters using neural network</title>
+				<feature></feature>
+				<page>0267-0281</page>
+				<abstract>
+					<p>Colour constancy is defined as the ability to estimate the actual colours of objects in an acquired image disregarding the colour of scene illuminant. Despite large variety of existing methods, no colour constancy algorithm can be considered as universal. Among the methods, the gray framework is one of the best-known and most used approaches. This framework has some parameters that should be set with appropriate values to achieve the best performance for each image. In this article, we propose a neural network-based algorithm that aims to automatically determine the best value of gray framework parameters for each image. It is a multi-level approach that estimates the optimal values for the gray framework parameters based on relevant features extracted from the input image. Experimental results on two popular colour constancy datasets show an acceptable improvement over state-of-the-art methods.</p>
+				</abstract>
+				<keywords>Colour constancy; illumination estimation; neural network; generalized gray world; classification.</keywords>
+				<allauthors>
+					<author lname="Faghih" fname="Mohammad Mehdi" isfellow="0">Faghih, Mohammad Mehdi</author>
+					<author lname="Khosravinia" fname="Zeynab" isfellow="0">Khosravinia, Zeynab</author>
+					<author lname="Moghaddam" fname="Mohsen Ebrahimi" isfellow="0">Moghaddam, Mohsen Ebrahimi</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An intelligent temporal pattern classification system using fuzzy temporal rules and particle swarm optimization</title>
+				<feature></feature>
+				<page>0283-0302</page>
+				<abstract>
+					<p>In this paper, we propose a new pattern classification system by combining Temporal features with Fuzzy Min–Max (TFMM) neural network based classifier for effective decision support in medical diagnosis. Moreover, a Particle Swarm Optimization (PSO) algorithm based rule extractor is also proposed in this work for improving the detection accuracy. Intelligent fuzzy rules are extracted from the temporal features with Fuzzy Min–Max neural network based classifier, and then PSO rule extractor is used to minimize the number of features in the extracted rules. We empirically evaluated the effectiveness of the proposed TFMM-PSO system using the UCI Machine Learning Repository Data Set. The results are analysed and compared with other published results. In addition, the detection accuracy is validated by using the ten-fold cross validation.</p>
+				</abstract>
+				<keywords>Temporal fuzzy min–max (TFMM) neural network; particle swarm optimization algorithm (PSOA); pattern classification; rule extraction.</keywords>
+				<allauthors>
+					<author lname="Ganapathy" fname="S." isfellow="0">Ganapathy, S.</author>
+					<author lname="Sethukkarasi" fname="R." isfellow="0">Sethukkarasi, R.</author>
+					<author lname="Yogesh" fname="P." isfellow="0">Yogesh, P.</author>
+					<author lname="Vijayakumar" fname="P." isfellow="0">Vijayakumar, P.</author>
+					<author lname="Kannan" fname="A." isfellow="0">Kannan, A.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Occlusion invariant face recognition using mean based weight matrix and support vector machine</title>
+				<feature></feature>
+				<page>0303-0315</page>
+				<abstract>
+					<p>In this paper, a novel occlusion invariant face recognition algorithm based on Mean based weight matrix (MBWM) technique is proposed. The proposed algorithm is composed of two phases$—$the occlusion detection phase and the MBWM based face recognition phase. A feature based approach is used to effectively detect partial occlusions for a given input face image. The input face image is first divided into a finite number of disjointed local patches, and features are extracted for each patch, and the occlusion present is detected. Features obtained from the corresponding occlusion-free patches of training images are used for face image recognition. The SVM classifier is used for occlusion detection for each patch. In the recognition phase, the MBWM bases of occlusion-free image patches are used for face recognition. Euclidean nearest neighbour rule is applied for the matching. GTAV face database that includes many occluded face images by sunglasses and hand are used for the experiment. The experimental results demonstrate that the proposed local patchbased occlusion detection technique works well and theMBWM based method shows superior performance to other conventional approaches.</p>
+				</abstract>
+				<keywords>Face recognition; occlusion detection; MBWM; SVM; LBP; SLBM.</keywords>
+				<allauthors>
+					<author lname="Priya" fname="G. Nirmala" isfellow="0">Priya, G. Nirmala</author>
+					<author lname="Banu" fname="R. S. D. Wahida" isfellow="0">Banu, R. S. D. Wahida</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A computationally efficient approach for template matching-based image registration</title>
+				<feature></feature>
+				<page>0317-0331</page>
+				<abstract>
+					<p>Image registration using template matching is an important step in image processing. In this paper, a simple, robust and computationally efficient approach is presented. The proposed approach is based on the properties of a normalized covariance matrix. The main advantage of the proposed approach is that the image matching can be achieved without calculating eigenvalues and eigenvectors of a covariance matrix, hence reduces the computational complexity. The experimental results show that the proposed approach performs better in the presence of various noises and rigid geometric transformations.</p>
+				</abstract>
+				<keywords>Normalized cross-correlation; similarity measure; eigenvalue; covariance matrix; template matching.</keywords>
+				<allauthors>
+					<author lname="Gaidhane" fname="Vilas H." isfellow="0">Gaidhane, Vilas H.</author>
+					<author lname="Hote" fname="Yogesh V." isfellow="0">Hote, Yogesh V.</author>
+					<author lname="Singh" fname="Vijander" isfellow="0">Singh, Vijander</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Multi region based image retrieval system</title>
+				<feature></feature>
+				<page>0333-0344</page>
+				<abstract>
+					<p>Multimedia information retrieval systems continue to be an active research area in the world of huge and voluminous data. The paramount challenge is to translate or convert a visual query from a human and find similar images or videos in large digital collection. In this paper, a technique of region based image retrieval, a branch of Content Based Image Retrieval, is proposed. The proposed model does not need prior knowledge or full semantic understanding of image content. It identifies significant regions in an image based on feature-based attention model which mimic viewer’s attention. The Curvelet Transform in combination with colour descriptors are used to represent each significant region in an image. Experimental results are analysed and compared with the state-of-the-art Region Based Image Retrieval Technique.</p>
+				</abstract>
+				<keywords>Content based image retrieval; curvelet transform; histogram intersection; region based image retrieval; significant region.</keywords>
+				<allauthors>
+					<author lname="Manipoonchelvi" fname="P." isfellow="0">Manipoonchelvi, P.</author>
+					<author lname="Muneeswaran" fname="K." isfellow="0">Muneeswaran, K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Fractional M-band dual tree complex wavelet transform for digital watermarking</title>
+				<feature></feature>
+				<page>0345-0361</page>
+				<abstract>
+					<p>In this paper, a novel digital watermarking scheme using fractional M-band dual tree complex wavelet transform (Fr-M-band-DT-CWT) is proposed. High frequency channels have wide bandwidth and low frequency channels have narrow bandwidth. These characteristics are suitable for analysing low frequency signal, but not for relatively high frequency signal. The images often contain many edges, which may cause rich middle and high frequency components in the 2-band wavelet domain. Therefore, the ordinary 2-band dual tree complex wavelet transform (DTCWT) is not well-suited for analysing the image. So, the M-band DT-CWT with the FrFT called Fr-M-band-DT-CWT is proposed in this paper to address this problem. Further, we integrate the Fr-M-band-DT-CWT with singular value decomposition (SVD) in order to enhance the performance. Experimental results of the proposed watermarking scheme are compared with the previously available watermarking algorithms, fractional Fourier transform (FrFT), fractional wavelet transform (FrWT). Further, the proposed watermark extraction scheme is also tested on different attacks. The results of the present investigations show that the proposed watermarking scheme is superior as compared to other existing watermarking schemes.</p>
+				</abstract>
+				<keywords>Fractional M-band dual tree complex wavelet transform (Fr-M-band-DT-CWT); fractional fourier transform (FrFT); fractional wavelet transform (FrWT); multiresolution watermarking.</keywords>
+				<allauthors>
+					<author lname="Singh" fname="Harpal" isfellow="0">Singh, Harpal</author>
+					<author lname="Kaur" fname="Lakhwinder" isfellow="0">Kaur, Lakhwinder</author>
+					<author lname="Singh" fname="Kulbir" isfellow="0">Singh, Kulbir</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+        </issue>
+    </volume>
 </jsd>
