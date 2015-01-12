@@ -11103,5 +11103,205 @@
 				</allauthors>
 			</entry>
         </issue>
+        <issue inum="03" month="06" year="2014">
+			<entry issup="0">
+				<title>Why Sadhana?</title>
+				<feature></feature>
+				<page>0531-0532</page>
+				<abstract />
+				<keywords />
+				<allauthors>
+					<author lname="Viswanadham" fname="N." isfellow="0">Viswanadham, N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Particle swarm optimization of a neural network model in a machining process</title>
+				<feature></feature>
+				<page>0533-0548</page>
+				<abstract>
+					<p>This paper presents a particle swarm optimization (PSO) technique to train an artificial neural network (ANN) for prediction of flank wear in drilling, and compares the network performance with that of the back propagation neural network (BPNN). This analysis is carried out following a series of experiments employing high speed steel (HSS) drills for drilling on mild steel workpieces, under different sets of cutting conditions and noting the root mean square (RMS) value of spindle motor current as well as the average flank wear in each case. The results show that the PSO trained ANN not only gives better prediction results and reduced computational times compared to the BPNN, it is also a more robust model, being free of getting trapped in local optimum solutions unlike the latter. Besides, it offers the advantages of a straight-forward logic, simple realization and underlying intelligence.</p>
+				</abstract>
+				<keywords>Particle swarm optimization; artificial neural network; back propagation algorithm; flank wear; drilling.</keywords>
+				<allauthors>
+					<author lname="Garg" fname="Saurabh" isfellow="0">Garg, Saurabh</author>
+					<author lname="Patra" fname="Karali" isfellow="0">Patra, Karali</author>
+					<author lname="Pal" fname="Surjya K." isfellow="0">Pal, Surjya K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study of liquid fuel transport in a small carburetted engine in the context of cold-start HC emission control</title>
+				<feature></feature>
+				<page>0549-0571</page>
+				<abstract>
+					<p>In the present study, a detailed visualization of the transport of fuel film has been performed in a small carburetted engine with a transparent manifold at the exit of the carburettor. The presence of fuel film is observed significantly on the lower half of the manifold at idling, while at load conditions, the film is found to be distributed all throughout the manifold walls. Quantitative measurement of the fuel film in a specially-designed manifold of square cross section has also been performed using the planar laser-induced fluorescence (PLIF) technique. The measured fuel film thickness is observed to be of the order of 1 mm at idling, and in the range of 0.1 to 0.4 mm over the range of load and speed studied. These engine studies are complemented by experiments conducted in a carburettor rig to study the state of the fuel exiting the carburettor. Laser-based Particle/Droplet Image Analysis (PDIA) technique is used to identify fuel droplets and ligaments and estimate droplet diameters. At a throttle position corresponding to idling, the fuel exiting the carburettor is found to consist of very fine droplets of size less than 15 $\mu$m and large fuel ligaments associated with length scales of the order of 500 $\mu$m and higher. For a constant pressure difference across the carburettor, the fuel consists of droplets with an SMD of the order of 30 $\mu$m. Also, the effect of liquid fuel film on the cold start HC emissions is studied. Based on the understanding obtained from these studies, strategies such as manifold heating and varying carburettor main jet nozzle diameter are implemented. These are observed to reduce emissions under both idling and varying load conditions.</p>
+				</abstract>
+				<keywords>Carburettor; small engines; cold-start HC emissions; fuel film visualization; PLIF; PDIA; droplet sizing; backlit visualization.</keywords>
+				<allauthors>
+					<author lname="Tewari" fname="Sumit" isfellow="0">Tewari, Sumit</author>
+					<author lname="Anand" fname="T. N. C." isfellow="0">Anand, T. N. C.</author>
+					<author lname="Nishikant" fname="M. P." isfellow="0">Nishikant, M. P.</author>
+					<author lname="Ravikrishna" fname="R. V." isfellow="0">Ravikrishna, R. V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A method for unbalanced transportation problems in fuzzy environment</title>
+				<feature></feature>
+				<page>0573-0581</page>
+				<abstract>
+					<p>In this paper, we consider the fully fuzzy unbalanced transportation problem in which the total availability/production is more than the total demand and propose a method to solve it. Such problems are usually solved by adding a dummy destination. Since the dummy destination has no existence in reality, the excess availability is not transported at all and is held back at one or more origins. The method proposed in this paper gives the additional information that to which of the destination(s) the excess availability be transported for future demand at minimum cost. The advantage of the proposed method over the existing method is that the fuzzy optimal solution obtained does not involve the dummy destination. The method has been illustrated with the help of an example.</p>
+				</abstract>
+				<keywords>Trapezoidal fuzzy number; fully fuzzy transportation problem; fuzzy optimal solution.</keywords>
+				<allauthors>
+					<author lname="Rani" fname="Deepika" isfellow="0">Rani, Deepika</author>
+					<author lname="Gulati" fname="T. R." isfellow="0">Gulati, T. R.</author>
+					<author lname="Kumar" fname="Amit" isfellow="0">Kumar, Amit</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Buckling analysis of rectangular composite plates with rectangular cutout subjected to linearly varying in-plane loading using fem</title>
+				<feature></feature>
+				<page>0583-0596</page>
+				<abstract>
+					<p>A numerical study is carried out using finite element method, to examine the effects of square and rectangular cutout on the buckling behavior of a sixteen ply quasi-isotropic graphite/epoxy symmetrically laminated rectangular composite plate $[0\circ/+45\circ/-45\circ/90\circ]_{2s}$, subjected to various linearly varying in-plane compressive loads. Further, this paper addresses the effects of size of square/rectangular cutout, orientation of square/rectangular cutout, plate aspect ratio(a/b), plate length/thickness ratio(a/t), boundary conditions on the buckling bahaviour of symmetrically laminated rectangular composite plates subjected to various linearly varying in-plane compressive loading. It is observed that the various linearly varying in-plane loads and boundary conditions have a substantial influence on buckling strength of rectangular composite plate with square/rectangular cutout.</p>
+				</abstract>
+				<keywords>Buckling; rectangular cutout; linearly varying in-plane load; boundary conditions symmetrically laminated rectangular composite plates; finite element analysis; quasi-isotropic.</keywords>
+				<allauthors>
+					<author lname="Narayana" fname="A. Lakshmi" isfellow="0">Narayana, A. Lakshmi</author>
+					<author lname="Rao" fname="Krishnamohana" isfellow="0">Rao, Krishnamohana</author>
+					<author lname="Kumar" fname="R. Vijaya" isfellow="0">Kumar, R. Vijaya</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Stability analysis of non-axisymmetric three-dimensional finite element rotor models with partial and full mass lumping</title>
+				<feature></feature>
+				<page>0597-0606</page>
+				<abstract>
+					<p>Unlike structural dynamics, the three-dimensional finite-element model of non-axisymmetric rotors on orthotropic bearings generates a large gyroscopic system with parametric stiffness. The present work explores the use of mass-lumping in stability analysis of such systems. Using a variant of Hill’s method, the problem reduces to a generalized Eigen value problem of order $nm \times nm$, with $n$ as the order of the system in state vector representation and $m$ as the number of terms in the assumed solution. The matrices in both the sides of the Eigen value problem are expressed in terms of Kronecker products where the mass-matrix appears twice as a sub-matrix in both the sides of the equation. A particular one or both of them can be made diagonal. Both options produce sufficiently accurate results with considerable savings, even with a coarse mesh.</p>
+				</abstract>
+				<keywords>Non-axisymmetric rotor; stability; Campbell diagram; threedimensional finite element; mass lumping.</keywords>
+				<allauthors>
+					<author lname="Ganguly" fname="Smitadhi" isfellow="0">Ganguly, Smitadhi</author>
+					<author lname="Nandi" fname="A." isfellow="0">Nandi, A.</author>
+					<author lname="Neogy" fname="S." isfellow="0">Neogy, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An exact dynamic stiffness matrix for axially loaded double-beam systems</title>
+				<feature></feature>
+				<page>0607-0623</page>
+				<abstract>
+					<p>An exact dynamic stiffness method is presented in this paper to determine the natural frequencies and mode shapes of the axially loaded double-beam systems,which consist of two homogeneous and prismatic beams with a distributed spring in parallel between them.The effects of the axial force, shear deformation and rotary inertia are considered, as shown in the theoretical formulation. The dynamic stiffness influence coefficients are formulated from the governing differential equations of the axially loaded double-beam system in free vibration by using the Laplace transform method. An example is given to demonstrate the effectiveness of this method, in which ten boundary conditions are investigated and the effect of the axial force on the natural frequencies and mode shapes of the double-beam system are further discussed.</p>
+				</abstract>
+				<keywords>Double-beam system; Timoshenko beam; axial force; dynamic stiffness matrix; free vibration.</keywords>
+				<allauthors>
+					<author lname="Xiaobin" fname="Li" isfellow="0">Xiaobin, Li</author>
+					<author lname="Shuangxi" fname="Xu" isfellow="0">Shuangxi, Xu</author>
+					<author lname="Weiguo" fname="Wu" isfellow="0">Weiguo, Wu</author>
+					<author lname="Jun" fname="Li" isfellow="0">Jun, Li</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Parametric and mechanical characterization of linear low density polyethylene (LLDPE) using rotational moulding technology</title>
+				<feature></feature>
+				<page>0625-0635</page>
+				<abstract>
+					<p>In this research work, extensive literature review of the rotational moulding process using linear low density polythene (LLDPE) has been carried out to summarize the present status of the characterization in order to maintain quality and reliability of the products.The present characterization of rotomoulded products using LLDPE is based on the mechanical properties which are being altered by changing process parameters. However, it is observed that in the majority of applications of the products made of LLDPE using rotational moulding technology are prone to cracking failure due to manufacturing defects at room temperature. Therefore, study of fracture characterization of the material is equally important in relation to quality and reliability. In this article, the present characterization of the rotational moulded products using different polymers is summarized in the form of review and the importance of evaluation of the fracture behaviour of rotomoulded products is emphasized.</p>
+				</abstract>
+				<keywords>Rotational moulding; LLDPE; process parameters; mechanical properties; fracture characteristics.</keywords>
+				<allauthors>
+					<author lname="Ramkumar" fname="P. L." isfellow="0">Ramkumar, P. L.</author>
+					<author lname="Kulkarni" fname="D. M." isfellow="0">Kulkarni, D. M.</author>
+					<author lname="Chaudhari" fname="V. V." isfellow="0">Chaudhari, V. V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Design of RC frames for pre-selected collapse mechanism and target displacement using energy–balance</title>
+				<feature></feature>
+				<page>0637-0657</page>
+				<abstract>
+					<p>In earthquake-prone countries, structures may be exposed to several seismic loads in any stage of building’s life. It is expected that the structures designed by engineers will show ductile behaviour under the effect of vertical and lateral loads and remain stable without making a sudden collapse. In consequence of nonlinear behaviour, plastic hinges are expected to form in structural members which are under the effect of external loads. Earthquake input energy is dissipated in plastic hinges, so, structures behave ductile. In this study, total energy of RC frames is calculated and the energy–based base shear force is determined by equating the total internal energy to the work done by external lateral design forces for pre-selected target displacement and collapse mechanism. Sections of RC frames are controlled if they can resist the calculated design lateral loads or not. If the capacity of the sections cannot withstand the external design loads, the design is rearranged and new sections are chosen. Beam and column sections that can resist the design loads securely are accepted as final sections of the energy–based design methodology. Pre-selected target displacement for desired performance level is checked using the results of nonlinear analyses. The results of the presented design methodology in this study are compatible with the results of nonlinear analyses.</p>
+				</abstract>
+				<keywords>Plastic hinge; earthquake input energy; energy–based base shear; nonlinear static pushover analysis; nonlinear dynamic time history analysis.</keywords>
+				<allauthors>
+					<author lname="Merter" fname="Onur" isfellow="0">Merter, Onur</author>
+					<author lname="Ucar" fname="Taner" isfellow="0">Ucar, Taner</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Behavioural analysis of a time series–A chaotic approach</title>
+				<feature></feature>
+				<page>0659-0676</page>
+				<abstract>
+					<p>Out of the various methods available to study the chaotic behaviour, correlation dimension method (CDM) derived from Grassberger-Procaccia algorithm and False Nearest Neighbour method (FNN) are widely used. It is aimed to study the adaptability of those techniques for Indian rainfall data that is dominated by monsoon. In the present study, five sets of time series data are analyzed using correlation dimension method (CDM) based upon Grassberger-Procaccia algorithm for studying their behaviour. In order to confirm the results arrived from correlation dimension method, FNN and phase randomisation method is also applied to the time series used in the present study to fix the optimum embedding dimension. First series is a deterministic natural number series, the next two series are random number series with two types of distributions; one is uniform and another is normal distributed random number series. The fourth series is Henon data, an erratic data generated from a deterministic non linear equation (classified as chaotic series). After checking the applicability of correlation dimension method for deterministic, stochastic and chaotic data (known series) the method is applied to a rainfall time series observed at Koyna station, Maharashtra, India for its behavioural study. The results obtained from the chaotic analysis revealed that CDM is an efficient method for behavioural study of a time series. It also provides first hand information on the number of dimensions to be considered for time series prediction modelling. The CDM applied to real life rainfall data brings out the nature of rainfall at Koyna station as chaotic. For the rainfall data, CDM resulted in a minimum correlation dimension of one and optimum dimension as five. FNN method also resulted in five dimensions for the rainfall data. The behaviour of the rainfall time series is further confirmed by phase randomisation technique also. The surrogate data derived from randomisation gives entirely different results when compared to the other two techniques used in the present study (CDM and FNN) which confirms the behaviour of rainfall as chaotic. It is also seen that CDM is underestimating the correlation dimension, may be due to higher percentage of zero values in rainfall data. Thus, one should appropriately check the adaptability of CDM for time series having longer zero values.</p>
+				</abstract>
+				<keywords>Chaos; correlation dimension method; false nearest neighbour method; phase randomization; embedding dimension; correlation exponent; correlation dimension; daily rainfall data; India.</keywords>
+				<allauthors>
+					<author lname="Fathima" fname="T. A." isfellow="0">Fathima, T. A.</author>
+					<author lname="Jothiprakash" fname="V." isfellow="0">Jothiprakash, V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Elastic properties of RCC under flexural loading-experimental and analytical approach</title>
+				<feature></feature>
+				<page>0677-0697</page>
+				<abstract>
+					<p>In structural analysis,especially in indeterminate structures, it becomes essential to know material and geometrical properties of members. The codal provisions recommend elastic properties of concrete and steel and these are fairly accurate enough. The stress–strain curve for concrete cylinder or a cube specimen is plotted. The slope of this curve is modulus of elasticity of plain concrete. Another method of determining modulus of elasticity of concrete is by flexural test of a beam specimen. The modulus of elasticity most commonly used for concrete is secant modulus. The modulus of elasticity of steel is obtained by performing a tension test of steel bar. While performing analysis by any software for high rise building, cross area of plain concrete is taken into consideration whereas effects of reinforcement bars and concrete confined by stirrups are neglected. The aim of study is to determine elastic properties of reinforced cement concrete material. Two important stiffness properties such as AE and EI play important role in analysis of high rise RCC building idealized as plane frame. The experimental programme consists of testing of beams (model size 150 $\times$ 150 $\times$ 700 mm) with percentage of reinforcement varying from 0.54 to 1.63%. The experimental results are verified by using 3D finite element techniques. This study refers to the effect of variation of percentage of main longitudinal reinforcement and concrete grade. Effect of confinement is not considered and it appears in a separate study.</p>
+				</abstract>
+				<keywords>Indeterminate structures; elastic properties; stiffness properties.</keywords>
+				<allauthors>
+					<author lname="Kulkarni" fname="S. K." isfellow="0">Kulkarni, S. K.</author>
+					<author lname="Shiyekar" fname="M. R." isfellow="0">Shiyekar, M. R.</author>
+					<author lname="Shiyekar" fname="S. M." isfellow="0">Shiyekar, S. M.</author>
+					<author lname="Wagh" fname="B." isfellow="0">Wagh, B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Applying the digital-image-correlation technique to measure the deformation of an old building’s column retrofitted with steel plate in an $in situ$ pushover test</title>
+				<feature></feature>
+				<page>0699-0711</page>
+				<abstract>
+					<p>An $in situ$ pushover test is carried out on an old building of Guan-Miao elementary school in south Taiwan. Columns of this building are seismically retrofitted with steel plate. The DIC (digital-image-correlation) technique is used to measure the deformation of the retrofitted column. The result shows that the DIC technique can be successfully applied to measure the relative displacement of the column. Additionally, thismethod leads to the measurement of relative displacements formany points on the column simultaneously. Hence, the column deformation curve, rotation and curvature can be determined using interpolation method. The resulting curvaturediagram reveals that the phenomenon of plastic hinge occurs at about 2% storey drift ratio, and that the DIC technique can be applied to measure column deformation in a full scale $in situ$ test.</p>
+				</abstract>
+				<keywords>Digital-image-correlation technique; full scale $in situ$ test; push-over test; non-contact measurement technique.</keywords>
+				<allauthors>
+					<author lname="Tung" fname="Shih-Heng" isfellow="0">Tung, Shih-Heng</author>
+					<author lname="Shih" fname="Ming-Hsiang" isfellow="0">Shih, Ming-Hsiang</author>
+					<author lname="Sung" fname="Wen-Pei" isfellow="0">Sung, Wen-Pei</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Turbulent jet in confined counterflow</title>
+				<feature></feature>
+				<page>0713-0729</page>
+				<abstract>
+					<p>The mean flowfield of a turbulent jet issuing into a confined, uniform counterflow was investigated computationally. Based on dimensional analysis, the jet penetration length was shown to scale with jet-to-counterflow momentum flux ratio. This scaling and the computational results reproduce the well-known correct limit of linear growth of the jet penetration length for the unconfined case when the momentum flux ratio is small. However, for the high momentum flux ratio case corresponding to the confinement, the jet penetration length is shown to reach an asymptotic limit of about 3.57 times the confining duct diameter. This conclusion is contrary to the existing results which predict indefinite growth. A simple modification of an existing similarity solution for the jet in an unconfined counterflow provides a convenient framework for presenting the results of the flowfield and jet penetration length.</p>
+				</abstract>
+				<keywords>Turbulent jet; counterflow; penetration length; computational fluid dynamics; similarity solution.</keywords>
+				<allauthors>
+					<author lname="Sivapragasam" fname="M." isfellow="0">Sivapragasam, M.</author>
+					<author lname="Deshpande" fname="M. D." isfellow="0">Deshpande, M. D.</author>
+					<author lname="Ramamurthy" fname="S." isfellow="0">Ramamurthy, S.</author>
+					<author lname="White" fname="P." isfellow="0">White, P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Probability density fittings of corrosion test-data: Implications on $C_6H_{15}NO_3$ effectiveness on concrete steel-rebar corrosion</title>
+				<feature></feature>
+				<page>0731-0764</page>
+				<abstract>
+					<p>In this study, corrosion test-data of steel-rebar in concrete were subjected to the fittings of the Normal, Gumbel and the Weibull probability distribution functions. This was done to investigate the suitability of the results of the fitted test-data, by these distributions, for modelling the effectiveness of $C_6H_{15}NO_3$, triethanolamine (TEA), admixtures on the corrosion of steel-rebar in concrete in $NaCl$ and in $H_2SO_4$ test-media. For this, six different concentrations of TEA were admixed in replicates of steel-reinforced concrete samples which were immersed in the saline/marine and the microbial/industrial simulating test-environments for seventy-five days. From these, distribution fittings of the non-destructive electrochemical measurements were subjected to the Kolmogorov–Smirnov goodness-of-fit statistics and to the analyses of variance modelling for studying test-data compatibility to the fittings and testing significance. Although all fittings of test-data followed similar trends of significant testing, the fittings of the corrosion rate test data followed the Weibull more than the Normal and the Gumbel distribution fittings, thus supporting use of the Weibull fittings for modelling effectiveness. The effectiveness models on rebar corrosion, based on these, identified 0.083% TEA with optimal inhibition efficiency, $\eta =$ 72.17$\pm$10.68%, in $NaCl$ medium while 0.667% TEA was the only admixture with positive effectiveness, $\eta =$ 56.45$\pm$15.85%, in $H_2SO_4$ medium. These results bear implications on the concentrations of TEA for effective corrosion protection of concrete steel-rebar in saline/marine and in industrial/microbial environments.</p>
+				</abstract>
+				<keywords>Steel-reinforced concrete; probability distribution functions; corrosion test-data; triethanolamine admixture; corrosion inhibitor effectiveness; statistical tests of significance.</keywords>
+				<allauthors>
+					<author lname="Okeniyi" fname="Joshua Olusegun" isfellow="0">Okeniyi, Joshua Olusegun</author>
+					<author lname="Ambrose" fname="Idemudia Joshua" isfellow="0">Ambrose, Idemudia Joshua</author>
+					<author lname="Okpala" fname="Stanley Okechukwu" isfellow="0">Okpala, Stanley Okechukwu</author>
+					<author lname="Omoniyi" fname="Oluwafemi Michael" isfellow="0">Omoniyi, Oluwafemi Michael</author>
+					<author lname="Oladele" fname="Isaac Oluwaseun" isfellow="0">Oladele, Isaac Oluwaseun</author>
+					<author lname="Loto" fname="Cleophas Akintoye" isfellow="0">Loto, Cleophas Akintoye</author>
+					<author lname="Popoola" fname="Patricia Abimbola Idowu" isfellow="0">Popoola, Patricia Abimbola Idowu</author>
+				</allauthors>
+			</entry>
+        </issue>
     </volume>
 </jsd>
