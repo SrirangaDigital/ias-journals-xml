@@ -1,0 +1,4030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cs SYSTEM "jg.dtd">
+
+<jg>
+	<volume vnum="079">
+		<issue inum="01" month="04" year="2000">
+			<entry issup="0">
+				<title>Stationary-State Mutagenesis in \textit{Escherichia coli}: a model</title>
+				<feature></feature>
+				<page>0001-0007</page>
+				<abstract>
+					<p>Stationary-phase mutagenesis in nondividing E. coli cells exposed to a nonlethal stress was, a few years ago, claimed to be a likely case of a Lamarckian mechanism capable of producing exclusively useful mutations in a directed manner. After a heated debate over the last decade it now appears to involve a Darwinian mechanism that generates a transient state of hypermutagenesis, operating on a large number of sites spread over the entire genome, at least in a proportion of the resting cells. Most of the studies that clarified this position were on the reversion of a frameshift mutation present in a lacI -- lacZ fusion in E. coli strain FC40. Several groups have extensively examined both the sequence changes associated with these reversions and the underlying genetic requirements. On the basis of our studies on the genomic sequence analysis, we recently proposed a model to explain the specific changes associated with the reversion hotspots. Here we propose a more detailed version of this model that also takes into account the observed genetic requirements of stationary-state mutagenesis. Briefly, G:T/U mismatches produced at methylatable cytosines are preferentially repaired in nondividing cells by the very short patch mismatch repair (VSPMR) mechanism which is itself mutagenic and can produce mutations in very short stretches located in the immediate vicinity of these cytosine methylation sites. This mechanism requires a homologous or homeologous strand invasion step and an error-prone DNA synthesis step and is dependent on RecA, RecBCD and a DNA polymerase. The process is initiated near sequences recognized by Dcm and Vsr enzymes and further stimulated if these sequences are a part of CHI or CHI-like sequences, but a double-strand-break-dependent recombination mediated by the RecBCD pathways proposed by others seems to be nonessential. The strand transfer step is proposed to depend on RecA, RuvA, RuvB and RuvC and is opposed by RecG and MutS. The model also gives interesting insights into the evolution of the E. coli genome.</p>
+				</abstract>
+				<keywords>stationary-phase mutagenesis; genome evolution; adaptive mutagenesis; mismatch repair; CHI sequence; E. coli ; cytosine methylation.</keywords>
+				<allauthors>
+					<author lname="Mahajan" fname="S. K." isfellow="0">Mahajan, S. K.</author>
+					<author lname="Rao" fname="A. V. S. S. Narayana" isfellow="0">Rao, A. V. S. S. Narayana</author>
+					<author lname="Bhattacharjee" fname="S. K." isfellow="0">Bhattacharjee, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2000">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2000">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2000">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="080">
+		<issue inum="01" month="03" year="2001">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2001">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2001">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2001">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="081">
+		<issue inum="01" month="03" year="2002">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2002">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2002">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2002">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="082">
+		<issue inum="01" month="03" year="2003">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2003">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2003">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2003">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="083">
+		<issue inum="01" month="03" year="2004">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2004">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2004">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2004">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="084">
+		<issue inum="01" month="03" year="2005">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2005">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2005">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2005">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="085">
+		<issue inum="01" month="03" year="2006">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2006">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2006">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2006">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="086">
+		<issue inum="01" month="03" year="2007">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2007">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2007">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2007">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="087">
+		<issue inum="01" month="03" year="2008">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2008">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2008">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2008">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="088">
+		<issue inum="01" month="03" year="2009">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2009">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2009">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2009">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="089">
+		<issue inum="01" month="03" year="2010">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2010">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2010">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2010">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="090">
+		<issue inum="01" month="03" year="2011">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2011">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2011">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2011">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="091">
+		<issue inum="01" month="03" year="2012">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2012">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2012">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2012">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="092">
+		<issue inum="01" month="03" year="2013">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2013">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2013">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2013">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="093">
+		<issue inum="01" month="03" year="2014">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2014">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2014">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2014">
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature></feature>
+				<page>0457-0469</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
+					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+</jg> 
