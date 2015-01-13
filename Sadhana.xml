@@ -10388,7 +10388,7 @@
 				<feature></feature>
 				<page>1067-1082</page>
 				<abstract>
-                    <p>An experimental study of flow boiling through diverging microchannel has been carried out in this work, with the aim of understanding boiling in nonuniform cross-section microchannel. Diverging microchannel of $4^\circ $ of divergence angle and $146 \mu m$ hydraulic diameter (calculated at mid-length) has been employed for the present study with deionised water as working fluid. Effect of mass flux ($118–1182 kg/m^2-s$) and heat flux ($1.6–19.2 W/cm^2$) on single and two-phase pressure drop and average heat transfer coefficient has been studied. Concurrently, flow visualization is carried out to document the various flow regimes and to correlate the pressure drop and average heat transfer coefficient to the underlying flow regime. Four flow regimes have been identified from the measurements: bubbly, slug, slug–annular and periodic dry-out/ rewetting. Variation of pressure drop with heat flux shows one maxima which corresponds to transition from bubbly to slug flow. It is shown that significantly large heat transfer coefficient (up to $107 kW/m^2-K$) can be attained for such systems, for small pressure drop penalty and with good flow stability.</p>
+                    <p>An experimental study of flow boiling through diverging microchannel has been carried out in this work, with the aim of understanding boiling in nonuniform cross-section microchannel. Diverging microchannel of $4^\circ $ of divergence angle and $146 \mu m$ hydraulic diameter (calculated at mid-length) has been employed for the present study with deionised water as working fluid. Effect of mass flux ($118–1182 kg/m^2$-s) and heat flux ($1.6–19.2 W/cm^2$) on single and two-phase pressure drop and average heat transfer coefficient has been studied. Concurrently, flow visualization is carried out to document the various flow regimes and to correlate the pressure drop and average heat transfer coefficient to the underlying flow regime. Four flow regimes have been identified from the measurements: bubbly, slug, slug–annular and periodic dry-out/ rewetting. Variation of pressure drop with heat flux shows one maxima which corresponds to transition from bubbly to slug flow. It is shown that significantly large heat transfer coefficient (up to $107 kW/m^2$-K) can be attained for such systems, for small pressure drop penalty and with good flow stability.</p>
                 </abstract>
 				<keywords>Diverging microchannel; two-phase flow; pressure drop; flow regimes; flow instability.</keywords>
 				<allauthors>
@@ -10470,7 +10470,7 @@
 				<feature></feature>
 				<page>1241-1257</page>
 				<abstract>
-                    <p>Fast breeder reactors (FBRs) are provided with redundant and diverse plant protection systems with a very low failure probability ($\le 10^{−6}$/reactor year), making core disruptive accident (CDA), a beyond design basis event (BDBE). Nevertheless, safety analysis is carried out even for such events with a view to mitigate their consequences by providing engineered safeguards like the in-vessel core catcher. During a CDA, a significant fraction of the hot molten fuel moves downwards and gets relocated to the lower plate of grid plate. The ability of this plate to resist or delay relocation of core melt further has been investigated by developing appropriate mathematical models and translating them into a computer code HEATRAN-1. The core melt is a time dependent volumetric heat source because of the radioactive decay of the fission products which it contains. The code solves the nonlinear heat conduction equation including phase change. The analysis reveals that if the bottom of grid plate is considered to be adiabatic, melt-through of grid plate (i.e., melting of the entire thickness of the plate) occurs between 800 s and 1000 s depending upon the initial conditions. Knowledge of this time estimate is essential for defining the initial thermal load on the core catcher plate. If heat transfer from the bottom of grid plate to the underlying sodium is taken into account, then melt-through does not take place, but the temperature of grid plate is high enough to cause creep failure.</p>
+                    <p>Fast breeder reactors (FBRs) are provided with redundant and diverse plant protection systems with a very low failure probability (&lt;$10^{−6}$/reactor year), making core disruptive accident (CDA), a beyond design basis event (BDBE). Nevertheless, safety analysis is carried out even for such events with a view to mitigate their consequences by providing engineered safeguards like the in-vessel core catcher. During a CDA, a significant fraction of the hot molten fuel moves downwards and gets relocated to the lower plate of grid plate. The ability of this plate to resist or delay relocation of core melt further has been investigated by developing appropriate mathematical models and translating them into a computer code HEATRAN-1. The core melt is a time dependent volumetric heat source because of the radioactive decay of the fission products which it contains. The code solves the nonlinear heat conduction equation including phase change. The analysis reveals that if the bottom of grid plate is considered to be adiabatic, melt-through of grid plate (i.e., melting of the entire thickness of the plate) occurs between 800 s and 1000 s depending upon the initial conditions. Knowledge of this time estimate is essential for defining the initial thermal load on the core catcher plate. If heat transfer from the bottom of grid plate to the underlying sodium is taken into account, then melt-through does not take place, but the temperature of grid plate is high enough to cause creep failure.</p>
                 </abstract>
 				<keywords>Core disruptive accident; grid plate; melt-through; natural convection; enthalpy method.</keywords>
 				<allauthors>
@@ -10518,11 +10518,11 @@
 				</allauthors>
 			</entry>
             <entry issup="0">
-				<title>Cold test of cylindrical open resonator for $42 GHz$, $200 kW$ gyrotron</title>
+				<title>Cold test of cylindrical open resonator for 42 GHz, 200 kW gyrotron</title>
 				<feature></feature>
 				<page>1347-1356</page>
 				<abstract>
-                    <p>This paper presents experimental results for cold testing of a gyrotron open resonator. Experiments were carried out to measure resonant frequency and their particular quality factor for TE mode at the frequency $42 GHz$. The perturbation technique was used to determine the axial, radial and azimuthal electric field profile for identification of $TE_{031}$ mode at operating frequency $42 GHz$. The good agreement between experimental results and theoretical studies was found. The results verify the design and fabrication of the specific gyrotron cavity.</p>
+                    <p>This paper presents experimental results for cold testing of a gyrotron open resonator. Experiments were carried out to measure resonant frequency and their particular quality factor for TE mode at the frequency 42 GHz. The perturbation technique was used to determine the axial, radial and azimuthal electric field profile for identification of $TE_{031}$ mode at operating frequency 42 GHz. The good agreement between experimental results and theoretical studies was found. The results verify the design and fabrication of the specific gyrotron cavity.</p>
                 </abstract>
 				<keywords>Gyrotron; resonator; electric field profile; perturbation technique.</keywords>
 				<allauthors>
@@ -10542,7 +10542,7 @@
 				<feature></feature>
 				<page>1357-1368</page>
 				<abstract>
-                    <p>Heat dissipation enhancement of LED luminaries is of great significance to the large-scale application of LED. Luminaries-level structure improvement by the method of boring through-hole is adopted to intensify heat dissipation. Furthermore, the natural convection heat transfer process of LED luminaries is simulated by computational fluid dynamics (CFD) model before and after the structural modification. As shown by computational results, boring through-hole is beneficial to develop bottomto-top natural convection, eliminate local circumfluence, and finally form better flow pattern. Analysis based on field synergy principle shows that boring through-hole across LED luminaries improves the synergy between flow field and temperature field, and effectively decreases the thermal resistance of luminaries-level heat dissipation structure. Under the same computational conditions, by luminaries-level structure improvement the highest temperature of heat sink is decreased by about $8\circ C$ and the average heat transfer coefficient is increased by 45.8\%\.</p>
+                    <p>Heat dissipation enhancement of LED luminaries is of great significance to the large-scale application of LED. Luminaries-level structure improvement by the method of boring through-hole is adopted to intensify heat dissipation. Furthermore, the natural convection heat transfer process of LED luminaries is simulated by computational fluid dynamics (CFD) model before and after the structural modification. As shown by computational results, boring through-hole is beneficial to develop bottomto-top natural convection, eliminate local circumfluence, and finally form better flow pattern. Analysis based on field synergy principle shows that boring through-hole across LED luminaries improves the synergy between flow field and temperature field, and effectively decreases the thermal resistance of luminaries-level heat dissipation structure. Under the same computational conditions, by luminaries-level structure improvement the highest temperature of heat sink is decreased by about $8^\circ C$ and the average heat transfer coefficient is increased by 45.8%.</p>
                 </abstract>
 				<keywords>LED; computational fluid dynamics; luminaire; field synergy; natural convection.</keywords>
 				<allauthors>
@@ -10558,7 +10558,7 @@
 				<feature></feature>
 				<page>1369-1391</page>
 				<abstract>
-                    <p>Submerged arc welding (SAW) is a fusion joining process, known for its high deposition capabilities. This process is useful in joining thick section components used in various industries. Besides joining, SAW can also be used for surfacing applications. Heat Affected Zone (HAZ) produced within the base metal as a result of tremendous heat of arc is of big concern as it affects the performance of welded$/$surfaced structure in service due to metallurgical changes in the affected region. This work was carried out to investigate the effect of polarity and other SAW parameters on HAZ size and dilution and to establish their correlations. Influence of heat input on dilution and heat affected zone was then carried out. Four levels of heat input were used to study their effect on \%\ dilution and HAZ area at both the electrode positive and electrode negative polarities. Proper management of heat input in welding is important, because power sources can be used more efficiently if one knows how the same heat input can be applied to get the better results. Empirical models have been developed using statistical technique.</p>
+                    <p>Submerged arc welding (SAW) is a fusion joining process, known for its high deposition capabilities. This process is useful in joining thick section components used in various industries. Besides joining, SAW can also be used for surfacing applications. Heat Affected Zone (HAZ) produced within the base metal as a result of tremendous heat of arc is of big concern as it affects the performance of welded$/$surfaced structure in service due to metallurgical changes in the affected region. This work was carried out to investigate the effect of polarity and other SAW parameters on HAZ size and dilution and to establish their correlations. Influence of heat input on dilution and heat affected zone was then carried out. Four levels of heat input were used to study their effect on % dilution and HAZ area at both the electrode positive and electrode negative polarities. Proper management of heat input in welding is important, because power sources can be used more efficiently if one knows how the same heat input can be applied to get the better results. Empirical models have been developed using statistical technique.</p>
                 </abstract>
 				<keywords>Submerged arc welding; weld dilution; electrode polarity; heat affected zone.</keywords>
 				<allauthors>
@@ -10571,7 +10571,7 @@
 				<feature></feature>
 				<page>1393-1405</page>
 				<abstract>
-                    <p>This paper proposes a new slip factor based three-dimensional thermal model to predict the temperature distribution during friction stir welding of 304L stainless steel plates. The proposed model employs temperature and radius dependent heat source to study the thermal cycle, temperature distribution, power required, the effect of process parameters on heat generation per mm length of the weld and peak temperature during the friction stir welding process. Simulations of friction stir welding process were carried out on 304L stainless steel workpieces for various rotational and welding speeds. The predicted thermal cycle, power required and temperature distributions were found to be in good agreement with the experimental results. The heat generation per mm length of weld and peak temperature were found to be directly proportional to rotational speed and inversely proportional to welding speed. The rate of increase in heat generation per mm length of the weld and peak temperature are found to be higher at lower rotational speeds and lower at higher rotational speed. The heat generation during friction stir welding was found to be 80.8 \%\ at shoulder, 16.1 \%\ at pin side and 3.1 \%\ at the bottom of the pin.</p>
+                    <p>This paper proposes a new slip factor based three-dimensional thermal model to predict the temperature distribution during friction stir welding of 304L stainless steel plates. The proposed model employs temperature and radius dependent heat source to study the thermal cycle, temperature distribution, power required, the effect of process parameters on heat generation per mm length of the weld and peak temperature during the friction stir welding process. Simulations of friction stir welding process were carried out on 304L stainless steel workpieces for various rotational and welding speeds. The predicted thermal cycle, power required and temperature distributions were found to be in good agreement with the experimental results. The heat generation per mm length of weld and peak temperature were found to be directly proportional to rotational speed and inversely proportional to welding speed. The rate of increase in heat generation per mm length of the weld and peak temperature are found to be higher at lower rotational speeds and lower at higher rotational speed. The heat generation during friction stir welding was found to be 80.8 % at shoulder, 16.1 % at pin side and 3.1 % at the bottom of the pin.</p>
                 </abstract>
 				<keywords>Friction stir welding; stainless steel; thermal model; temperature distribution and power.</keywords>
 				<allauthors>
@@ -10596,7 +10596,7 @@
 				<feature></feature>
 				<page>1421-1431</page>
 				<abstract>
-                    <p>The present paper is aimed to identify an efficient curing regime for ultra high performance concrete (UHPC), to achieve a target compressive strength more than 150 MPa, using indigenous materials. The thermal regime plays a vital role due to the limited fineness of ingredients and low water/binder ratio. By activation of the reaction kinetics, the effectiveness of the binder is enhanced which leads to improvements in mechanical as well as durability properties. The curing cycle employed are ambient air curing, water curing and hot air curing. The specimens were exposed to thermal regime at ($90\circC/150\circC/200\circC$) for duration of 24, 48 or 72 hours at the age of 3rd and 7th day followed with air curing or water curing till 28 days. The results showed a marked difference in compressive strength ranging from 217 to 142 MPa with change in curing regimes. The samples when thermally cured at the age of 3rd and 7th day produced an average ultimate strength of 217–152 MPa and 196–150 MPa, respectively.</p>
+                    <p>The present paper is aimed to identify an efficient curing regime for ultra high performance concrete (UHPC), to achieve a target compressive strength more than 150 MPa, using indigenous materials. The thermal regime plays a vital role due to the limited fineness of ingredients and low water/binder ratio. By activation of the reaction kinetics, the effectiveness of the binder is enhanced which leads to improvements in mechanical as well as durability properties. The curing cycle employed are ambient air curing, water curing and hot air curing. The specimens were exposed to thermal regime at ($90^\circ C/150^\circ C/200^\circ C$) for duration of 24, 48 or 72 hours at the age of 3rd and 7th day followed with air curing or water curing till 28 days. The results showed a marked difference in compressive strength ranging from 217 to 142 MPa with change in curing regimes. The samples when thermally cured at the age of 3rd and 7th day produced an average ultimate strength of 217–152 MPa and 196–150 MPa, respectively.</p>
                 </abstract>
 				<keywords>Ultra high performance concrete (UHPC); curing cycle; hot air curing; water curing; air curing; compressive strength; thermal regime.</keywords>
 				<allauthors>
@@ -10736,7 +10736,7 @@
 				<feature></feature>
 				<page>0063-0079</page>
 				<abstract>
-					<p>In this paper, we have addressed the problem of automated performance evaluation of Mathematical Expression (ME) recognition. Automated evaluation requires that recognition output and ground truth in some editable format like LATEX, MathML, etc. have to be matched. But standard forms can have extraneous symbols or tags. For example, $\le$mo$\ge$ tag is added for an operator in MathML and $\$begin{array} is used to encoded matrices in LATEX. These extraneous symbols are also involved in matching that is not intuitive. For that, we have proposed a novel structure encoded string representation that is independent of any editable format. Structure encoded strings retain the structure (spatial relationships like superscript, subscript, etc.) and do not contain any extraneous symbols. As structure encoded strings give the linear representation of MEs, Levenshtein edit distance is used as a measure for performance evaluation. Therefore, in our approach, recognition output and ground truth in LATEX form are converted to their corresponding structure encoded strings and Levenshtein edit distance is computed between them.</p>
+					<p>In this paper, we have addressed the problem of automated performance evaluation of Mathematical Expression (ME) recognition. Automated evaluation requires that recognition output and ground truth in some editable format like ${\rm\LaTeX}$, MathML, etc. have to be matched. But standard forms can have extraneous symbols or tags. For example, $&lt;$mo$&gt;$ tag is added for an operator in MathML and \begin$\{$array$\}$ is used to encoded matrices in ${\rm\LaTeX}$. These extraneous symbols are also involved in matching that is not intuitive. For that, we have proposed a novel structure encoded string representation that is independent of any editable format. Structure encoded strings retain the structure (spatial relationships like superscript, subscript, etc.) and do not contain any extraneous symbols. As structure encoded strings give the linear representation of MEs, Levenshtein edit distance is used as a measure for performance evaluation. Therefore, in our approach, recognition output and ground truth in ${\rm\LaTeX}$ form are converted to their corresponding structure encoded strings and Levenshtein edit distance is computed between them.</p>
 				</abstract>
 				<keywords>Mathematical expression recognition; performance evaluation; linear representation; Levenshtein edit distance.</keywords>
 				<allauthors>
@@ -11162,7 +11162,7 @@
 				<feature></feature>
 				<page>0583-0596</page>
 				<abstract>
-					<p>A numerical study is carried out using finite element method, to examine the effects of square and rectangular cutout on the buckling behavior of a sixteen ply quasi-isotropic graphite/epoxy symmetrically laminated rectangular composite plate $[0\circ/+45\circ/-45\circ/90\circ]_{2s}$, subjected to various linearly varying in-plane compressive loads. Further, this paper addresses the effects of size of square/rectangular cutout, orientation of square/rectangular cutout, plate aspect ratio(a/b), plate length/thickness ratio(a/t), boundary conditions on the buckling bahaviour of symmetrically laminated rectangular composite plates subjected to various linearly varying in-plane compressive loading. It is observed that the various linearly varying in-plane loads and boundary conditions have a substantial influence on buckling strength of rectangular composite plate with square/rectangular cutout.</p>
+					<p>A numerical study is carried out using finite element method, to examine the effects of square and rectangular cutout on the buckling behavior of a sixteen ply quasi-isotropic graphite/epoxy symmetrically laminated rectangular composite plate $[0^\circ /+45^\circ /-45^\circ /90^\circ ]_{2s}$, subjected to various linearly varying in-plane compressive loads. Further, this paper addresses the effects of size of square/rectangular cutout, orientation of square/rectangular cutout, plate aspect ratio(a/b), plate length/thickness ratio(a/t), boundary conditions on the buckling bahaviour of symmetrically laminated rectangular composite plates subjected to various linearly varying in-plane compressive loading. It is observed that the various linearly varying in-plane loads and boundary conditions have a substantial influence on buckling strength of rectangular composite plate with square/rectangular cutout.</p>
 				</abstract>
 				<keywords>Buckling; rectangular cutout; linearly varying in-plane load; boundary conditions symmetrically laminated rectangular composite plates; finite element analysis; quasi-isotropic.</keywords>
 				<allauthors>
@@ -11300,6 +11300,385 @@
 					<author lname="Oladele" fname="Isaac Oluwaseun" isfellow="0">Oladele, Isaac Oluwaseun</author>
 					<author lname="Loto" fname="Cleophas Akintoye" isfellow="0">Loto, Cleophas Akintoye</author>
 					<author lname="Popoola" fname="Patricia Abimbola Idowu" isfellow="0">Popoola, Patricia Abimbola Idowu</author>
+				</allauthors>
+			</entry>
+        </issue>
+        <issue inum="04" month="08" year="2014">
+			<entry issup="0">
+				<title>AI-based adaptive control and design of autopilot system for nonlinear UAV</title>
+				<feature></feature>
+				<page>0765-0783</page>
+				<abstract>
+                    <p>The objective of this paper is to design an autopilot system for unmanned aerial vehicle (UAV) to control the speed and altitude using electronic throttle control system (ETCS) and elevator, respectively. A DC servo motor is used for designing of ETCS to control the throttle position for appropriate amount of air mass flow. Artificial Intelligence (AI)-based controllers such as fuzzy logic PD, fuzzy logic $PD + I$, self-tuning fuzzy logic PID (STF-PID) controller and fuzzy logic-based sliding mode adaptive controller (FLSMAC) are designed for stable autopilot system and are compared with conventional PI controller. The target of throttle, speed and altitude controls are to achieve a wide range of air speed, improved energy efficiency and fuel economy with reduced pollutant emission. The energy efficiency using specific energy rate per velocity of UAV is also presented in this paper.</p>
+                </abstract>
+				<keywords>Autopilot system; AI-based control; DC servo motor; electronic throttle control system; sliding mode control and UAV.</keywords>
+				<allauthors>
+					<author lname="Yadav" fname="Anil Kumar" isfellow="0">Yadav, Anil Kumar</author>
+					<author lname="Gaur" fname="Prerna" isfellow="0">Gaur, Prerna</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Statistically tuned Gaussian background subtraction technique for UAV videos</title>
+				<feature></feature>
+				<page>0785-0808</page>
+				<abstract>
+                    <p>Background subtraction is one of the efficient techniques to segment the targets from non-informative background of a video. The traditional background subtraction technique suits for videos with static background whereas the video obtained from unmanned aerial vehicle has dynamic background. Here, we propose an algorithm with tuning factor and Gaussian update for surveillance videos that suits effectively for aerial videos. The tuning factor is optimized by extracting the statistical features of the input frames.With the optimized tuning factor and Gaussian update an adaptive Gaussian-based background subtraction technique is proposed. The algorithm involves modelling, update and subtraction phases. This running Gaussian average based background subtraction technique uses updation at both model generation phase and subtraction phase. The resultant video extracts the moving objects from the dynamic background. Sample videos of various properties such as cluttered background, small objects, moving background and multiple objects are considered for evaluation. The technique is statistically compared with frame differencing technique, temporal median method and mixture of Gaussian model and performance evaluation is done to check the effectiveness of the proposed technique after optimization for both static and dynamic videos.</p>
+                </abstract>
+				<keywords>Tuning factor; background segmentation; unmanned aerial vehicle; aerial surveillance; thresholding.</keywords>
+				<allauthors>
+					<author lname="Lingam" fname="R. Athi" isfellow="0">Lingam, R. Athi</author>
+					<author lname="Kumar" fname="K. Senthil" isfellow="0">Kumar, K. Senthil</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Developing an intelligent control system of automatic window motor with diverse wireless sensor network devices</title>
+				<feature></feature>
+				<page>0809-0818</page>
+				<abstract>
+                    <p>This invention system involves hardware, firmware and software to develop an intelligent control system of automatic window motor with diverse wireless sensor network (WSN) devices for health and environmental monitoring. The parts of this invention are improved by implementing the WSN mote into environmental sensors that may detect temperature, humility, toxic gas, smog or aerosol, etc. With embedded system design, these sensors are capable of delivering WSN signal packets based on ZigBee protocol that follows the IEEE 802.14.4 standards. The primary hardware of the system is the window motor with circuit design by integrating micro control unit (MCU), radio frequency (RF) and WSN antenna to receive command. The firmware developed under embedded system can bridge hardware and software to control the window at the specified position. At the back end, the control system software can manage diverse sensor data and provide the interface for remote monitoring.</p>
+                </abstract>
+				<keywords>Intelligent control; automatic window; wireless sensor network (WSN); micro control unit (MCU).</keywords>
+				<allauthors>
+					<author lname="Kan" fname="Yao-Chiang" isfellow="0">Kan, Yao-Chiang</author>
+					<author lname="Lin" fname="Hsueh-Chun" isfellow="0">Lin, Hsueh-Chun</author>
+					<author lname="Sung" fname="Wen-Pei" isfellow="0">Sung, Wen-Pei</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Optimal sizing of energy storage system for microgrids</title>
+				<feature></feature>
+				<page>0819-0841</page>
+				<abstract>
+                    <p>Microgrids (MGs) are Low Voltage distribution networks comprising various distributed generators (DG), storage devices and controllable loads that can operate either interconnected or isolated from the main distribution grid as a controlled entity. Energy storage system (ESS) is a vital part of an MG. In this paper, a methodology is proposed for the optimal allocation and economic analysis of ESS in MGs on the basis of net present value (NPV). As the optimal operation of an MG strongly depends on the arrangement and allocation of its ESS, economic operation strategies and optimal allocation methods of the ESS devices are required for the MG. Self-adaptive Bee Swarm Optimization (SBSO) algorithm is applied to optimize the operation strategies and capacities of ESS in MGs in order to find maximal NPV, the generation schedule of ESS and distributed generation sources. This paper is to suggest, among those available ESS, the optimal sizes and types of them and their optimal arrangement, such that the total NPV achieved during the system operational lifetime period is maximized. After introducing the methodology, a case study is presented for illustration.</p>
+                </abstract>
+				<keywords>Microgrid; energy storage system; optimal sizing; net present value.</keywords>
+				<allauthors>
+					<author lname="Mozafari" fname="Babak" isfellow="0">Mozafari, Babak</author>
+					<author lname="Mohammadi" fname="Sirus" isfellow="0">Mohammadi, Sirus</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Give-and-take based peer-to-peer content distribution networks</title>
+				<feature></feature>
+				<page>0843-0858</page>
+				<abstract>
+                    <p>Content Distribution Networks (CDNs) are widely used to distribute data to large number of users. Traditionally, content is being replicated among a number of surrogate servers, leading to high operational costs. In this context, Peer-to-Peer (P2P) CDNs have emerged as a viable alternative. An issue of concern in P2P networks is that of $free$ $riders$, i.e., selfish peers who download files and leave without uploading anything in return. Free riding must be discouraged. In this paper, we propose a criterion, the $Give-and-Take$ ($G&amp;T$) $criterion$, that disallows free riders. Incorporating the $G&amp;T$ criterion in our model, we study a problem that arises naturally when a new peer enters the system: viz., the problem of downloading a ‘universe’ of segments, scattered among other peers, at low cost. We analyse this $NP$−hard problem, and characterize the optimal download cost under the $G&amp;T$ criterion.We propose an optimal algorithm, and provide a sub-optimal algorithm that is nearly optimal, but runs much more quickly; this provides an attractive balance between running time and performance. Finally, we compare the performance of our algorithms with that of a few existing P2P downloading strategies in use. We also study the computation time for prescribing the strategy for initial segment and peer selection for the newly arrived peer for various existing and proposed algorithms, and quantify cost–computation time trade-offs.</p>
+                </abstract>
+				<keywords>Peer-to-peer networks; algorithms.</keywords>
+				<allauthors>
+					<author lname="Aggarwal" fname="Saurabh" isfellow="0">Aggarwal, Saurabh</author>
+					<author lname="Kuri" fname="Joy" isfellow="0">Kuri, Joy</author>
+					<author lname="Saha" fname="Chandan" isfellow="0">Saha, Chandan</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Design and implementation of PV-based three-phase four-wire series hybrid active power filter for power quality improvement</title>
+				<feature></feature>
+				<page>0859-0877</page>
+				<abstract>
+                    <p>This paper proposes a Photovoltaic (PV)-based three-phase four-wire Series Hybrid Active Power Filter (SHAPF), it comprises of a Series Active Power Filter (SAPF) and an LC shunt passive filter. The proposed system eliminates both the current and voltage harmonics and compensates reactive power, neutral current and voltage interruption. A SAPF demands a source of energy for compensating the voltage sag/swell. This system found a new topology for SHAPF which utilizes the PV with DC–DC boost converter as a source of DC power for the series active filter. The compensation current reference evaluation is based on the twin formulation of the vectorial theory of electrical power theorem with Fuzzy Logic Controller (FLC). The PV array/battery managed DC–DC boost converter is employed to step up the voltage to meet the DC bus voltage requirement of the three-leg Voltage Source Inverter (VSI). The foremost benefit of the proposed system is that, it will provide uninterrupted compensation for the whole day. This system utilizes the renewable energy; accordingly saves the energy and provides the uninterruptable power supply to critical/sensitive load, through the PV array/battery bank during both day time and night time. An experimental model was established and results were obtained, which indicated the capability of the proposed control scheme.</p>
+                </abstract>
+				<keywords>Photovoltaic (PV) array; DC–DC boost converter; voltage source inverter (VSI); total harmonic distortion (THD); SHAPF; neutral current compensation.</keywords>
+				<allauthors>
+					<author lname="Vijayakumar" fname="M." isfellow="0">Vijayakumar, M.</author>
+					<author lname="Vijayan" fname="S." isfellow="0">Vijayan, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An adaptive image denoising method based on local parameters optimization</title>
+				<feature></feature>
+				<page>0879-0900</page>
+				<abstract>
+                    <p>In image denoising algorithms, the noise is handled by either modifying term-by-term, i.e., individual pixels or block-by-block, i.e., group of pixels, using suitable shrinkage factor and threshold function. The shrinkage factor is generally a function of threshold and some other characteristics of the neighbouring pixels of the pixel to be thresholded (denoised). The threshold is determined in terms of the noise variance present in the image and its size. The VisuShrink, SureShrink, and NeighShrink methods are important denoising methods that provide good results. The first two, i.e., VisuShrink and SureShrink methods follow term-by-term approach, i.e., modify the individual pixel and the third one, i.e., NeighShrink and its variants: ModiNeighShrink, IIDMWD, and IAWDMBMC, follow block-by-block approach, i.e., modify the pixels in groups, in order to remove the noise. The VisuShrink, SureShrink, and NeighShrink methods however do not give very good visual quality because they remove too many coefficients due to their high threshold values. In this paper, we propose an image denoising method that uses the local parameters of the neighbouring coefficients of the pixel to be denoised in the noisy image. In our method, we propose two new shrinkage factors and the threshold at each decomposition level, which lead to better visual quality. We also establish the relationship between both the shrinkage factors. We compare the performance of our method with that of the VisuShrink and NeighShrink including various variants. Simulation results show that our proposed method has high peak signal-to-noise ratio and good visual quality of the image as compared to the traditional methods:Weiner filter, VisuShrink, SureShrink, NeighBlock, NeighShrink, ModiNeighShrink, LAWML, IIDMWT, and IAWDMBNC methods.</p>
+                </abstract>
+				<keywords>Thresholding; maximum likelihood estimation (ML); peak signal-to-noise ratio (PSNR).</keywords>
+				<allauthors>
+					<author lname="Om" fname="Hari" isfellow="0">Om, Hari</author>
+					<author lname="Biswas" fname="Mantosh" isfellow="0">Biswas, Mantosh</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study of microwave components for an electron cyclotron resonance source: Simulations and performance</title>
+				<feature></feature>
+				<page>0901-0920</page>
+				<abstract>
+                    <p>A high power (2 kW, CW) magnetron-based microwave system operating at 2.45 GHz has been designed, tested, characterized, and used to produce plasma. The system consists of a microwave source, an isolator, a directional coupler, a threestub tuner, a high voltage break, a microwave vacuum window, and a microwave launcher. These microwave components were simulated using microwave studio software. The low power and full term characterization of the microwave system has been done using vector network analyzer. The system was tested for 2 kW continuous wave of microwave power using glass-water load. The microwave system has been developed to study the microwave interaction with plasma at different operation regimes (Gases: Nitrogen, argon and hydrogen; Gas pressure : $10^{−5}–10^{−3}$ mbar; Microwave power : 300–1000W; Magnetic field: 875–1000 G) and to extract the proton beam current with hydrogen produced plasma. A plasma density $\sim$5×10${}^{11}$ cm${}^{−3}$ and average electron temperature of $\sim$13 eV was obtained. This article describes various aspects of the microwave system including design, fabrication, characterization and performance studies of the microwave components.</p>
+                </abstract>
+				<keywords>Microwave system; microwave studio software; network analyser; electron cyclotron resonance ion source.</keywords>
+				<allauthors>
+					<author lname="Jain" fname="S. K." isfellow="0">Jain, S. K.</author>
+					<author lname="Sharma" fname="Deepak" isfellow="0">Sharma, Deepak</author>
+					<author lname="Senecha" fname="V. K." isfellow="0">Senecha, V. K.</author>
+					<author lname="Naik" fname="P. A." isfellow="0">Naik, P. A.</author>
+					<author lname="Hannurkar" fname="P. R." isfellow="0">Hannurkar, P. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Electrocardiogram de-noising based on forward wavelet transform translation invariant application in bionic wavelet domain</title>
+				<feature></feature>
+				<page>0921-0937</page>
+				<abstract>
+                    <p>In this paper, we propose a new technique of Electrocardiogram (ECG) signal de-noising based on thresholding of the coefficients obtained from the application of the Forward Wavelet Transform Translation Invariant (FWT_TI) to each Bionic Wavelet coefficient. The De-noise De-noised ECG is obtained from the application of the inverse of $BWT$ ($BWT^{−1}$) to the de-noise de-noised bionic wavelet coefficients. For evaluating this new proposed de-noising technique, we have compared it to a thresholding technique in the FWT_TI domain. Preliminary tests of the application of the two de-noising techniques were constructed on a number of ECG signals taken from MIT-BIH database. The obtained results from Signal to Noise Ratio (SNR) and Mean Square Error (MSE) computations showed that our proposed de-noising technique outperforms the second technique. We have also compared the proposed technique to the thresholding technique in the bionic wavelet domain and this comparison was performed by SNR improvement computing. The obtained results from this evaluation showed that the proposed technique also outperforms the de-noising technique based on bionic wavelet coefficients thresholding.</p>
+                </abstract>
+				<keywords>Bionic wavelet transform (BWT); forward wavelet transform translation invariant (FWT_TI); de-noising; thresholding; ECG signal.</keywords>
+				<allauthors>
+					<author lname="Talbi" fname="Mourad" isfellow="0">Talbi, Mourad</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Secret data embedding scheme modifying the frequency of occurrence of image brightness values</title>
+				<feature></feature>
+				<page>0939-0956</page>
+				<abstract>
+                    <p>The main purpose of this presented work is to develop a data embedding method based on a new digital image histogram modification approach. The proposed scheme fundamentally is concerned about the frequency of occurrence of the image brightness values of the cover image for the data embedding procedures. The proposed scheme effectively realizes both perceptual invisibility and statistical invisibility so that obtained covered images are highly robust against common perceptual and statistical steganalysis techniques. The scheme provides reasonably higher payload values than its counterparts, as well as providing comparatively improved PSNR results.</p>
+                </abstract>
+				<keywords>Image histogram; information security; data hiding; watermarking.</keywords>
+				<allauthors>
+					<author lname="Yalman" fname="Yildiray" isfellow="0">Yalman, Yildiray</author>
+					<author lname="Erturk" fname="Ismail" isfellow="0">Erturk, Ismail</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Correlation between optical emission spectra and the process parameters of a 915 MHz microwave plasma CVD reactor used for depositing polycrystalline diamond coatings</title>
+				<feature></feature>
+				<page>0957-0970</page>
+				<abstract>
+                    <p>In this paper, the hydrogen and hydrogen-methane mixed plasma have been generated inside a 33 cm diameter quartz bell jar with a low power (9 KW) and lower frequency 915 MHz microwave plasma chemical vapor deposition system. The reactor is being used for growing polycrystalline diamond (PCD) over large area (100 mm). The generated plasma is diagnosed by $in$ $situ$ optical emission spectroscopy method with wave length ranging from 200 to 900 nm. The effects of microwave power, chamber pressure and gas concentration on plasma characteristics have been studied in this work. Within the optical range, Balmer $H_{\alpha}$, $H_{\beta}$, $C_2$swan band and CH lines have been detected at the wavelengths of 655.95, 485.7, 515.82 and 430.17 nm, respectively. It has been observed that for hydrogen plasma, the amount of transition from hydrogen atom inner shell 3 to 2 $(H_{\alpha})$ is almost constant with increasing microwave (MW) power (from 2000 to 2800 W) and pressure (from 15 to 30 Torr) initially, after that it increases with further increase of MW power and pressure, whereas, the transition from 4 to 2 $(H_{\beta})$ is slowly increased with increasing MW power and pressure. For hydrogen-methane plasma, intensities of $C_2$ swan band, i.e., the transitions from $D^3\Pi_g$ to $A^3\Pi_{\mu}$ energy levels, are also increased with the increasing microwave power and reactor pressure. It has been observed that the radicals present in the plasma are affected by variation of different reactor parameters like pressure, MW power, $CH_4$ concentration, etc.</p>
+                </abstract>
+				<keywords>Optical emission spectroscopy; 915 MHz; microwave plasma CVD; polycrystalline diamond.</keywords>
+				<allauthors>
+					<author lname="Mallik" fname="Awadesh Kumar" isfellow="0">Mallik, Awadesh Kumar</author>
+					<author lname="Bysakh" fname="Sandip" isfellow="0">Bysakh, Sandip</author>
+					<author lname="Dutta" fname="Someswar" isfellow="0">Dutta, Someswar</author>
+					<author lname="Basu" fname="Debabrata" isfellow="0">Basu, Debabrata</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An improved adaptive wavelet shrinkage for ultrasound despeckling</title>
+				<feature></feature>
+				<page>0971-0988</page>
+				<abstract>
+                    <p>Ultrasound imaging is the most widely used medical diagnostic technique for clinical decision making, due to its ability to make real time imaging for moving structures, low cost and safety. However, its usefulness is degraded by the presence of signal dependent speckle noise. Several wavelet-based denoising schemes have been reported in the literature for the removal of speckle noise. This study proposes a new and improved adaptive wavelet shrinkage in the translational invariant domain. It exploits the knowledge of the correlation of the wavelet coefficients within and across the resolution scales. A preliminary coefficient classification representing useful image information and noise is performed with a novel inter-scale dependency measure. The spatial context adaptation of the wavelet coefficients within a subband is achieved by a local spatial adaptivity indicator, determined by using a truncation threshold. A weighted signal variance is estimated based on this measure and used in the determination of a subband adaptive threshold. The proposed thresholding function aims to reduce the fixed bias of the soft thresholding approach. Experiments conducted with the proposed filter are compared with the existing filtering algorithms in terms of Peak-Signal to Noise Ratio (PSNR), Mean Square Error (MSE), Structural Similarity IndexMeasure (SSIM), Equivalent Number of Looks (ENL) and Edge Preservation Index (EPI). A comparison of the results shows that the proposed filter achieves an improvement in terms of quantitative measures and in terms of visual quality of the images.</p>
+                </abstract>
+				<keywords>Wavelet; translation invariance; inter and intra scale dependency; speckle; adaptive thresholding; ultrasound images.</keywords>
+				<allauthors>
+					<author lname="Devi" fname="P. Nirmala" isfellow="0">Devi, P. Nirmala</author>
+					<author lname="Asokan" fname="R." isfellow="0">Asokan, R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Applicability of Doppler weather radar based rainfall data for runoff estimation in Indian watersheds – A case study of Chennai basin</title>
+				<feature></feature>
+				<page>0989-0997</page>
+				<abstract>
+                    <p>Traditionally, India has been vulnerable to various hazards such as floods, droughts and cyclones. About 8% of the total Indian landmass is prone to cyclones. A number of Doppler weather radars are installed in India and their products are utilized for weather predictions and detection of cyclones approaching the Indian coast. Radar-based hydrological studies in various countries have proven that computation of runoff using radar rainfall data could outperform rain gauge network measurements. There are no reported studies on their utilization for hydrological modelling and/or flood-related studies in Indian river basins. A comparison study between Doppler weather radar (DWR) derived rainfall data and the conventional rain gauge data was carried out with hourly inputs at one of the watersheds of Chennai basin, Tamil Nadu, India using HEC-HMS model. The model calibration and validation were performed by comparing the simulated outflow with the observed daily outflow data. The calibrated model was used to predict runoff from two post-monsoon cyclonic storm events with hourly inputs. It was noticed that the discrepancy in the runoff volume was small, but the difference in the peak flow was substantial. Additionally, there was a variation at the time to peak flow using daily and hourly inputs. The results show that the use of radar data may be optional for runoff volume estimation for the watersheds with sufficient rain gauge density, but highly desirable for peak flow and time to peak estimation. Therefore, the DWR derived rainfall data is a promising input for runoff estimation, especially in urban flood modelling.</p>
+                </abstract>
+				<keywords>Radar rainfall; calibration factor; runoff estimation; HEC-HMS model.</keywords>
+				<allauthors>
+					<author lname="Josephine" fname="V. S." isfellow="0">Josephine, V. S.</author>
+					<author lname="Mudgal" fname="B. V." isfellow="0">Mudgal, B. V.</author>
+					<author lname="Thampi" fname="S. B." isfellow="0">Thampi, S. B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis and characterization of polyethylene oxide based nano composite electrolyte</title>
+				<feature></feature>
+				<page>0999-1007</page>
+				<abstract>
+                    <p>Polyethylene oxide (PEO) – montmorillonite (MMT) composite electrolytes were synthesised by solution casting technique. The salt used for the study is Lithium perchlorate ($LiClO_4$). The morphology and percentage of crystallinity data were obtained through X-ray Diffraction and Differential Scanning Caloriemetry. The ionic conductivity of the polymer electrolytes was studied by impedance spectroscopy. The addition of MMT resulted in an increase in conductivity over the temperature range of 25–60$^\circ $C. The ionic conductivity of a composite polymer electrolyte containing 1.2 wt% MMT was 1 $\times$ 10$^{−5}$ S cm${}^{−1}$ at 25$^\circ $C, which is at least one order of magnitude higher than that of the polymer electrolyte (4 $\times$ 10$^{−7}$S cm${}^{−1}$). The increase in ionic conductivity is explained on the basis of crystallinity of the polymer electrolyte.</p>
+                </abstract>
+				<keywords>Polymer electrolyte; polyethylene oxide; composite electrolyte; montmorillonite; conductivity.</keywords>
+				<allauthors>
+					<author lname="Malathi" fname="M." isfellow="0">Malathi, M.</author>
+					<author lname="Tamilarasan" fname="K." isfellow="0">Tamilarasan, K.</author>
+				</allauthors>
+			</entry>
+        </issue>
+        <issue inum="05" month="10" year="2014">
+			<entry issup="0">
+				<title>Damage detection in submerged plates using ultrasonic guided waves</title>
+				<feature></feature>
+				<page>1009-1034</page>
+				<abstract>
+                    <p>This paper describes a non-contact and non-invasive health monitoring strategy for submerged plate structures using guided waves. The structure under consideration is immersed in water and subjected to longitudinal ultrasonic waves at specific angles of incidence using a cylindrical piezoelectric transducer using the surrounding water as coupling medium. Suitable ultrasonic guided wave modes with optimum scanning capabilities have been generated and identified in submerged plate system. Finally, the propagation of selected modes through submerged notched plates is investigated. Sensitivity of leaky waves to the notches has been studied. The methodology would help in identifying damages in the submerged plate structures.</p>
+                </abstract>
+				<keywords>Ultrasonic; guided waves; dispersion; modes; submerged plates; notches.</keywords>
+				<allauthors>
+					<author lname="Sharma" fname="Sandeep" isfellow="0">Sharma, Sandeep</author>
+					<author lname="Mukherjee" fname="Abhijit" isfellow="0">Mukherjee, Abhijit</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Optimization of surface integrity in dry hard turning using RSM</title>
+				<feature></feature>
+				<page>1035-1053</page>
+				<abstract>
+                    <p>This paper investigates the effect of different cutting parameters (cutting speed, feed rate, and depth of cut) on surface integrity defined in terms of surface roughness and microhardness in dry hard turning process. The workpiece material used was hardened alloy steel AISI 52100 and it was machined on a CNC lathe with coated carbide tool under different settings of cutting parameters. Three cutting parameters each at three levels were considered in the study. Central composite design (CCD) of experiment was used to collect experimental data for surface roughness and microhardness. Statistical analysis of variance (ANOVA) was performed to determine significance of the cutting parameters. The results were analysed using an effective procedure of response surface methodology (RSM) to determine optimal values of cutting parameters. Several diagnostic tests were also performed to check the validity of assumptions. The results indicated that feed rate is the dominant factor affecting the surface roughness whereas the cutting speed is found to be the dominant factor affecting the microhardness. Results also revealed that within the range investigated, good surface integrity is achieved when feed rate and depth of cut are near their low levels and cutting speed is at high level. Finally, the optimal cutting parameters and model equations to predict the surface roughness and microhardness are proposed.</p>
+                </abstract>
+				<keywords>Hard turning; surface roughness; microhardness; RSM.</keywords>
+				<allauthors>
+					<author lname="Shihab" fname="Suha K." isfellow="0">Shihab, Suha K.</author>
+					<author lname="Khan" fname="Zahid A." isfellow="0">Khan, Zahid A.</author>
+					<author lname="Mohammad" fname="Aas" isfellow="0">Mohammad, Aas</author>
+					<author lname="Siddiquee" fname="Arshad Noor" isfellow="0">Siddiquee, Arshad Noor</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Application of Taguchi method for cutting force optimization in rock sawing by circular diamond sawblades</title>
+				<feature></feature>
+				<page>1055-1070</page>
+				<abstract>
+                    <p>In this paper, an optimization study was carried out for the cutting force ($F_c$) acting on circular diamond sawblades in rock sawing. The peripheral speed, traverse speed, cut depth and flow rate of cooling fluid were considered as operating variables and optimized by using Taguchi approach for the $F_c$. $L_{16}$($4^4$) orthogonal array was chosen for the experimental trials based on the operating variables and their levels. The signal-to-noise (S/N) ratios and the analysis of variance (ANOVA) were employed to determine optimum cutting conditions and significant operating variables, respectively. The $F_c$ was also modelled based on the operating variables using regression analysis. The developed model was then verified using various statistical approaches. The results revealed that the operating variables of circular diamond sawblades can be precisely optimized by Taguchi approach for the $F_c$ in rock sawing. The cut depth and peripheral speed were statistically determined as the significant operating variables affecting $F_c$. Furthermore, the modelling results showed that the proposed model can be effectively used for the prediction of $F_c$ in practical applications.</p>
+                </abstract>
+				<keywords>Rock sawing; cutting force; Taguchi application; optimization; modelling.</keywords>
+				<allauthors>
+					<author lname="Karakurt" fname="Izzet" isfellow="0">Karakurt, Izzet</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An implicit non-staggered Cartesian grid method for incompressible viscous flows in complex geometries</title>
+				<feature></feature>
+				<page>1071-1094</page>
+				<abstract>
+                    <p>A discrete forcing based Cartesian grid method is presented. The nonstaggered arrangement of velocity and pressure is considered. The pressure gradient in localized discrete form is added separately with the velocity making them explicitly coupled. The governing equation is time-integrated implicitly with both linearized and non-linear forms are investigated. Both linear and bi-linear reconstruction techniques are tested for extrapolation of velocity near a complex boundary. The present method is tested for vortical flow in an inclined cavity, flow past circular and inclined square cylinder. Both homogeneous and non-homogeneous Dirichlet forcing problems are tested. The parallelized version of the method is applied to 2D-to-3D transitional flow behind a single and multiple circular cylinders. The present numerical results compare well with the previously documented results.</p>
+                </abstract>
+				<keywords>Immersed boundary; non-staggered; implicit; viscous flow.</keywords>
+				<allauthors>
+					<author lname="De" fname="A. K." isfellow="0">De, A. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Information extraction from topographic map using colour and shape analysis</title>
+				<feature></feature>
+				<page>1095-1117</page>
+				<abstract>
+                    <p>The work presented in this paper is related to symbols and toponym understanding with application to scanned Indian topographic maps. The proposed algorithm deals with colour layer separation of enhanced topographic map using kmeans colour segmentation followed by outline detection and chaining, respectively. Outline detection is performed through linear filtering using canny edge detector. Outline is then encoded in a Freeman way, the x-y offsets have been used to obtain a complex representation of outlines. Final matching of shapes is done by computing Fourier descriptors from the chain-codes; comparison of descriptors having same colour index is embedded in a normalized scalar product of descriptors. As this matching process is not rotation invariant (starting point selection), an interrelation function has been proposed to make the method shifting invariant. The recognition rates of symbols, letters and numbers are 84.68, 91.73 and 92.19%, respectively. The core contribution is dedicated to a shape analysis method based on contouring and Fourier descriptors. To improve recognition rate, obtaining most optimal segmentation solution for complex topographic map will be the future scope of work.</p>
+                </abstract>
+				<keywords>Colour segmentation; shape analysis; outline detection; chain coding; template matching.</keywords>
+				<allauthors>
+					<author lname="Ganpatrao" fname="Nikam Gitanjali" isfellow="0">Ganpatrao, Nikam Gitanjali</author>
+					<author lname="Ghosh" fname="Jayanta Kumar" isfellow="0">Ghosh, Jayanta Kumar</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mathematical modelling on transport of petroleum hydrocarbons in saturated fractured rocks</title>
+				<feature></feature>
+				<page>1119-1139</page>
+				<abstract>
+                    <p>The present paper addresses critical issues that describe the dissolution mass transfer of petroleum hydrocarbons in a saturated subsurface system. The field procedure associated with the estimation of Light Non-Aqueous Phase Liquid (LNAPL) thickness in site monitor wells is revisited. A brief theory has been included on the composition and transport of petroleum hydrocarbons following an onshore oil spill in order to demonstrate the level of complexity associated with the LNAPL dissolution mass transfer even in a classical porous medium. However, such studies in saturated fractured rocks are highly complex and limited, and hence, deserve a special attention as the fate and transport of the petroleum hydrocarbons are not uncommon in saturated fractured rocks. In this context, an improved mathematical model has been proposed that will better describe the dissolution kinetics of petroleum hydrocarbons in saturated fractured rocks at the scale of a single fracture using dual-porosity concept. The lumped mass transfer coefficient in a classical porous medium proposed depends on mean grain size, while the same parameter has been replaced by an equivalent average thickness of fracture aperture that better describes the LNAPL dissolution rate in a coupled fracture-matrix system. A set of nonlinear coupled partial differential equations is deduced for a coupled fracture-matrix system in analogy with the differential equations of a classical porous medium. The proposed mathematical model may work well for the fracture aperture thicknesses varying between 100 and 500 microns with a relatively low Reynolds Number and initial NAPL saturation.</p>
+                </abstract>
+				<keywords>Dissolution; petroleum hydrocarbon; LNAPL; fractured rock; mathematical model.</keywords>
+				<allauthors>
+					<author lname="Kumar" fname="G. Suresh" isfellow="0">Kumar, G. Suresh</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A novel approach for classification of abnormalities in digitized mammograms</title>
+				<feature></feature>
+				<page>1141-1150</page>
+				<abstract>
+                    <p>Feature extraction is an important process for the overall system performance in classification. The objective of this article is to reveal the effectiveness of texture feature analysis for detecting the abnormalities in digitized mammograms using Self Adaptive Resource Allocation Network (SRAN) classifier. Thus, we proposed a feature set based on Gabor filters, fractal analysis, multiscale surrounding region dependence method (MSRDM) to identify the most common appearance of breast cancer namely microcalcification, masses and architectural distortion. The results of the experiments indicate that the proposed features with SRAN classifier can improve the classification performance. The SRAN classifier produces the classification accuracy of 98.44% for the proposed features with 192 images from MIAS dataset.</p>
+                </abstract>
+				<keywords>MSRDM; Gabor features; fractal analysis; feature extraction; mammogram; SRAN.</keywords>
+				<allauthors>
+					<author lname="Shanthi" fname="S." isfellow="0">Shanthi, S.</author>
+					<author lname="Bhaskaran" fname="V. Murali" isfellow="0">Bhaskaran, V. Murali</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Bond graph to digraph conversion: A sensor placement optimization for fault detection and isolation by a structural approach</title>
+				<feature></feature>
+				<page>1151-1164</page>
+				<abstract>
+                    <p>In this paper, we consider the optimal sensors placement problem for faults detection and isolation using a novel structural and qualitative approach. This approach is based on the conversion of Bond Graph to Digraph representation of a structural system. When the fault detection and isolation of an existing system’s sensors are impossible or uncertain, a reconfiguration sensor placement of this system should be reconsidered. This paper proposes how this reconfiguration takes place by recovering all missing or redundant parts of the system. This novel approach is illustrated over a thermo-fluid application.</p>
+                </abstract>
+				<keywords>Fault detection and isolation; sensor placement optimization; digraph; bond graph; structural approach.</keywords>
+				<allauthors>
+					<author lname="Saïd" fname="Alem" isfellow="0">Saïd, Alem</author>
+					<author lname="Djamel" fname="Benazzouz" isfellow="0">Djamel, Benazzouz</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Live-bed scour experiments with $45^\circ$ wing-wall abutments</title>
+				<feature></feature>
+				<page>1165-1183</page>
+				<abstract>
+                    <p>Live bed scour experiments were conducted using four types of noncohesive bed sediments with median diameters $d_{50}$ $=$ 0.26 mm, 0.42 mm, 1.06 mm and 1.92 mm and five $45^\circ$ wing-wall abutments of lengths l = 0.04 m, 0.06 m, 0.08 m, 0.10 m and 0.12 m. The tests were conducted in the range of flow velocity varies from 0.71 to 5 times of the critical velocity. The plotting of non-dimensional scour depths (scour depths/abutment lengths) vs non-dimensional flow intensity (flow intensity/critical velocity) show one peak value of scour depth close to the threshold velocity and thereafter, it reduces and again attain a live-bed maximum in the range of flow intensity 3 to 5 times of the critical velocity. It is also observed that the scour depth increases with the increase in sediment sizes up to threshold value of flow for all sediment sizes and abutment lengths. Further, the scour depth decreases with the increase of non-uniformity under all flow conditions. A design equation is proposed for estimating maximum scour depth at $45^\circ$wing-wall abutment under live-bed condition. The calculated values of scour depths using proposed equation, and also with three different live-bed local scour equations, are compared with the measured values of scour depths.</p>
+                </abstract>
+				<keywords>Scour; bridge foundation; abutments; hydraulics; rivers.</keywords>
+				<allauthors>
+					<author lname="Mazumder" fname="M. H." isfellow="0">Mazumder, M. H.</author>
+					<author lname="Barbhuiya" fname="A. K." isfellow="0">Barbhuiya, A. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Exterior beam-column joint study with non-conventional reinforcement detailing using mechanical anchorage under reversal loading</title>
+				<feature></feature>
+				<page>1185-1200</page>
+				<abstract>
+                    <p>Reinforced concrete structures beam-column joints are the most critical regions in seismic prone areas. Proper reinforcement anchorage is essential to enhance the performance of the joints. An attempt has been made to appraise the performance of the anchorages and joints. The anchorages are detailed as per ACI-352 (mechanical anchorages), ACI-318 (conventional bent hooks) and IS-456 (conventional full anchorage). The joints are detailed without confinement in group-I and with additional X-cross bar in group-II. To assess the seismic performance, the specimens are assembled into two groups of three specimens each and were tested under reversal loading, The specimen with T-type mechanical anchorage (Headed bar) and T-type mechanical anchorage combination with X-cross bar exhibited significant improvement in seismic performance: load-displacement capacity, displacement ductility, stiffness degradation, controlled crack capacity in the joint shear panel and also reduced congestion of reinforcement in joint core.</p>
+                </abstract>
+				<keywords>Reinforced concrete; beam-column joint; seismic susceptibility; mechanical anchorage; ductility; reversal loading.</keywords>
+				<allauthors>
+					<author lname="Rajagopal" fname="S." isfellow="0">Rajagopal, S.</author>
+					<author lname="Prabavathy" fname="S." isfellow="0">Prabavathy, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Vortices in dam reservoir: A case study of Karun III dam</title>
+				<feature></feature>
+				<page>1201-1209</page>
+				<abstract>
+                    <p>The present study focuses on the effect of vortex formation on plane velocities in a reservoir. Velocity measurements are performed in the hydraulic model of Karun III dam and hydropower plant. Different vortices were produced at the horizontal intake by changing the submerged depth. Tangential velocities were measured on a rectangular mesh in the reservoir. The results were then processed to plot the contour lines of the plane velocities and study the effect of vortex formation on the flow condition in the reservoir. Contour lines in different submerged depths show that circulation zones are formed in different potential locations over the intakes causing vortex formation. These results were correlated with the location of the appearing vortices observed in the experiments. Experimental data of this study could be useful for numerical modelling of vortex in the reservoirs.</p>
+                </abstract>
+				<keywords>Tangential velocity; reservoir; vortex; velocity measurement; Karun III dam and hydropower plant.</keywords>
+				<allauthors>
+					<author lname="Azarpira" fname="Maryam" isfellow="0">Azarpira, Maryam</author>
+					<author lname="Sarkardeh" fname="Hamed" isfellow="0">Sarkardeh, Hamed</author>
+					<author lname="Tavakkol" fname="Sasan" isfellow="0">Tavakkol, Sasan</author>
+					<author lname="Roshan" fname="Reza" isfellow="0">Roshan, Reza</author>
+					<author lname="Bakhshi" fname="Hossein" isfellow="0">Bakhshi, Hossein</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mean flow structure of non-equilibrium boundary layers with adverse pressure gradient</title>
+				<feature></feature>
+				<page>1211-1226</page>
+				<abstract>
+                    <p>In this paper Spalding’s formulation for the law of the wall with constants modified by Persen is used to describe the inner region (viscous sub-layer and certain portion of logarithmic layer) and a wake law due to Persen is used to describe the wake region (outer region). These two laws are examined in the light of measured data by Marušić and Perry for non-equilibrium adverse pressure gradient layers. It is observed that structure of turbulence for this flow is well-described by these two laws. From the known structure of turbulence eddy viscosity for the flow under consideration is calculated. Self similarity in eddy viscosity is observed in the wall region.</p>
+                </abstract>
+				<keywords>Non-equilibrium turbulent boundary layer; adverse pressure gradient; law of the wall; law of the wake.</keywords>
+				<allauthors>
+					<author lname="Mandal" fname="B. C." isfellow="0">Mandal, B. C.</author>
+					<author lname="Mazumdar" fname="H. P." isfellow="0">Mazumdar, H. P.</author>
+					<author lname="Dutta" fname="S. S." isfellow="0">Dutta, S. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Impact of pipes networks simplification on water hammer phenomenon</title>
+				<feature></feature>
+				<page>1227-1244</page>
+				<abstract>
+                    <p>Simplification of water supply networks is an indispensible design step to make the original network easier to be analysed. The impact of networks’ simplification on water hammer phenomenon is investigated. This study uses two loops network with different diameters, thicknesses, and roughness coefficients. The network is fed from a boundary head reservoir and loaded by either distributed or concentrated boundary water demands. According to both hydraulic and hydraulic plus water quality equivalence, three simplification levels are performed. The effect of demands’ concentration on the transient flow is checked. The transient flow is initialized by either concentrated or distributed boundary demands which are suddenly shut-off or released. WHAMO software is used for simulation. All scenarios showed that both hydraulic equivalence and demands’ concentration simplifications increase the transient pressure and flow rate. However, hydraulic plus water quality equivalence simplification produces an adverse effect. Therefore, simplifications of the networks should be done carefully. Also, it was found that pump shut-off gives the same trend of valve shut-off or release.</p>
+                </abstract>
+				<keywords>Water hammer; pipes network; simplification; demands variations.</keywords>
+				<allauthors>
+					<author lname="Gad" fname="Ali A. M." isfellow="0">Gad, Ali A. M.</author>
+					<author lname="Mohammed" fname="Hassan I." isfellow="0">Mohammed, Hassan I.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Experimental studies of local scour in the pressurized OCF below a wooden log across the flow</title>
+				<feature></feature>
+				<page>1245-1257</page>
+				<abstract>
+                    <p>The proposed study examined and reviewed the published experimental results related to clear water scour below a cylinder across the flow. It also highlighted the limitations of existing methods for estimating the scour depth below a submerged cylinder. In the present study, experiments were performed for 50% and 75% submergences of a 70 mm diameter cylinder in the free surface flow over a uniform sand bed with $d_{50}$ $=$ 0.98 mm downstream of an apron. Based on the experimental results, an empirical equation was proposed to estimate the amount of gap flow between the cylinder and the bed for an equilibrium scour for a given flow depth and sediment properties. Measured scour profile consisted of a scour hole and immediately followed by a dune. However, no general sediment transport was occurring away from the cylinder due to the undisturbed bed shear stress less than or equal to the critical shear stress required for the sediment entrainment. Different submergence ratios of the cylinder resulted in different longitudinal and vertical extensions of the scour hole and the dune. The maximum equilibrium scour depth occurred when the cylinder is fully submerged in the unidirectional flow with water depth equals to the cylinder diameter. The non-dimensional measured scour profiles were found to be similar. The characteristic lengths of the scour hole and the dune were computed analytically by approximating the measured scour profile by third degree polynomials. The computed non-dimensional scour profiles compared satisfactorily with the measured profiles. It was found that analytical non-dimensional scour profiles were identical for a given diameter of a cylinder with different submergences for the same flow conditions.</p>
+                </abstract>
+				<keywords>Scour depth; dune; submerged pipelines; open channel flow (OCF); sediment transport; bed shear stress.</keywords>
+				<allauthors>
+					<author lname="Maji" fname="Soumen" isfellow="0">Maji, Soumen</author>
+					<author lname="Hanmaiahgari" fname="Prashanth Reddy" isfellow="0">Hanmaiahgari, Prashanth Reddy</author>
+					<author lname="Dey" fname="Subhasish" isfellow="0">Dey, Subhasish</author>
 				</allauthors>
 			</entry>
         </issue>
