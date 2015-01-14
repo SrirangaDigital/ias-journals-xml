@@ -5,13 +5,13 @@
 	<volume vnum="079">
 		<issue inum="01" month="04" year="2000">
 			<entry issup="0">
-				<title>Stationary-State Mutagenesis in \textit{Escherichia coli}: a model</title>
+				<title>Stationary-State Mutagenesis in \textit{Escherichia coli}: a Model</title>
 				<feature></feature>
 				<page>0001-0007</page>
 				<abstract>
-					<p>Stationary-phase mutagenesis in nondividing E. coli cells exposed to a nonlethal stress was, a few years ago, claimed to be a likely case of a Lamarckian mechanism capable of producing exclusively useful mutations in a directed manner. After a heated debate over the last decade it now appears to involve a Darwinian mechanism that generates a transient state of hypermutagenesis, operating on a large number of sites spread over the entire genome, at least in a proportion of the resting cells. Most of the studies that clarified this position were on the reversion of a frameshift mutation present in a lacI -- lacZ fusion in E. coli strain FC40. Several groups have extensively examined both the sequence changes associated with these reversions and the underlying genetic requirements. On the basis of our studies on the genomic sequence analysis, we recently proposed a model to explain the specific changes associated with the reversion hotspots. Here we propose a more detailed version of this model that also takes into account the observed genetic requirements of stationary-state mutagenesis. Briefly, G:T/U mismatches produced at methylatable cytosines are preferentially repaired in nondividing cells by the very short patch mismatch repair (VSPMR) mechanism which is itself mutagenic and can produce mutations in very short stretches located in the immediate vicinity of these cytosine methylation sites. This mechanism requires a homologous or homeologous strand invasion step and an error-prone DNA synthesis step and is dependent on RecA, RecBCD and a DNA polymerase. The process is initiated near sequences recognized by Dcm and Vsr enzymes and further stimulated if these sequences are a part of CHI or CHI-like sequences, but a double-strand-break-dependent recombination mediated by the RecBCD pathways proposed by others seems to be nonessential. The strand transfer step is proposed to depend on RecA, RuvA, RuvB and RuvC and is opposed by RecG and MutS. The model also gives interesting insights into the evolution of the E. coli genome.</p>
+					<p>Stationary-phase mutagenesis in nondividing \textit{E. coli} cells exposed to a nonlethal stress was, a few years ago, claimed to be a likely case of a Lamarckian mechanism capable of producing exclusively useful mutations in a directed manner. After a heated debate over the last decade it now appears to involve a Darwinian mechanism that generates a transient state of hypermutagenesis, operating on a large number of sites spread over the entire genome, at least in a proportion of the resting cells. Most of the studies that clarified this position were on the reversion of a frameshift mutation present in a \textit{lacI -- lacZ} fusion in \textit{E. coli} strain FC40. Several groups have extensively examined both the sequence changes associated with these reversions and the underlying genetic requirements. On the basis of our studies on the genomic sequence analysis, we recently proposed a model to explain the specific changes associated with the reversion hotspots. Here we propose a more detailed version of this model that also takes into account the observed genetic requirements of stationary-state mutagenesis. Briefly, G:T/U mismatches produced at methylatable cytosines are preferentially repaired in nondividing cells by the very short patch mismatch repair (VSPMR) mechanism which is itself mutagenic and can produce mutations in very short stretches located in the immediate vicinity of these cytosine methylation sites. This mechanism requires a homologous or homeologous strand invasion step and an error-prone DNA synthesis step and is dependent on RecA, RecBCD and a DNA polymerase. The process is initiated near sequences recognized by Dcm and Vsr enzymes and further stimulated if these sequences are a part of CHI or CHI-like sequences, but a double-strand-break-dependent recombination mediated by the RecBCD pathways proposed by others seems to be nonessential. The strand transfer step is proposed to depend on RecA, RuvA, RuvB and RuvC and is opposed by RecG and MutS. The model also gives interesting insights into the evolution of the \textit{E. coli} genome.</p>
 				</abstract>
-				<keywords>stationary-phase mutagenesis; genome evolution; adaptive mutagenesis; mismatch repair; CHI sequence; E. coli ; cytosine methylation.</keywords>
+				<keywords>stationary-phase mutagenesis; genome evolution; adaptive mutagenesis; mismatch repair; CHI sequence; \textit{E. coli}; cytosine methylation.</keywords>
 				<allauthors>
 					<author lname="Mahajan" fname="S. K." isfellow="0">Mahajan, S. K.</author>
 					<author lname="Rao" fname="A. V. S. S. Narayana" isfellow="0">Rao, A. V. S. S. Narayana</author>
@@ -19,171 +19,228 @@
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Conditions for the Trivers-Willard Hypothesis to be Valid: a Minimal Population-Genetic Model</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0009-0015</page>
 				<abstract>
-					<p></p>
+					<p>The very insightful Trivers-Willard hypothesis, proposed in the early 1970s, states that females in good physiological condition are more likely to produce male offspring when the variance of reproductive success among males is high. The hypothesis has inspired a number of studies over the last three decades aimed at its experimental verification, and many of them have found adequate supportive evidence in its favour. Theoretical investigations, on the other hand, have been few, perhaps because formulating a population-genetic model for describing the Trivers±Willard hypothesis turns out to be surprisingly complex. The present study is aimed at using a minimal population-genetic model to explore one specific scenario, namely how is the preference for a male offspring by females in good condition altered when $g$, the proportion of such females in the population, changes from a low to a high value. As expected, when the proportion of such females in good condition is low in the population, i.e. for low values of $g$, the Trivers-Willard (TW) strategy goes to fixation against the equal investment strategy. This holds true up to $g_\mathrm{max}$, a critical value of $g$, above which the two strategies coexist, but the proportion of the TW strategy steadily decreases as $g$ increases to unity. Similarly, when the effect of well-endowed males attaining disproportionately high number of matings is more pronounced, the TW strategy is more likely to go to fixation. Interestingly, the success of the TW strategy has a complex dependence on the variance of the physiological condition of females. If the difference in the two types of conditions is not large, TW strategy is favoured, and its success is more likely as the difference increases. However, beyond a critical value of the difference, the TW strategy is found to be less and less likely to succeed as the difference becomes larger. Possible reasons for these effects are discussed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Trivers-Willard hypothesis; maternal investment; sex ratio theory; optimal resource allocation; mathematical modelling.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Joshi" fname="N. V." isfellow="0">Joshi, N. V.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>$sY116$, a Human $Y$-Linked Polymorphic STS</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0017-0020</page>
 				<abstract>
-					<p></p>
+					<p>During a study of deletions of $Y$-chromosomal DNA in infertile males, $sY116$, a $Y$-linked STS, showed different electrophoretic mobilities in three males, two infertile and one fertile. A study of this STS among 35 other normal males showed that this locus is polymorphic. $sY116$ has a poly $A$-rich stretch whose instability appears to be the most likely cause of this polymorphism. The possible usefulness of $sY116$ polymorphism in the detection of subtle genome-wide instabilities in some types of cancer is discussed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>male infertility; polymorphism; $Y$ chromosome; mitotic instability.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="02" month="06" year="2000">
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>0457-0469</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Saifi" fname="G. Mustafa" isfellow="0">Saifi, G. Mustafa</author>
+					<author lname="Veitia" fname="Reiner" isfellow="0">Veitia, Reiner</author>
+					<author lname="Khil" fname="Houssein Khodjet El" isfellow="0">Khil, Houssein Khodjet El</author>
+					<author lname="Barbaux" fname="Sandrine" isfellow="0">Barbaux, Sandrine</author>
+					<author lname="Tilak" fname="Preetha" isfellow="0">Tilak, Preetha</author>
+					<author lname="Thomas" fname="I. Manorama" isfellow="0">Thomas, I. Manorama</author>
+					<author lname="Fellous" fname="Marc" isfellow="0">Fellous, Marc</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Darwin's Spectre: Evolutionary Biology in the Modern World, by Michael R. Rose</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0021-0023</page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
-				</allauthors>
-			</entry>
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>0457-0469</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
-				</allauthors>
-			</entry>
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>0457-0469</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
-				</allauthors>
-			</entry>
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>0457-0469</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Joshi" fname="Amitabh" isfellow="0">Joshi, Amitabh</author>
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="09" year="2000">
+		<issue inum="02" month="08" year="2000">
 			<entry issup="0">
-				<title></title>
+				<title>A Spectrum of Genes Expressed During Early Stages of Rice Panicle and Flower Development</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0025-0032</page>
 				<abstract>
-					<p></p>
+					<p>To unravel gene expression patterns during rice inflorescence development, particularly at early stages of panicle and floral organ specification, we have characterized random cloned cDNAs from developmental-stage-specific libraries. cDNA libraries were constructed from rice panicles at the stage of branching and flower primordia specification or from panicles undergoing floral organogenesis. Partial sequence analysis and expression patterns of some of these random cDNA clones from these two rice panicle libraries are presented. Sequence comparisons with known DNA sequences in databases reveal that approximately sixtyeight per cent of these expressed rice genes show varying degrees of similarity to genes in other species with assigned functions. In contrast, thirtytwo per cent represent uncharacterized genes. cDNAs reported here code for potential rice homologues of housekeeping molecules, regulators of gene expression, and signal transduction molecules. They comprise both single-copy and multicopy genes, and genes expressed differentially, both spatially and temporally, during rice plant development. New rice cDNAs requiring specific mention are those with similarity to $COP1$, a regulator of photomorphogenesis in \textit{Arabidopsis}; sequence-specific DNA binding plant proteins like $AP2$-domain-containing factors; genes that specify positional information in shoot meristems like leucine-rich-repeat-containing receptor kinases; regulators of chromatin structure like Polycomb domain protein; and also proteins induced by abiotic stresses.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>cDNA clones; rice panicles; floral development; rice.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Kushalappa" fname="Kumuda M." isfellow="0">Kushalappa, Kumuda M.</author>
+					<author lname="Mattoo" fname="Autar K." isfellow="0">Mattoo, Autar K.</author>
+					<author lname="Vijayraghavan" fname="Usha" isfellow="0">Vijayraghavan, Usha</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>The $p10$ Gene of \textit{Bombyx mori} Nucleopolyhedrosis Virus Encodes a 7.5-kDa Protein and is Hypertranscribed from a TAAG motif</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0033-0040</page>
 				<abstract>
-					<p></p>
+					<p>In baculovirus-based high-level expression of cloned foreign genes, the viral very late gene promoters of \textit{polyhedrin (polh)} and $p10$ are extensively exploited. Here we report the cloning and characterization of the $p10$ gene from a local isolate of \textit{Bombyx mori} nucleopolyhedrosis virus (BmNPV). The gene harbours a 213-bp open reading frame encoding a protein of 70 amino acids with a predicted molecular mass of 7.5 kDa. The BmNPV $p10$ showed deletion of a single $A$ at $+210$ nucleotide compared to the prototype baculovirus, \textit{Autographa californica} multinucleocapsid nucleopolyhedrosis virus (AcMNPV), $p10$ gene, resulting in a translational frameshift to generate a termination codon and consequently a truncated polypeptide instead of the $10$-kDa protein. This protein $P7.5$ from BmNPV has a putative leucine zipper dimerization motif towards the $N$-terminal end and the central nuclear disintegration domain but the carboxy-terminal domain implicated in protein association for fibrillar structure formation is absent. Phylogenetic analysis revealed that $p10$ is highly conserved among baculoviruses and the BmNPV strains are more closely related to AcMNPV than other baculoviruses. The transcription of $p10$ is regulated in a temporal manner, reaching maximal levels by 72 h post-infection. RNAase protection and primer extension analysis mapped the transcription start sites at -70 and -71 nt with respect to the ATG, within the conserved baculovirus late gene motif TAAG. The upstream region showed complete homology to the strong promoter of the AcMNPV $p10$, suggesting that this promoter from BmNPV could also be exploited for high-level expression of cloned foreign genes in silkworm cells or larvae.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Baculovirus; \textit{Bombyx mori}; BmNPV; late gene expression; $p10$ gene; transcriptional regulation.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Palhan" fname="Vikas B." isfellow="0">Palhan, Vikas B.</author>
+					<author lname="Gopinathan" fname="Karumathil P." isfellow="0">Gopinathan, Karumathil P.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Congruence of Genomic and Ethnolinguistic Affinities among Five Tribal Populations of Madhya Pradesh (India)</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0041-0046</page>
 				<abstract>
-					<p></p>
+					<p>The central Indian state of Madhya Pradesh is home to a large number of tribal populations of diverse linguistic and ethnic backgrounds. With a view to examining how well genomic affinities among tribal populations of this state correspond with their ethnic and linguistic affinities, we analysed DNA samples of individuals drawn from five tribes with diverse, but reasonably well-documented, ethnohistorical and linguistic backgrounds. Each DNA sample was scored at 16 biallelic DNA marker loci. On the basis of these data, genomic affinities among these populations were estimated. We have found an extremely good correspondence between the genomic and ethnolinguistic affinities.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>DNA polymorphism; ethnic group; language family.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Mukherjee" fname="Namita" isfellow="0">Mukherjee, Namita</author>
+					<author lname="Mitra" fname="Mitashree" isfellow="0">Mitra, Mitashree</author>
+					<author lname="Chakraborty" fname="Madan" isfellow="0">Chakraborty, Madan</author>
+					<author lname="Majumder" fname="Partha P." isfellow="0">Cao, Yang</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>An Improved Procedure of Mapping a Quantitative Trait Locus Via the EM Algorithm using Posterior Probabilities</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0047-0053</page>
 				<abstract>
-					<p></p>
+					<p>Mapping a locus controlling a quantitative genetic trait (e.g. blood pressure) to a specific genomic region is of considerable contemporary interest. Data on the quantitative trait under consideration and several codominant genetic markers with known genomic locations are collected from members of families and statistically analysed to estimate the recombination fraction, $\theta$, between the putative quantitative trait locus and a genetic marker. One of the major complications in estimating $\theta$ for a quantitative trait in humans is the lack of haplotype information on members of families. We have devised a computationally simple two-stage method of estimation of $\theta$ in the absence of haplotypic information using the expectation-maximization (EM) algorithm. In the first stage, parameters of the quantitative trait locus (QTL) are estimated on the basis of data of a sample of unrelated individuals and a Bayes's rule is used to classify each parent into a QTL genotypic class. In the second stage, we have proposed an EM algorithm for obtaining the maximum-likelihood estimate of $\theta$ based on data of informative families (which are identified upon inferring parental QTL genotypes performed in the first stage). The purpose of this paper is to investigate whether, instead of using genotypically `classified' data of parents, the use of posterior probabilities of QT genotypes of parents at the second stage yields better estimators. We show, using simulated data, that the proposed procedure using posterior probabilities is statistically more efficient than our earlier classification procedure, although it is computationally heavier.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Recombination fraction; linkage; maximum likelihood estimation.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Ghosh" fname="Saurabh" isfellow="0">Ghosh, Saurabh</author>
+					<author lname="Majumder" fname="Partha P." isfellow="0">Majumder, Partha P.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Modulation of Allele Leakiness and Adaptive Mutability in \textit{Escherichia coli}</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0055-0060</page>
+				<abstract>
+					<p>It is shown that partial phenotypic suppression of two ochre mutations ($argE3$ and $lacZU118$) and an amber mutation (in $argE$) by sublethal concentrations of streptomycin in an $rpsL^+$ (streptomycin-sensitive) derivative of the \textit{Escherichia coli} strain AB1157 greatly enhances their adaptive mutability under selection. Streptomycin also increases adaptive mutability brought about by the $ppm$ mutation described earlier. Inactivation of $recA$ affects neither phenotypic suppression by streptomycin nor replication-associated mutagenesis but abolishes adaptive mutagenesis. These results indicate a causal relationship between allele leakiness and adaptive mutability.</p>
+				</abstract>
+				<keywords>\textit{Escherichia coli}; phenotypic suppression; adaptive mutagenesis; allele leakiness; streptomycin.</keywords>
+				<allauthors>
+					<author lname="Jayaraman" fname="R." isfellow="0">Jayaraman, R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Negative Regulation of \textit{Ultrabithorax} Expression by \textit{Engrailed} is Required for Proper Specification of Wing Development in \textit{Drosophila Melanogaster}</title>
+				<feature></feature>
+				<page>0061-0070</page>
+				<abstract>
+					<p>In both vertebrates and invertebrates, homeotic selector genes confer morphological differences along the antero-posterior axis. However, insect wing development is independent of all homeotic gene functions, reflecting the ground plan of an ancestral pterygote, which bore wings on all segments. Dipteran insects such as \textit{Drosophila} are characterized by a pair of wings in the mesothoracic segment. In all other segments, wing development is essentially repressed by different homeotic genes, although in the metathorax they are modified into a pair of halteres. This necessitates that during development all homeotic genes are to be maintained in a repressed state in wing imaginal discs. In this report we show that (i) the function of the segment polarity gene \textit{engrailed (en)} is critical to keep the homeotic selector gene \textit{Ultrabithorax (Ubx)} repressed in wing imaginal discs, (ii) normal levels of En in the posterior compartment of haltere discs, however, are not enough to completely repress $Ubx$, and (iii) the repression of $Ubx$ by $en$ is independent of Hedgehog signalling through which the long-range signalling of $en$ is mediated during wing development. Finally we provide evidence for a possible mechanism by which $en$ represses $Ubx$. On the basis of these results we propose that $en$ has acquired two independent functions during the evolution of dorsal appendages. In addition to its well-known function of conferring posterior fate and inducing long-range signalling to pattern the developing appendages, it maintains wing fate by keeping $Ubx$ repressed.</p>
+				</abstract>
+				<keywords>homeosis; \textit{Drosophila}; wing; haltere; \textit{Ultrabithorax; engrailed; hedgehog.</keywords>
+				<allauthors>
+					<author lname="Emerald" fname="B. Starling" isfellow="0">Emerald, B. Starling</author>
+					<author lname="Shashidhara" fname="L. S." isfellow="0">Shashidhara, L. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Inheritance and Segregation of Exogenous Genes in Transgenic Cotton</title>
+				<feature></feature>
+				<page>0071-0075</page>
+				<abstract>
+					<p>Three transgenic cotton varieties (lines) were chosen for the study of inheritance and segregation of foreign Bt (\textit{Bacillus thuringiensis toxin}) and $tfdA$ genes in cotton. The transformed cotton varieties CCRI 30 and NewCott 33B expressing the Bt $cryIA$ gene, and cotton line TFD expressing the $tfdA$ gene were crossed with CCRI 19, CCRI 12 and Lumian 6. The results confirm inheritance and segregation of (i) the exogenous Bt gene in transgenic CCRI 30 and NewCott 33B, governing resistance to bollworm, and (ii) the exogenous $tfdA$ gene in transgenic TFD, governing resistance to the herbicide 2,4-D. Both resistance characters were governed by a single dominant nuclear gene, and were not affected by cytoplasm. Our data support the conclusion that foreign traits encoded by single genes are inherited and expressed in Mendelian fashion in cotton. Our results also indicate that a practical backcross breeding program could be used to develop cotton cultivars combining one or more resistance traits from foreign and native gene sources.</p>
+				</abstract>
+				<keywords>Transgenic cotton; Bt gene; $tfdA$ gene; inheritance; dominant gene.</keywords>
+				<allauthors>
+					<author lname="Zhang" fname="Bao-Hong" isfellow="0">Zhang, Bao-Hong</author>
+					<author lname="Guo" fname="Teng-Long" isfellow="0">Guo, Teng-Long</author>
+					<author lname="Wang" fname="Qing-Lian" isfellow="0">Wang, Qing-Lian</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Expression of the Gene for Large Subunit of $m$-Calpain is Elevated in Skeletal Muscle from Duchenne Muscular Dystrophy Patients</title>
+				<feature></feature>
+				<page>0077-0080</page>
+				<abstract>
+					<p>Calpain is an intracellular nonlysosomal protease involved in essential regulatory or processing functions of the cell, mediated by physiological concentrations of $Ca^{2+}. However, in an environment of abnormal intracellular calcium, such as that seen in Duchenne muscular dystrophy (DMD), calpain is suggested to cause degeneration of muscle owing to enhanced activity. To test whether the reported increase in calpain activity in DMD results from \textit{de novo} synthesis of the protease, we have assessed the quantitative changes in mRNA specific for $m$-calpain. mRNA isolated from DMD and control muscle was analysed by dot blot hybridization using a cDNA probe for the large subunit of $m$-calpain. Compared to control a four-fold increase in specific mRNA was observed in dystrophic muscle. This enhanced expression of the $m$-calpain gene in dystrophic condition suggests that the reported increase in $m$-calpain activity results from \textit{de novo} synthesis of protease and underlines the important role of $m$-calpain in DMD.</p>
+				</abstract>
+				<keywords>$m$-calpain; Duchenne muscular dystrophy; muscle tissue; RNA dot blot; calpain genetics.</keywords>
+				<allauthors>
+					<author lname="Hussain" fname="Tajamul" isfellow="0">Hussain, Tajamul</author>
+					<author lname="Mangath" fname="Harleen" isfellow="0">Mangath, Harleen</author>
+					<author lname="Sundaram" fname="C." isfellow="0">Sundaram, C.</author>
+					<author lname="Anandaraj" fname="P. J. S." isfellow="0">Anandaraj, P. J. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Gene Therapy in Inflammatory Diseases, Edited by Christopher H. Evans and Paul D. Robbins</title>
+				<feature></feature>
+				<page>0081-0081</page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Sarin" fname="Apurva" isfellow="0">Sarin, Apurva</author>
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="12" year="2000">
+		<issue inum="03" month="12" year="2000">
+			<entry issup="0">
+				<title>Identification of Four Genes Involved in Suppression of the Pre-mRNA Splicing Defect in the $sng1-1/rhp6^-$ Mutant of Fission Yeast</title>
+				<feature></feature>
+				<page>0083-0090</page>
+				<abstract>
+					<p>Apart from the global regulators of silencing in the fission yeast \textit{Schizosaccharomyces pombe}, namely $swi6, clr1, clr2, clr3, clr4$ and $rik1$, the DNA repair gene $rhp6$ plays a unique role in mating-type silencing. Recently, we showed that $sng1-1$, a mutation in the $5'$ splice junction of the second intron of the $rhp6$ gene, leads to derepression of both the silent loci $mat2$ and $mat3$ in switching background. To address the mechanism of $rhp6$ in silencing, we have isolated several extragenic suppressors of the $sng1-1/rhp6^-$ mutation. These suppressors fall into four complementation groups and are referred to as suppressor of $rhp6: sur1, sur2, sur3$ and $sur4$. Interestingly, reverse transcriptase polymerase chain reaction analysis of the $rhp6$ transcript shows that in contrast to about > 50% level of unspliced $rhp6$ pre-mRNA in the $sng1-1/rhp6^-$ mutant, there is a restoration of normal splicing to varying degrees in the suppressors. The $sur2$ gene belongs to the AAA-ATPase family of proteins, with maximum homology to the SIN1-associated protein SAP1 of \textit{Saccharomyces cerevisiae}. We propose that $sur2$, along with $sur1, sur3$ and $sur4$, may play an as yet uncharacterized role in pre-mRNA splicing.</p>
+				</abstract>
+				<keywords>Pre-mRNA splicing; suppressors; \textit{Schizosaccharomyces pombe}.</keywords>
+				<allauthors>
+					<author lname="Naresh" fname="Alpana" isfellow="0">Naresh, Alpana</author>
+					<author lname="Singh" fname="Jagmohan" isfellow="0">Singh, Jagmohan</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Isolation of a $cdc28$ Mutation that Abrogates the Dependence of $S$ Phase on Completion of $M$ Phase of the Budding Yeast Cell Cycle</title>
+				<feature></feature>
+				<page>0091-0096</page>
+				<abstract>
+					<p>We have isolated a mutation in the budding yeast \textit{Saccharomyces cerevisisae CDC28} gene that allows $cdc13$ cells, carrying damaged DNA, to continue with the cell division cycle. While $cdc13$ mutant cells are arrested as large-budded cells at the nonpermissive temperature 37°C, the $cdc13 cdc28$ double mutant culture showed cells with one or more buds, most of which showed apical growth. The additional buds emerged without the intervening steps of nuclear division and cell separation. We suggest that the $cdc28$ mutation abrogates a checkpoint function and allows cells with damaged or incompletely replicated DNA an entry to another round of cell cycle and bypasses the mitotic phase of the cell cycle.</p>
+				</abstract>
+				<keywords>Yeast; $Cdc28$ kinase; checkpoint; cell cycle.</keywords>
+				<allauthors>
+					<author lname="Ghosh" fname="Santanu Kumar" isfellow="0">Ghosh, Santanu Kumar</author>
+					<author lname="Sinha" fname="Pratima" isfellow="0">Sinha, Pratima</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Induced Mutation to Monocotyledony in Periwinkle, \textit{Catharanthus Roseus}, and Suppression of Mutant Phenotype by Kinetin</title>
+				<feature></feature>
+				<page>0097-0104</page>
+				<abstract>
+					<p>A recessive EMS-induced mutation inherited in Mendelian fashion caused monocotyledonous embryo formation and seed germination on high salt medium in \textit{Catharanthus roseus}. Availability during embryo development of exogenously supplied cytokinin kinetin suppressed the mutant phenotype. These observations suggest that, in $C$. \textit{roseus}, (i) insufficiency in endogenous kinetin may lead to monocotyledonous embryo patterning and (ii) dicotyledonous embryo formation requires a critical amount of kinetin in certain cells of early embryos.</p>
+				</abstract>
+				<keywords>Recessive mutation; monocotyledonous embryo; cytokinin; \textit{Catharanthus roseus}; Mendelian inheritance.</keywords>
+				<allauthors>
+					<author lname="Rai" fname="Shashi Pandey" isfellow="0">Rai, Shashi Pandey</author>
+					<author lname="Kumar" fname="Sushil" isfellow="0">Kumar, Sushil</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Meiosis and Speciation: a Study in a Speciating \textit{Mus Terricolor} Complex</title>
+				<feature></feature>
+				<page>0105-0111</page>
+				<abstract>
+					<p>The three chromosomal species of the \textit{Mus terricolor} complex possess $2n=40$ chromosomes. We show that their karyotypes differ in stable heterochromatin variations fixed in homozygous condition as prominent short arms in autosomes 1, 3 and 6. The three chromosomal species exhibit a high incidence of polymorphisms for Robertsonian fusions and pericentric inversions. Breeding experiments and histological analysis of testis show that heterozygosity for pericentric inversions and Robertsonian fusions had no effect on fertility. Meiotic analysis shows normal overall progression of meiosis in the heterozygotes, which is consistent with their normal gametogenesis. Nevertheless, both the inversion and fusion heterozygotes had undergone some alterations in the regular process of homologous synapsis, and it appeared that certain features of the meiotic system circumvented the potential negative effects of these polymorphic chromosomal rearrangements. The results indicate that the attributes of the meiotic system in a given organism could modulate the potential of a chromosomal rearrangement as reproductive barrier. The meiotic modulation hypothesis offers an explanation for the contradictory effects of the similar kinds of chromosomal mutations reported in different species.</p>
+				</abstract>
+				<keywords>Inversion; Robertsonian fusion; heterochromatin; chromosomal polymorphism; meiosis; speciation.</keywords>
+				<allauthors>
+					<author lname="Bardhan" fname="A." isfellow="0">Bardhan, A.</author>
+					<author lname="Sharma" fname="T." isfellow="0">Sharma, T.</author>
+				</allauthors>
+			</entry>
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0113-0123</page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -196,7 +253,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0125-0129</page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -209,7 +266,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0131-0132</page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -222,20 +279,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0457-0469</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
-				</allauthors>
-			</entry>
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>0457-0469</page>
+				<page>0133-0134</page>
 				<abstract>
 					<p></p>
 				</abstract>
