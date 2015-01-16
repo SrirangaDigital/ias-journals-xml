@@ -12991,9 +12991,165 @@
 		</issue>
 		<issue inum="03" month="03" year="2004">
 			<entry issup="0">
+				<title>Preface</title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords />
+				<allauthors>
+					<author lname="Roy" fname="D. P." isfellow="0">Roy, D. P.</author>
+					<author lname="Banerjee" fname="Sumanda" isfellow="0">Banerjee, Sumanda</author>
+					<author lname="Sridhar" fname="K." isfellow="0">Sridhar, K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Supersymmetry at D$\emptyset$ and other new phenomena searches in Run II</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0537-0540</page>
+				<abstract>
+					<p>The Run II of the D$\emptyset$  experiment was started in March 2001. The first preliminary results on searches for new physics are presented, with a luminosity of  $\sim$ 10 pb$^{-1}$ from the data collected in 2001–2002. We report results in mSUGRA (jets + missing $E_{\rm T}$ channel), GMSB (diphotons), RPV (trileptons and like sign dileptons) and large extra dimensions (dielectrons and diphotons).</p>
+				</abstract>
+				<keywords>D$\emptyset$; Run 2; supersymmetry; new phenomena; large extra dimension.</keywords>
+				<allauthors>
+					<author lname="Besson" fname="Auguste" isfellow="0">Besson, Auguste</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Search for supersymmetry at LEP-2</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0541-0544</page>
+				<abstract>
+					<p>An extensive effort to search for a hint of a supersymmetric signal was carried out by the four LEP Collaborations. All LEP data, up to centre-of-mass energy of 209 GeV, was carefully analysed with no observed SUSY signal. In an attempt to further increase the sensitivity of the search, the four groups combined some of their searches, to no avail.</p>
+				</abstract>
+				<keywords>SUSY; LEP; ALEPH; DELPHI; L3; OPAL; minimal supersymmetric standard model; gauge-mediated supersymmetry breaking.</keywords>
+				<allauthors>
+					<author lname="Duchovni" fname="Ehud" isfellow="0">Duchovni, Ehud</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>LEP Higgs boson searches beyond the standard model and minimum supersymmetric standard model</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0545-0550</page>
+				<abstract>
+					<p>Ever since the center-of-mass energy was increased in 1995 above the  $Z^{0}$ resonance, the four LEP experiments (ALEPH, DELPHI, OPAL and L3) have renewed their effort to search for the Higgs boson. Data taking ended in the year 2000 with about 130 pb$^{-1}$ f data collected per experiment above 206 GeV in $e^{+} e^{-}$ collisions but the data analysis is still very active. Most recently, the wealth of theoretical models and predictions has stimulated new analyses and model interpretations which go beyond the standard model and minimal supersymmetric standard model. These include the searches for charged Higgs bosons, models with two Higgs field doublets, searches for ‘fermiophobic’ Higgs decay, invisible Higgs boson decays, decay-mode independent searches, and limits on Yukawa and anomalous Higgs couplings. I review the searches done by the four LEP experiments and present the LEP combined results when they exist.</p>
+				</abstract>
+				<keywords />
+				<allauthors>
+					<author lname="Gagnon" fname="Pauline" isfellow="0">Gagnon, Pauline</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Searches for physics beyond the standard model in $f\bar{f}$ production at LEP II</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0551-0554</page>
+				<abstract>
+					<p>Preliminary combinations of measurements of the 4 LEP Collaborations of the process $e^{+}e^{-} \rightarrow f\bar{f}$ at LEP II are presented. The combined results are interpreted in terms of contact interactions and the exchange of $Z’$ bosons and within models of low-scale gravity in large extra dimensions.</p>
+				</abstract>
+				<keywords>Beyond the standard model;  $f\bar{f}$; LEP.</keywords>
+				<allauthors>
+					<author lname="Holt" fname="Peter John" isfellow="0">Holt, Peter John</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Neutral Higgs bosons in the standard model and in the minimal supersymmetric model: Searches at LEP</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0555-0560</page>
+				<abstract>
+					<p>During the twelve years of operation of the $e^{+}e^{-}$ collider LEP, the associated collaborations, ALEPH, DELPHI, L3 and OPAL, have extensively searched for Higgs bosons over a broad range of masses. We present the final results from LEP for the standard model Higgs boson which are obtained from a statistical combination of the data from the four experiments. We also present preliminary combined results for neutral Higgs bosons in the minimal supersymmetric model (MSSM) where the Higgs sector is assumed to be CP invariant. Finally, we discuss an alternative MSSM scenario including CP violation in the Higgs sector.</p>
+				</abstract>
+				<keywords>Higgs bosons; standard model; minimal supersymmetric model; searches</keywords>
+				<allauthors>
+					<author lname="Igo-Kemenes" fname="P" isfellow="0">Igo-Kemenes, P</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Search for narrow-width $t\bar{t}$ resonances in $p\bar{p}$ collisons at $\sqrt(s)=1.8$ TeV</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0561-0564</page>
+				<abstract>
+					<p>We present a preliminary result on a search for narrow-width resonances that decay into $t\bar{t}$ pairs using 130 pb$^{-1}$ of lepton + jets data in $p\bar{p}$ collisions at $\sqrt{s} =1.8$ TeV. No significant deviation is observed from prediction of the standard model, and upper limits at $95\%$ confidence on the product of the production cross-section and its branching fraction to $t\bar{t}$ are presented for narrow-width resonances, as a function of resonance mass $M_{X}$. We also use these limits to exclude the existence of a leptophobic top-color particle $X$, with $M_{X} &#60; 560$  GeV/c$^{2}$ and width ${\Gamma_X} = 0.012 M_{X}$.</p> 
+				</abstract>
+				<keywords />
+				<allauthors>
+					<author lname="Jain" fname="Supriya" isfellow="0">Jain, Supriya</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Prospects for Higgs search at D$\emptyset$</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0565-0568</page>
+				<abstract>
+					<p>The status of the Higgs search at the upgraded D$\emptyset$ detector is discussed.</p>
+				</abstract>
+				<keywords />
+				<allauthors>
+					<author lname="Snyder" fname="Scott S" isfellow="0">Snyder, Scott S</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Progress toward measuring the unitarity angle g</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0569-0572</page>
+				<abstract>
+					<p>Measuring the angle $\gamma$ of the unitarity triangle is an important part of over-constraining the standard model's explanation of CP violation and testing for new physics contributions to CP violation. Although there are many ways to measure $\gamma$, all of them have significant experimental or theoretical challenges. This talk presents progress at the BABAR experiment toward measuring $\gamma$ using $B$ meson decays.</p>
+				</abstract>
+				<keywords>$\gamma$; CP violation; BABAR.</keywords>
+				<allauthors>
+					<author lname="Bailey" fname="S" isfellow="0">Bailey, S</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Rare kaon decays: $K^{+} \rightarrow \pi^{+} \nu\bar{\nu}$ and future</title>
+				<feature>Experimental Particle Physics</feature>
+				<page>0573-0578</page>
+				<abstract>
+					<p>The experimental progress in the search for $K^{+} \rightarrow \pi^{+} \nu\bar{\nu}$ will be presented in this paper. Also the physics potential of the proposed BNL experiment to search for $K_{L}^{0} \rightaroow \pi^{0} \nu\bar{\nu}$ (KOPIO) will be discussed.</p>
+				</abstract>
+				<keywords>Cabibbo-Kobayashi-Maskawa; CP violation.</keywords>
+				<allauthors>
+					<author lname="Bhuyan" fname="Bipul" isfellow="0">Bhuyan, Bipul</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature>Experimental Particle Physics</feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature>Experimental Particle Physics</feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature>Experimental Particle Physics</feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13005,7 +13161,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13017,7 +13173,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13029,7 +13185,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13041,7 +13197,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13053,7 +13209,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13065,7 +13221,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13077,7 +13233,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13089,7 +13245,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13101,7 +13257,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13113,7 +13269,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13125,7 +13281,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13137,7 +13293,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13149,7 +13305,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13161,7 +13317,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13173,7 +13329,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13185,7 +13341,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13197,7 +13353,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13209,7 +13365,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13221,7 +13377,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13233,7 +13389,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13245,7 +13401,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13257,7 +13413,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13269,7 +13425,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13281,7 +13437,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13293,7 +13449,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13305,7 +13461,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13317,7 +13473,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13329,7 +13485,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13341,7 +13497,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13353,7 +13509,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13365,7 +13521,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13377,7 +13533,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13389,7 +13545,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13401,7 +13557,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13413,7 +13569,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13425,7 +13581,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13437,7 +13593,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13449,7 +13605,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13461,7 +13617,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13473,7 +13629,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13485,7 +13641,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13497,7 +13653,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13509,7 +13665,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13521,7 +13677,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13533,7 +13689,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13545,7 +13701,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13557,7 +13713,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13569,7 +13725,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13581,7 +13737,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13593,7 +13749,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13605,7 +13761,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13617,7 +13773,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13629,7 +13785,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13641,7 +13797,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13653,7 +13809,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13665,7 +13821,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13677,7 +13833,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13689,7 +13845,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13701,7 +13857,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13713,7 +13869,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13725,7 +13881,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13737,7 +13893,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13749,7 +13905,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13761,7 +13917,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13773,7 +13929,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13785,7 +13941,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13797,7 +13953,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13809,7 +13965,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13821,7 +13977,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13833,7 +13989,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13845,7 +14001,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13857,7 +14013,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13869,7 +14025,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13881,7 +14037,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13893,7 +14049,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13905,7 +14061,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13917,7 +14073,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13929,7 +14085,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13941,7 +14097,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13953,7 +14109,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13965,7 +14121,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13977,7 +14133,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -13989,7 +14145,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14001,7 +14157,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14013,7 +14169,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14025,7 +14181,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14037,7 +14193,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14049,7 +14205,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14061,7 +14217,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14073,7 +14229,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14085,7 +14241,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14097,7 +14253,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14109,7 +14265,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14121,7 +14277,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14133,7 +14289,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14145,7 +14301,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14157,7 +14313,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14169,7 +14325,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14181,7 +14337,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14193,7 +14349,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14205,7 +14361,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14217,7 +14373,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14229,7 +14385,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14241,7 +14397,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14253,7 +14409,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14265,7 +14421,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14277,7 +14433,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14289,7 +14445,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -14301,7 +14457,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -26990,7 +27146,7 @@
 			<entry issup="0">
 				<title>Structural and electrical transport properties of nanosized La$_{0.67}$Ca$_{0.33}$MnO$_{3}$ sample synthesized by a simple low-cost novel route</title>
 				<feature>Research Articles</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28725,7 +28881,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28737,7 +28893,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28749,7 +28905,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28761,7 +28917,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28773,7 +28929,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28785,7 +28941,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28797,7 +28953,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28809,7 +28965,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28821,7 +28977,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28833,7 +28989,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28845,7 +29001,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28857,7 +29013,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature>Invited Papers</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28869,7 +29025,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28881,7 +29037,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28893,7 +29049,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28905,7 +29061,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28917,7 +29073,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28929,7 +29085,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28941,7 +29097,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28953,7 +29109,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28965,7 +29121,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28977,7 +29133,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -28989,7 +29145,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29001,7 +29157,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29013,7 +29169,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29025,7 +29181,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29037,7 +29193,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29049,7 +29205,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29061,7 +29217,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29073,7 +29229,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29085,7 +29241,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29097,7 +29253,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29109,7 +29265,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29121,7 +29277,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29133,7 +29289,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29145,7 +29301,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29157,7 +29313,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29169,7 +29325,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29181,7 +29337,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29193,7 +29349,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29205,7 +29361,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29217,7 +29373,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29229,7 +29385,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29241,7 +29397,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29253,7 +29409,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29265,7 +29421,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29277,7 +29433,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29289,7 +29445,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29301,7 +29457,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29313,7 +29469,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29325,7 +29481,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29337,7 +29493,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29349,7 +29505,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29361,7 +29517,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29373,7 +29529,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29385,7 +29541,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29397,7 +29553,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29409,7 +29565,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29421,7 +29577,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29433,7 +29589,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29445,7 +29601,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29457,7 +29613,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29469,7 +29625,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29481,7 +29637,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29493,7 +29649,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29505,7 +29661,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29517,7 +29673,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29529,7 +29685,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29541,7 +29697,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29553,7 +29709,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29565,7 +29721,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29577,7 +29733,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29589,7 +29745,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29601,7 +29757,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29613,7 +29769,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29625,7 +29781,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29637,7 +29793,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29649,7 +29805,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29661,7 +29817,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29673,7 +29829,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29685,7 +29841,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29697,7 +29853,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29709,7 +29865,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29721,7 +29877,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29733,7 +29889,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29745,7 +29901,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29757,7 +29913,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29769,7 +29925,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29781,7 +29937,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29793,7 +29949,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29805,7 +29961,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29817,7 +29973,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29829,7 +29985,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29841,7 +29997,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29853,7 +30009,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29865,7 +30021,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29877,7 +30033,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29889,7 +30045,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29901,7 +30057,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -29913,7 +30069,7 @@
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -37672,7 +37828,7 @@
 			<entry issup="0">
 				<title>Analytical model of transient thermal effect on convectional cooled end-pumped laser rod</title>
 				<feature>Research Articles</feature>
-				<page>0000-0000</page>
+				<page></page>
 				<abstract>
 					<p>The transient analytical solutions of temperature distribution, stress, strain and optical path difference in convectional cooled end-pumped laser rod are derived. The results are compared with other works and good agreements are found. The effects of increasing the edge cooling and face cooling are studied. It is found that an increase in the edge cooling has significant effect on reducing the maximum temperature that can be reached in the laser rod but it has no effect on the value of optical path difference. It is also found that increasing this type of cooling significantly reduces the time required to reach the thermal equilibrium with a slight increase in the max. tensile hoop stress that can be reached as the cooling increases. On the other hand, increase in face cooling reduces the response time, optical path difference and the maximum temperature that can be reached in the laser rod but a significant increase in the max. tensile hoop stress is observed. A matching between the advantages of these two type of cooling may be useful for a designer.</p>
 				</abstract>
