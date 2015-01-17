@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bms SYSTEM "bms.dtd">
-<?xml-stylesheet type="text/xsl" href="Sadhana.xsl"?>
 
 <bms>
 	<volume vnum="023">
@@ -1210,7 +1209,7 @@
 				<feature>Semiconductors</feature>
 				<page>0471-0474</page>
 				<abstract>
-                    <p>The influence of temperature on current–voltage ($I–V$) characteristics of Au/$n$-GaAs Schottky diode formed on $n$-GaAs epitaxial layer grown by metal organic chemical vapour deposition technique has been investigated. The dopant concentration in the epitaxial layer is 1 × 10$^{16}$ cm$^{−3}$ . The change in various parameters of the diode like Schottky barrier height (SBH), ideality factor and reverse breakdown voltage as a function of temperature in the range 80−300 K is presented. The variation of apparent Schottky barrier height and ideality factor with temperature has been explained considering lateral inhomogeneities in the Schottky barrier height in nanometer scale lengths at the metal–semiconductor interface.</p>
+                    <p>The influence of temperature on current–voltage ($I–V$) characteristics of Au/$n$-GaAs Schottky diode formed on $n$-GaAs epitaxial layer grown by metal organic chemical vapour deposition technique has been investigated. The dopant concentration in the epitaxial layer is $1 \times 10^{16}$ cm$^{−3}$ . The change in various parameters of the diode like Schottky barrier height (SBH), ideality factor and reverse breakdown voltage as a function of temperature in the range 80−300 K is presented. The variation of apparent Schottky barrier height and ideality factor with temperature has been explained considering lateral inhomogeneities in the Schottky barrier height in nanometer scale lengths at the metal–semiconductor interface.</p>
                 </abstract>
 				<keywords>Schottky barrier height; metal–semiconductor interface; current–voltage characteristics; thermionic emission; ideality factor; lateral inhomogeneities in SBH.</keywords>
 				<allauthors>
@@ -1226,7 +1225,7 @@
 				<feature>Superconductors</feature>
 				<page>0475-0481</page>
 				<abstract>
-                    <p>In this paper we have shown that polycrystalline films corresponding to Tl-2223 phase can be grown by employing high thalliation temperatures and short thalliation times. Ultrasonically deposited precursor films corresponding to Ba$_2$Ca$_{2\ 2}$Cu$_{3\ 3}$O$_x$(Ag$_y$) have been thalliated under high vacuum ($\sim$ 10$^{–5}$ torr) at 890$^\circ $C to obtain single phase Tl-2223 films. An off-stoichiometric and unreacted pellet of composition Tl$_{2\ 05}$Ba$_2$Ca$_2$Cu$_3$O$_z$  has been used as source of Tl. We have shown that oxygen ambient is not necessary for the growth of Tl-2223 phase. The as-thalliated films have $T_c$’s in the range 123 K $\pm$ 0 70 K. The $T_c$  has been found to be independent of the addition of AgNO$_3$  to the precursor. The zero field transport $J_c$  has been observed to be &gt; 1 2 × 10$^5$  A/cm$^2$  at 77 K. Near $T_c$  (110 K–122 K), $J_c$  has been observed to follow the power law $J_c$ $(1 – T/T_c)^p , p$ 2. A power law with $p $ 1 4 has been observed for the temperature range 70 K–110 K. An optimum doping of Ag has been observed to induce about 25% increase in $J_c$  and it also leads to uniform and enlarged grain growth. The surface morphology of Ag free samples contains plate like grains having arbitrary shapes. In contrast to this 0 35 Ag doped sample exhibits nearly rectangular plate like grains.</p>
+                    <p>In this paper we have shown that polycrystalline films corresponding to Tl-2223 phase can be grown by employing high thalliation temperatures and short thalliation times. Ultrasonically deposited precursor films corresponding to Ba$_2$Ca$_{2\ 2}$Cu$_{3\ 3}$O$_x$(Ag$_y$) have been thalliated under high vacuum ($\sim$ 10$^{–5}$ torr) at 890$^\circ $C to obtain single phase Tl-2223 films. An off-stoichiometric and unreacted pellet of composition Tl$_{2\ 05}$Ba$_2$Ca$_2$Cu$_3$O$_z$  has been used as source of Tl. We have shown that oxygen ambient is not necessary for the growth of Tl-2223 phase. The as-thalliated films have $T_c$’s in the range 123 K $\pm$ 0 70 K. The $T_c$  has been found to be independent of the addition of AgNO$_3$  to the precursor. The zero field transport $J_c$  has been observed to be &gt; 1 2 $\times$ 10$^5$  A/cm$^2$  at 77 K. Near $T_c$  (110 K–122 K), $J_c$  has been observed to follow the power law $J_c$ $(1 – T/T_c)^p , p$ 2. A power law with $p $ 1 4 has been observed for the temperature range 70 K–110 K. An optimum doping of Ag has been observed to induce about 25% increase in $J_c$  and it also leads to uniform and enlarged grain growth. The surface morphology of Ag free samples contains plate like grains having arbitrary shapes. In contrast to this 0 35 Ag doped sample exhibits nearly rectangular plate like grains.</p>
                 </abstract>
 				<keywords>HTSC; thin films; Tl-2223; ultrasonic spray pyrolysis.</keywords>
 				<allauthors>
@@ -1235,161 +1234,774 @@
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Effect of HIPing on conductivity and impedance measurements of DyBi$_5$Fe$_2$Ti$_3$O$_{18}$ ceramics</title>
+				<feature>Oxide Ceramics</feature>
+				<page>0483-0489</page>
 				<abstract>
-                    <p></p>
+                    <p>X-ray diffraction, a.c. impedance and conductivity (a.c. and d.c.) have been used to characterize DyBi$_5$Fe$_2$Ti$_3$O$_{18}$. Samples were prepared by solid state double sintering method. A few samples were also subjected to hot isostatic pressing (HIP) at 800$^\circ $C for 2 h at 100 MPa pressure. The data on XRD, impedance and conductivity of two sets of samples are compared to understand study of effect of HIPing on the properties of DyBi$_5$Fe$_2$Ti$_3$O$_{18}$.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>Hot isostatic pressing (HIP); bismuth layered structure ferroelectrics (BLSF); ferroelectromagnetic materials; relaxor ferroelectrics.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Prasad" fname="N. V." isfellow="0">Prasad, N. V.</author>
+					<author lname="Prasad" fname="G." isfellow="0">Prasad, G.</author>
+					<author lname="Kumar" fname="Mahendra" isfellow="0">Kumar, Mahendra</author>
+					<author lname="Suryanarayana" fname="S. V." isfellow="0">Suryanarayana, S. V.</author>
+					<author lname="Bhimasankaram" fname="T." isfellow="0">Bhimasankaram, T.</author>
+					<author lname="Kumar" fname="G. S." isfellow="0">Kumar, G. S.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Thermal expansion behaviour of barium and strontium zirconium phosphates</title>
+				<feature>Oxide Ceramics</feature>
+				<page>0491-0494</page>
 				<abstract>
-                    <p></p>
+                    <p>Ba$_{1\, 5–x}$Sr$_x$Zr$_4$P$_5$SiO$_{24}$ compounds with $x$ = 0, 0 25, 0 5, 0 75, 1 0, 1 25 and 1 5, belonging to the low thermal expansion NZP family were synthesized by the solid state reaction method. The XRD pattern could be completely indexed with respect to R$\bar{3}$ space group indicating the ordering of vacancy at the divalent cation octahedral sites. The microstructure and bulk thermal expansion coefficient from room temperature to 800$^\circ $C of the sintered samples have been studied. All the samples show very low coefficient of thermal expansion (CTE), with $x = 0$ samples showing negative expansion. A small substitution of strontium in the pure barium compound changes the sign of CTE. Similarly, $x$ = 1 5 sample (pure strontium) shows a positive CTE and a small substitution of barium changes its sign. $X$ = 1 0 and 1 25 samples have almost constant CTE over the entire temperature range. The low thermal expansion of these samples can be attributed to the ordering of the ions in the crystal structure of these materials.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>Coefficient of thermal expansion; low thermal expansion; NZP; ceramic; dilatometer; anisotropy.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Tantri" fname="P. Srikari" isfellow="0">Tantri, P. Srikari</author>
+					<author lname="Geetha" fname="K." isfellow="0">Geetha, K.</author>
+					<author lname="Umarji" fname="A. M." isfellow="0">Umarji, A. M.</author>
+					<author lname="Ramasesha" fname="Sheela K." isfellow="0">Ramasesha, Sheela K.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Influence of strontium on the cubic to ordered hexagonal phase transformation in barium magnesium niobate</title>
+				<feature>Phase Transitions</feature>
+				<page>0495-0498</page>
 				<abstract>
-                    <p></p>
+                    <p>Oxides of the type Ba$_{3–x}$Sr$_x$MgNb$_2$O$_9$  were synthesized by the solid state route. The $x$ = 0 composition (Ba$_3$MgNb$_2$O$_9$) was found to crystallize in a disordered (cubic) perovskite structure when sintered at 1000C. For higher Sr doping ($x$ 0 5), there was clearly the presence of an ordered hexagonal phase indicated by the growth of superstructure reflections in the powder X-ray diffraction patterns. In all the compositions there was the presence of a minor amount of Ba$_{5–x}$Sr$_x$Nb$_4$O$_{15}$ phase which increased with Sr substitution up to $x$ = 1 and then it remained nearly constant at about 5%. Samples sintered at 1300C showed the hexagonally ordered phase for the entire range of composition (0 $x$ 3). The degree of ordering being considerably greater than in the 1000C heated samples as evidenced by several superstructure reflections.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>Oxides; X-ray diffraction; ordering; dielectric materials.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Thirumal" fname="M." isfellow="0">Thirumal, M.</author>
+					<author lname="Ganguli" fname="A. K." isfellow="0">Ganguli, A. K.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Oxynitride glasses$—$An overview</title>
+				<feature>Glasses</feature>
+				<page>0499-0507</page>
 				<abstract>
-                    <p></p>
+                    <p>The theory and practice of oxynitride glass synthesis and property evaluation came into effect since late 70’s. Its importance lies in the fact of its formation at the grain-boundary of synthesized silicon–nitride ceramics with additives. Earlier, heating an oxide glass with NH$_3$  and/or N$_2$  was the route to obtain oxynitride glass. Later on greater amount of nitrogen retention was made possible using AlN or Si$_3$N$_4$ as batch material. Silicate, borate and phosphate systems were studied in isolation or in conjugation. Melting temperature of such glasses varied from 1500–1800$^\circ $C. Different technological developments regarding furnace atmosphere, temperature, compositions etc have been discussed towards a successful synthesis with a thermodynamic approach. Nitrogen content in glass as high as 36 8 eq% has been reported by the application of an overpressure of 30 atm N$_2$. Different physical and chemical properties have been discussed in relation to nitrogen content in glass. Structural aspects have been considered with respect to XPS and IR spectroscopic studies. Finally some points have been highlighted towards some potential applications. </p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>Oxynitride glass; silicon–nitride; network former and modifier; leach resistance; nuclear waste.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Das" fname="T." isfellow="0">Das, T.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Spectroscopic and transport studies of Cu$^{2+}$ ion doped in (40 – $x$)Li$_2$O–$x$LiF–60Bi$_2$O$_3$ glasses</title>
+				<feature>Glasses</feature>
+				<page>0509-0513</page>
 				<abstract>
-                    <p></p>
+                    <p>The preparation of (40 – $x$)Li$_2$O–$x$LiF–60Bi$_2$O$_3$  glassy system and spectroscopic and transport studies of this system are reported. IR results show that this glass consists of [BiO$_3$] units and indicate formation of Bi–F bonds with the addition of LiF. From the ESR spectra of Cu$^{2+}$ ion, the effective g values are found to vary slightly with increasing concentration of fluorine ion. The optical absorption peak corresponding to Cu$^{2+}$ increased linearly with increasing concentration of LiF between 620 nm and 728 nm except at 2 5 mole% of LiF where its value is 729 nm. This peculiar behaviour is attributed to the varying structural coordination of fluorine as the concentration of lithium fluoride is increased. The ionic conductivity measurements indicate that the conduction is due to adiabatic hopping of polarons and the activation energies are found to be temperature and concentration dependent.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>Preparation; (40 – $x$)Li$_2$O–$x$LiF–60Bi$_2$O$_3$ glasses; spectroscopic and transport studies.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Sreenivasu" fname="D." isfellow="0">Sreenivasu, D.</author>
+					<author lname="Chandramouli" fname="V." isfellow="0">Chandramouli, V.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Cation exchange applications of synthetic tobermorite for the immobilization and solidification of cesium and strontium in cement matrix</title>
+				<feature>Cements</feature>
+				<page>0515-0520</page>
 				<abstract>
-                    <p></p>
+                    <p>Immobilization and solidification of hazardous cations like Cs$^{137}$ and Sr$^{90}$ are required while handling the radioactive waste of nuclear power plants. Efforts are on to find a fail proof method of safe disposal of nuclear wastes. In this context, various materials like borosilicate glass, zeolites, cements and synthetic rocks have been tried by several workers. This communication deals with the synthesis, characterization, cesium uptake capacity and leaching behaviour of synthetic alumina-substituted calcium silicate hydroxy hydrate, which are close to that obtained for the natural mineral, 11 Å tobermorite. The synthetic mineral show cation selectivity for Cs${}^+$  in presence of 500–1000 times concentrated solutions of Na$^+$ , K$^+$ , Mg$^{2+}$, Ca$^{2+}$ , Ba$^{2+}$ and Sr$^{2+}$. Although the ordinary portland cement (OPC) which is often used in waste management operations alone holds negligible amounts of Cs$^+$  and Sr$^{2+}$, the addition of alumina-substituted tobermorite to OPC enhances the retention power of cement matrix by drastically lowering the leach rate of cations.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>Cesium; strontium; selectivity; alumina substituted tobermorite; cement matrix.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Shrivastava" fname="O. P." isfellow="0">Shrivastava, O. P.</author>
+					<author lname="Shrivastava" fname="Rashmi" isfellow="0">Shrivastava, Rashmi</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Resistance to freezing and thawing of mortar specimens made from sulphoaluminate–belite cement</title>
+				<feature>Cements</feature>
+				<page>0521-0527</page>
 				<abstract>
-                    <p></p>
+                    <p>Resistance to freezing and thawing of mortar specimens made from sulphoaluminate–belite cement (M–SAB) is compared with that of mortars made from portland cement (M–PC). The results suggest that larger median radius of the pores and total porosity of M–SAB compared to those of M–PC are primarily caused by the rapid setting of the SAB cement. The ‘coarsening’ of pore structure of mortar specimens under action of freezing and thawing is proved by the increase in the macropores portion, median pore radius, and total porosity values. This process is more intense in M–SAB. The effect of the frost attack is confirmed by lower compressive strength and dynamic modulus of elasticity on the one hand and higher absorption capacity, expansion, and crack propagation of M–SAB compared with those of M–PC on the other hand. Besides the decreased frost resistance of M–SAB as compared with that of M–PC, unsatisfactory passivation of steel in M–SAB was found. The reason of this fact is the pH value decrease to less than 11 5 of the M–SAB extract.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>Frost resistance; low-energy sulphoaluminate–belite cement; steel reinforcement corrosion.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Janotka" fname="I." isfellow="0">Janotka, I.</author>
+					<author lname="Krajèi" fname="L’." isfellow="0">Krajèi, L’.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Effect of doping on TSD relaxation in cellulose acetate films</title>
+				<feature>Polymers</feature>
+				<page>0529-0532</page>
 				<abstract>
-                    <p></p>
+                    <p>Thermally stimulated depolarization current (TSDC) studies have been performed on solution grown cellulose acetate films doped with different concentrations of acrylic acid (AA) prepared at the poling temperatures (40–75$^\circ $C) with poling fields (10–50 kV/cm). The TSDC spectra of pure and AA doped CA films reveal two relaxation peaks at 80$^\circ $C and 180 $\pm$ 2$^\circ $C, having activation energies centred around 0 25 and 0 55 eV. The phenomena of the existence of these current maxima have been analyzed and discussed in terms of the molecular motion of the polar side groups and release of the remaining part of the frozen dipoles by their cooperative motion with adjoining segments of the main polymer chain. The peak currents, released charge and activation energies associated with the peaks are affected by AA doping. The effect of doping with acrylic acid on the discharge current indicates the formation of molecular aggregates.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>. TSD relaxation; cellulose acetate; acrylic acid; molecular aggregates.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Khare" fname="P. K." isfellow="0">Khare, P. K.</author>
+					<author lname="Jain" fname="P. L." isfellow="0">Jain, P. L.</author>
+					<author lname="Pandey" fname="R. K." isfellow="0">Pandey, R. K.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>50 MeV lithium ion beam irradiation effects in poly vinylidene fluoride (PVDF) polymer</title>
+				<feature>Polymers</feature>
+				<page>0533-0538</page>
 				<abstract>
-                    <p></p>
+                    <p>Irradiation effects of 50 MeV ${}^7$Li$^{+3}$ ion beam induced in bulk PVDF polymer have been studied with respect to their optical, chemical, structural and electrical behaviour by using UV-visible, FT-IR spectroscopy, XRD technique and electrical frequency response using LCR bridge. The ion fluences ranging from 1 27 $\times$ 10$^{11}$ to 2 15 $\times$ 10$^{13}$ ions cm$^{–2}$ have been used to study dose effects of irradiation in PVDF. The recorded UV-visible spectra clearly shows five characteristic peaks at 315, 325, 360, 425 and 600 nm. Due to irradiation, the optical absorption initially decreases but then increases with higher fluences. In the FT-IR spectra, no appreciable change has been observed after irradiation, indicating that this polymer is chemically stable. There is exponential increase in admittance with log of frequency but the effect of irradiation is not quite appreciable. The value of tan $d$ and relaxation frequency are changed appreciably due to irradiation. The diffraction pattern of PVDF indicates that this polymer is in semi-crystalline form; a decrease in the crystallinity and crystallite size has been observed due to irradiation.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>PVDF polymer; lithium ion irradiation; UV-visible and FT-IR spectroscopy; X-ray diffraction; a.c. frequency response.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Shrivastava" fname="A. K." isfellow="0">Shrivastava, A. K.</author>
+					<author lname="Virk" fname="H. S." isfellow="0">Virk, H. S.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Pure mechanical wear loss measurement in corrosive wear</title>
+				<feature>Mechanical Properties</feature>
+				<page>0539-0542</page>
 				<abstract>
-                    <p></p>
+                    <p>The method for the measurement of the pure mechanical wear loss for 321 stainless steel, 1045 steel and pure iron in the study of the synergy between corrosion and wear was studied. The methods studied included the measurement in distilled water, by cathodic protection and by adding inhibitor KI, and all were compared with the wear loss in air. The experiment showed that the pure mechanical wear losses and friction coefficients obtained by the three methods were close to each other and can be used to calculate the various wear components in the study of the interaction of corrosion and wear, but the measurements in distilled water for pure iron and 1045 steel are not recommended due to their corrosion.</p>
                 </abstract>
-				<keywords></keywords>
+				<keywords>. Corrosive wear; synergy; pure mechanical wear loss.</keywords>
 				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
+					<author lname="Huang" fname="Yanliang" isfellow="0">Huang, Yanliang</author>
+					<author lname="Jiang" fname="Xiaoxia" isfellow="0">Jiang, Xiaoxia</author>
+					<author lname="Li" fname="Sizuo" isfellow="0">Li, Sizuo</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Subject index</title>
 				<feature></feature>
-				<page></page>
-				<abstract>
-                    <p></p>
-                </abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
+				<page>0543-0552</page>
+				<abstract />
+                 <keywords />
+				<allauthors />
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Author index</title>
 				<feature></feature>
-				<page></page>
-				<abstract>
-                    <p></p>
-                </abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
+				<page>0553-0558</page>
+				<abstract />
+				<keywords />
+				<allauthors />
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Volume Contents</title>
 				<feature></feature>
-				<page></page>
-				<abstract>
-                    <p></p>
-                </abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
+				<page>i-vii</page>
+				<abstract />
+				<keywords />
+				<allauthors />
 			</entry>
 		</issue>
     </volume>
+    <volume vnum="024">
+		<issue inum="01" month="02" year="2001">
+			<entry issup="0">
+				<title>Kinetics of pressure induced structural phase transitions—A review</title>
+				<feature>Review---Phase Transitions</feature>
+				<page>0001-0021</page>
+				<abstract>
+                    <p>The current status of experimental as well as theoretical advances in the understanding of kinetics of structural phase transitions is reviewed. A brief outline of the classification of phase transitions and classical ideas in the theory of kinetics of phase change is presented first. High pressure experimental techniques developed for studying the kinetics of structural transitions are reviewed and the salient features of each technique is brought out. The experimental technique using the diamond anvil cell (DAC) and image processing gets special mention as it promises to impart a new direction to this field. The usefulness of kinetic parameters in understanding the mechanism of a phase transition is examined. Typical examples from the literature are provided to give a flavour for these kind of studies. In conclusion, several open questions are raised which could pave way for future work in this area.</p>
+                </abstract>
+				<keywords>High pressure; structural transitions; kinetics.</keywords>
+				<allauthors>
+					<author lname="Shekar" fname="N. V. Chandra" isfellow="0">Shekar, N. V. Chandra</author>
+					<author lname="Rajan" fname="K. Govinda" isfellow="0">Rajan, K. Govinda</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>On the origin of recrystallization textures</title>
+				<feature>Review---Phase Transitions</feature>
+				<page>0023-0026</page>
+				<abstract>
+                    <p>The development of recrystallization textures has been debated for the past 50 years. Essentially the rival theories of evolution of recrystallization textures i.e. oriented nucleation (ON) and oriented growth (OG) has been under dispute. In the ON model, it has been argued that a higher frequency of the special orientation (grains) than random occur, thus accounting for the texture. In the OG model, it has been argued that the specially oriented grains have a high mobility boundary and thus can migrate faster and grow to a larger size as compared to random orientations thus contributing to the final recrystallization texture.</p>
+                    <p>In FCC metals and alloys like aluminium, cube orientation [(001) 100 ] is the recrystallization texture component. In the classic OG model, cube orientation is supposed to be misoriented from $S$-orientation [(123) 63$\bar{4}$ ] which is a deformation texture component by a 40$^\circ $ about 111 relationship which is supposed to be a high mobility boundary leading to faster growth of cube grains. Stereographic calculations and analytical calculations are presented in this paper to the effect that the $S$-orientation (123) 63$\bar{4}$ is not misoriented from cube (100) 001 by 40$^\circ $ (111) whereas another deformation texture component (123) 41$\bar{2}$ which is termed the $R$-component is misoriented from cube component by 40$^\circ $ 111 . $R$-component is also seen in deformation textures of aluminium and hence the classic OG model remains valid with respect to the $R$-component.</p>
+                </abstract>
+				<keywords>Recrystallization; oriented nucleation; oriented growth; cube orientation</keywords>
+				<allauthors>
+					<author lname="Kashyap" fname="K. T." isfellow="0">Kashyap, K. T.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of high-energy heavy ion irradiation on the crystallization kinetics of Co-based metallic glasses</title>
+				<feature>Review---Phase Transitions</feature>
+				<page>0027-0033</page>
+				<abstract>
+                    <p>Differential scanning calorimeter (DSC) is employed to study the crystallization kinetics of irradiated (at three different fluences with high-energy heavy ion; Ni$^{11+}$ of 150 MeV) specimens of two Co-based metallic glasses. It is found that the crystallization process in both the glasses is completed in two phases. The DSC data have been analysed in terms of kinetic parameters viz. activation energy ($E_c$), Avrami exponent ($n$), dimensionality of growth ($m$), using two different theoretical models. The results obtained have been compared with that of virgin samples. The lower activation energy in case of second crystallization occurring at higher temperature indicates the easier nucleation of second phase. The abnormally high value of Avrami exponent in Co–Ni glass indicates very high nucleation rate during first crystallization.</p>
+                </abstract>
+				<keywords>Crystallization kinetics; high-energy heavy ion irradiation; morphology.</keywords>
+				<allauthors>
+					<author lname="Jain" fname="Rohit" isfellow="0">Jain, Rohit</author>
+					<author lname="Bhandari" fname="Deepika" isfellow="0">Bhandari, Deepika</author>
+					<author lname="Saxena" fname="N. S." isfellow="0">Saxena, N. S.</author>
+					<author lname="Sharma" fname="S. K." isfellow="0">Sharma, S. K.</author>
+					<author lname="Tripathi" fname="A." isfellow="0">Tripathi, A.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of 80 keV Ar$^+$  implantation on the properties of pulse laser deposited magnetite (Fe$_3$O$_4$) thin films</title>
+				<feature>Review---Phase Transitions</feature>
+				<page>0035-0038</page>
+				<abstract>
+                    <p>Highly oriented thin films of Fe$_3$O$_4$ were deposited on (100) LaAlO$_3$ substrates by pulsed laser ablation. The structural quality of the films was confirmed by X-ray diffraction (XRD). The films showed a Verwey transition near 120 K. The films were subjected to 80 keV Ar$^+$ implantation at different ion doses up to a maximum of $6 \times 10^{14}$ ions/cm$^2$. Ion beam induced modifications in the films were investigated using XRD and resistance vs temperature measurements. Implantation decreases the change in resistance at 120 K and this effect saturates beyond $3 \times 10^{14}$ ions/cm$^2$. The Verwey transition temperature, $T_V$, shifts towards lower temperatures with increase in ion dose.</p>
+                </abstract>
+				<keywords>Implantation; magnetite; thin films; pulsed laser ablation; Verwey transition.</keywords>
+				<allauthors>
+					<author lname="Lanke" fname="U. D." isfellow="0">Lanke, U. D.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis of ferrite grade $\mathbf{g}$-Fe$_2$O$_3$</title>
+				<feature>Magnetic Materials</feature>
+				<page>0039-0045</page>
+				<abstract>
+                    <p>Iron(II) carboxylato–hydrazinates: Ferrous fumarato–hydrazinate (FFH), FeC$_4H$_2$O$_4$ 2N$_2$H$_4$; ferrous succinato–hydrazinate (FSH), FeC$_4$H$_4$O$_4$ 2N$_2$H$_4$; ferrous maleato–hydrazinate (FEH), FeC$_4$H$_2$O$_4$ 2N$_2$H$_4$; ferrous malato–hydrazinate (FLH), FeC$_4$H$_4$O$_5$ 2N$_2$H$_4$; ferrous malonato–hydrazinate (FMH), FeC$_3$H$_2$O$_4$ 1 5N$_2$H$_4$ H$_2$O; and ferrous tartrato–hydrazinate (FTH), FeC$_4$H$_4$O$_6$ N$_2$H$_4$ H$_2$O are being synthesized for the first time. These decompose (autocatalytically) in an ordinary atmosphere to mainly $\mathbf{g}$-Fe$_2$O$_3$, while the unhydrazinated iron(II) carboxylates in air yield $\mathbf{a}$-Fe$_2$O$_3$, but the controlled atmosphere of moisture requires for the oxalates to stabilize the metastable $\mathbf{g}$-Fe$_2$O$_3$. The hydrazine released during heating reacts with atmospheric oxygen liberating enormous energy, $$N_2H_4 + O_2 \quad N_2 + H_2O; H_2O = – 621 kJ/mol,$$ which enables to oxidatively decompose the dehydrazinated complex to $\mathbf{g}$-Fe$_2$O$_3$. The reaction products N$_2$ + H$_2$O provide the necessary atmosphere of moisture needed for the stabilization of the metastable oxide.</p>
+					<p>The synthesis, characterization and thermal decomposition (DTA/TG) of the iron(II) carboxylato–hydrazinates are discussed to explain the suitability of $\mathbf{g}$-Fe$_2$O$_3$  in the ferrite synthesis.</p>
+                </abstract>
+				<keywords>Carboxylate; hydrazine; metastable oxide; ferrite.</keywords>
+				<allauthors>
+					<author lname="Rane" fname="K. S." isfellow="0">Rane, K. S.</author>
+					<author lname="Verenkar" fname="V. M. S." isfellow="0">Verenkar, V. M. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Structural and magnetic properties of CaMg$_2$Fe$_{16}$O$_{27}$</title>
+				<feature>Magnetic Materials</feature>
+				<page>0047-0050</page>
+				<abstract>
+                    <p>A new compound, CaMg$_2$Fe$_{16}$O$_{27}$, is synthesized for the first time, in polycrystalline form, using stoichiometric mixture of oxides with standard ceramic technique and characterized by X-ray diffraction. It is found to have a hexagonal W-type structure with lattice parameters $a$ = 5 850 Å and $c$ = 33 156 Å. Electrical studies show that the compound is a semiconductor with energy of activation, $E$ = 0 56 eV. Electrical conductivity results show a transition in the conductivity vs temperature plot near the Curie temperature. The activation energy value obtained for the paramagnetic phase is found to be higher than that of the ferrimagnetic phase. The molar magnetic susceptibility was measured in the temperature range 300–850 K and the results show that the compound is ferrimagnetic at room temperature. The compound also shows hysteresis at 300 K. Paramagnetic nature of the sample above Curie temperature is also studied. The Curie molar constant $C_M$ calculated from the plot of 1/$c_M$ vs $T(K)$ is found to be nearly in agreement with the expected value.</p>
+                </abstract>
+				<keywords>W-type ferrite; electrical conductivity; paramagnetic susceptibility; Curie molar constant.</keywords>
+				<allauthors>
+					<author lname="Sawadh" fname="P. S." isfellow="0">Sawadh, P. S.</author>
+					<author lname="Kulkarni" fname="D. K." isfellow="0">Kulkarni, D. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Electrochemical behaviour of LiM$_y$Mn$_{2–y}$O$_4$(M = Cu, Cr; 0 $y$ 0 4)</title>
+				<feature>Electrode Materials</feature>
+				<page>0051-0055</page>
+				<abstract>
+                    <p>Spinel lithium manganese oxide, LiMn$_2$O$_4$, is beset with problems of capacity fade upon repeated cycling. The loss in capacity upon cycling is attributable to Jahn–Teller distortion and manganese dissolution in the electrolyte in the charged state. One way to circumvent this capacity fade is to introduce other $3d$ transition metal ions in the LiMn$_2$O$_4$ lattice. In this paper, we report on the effect of partial substitution of manganese in the LiMn$_2$O$_4$ phase with copper (II) and chromium (III) ions. It has been shown that the higher octahedral stabilization energy of trivalent chromium imparts greater structural stability to chromium-doped LiMn$_2$O$_4$ spinels. Both copper and chromium reduce the capacity of the spinel in the 4 V region. In terms of its good reversible capacity and ability to sustain cycling with minimal capacity fade, LiCr$_{0\ 1}$Mn$_{1\ 9}$O$_4$  may be considered as a potential cathode material for lithium rechargeable cells.</p>
+                </abstract>
+				<keywords>Chromium doped LiMn$_2$O$_4$; copper doped LiMn$_2$O$_4$; reversible capacity; cyclability; spinel structure.</keywords>
+				<allauthors>
+					<author lname="Thirunakaran" fname="R." isfellow="0">Thirunakaran, R.</author>
+					<author lname="Babu" fname="B. Ramesh" isfellow="0">Babu, B. Ramesh</author>
+					<author lname="Kalaiselvi" fname="N." isfellow="0">Kalaiselvi, N.</author>
+					<author lname="Periasamy" fname="P." isfellow="0">Periasamy, P.</author>
+					<author lname="Kumar" fname="T. Prem" isfellow="0">Kumar, T. Prem</author>
+					<author lname="Renganathan" fname="N. G." isfellow="0">Renganathan, N. G.</author>
+					<author lname="Raghavan" fname="M." isfellow="0">Raghavan, M.</author>
+					<author lname="Muniyandi" fname="N." isfellow="0">Muniyandi, N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>pH controlled dispersion and slip casting of Si$_3$N$_4$ in aqueous media</title>
+				<feature>Advanced Ceramics</feature>
+				<page>0057-0061</page>
+				<abstract>
+                    <p>The dispersion characteristics of commercial Si$_3$N$_4$  powder in aqueous media (deionized water) was studied as a function of pH in the range 2–11. The slip was characterized for its dispersion quality by various experimental techniques like particle size analysis, sedimentation phenomena, viscosity and flow behaviour and zeta potential analysis. The optimum dispersion was found to be in the pH region 9–11 wherein the slurry displayed minimum sedimentation height, minimum viscosity, near Newtonian flow behaviour and maximum zeta potential. The slip is highly agglomerated in the pH range 2–8 as manifested by higher sedimentation height, higher viscosity, lower zeta potential and thixotropic non-Newtonian flow behaviour. The 72 wt% (44 vol.%) Si$_3$N$_4$ slips made at pH = 10 resulted in green bodies having 53–59% of theoretical density after casting into plaster molds.</p>
+                </abstract>
+				<keywords>Dispersion; slip casting; Si$_3$N$_4$ slips.</keywords>
+				<allauthors>
+					<author lname="Rao" fname="R. Ramachandra" isfellow="0">Rao, R. Ramachandra</author>
+					<author lname="Roopa" fname="H. N." isfellow="0">Roopa, H. N.</author>
+					<author lname="Kannan" fname="T. S." isfellow="0">Kannan, T. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Acoustic investigations on PbO–Al$_2$O$_3$–B$_2$O$_3$ glasses doped with certain rare earth ions</title>
+				<feature>Glasses</feature>
+				<page>0063-0068</page>
+				<abstract>
+                    <p>Elastic moduli (Y, $\mathbf{h}$), Poisson’s ratio ($\mathbf{s}$), microhardness ($H$) and some thermodynamical parameters such as Debye temperature ($\mathbf{q}_D$), diffusion constant ($D_i$), latent heat of melting ( $H_m$) etc of PbO–Al$_2$O$_3$–B$_2$O$_3$ glasses doped with rare earth ions viz. Pr$^{3+}$, Nd$^{3+}$, Sm$^{3+}$, Eu$^{3+}$, Tb$^{3+}$, Dy$^{3+}$, Ho$^{3+}$, Er$^{3+}$ and Yb$^{3+}$, are studied as functions of temperatures (in the temperature range 30–200$^\circ $C) by ultrasonic techniques. All these parameters are found to increase with increasing atomic number $Z$ of the rare earth ions and found to decrease with increasing temperature of measurement. From these results (together with IR spectra of these glasses), an attempt is made to throw some light on the mechanical strength of these glasses.</p>
+                </abstract>
+				<keywords>PbO–Al$_2$O$_3$–B$_2$O$_3$ glasses; rare earth ions; elastic moduli.</keywords>
+				<allauthors>
+					<author lname="Reddy" fname="Rami" isfellow="0">Reddy, Rami</author>
+					<author lname="Raju" fname="S. Bangaru" isfellow="0">Raju, S. Bangaru</author>
+					<author lname="Veeraiah" fname="N." isfellow="0">Veeraiah, N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Glass and glass–ceramic coatings, versatile materials for industrial and engineering applications</title>
+				<feature>Glasses</feature>
+				<page>0069-0077</page>
+				<abstract>
+                    <p>Among various coating systems for industrial and engineering applications, glass and glass–ceramic coatings have advantages of chemical inertness, high temperature stability and superior mechanical properties such as abrasion, impact etc as compared to other coating materials applied by thermal spraying in its different forms viz. PVD, CVD, plasma, etc. Besides imparting required functional properties such as heat, abrasion and corrosion resistance to suit particular end use requirements, the glass and glass–ceramic coatings in general also provide good adherence, defect free surface and refractoriness.</p>
+                    <p>Systematic studies covering the basic science of glass and glass–ceramic coatings, the functional properties required for a particular end-use along with the various fields of application have been reviewed in this paper.</p>
+                </abstract>
+				<keywords>Wear; glass and glass–ceramic coatings; enamelling; coating properties.</keywords>
+				<allauthors>
+					<author lname="Majumdar" fname="Amitava" isfellow="0">Majumdar, Amitava</author>
+					<author lname="Jana" fname="Sunirmal" isfellow="0">Jana, Sunirmal</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Impact fatigue behaviour of carbon fibre-reinforced vinylester resin composites</title>
+				<feature>Polymers</feature>
+				<page>0079-0086</page>
+				<abstract>
+                    <p>Two types of unidirectional carbon fibre, one of high strength (DHMS) and another of medium strength (VLMS) reinforced vinylester resin composites have been examined for their impact fatigue behaviour over 10$^4$ impact cycles for the first time. The study was conducted using a pendulum type repeated impact apparatus specially designed and constructed for the purpose. A well-defined impact fatigue behaviour (S–N type curve) curve has been demonstrated. It showed a plateau region of 10–10$^2$  cycles immediately below the single cycle impact strength, followed by progressive endurance with decreasing impact loads, culminating in an endurance limit at about 71% and 85% of the single impact strength for DHMS-48 and VLMS-48, respectively. Analysis of the fractured surfaces revealed primary debonding, fibre breakage and pull-out at the tensile zone of the samples and a shear mode of fracture with breakage of fibre bundles at the compressive zone of the samples. The occurrence of a few major macrocracks in the matrix with fibre breakage at the high load–low endurance region and development of multiple microcracks in the matrix, coalescing and fibre breakage at the low-load–high endurance region have been inferred to explain the fatigue behaviour of the composites examined.</p>
+                </abstract>
+				<keywords>Repeated impact; carbon fibre; vinylester resin; residual stress; modulus; toughness; impact energy.</keywords>
+				<allauthors>
+					<author lname="Roy" fname="Rita" isfellow="0">Roy, Rita</author>
+					<author lname="Sarkar" fname="B. K." isfellow="0">Sarkar, B. K.</author>
+					<author lname="Rana" fname="A. K." isfellow="0">Rana, A. K.</author>
+					<author lname="Bose" fname="N. R." isfellow="0">Bose, N. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effects of moisture on the mechanical properties of glass fibre reinforced vinylester resin composites</title>
+				<feature>Polymers</feature>
+				<page>0087-0094</page>
+				<abstract>
+                    <p>Glass fibre reinforced vinylester resin composites incorporating varying amounts of fibres (63 5, 55 75, 48 48, 38 63 and 27 48 wt%) were characterized for their mechanical properties both as prepared and after treatment with boiling water for 2, 4, 6, 8 and 24 h. Weights of the samples were found to increase to a saturation at about 8 h with boiling water treatment.</p>
+                    <p>In keeping with the composite principle, the mechanical properties improved with fibre loading. However, the properties were relatively inferior when treated with boiling water for longer hours attributing to ingress of moisture by capillary action through the interface between the fibre and the resin matrix. Considering the rates of moisture absorption and correlating with the mechanical properties, it was observed that the deteriorating effects were predominant up to 4 h treatment with boiling water. Estimation of defect concentrations for 63 5 wt% of nascent fibre reinforced composites as well as those composites treated with boiling water for 24 h were 56 93% and 64 16% respectively. Similarly, 27 48 wt% nascent fibre reinforced composites and those composites with boiling water treatment showed the estimation of defect concentrations of 39 94% and 50 55% respectively. SEM study of the fractured surfaces showed heavy fibre pull-out in the tensile zone whilst shear fracture of the fibre bundles was predominant at the compressive zone of the samples tested for flexural strength properties.</p>
+                </abstract>
+				<keywords>Nascent glass fibre; vinylester resin; moisture effects; fibre pull-out.</keywords>
+				<allauthors>
+					<author lname="Roy" fname="Rita" isfellow="0">Roy, Rita</author>
+					<author lname="Sarkar" fname="B. K." isfellow="0">Sarkar, B. K.</author>
+					<author lname="Bose" fname="N. R." isfellow="0">Bose, N. R.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="04" year="2001">
+			<entry issup="0">
+				<title>Foreword</title>
+				<feature></feature>
+				<page>0095-0095</page>
+				<abstract />
+				<keywords />
+				<allauthors>
+					<author lname="Sarkar" fname="B. K." isfellow="0">Sarkar, B. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Some numerical approaches of creep, thermal shock, damage and delayed failure of ceramics and refractories</title>
+				<feature></feature>
+				<page>0097-0100</page>
+				<abstract>
+                    <p>Numerical simulation is now very often used to predict the behaviour of components in service conditions. This paper is interested in specific approaches concerning ceramic materials and refractories. Creep can be satisfactorily described by a kinematic hardening, and exhibits different creep rates in tension and compression. Concerning the thermal shock of materials, the numerical approach depends whether or not the material is able to develop a sprayed out damage, leading to micro- or macro-cracking. Finally, delayed failure at high temperature can be considered as a consequence of creep, but the random aspect of failure seriously complicates the numerical models. The lack of experimental data presently limits the calibration and the validation of the numerical models.</p>
+                </abstract>
+				<keywords>Ceramic; refractories; creep; thermal stock; damage; delayed failure; numerical simulation.</keywords>
+				<allauthors>
+					<author lname="Boussuge" fname="Michel" isfellow="0">Boussuge, Michel</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of zirconia addition on the fatigue behaviour of fine grained alumina</title>
+				<feature></feature>
+				<page>0101-0104</page>
+				<abstract>
+                    <p>The fatigue behaviour of fine grained Al$_2$O$_3$ and ZrO$_2$ toughened Al$_2$O$_3$ (ZTA) compositions with 15 vol% ZrO$_2$ (3 mol% Y$_2$O$_3$  stabilized: 3Y-TZP) have been investigated by using three different techniques. Primarily 4-point bending load was employed to generate tension–tension fatigue data under both static and cyclic conditions. The results clearly showed that the materials were susceptible to both the static and cyclic fatigue and the time to failure under cyclic loading was considerably shorter than the equivalent static loads. The repeated indentations at the same spot with varying loads showed a typical fatigue behaviour. In addition, both the materials were subjected to the repeated impact cycles at varying subcritical loads simulating impact fatigue. In all the cases typical fatigue curves were obtained having a progressive endurance at subcritical loads having an endurance limit. The fatigue behaviour of Al$_2$O$_3$  was much improved by the addition of 15 vol% 3Y-TZP, having micro-plasticity contributing towards the cyclic fatigue phenomena of these materials.</p>
+                </abstract>
+				<keywords>Fatigue; static/cyclic loading; microplasticity.</keywords>
+				<allauthors>
+					<author lname="Basu" fname="D." isfellow="0">Basu, D.</author>
+					<author lname="Sarkar" fname="B. K." isfellow="0">Sarkar, B. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Indentation fatigue in silicon nitride, alumina and silicon carbide ceramics</title>
+				<feature></feature>
+				<page>0105-0109</page>
+				<abstract>
+                    <p>Repeated indentation fatigue (RIF) experiments conducted on the same spot of different structural ceramics viz. a hot pressed silicon nitride (HPSN), sintered alumina of two different grain sizes viz. 1 $\mu$m and 25 $\mu$m, and a sintered silicon carbide (SSiC) are reported. The RIF experiments were conducted using a Vicker’s microhardness tester at various loads in the range 1–20 N. Subsequently, the gradual evolution of the damage was characterized using an optical microscope in conjunction with the image analysing technique. The materials were classified in the order of the decreasing resistance against repeated indentation fatigue at the highest applied load of 20 N. It was further shown that there was a strong influence of grain size on the development of resistance against repeated indentation fatigue on the same spot. Finally, the poor performance of the sintered silicon carbide was found out to be linked to its previous thermal history.</p>
+                </abstract>
+				<keywords>Indentation fatigue; silicon nitride; silicon carbide; grain size.</keywords>
+				<allauthors>
+					<author lname="Mukhopadhyay" fname="A. K." isfellow="0">Mukhopadhyay, A. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Fracture resistance of 8 mol% yttria stabilized zirconia</title>
+				<feature></feature>
+				<page>0111-0116</page>
+				<abstract>
+                    <p>An $in$ $situ$ technique for the assessment of fracture resistance employing double cantilever beam (DCB) specimens was developed in the present study. The side-grooved DCB specimens were loaded with pure bending moments in a specially designed and fabricated test fixture which went inside the specimen chamber of a scanning electron microscope. The study as conducted on a 8 mol% fully stabilized cubic phase yttria (Y$_2$O$_3$) stabilized zirconia (YSZ) ceramic. The powder processed sheets were sintered at 1600$^\circ $C for 2 h in a zirconia tube furnace. The mode I applied energy release rate, $G_I$ was determined for both pure YSZ and treated YSZ. Two sets of experiments were conducted for the complete characterization of the ceramics. Three fracture toughness values were determined for the pure and treated ceramics, viz. (i) at the onset of the crack initiation, $G_{ic}$, (ii) at the arrest of a subcritical crack, $G_{ia}$ and (iii) at the onset of the fast fracture, $G_{if}$. Two analyses of the experimental data were carried out, viz. method of extrapolation and statistical analysis. In case of the pure YSZ, a transgranular mode of the stable crack growth was identified to be predominant. The porous coating treatment appeared to have positive effects as the crack initiation resistance increased due to electrode layers. The stable crack growth behaviours of the ceramics were investigated by monitoring the crack growth velocity as a function of applied $G$ values. The results obtained were of direct significance in designing and fabrication of SOFC stacks.</p>
+                </abstract>
+				<keywords>YSZ; fracture resistance; fracture energy; fracture toughness; SOFC stacks.</keywords>
+				<allauthors>
+					<author lname="Sorensen" fname="B. F." isfellow="0">Sorensen, B. F.</author>
+					<author lname="Kumar" fname="A. N." isfellow="0">Kumar, A. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Fracture toughness and reliability in high-temperature structural ceramics and composites: Prospects and challenges for the 21st Century</title>
+				<feature></feature>
+				<page>0117-0120</page>
+				<abstract>
+                    <p>The importance of high fracture toughness and reliability in Si$_3$N$_4$, and SiC-based structural ceramics and ceramic matrix composites is reviewed. The potential of these ceramics and ceramic matrix composites for high temperature applications in defence and aerospace applications such as gas turbine engines, radomes, and other energy conversion hardware have been well recognized. Numerous investigations were pursued to improve fracture toughness and reliability by incorporating various reinforcements such as particulate-, whisker-, and continuous fibre into Si$_3$N$_4$ and SiC matrices. All toughening mechanisms, e.g. crack deflection, crack branching, crack bridging, etc essentially redistribute stresses at the crack tip and increase the energy needed to propagate a crack through the composite material, thereby resulting in improved fracture toughness and reliability. Because of flaw insensitivity, continuous fibre reinforced ceramic composite (CFCC) was found to have the highest potential for higher operating temperature and longer service conditions. However, the ceramic fibres should display sufficient high temperature strength and creep resistance at service temperatures above 1000$^\circ $C. The greatest challenge to date is the development of high quality ceramic fibres with associate coatings able to maintain their high strength in oxidizing environment at high temperature. In the area of processing, critical issues are preparation of optimum matrix precursors, precursor infiltration into fibre array, and matrix densification at a temperature, where grain crystallization and fibre degradation do not occur. A broad scope of effort is required for improved processing and properties with a better understanding of all candidate composite systems.</p>
+                </abstract>
+				<keywords>CFCC; toughening; fracture toughness; $b$-Si$_3$N$_4$.</keywords>
+				<allauthors>
+					<author lname="Dutta" fname="Sunil" isfellow="0">Dutta, Sunil</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mechanical characteristics of microwave sintered silicon carbide</title>
+				<feature></feature>
+				<page>0121-0124</page>
+				<abstract>
+                    <p>The present work deals with the sintering of SiC with a low melting additive by microwave technique. The mechanical characteristics of the products were compared with that of conventionally sintered products. The failure stress of the microwave sintered products, in biaxial flexure, was superior to that of the products made by conventional sintering route in ambient condition. In firing of products by conventionally sintered process, SiC grain gets oxidized producing SiO$_2$ ( 32 wt%) and deteriorates the quality of the product substantially. Partially sintered silicon carbide by such a method is a useful material for a varieties of applications ranging from kiln furniture to membrane material.</p>
+                </abstract>
+				<keywords>Microwave sintering; biaxial flexure; silicon carbide.</keywords>
+				<allauthors>
+					<author lname="Mandal" fname="S." isfellow="0">Mandal, S.</author>
+					<author lname="Seal" fname="A." isfellow="0">Seal, A.</author>
+					<author lname="Dalui" fname="S. K." isfellow="0">Dalui, S. K.</author>
+					<author lname="Dey" fname="A. K." isfellow="0">Dey, A. K.</author>
+					<author lname="Ghatak" fname="S." isfellow="0">Ghatak, S.</author>
+					<author lname="Mukhopadhyay" fname="A. K." isfellow="0">Mukhopadhyay, A. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mechanical characterization of microwave sintered zinc oxide</title>
+				<feature></feature>
+				<page>0125-0128</page>
+				<abstract>
+                    <p>The mechanical characterization of microwave sintered zinc oxide disks is reported. The microwave sintering was done with a specially designed applicator placed in a domestic microwave oven operating at a frequency of 2 45 GHz to a maximum power output of 800 Watt. These samples with a wide variation of density and hence, of open pore volume percentage, were characterized in terms of its elastic modulus determination by ultrasonic time of flight measurement using a 15 MHz transducer. In addition, the load dependence of the microhardness was examined for the range of loads 0 1–20 N. Finally, the fracture toughness data ($K_{IC}$) was obtained using the indentation technique.</p>
+                </abstract>
+				<keywords>Zinc oxide; microwave sintering; microhardness.</keywords>
+				<allauthors>
+					<author lname="Mukhopadhyay" fname="A. K." isfellow="0">Mukhopadhyay, A. K.</author>
+					<author lname="Chaudhuri" fname="M. Ray" isfellow="0">Chaudhuri, M. Ray</author>
+					<author lname="Seal" fname="A." isfellow="0">Seal, A.</author>
+					<author lname="Dalui" fname="S. K." isfellow="0">Dalui, S. K.</author>
+					<author lname="Banerjee" fname="M." isfellow="0">Banerjee, M.</author>
+					<author lname="Phani" fname="K. K." isfellow="0">Phani, K. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of alkali treated jute fibres on composite properties</title>
+				<feature></feature>
+				<page>0129-0135</page>
+				<abstract>
+                    <p>Jute fibres were subjected to a 5% alkali (NaOH) solution treatment for 0, 2, 4, 6 and 8 h at 30$^\circ $C. An improvement in the crystallinity in the jute fibres increased its modulus by 12%, 68% and 79% after 4, 6 and 8 h of treatment respectively. The tenacity of the fibres improved by 46% after 6 and 8 h treatment and the % breaking strain was reduced by 23% after 8 h treatment. For the 35% composites with 4 h treated fibres, the flexural strength improved from 199 1 MPa to 238 9 MPa by 20%, modulus improved from 11 89 GPa to 14 69 GPa by 23% and laminar shear strength increased from 0 238 MPa to 0 2834 MPa by 19%. On plotting the different values of slopes obtained from the rates of improvement of the flexural strength and modulus, against the NaOH treatment time, two different failure modes were apparent before and after 4 h of treatment. In the first region between 0 and 4 h, fibre pull out was predominant whereas in the second region between 6 and 8 h, transverse fracture occurred with a minimum fibre pull out. This observation was well supported by the SEM investigations of the fracture surfaces.</p>
+                </abstract>
+				<keywords>Vinylester resin; jute fibre composite; alkali; mechanical properties; fracture; fibre pull out.</keywords>
+				<allauthors>
+					<author lname="Ray" fname="Dipa" isfellow="0">Ray, Dipa</author>
+					<author lname="Sarkar" fname="B. K." isfellow="0">Sarkar, B. K.</author>
+					<author lname="Rana" fname="A. K." isfellow="0">Rana, A. K.</author>
+					<author lname="Bose" fname="N. R." isfellow="0">Bose, N. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Behaviour of $E$-glass fibre reinforced vinylester resin composites under impact fatigue</title>
+				<feature></feature>
+				<page>0137-0142</page>
+				<abstract>
+                    <p>An impact fatigue study has been made for the first time on 63 5% glass fibre reinforced vinylester resin notched composites. The study was conducted in a pendulum type repeated impact apparatus especially designed and fabricated for determining single and repeated impact strengths. A well-defined impact fatigue (S–N) behaviour, having a progressive endurance below the threshold single cycle impact fracture stress with decreasing applied stress has been demonstrated. Fractographic analysis revealed fracture by primary debonding having fibre breakage and pullout at the tensile zone, but a shear fracture of fibre bundles at the compressive zone of the specimen. The residual strength, modulus and toughness showed retention of the properties at high impact stress levels up to 1000 impacts followed by a sharp drop. Cumulative residual stresses with each number of impacts not withstanding the static fatigue failure at long endurances have been ascribed for the composite failures under the repeated impact stresses.</p>
+                </abstract>
+				<keywords>Impact fatigue; static fatigue; residual stress; E-glass fibre; vinylester resin.</keywords>
+				<allauthors>
+					<author lname="Roy" fname="Rita" isfellow="0">Roy, Rita</author>
+					<author lname="Sarkar" fname="B. K." isfellow="0">Sarkar, B. K.</author>
+					<author lname="Bose" fname="N. R." isfellow="0">Bose, N. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Failure analysis of multiple delaminated composite plates due to bending and impact</title>
+				<feature></feature>
+				<page>0143-0149</page>
+				<abstract>
+                    <p>The present work aims at the first ply failure analysis of laminated composite plates with arbitrarily located multiple delaminations subjected to transverse static load as well as impact. The theoretical formulation is based on a simple multiple delamination model. Conventional first order shear deformation is assumed using eight-noded isoparametric quadratic elements to develop the finite element analysis procedure. Composite plates are assumed to contain both single and multiple delaminations. For the case of impact, Newmark time integration algorithm is employed for solving the time dependent multiple equations of the plate and the impactor. Tsai-Wu failure criterion is used to check for failure of the laminate for both the cases. To investigate the first ply failure, parametric studies are made for different cases by varying the size and number of delaminations as well as the stacking sequences and boundary conditions.</p>
+                </abstract>
+				<keywords>Failure analysis; delaminated composite; bending; impact.</keywords>
+				<allauthors>
+					<author lname="Parhi" fname="P. K." isfellow="0">Parhi, P. K.</author>
+					<author lname="Bhattacharyya" fname="S. K." isfellow="0">Bhattacharyya, S. K.</author>
+					<author lname="Sinha" fname="P. K." isfellow="0">Sinha, P. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mechanical properties of very thin cover slip glass disk</title>
+				<feature></feature>
+				<page>0151-0155</page>
+				<abstract>
+                    <p>The biaxial flexural strength, Young’s modulus, Vicker’s microhardness and fracture toughness data for very thin, commercial, soda-lime-silica cover slip glass (diameter, D-18 mm, thickness, T-0 3 mm; T/D 0 02) are reported here. The ball on ring biaxial flexure tests were conducted at room temperature as a function of the support ring diameter ( 10–20 mm) and cross head speed (0 1–10 mm min$^{–1}$). In addition, the Weibull modulus data were also determined. The Young’s modulus data was measured using a linear variable differential transformer (LVDT) from biaxial flexure tests and was checked out to be comparable to the data obtained independently from the ultrasonic time of flight measurement using a 15 MHz transducer. The microhardness data was obtained for the applied load range of 0 1–20 N. The fracture toughness ($K_{IC}$) data was obtained by the indentation technique at an applied load of 20 N.</p>
+                </abstract>
+				<keywords>Biaxial flexural strength; Young’s modulus; fracture toughness; Weibull modulus.</keywords>
+				<allauthors>
+					<author lname="Seal" fname="A." isfellow="0">Seal, A.</author>
+					<author lname="Dalui" fname="A. K." isfellow="0">Dalui, A. K.</author>
+					<author lname="Banerjee" fname="M." isfellow="0">Banerjee, M.</author>
+					<author lname="Mukhopadhyay" fname="A. K." isfellow="0">Mukhopadhyay, A. K.</author>
+					<author lname="Phani" fname="K. K." isfellow="0">Phani, K. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Cracking phenomena in lithium-di-silicate glass ceramics</title>
+				<feature></feature>
+				<page>0157-0160</page>
+				<abstract>
+                    <p>Lithium-di-silicate glass ceramic (Li$_2$O, SiO$_2$) with uniformly oriented crystals was placed on a Vickers indentation with extrusion axis horizontally parallel to the base axis. The material was rotated through 0$^\circ $– 90$^\circ $ and at each angle a 20 N load was applied to ascertain the crack path. It was observed that the crack length decreases and the crack deviates from its original path with increasing angle. The deviation of the crack was correlated with the component of the crack driving force and the theoretical strength of the aligned crystals at different angles.</p>
+                </abstract>
+				<keywords>Lithium-di-silicate; crystals; angle of rotation; crack driving force.</keywords>
+				<allauthors>
+					<author lname="Banerjee" fname="Rajat" isfellow="0">Banerjee, Rajat</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Critical fatigue behaviour in brittle glasses</title>
+				<feature></feature>
+				<page>0161-0164</page>
+				<abstract>
+                    <p>The dynamic fatigue fracture behaviour in different glasses under various sub-threshold loading conditions are analysed here employing an anomalous diffusion model. Critical dynamical behaviour in the time-to-fracture and the growth of the micro-crack sizes, similar to that observed in such materials in the case of quasi-static (“instantaneous”) failures for above-threshold conditions, are predicted and compared with some of the experimental observations in different glasses.</p>
+                </abstract>
+				<keywords>Fracture dynamics; critical behaviour; anomalous diffusion.</keywords>
+				<allauthors>
+					<author lname="Banerjee" fname="Rajat" isfellow="0">Banerjee, Rajat</author>
+					<author lname="Chakrabarti" fname="Bikas K." isfellow="0">Chakrabarti, Bikas K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Stress relaxation and estimation of activation volume in a commercial hard PZT piezoelectric ceramic</title>
+				<feature></feature>
+				<page>0165-0167</page>
+				<abstract>
+                    <p>The stress relaxation of ferroelectric/piezoelectric material was studied using compression testing. The deformation was produced by the switching of ferroelectric domains. The internal stresses were estimated by decremental stress relaxation during unloading. The results were interpreted in terms of reversible and irreversible switching of the domains.</p>
+                </abstract>
+				<keywords>Ferroelectric/piezoelectric material; deformation; decremental stress relaxation; domains.</keywords>
+				<allauthors>
+					<author lname="Cheng" fname="B. L." isfellow="0">Cheng, B. L.</author>
+					<author lname="Reece" fname="M. J." isfellow="0">Reece, M. J.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of stress ratio and frequency on fatigue crack growth rate of 2618 aluminium alloy silicon carbide metal matrix composite</title>
+				<feature></feature>
+				<page>0169-0171</page>
+				<abstract>
+                    <p>Effect of stress ratio and frequency on the fatigue crack propagation of 2618 aluminium alloy–silicon carbide composite were investigated at ambient temperature. With the first set of specimens, the fatigue crack growth rates were studied at three frequencies of 1 Hz, 5 Hz and 10 Hz at a stress ratio of 0 1 whereas the effects of stress ratios of 0 1, 0 25 and 0 50 were studied with the second set of specimens. The study showed that the fatigue crack propagation behaviour of this metal matrix composite was influenced to an appreciable extent by the stress ratio, but not by the fatigue frequencies used in this investigation.</p>
+                </abstract>
+				<keywords>Aluminium alloy–SiC composite; fatigue crack; stress ratio.</keywords>
+				<allauthors>
+					<author lname="Singh" fname="Nirbhay" isfellow="0">Singh, Nirbhay</author>
+					<author lname="Khelawan" fname="Ram" isfellow="0">Khelawan, Ram</author>
+					<author lname="Mathur" fname="G. N." isfellow="0">Mathur, G. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Particle fracture and plastic deformation in vanadium pentoxide powders induced by high energy vibrational ball-mill</title>
+				<feature></feature>
+				<page>0173-0180</page>
+				<abstract>
+                    <p>An X-ray powder profile analysis in vanadium pentoxide powder milled in a high energy vibrational ball-mill for different lengths of time (0–250 h), is presented. The strain and size induced broadening of the Bragg reflection for two different crystallographic directions ([001] and [100]) was determined by Warren–Averbach analysis using a pattern-decomposition method assuming a Pseudo–Voigt function. The deformation process caused a decrease in the crystallite size and a saturation of crystallite size of $\sim$ 10 nm was reached after severe milling. The initial stages of milling indicated a propensity of size-broadening due to fracture of the powder particles caused by repeated ball-to-powder impact whereas with increasing milling time microstrain broadening was predominant. WA analysis indicated significant plastic strain along with spatial confinement of the internal strain fields in the crystallite interfaces. Significant strain anisotropy was noticed in the different crystallographic directions. A near-isotropy in the crystallite size value was noticed for materials milled for 200 h and beyond. The column-length distribution function obtained from the size Fourier coefficients progressively narrowed down with the milling time.</p>
+                </abstract>
+				<keywords>X-ray diffraction; ball-milling; plastic deformation; microstrain.</keywords>
+				<allauthors>
+					<author lname="Chatterjee" fname="Partha" isfellow="0">Chatterjee, Partha</author>
+					<author lname="Gupta" fname="S. P. Sen" isfellow="0">Gupta, S. P. Sen</author>
+					<author lname="Sen" fname="Suchitra" isfellow="0">Sen, Suchitra</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study of indentation induced cracks in MoSi$_2$-reaction bonded SiC ceramics</title>
+				<feature></feature>
+				<page>0181-0184</page>
+				<abstract>
+                    <p>MoSi$_2$–RBSC composite samples were prepared by infiltration of Si–2 at.% Mo melt into a preform of commercial SiC and petroleum coke powder. The infiltrated sample had a density &gt; 92% of the theoretical density (TD) and microstructurally contained SiC, MoSi$_2$, residual Si and unreacted C. The material was tested for indentation fracture toughness at room temperature with a Vicker’s indenter and KIC was found to be 4 42 MPa m which is around 39% higher than the conventional RBSC material. Enhancement in indentation fracture toughness is explained in terms of bowing of propagating cracks through MoSi$_2$/SiC interface which is under high thermal stress arising from the thermal expansion mismatch between MoSi$_2$ and SiC.</p>
+                </abstract>
+				<keywords>Reaction bonded SiC; indentation hardness; fracture toughness.</keywords>
+				<allauthors>
+					<author lname="Chakrabarti" fname="O. P." isfellow="0">Chakrabarti, O. P.</author>
+					<author lname="Das" fname="P. K." isfellow="0">Das, P. K.</author>
+					<author lname="Mondal" fname="S." isfellow="0">Mondal, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Stereological characterization of crack path transitions in ceramic matrix composites</title>
+				<feature></feature>
+				<page>0185-0190</page>
+				<abstract>
+                    <p>All ceramic composites involve a mismatch in physical properties the extent of which differs from one composite to another. Mismatch in thermal expansion ( $a$) and elastic modulus ( $E$) is known to produce stresses that influence the path of a propagating crack. Thus, the relative effect of thermal and elastic mismatch on the crack path is expected to change with change in stress intensity. We propose that the crack path in ceramic composites should undergo a transition with the crack being strongly influenced by the thermal mismatch stresses at low stress intensity and elastic mismatch stresses at high stress intensities. Thus, a material in use under different applications each with its own loading conditions is expected to exhibit different crack propagation tendencies which may be reflected in the $v–K$ characteristics of the composite material. In the present work several model composites with different combinations of thermal and elastic mismatch have been considered. Cracks propagating at different sub-critical stress intensities (velocities) were generated by a novel indentation technique. Each indentation was performed at a constant displacement rate and a peak load. A range of displacement rates were used to produce cracks propagating at different velocities. The indentations were made using a Vickers indentor fitted in a universal mechanical testing machine. The crack paths in composites were quantified by stereological technique and the proposed theory was verified.</p>
+                </abstract>
+				<keywords>Elastic mismatch; subcritical stress intensity; Vicker’s indentor; $v–K$ characteristics.</keywords>
+				<allauthors>
+					<author lname="Bhargava" fname="Parag" isfellow="0">Bhargava, Parag</author>
+					<author lname="Patterson" fname="B. R." isfellow="0">Patterson, B. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Densification and mechanical properties of mullite–SiC nanocomposites synthesized through sol–gel coated precursors</title>
+				<feature></feature>
+				<page>0191-0195</page>
+				<abstract>
+                    <p>Mullite–SiC nanocomposites are synthesized by introducing surface modified sol–gel mullite coated SiC particles in the matrix and densification and associated microstructural features of such precursor are reported. Nanosize SiC (average size 180 nm) surface was first provided with a mullite precursor coating which was characterized by the X-ray analysis and TEM. An average coating thickness of 120 nm was obtained on the SiC particles. The green compacts obtained by cold isostatic pressing were sintered in the range 1500–1700$^\circ $C under pressureless sintering in the N$_2$ atmosphere. The percentage of the theoretical sintered density decreases with increase in SiC content. A maximum sintered density of 97% was achieved for mullite–5 vol.% SiC. The fractograph of the sintered composite showed a highly dense, fine grained microstructure with the SiC particles uniformly distributed along the grains as well as at the grain boundaries inside the mullite. The Vicker’s microhardness of mullite–5 vol.% SiC composite was measured as 1320 kg/mm$^2$ under an applied indentation load of 500 $g$. This value gradually decreased with an increase in SiC content.</p>
+                </abstract>
+				<keywords>. Mullite–SiC nanocomposites; sol–gel; microstructure; Vicker’s microhardness.</keywords>
+				<allauthors>
+					<author lname="Warrier" fname="K. G. K." isfellow="0">Warrier, K. G. K.</author>
+					<author lname="Kumar" fname="G. M. Anil" isfellow="0">Kumar, G. M. Anil</author>
+					<author lname="Ananthakumar" fname="S." isfellow="0">Ananthakumar, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mechanical properties of glass polymer multilayer composite</title>
+				<feature></feature>
+				<page>0197-0201</page>
+				<abstract>
+                    <p>The preliminary experimental studies on the comparative behaviour of the deformation processes involved in the failure of a commercial, 0 3 mm thick, 18 mm diameter soda–lime–silica glass disks ($G$) and multilayered glass disk–epoxy (GE) as well as glass disk–epoxy–$E$-glass fabric (GEF) composite structures are reported. The failure tests were conducted in a biaxial flexure at room temperature. The epoxy was a commercial resin and the $E$-glass fabric was also commercially obtained as a two-dimensional weave of $E$-glass fibres to an area density of about 242 g m$^{–2}$. The multilayered structures were developed by alternate placement of the glass and reinforcing layers by a hand lay-up technique followed by lamination at an appropriate temperature and pressure. Depending on the number of layers the volume fraction of reinforcement could be varied from about 0 20 for the GE system to about 0 50 for the GEF system. It was observed that the specific failure load (load per unit thickness) was enhanced from a value of about 60 N/mm obtained for the glass to a maximum value of about 100 N/mm for the GE composites and to a maximum of about 70 N/mm for the GEF composite system. Similarly, the displacements at failure ($d$) measured with a linear variable differential transformer (LVDT) were also found to be a strongly sensitive function of the type of reinforcement (GE or GEF) as well as the number of layers.</p>
+                </abstract>
+				<keywords>Multilayer glass–epoxy material; biaxial flexure; reinforcement.</keywords>
+				<allauthors>
+					<author lname="Seal" fname="A." isfellow="0">Seal, A.</author>
+					<author lname="Bose" fname="N. R." isfellow="0">Bose, N. R.</author>
+					<author lname="Dalui" fname="S. K." isfellow="0">Dalui, S. K.</author>
+					<author lname="Mukhopadhyay" fname="A. K." isfellow="0">Mukhopadhyay, A. K.</author>
+					<author lname="Phani" fname="K. K." isfellow="0">Phani, K. K.</author>
+					<author lname="Maiti" fname="H. S." isfellow="0">Maiti, H. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Crack propagation studies and bond coat properties in thermal barrier coatings under bending</title>
+				<feature></feature>
+				<page>0203-0209</page>
+				<abstract>
+                    <p>Ceramic based thermal barrier coatings (TBC) are currently considered as a candidate material for advanced stationary gas turbine components. Crack propagation studies under bending are described that were performed on plasma sprayed ZrO$_2$, bonded by MCrAlY layer to Ni base superalloy. The crack propagation behaviour of the coatings at room temperature in as received and oxidized conditions revealed a linear growth of the cracks on the coating till the yield point of the super alloy was reached. High threshold load at the interface between the ceramic layer and the bond coat was required to propagate the crack further into the bond coat. Once the threshold load was surpassed the crack propagated into the brittle bond coat without an appreciable increase in the load. At temperatures of 800$^\circ $C the crack propagated only in the TBC (ceramic layer), as the ductile bond coat offered an attractive sink for the stress relaxation. Effects of bond coat oxidation on crack propagation in the interface region have been examined and are discussed.</p>
+                </abstract>
+				<keywords>Coating; thermal barrier; bond coat; superalloy; crack propagation; zirconia; plasma spraying; stress; strain; modulus.</keywords>
+				<allauthors>
+					<author lname="Ray" fname="A. K." isfellow="0">Ray, A. K.</author>
+					<author lname="Roy" fname="N." isfellow="0">Roy, N.</author>
+					<author lname="Godiwalla" fname="K. M." isfellow="0">Godiwalla, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Macroporous silica–alumina composites with mesoporous walls</title>
+				<feature>Composites</feature>
+				<page>0211-0214</page>
+				<abstract>
+                    <p>Macroporous silica–alumina composites with mesopores have been prepared by employing polymethylmethacrylate beads as templates in the presence of the cationic surfactant, N-cetyl-N,N,N-trimethylammonium bromide. The Si/Al ratio in the composites has been varied between 4 5 and 48 and the occurrence of mesopores has been verified by X-ray diffraction. The surface areas of the samples vary between 676 and 1038 m$^2$ $g^{–1}$, with the highest value in the sample with Si/Al = 48.</p>
+                </abstract>
+				<keywords>Macroporous materials; mesoporous materials; silica–alumina composites.</keywords>
+				<allauthors>
+					<author lname="Gundiah" fname="Gautam" isfellow="0">Gundiah, Gautam</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>High temperature flow behaviour of SiC reinforced lithium aluminosilicate composites</title>
+				<feature>Composites</feature>
+				<page>0215-0218</page>
+				<abstract>
+                    <p>The compressive flow behaviour of lithium aluminosilicate (LAS) glass, with and without SiC particulate reinforcements, was studied. The LAS glass crystallized to $b$ spodumene during high-temperature testing. The flow behaviour of LAS glass changed from Newtonian to non-Newtonian due to the presence of crystalline phase. Further, with the addition of 40 vol.% SiC additions, the strain rate sensitivity of flow stress decreased. While the activation energy for flow in LAS was 300 kJ/mole, it increased to 995 kJ/mole with the addition of 40 vol.% SiC reinforcements.</p>
+                </abstract>
+				<keywords>Lithium aluminosilicate (LAS); SiC particulates; flow behaviour; compression.</keywords>
+				<allauthors>
+					<author lname="Das" fname="Santanu" isfellow="0">Das, Santanu</author>
+					<author lname="Murthy" fname="V. S. R." isfellow="0">Murthy, V. S. R.</author>
+					<author lname="Murty" fname="G. S." isfellow="0">Murty, G. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of filler addition on the compressive and impact properties of glass fibre reinforced epoxy</title>
+				<feature>Composites</feature>
+				<page>0219-0223</page>
+				<abstract>
+                    <p>Flyash is incorporated in glass fibre reinforced epoxies to study their response to the filler addition. Low cost of flyash can reduce the overall cost of the component. Only very low volume fractions of filler are investigated in the present study. To obtain further clarification of the observed phenomenon, another abundantly available low cost material, calcium carbonate is incorporated in one set of the specimens. Compressive strength of the material is found to decrease, whereas steep increase in impact strength is observed by introduction of very small quantity of fillers. Specimens containing calcium carbonate are tested for impact properties only. Effect of specimen aspect ratio on the compressive strength values is also studied by testing specimens of three different aspect ratios. Scanning electron microscopic observations are taken to develop a better understanding of the phenomena taking place in the material system at microscopic level.</p>
+                </abstract>
+				<keywords>Fillers; flyash; compression test; impact test; fibre reinforced epoxies.</keywords>
+				<allauthors>
+					<author lname="Gupta" fname="Nikhil" isfellow="0">Gupta, Nikhil</author>
+					<author lname="Brar" fname="Balraj Singh" isfellow="0">Brar, Balraj Singh</author>
+					<author lname="Woldesenbet" fname="Eyassu" isfellow="0">Woldesenbet, Eyassu</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A detailed model for defect concentration and dopant activation in GaAs</title>
+				<feature>Semiconductors</feature>
+				<page>0225-0229</page>
+				<abstract>
+                    <p>Defects in semi-insulating (SI) GaAs are especially critical in determining the properties of devices in which dopants are introduced by ion-implantation. The defects in GaAs are native to the material and their concentrations are subsequently modified after ion-implantation and annealing. In this work, we have extended the existing models in the literature by incorporating a large set of defects and using the most recent values for formation energies of these defects. The model includes eight types of point defects, the vacancy of Ga and As, their antisites and interstitials of Ga and As on both sub-lattices, along with carbon related defects always present in SI–GaAs. We have also included Si and related defects when this element is implanted as an $n$-type dopant. All these defects are considered in several charge states allowed by their stability conditions. The model assumes thermodynamic equilibrium between the point defects at an anneal temperature. Then the GaAs wafer is quenched so that the number of defects remain the same as those at the anneal temperature, but redistribution of charges occurs in various charge states. We find that the defect concentrations are extremely sensitive to the crystal stoichiometry, and good agreement with experimental data is shown. However, when we calculate the dopant activation in implanted GaAs, the quantitative agreement with experiments is not adequate. This discrepancy is explained on the basis of available formation energies for the defects.</p>
+                </abstract>
+				<keywords>Semi-insulating; GaAs; dopant activation; defects.</keywords>
+				<allauthors>
+					<author lname="Deepak" fname="" isfellow="0">Deepak</author>
+					<author lname="Lakshminarayana" fname="N." isfellow="0">Lakshminarayana, N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study of fatigue behaviour of 7475 aluminium alloy</title>
+				<feature>Alloys</feature>
+				<page>0231-0236</page>
+				<abstract>
+                    <p>Fatigue properties of a thermomechanically treated 7475 aluminium alloy have been studied in the present investigation. The alloy exhibited superior fatigue life compared to conventional structural aluminium alloys and comparable stage II crack growth rate. It was also noticed that the fatigue crack initiated from a surface grain and the crack extension was dominated by ductile striations. Analysis also revealed that this alloy possessed fracture toughness and tensile properties superior to that noticed with other structural aluminium alloys. Therefore the use of this alloy can safely reduce the overall weight of the aircraft.</p>
+                </abstract>
+				<keywords>7475 Aluminium alloy; fatigue life; fatigue crack growth; cyclic cleavage; ductile striations.</keywords>
+				<allauthors>
+					<author lname="Verma" fname="B. B." isfellow="0">Verma, B. B.</author>
+					<author lname="Atkinsonm" fname="J. D." isfellow="0">Atkinsonm, J. D.</author>
+					<author lname="Kumar" fname="M." isfellow="0">Kumar, M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Catalytic activity of polymer-bound Ru(III)–EDTA complex</title>
+				<feature>Catalysts</feature>
+				<page>0237-0241</page>
+				<abstract>
+                    <p>Chloromethylated styrene–divinylbenzene copolymer was chemically modified with ethylenediaminetetraacetic acid ligand. Catalytically active polymer containing Ru(III) moieties were synthesized from this polymeric ligand. They were characterized using FTIR, UV-vis, SEM, ESR and TGA. Other physico-chemical properties such as bulk density, surface area, moisture content and swelling behaviour in different solvents were also studied. The polymer bound complex was used to study hydrogenation of 1-hexene to $n$-hexane under mild conditions. Influence of [1-hexene], [catalyst], temperature and nature of the solvent on the rate of the reaction was investigated. A rate expression is proposed based on the observed initial rate data. Recycling efficiency of the catalyst has also been studied.</p>
+                </abstract>
+				<keywords>Catalytic hydrogenation; energy of activation for catalytic hydrogenation; kinetics of hydrogenation of 1-hexene; polymer-bound catalyst; polymer-bound Ru(III)–EDTA complex; study of life cycle of polymer-bound catalyst.</keywords>
+				<allauthors>
+					<author lname="Dalal" fname="Mahesh K." isfellow="0">Dalal, Mahesh K.</author>
+					<author lname="Ram" fname="R. N." isfellow="0">Ram, R. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Studies on compensating valency substituted BaTi$_{(1-x)}$Mn$_{x/2}$Nb$_{x/2}$O$_3$ ceramics</title>
+				<feature>Ferroelectric Materials</feature>
+				<page>0243-0248</page>
+				<abstract>
+                    <p>The paper reports investigations of relative permittivity, $e_r$, electrical conductivity, $s$, saturation polarization, $P_s$, infrared absorption and structural properties of compensating valency substituted BaTiO$_3$. The compositions investigated are BaTi$_{(1–x)}$Mn$_{x/2}$Nb$_{x/2}$O$_3$ for $x$ = 0 00; 0 025; 0 05; 0 1; 0 2; 0 4. The compositions for $x$ &lt; 0 1 are observed to be ferroelectric and the transition temperature and value of er are observed to decrease as concentration of substitution is increased. The dielectric investigations are carried out on two sets of samples (i) as sintered and (ii) annealed. Annealing is observed to improve quality factor $‘Q’$ of the materials with a consequent reduction in the $e_r$. The observations on $e_r$ and saturation polarization suggest that additional material engineering efforts are required to improve the material properties.</p>
+                </abstract>
+				<keywords>Valence compensating ceramic; barium titanate; dielectric constant; electron-transport properties; saturation polarization.</keywords>
+				<allauthors>
+					<author lname="Kokare" fname="S. R." isfellow="0">Kokare, S. R.</author>
+					<author lname="Pawar" fname="S. A." isfellow="0">Pawar, S. A.</author>
+					<author lname="Padal" fname="N. T." isfellow="0">Padal, N. T.</author>
+					<author lname="Joshi" fname="P. B." isfellow="0">Joshi, P. B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Thermal behaviour of strontium tartrate single crystals grown in gel</title>
+				<feature>Crystal Growth</feature>
+				<page>0249-0252</page>
+				<abstract>
+                    <p>Thermal behaviour of strontium tartrate crystals grown with the aid of sodium metasilicate gel is investigated using thermogravimetry (TG) and differential thermal analysis (DTA). Effect of magnetic field and dopant $(Pb)^{2+}$ on the crystal stability is also studied using thermal analysis. This study reveals that water molecules are locked up in the lattice with different strengths in the grown crystals.</p>
+                </abstract>
+				<keywords>Strontium tartrate; dopant; effect of magnetic field; thermal behaviour.</keywords>
+				<allauthors>
+					<author lname="Rahimkutty" fname="M. H." isfellow="0">Rahimkutty, M. H.</author>
+					<author lname="Babu" fname="K. Rajendra" isfellow="0">Babu, K. Rajendra</author>
+					<author lname="Pillai" fname="K. Sreedharan" isfellow="0">Pillai, K. Sreedharan</author>
+					<author lname="Kumar" fname="M. R. Sudarsana" isfellow="0">Kumar, M. R. Sudarsana</author>
+					<author lname="Nair" fname="C. M. K." isfellow="0">Nair, C. M. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Analysis of corrosive environmental factors of seabed sediment</title>
+				<feature>Corrosion of Materials</feature>
+				<page>0253-0255</page>
+				<abstract>
+                    <p>The corrosivity of seabed sediment at spots at different distances from seashore was studied based on $in$ $situ$ investigations in the northern sea area of the Yellow River mouth. The results show that there is close relation between distance from seashore and corrosivity of seabed sediment.</p>
+                </abstract>
+				<keywords>Seabed sediment; corrosion; environmental factors.</keywords>
+				<allauthors>
+					<author lname="Baorong" fname="Hou" isfellow="0">Baorong, Hou</author>
+					<author lname="Huyuan" fname="Sun" isfellow="0">Huyuan, Sun</author>
+					<author lname="Jinglei" fname="Zhang" isfellow="0">Jinglei, Zhang</author>
+					<author lname="Gongyu" fname="Guo" isfellow="0">Gongyu, Guo</author>
+					<author lname="Jinming" fname="Song" isfellow="0">Jinming, Song</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
 </bms>
