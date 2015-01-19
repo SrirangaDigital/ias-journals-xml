@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bms SYSTEM "bms.dtd">
+<?xml-stylesheet type="text/xsl" href="Sadhana.xsl"?>
 
 <bms>
 	<volume vnum="023">
@@ -676,7 +677,7 @@
 				<feature>Refractory Cements</feature>
 				<page>0243-0248</page>
 				<abstract>
-                    <p>Compositions in CaO–Al$_2$O$_3$ system have been prepared by gel–to–crystallite conversion method. Reactive powders of 1 : 2, 1 : 1, 2 : 1 and 3 : 1 of CaO and Al$_2$O$_3$ compositions were obtained by calcining the product at 800–1200$^\circ $C. Fine grained powders were used as refractory cement for joining alumina ceramics. An optimum temperature of 1450$^\circ $C for 4 h produced joints of satisfactory strength. The microstructure and X-ray phase analysis of the fractured joint surface clearly indicate reactive wetting of the alumina ceramics. This wetting enhances the joining of alumina substrates and can be attributed to the formation of Ca$_{12}$Al$_{14}O$_{33}$ liquid phase. The results are explained by using CaO–Al$_2$O$_3$ phase diagram.</p>
+                    <p>Compositions in CaO–Al$_2$O$_3$ system have been prepared by gel–to–crystallite conversion method. Reactive powders of 1 : 2, 1 : 1, 2 : 1 and 3 : 1 of CaO and Al$_2$O$_3$ compositions were obtained by calcining the product at 800–1200$^\circ $C. Fine grained powders were used as refractory cement for joining alumina ceramics. An optimum temperature of 1450$^\circ $C for 4 h produced joints of satisfactory strength. The microstructure and X-ray phase analysis of the fractured joint surface clearly indicate reactive wetting of the alumina ceramics. This wetting enhances the joining of alumina substrates and can be attributed to the formation of Ca$_{12}$Al$_{14}$O$_{33}$ liquid phase. The results are explained by using CaO–Al$_2$O$_3$ phase diagram.</p>
                 </abstract>
 				<keywords>G $\rightarrow$ C conversion; reaction bonding; alumina ceramics; calcium aluminate; high temperature cements.</keywords>
 				<allauthors>
@@ -713,7 +714,7 @@
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title>Incorporation of cobalt and nickel metal nano-particles in nano-grain zirconia film matrix by solution route$^#$</title>
+				<title>Incorporation of cobalt and nickel metal nano-particles in nano-grain zirconia film matrix by solution route</title>
 				<feature>Nanomaterials</feature>
 				<page>0263-0266</page>
 				<abstract>
@@ -730,7 +731,7 @@
 				<feature>Superconductors</feature>
 				<page>0267-0272</page>
 				<abstract>
-                    <p>The specific heats of superconducting HoBa$_2$Cu$_3$O$_{7–\delta}$ (T$_c \cong $ 92 K) have been theoretically investigated in the temperature domain 70 $\leq$ T $\leq$ 110 K. The bosonic (phonons) contribution to the specific heat is estimated from Debye model in the harmonic approximation for high temperature expansion (T &gt; $\theta_D$/2$pi$) using the moments of the phonon density of states. The fermionic constituent as the electronic specific heat is deduced using a suitable trial function above and below T$_c$. As a next step the contribution of specific heat by charge oscillations (plasmons) are obtained. The theoretical results from bosonic and fermionic terms are then compared with the experimental results. We find that the specific heats from electronic as well as plasmon term are only a fraction of lattice specific heat and in particular, plasmons do not influence the thermal conduction significantly. The implications of the above analysis are discussed.</p>
+                    <p>The specific heats of superconducting HoBa$_2$Cu$_3$O$_{7–\delta}$ (T$_c \cong $ 92 K) have been theoretically investigated in the temperature domain 70 $\leq$ T $\leq$ 110 K. The bosonic (phonons) contribution to the specific heat is estimated from Debye model in the harmonic approximation for high temperature expansion (T &gt; $\theta_D$/2$\pi$) using the moments of the phonon density of states. The fermionic constituent as the electronic specific heat is deduced using a suitable trial function above and below T$_c$. As a next step the contribution of specific heat by charge oscillations (plasmons) are obtained. The theoretical results from bosonic and fermionic terms are then compared with the experimental results. We find that the specific heats from electronic as well as plasmon term are only a fraction of lattice specific heat and in particular, plasmons do not influence the thermal conduction significantly. The implications of the above analysis are discussed.</p>
                 </abstract>
 				<keywords>Electronic; phonons; plasmons; specific heat; Ho-based superconductors.</keywords>
 				<allauthors>
@@ -973,7 +974,7 @@
 				<feature>Nanomaterials</feature>
 				<page>0361-0367</page>
 				<abstract>
-                    <p>The dielectric properties of nanophase Ag$_2$HgI$_4$  and Ag$_2$HgI$_4$–Al$_2$O$_3$  nanocomposites at different frequencies have been studied over a temperature range covering the stability range of \textbf{\it b} phase of Ag$_2$HgI$_4$  and beyond the \textbf{\it b} to \textbf{\it a} phase transition temperature. \textbf{\it e} , tan \textbf{\it d} and \textbf{\it s_{a.c.}} of nanophase Ag$_2$HgI$_4$  and Ag$_2HgI$_4$–Al$_2$O$_3$ nanocomposites were found to be larger than the reported values for polycrystalline pellets of Ag$_2$HgI$_4$ . The dielectric properties of the nanocomposites were found to be a function of the wt.&#37; of nano alumina. The observed changes are attributed to the grain boundary properties of nanophase materials and to the microsize space charge effects.</p>
+                    <p>The dielectric properties of nanophase Ag$_2$HgI$_4$  and Ag$_2$HgI$_4$–Al$_2$O$_3$  nanocomposites at different frequencies have been studied over a temperature range covering the stability range of \textbf{\it b} phase of Ag$_2$HgI$_4$  and beyond the \textbf{\it b} to \textbf{\it a} phase transition temperature. \textbf{\it e} , tan \textbf{\it d} and \textbf{\it s_{a.c.}} of nanophase Ag$_2$HgI$_4$ and Ag$_2$HgI$_4$–Al$_2$O$_3$ nanocomposites were found to be larger than the reported values for polycrystalline pellets of Ag$_2$HgI$_4$ . The dielectric properties of the nanocomposites were found to be a function of the wt.&#37; of nano alumina. The observed changes are attributed to the grain boundary properties of nanophase materials and to the microsize space charge effects.</p>
                 </abstract>
 				<keywords>Nanophase materials; nanocomposites; dielectric properties.</keywords>
 				<allauthors>
@@ -1135,7 +1136,7 @@
 				<feature>High T$_c$ Superconductors</feature>
 				<page>0439-0445</page>
 				<abstract>
-                    <p>Thermal conductivity of a set of $(Bi_{0 8}Pb_{0 2–y}V_y)_2Sr$_2$Ca$_2$Cu$_3$O$_{10+d}$(0 = $y$ 0 05) pellets in the temperature range between 10 and 150 K is reported. Vanadium substitution influences strongly the magnitude of thermal conductivity ($l$) over the entire temperature range. But the nature of $l(T)$ dependence remains similar to that generally observed for HTSCs. The electronic contribution to the total $l$ in the normal state is estimated to be $\sim$ 25%. We have attempted to examine our data, assuming the role of both electrons and phonons in the origin of the $l(T)$ behaviour below $T_c$ . Observed temperature variation of $l(T)$ for the present set of samples could be explained very well assuming this electron + approach. Some of the microscopic quantities estimated from the best-fit parameters give reasonable values.</p>
+                    <p>Thermal conductivity of a set of $(Bi_{0\ 8}Pb_{0\ 2–y}V_y)_2Sr_2Ca_2Cu_3O_{10+d}$(0 = $y$ 0 05) pellets in the temperature range between 10 and 150 K is reported. Vanadium substitution influences strongly the magnitude of thermal conductivity ($l$) over the entire temperature range. But the nature of $l(T)$ dependence remains similar to that generally observed for HTSCs. The electronic contribution to the total $l$ in the normal state is estimated to be $\sim$ 25%. We have attempted to examine our data, assuming the role of both electrons and phonons in the origin of the $l(T)$ behaviour below $T_c$ . Observed temperature variation of $l(T)$ for the present set of samples could be explained very well assuming this electron + approach. Some of the microscopic quantities estimated from the best-fit parameters give reasonable values.</p>
                 </abstract>
 				<keywords>Thermal conductivity; high temperature superconductors; vanadium substitution; electron + phonon approach.</keywords>
 				<allauthors>
@@ -1457,7 +1458,7 @@
 				<feature>Magnetic Materials</feature>
 				<page>0039-0045</page>
 				<abstract>
-                    <p>Iron(II) carboxylato–hydrazinates: Ferrous fumarato–hydrazinate (FFH), FeC$_4H$_2$O$_4$ 2N$_2$H$_4$; ferrous succinato–hydrazinate (FSH), FeC$_4$H$_4$O$_4$ 2N$_2$H$_4$; ferrous maleato–hydrazinate (FEH), FeC$_4$H$_2$O$_4$ 2N$_2$H$_4$; ferrous malato–hydrazinate (FLH), FeC$_4$H$_4$O$_5$ 2N$_2$H$_4$; ferrous malonato–hydrazinate (FMH), FeC$_3$H$_2$O$_4$ 1 5N$_2$H$_4$ H$_2$O; and ferrous tartrato–hydrazinate (FTH), FeC$_4$H$_4$O$_6$ N$_2$H$_4$ H$_2$O are being synthesized for the first time. These decompose (autocatalytically) in an ordinary atmosphere to mainly $\mathbf{g}$-Fe$_2$O$_3$, while the unhydrazinated iron(II) carboxylates in air yield $\mathbf{a}$-Fe$_2$O$_3$, but the controlled atmosphere of moisture requires for the oxalates to stabilize the metastable $\mathbf{g}$-Fe$_2$O$_3$. The hydrazine released during heating reacts with atmospheric oxygen liberating enormous energy, $$N_2H_4 + O_2 \quad N_2 + H_2O; H_2O = – 621 kJ/mol,$$ which enables to oxidatively decompose the dehydrazinated complex to $\mathbf{g}$-Fe$_2$O$_3$. The reaction products N$_2$ + H$_2$O provide the necessary atmosphere of moisture needed for the stabilization of the metastable oxide.</p>
+                    <p>Iron(II) carboxylato–hydrazinates: Ferrous fumarato–hydrazinate (FFH), FeC$_4$H$_2$O$_4$ 2N$_2$H$_4$; ferrous succinato–hydrazinate (FSH), FeC$_4$H$_4$O$_4$ 2N$_2$H$_4$; ferrous maleato–hydrazinate (FEH), FeC$_4$H$_2$O$_4$ 2N$_2$H$_4$; ferrous malato–hydrazinate (FLH), FeC$_4$H$_4$O$_5$ 2N$_2$H$_4$; ferrous malonato–hydrazinate (FMH), FeC$_3$H$_2$O$_4$ 1 5N$_2$H$_4$ H$_2$O; and ferrous tartrato–hydrazinate (FTH), FeC$_4$H$_4$O$_6$ N$_2$H$_4$ H$_2$O are being synthesized for the first time. These decompose (autocatalytically) in an ordinary atmosphere to mainly $\mathbf{g}$-Fe$_2$O$_3$, while the unhydrazinated iron(II) carboxylates in air yield $\mathbf{a}$-Fe$_2$O$_3$, but the controlled atmosphere of moisture requires for the oxalates to stabilize the metastable $\mathbf{g}$-Fe$_2$O$_3$. The hydrazine released during heating reacts with atmospheric oxygen liberating enormous energy, $$N_2H_4 + O_2 \quad N_2 + H_2O; H_2O = – 621 kJ/mol,$$ which enables to oxidatively decompose the dehydrazinated complex to $\mathbf{g}$-Fe$_2$O$_3$. The reaction products N$_2$ + H$_2$O provide the necessary atmosphere of moisture needed for the stabilization of the metastable oxide.</p>
 					<p>The synthesis, characterization and thermal decomposition (DTA/TG) of the iron(II) carboxylato–hydrazinates are discussed to explain the suitability of $\mathbf{g}$-Fe$_2$O$_3$  in the ferrite synthesis.</p>
                 </abstract>
 				<keywords>Carboxylate; hydrazine; metastable oxide; ferrite.</keywords>
@@ -2001,6 +2002,960 @@
 					<author lname="Gongyu" fname="Guo" isfellow="0">Gongyu, Guo</author>
 					<author lname="Jinming" fname="Song" isfellow="0">Jinming, Song</author>
 				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="06" year="2001">
+			<entry issup="0">
+				<title>Role of Fe substitution and quenching rate on the formation of various quasicrystalline and related phases</title>
+				<feature>Quasicrystals</feature>
+				<page>0257-0264</page>
+				<abstract>
+                    <p>We have investigated Fe substituted versions of the quasicrystalline (qc) alloy corresponding to Al$_{65}$Cu$_{20}(Cr, Fe)_{15}$ with special reference to the possible occurrence of various quasicrystalline and related phases. Based on the explorations of various compositions it has been found that alloy compositions Al$_{65}$Cu$_{20}$Cr$_{12}$Fe$_3$ and Al$_{65}$Cu$_{20}$Cr$_9$Fe$_6$ exhibit interesting structural phases and features at different quenching rates. At higher quenching rates (wheel speed $\sim$ 25 m/sec) all the alloys exhibit icosahedral phase. For Al$_{65}$Cu$_{20}$Cr$_{12}$Fe$_3$ alloy, however, both the icosahedral and even the decagonal phases get formed at higher quenching rates. At higher quenching rate, alloy having Fe 3 at% exhibits two $bcc$ phases, $bcc$I ($a$ = 8 9 Å) and $bcc$II ($a$ = 15 45 Å). The orientation relationships between icosahedral and crystalline phases are: Mirror plane $\parallel [001]_{bcc\ I}$ and $[351]_{bcc\ II}$, 5-fold $\parallel [113]_{bcc\ II}$ and 3-fold $\parallel [110]_{bcc\ II}$. At lower quenching rate, the alloy having Fe 6 at% exhibits orthorhombic phase ($a$ = 23 6 Å, $b$ = 12 4 Å, $c$ = 20 1 Å). Some prominent orientation relationships of the orthorhombic phase with decagonal phase have also been reported. At lower quenching rate ($\sim$ 10 m/sec), the alloy (Al$_{65}$Cu$_{22}$Cr$_9$Fe$_6$) shows the presence of diffuse scattering of intensities along quasiperiodic direction of the decagonal phase. For making the occurrence of the sheets of intensities intelligible, a model based on the rotation and shift of icosahedra has been put forward.</p>
+                </abstract>
+				<keywords>Quasicrystals; icosahedral and decagonal phases; quenching rate.</keywords>
+				<allauthors>
+					<author lname="Khare" fname="Varsha" isfellow="0">Khare, Varsha</author>
+					<author lname="Tiwari" fname="R. S." isfellow="0">Tiwari, R. S.</author>
+					<author lname="Srivastava" fname="O. N." isfellow="0">Srivastava, O. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis, characterization and application of an inorgano organic material: $p$-chlorophenol anchored onto zirconium tungstate</title>
+				<feature>Inorganic–Organic Hybrid Materials</feature>
+				<page>0265-0271</page>
+				<abstract>
+                    <p>Tetravalent metal acid (TMA) salt zirconium tungstate (ZW) has been synthesized, followed by its derivatization using para-chlorophenol ($p$CP). The resulting compound is abbreviated as ZW$p$CP. ZW$p$CP has been characterized for elemental analysis, spectral analysis (FTIR), X-ray analysis and thermal analysis (TGA). Its chemical stability has been assessed in various mineral acids, bases and organic solvents. Ion exchange capacity (IEC) has been determined and distribution behaviour towards several metal ions in different electrolyte solutions with varying concentrations has been studied and a few binary separations achieved.</p>
+                </abstract>
+				<keywords>Tetravalent metal acid salts; derivatized TMA salts; hybrid materials; inorgano–organic materials.</keywords>
+				<allauthors>
+					<author lname="Pandit" fname="Beena" isfellow="0">Pandit, Beena</author>
+					<author lname="Chudasama" fname="Uma" isfellow="0">Chudasama, Uma</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>SiC fibre by chemical vapour deposition on tungsten filament</title>
+				<feature>Chemical Vapour Deposition</feature>
+				<page>0273-0279</page>
+				<abstract>
+                    <p>A CVD system for the production of continuous SiC fibre was set up. The process of SiC coating on 19 $\mu$m diameter tungsten substrate was studied. Methyl trichloro silane (CH$_3$SiCl$_3$) and hydrogen reactants were used. Effect of substrate temperature (1300–1500$^\circ $C) and concentration of reactants on the formation of SiC coating were studied. SiC coatings of negligible thickness were formed at very low flow rates of hydrogen (5 $\times$ 10$^{–5}$ m$^3$/min) and CH$_3$SiCl$_3$ (1 0 $\times$ 10$^{–4}$ m$^3$/min of Ar). Uneven coatings and brittle fibres were formed at very high concentrations of CH$_3$SiCl$_3$  (6 $\times$ 10$^{–4}$ m$^3$/min of Ar). The flow rates of CH$_3$SiCl$_3$  and hydrogen were adjusted to get SiC fibre with smooth surface. The structure and morphology of SiC fibres were evaluated.</p>
+                </abstract>
+				<keywords>SiC; CVD; continuous fibre; composite; deposition.</keywords>
+				<allauthors>
+					<author lname="Krishnarao" fname="R. V." isfellow="0">Krishnarao, R. V.</author>
+					<author lname="Subrahmanyam" fname="J." isfellow="0">Subrahmanyam, J.</author>
+					<author lname="Subbarao" fname="S." isfellow="0">Subbarao, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study of oxidation behaviour of Zr-based bulk amorphous alloy Zr$_{65}$Cu$_{17\ 5}$Ni$_{10}$Al$_{7\ 5}$ by thermogravimetric analyser</title>
+				<feature>Amorphous Alloys</feature>
+				<page>0281-0283</page>
+				<abstract>
+                    <p>The oxidation behaviour of Zr-based bulk amorphous alloy Zr$_{65}$Cu$_{17\ 5}$Ni$_{10}$Al$_{7\ 5}$ has been studied in air environment at various temperatures in the temperature range 591–684 K using a thermogravimetric analyser (TGA). The oxidation kinetics of the alloy in the amorphous phase obeys the parabolic rate law for oxidation in the temperature range 591–664 K. The values of the activation energy and pre-factor as calculated from the Arrhenius temperature dependence of the rate constants have been found to be 1 80 eV and 2 12 $\times$ 10$^9$ g cm$^{–2}$ sec$^{–1/2}$, respectively.</p>
+                </abstract>
+				<keywords>Oxidation; (bulk) amorphous alloys; TGA.</keywords>
+				<allauthors>
+					<author lname="Dhawan" fname="A." isfellow="0">Dhawan, A.</author>
+					<author lname="Raetzke" fname="K." isfellow="0">Raetzke, K.</author>
+					<author lname="Faupel" fname="F." isfellow="0">Faupel, F.</author>
+					<author lname="Sharma" fname="S. K." isfellow="0">Sharma, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Optical properties of nano-silicon</title>
+				<feature>Nanomaterials</feature>
+				<page>0285-0289</page>
+				<abstract>
+                    <p>We investigated the optical properties of silicon clusters and Si nanocrystallites using photoluminescence (PL) and Raman scattering technique. Broad luminescence band in the red region was observed from Si-doped SiO$_2$ thin films deposited by co-sputtering of Si and SiO$_2$ on $p$-type Si (100) substrates, annealed in Ar and O$_2$ atmosphere. Nanocrystalline Si particles fabricated by pulsed plasma processing technique showed infrared luminescence from as grown film at room temperature. Raman spectra from these films consisted of broad band superimposed on a sharp line near 516 cm$^{–1}$  whose intensity, frequency, and width depend on the particle sizes arising from the phonon confinement in the nanocrystalline silicon. We also performed PL, Raman and resonantly excited PL measurements on porous silicon film to compare the optical properties of Si nanostructures grown by different techniques. An extensive computer simulation using empirical pseudopotential method was carried out for 5–18 atoms Si clusters and the calculated gap energies were close to our PL data.</p>
+                </abstract>
+				<keywords>Nanocrystalline silicon; Raman scattering; photoluminescence; porous silicon.</keywords>
+				<allauthors>
+					<author lname="Tripathy" fname="S." isfellow="0">Tripathy, S.</author>
+					<author lname="Soni" fname="R. K." isfellow="0">Soni, R. K.</author>
+					<author lname="Ghoshal" fname="S. K." isfellow="0">Ghoshal, S. K.</author>
+					<author lname="Jain" fname="K. P." isfellow="0">Jain, K. P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Two- and three-dimensional models for analysis of optical absorption in tungsten disulphide single crystals</title>
+				<feature>Optical Properties of Materials</feature>
+				<page>0291-0296</page>
+				<abstract>
+                    <p>The optical energy gaps of WS$_2$ single crystal were determined from the analysis of the absorption spectrum near the fundamental absorption edge at room temperature using light parallel to $c$-axis incident normally on the basal plane. On the basis of two- and three-dimensional models it was found that both direct and indirect band transitions took place in WS$_2$  and the indirect transition was of the allowed type. The optical energy gaps corresponding to both transitions were determined and the phonon energies associated with the indirect transitions estimated. The implications of the results have been discussed.</p>
+                </abstract>
+				<keywords>Optical band gap; two- and three-dimensional; optical absorption.</keywords>
+				<allauthors>
+					<author lname="Dholakia" fname="Dhairya A." isfellow="0">Dholakia, Dhairya A.</author>
+					<author lname="Solanki" fname="G. K." isfellow="0">Solanki, G. K.</author>
+					<author lname="Patel" fname="S. G." isfellow="0">Patel, S. G.</author>
+					<author lname="Agarwal" fname="M. K." isfellow="0">Agarwal, M. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Grain size dependent optical band gap of CdI$_2$ films</title>
+				<feature>Optical Properties of Materials</feature>
+				<page>0297-0300</page>
+				<abstract>
+                    <p>The thermally evaporated stoichiometric CdI$_2$ films show good $c$-axis alignment normal to substrate plane for film thickness up to 200 nm. The optical absorption data indicate an allowed direct interband transition across a gap of 3 6 eV in confirmation with earlier band structure calculations. However, part of the absorption data near band edge can be fitted to an indirect band gap of 3 eV. The dependence of band gap on film thickness (&gt; 200 nm) can be explained qualitatively in terms of decreasing grain boundary barrier height with grain size.</p>
+                </abstract>
+				<keywords>Optical properties; thin films; halides.</keywords>
+				<allauthors>
+					<author lname="Tyagi" fname="Pankaj" isfellow="0">Tyagi, Pankaj</author>
+					<author lname="Vedeshwar" fname="A. G." isfellow="0">Vedeshwar, A. G.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Study on growth factors of intermetallic layer within hot-dipped 25%Al-Zn alloy coating on steel</title>
+				<feature>Alloys and Steels</feature>
+				<page>0301-0304</page>
+				<abstract>
+                    <p>25%Al-Zn alloy coating performs better than hot dip galvanized coating and 55%Al-Zn-Si coating with regard to general seawater corrosion protection. This study deals with the interfacial intermetallic layer's growth, which affects considerably the corrosion resistance and mechanical properties of 25%Al-Zn alloy coatings, by means of three-factor quadratic regressive orthogonal experiments. The regression equation shows that the intermetallic layer thickness decreases rapidly with increasing content of Si added to the Zn-Al alloy bath, increases with rise in the bath temperature and prolonging dip time. The most effective factor that determined the thickness of intermetallic layer was the amount of Si added to Zn-Al alloy bath, while the effect of bath temperature and dip time on the thickness of intermetallic layer were not very obvious.</p>
+                </abstract>
+				<keywords>Galvanization by hot-dipping; intermetallic layer; 25%Al-Zn alloy coating.</keywords>
+				<allauthors>
+					<author lname="Li" fname="Yan" isfellow="0">Li, Yan</author>
+					<author lname="Ma" fname="Ying" isfellow="0">Ma, Ying</author>
+					<author lname="Hou" fname="Baorong" isfellow="0">Hou, Baorong</author>
+					<author lname="Feng" fname="Falun" isfellow="0">Feng, Falun</author>
+					<author lname="Wei" fname="Xujun" isfellow="0">Wei, Xujun</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Cellular automaton simulation of microstructure evolution during austenite decomposition under continuous cooling conditions</title>
+				<feature>Alloys and Steels</feature>
+				<page>0305-0312</page>
+				<abstract>
+                    <p>A two-dimensional diffusion based model is developed to describe transformation of austenite into ferrite and pearlite under continuous cooling conditions. The nucleation of ferrite is assumed to occur over grain boundaries and the nucleation of pearlite is assumed to be taking place all over the grain and at growing ferrite–austenite interfaces, when the composition and temperature conditions are favourable. A cellular automaton algorithm, with transformation rules based on this model is used for the growth of ferrite and pearlite. Model predicted results for continuous cooling transformations are verified by comparing the model predicted microstructure features with the experimental measurements for two sets of plain carbon steels of different composition and austenite grain size. Using the model, it is possible to generate results like undercooling to start ferrite and pearlite transformations, which are difficult to obtain experimentally.</p>
+                </abstract>
+				<keywords>Microstructure modeling; CCT diagrams; austenite; ferrite; pearlite; nucleation and growth.</keywords>
+				<allauthors>
+					<author lname="Varma" fname="M. R." isfellow="0">Varma, M. R.</author>
+					<author lname="Sasikumar" fname="R." isfellow="0">Sasikumar, R.</author>
+					<author lname="Pillai" fname="S. G. K." isfellow="0">Pillai, S. G. K.</author>
+					<author lname="Nair" fname="P. K." isfellow="0">Nair, P. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of bitumen emulsion on setting, strength, soundness and moisture resistance of oxychloride cement</title>
+				<feature>Cement and Concrete Materials</feature>
+				<page>0313-0316</page>
+				<abstract>
+                    <p>Addition of bitumen emulsion to the matrix has been found to improve strength and soundness of the product while decreasing the initial setting periods. Thus, bitumen emulsion as an admixture in magnesia cement is a moisture proofing and strengthening material.</p>
+                </abstract>
+				<keywords>Bitumen; emulsion; soundness; moisture proofing; oxychloride cement.</keywords>
+				<allauthors>
+					<author lname="Chandrawat" fname="M. P. S." isfellow="0">Chandrawat, M. P. S.</author>
+					<author lname="Ojha" fname="T. N." isfellow="0">Ojha, T. N.</author>
+					<author lname="Yadav" fname="R. N." isfellow="0">Yadav, R. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Characterization of ancient Indian iron and entrapped slag inclusions using electron, photon and nuclear microprobes</title>
+				<feature>Cement and Concrete Materials</feature>
+				<page>0317-0322</page>
+				<abstract>
+                    <p>Compositional and structural information were obtained from an ancient 1600-year old Indian iron using microprobe techniques (EDS, $\mu$XRD and $\mu$PIXE). Several different local locations in the iron matrix and in the entrapped slag inclusions were analyzed. The P content of the metallic iron matrix was very heterogeneous. Lower P contents were observed in the regions near slag inclusions. This was correlated to the dephosphorization capacity of the slag. The crystallized phases identified in the slag inclusions were wüstite and fayalite. The compositions of the slag inclusions were relatively homogeneous.</p>
+                </abstract>
+				<keywords>Ancient iron; slag inclusions; characterization; electron, photon and nuclear microprobe techniques.</keywords>
+				<allauthors>
+					<author lname="Dillman" fname="P." isfellow="0">Dillman, P.</author>
+					<author lname="Balasubramaniam" fname="R." isfellow="0">Balasubramaniam, R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Dielectric behaviour of MgFe$_2$O$_4$ prepared from chemically beneficiated iron ore rejects</title>
+				<feature>Chemical Beneficiation</feature>
+				<page>0323-0330</page>
+				<abstract>
+                    <p>Chemically beneficiated high silica/alumina iron ore rejects (27–76% Fe$_2$O$_3$) were used to synthesize iron oxides of purity 96–98% with SiO$_2$/Al$_2$O$_3$ ratio reduced to 0 03. The major impurities on chemical beneficiations were Al, Si, and Mn in the range 2–3%. A 99 73% purity Fe$_2$O$_3$ was also prepared by solvent extraction method using methyl isobutyl ketone (MIBK) from the acid extracts of the ore rejects. The magnesium ferrite, MgFe$_2$O$_4$, prepared from these synthetic iron oxides showed high resistivity of 10$^8$ ohm cm. All ferrites showed saturation magnetization, $4pM_s$, in the narrow range of 900–1200 Gauss and the Curie temperature, $T_c$, of all these fell within a small limit of 670 $\pm$ 30 K. All ferrites had low dielectric constants ($e$), 12–15, and low dielectric loss, tan , which decreased with the increase in frequency indicating a normal dielectric dispersion found in ferrites. The presence of insignificant amount of polarizable Fe$^{2+}$ ions can be attributed to their high resistances and low dielectric constants. Impurities inherent in the samples had no marked influence on the electrical properties of the ferrites prepared from the iron ore rejects, suggesting the possibility of formation of ferrite of constant composition, MgFe$_2$O$_4$, of low magnetic and dielectric losses at lower temperatures of 1000$^\circ $C by ceramic technique.</p>
+                </abstract>
+				<keywords>Ore reject chemical beneficiation; gamma ferric oxide; ferrite; hydrazine; dielectric constant; dielectric loss factor.</keywords>
+				<allauthors>
+					<author lname="Rane" fname="K. S." isfellow="0">Rane, K. S.</author>
+					<author lname="Verenkar" fname="V. M. S." isfellow="0">Verenkar, V. M. S.</author>
+					<author lname="Sawant" fname="P. Y." isfellow="0">Sawant, P. Y.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Ferrite grade iron oxides from ore rejects</title>
+				<feature>Chemical Beneficiation</feature>
+				<page>0331-0338</page>
+				<abstract>
+                    <p>Iron oxyhydroxides and hydroxides were synthesized from chemically beneficiated high SiO$_2$/Al$_2$O$_3$ low-grade iron ore (57$\cdot$49% Fe$_2$O$_3$) rejects and heated to get iron oxides of 96–99$\cdot$73% purity. The infrared band positions, isothermal weight loss and thermogravimetric and chemical analysis established the chemical formulas of iron-oxyhydroxides as $\gamma$-FeOOH$\cdot$0$\cdot$3H$_2$O; $\alpha$-FeOOH$\cdot$0$\cdot$2H$_2$O and amorphous FeOOH. The thermal products of all these were $\alpha$-Fe$_2$O$_3$ excepting that of $\gamma$-FeOOH$\cdot$0$\cdot$3H$_2$O which gave mainly $\gamma$-Fe$_2$O$_3$ and some admixture of $\alpha$-Fe$_2$O$_3$. The hydrazinated iron hydroxides and oxyhydroxides, on the other hand, decomposed autocatalytically to mainly $\gamma$-Fe$_2$O$_3$. Hydrazine method modifies the thermal decomposition path of the hydroxides. The saturation magnetization, $J_s$, values were found to be in the range 60–71 emu $g^{–1}$ which are close to the reported values for $\gamma$-Fe$_2$O$_3$. Mechanism of the $\gamma$-Fe$_2$O$_3$ formation by hydrazine method is discussed.</p>
+                </abstract>
+				<keywords>Ore rejects; chemical beneficiation; iron hydroxide; iron oxyhydroxide; ferrite.</keywords>
+				<allauthors>
+					<author lname="Rane" fname="K. S." isfellow="0">Rane, K. S.</author>
+					<author lname="Verenkar" fname="V. M. S." isfellow="0">Verenkar, V. M. S.</author>
+					<author lname="Sawant" fname="P. Y." isfellow="0">Sawant, P. Y.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>XRD and optical microscopic studies of Co(III) complexes containing 5-cyano-6-(4-pyridyl)-2-thiouracil, thymine and adenine bases</title>
+				<feature>Supramolecular Materials</feature>
+				<page>0339-0344</page>
+				<abstract>
+                    <p>Multifunctional ligand 5-cyano-6-(-4-pyridyl)-2-thiouracil (L) was prepared and allowed to react with trans $[Co(en)_2Cl_2]^+Cl^–$ resulting into $[Co(en)_2LCl]^{2+}\cdot2Cl^–$ which upon further reaction with equimolar ratio of ligand [L] gave the complex $[Co(en)_2L_2]^{3+}\cdot3Cl^–$. These metal complexes were then separately reacted with thymine and adenine bases. Complexes thus prepared after characterization by their elemental analysis, FAB mass and spectral (IR, ${}^1$HNMR, UV-visible) data were studied for their powder X-ray diffraction and optical microscopic characteristics.</p>
+                </abstract>
+				<keywords>Supramolecular; hydrogen-bonding; thymine; adenine.</keywords>
+				<allauthors>
+					<author lname="Mishra" fname="Lallan" isfellow="0">Mishra, Lallan</author>
+					<author lname="Pathak" fname="Brajesh" isfellow="0">Pathak, Brajesh</author>
+					<author lname="Mandal" fname="R. K." isfellow="0">Mandal, R. K.</author>
+				</allauthors>
+			</entry>
+		</issue>
+        <issue inum="04" month="08" year="2001">
+			<entry issup="0">
+				<title>Effects and mechanisms of grain refinement in aluminium alloys</title>
+				<feature>Metals and Alloys</feature>
+				<page>0345-0353</page>
+				<abstract>
+                    <p>Grain refinement plays a crucial role in improving characteristics and properties of cast and wrought aluminium alloys. Generally Al–Ti and Al–Ti–B master alloys are added to the aluminium alloys to grain refine the solidified product. The mechanism of grain refinement is of considerable controversy in the scientific literature. The nucleant effects i.e. which particle and its characteristics nucleate $\alpha$-Al, has been the subject of intensive research. Lately the solute effect i.e. the effect of dissolved titanium on grain refinement, has come into forefront of grain refinement research. The present paper attempts to review the literature on the nucleant effects and solute effects on grain refinement and addresses the importance of dissolved titanium in promoting nucleation of $\alpha$-Al on nucleant particles.</p>
+                </abstract>
+				<keywords>Grain refinement; nucleant effects; solute effects; Al–Ti–B master alloy.</keywords>
+				<allauthors>
+					<author lname="Kashyap" fname="K. T." isfellow="0">Kashyap, K. T.</author>
+					<author lname="Chandrashekar" fname="T." isfellow="0">Chandrashekar, T.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Corrosion behaviour of hot dip zinc and zinc$–$aluminium coatings on steel in seawater</title>
+				<feature>Metals and Alloys</feature>
+				<page>0355-0360</page>
+				<abstract>
+                    <p>A comparative investigation of hot dip Zn–25Al alloy, Zn–55Al–Si and Zn coatings on steel was performed with attention to their corrosion performance in seawater. The results of 2-year exposure testing of these at Zhoushan test site are reported here. In tidal and immersion environments, Zn–25Al alloy coating is several times more durable than zinc coating of double thickness. At long exposure times, corrosion rate for the Zn–25Al alloy coating remains indistinguishable from that for the Zn–55Al–Si coating of similar thickness in tidal zone, and is two to three times lower than the latter in immersion zone. The decrease in tensile strength suggested that galvanized and Zn–55Al–Si coated steel suffer intense pitting corrosion in immersion zone. The electrochemical tests showed that all these coatings provide cathodic protection to the substrate metal; the galvanic potentials are equal to – 1,050, – 1,025 and – 880 mV (SCE) for zinc, Zn–25Al alloy and Zn–55Al–Si coating, respectively, which are adequate to keep the steel inside the immunity region. It is believed that the superior performance of the Zn–25Al alloy coating is due to its optimal combination of the uniform corrosion resistance and pitting corrosion resistance. The inferior corrosion performance by comparison of the Zn coating mainly results from its larger dissolution rate, while the failure of the Zn–55Al–Si coating is probably related to its higher susceptibility to pitting corrosion in seawater.</p>
+                </abstract>
+				<keywords>Galvanization by hot dipping; Zn–Al alloy coating; seawater corrosion; pitting corrosion; cathodic protection.</keywords>
+				<allauthors>
+					<author lname="Li" fname="Yan" isfellow="0">Li, Yan</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Processing of low carbon steel plate and hot strip$—$an overview</title>
+				<feature>Metals and Alloys</feature>
+				<page>0361-0371</page>
+				<abstract>
+                    <p>Soaking temperature, drafting schedule, finish rolling and coiling temperatures all play important roles in processing of low carbon plate and strip. They control the kinetics of various physical and metallurgical processes, viz. austenitization, recrystallization and precipitation behaviour. The final transformed microstructures depend upon these processes and their interaction with each other. In view of increasing cost of input materials, new processing techniques such as recrystallized controlled rolling and warm rolling have been developed for production of plates and thinner hot bands with very good deep drawability respectively. Besides hybrid computer modelling is used for production of strip products with tailor made properties. Although there have been few reviews on low carbon microalloyed steels in the past the present one deals with new developments.</p>
+                </abstract>
+				<keywords>Microalloyed steel; thermomechanical processing; warm rolling; modelling of process parameters.</keywords>
+				<allauthors>
+					<author lname="Panigrahi" fname="B. K." isfellow="0">Panigrahi, B. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Evaluation of solid–liquid interface profile during continuous casting by a spline based formalism</title>
+				<feature>Metals and Alloys</feature>
+				<page>0373-0378</page>
+				<abstract>
+                    <p>A numerical framework has been applied which comprises of a cubic spline based collocation method to determine the solid–liquid interface profile (solidification front) during continuous casting process. The basis function chosen for the collocation algorithm to be employed in this formalism, is a cubic spline interpolation function. An iterative solution methodology has been developed to track the interface profile for copper strand of rectangular transverse section for different casting speeds. It is based on enthalpy conservation criteria at the solidification interface and the trend is found to be in good agreement with the available information in the literature although a point to point mapping of the profile is not practically realizable. The spline based collocation algorithm is found to be a reasonably efficient tool for solidification front tracking process, as a good spatial derivative approximation can be achieved incorporating simple modelling philosophy which is numerically robust and computationally cost effective.</p>
+                </abstract>
+				<keywords>Continuous casting; solidification; solid–liquid interface; front tracking algorithm; phase change; heat transfer.</keywords>
+				<allauthors>
+					<author lname="Das" fname="S. K." isfellow="0">Das, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Low temperature sintering of MgCuZn ferrite and its electrical and magnetic properties</title>
+				<feature>Magnetic Materials</feature>
+				<page>0379-0383</page>
+				<abstract>
+                    <p>The low temperature sintering of MgCuZn ferrite was investigated using the usual ceramic method. The effect of Cu substitution on the properties of MgZn ferrites was also investigated and it was found that the densification of MgCuZn ferrite is dependent upon Cu concentration. The sintered ferrite with a density of 4$\cdot$93 g/cm$^3$ and electrical resistivity &gt; 10$^{11} \Omega$-cm was obtained for the ferrite with 12 mol% Cu at relatively low sintering temperature (910$^\circ $C). The magnetic properties of the ferrites also improved by the Cu substitution. The chip inductors made of the ferrite fired at 910 C with 12 mol% Cu exhibited higher d.c. resistance. From these studies it is concluded that the good quality chip inductor can be obtained using the MgCuZn ferrites.</p>
+                </abstract>
+				<keywords>Low temperature sintering; MgCuZn ferrite; shrinkage; resistivity; permeability; quality factor.</keywords>
+				<allauthors>
+					<author lname="Murthy" fname="S. R." isfellow="0">Murthy, S. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A sensitive magnetic field sensor using BPSCCO thick film</title>
+				<feature>Magnetic Materials</feature>
+				<page>0385-0388</page>
+				<abstract>
+                    <p>A highly sensitive magnetic sensor operating at liquid nitrogen temperature and based on BPSCCO screen-printed thick film, is reported. The sensor resistance for an applied magnetic field of 100 $\times$ 10$^{–4}$T(100 gauss) exhibits an increase by 360% of its value in zero field at 77$\cdot$4 K. The performance of the sensor in presence of magnetic field, the hysteretic features and the effect of thermal cycling, has been discussed.</p>
+                </abstract>
+				<keywords>High temperature superconductors; thick film; magnetic sensor.</keywords>
+				<allauthors>
+					<author lname="Srinivas" fname="S. Vijay" isfellow="0">Srinivas, S. Vijay</author>
+					<author lname="Ray" fname="Abhijit" isfellow="0">Ray, Abhijit</author>
+					<author lname="Dey" fname="T. K." isfellow="0">Dey, T. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis and characterization of poly(2,5-dimethoxyaniline) and poly(aniline-Co-2,5-dimethoxyaniline): The processable conducting polymers</title>
+				<feature>Polymers</feature>
+				<page>0389-0396</page>
+				<abstract>
+                    <p>Poly(2,5-dimethoxyaniline) (PDMOA) and its copolymers with aniline (PADMOA), which exhibit remarkably improved solubility in common organic solvents, were obtained by chemical polymerization, and characterized by a host of physical techniques. The lowering of the quinoid absorption in the IR spectra and the upshifting of the N$_{1s}$ envelope in the XPS spectra indicate residual doping in the XPS polymers and thermal characteristic of the polymers provide evidence for hydrogen bonding, which appear to enhance the thermal stability of the homopolymer. These polymers are highly planar and conjugated, with well-developed polaronic features, shown by the XRD, ESR and UV-spectral data. The conductivity, however, is not high and apparently may be due to localization of polaronic charges at the hydrogen-bonding sites and the increased proportion of the insulating methoxy component in the polymer matrix.</p>
+                </abstract>
+				<keywords>Poly(2,5-dimethoxyaniline); poly(aniline-Co-2,5-dimethoxyaniline); conducting polymer.</keywords>
+				<allauthors>
+					<author lname="Roy" fname="Bidhan C." isfellow="0">Roy, Bidhan C.</author>
+					<author lname="Gupta" fname="Maya Dutta" isfellow="0">Gupta, Maya Dutta</author>
+					<author lname="Bhowmik" fname="Leena" isfellow="0">Bhowmik, Leena</author>
+					<author lname="Ray" fname="Jayanta K." isfellow="0">Ray, Jayanta K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Mössbauer studies of iron doped poly(methyl methacrylate) before and after ion beam modification</title>
+				<feature>Polymers</feature>
+				<page>0397-0400</page>
+				<abstract>
+                    <p>High-energy MeV ions from accelerators are known to produce drastic modifications in polymers. The typical effects include chain scissions, crosslinks, molecular emission and double bond formation. Poly(methyl methacrylate) was doped with Fe(III) and irradiated with 95 MeV O$^{7+}$ ions. ${}^{57}$Fe-Mössbauer studies were done on the doped samples before and after irradiation. Before irradiation, no Mössbauer absorption was observed. The irradiated samples showed a good Mössbauer absorption, which seems to indicate that there is a significant interaction between the metal ion and the polymer matrix. Two possibilities exist at these doses ($\sim$ 22 $\times$ 10$^{12}$ ions/cm): Fe(III) ions may be bridging the various polymer segments through crosslinking or amorphization of the sample leading to Fe–C bonding. Studies of FTIR, conductivity and glass transition temperatures on these samples support these observations.</p>
+                </abstract>
+				<keywords>Ion beam modification; poly(methyl methacrylate); Mössbauer; metal doping.</keywords>
+				<allauthors>
+					<author lname="Somayajulu" fname="D. R. S." isfellow="0">Somayajulu, D. R. S.</author>
+					<author lname="Murthy" fname="C. N." isfellow="0">Murthy, C. N.</author>
+					<author lname="Awasthi" fname="D. K." isfellow="0">Awasthi, D. K.</author>
+					<author lname="Patel" fname="N. V." isfellow="0">Patel, N. V.</author>
+					<author lname="Sarkar" fname="M." isfellow="0">Sarkar, M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Charging transient in polyvinyl formal</title>
+				<feature>Polymers</feature>
+				<page>0401-0406</page>
+				<abstract>
+                    <p>In the present paper charging and discharging transient currents in polyvinyl formal (PVF) were measured as a function of temperatures (40–80$^\circ $C), poling fields (9$\cdot$0 $\times$ 10$^3$–9$\cdot$0 $\times$ 10$^4$ V/cm) and electrode combinations (Al–Al, Au–Al, Zn–Al, Bi–Al, Cu–Al and Ag–Al). The current–time characteristics have different values of slope lying between 0$\cdot$42–0$\cdot$56 and 1$\cdot$42–1$\cdot$63. The polarization is considered to be due to dipolar reorientation associated with structural motions and space charge relaxations due to trapping of injected charge carriers in energetically distributed traps.</p>
+                </abstract>
+				<keywords>Charging transient currents; polyvinyl formal; dipolar mechanism; space charge relaxations.</keywords>
+				<allauthors>
+					<author lname="Khare" fname="P. K." isfellow="0">Khare, P. K.</author>
+					<author lname="Jain" fname="P. L." isfellow="0">Jain, P. L.</author>
+					<author lname="Pandey" fname="R. K." isfellow="0">Pandey, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Battery effect in ‘electric current arising from unpolarized polyvinyl formal’</title>
+				<feature>Polymers</feature>
+				<page>0407-0409</page>
+				<abstract>
+                    <p>Thermally-stimulated currents (TSC) observed in metal–(insulating polymer)–metal systems are shown to be of electrochemical origin, owing to the battery configuration of these devices.</p>
+                </abstract>
+				<keywords>TSC; battery effect; metal–polymer–metal devices.</keywords>
+				<allauthors>
+					<author lname="Vijh" fname="Ashok K." isfellow="0">Vijh, Ashok K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Current–voltage characteristics of Ag, Al, Ni–($n$)CdTe junctions</title>
+				<feature>Semiconductors</feature>
+				<page>0411-0414</page>
+				<abstract>
+                    <p>Schottky barriers of Ag, Al, Ni–($n$)CdTe structures have been prepared and studied. The films were prepared by rf sputtering and doped with Cd metal. Diode ideality factor of these junctions are greater than unity and barrier height varies from 0$\cdot$6–0$\cdot$7 eV and are affected by room illumination. Photovoltaic effect of these junctions was very poor and fill factor below 0$\cdot$4. Low doping concentration, high defect density, presence of an interfacial layer and presence of high series resistance are perceived to affect the $J–V$ characteristic.</p>
+                </abstract>
+				<keywords>Schottky barrier junction; series resistance; photovoltage.</keywords>
+				<allauthors>
+					<author lname="Sarmah" fname="P. C." isfellow="0">Sarmah, P. C.</author>
+					<author lname="Rahman" fname="A." isfellow="0">Rahman, A.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A novel bio-inorganic bone implant containing deglued bone, chitosan and gelatin</title>
+				<feature>Biomaterials</feature>
+				<page>0415-0420</page>
+				<abstract>
+                    <p>With the aim of developing an ideal bone graft, a new bone grafting material was developed using deglued bone, chitosan and gelatin. Deglued bone (DGB) which is a by-product of bone glue industries and has the close crystallographic similarities of hydroxyapatite was used as main component in the preparation of bone implant. Chitosan was prepared from the exoskeleton of prawn (Pinaeus indicus, family Crustaceae) which is a by-product of seafood industries. Chitosan gives toughness to the product and do not allow the DGB particles to wither away when the implant is placed in the defect. Gelatin was used as binder for the preparation of DGB–chitosan composite. The DGB, chitosan and DGB–chitosan–gelatin composite, which were prepared in the laboratory, were analysed for their physicochemical properties by infrared spectroscopy, X-ray diffraction and scanning electron microscopy studies.</p>
+                </abstract>
+				<keywords>Bone graft; deglued bone; chitosan; gelatin.</keywords>
+				<allauthors>
+					<author lname="Saraswathy" fname="G." isfellow="0">Saraswathy, G.</author>
+					<author lname="Pal" fname="S." isfellow="0">Pal, S.</author>
+					<author lname="Rose" fname="C." isfellow="0">Rose, C.</author>
+					<author lname="Sastry" fname="T. P." isfellow="0">Sastry, T. P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Composition dependence of electrical properties of ZnF$_2$–MO–TeO$_2$ glasses</title>
+				<feature>Glasses</feature>
+				<page>0421-0429</page>
+				<abstract>
+                    <p>Dielectric constant ($\varepsilon'$), loss (tan $\delta$), a.c. conductivity ($\sigma$) of ZnF$_2$–MO–TeO$_2$ glasses with varying concentrations of MO (P$_2$O$_5$, As$_2$O$_3$ and Bi$_2$O$_3$) were measured as a function of frequency and temperature over moderately wide ranges. From the analysis of these studies along with IR spectra and DTA results of these glasses, the structural changes in the systems with the concentration of metal oxides are discussed.</p>
+                </abstract>
+				<keywords>Tellurite glasses; dielectric properties; IR spectra.</keywords>
+				<allauthors>
+					<author lname="Durga" fname="D. K." isfellow="0">Durga, D. K.</author>
+					<author lname="Veeraiah" fname="N." isfellow="0">Veeraiah, N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Growth and micro-topographical studies of gel grown cholesterol crystals</title>
+				<feature>Glasses</feature>
+				<page>0431-0434</page>
+				<abstract>
+                    <p>Cholesterol (C$_{27}$H$_{46}$O) is the most abundant and best-known steroid in the animal kingdom. The $in\ vitro$ crystallization of this important biomaterial has been attempted by few researchers. Here we are reporting crystallization of pure cholesterol monohydrate crystals in gel medium. It is found that the morphology of the crystals depends on various parameters. The effect of solvent has been studied in detail. The different morphologies observed are fibrous, needle, platelet, dendrite etc. Micro topographical studies have been made and it is found that the crystals grow, at least in the last stage, by spreading of layers. However, at initial stage microcrystals formed and developed into dendrite or needle forms. These one-dimensional crystals developed into platelets and finally thickened. Further studies reveal that micro impurities play a vital role in the development of these crystals as seen by dissolution figures on the crystals. These crystals are characterized by using the XRD and IR spectroscopic methods.</p>
+                </abstract>
+				<keywords>Cholesterol; gel method; organic solvents; micro-topographical studies; layered growth.</keywords>
+				<allauthors>
+					<author lname="Elizabeth" fname="Anit" isfellow="0">Elizabeth, Anit</author>
+					<author lname="Joseph" fname="Cyriac" isfellow="0">Joseph, Cyriac</author>
+					<author lname="Ittyachen" fname="M. A." isfellow="0">Ittyachen, M. A.</author>
+				</allauthors>
+			</entry>
+        </issue>
+        <issue inum="05" month="10" year="2001">
+			<entry issup="0">
+				<title>Crystallization of mixed rare earth (didymium) molybdates in silica gel</title>
+				<feature>Crystal Growth</feature>
+				<page>0435-0440</page>
+				<abstract>
+                    <p>Experiments on the growth of mixed rare earth (didymium$—$a combination of La, Nd, Pr and Sm) molybdates in silica gel medium are reported. The optimum conditions conducive for the growth of these crystals are described and discussed. Concentration programming is reported to enhance the size of crystals by two-fold; the maximum size obtained being about 1 mm$^3$. EDAX results suggest the crystals to be heptamolybdates of type R$_2$Mo$_7$O$_{24}$, bearing composition La$_{1\ 23}$Nd$_{0\ 43}$Pr$_{0\ 29}$ Sm$_{0\ 05}$Mo$_7$O$_{24}$. The didymium molybdate crystals assume morphologies corresponding to those of spherulites, platelets, cuboids and coalesced crystals. Twinned structure in didymium molybdate crystals are also reported. It is explained that spherulitic morphologies result from aggregates of crystals joining in a spherical envelope. It is suggested that the crystals of didymium molybdates grow by two-dimensional spreading and piling up of layers.</p>
+                </abstract>
+				<keywords>Crystal growth; didymium molybdate; gel method; morphology; EDAX.</keywords>
+				<allauthors>
+					<author lname="Pandita" fname="Sanjay" isfellow="0">Pandita, Sanjay</author>
+					<author lname="Tickoo" fname="Ravender" isfellow="0">Tickoo, Ravender</author>
+					<author lname="Bamzai" fname="K." isfellow="0">Bamzai, K.</author>
+					<author lname="Kotru" fname="P. N." isfellow="0">Kotru, P. N.</author>
+					<author lname="Sahni" fname="Neera" isfellow="0">Sahni, Neera</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Lattice variation and thermal parameters of Ni$_x$Mg$_{1–x}$SO$_4$ 7H$_2$O single crystals</title>
+				<feature>Crystal Growth</feature>
+				<page>0441-0444</page>
+				<abstract>
+                    <p>Ni$_x$Mg$_{1–x}$SO$_4$ 7H$_2$O single crystals were grown by the slow evaporation method from aqueous solutions. Density was measured by the floatation method. X-ray diffraction data were collected for powder samples and used for the estimation of lattice variation and thermal parameters like Debye–Waller factor, mean-square amplitude of vibration and Debye temperature. Lattice volumes approximately obey a relation similar to Retger’s rule. Values of thermal parameters do not follow any particular order with composition. The results obtained are reported.</p>
+                </abstract>
+				<keywords>Mixed crystals; X-ray diffraction analysis; lattice parameters; Debye–Waller factors; Debye temperatures.</keywords>
+				<allauthors>
+					<author lname="Theivanayagom" fname="M." isfellow="0">Theivanayagom, M.</author>
+					<author lname="Mahadevan" fname="C." isfellow="0">Mahadevan, C.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Growth and characterization of indium antimonide and gallium antimonide crystals</title>
+				<feature>Crystal Growth</feature>
+				<page>0445-0453</page>
+				<abstract>
+                    <p>Indium antimonide and gallium antimonide were synthesized from the respective component elements using an indigenously fabricated synthesis unit. Bulk crystals of indium antimonide and gallium antimonide were grown using both the vertical and horizontal Bridgman techniques. Effect of ampoule shapes and diameters on the crystallinity and homogeneity was studied. The grown crystals were characterized using X-ray analysis, EDAX, chemical etching, Hall effect and conductivity measurements. In the case of gallium antimonide, effect of dopants (Te and In) on transport and photoluminescence properties was investigated.</p>
+                </abstract>
+				<keywords>Synthesis; crystallization; chemical etching; defect density; Hall measurements; photoluminescence (PL) spectra.</keywords>
+				<allauthors>
+					<author lname="Udayashankar" fname="N. K." isfellow="0">Udayashankar, N. K.</author>
+					<author lname="Bhat" fname="H. L." isfellow="0">Bhat, H. L.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Experimental setup for rapid crystallization using favoured chemical potential and hydrodynamic conditions</title>
+				<feature>Crystal Growth</feature>
+				<page>0455-0459</page>
+				<abstract>
+                    <p>The rapid crystallization of KH$_2$PO$_4$ (KDP) from solution is demonstrated at a rate up to 7 5 mm/day along [100] and 22 mm/day along [001] in a crystallizer of 5 l capacity, using accelerated crucible rotation technique (ACRT) and simulated platform geometry for controlling the hydrodynamic conditions. On an experimental basis we have grown the crystals up to 40 $\times$ 43 $\times$ 66 mm$^3$ size in about 3 days. Comparative analysis of the main structural and optical properties of crystals grown by conventional and rapid crystallization technique, is discussed.</p>
+                </abstract>
+				<keywords>Rapid crystallization; ACRT; hydrodynamics.</keywords>
+				<allauthors>
+					<author lname="Dixit" fname="V. K." isfellow="0">Dixit, V. K.</author>
+					<author lname="Rodrigues" fname="B. V." isfellow="0">Rodrigues, B. V.</author>
+					<author lname="Bhat" fname="H. L." isfellow="0">Bhat, H. L.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Growth and study of some gel grown group II single crystals of iodate</title>
+				<feature>Crystal Growth</feature>
+				<page>0461-0468</page>
+				<abstract>
+                    <p>Single crystals of calcium iodate and barium iodate were grown by simple gel technique by single diffusion method. The optimum conditions were established by varying various parameters such as pH of gel solution, gel concentration, gel setting time, concentration of the reactants etc. Crystals having different morphologies and habits were obtained. Prismatic, dendritic crystals of barium iodate and prismatic, needle shaped, hopper crystals of calcium iodate were obtained. Some of them were transparent, some transluscent, and few others were opaque. Both the crystals were studied using XRD, FT-IR, and thermal analysis. The crystals were doped by iron impurity. The effect of doping was studied using IR spectroscopy and thermal analysis.</p>
+                </abstract>
+				<keywords>Silica gel; barium iodate; calcium iodate; XRD; FT-IR; TGA/DTA.</keywords>
+				<allauthors>
+					<author lname="Shitole" fname="Sharda J." isfellow="0">Shitole, Sharda J.</author>
+					<author lname="Saraf" fname="K. B." isfellow="0">Saraf, K. B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Systematic hardness measurements on some rare earth garnet crystals</title>
+				<feature>Crystal Growth</feature>
+				<page>0469-0473</page>
+				<abstract>
+                    <p>Microhardness measurements were undertaken on twelve rare earth garnet crystals. In yttrium aluminium garnet and gadolinium gallium garnet, there was no measurable difference in the hardness values of pure and nominally Nd-doped crystals. The hardness values were correlated with the lattice and elastic constants. An analysis of hardness data in terms of the interatomic binding indicated a high degree of covalency.</p>
+                </abstract>
+				<keywords>Microhardness; rare earth garnets.</keywords>
+				<allauthors>
+					<author lname="Sirdeshmukh" fname="D. B." isfellow="0">Sirdeshmukh, D. B.</author>
+					<author lname="Sirdeshmukh" fname="L." isfellow="0">Sirdeshmukh, L.</author>
+					<author lname="Subhadra" fname="K. G." isfellow="0">Subhadra, K. G.</author>
+					<author lname="Rao" fname="K. Kishan" isfellow="0">Rao, K. Kishan</author>
+					<author lname="Laxman" fname="S. Bal" isfellow="0">Laxman, S. Bal</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Influence of crystal–melt interface shape on self-seeding and single crystalline quality</title>
+				<feature>Crystal Growth</feature>
+				<page>0475-0482</page>
+				<abstract>
+                    <p>The growth of Sb-based crystals (InSb, GaSb etc) was undertaken using resistive heater furnace by vertical directional solidification (VDS) technique. Crystal–melt interface shape during the growth was shown to convert from concave to convex along the crystal axis of the ingots. Many antimonide (Sb) crystals of 8 mm to 18 mm diameter were grown by optimized growth parameters. The forced convection and absence of conducting support to ampoule showed improvement in crystal quality of as grown ingots. Crystals showed preferred orientation and self-seeding. Results on interface shape and crystallinity of ingots were found to be in good agreement with the experiments.</p>
+                </abstract>
+				<keywords>Self-seeding; orientation; interface shape; antimonide crystals; VDS technique.</keywords>
+				<allauthors>
+					<author lname="Gadkari" fname="D. B." isfellow="0">Gadkari, D. B.</author>
+					<author lname="Shashidharan" fname="P." isfellow="0">Shashidharan, P.</author>
+					<author lname="Lal" fname="K. B." isfellow="0">Lal, K. B.</author>
+					<author lname="Arora" fname="B. M." isfellow="0">Arora, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Non-linear $I–V$ characteristics of doped Sn$_{1–x}$Ti$_x$O$_2$ (0 0 &lt; $x$ &lt; 0 25) system</title>
+				<feature>Electrical Properties</feature>
+				<page>0483-0485</page>
+				<abstract>
+                    <p>The solid solutions of Sn$_{1–x}$Ti$_x$O$_2$ (0 0 &lt; $x$ &lt; 0 25) were prepared by the usual high temperature ceramic processing techniques with small amounts of dopants such as Nb, Co, Al. The electrical measurements (log $I$–log $V$) on the ohmically metal electroded sintered pellets showed the non-linear behaviour. The nonlinear coefficient was found to decrease from 12 to 3 with increase in $x$. On the other hand, the breakdown voltage ($E_b$) showed the increase with the increase in $x$. This complex electrical behaviour is explained on the effects of the three dopants (as varistor former, performance enhancer and highlighter) on the microstructural features of the dense pellet.</p>
+                </abstract>
+				<keywords>Varistors; SnO$_2$; TiO$_2$; nonlinear coefficient; breakdown voltage.</keywords>
+				<allauthors>
+					<author lname="Ravi" fname="V." isfellow="0">Ravi, V.</author>
+					<author lname="Date" fname="S. K." isfellow="0">Date, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis, impedance and dielectric properties of LaBi$_5$Fe$_2$Ti$_3$O$_{18}$</title>
+				<feature>Electrical Properties</feature>
+				<page>0487-0495</page>
+				<abstract>
+                    <p>The compound, LaBi$_5$Fe$_2$Ti$_3$O$_{18}$, is a five-layered material belonging to the family of bismuth layered structure ferroelectromagnetics. D.c. and a.c. conductivity measurements were performed on the samples. Dielectric measurements were also performed on these samples. Combined impedance and modulus plots were used as tools to analyse the sample behaviour as a function of frequency. Cole–Cole plots showed non-Debye relaxation.</p>
+                </abstract>
+				<keywords>Bismuth layered structure ferroelectromagnetic (BLSFEM); relaxor ferroelectric; Debye relaxations; pyroelectric.</keywords>
+				<allauthors>
+					<author lname="Prasad" fname="N. V." isfellow="0">Prasad, N. V.</author>
+					<author lname="Prasad" fname="G." isfellow="0">Prasad, G.</author>
+					<author lname="Bhimasankaram" fname="T." isfellow="0">Bhimasankaram, T.</author>
+					<author lname="Suryanarayana" fname="S. V." isfellow="0">Suryanarayana, S. V.</author>
+					<author lname="Kumar" fname="G. S." isfellow="0">Kumar, G. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of lanthanum doping on electrical and electromechanical properties of Ba$_{1–x}$La$_x$TiO$_3$</title>
+				<feature>Electrical Properties</feature>
+				<page>0497-0504</page>
+				<abstract>
+                    <p>The effect of lanthanum doping is studied on ferroelectric properties of Ba$_{1–x}$La$_x$TiO$_3$ with $x$ = 0 0005, 0 001, 0 003 prepared through solid state sintering route. Dielectric and impedance spectroscopic studies have been carried out. The tetragonal distortion of the unit cell decreased and ferroelectric transition temperature, $T_c$ increased with the increase of lanthanum content.</p>
+                    <p>Combined impedance and admittance spectroscopy was used to analyse impedance data. The electromechanical parameters were calculated from the resonant and anti-resonant frequencies from vector admittance plots. The electromechanical coefficients for Ba$_{1–x}$La$_x$TiO$_3$  with $x$ = 0 003 were found to be much larger than that of pure barium titanate.</p>
+                </abstract>
+				<keywords>Ferroelectric; resonant frequency; anti-resonant frequency; vector admittance plots.</keywords>
+				<allauthors>
+					<author lname="Aparna" fname="M." isfellow="0">Aparna, M.</author>
+					<author lname="Bhimasankaram" fname="T." isfellow="0">Bhimasankaram, T.</author>
+					<author lname="Suryanarayana" fname="S. V." isfellow="0">Suryanarayana, S. V.</author>
+					<author lname="Prasad" fname="G." isfellow="0">Prasad, G.</author>
+					<author lname="Kumar" fname="G. S." isfellow="0">Kumar, G. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Dielectric behaviour of erbium substituted Mn–Zn ferrites</title>
+				<feature>Electrical Properties</feature>
+				<page>0505-0509</page>
+				<abstract>
+                    <p>Dielectric properties such as dielectric constant ($\mathbf{e}$) and dielectric loss tangent (tan&#8364;$\mathbf{d}$) of mixed Mn–Zn–Er ferrites having the compositional formula Mn$_{0\ 58}$Zn$_{0\ 37}$Fe$_{2\ 05–x}$Er$_x$O$_4$ (where $x$ = 0 2, 0 4, 0 6, 0 8 and 1 0) were measured at room temperature in the frequency range 1–13 MHz using a HP 4192A impedance analyser. Plots of dielectric constant ($\mathbf{e}$) vs frequency show a normal dielectric behaviour of spinel ferrites. The frequency dependence of dielectric loss tangent (tan $\mathbf{d}$) was found to be abnormal, giving a peak at certain frequency for all mixed Mn–Zn–Er ferrites. A qualitative explanation is given for the composition and frequency dependence of the dielectric constant and dielectric loss tangent. Plots of dielectric constant vs temperature have shown a transition near the Curie temperature for all the samples of Mn–Zn–Er ferrites. However, Mn$_{0\ 58}$Zn$_{0\ 37}$Er$_{1\ 0}$Fe$_{1\ 05}$O$_4$ does not show a transition. On the basis of these results an explanation for the dielectric mechanism in Mn–Zn–Er ferrites is suggested.</p>
+                </abstract>
+				<keywords>Dielectric constant; dielectric loss tangent; Mn–Zn–Er ferrites; electrical resistivity.</keywords>
+				<allauthors>
+					<author lname="Ravinder" fname="D." isfellow="0">Ravinder, D.</author>
+					<author lname="Kumar" fname="K. Vijaya" isfellow="0">Kumar, K. Vijaya</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Electrical conductivity measurements on gel grown KDP crystals added with urea and thiourea</title>
+				<feature>Electrical Properties</feature>
+				<page>0511-0514</page>
+				<abstract>
+                    <p>Pure and impurity added (with urea and thiourea) KDP single crystals were grown by the gel method using silica gels. Electrical conductivity measurements were carried out along both the unique axis and perpendicular directions at various temperatures ranging from 30 to 140$^\circ $C by the conventional two-probe method. The present study shows that the conductivity in KDP crystals, for both the impurities considered, increases with the increase in impurity concentration and temperature. Activation energies were also determined and reported.</p>
+                </abstract>
+				<keywords> Impurity added KDP crystals; gel method; electrical conductivity; activation energy.</keywords>
+				<allauthors>
+					<author lname="Priya" fname="M." isfellow="0">Priya, M.</author>
+					<author lname="Padma" fname="C. M." isfellow="0">Padma, C. M.</author>
+					<author lname="Freeda" fname="T. H." isfellow="0">Freeda, T. H.</author>
+					<author lname="Mahadevan" fname="C." isfellow="0">Mahadevan, C.</author>
+					<author lname="Balasingh" fname="C." isfellow="0">Balasingh, C.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Submicron particles of Co, Ni and Co–Ni alloys</title>
+				<feature>Magnetic Materials</feature>
+				<page>0515-0521</page>
+				<abstract>
+                    <p>Magnetic sub-micron sized particles (with diameters in the range 100–600 nm) of Co, Ni and Co–Ni alloys, protected with polyvinylpyrrolidone have been prepared in gram quantities using the polyol process. Experiments carried out with different metal precursors and starting compositions have yielded reliable routes to produce particles of the desired diameters in the 100–600 nm range. The particles were characterized with X-ray diffraction, scanning electron microscopy, energy dispersive X-ray analysis, thermogravimetric analysis and magnetic measurements. The particles are found to be stable under ambient conditions indefinitely. The coercivity values of the Co and Ni particles are $\sim$ 50% higher compared to the corresponding bulk values. The alloy particles follow a trend similar to the bulk alloys.</p>
+                </abstract>
+				<keywords>Submicron particles; Co; Ni; Co–Ni alloys.</keywords>
+				<allauthors>
+					<author lname="Saravanan" fname="P." isfellow="0">Saravanan, P.</author>
+					<author lname="Jose" fname="T. A." isfellow="0">Jose, T. A.</author>
+					<author lname="Thomas" fname="P. John" isfellow="0">Thomas, P. John</author>
+					<author lname="Kulkarni" fname="G. U." isfellow="0">Kulkarni, G. U.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of cationic size in Hg(Tl/Bi)Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$ on superconducting and microstructural characteristics</title>
+				<feature>Superconductors</feature>
+				<page>0523-0528</page>
+				<abstract>
+                    <p>In this paper we have reported investigations on the effect of simultaneous substitution of Bi and Tl at the H$g$ site in the oxygen deficient H$g$O$_\mathbf{d}$ layer of H$g$Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$ cuprate superconductor. Bulk polycrystalline samples have been prepared by the two-step solid state reaction process (precursor route). It has been observed that the as grown H$g$Bi$_{0\ 2–x}$Tl$_x$Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$ (with $x$ = 0 00, 0 05, 0 10, 0 15, 0 20) corresponds to the 1223 phase. It has been found that the Tc varies with the average cationic size &lt;$R_d$&gt; of the dopantcations. The optimum $T_c$ of $\sim$ 131 K has been found for the composition H$g$Bi$_{0\ 15}$Tl$_{0\ 05}$Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$. This composition leads to the average dopant cation size of $\sim$ 1 108 Å which is very close to the size of H$g^{2+}$($\sim$ 1 11 Å). The microstructure for H$g$Bi$_{0\ 15}$Tl$_{0\ 05}$Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$ has been found to be most dense and this phase exhibits the highest stability. The $J_c$ of the optimum material H$g$Bi$_{0\ 15}$Tl$_{0\ 05}$Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$ is found to be $\sim$ 1 29 $\times$ 10$^3$ A/cm$^2$ at 77 K.</p>
+                </abstract>
+				<keywords>HTSC; XRD; cationic size; $T_c$.</keywords>
+				<allauthors>
+					<author lname="Giri" fname="Rajiv" isfellow="0">Giri, Rajiv</author>
+					<author lname="Singh" fname="H. K." isfellow="0">Singh, H. K.</author>
+					<author lname="Tiwari" fname="R. S." isfellow="0">Tiwari, R. S.</author>
+					<author lname="Srivastava" fname="O. N." isfellow="0">Srivastava, O. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Physical and chemical response of 70 MeV carbon ion irradiated Kapton-H polymer</title>
+				<feature>Polymers</feature>
+				<page>0529-0534</page>
+				<abstract>
+                    <p>Physical and chemical responses of 70 MeV carbon ion irradiated Kapton-H polymer were studied by using UV-visible, FTIR and XRD techniques. The ion fluences ranging from 9 3 $\times$ 10$^{11}$–9 $\times$ 10$^{13}$ ions cm$^{–2}$ were used. Recorded UV-visible spectra clearly showed a decrease in absorption initially with fluence, but for the higher fluences it showed a recovery characteristic. A decrease in band-gap energy of 0 07 eV was observed. The FTIR analysis indicated the high resistance to radiation induced degradation of polymer. The diffraction pattern of Kapton-H indicates that this polymer is semi-crystalline in its nature. In case of irradiated one, there was an average increase of crystallite size by 20%, but diffuse pattern indicates that there was a decrease in crystallinity, which may be attributed to the formation of complex structure induced by the cross-linking of the polymeric chains.</p>
+                </abstract>
+				<keywords>Kapton-H polymer; carbon ions; radiation effects; UV and FT-IR spectroscopy; X-ray diffraction.</keywords>
+				<allauthors>
+					<author lname="Virk" fname="H. S." isfellow="0">Virk, H. S.</author>
+					<author lname="Chandi" fname="P. S." isfellow="0">Chandi, P. S.</author>
+					<author lname="Srivastava" fname="A. K." isfellow="0">Srivastava, A. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Interpenetrating polymer networks based on polyol modified castor oil polyurethane and poly(2-hydroxyethylmethacrylate): Synthesis, chemical, mechanical and thermal properties</title>
+				<feature>Polymers</feature>
+				<page>0535-0538</page>
+				<abstract>
+                    <p>Interpenetrating polymer networks (IPNs) of glycerol modified castor oil polyurethane (GC–PU) and poly[2-hydroxyethylmethacrylate] (PHEMA) were synthesized using benzoyl peroxide as initiator and N,N-methylene $bis$ acrylamide as crosslinker. GC–PU/PHEMA interpenetrating polymer networks were obtained by transfer moulding. These were characterized with respect to their resistance to chemical reagents and mechanical properties such as tensile strength, per cent elongation and shore A hardness. Differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA) were undertaken for thermal characterization. The changes in NCO/OH ratio and GC–PU/PHEMA composition on the properties of the IPNs were studied.</p>
+                </abstract>
+				<keywords>Transesterification; glycerol modified castor oil polyurethane; poly[2-hydroxyethyl methacrylate].</keywords>
+				<allauthors>
+					<author lname="Prashantha" fname="K." isfellow="0">Prashantha, K.</author>
+					<author lname="Pai" fname="K. Vasanth Kumar" isfellow="0">Pai, K. Vasanth Kumar</author>
+					<author lname="Sherigara" fname="B. S." isfellow="0">Sherigara, B. S.</author>
+					<author lname="Prasannakumar" fname="S." isfellow="0">Prasannakumar, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Correlation of radiative properties of rare earth ions (Pr$^{3+}$ and Nd$^{3+}$) in chlorophosphate glasses$—$0 1 and 0 5 mol% concentrations</title>
+				<feature>Glasses</feature>
+				<page>0539-0545</page>
+				<abstract>
+                    <p>Optical properties of chlorophosphate glasses of the type 50P$_2$O$_5$–30Na$_2$HPO$_4$–20RCl (R = potassium and lead) activated by 0 1 and 0 5 mol% of Pr$^{3+}$ and Nd$^{3+}$ have been investigated. Optical band gaps ($E_{opt}$) have been reported for 0 1 and 0 5 mol% concentrations of Pr$^{3+}$ and Nd$^{3+}$ doped potassium and lead chlorophosphate glasses. Energy levels and optical transitions of Pr$^{3+}$ and Nd$^{3+}$ are assigned. Spectroscopic parameters $(E^1, E^2, E^3, \mathbf{x}_{4f} and \mathbf{a})$, spectral intensities ($f_{expt}$), Judd–Ofelt intensity parameters (${}_2$, ${}_4$ and ${}_6$) and radiative lifetimes ($\mathbf{t}_R$) are correlated for 0 1 and 0 5 mol% concentrations of these two ions in potassium and lead chlorophosphate glasses</p>
+                </abstract>
+				<keywords>Optical band gaps; spectroscopic parameters; intensity parameters; radiative lifetimes.</keywords>
+				<allauthors>
+					<author lname="Ratnakaram" fname="Y. C." isfellow="0">Ratnakaram, Y. C.</author>
+					<author lname="Reddy" fname="A. Viswanadha" isfellow="0">Reddy, A. Viswanadha</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Non-equilibrium solidification of undercooled droplets during atomization process</title>
+				<feature>Rapid Solidifications</feature>
+				<page>0547-0554</page>
+				<abstract>
+                    <p>Thermal history of droplets associated with gas atomization of melt has been investigated. A mathematical model, based on classical theory of heterogeneous nucleation and volume separation of nucleants among droplets size distribution, is described to predict undercooling of droplets. Newtonian heat flow condition coupled with velocity dependent heat transfer coefficient is used to obtain cooling rate before and after nucleation of droplets. The results indicate that temperature profile of droplets in the spray during recalescence, segregated and eutectic solidification regimes is dependent on their size and related undercooling. The interface temperature during solidification of undercooled droplets rapidly approaches the liquidus temperature of the alloy with a subsequent decrease in solid–liquid interface velocity. A comparison in cooling rates of atomized powder particles estimated from secondary dendrite arm spacing measurements are observed to be closer to those predicted from the model during segregated solidification regime of large size droplets. </p>
+                </abstract>
+				<keywords>Atomization; droplets; undercooling; solidification; recalescence; cooling rates.</keywords>
+				<allauthors>
+					<author lname="Shukla" fname="Prashant" isfellow="0">Shukla, Prashant</author>
+					<author lname="Mandal" fname="R. K." isfellow="0">Mandal, R. K.</author>
+					<author lname="Ojha" fname="S. N." isfellow="0">Ojha, S. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Possibility of improvement of potentiodynamic method for monitoring corrosion rate of steel reinforcement in concrete</title>
+				<feature>Corrosion Studies</feature>
+				<page>0555-0558</page>
+				<abstract>
+                    <p>Quantitative data on corroding steel reinforcement in reinforced concrete structures are undoubtedly very useful for evaluation of their service life and timely repairs. The method of electrode potential measurement is a convenient and simple test for this purpose, but it provides no quantitative data on corrosion rate and only information regarding active or passive state of steel reinforcement can be obtained. We show here the possibility of obtaining quantitative data on degree of corrosion of steel reinforcement by a potentiodynamic method. The developed method is based on experimentally estimated mathematical relation between the results of potentiodynamic method and degree of corrosion of steel reinforcement. It is possible to calculate the degree of corrosion of steel reinforcement using this mathematical relation and the measured values of current density by the potentiodynamic method.</p>
+                </abstract>
+				<keywords>Steel reinforcement; corrosion rate; potentiodynamic method; electrical resistance method.</keywords>
+				<allauthors>
+					<author lname="Živica" fname="V." isfellow="0">Živica, V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>On critical hydrogen concentration for hydrogen embrittlement of Fe$_3$Al</title>
+				<feature>Hydrogen Embrittlement</feature>
+				<page>0559-0562</page>
+				<abstract>
+                    <p>The critical hydrogen concentration for hydrogen embrittlement in iron aluminide, Fe$_3$Al has been estimated (0 42 wppm). The estimated critical hydrogen content has been correlated to structural aspects of the decohesion mechanism of hydrogen embrittlement.</p>
+                </abstract>
+				<keywords>Iron aluminides; hydrogen embrittlement; critical hydrogen concentration; decohesion; mechanism.</keywords>
+				<allauthors>
+					<author lname="Priyadarshi" fname="A." isfellow="0">Priyadarshi, A.</author>
+					<author lname="Balasubramaniam" fname="R." isfellow="0">Balasubramaniam, R.</author>
+				</allauthors>
+			</entry>
+        </issue>
+        <issue inum="06" month="12" year="2001">
+			<entry issup="0">
+				<title>Phase change induced by polypyrrole in iron-oxide polypyrrole nanocomposite</title>
+				<feature>Nanomaterials</feature>
+				<page>0563-0567</page>
+				<abstract>
+                    <p>Nanocomposites of polypyrrole and iron oxide were prepared using simultaneous gelation and polymerization processes. Varied amounts of pyrrole monomer were added to a solution containing iron nitrate as precursor and 2-methoxy ethanol as solvent. The presence of oxide and polypyrrole was confirmed by using X-ray and FTIR techniques. Some of these nanocomposites exhibited magnetic behaviour. SEM studies of powders indicated presence of nanosized particles. Electrical conductivity studies of powders showed a slight variation in conductivity for lower concentration of pyrrole, with a sudden increase in conductivity at 15% of pyrrole concentration. A transition from a nonmagnetic to magnetic phase was also observed at the same concentration.</p>
+                </abstract>
+				<keywords>Polypyrrole; iron oxide; nanocomposite; sol-gel.</keywords>
+				<allauthors>
+					<author lname="Suri" fname="Komilla" isfellow="0">Suri, Komilla</author>
+					<author lname="Annapoorni" fname="S." isfellow="0">Annapoorni, S.</author>
+					<author lname="Tandon" fname="R. P." isfellow="0">Tandon, R. P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Studies on broad spectrum corrosion resistant oxide coatings</title>
+				<feature>Thin Films</feature>
+				<page>0569-0577</page>
+				<abstract>
+                    <p>The corrosion resistant oxide coatings, developed and applied by the conventional vitreous enamelling techniques, showed superior resistance to a range of mineral acids at various strengths and temperatures, alkaline solutions, boiling water and chrome plating solutions. These coatings possess considerable abrasion and impact resistance as well as high thermal shock resistance. The properties of the coating system have been studied in detail and found to be strongly dependent on composition and processing parameters. These coatings have been characterized by X-ray diffraction analysis and SEM studies. Some of the coating materials have been found to be biocompatible.</p>
+                </abstract>
+				<keywords>Glass–ceramic; coating; vitreous enamelling; corrosion resistance; biocompatible.</keywords>
+				<allauthors>
+					<author lname="Datta" fname="Someswar" isfellow="0">Datta, Someswar</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Metallo–organic compound-based plasma enhanced CVD of ZrO$_2$ films for microelectronic applications</title>
+				<feature>Thin Films</feature>
+				<page>0579-0582</page>
+				<abstract>
+                    <p>ZrO$_2$ films on silicon wafer were deposited by microwave plasma enhanced chemical vapour deposition technique using zirconium tetratert butoxide (ZTB). The structure and composition of the deposited layers were studied by fourier transform infrared spectroscopy (FTIR). The deposition rates were also studied. MOS capacitors fabricated using deposited oxides were used to characterize the electrical properties of ZrO$_2$ films. The films showed their suitability for microelectronic applications.</p>
+                </abstract>
+				<keywords>Zirconium dioxide; high-k; PECVD; EOT.</keywords>
+				<allauthors>
+					<author lname="Chatterjee" fname="S." isfellow="0">Chatterjee, S.</author>
+					<author lname="Samanta" fname="S. K." isfellow="0">Samanta, S. K.</author>
+					<author lname="Banerjee" fname="H. D." isfellow="0">Banerjee, H. D.</author>
+					<author lname="Maiti" fname="C. K." isfellow="0">Maiti, C. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Preparation of Sm–Ru bimetallic alloy films on Ru(0001) surface by vapour-deposition and annealing</title>
+				<feature>Thin Films</feature>
+				<page>0583-0586</page>
+				<abstract>
+                    <p>Sm–Ru intermetallic surface alloy films were prepared by vacuum deposition and annealing of rare earth Sm on single crystal Ru(0001) surface. The Ru $3d$ and Sm $3d$ core level spectra clearly show the formation of surface alloy layers. XPS measurements on surface alloy film revealed an induced peak in the Ru $3d$ region at lower binding energy by 1 eV compared to the bulk Ru (elemental) suggesting an electronic effect of alloying and Sm–Ru bond formation. The Sm $3d_{5/2}$ photoemission peak of Sm film consists of strong features characteristic of Sm(II) with electron configuration $4f^6$ $(5d 6s)^2$ and Sm(III) with electron configuration $4f^5$ $(5d 6s)^3$. It is observed that the Sm(II) feature decreases in intensity upon alloy formation with surface Ru atoms. Oxidation of these films with carbon monoxide indicates alloy breakdown due to the oxidation of Sm atoms selectively. Alloy oxidation also shows a clear shift of Sm $3d_{5/2}$ feature.</p>
+                </abstract>
+				<keywords>Surface film; XPS; rare earth; bimetallic alloy; ruthenium.</keywords>
+				<allauthors>
+					<author lname="Rao" fname="G. Ranga" isfellow="0">Rao, G. Ranga</author>
+					<author lname="Nozoye" fname="H." isfellow="0">Nozoye, H.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Investigation of surface modifications in ethylene propylene diene monomer (EPDM) rubber due to tracking under a.c. and d.c. voltages</title>
+				<feature>Surface Studies</feature>
+				<page>0587-0593</page>
+				<abstract>
+                    <p>In the present work, tracking phenomena has been studied with the ethylene propylene diene monomer (EPDM) material under the a.c. and d.c. voltages, with ammonium chloride/acid rain solution as the contaminant. It is noticed that the tracking time depends on the conductivity and flow rate of the contaminant. The physico-chemical analyses viz. wide angle X-ray diffraction (WAXD), thermo-gravimetric differential thermal analysis (TG-DTA) and the differential scanning calorimetry (DSC) studies, were carried out and it was concluded that the tracking process is a surface degradation process. The tracking time is different for a.c. and d.c. voltages.</p>
+                </abstract>
+				<keywords>EPDM; tracking surface; degradation; acid rain; WAXD; DSC; TG-DTA</keywords>
+				<allauthors>
+					<author lname="Sarathi" fname="R." isfellow="0">Sarathi, R.</author>
+					<author lname="Rao" fname="Uma Maheswar" isfellow="0">Rao, Uma Maheswar</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Observation of curious spiral growth features in Tl doped Hg bearing high temperature superconducting tapes</title>
+				<feature>Superconductors</feature>
+				<page>0595-0601</page>
+				<abstract>
+                    <p>Synthesis of H$g$(Tl)Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$ superconducting tapes have been accomplished by annealing the precursor tape, Ba$_2$Ca$_2$Cu$_3$O$_y$ (fabricated by doctor blade tape casting technique) in an environment of H$g$(Tl) vapour. Characterization of superconducting HTSC tape sample was carried out through XRD, TEM, SEM and R–T measurements. Surface morphological investigations of the as-synthesized H$g$(Tl)Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$ HTSC tapes by scanning electron microscope have shown the occurrence of curious growth characteristics resembling spiral like features. These growth spirals encompass nearly the whole grain suggesting that spiral growth led to the formation of small crystal like grains of superconducting material H$g$(Tl)Ba$_2$Ca$_2$Cu$_3$O$_{8+\mathbf{d}}$. The likely mechanism for the generation of these screw dislocations has been elucidated in terms of incoherent coalescence of growth fronts formed from H$g$(Tl):1223 and H$g$(Tl):1234 nuclei.</p>
+                </abstract>
+				<keywords>Tapes; doctor blade process; spiral growth.</keywords>
+				<allauthors>
+					<author lname="Asthana" fname="Anjana" isfellow="0">Asthana, Anjana</author>
+					<author lname="Srivastava" fname="O. N." isfellow="0">Srivastava, O. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Preparation and characterization of Ag-added Bi$_{1\ 84}$Pb$_{0\ 4}$Sr$_2$Ca$_{2\ 2}$Cu$_3$O$_{10+x}$ bulk tube conductors for cryogen free superconducting magnet</title>
+				<feature>Superconductors</feature>
+				<page>0603-0609</page>
+				<abstract>
+                    <p>Bulk tube conductors of Bi$_{1\ 84}$Pb$_{0\ 4}$Sr$_2$Ca$_{2\ 2}$Cu$_3$O$_{10+x}$ with addition of silver varying from 0 to 25 wt% (not reported earlier) were systematically studied using X-ray diffraction (XRD), scanning electron microscopy (SEM), electrical transport and a.c. susceptibility techniques. The tube conductors formed by cold isostatic pressing (CIP) of the powders obtained from spray drying method have been made successfully. It was found that Ag addition has not only affected the formation of the desired Bi-2223 phase and the microstructure of these large bulk tube samples thereby influencing on the critical current ($I_c$), it also reduces the contact resistance to minimize the cryogen losses. These variations have been found to be Ag content dependent. An optimized value of 10 wt% Ag has been found to produce the best quality tubes showing reproducible $I_c$ value &gt; 120 Amp at 77 K which is in general a requirement to energies of the cryogen free conventional/HTSC superconducting magnets below 20 K.</p>
+                </abstract>
+				<keywords>Superconductivity; Bi-2223 tube conductor; spray drying; cold isostatic pressing.</keywords>
+				<allauthors>
+					<author lname="Ekbote" fname="S. N." isfellow="0">Ekbote, S. N.</author>
+					<author lname="Padam" fname="G. K." isfellow="0">Padam, G. K.</author>
+					<author lname="Sharma" fname="M." isfellow="0">Sharma, M.</author>
+					<author lname="Arora" fname="N. K." isfellow="0">Arora, N. K.</author>
+					<author lname="Khurana" fname="B. S." isfellow="0">Khurana, B. S.</author>
+					<author lname="Goel" fname="R. C." isfellow="0">Goel, R. C.</author>
+					<author lname="Suri" fname="D. K." isfellow="0">Suri, D. K.</author>
+					<author lname="Mehra" fname="N." isfellow="0">Mehra, N.</author>
+					<author lname="Das" fname="B. K." isfellow="0">Das, B. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A study of ultrasonic velocity and attenuation on polycrystalline Ni–Zn ferrites</title>
+				<feature>Magnetic Materials</feature>
+				<page>0611-0616</page>
+				<abstract>
+                    <p>Polycrystalline NiZn ferrites with different grain sizes (1 2 $mu$m to 10 2 $\mu$m) were prepared by the usual ceramic method. The magnetic properties were measured at room temperature. The ultrasonic velocity and attenuation were measured on Ni–Zn ferrite by using the pulse transmission method at 1 MHz, in the temperature range 300–600 K. The velocity was found to be slightly sample dependent at room temperature and decreased with increasing temperature, except near the Curie temperature, $T_c$, where a small anomaly was observed. The longitudinal attenuation ($\mathbf{a}_l$) at room temperature was found to be more sample dependent. The temperature variation of ultrasonic longitudinal attenuation exhibited a broad maximum around 400 K and a sharp maximum just below Curie temperature ($T_c$). The above observations were carried out in the demagnetized state. The application of a 380 mT magnetic field allowed us to reach the saturated state of the sample at all the measuring temperatures. The anomaly observed in the thermal variation of velocities (longitudinal and transverse) and attenuation has been qualitatively explained with the help of the temperature variation of the magneto-crystalline anisotropy constant.</p>
+                </abstract>
+				<keywords>Ferrites; magnetic properties; ultrasonic velocity; attenuation; domain walls.</keywords>
+				<allauthors>
+					<author lname="Murthy" fname="S. R." isfellow="0">Murthy, S. R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A new combustion route to $\mathbf{g}$-Fe$_2$O$_3$ synthesis</title>
+				<feature>Magnetic Materials</feature>
+				<page>0617-0621</page>
+				<abstract>
+                    <p>A new combustion route for the synthesis of $\mathbf{g}$-Fe$_2$O$_3$ is reported by employing purified $\mathbf{a}$-Fe$_2$O$_3$ as aprecursor in the present investigation. This synthesis which is similar to a self propagation combustion reaction, involves fewer steps, a shorter overall processing time, is a low energy reaction without the need of any explosives, and also the reaction is completed in a single step yielding magnetic iron oxide i.e. $\mathbf{g}$-Fe$_2$O$_3$. The as synthesized $\mathbf{g}$-Fe$_2$O$_3$ is characterized employing thermal, XRD, SEM, magnetic hysteresis, and density measurements. The effect of ball-milling on magnetic properties is also presented.</p>
+                </abstract>
+				<keywords>$\mathbf{g}$-Fe$_2$O$_3$; combustion synthesis; thermal; ball-milling; magnetic hysteresis.</keywords>
+				<allauthors>
+					<author lname="Venkataraman" fname="A." isfellow="0">Venkataraman, A.</author>
+					<author lname="Hiremath" fname="Vijay A." isfellow="0">Hiremath, Vijay A.</author>
+					<author lname="Date" fname="S. K." isfellow="0">Date, S. K.</author>
+					<author lname="Kulkarni" fname="S. D." isfellow="0">Kulkarni, S. D.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Tailoring magnetic and dielectric properties of rubber ferrite composites containing mixed ferrites</title>
+				<feature>Magnetic Materials</feature>
+				<page>0623-0631</page>
+				<abstract>
+                    <p>Rubber ferrite composites containing various mixed ferrites were prepared for different compositions and various loadings. The magnetic and dielectric properties of the fillers as well as the ferrite filled matrixes were evaluated separately. The results are correlated. Simple equations are proposed to predetermine the magnetic and dielectric properties. The validity of these equations is verified and they are found to be in good agreement. These equations are useful in tailoring the magnetic and dielectric properties of these composites with predetermined properties.</p>
+                </abstract>
+				<keywords>Rubber ferrite composites; magnetic materials; magnetic composites; rubber magnets; mixed ferrites.</keywords>
+				<allauthors>
+					<author lname="Anantharaman" fname="M. R." isfellow="0">Anantharaman, M. R.</author>
+					<author lname="Malini" fname="K. A." isfellow="0">Malini, K. A.</author>
+					<author lname="Sindhu" fname="S." isfellow="0">Sindhu, S.</author>
+					<author lname="Mohammed" fname="E. M." isfellow="0">Mohammed, E. M.</author>
+					<author lname="Date" fname="S. K." isfellow="0">Date, S. K.</author>
+					<author lname="Kulkarni" fname="S. D." isfellow="0">Kulkarni, S. D.</author>
+					<author lname="Joy" fname="P. A." isfellow="0">Joy, P. A.</author>
+					<author lname="Kurian" fname="Philip" isfellow="0">Kurian, Philip</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Analysis of stainless steel samples by energy dispersive X-ray fluorescence (EDXRF) spectrometry</title>
+				<feature>Alloys and Steels</feature>
+				<page>0633-0638</page>
+				<abstract>
+                    <p>A simple method for the analysis of stainless steel samples is presented which is based on radioisotope excited energy dispersive X-ray fluorescence (EDXRF) spectrometry and does not require any type-standards. Both absorption and enhancement effects have been taken into account in the fundamental parameter method for quantitative analysis and an iterative approach is followed for calculation of concentrations in steel samples. Non-linear least square fitting (NL-LSF) procedures have been used to determine accurately the fluorescent peak intensities. The method has been tested by analysing several CRM standard reference samples and 304 and 316 steel samples assuming as unknown. The EDXRF results have also been compared with the results of analysis of same samples by vacuum emission spark spectrometry (VES). Obtained values for concentration in steel samples match quite well with their certified values.</p>
+                </abstract>
+				<keywords>XRF; spectrometry; least squares fitting; stainless steel.</keywords>
+				<allauthors>
+					<author lname="Tiwari" fname="M. K." isfellow="0">Tiwari, M. K.</author>
+					<author lname="Singh" fname="A. K." isfellow="0">Singh, A. K.</author>
+					<author lname="Sawhney" fname="K. J. S." isfellow="0">Sawhney, K. J. S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Fine structure at the diffusion welded interface of Fe$_3$Al/Q235 dissimilar materials</title>
+				<feature>Alloys and Steels</feature>
+				<page>0639-0642</page>
+				<abstract>
+                    <p>The interface of Fe$_3$Al/Q235 dissimilar materials joint, which was made by vacuum diffusion welding, combines excellently. There are Fe$_3$Al, FeAl phases and $\mathbf{a}$-Fe (Al) solid solution at the interface of Fe$_3$Al/Q235. Aluminum content decreases from 28% to 1 5% and corresponding phase changes from Fe$_3$Al with DO$_3$ type body centred cubic ($bcc$) structure to $mathbf{a}$-Fe (Al) solid solution with B2 type bcc structure. All phases are present in sub-grain structure level and there is no obvious brittle phases or micro-defects such as pores and cracks at the interface of Fe$_3$Al/Q235 diffusion joint.</p>
+                </abstract>
+				<keywords>Fe$_3$Al/Q235 dissimilar material joint; vacuum diffusion welding; fine structure.</keywords>
+				<allauthors>
+					<author lname="Juan" fname="Wang" isfellow="0">Juan, Wang</author>
+					<author lname="Yajiang" fname="Li" isfellow="0">Yajiang, Li</author>
+					<author lname="Huiqiang" fname="Wu" isfellow="0">Huiqiang, Wu</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of zirconium addition on the recrystallization behaviour of a commercial Al–Cu–Mg alloy</title>
+				<feature>Alloys and Steels</feature>
+				<page>0643-0648</page>
+				<abstract>
+                    <p></p>
+                </abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Kashyap" fname="K. T." isfellow="0">Kashyap, K. T.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An X-ray diffraction study of defect parameters in a Ti-base alloy</title>
+				<feature>Alloys and Steels</feature>
+				<page>0649-0652</page>
+				<abstract>
+                    <p>Detailed studies based on the well established method of Fourier line shape analysis have been made on the X-ray diffraction profile of hexagonal titanium alloy of nominal composition Ti–6 58% Al–3 16% Mo–1 81% Zr–0 08% Fe–0 012% N–0 0078% C. While deformation fault probability, $\mathbf{a}$, has been found to be quite high compared to that of pure titanium, the deformation growth fault parameter, $\mathbf{b}$, shows a negative value ruling out the presence of growth fault in this alloy in the deformed state.</p>
+                </abstract>
+				<keywords>Cold working; XRD; titanium alloy; microstructural parameters.</keywords>
+				<allauthors>
+					<author lname="Karmaker" fname="G." isfellow="0">Karmaker, G.</author>
+					<author lname="Mukherjee" fname="P." isfellow="0">Mukherjee, P.</author>
+					<author lname="Meikap" fname="A. K." isfellow="0">Meikap, A. K.</author>
+					<author lname="Chattopadhyay" fname="S. K." isfellow="0">Chattopadhyay, S. K.</author>
+					<author lname="Chatterjee" fname="S. K." isfellow="0">Chatterjee, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Development of calcium phosphate based bioceramics</title>
+				<feature>Bioceramics</feature>
+				<page>0653-0657</page>
+				<abstract>
+                    <p>Two bioceramics (Ca–P–O glass and A–W glass ceramic) were produced using conventional methods of ceramic technology. X-ray powder diffraction patterns were used for identifying the phases and 3-point bend test was carried out for the determination of fracture strength of the bioceramics. Biocompatibility of both ceramics was evaluated using animal model experiments. Histological studies showed that A–W glass ceramic implanted in the tibia of rat formed an intimate contact with newly grown bone and provided enough strength to the bone to bear the animal weight. Implants made of Ca–P–O glass was almost fully resorbed and was replaced by new bone. The implants made of both the bioceramics were biocompatible and did not exhibit any kind of adverse effect to the surrounding tissues.</p>
+                </abstract>
+				<keywords>Bioceramic; calcium phosphate; hydroxyapatite; wollastonite; biocompatibility.</keywords>
+				<allauthors>
+					<author lname="Sinha" fname="Amit" isfellow="0">Sinha, Amit</author>
+					<author lname="Ingle" fname="A." isfellow="0">Ingle, A.</author>
+					<author lname="Munim" fname="K. R." isfellow="0">Munim, K. R.</author>
+					<author lname="Vaidya" fname="S. N." isfellow="0">Vaidya, S. N.</author>
+					<author lname="Sharma" fname="B. P." isfellow="0">Sharma, B. P.</author>
+					<author lname="Bhisey" fname="A. N." isfellow="0">Bhisey, A. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Homogenization of zinc distribution in vertical Bridgman grown Cd$_{0\ 96}$Zn$_{0\ 04}$Te crystals</title>
+				<feature>Single Crystals</feature>
+				<page>0659-0663</page>
+				<abstract>
+                    <p>One of the most pressing issues in the growth of high quality single crystal Cd$_{0\ 96}$Zn$_{0\ 04}$Te material, is to achieve homogenization of the high axial variation of Zn concentration, caused by the larger than unity segregation coefficient of Zn in CdTe. This is achieved in our crystals (i) by thermal annealing of the CdZnTe crystal, which redistributes the as grown Zn distribution by solid state diffusion of Zn (this solid state diffusion of Zn occurs at three stages (a) during the growth when the solidified crystal is near to the melting point temperature, (b) during the post growth annealing of the crystal at a high temperature and (c) during the cooldown to room temperature) and (ii) by the reduction of Zn segregation during the growth stage by enhanced convective mixing of the melt, through a proper choice of ampoule and furnace dimensions. By adopting suitable growth parameters and sufficient post growth annealing it has been possible to grow Cd$_{0\ 96}$Zn$_{0\ 04}$Te crystals, which have nearly 75% of their fraction within 1% Zn concentration variation.</p>
+                </abstract>
+				<keywords>Bridgman growth; CdZnTe; Zn distribution; solid state diffusion.</keywords>
+				<allauthors>
+					<author lname="Radhakrishnan" fname="J. K." isfellow="0">Radhakrishnan, J. K.</author>
+					<author lname="Sunderseshu" fname="B. S." isfellow="0">Sunderseshu, B. S.</author>
+					<author lname="Srivastava" fname="Meenakshi" isfellow="0">Srivastava, Meenakshi</author>
+					<author lname="Seth" fname="G. L." isfellow="0">Seth, G. L.</author>
+					<author lname="Raman" fname="R." isfellow="0">Raman, R.</author>
+					<author lname="Narula" fname="R. C." isfellow="0">Narula, R. C.</author>
+					<author lname="Bagai" fname="R. K." isfellow="0">Bagai, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Surface studies on as-grown (111) faces of sodium bromate crystals</title>
+				<feature>Single Crystals</feature>
+				<page>0665-0669</page>
+				<abstract>
+                    <p>Single crystals of sodium bromate are grown at various supersaturations ranging from 3% to 8%. Surface studies have been carried out on as-grown and etched (111) faces of these crystals. Typical and systematically oriented growth hillocks are observed almost on all the faces. Further dislocation studies are made to understand the growth history of these crystals. These studies suggest that the crystals grow by 2D-growth mechanism. In addition to this, studies are also conducted on the formation of overgrowths and inclusions in these crystals.</p>
+                </abstract>
+				<keywords>Crystal growth; sodium bromate; surface studies; growth mechanism.</keywords>
+				<allauthors>
+					<author lname="Rao" fname="K. Kishan" isfellow="0">Rao, K. Kishan</author>
+					<author lname="Surender" fname="V." isfellow="0">Surender, V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Subject index</title>
+				<feature></feature>
+				<page>0671-0682</page>
+				<abstract />
+				<keywords />
+				<allauthors />
+			</entry>
+			<entry issup="0">
+				<title>Author index</title>
+				<feature></feature>
+				<page>0683-0689</page>
+				<abstract />
+				<keywords />
+				<allauthors />
+			</entry>
+			<entry issup="0">
+				<title>Volume Contents</title>
+				<feature></feature>
+				<page>i-vii</page>
+				<abstract />
+				<keywords />
+				<allauthors />
 			</entry>
 		</issue>
 	</volume>
