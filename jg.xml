@@ -25,7 +25,7 @@
 				<abstract>
 					<p>The very insightful Trivers-Willard hypothesis, proposed in the early 1970s, states that females in good physiological condition are more likely to produce male offspring when the variance of reproductive success among males is high. The hypothesis has inspired a number of studies over the last three decades aimed at its experimental verification, and many of them have found adequate supportive evidence in its favour. Theoretical investigations, on the other hand, have been few, perhaps because formulating a population-genetic model for describing the Trivers±Willard hypothesis turns out to be surprisingly complex. The present study is aimed at using a minimal population-genetic model to explore one specific scenario, namely how is the preference for a male offspring by females in good condition altered when $g$, the proportion of such females in the population, changes from a low to a high value. As expected, when the proportion of such females in good condition is low in the population, i.e. for low values of $g$, the Trivers-Willard (TW) strategy goes to fixation against the equal investment strategy. This holds true up to $g_\mathrm{max}$, a critical value of $g$, above which the two strategies coexist, but the proportion of the TW strategy steadily decreases as $g$ increases to unity. Similarly, when the effect of well-endowed males attaining disproportionately high number of matings is more pronounced, the TW strategy is more likely to go to fixation. Interestingly, the success of the TW strategy has a complex dependence on the variance of the physiological condition of females. If the difference in the two types of conditions is not large, TW strategy is favoured, and its success is more likely as the difference increases. However, beyond a critical value of the difference, the TW strategy is found to be less and less likely to succeed as the difference becomes larger. Possible reasons for these effects are discussed.</p>
 				</abstract>
-				<keywords>Trivers-Willard hypothesis; maternal investment; sex ratio theory; optimal resource allocation; mathematical modelling.</keywords>
+				<keywords>trivers-Willard hypothesis; maternal investment; sex ratio theory; optimal resource allocation; mathematical modelling.</keywords>
 				<allauthors>
 					<author lname="Joshi" fname="N. V." isfellow="0">Joshi, N. V.</author>
 				</allauthors>
@@ -83,7 +83,7 @@
 				<abstract>
 					<p>In baculovirus-based high-level expression of cloned foreign genes, the viral very late gene promoters of \textit{polyhedrin (polh)} and $p10$ are extensively exploited. Here we report the cloning and characterization of the $p10$ gene from a local isolate of \textit{Bombyx mori} nucleopolyhedrosis virus (BmNPV). The gene harbours a 213-bp open reading frame encoding a protein of 70 amino acids with a predicted molecular mass of 7.5 kDa. The BmNPV $p10$ showed deletion of a single $A$ at $+210$ nucleotide compared to the prototype baculovirus, \textit{Autographa californica} multinucleocapsid nucleopolyhedrosis virus (AcMNPV), $p10$ gene, resulting in a translational frameshift to generate a termination codon and consequently a truncated polypeptide instead of the $10$-kDa protein. This protein $P7.5$ from BmNPV has a putative leucine zipper dimerization motif towards the $N$-terminal end and the central nuclear disintegration domain but the carboxy-terminal domain implicated in protein association for fibrillar structure formation is absent. Phylogenetic analysis revealed that $p10$ is highly conserved among baculoviruses and the BmNPV strains are more closely related to AcMNPV than other baculoviruses. The transcription of $p10$ is regulated in a temporal manner, reaching maximal levels by 72 h post-infection. RNAase protection and primer extension analysis mapped the transcription start sites at -70 and -71 nt with respect to the ATG, within the conserved baculovirus late gene motif TAAG. The upstream region showed complete homology to the strong promoter of the AcMNPV $p10$, suggesting that this promoter from BmNPV could also be exploited for high-level expression of cloned foreign genes in silkworm cells or larvae.</p>
 				</abstract>
-				<keywords>Baculovirus; \textit{Bombyx mori}; BmNPV; late gene expression; $p10$ gene; transcriptional regulation.</keywords>
+				<keywords>baculovirus; \textit{Bombyx mori}; BmNPV; late gene expression; $p10$ gene; transcriptional regulation.</keywords>
 				<allauthors>
 					<author lname="Palhan" fname="Vikas B." isfellow="0">Palhan, Vikas B.</author>
 					<author lname="Gopinathan" fname="Karumathil P." isfellow="0">Gopinathan, Karumathil P.</author>
@@ -111,7 +111,7 @@
 				<abstract>
 					<p>Mapping a locus controlling a quantitative genetic trait (e.g. blood pressure) to a specific genomic region is of considerable contemporary interest. Data on the quantitative trait under consideration and several codominant genetic markers with known genomic locations are collected from members of families and statistically analysed to estimate the recombination fraction, $\theta$, between the putative quantitative trait locus and a genetic marker. One of the major complications in estimating $\theta$ for a quantitative trait in humans is the lack of haplotype information on members of families. We have devised a computationally simple two-stage method of estimation of $\theta$ in the absence of haplotypic information using the expectation-maximization (EM) algorithm. In the first stage, parameters of the quantitative trait locus (QTL) are estimated on the basis of data of a sample of unrelated individuals and a Bayes's rule is used to classify each parent into a QTL genotypic class. In the second stage, we have proposed an EM algorithm for obtaining the maximum-likelihood estimate of $\theta$ based on data of informative families (which are identified upon inferring parental QTL genotypes performed in the first stage). The purpose of this paper is to investigate whether, instead of using genotypically `classified' data of parents, the use of posterior probabilities of QT genotypes of parents at the second stage yields better estimators. We show, using simulated data, that the proposed procedure using posterior probabilities is statistically more efficient than our earlier classification procedure, although it is computationally heavier.</p>
 				</abstract>
-				<keywords>Recombination fraction; linkage; maximum likelihood estimation.</keywords>
+				<keywords>recombination fraction; linkage; maximum likelihood estimation.</keywords>
 				<allauthors>
 					<author lname="Ghosh" fname="Saurabh" isfellow="0">Ghosh, Saurabh</author>
 					<author lname="Majumder" fname="Partha P." isfellow="0">Majumder, Partha P.</author>
@@ -149,7 +149,7 @@
 				<abstract>
 					<p>Three transgenic cotton varieties (lines) were chosen for the study of inheritance and segregation of foreign Bt (\textit{Bacillus thuringiensis toxin}) and $tfdA$ genes in cotton. The transformed cotton varieties CCRI 30 and NewCott 33B expressing the Bt $cryIA$ gene, and cotton line TFD expressing the $tfdA$ gene were crossed with CCRI 19, CCRI 12 and Lumian 6. The results confirm inheritance and segregation of (i) the exogenous Bt gene in transgenic CCRI 30 and NewCott 33B, governing resistance to bollworm, and (ii) the exogenous $tfdA$ gene in transgenic TFD, governing resistance to the herbicide 2,4-D. Both resistance characters were governed by a single dominant nuclear gene, and were not affected by cytoplasm. Our data support the conclusion that foreign traits encoded by single genes are inherited and expressed in Mendelian fashion in cotton. Our results also indicate that a practical backcross breeding program could be used to develop cotton cultivars combining one or more resistance traits from foreign and native gene sources.</p>
 				</abstract>
-				<keywords>Transgenic cotton; Bt gene; $tfdA$ gene; inheritance; dominant gene.</keywords>
+				<keywords>transgenic cotton; Bt gene; $tfdA$ gene; inheritance; dominant gene.</keywords>
 				<allauthors>
 					<author lname="Zhang" fname="Bao-Hong" isfellow="0">Zhang, Bao-Hong</author>
 					<author lname="Guo" fname="Teng-Long" isfellow="0">Guo, Teng-Long</author>
@@ -192,7 +192,7 @@
 				<abstract>
 					<p>Apart from the global regulators of silencing in the fission yeast \textit{Schizosaccharomyces pombe}, namely $swi6, clr1, clr2, clr3, clr4$ and $rik1$, the DNA repair gene $rhp6$ plays a unique role in mating-type silencing. Recently, we showed that $sng1-1$, a mutation in the $5'$ splice junction of the second intron of the $rhp6$ gene, leads to derepression of both the silent loci $mat2$ and $mat3$ in switching background. To address the mechanism of $rhp6$ in silencing, we have isolated several extragenic suppressors of the $sng1-1/rhp6^-$ mutation. These suppressors fall into four complementation groups and are referred to as suppressor of $rhp6: sur1, sur2, sur3$ and $sur4$. Interestingly, reverse transcriptase polymerase chain reaction analysis of the $rhp6$ transcript shows that in contrast to about > 50% level of unspliced $rhp6$ pre-mRNA in the $sng1-1/rhp6^-$ mutant, there is a restoration of normal splicing to varying degrees in the suppressors. The $sur2$ gene belongs to the AAA-ATPase family of proteins, with maximum homology to the SIN1-associated protein SAP1 of \textit{Saccharomyces cerevisiae}. We propose that $sur2$, along with $sur1, sur3$ and $sur4$, may play an as yet uncharacterized role in pre-mRNA splicing.</p>
 				</abstract>
-				<keywords>Pre-mRNA splicing; suppressors; \textit{Schizosaccharomyces pombe}.</keywords>
+				<keywords>pre-mRNA splicing; suppressors; \textit{Schizosaccharomyces pombe}.</keywords>
 				<allauthors>
 					<author lname="Naresh" fname="Alpana" isfellow="0">Naresh, Alpana</author>
 					<author lname="Singh" fname="Jagmohan" isfellow="0">Singh, Jagmohan</author>
@@ -205,7 +205,7 @@
 				<abstract>
 					<p>We have isolated a mutation in the budding yeast \textit{Saccharomyces cerevisisae CDC28} gene that allows $cdc13$ cells, carrying damaged DNA, to continue with the cell division cycle. While $cdc13$ mutant cells are arrested as large-budded cells at the nonpermissive temperature 37°C, the $cdc13 cdc28$ double mutant culture showed cells with one or more buds, most of which showed apical growth. The additional buds emerged without the intervening steps of nuclear division and cell separation. We suggest that the $cdc28$ mutation abrogates a checkpoint function and allows cells with damaged or incompletely replicated DNA an entry to another round of cell cycle and bypasses the mitotic phase of the cell cycle.</p>
 				</abstract>
-				<keywords>Yeast; $Cdc28$ kinase; checkpoint; cell cycle.</keywords>
+				<keywords>yeast; $Cdc28$ kinase; checkpoint; cell cycle.</keywords>
 				<allauthors>
 					<author lname="Ghosh" fname="Santanu Kumar" isfellow="0">Ghosh, Santanu Kumar</author>
 					<author lname="Sinha" fname="Pratima" isfellow="0">Sinha, Pratima</author>
@@ -218,7 +218,7 @@
 				<abstract>
 					<p>A recessive EMS-induced mutation inherited in Mendelian fashion caused monocotyledonous embryo formation and seed germination on high salt medium in \textit{Catharanthus roseus}. Availability during embryo development of exogenously supplied cytokinin kinetin suppressed the mutant phenotype. These observations suggest that, in $C$. \textit{roseus}, (i) insufficiency in endogenous kinetin may lead to monocotyledonous embryo patterning and (ii) dicotyledonous embryo formation requires a critical amount of kinetin in certain cells of early embryos.</p>
 				</abstract>
-				<keywords>Recessive mutation; monocotyledonous embryo; cytokinin; \textit{Catharanthus roseus}; Mendelian inheritance.</keywords>
+				<keywords>recessive mutation; monocotyledonous embryo; cytokinin; \textit{Catharanthus roseus}; Mendelian inheritance.</keywords>
 				<allauthors>
 					<author lname="Rai" fname="Shashi Pandey" isfellow="0">Rai, Shashi Pandey</author>
 					<author lname="Kumar" fname="Sushil" isfellow="0">Kumar, Sushil</author>
@@ -231,40 +231,42 @@
 				<abstract>
 					<p>The three chromosomal species of the \textit{Mus terricolor} complex possess $2n=40$ chromosomes. We show that their karyotypes differ in stable heterochromatin variations fixed in homozygous condition as prominent short arms in autosomes 1, 3 and 6. The three chromosomal species exhibit a high incidence of polymorphisms for Robertsonian fusions and pericentric inversions. Breeding experiments and histological analysis of testis show that heterozygosity for pericentric inversions and Robertsonian fusions had no effect on fertility. Meiotic analysis shows normal overall progression of meiosis in the heterozygotes, which is consistent with their normal gametogenesis. Nevertheless, both the inversion and fusion heterozygotes had undergone some alterations in the regular process of homologous synapsis, and it appeared that certain features of the meiotic system circumvented the potential negative effects of these polymorphic chromosomal rearrangements. The results indicate that the attributes of the meiotic system in a given organism could modulate the potential of a chromosomal rearrangement as reproductive barrier. The meiotic modulation hypothesis offers an explanation for the contradictory effects of the similar kinds of chromosomal mutations reported in different species.</p>
 				</abstract>
-				<keywords>Inversion; Robertsonian fusion; heterochromatin; chromosomal polymorphism; meiosis; speciation.</keywords>
+				<keywords>inversion; Robertsonian fusion; heterochromatin; chromosomal polymorphism; meiosis; speciation.</keywords>
 				<allauthors>
 					<author lname="Bardhan" fname="A." isfellow="0">Bardhan, A.</author>
 					<author lname="Sharma" fname="T." isfellow="0">Sharma, T.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Characterization of Newly Established Colorectal Cancer Cell Lines: Correlation between Cytogenetic Abnormalities and Allelic Deletions Associated with Multistep Tumorigenesis</title>
 				<feature></feature>
 				<page>0113-0123</page>
 				<abstract>
-					<p></p>
+					<p>We have established a series of 20 colorectal cancer cell lines and performed cytogenetic and RFLP analyses to show that the recurrent genetic abnormalities of chromosomes 1, 5, 17 and 18 associated with multistep tumorigenesis in colorectal cancer, and frequently detected as recurrent abnormalities in primary tumours, are also retained in long-term established cell lines. Earlier studies by us and other investigators showed that allelic losses of chromosomes 1 and 17 in primary colorectal cancers predicted poorer survival for the patients ($P = 0.03$). We utilized the cell lines to identify specific chromosomal sites or gene(s) on chromosomes 1 and 17 which confer more aggressive phenotype. Cytogenetic deletions of chromosome $1p$ were detected in 14 out of the 20 (70%) cell lines, whereas allelic deletions for $1p$ using polymorphic markers were detected in 13 out of 18 (72%) informative cell lines for at least one polymorphic marker. We have performed Northern blotting, immunohistochemical staining ($p53$ mRNA, protein) and RFLP analysis using several probes including $p53$ and $nm23$. RFLP analysis using a total of seven polymorphic markers located on $17p$ and $17q$ arms showed allelic losses around the $p53$ locus in 16 out of the 20 cell lines (80%), four of which were losses of the $p53$ locus itself. In addition, seven cell lines (out of nine informative cases) also showed losses of the $nm23$ gene, four with concurrent losses of the $p53$ locus, while the remaining three were homozygous. In addition, five out of seven cell lines with $nm23$ deletions were derived from hepatic metastatic tumours, and one cell line was obtained from recurrent tumour. A comparison between allelic deletions of $1p$ and functional loss of $nm23$ gene revealed a close association between these two events in cell lines derived from hepatic metastasis. Following immunohistochemical staining, nine out of the twenty cell lines showed high levels (25–80%) of mutant $p53$, four showed intermediate levels (&lt; 20%), and seven had undetectable levels of the protein. Of these seven, four showed complete absence of mRNA. Of the remaining three cell lines one showed aberrant mRNA due to germline rearrangement of the $p53$ gene, whereas in two cell lines normal levels of mRNA were present. Nineteen of the 20 cell lines had normal germline configurations for the $p53$ gene, while one showed a rearrangement. These data suggest that functional loss of $p53$ and $nm23$ genes accomplished by a variety of mechanisms may be associated with poor prognosis and survival. In addition, concurrent deletions of chromosome regions $17p, 17q$ and $1p$ were closely associated with high-stage hepatic metastatic disease. These cell lines with well-characterized genetic alterations and known clinical history provide an invaluable source of material for various biological and clinical studies relating to multistep colorectal tumorigenesis.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>colorectal cancer; cell line; tumorigenesis; allelic deletion; chromosomal aberration.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Gerdes" fname="Hans" isfellow="0">Gerdes, Hans</author>
+					<author lname="Elahi" fname="Abul" isfellow="0">Elahi, Abul</author>
+					<author lname="Chen" fname="Quanguang" isfellow="0">Chen, Quanguang</author>
+					<author lname="Jhanwar" fname="Suresh C." isfellow="0">Jhanwar, Suresh C.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Understanding Protein–Protein Interactions by Genetic Suppression</title>
 				<feature></feature>
 				<page>0125-0129</page>
 				<abstract>
-					<p></p>
+					<p>Protein–protein interactions influence many cellular processes and it is increasingly being felt that even a weak and remote interplay between two subunits of a protein or between two proteins in a complex may govern the fate of a particular biochemical pathway. In a bacterial system where the complete genome sequence is available, it is an arduous task to assign function to a large number of proteins. It is possible that many of them are peripherally associated with a cellular event and it is very difficult to probe such interaction. However, mutations in the genes that encode such proteins (primary mutations) are useful in these studies. Isolation of a suppressor or a second-site mutation that restores the phenotype abolished by the primary mutation could be an elegant yet simple way to follow a set of interacting proteins. Such a reversion site need not necessarily be geometrically close to the primary mutation site.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>genetic suppression; protein–protein interaction; allele specificity; long-range interaction.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Sujatha" fname="Sitaraman" isfellow="0">Sujatha, Sitaraman</author>
+					<author lname="Chatterji" fname="Dipankar" isfellow="0">Chatterji, Dipankar</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>The Genetics of Sheep, edited by L. Piper and A. Ruvinsky</title>
 				<feature></feature>
 				<page>0131-0132</page>
 				<abstract>
@@ -272,12 +274,11 @@
 				</abstract>
 				<keywords></keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Edwards" fname="J. H." isfellow="0">Edwards, J. H.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Evolutionary Genetics: from Molecules to Morphology, edited by Rama S. Singh and Costas B. Krimbas</title>
 				<feature></feature>
 				<page>0133-0134</page>
 				<abstract>
@@ -285,81 +286,123 @@
 				</abstract>
 				<keywords></keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Joshi" fname="N. V." isfellow="0">Joshi, N. V.</author>
 				</allauthors>
 			</entry>
 		</issue>
 	</volume>
 	<volume vnum="080">
-		<issue inum="01" month="03" year="2001">
+		<issue inum="01" month="04" year="2001">
 			<entry issup="0">
-				<title></title>
+				<title>Evolution of Faster Development does not Lead to Greater Fluctuating Asymmetry of Sternopleural Bristle Number in \textit{Drosophila}</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0001-0007</page>
 				<abstract>
-					<p></p>
+					<p>Both strong directional selection and faster development are thought to destabilize development, giving rise to greater fluctuating asymmetry (FA), although there is no strong empirical evidence supporting this assertion. We compared FA in sternopleural bristle number in four populations of \textit{Drosophila melanogaster} successfully selected for faster development from egg to adult, and in four control populations. The fraction of perfectly symmetric individuals was higher in the selected populations, whereas the FA levels did not differ significantly between selected and control populations, clearly indicating that directional selection for faster development has not led to increased FA in sternopleural bristle number in these populations. This may be because: (i) development time and FA are uncorrelated, (ii) faster development does result in FA, but selection has favoured developmentally stable individuals that can develop fast and still be symmetrical, or (iii) the increased fraction of symmetric individuals in the selected populations is an artifact of reduced body size. Although we cannot discriminate among these explanations, our results suggest that the relationship between development time, FA and fitness may be far more subtle than often thought.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>sternopleural bristle; developmental stability; evolution; canalization; fluctuating asymmetry; \textit{Drosophila melanogaster}.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Shakarad" fname="Mallikarjun" isfellow="0">Shakarad, Mallikarjun</author>
+					<author lname="Prasad" fname="N. G." isfellow="0">Prasad, N. G.</author>
+					<author lname="Rajamani" fname="M." isfellow="0">Rajamani, M.</author>
+					<author lname="Joshi" fname="Amitabh" isfellow="0">Joshi, Amitabh</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>An Automated Annotation Tool for Genomic DNA Sequences using GeneScan and BLAST</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0009-0016</page>
 				<abstract>
-					<p></p>
+					<p>Genomic sequence data are often available well before the annotated sequence is published. We present a method for analysis of genomic DNA to identify coding sequences using the GeneScan algorithm and characterize these resultant sequences by BLAST. The routines are used to develop a system for automated annotation of genome DNA sequences.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>GeneScan; BLAST; genome annotation; DNA sequence; computational genomics; Fourier analysis.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Lynn" fname="Andrew M." isfellow="0">Lynn, Andrew M.</author>
+					<author lname="Jain" fname="Chakresh Kumar" isfellow="0">Jain, Chakresh Kumar</author>
+					<author lname="Kosalai" fname="K." isfellow="0">Kosalai, K.</author>
+					<author lname="Barman" fname="Pranjan" isfellow="0">Barman, Pranjan</author>
+					<author lname="Thakur" fname="Nupur" isfellow="0">Thakur, Nupur</author>
+					<author lname="Batra" fname="Harish" isfellow="0">Batra, Harish</author>
+					<author lname="Bhattacharya" fname="Alok" isfellow="0">Bhattacharya, Alok</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Accelerated Molecular Evolution of Insect Orthologues of \textit{ERG28/C14orf1}: a Link with Ecdysteroid Metabolism?</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0017-0021</page>
 				<abstract>
-					<p></p>
+					<p>We have analysed the evolution of \textit{ERG28/C14orf1}, a gene coding for a protein involved in sterol biosynthesis. While primary sequence of the protein is well conserved in all organisms able to synthesize sterols \textit{de novo}, strong divergence is noticed in insects, which are cholesterol auxotrophs. In spite of this virtual acceleration, our analysis suggests that the insect orthologues are evolving today at rates similar to those of the remaining members of the family. A plausible way to explain this acceleration and subsequent stabilization is that Erg28 plays a role in at least two different pathways. Discontinuation of the cholesterogenesis pathway in insects allowed the protein to evolve as much as the function in the other pathway was not compromised.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>ergosterol; cholesterol; steroids; ecdysteroids; Erg28; C14orf1.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Veitia" fname="Reiner A." isfellow="0">Veitia, Reiner A.</author>
+					<author lname="Hurst" fname="Laurence D." isfellow="0">Hurst, Laurence D.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Genetic Variation at Minisatellite Loci D1S7, D4S139, D5S110 and D17S79 among three Population Groups of Eastern India</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0023-0030</page>
 				<abstract>
-					<p></p>
+					<p>Genetic variation at four minisatellite loci D1S7, D4S139, D5S110 and D17S79 in three predominant population groups of eastern India, namely Brahmin, Kayastha and Garo, are reported in this study. The Brahmin and Kayastha are of Indo-Caucasoid origin while the Garo community represents the Indo-Mongoloid ethnic group. The methodology employed comprised generation of \textit{Hae}III-restricted fragments of isolated DNA, Southern blotting, and hybridization using chemiluminescent probes MS1, pH30, LH1 and V1 for the four loci. All four loci were highly polymorphic in the population groups. Heterozygosity values for the four loci ranged between 0.68 and 0.95. Neither departure from Hardy–Weinberg expectations nor evidence of any association across alleles among the selected loci was observed. The gene differentiation value among the loci is moderate ($G_{ST} = 0.027). A neighbour-joining tree constructed on the basis of the generated data shows very low genetic distance between the Brahmin and Kayastha communities in relation to the Garo. Our results based on genetic distance analysis are consistent with results of earlier studies based on serological markers and linguistic as well as morphological affiliations of these populations and their Indo-Caucasoid and Indo-Mongoloid origin. The minisatellite loci studied here were found to be not only useful in showing significant genetic variation between the populations but also to be suitable for human identity testing among eastern Indian populations.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>RFLP; D1S7; D4S139; D5S110; D17S79; genetic variation; minisatellite; Indian populations.</keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Dutta" fname="Ranjan" isfellow="0">Dutta, Ranjan</author>
+					<author lname="Kashyap" fname="V. K." isfellow="0">Kashyap, V. K.</author>
 				</allauthors>
 			</entry>
 			<entry issup="0">
-				<title></title>
+				<title>Isolation and Characterization of Stable Mutants of \textit{Streptomyces Peucetius} Defective in Daunorubicin Biosynthesis</title>
 				<feature></feature>
-				<page>0457-0469</page>
+				<page>0031-0038</page>
+				<abstract>
+					<p>Daunorubicin and its derivative doxorubicin are antitumour anthracycline antibiotics produced by \textit{Streptomyces peucetius}. In this study we report isolation of stable mutants of \textit{S. peucetius} blocked in different steps of the daunorubicin biosynthesis pathway. Mutants were screened on the basis of colony colour since producer strains are distinctively coloured on agar plates. Different mutants showed accumulation of aklaviketone, $e$-rhodomycinone, maggiemycin or 13-dihydrocarminomycin in their culture filtrates. These results indicate that the mutations in these isolates affect steps catalysed by $dnrE$ (mutants SPAK and SPMAG), $dnrS$ (SPFS and SPRHO) and $doxA$ (SPDHC) gene products.</p>
+				</abstract>
+				<keywords>\textit{Streptomyces peucetius}; daunorubicin; $e$-rhodomycinone; NTG mutagenesis.</keywords>
+				<allauthors>
+					<author lname="Vetrivel" fname="K. S." isfellow="0">Vetrivel, K. S.</author>
+					<author lname="Dharmalingam" fname="K." isfellow="0">Dharmalingam, K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Testing Quantum Dynamics in Genetic Information Processing</title>
+				<feature></feature>
+				<page>0039-0043</page>
+				<abstract>
+					<p>Does quantum dynamics play a role in DNA replication? What type of tests would reveal that? Some statistical checks that distinguish classical and quantum dynamics in DNA replication are proposed.</p>
+				</abstract>
+				<keywords>assembly; computation; database search; DNA replication; genetic information; nucleotide base; polymerase enzyme; quantum coherence; quantum mechanics; quantum superposition.</keywords>
+				<allauthors>
+					<author lname="Patel" fname="Apoorva" isfellow="0">Patel, Apoorva</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Darkness in El Dorado: Human Genetics on Trial</title>
+				<feature></feature>
+				<page>0045-0052</page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
 				<allauthors>
-					<author lname="Qu" fname="Chengyuan" isfellow="0">Qu, Chengyuan</author>
-					<author lname="Cao" fname="Yang" isfellow="0">Cao, Yang</author>
+					<author lname="Morton" fname="Newton E." isfellow="0">Morton, Newton E.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>The Neurospora Compendium: Chromosomal Loci, by David D. Perkins</title>
+				<feature></feature>
+				<page>0053-0054</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="Kasbekar" fname="Durgadas P." isfellow="0">Kasbekar, Durgadas P.</author>
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="06" year="2001">
+		<issue inum="02" month="08" year="2001">
 			<entry issup="0">
 				<title></title>
 				<feature></feature>
