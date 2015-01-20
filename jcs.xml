@@ -2484,9 +2484,703 @@
 					<author lname="Sarkar" fname="S. K." isfellow="0">Sarkar, S. K.</author>
 				</allauthors>
 			</entry>
-			<entry issup="0">%%%%%%% prathibha
-				<title></title>
+			<entry issup="0">
+				<title>Modelling of multifrequency IRMPD for laser isotope separation</title>
 				<feature>Recent Advances in Photochemistry</feature>
+				<page>0649-0657</page>
+				<abstract>
+					<p>The process of infrared multiple photon dissociation (IRMPD) of molecules is of great fundamental importance and has practical significance, such as isotope separation etc. Unfortunately, a clear insight into the process has been hindered by the bewildering array of important variables affecting MPD. The dissociation probability $\gamma$ ($\phi$) i.e. the yield has been found to be a sensitive function of laser fluence $\phi$ along with numerous other parameters like laser frequency, gas pressure etc. We have shown that in single frequency IRMPD, an accurate quantitative characterization of the dissociation probability can be adequately expressed by a `power law’ model with two fitting parameters namely critical fluence, $\phi_c$ and multiphoton order, $m$. This model was exploited in analysing our MPD results on various systems. However, the small isotope shift encountered in heavy elements and the sticking phenomenon observed in small light molecules restrict respectively the separation factor and the dissociation yield. These problems can effectively be tackled by irradiation with multifrequency laser beams which can be chosen appropriately on the basis of spectroscopic features. Based on our success in single frequency model, multifrequency IRMPD is modelled by a functional form containing the product of power law terms for individual fluences on irradiation frequencies. This model is successfully benchmarked with our experimental results on multifrequency LIS of tritium. Such knowledge can be utilized for appropriate separation process design, evaluation and optimization.</p> 
+				</abstract>
+				<keywords>Multifrequency multiphoton dissociation; laser isotope separation; tritium separation.</keywords>
+				<allauthors>
+					<author lname="Nayak" fname="Akshaya K." isfellow="0">Nayak, Akshaya K.</author>
+					<author lname="Sarkar" fname="Sisir K." isfellow="0">Sarkar, Sisir K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Maximization of yield of C-13 isotope by multiphoton dissociation of Freon-22 using high average power TEA CO$_2$ laser</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0659-0673</page>
+				<abstract>
+					<p>Selective multi-photon dissociation (MPD) of Freon-22 (CF$_2$HCl) molecules has been carried out using a TEA CO$_2$ laser at various CO$_2$ laser lines (9$P$(20)-9$P$(26)) in order to maximize the yield of C-13 isotope in the product (C$_2$F$_4$) at an enrichment factor of 100. The effects of laser pulse tail due to the presence of N$_2$ in the laser mixture on the enrichment factor and yield of C-13 are investigated. It is found that the addition of a small amount of N$_2$ is possible in the laser mixture without a significant drop in the yield at desired enrichment factor. Addition of a small amount of N$_2$ improves the laser efficiency considerably. At a given pulse energy, a slight change in the near field intensity distribution of a laser severely affects the selectivity of C-13 isotope. The computed far-field intensity distributions of the measured near-field intensities show marked spatial variation in the focal spots that leads to a drop in selectivity. For macroscopic production of C-13 isotope a simple and novel multi-pass cavity has been designed and tested to focus the energy repeatedly keeping the optimum fluence constant at each focal spot.</p>
+				</abstract>
+				<keywords>TEA CO$_2$ laser; carbon-13; isotope separation.</keywords>
+				<allauthors>
+					<author lname="Kumar" fname="Manoj" isfellow="0">Kumar, Manoj</author>
+					<author lname="Deshpande" fname="Anant" isfellow="0">Deshpande, Anant</author>
+					<author lname="Gupta" fname="Chintan" isfellow="0">Gupta, Chintan</author>
+					<author lname="Biswas" fname="A. K." isfellow="0">Biswas, A. K.</author>
+					<author lname="Nath" fname="A. K." isfellow="0">Nath, A. K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Absolute quantum yield measurements for the formation of oxygen atoms after UV laser excitation of SO$_2$ at 222$\cdot$4 nm</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0675-0686</page>
+				<abstract>
+					<p>The dynamics of formation of oxygen atoms after UV photoexcitation of SO$_2$ in the gas-phase was studied by pulsed laser photolysis-laser-induced fluorescence `pump-and-probe’ technique in a flow reactor. SO$_2$ at room-temperature was excited at the KrCl excimer laser wavelength (222$\cdot$4 nm) and O(${}^3$P$_j$) photofragments were detected under collision-free conditions by vacuum ultraviolet laser-induced fluorescence. The use of narrow-band probe laser radiation, generated via resonant third-order sum-difference frequency conversion of dye laser radiation in Krypton, allowed the measurement of the nascent O(${}^3$P$_{j=2,1,0}$) fine-structure state distribution: $n_{j=2}/n$_{j=1}/n_{j=0}$ = $(0\cdot 88 \pm 0\cdot$ 02)/(0 \cdot 10 \pm 0 \cdot 01)/(0 $\cdot 02 \pm 0 \cdot 01)$. Employing NO$_2$ photolysis as a reference, a value of $\Phi_{\text{O({}$^3$P)}} = 0 \cdot 13 \pm  0 \cdto 05$ for the absolute O(${}^3$P) atom quantum yield was determined. The measured O(${}^3$P) quantum yield is compared with the results of earlier fluorescence quantum yield measurements. A suitable mechanism is suggested in which the dissociation proceeds via internal conversion from high rotational states of the initially excited SO$_2$($\tilde{C^1} B$_2$) (1, 2, 2) vibronic level to nearby continuum states of the electronic ground state.</p>
+				</abstract>
+				<keywords>Sulphur dioxide; photodissociation dynamics; oxygenatom; VUV-LIF; quantum yield.</keywords>
+				<allauthors>
+					<author lname="Abu-Bajeh" fname="Mohammed" isfellow="0">Abu-Bajeh, Mohammed</author>
+					<author lname="Cameron" fname="Melanie" isfellow="0">Cameron, Melanie</author>
+					<author lname="Jung" fname="Kyung-Hoon" isfellow="0">Jung, Kyung-Hoon</author>
+					<author lname="Kappel" fname="Christoph" isfellow="0">Kappel, Christoph</author>
+					<author lname="Läuter" fname="Almuth" isfellow="0">Läuter, Almuth</author>
+					<author lname="Lee" fname="Kyoung-Seok" isfellow="0">Lee, Kyoung-Seok</author>
+					<author lname="Upadhyaya" fname="Hari P." isfellow="0">Upadhyaya, Hari P.</author>
+					<author lname="Vatsa" fname="Rajesh K." isfellow="0">Vatsa, Rajesh K.</author>
+					<author lname="Volpp" fname="Hans-Robert" isfellow="0">Volpp, Hans-Robert</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Interaction between an 8-methoxypyrimido[$4',5'$:$4,5$] thieno (2,3-$b$)quinoline-4(3H)one antitumour drug and deoxyribonucleic acid</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0687-0696</page>
+				<abstract>
+					<p>The interaction of 8-methoxypyrimido[$4',5'$:$4,5$] thieno ($2,3-b$)quinoline-4(3H)one (MPTQ) with DNA was studied by UV-Vis and fluorescenc'e spectrophotometry as well as by hydrodynamic methods. On binding to DNA, the absorption spectrum underwent bathochromic and hypochromic shifts and the fluorescence was quenched. Binding parameters, determined from spectrophotometric measurements by Scatchard analysis, indicated a binding constant of $3.56 \times 10^6$ M$^{–1}$ for calf thymus DNA at ionic strength 0$\cdot$01 M. Binding to the GC-rich DNA of \textit{Micrococcus lysodeikticus} was stronger than the binding to calf thymus DNA at ionic strength 0$\cdot$01 M. The MPTQ increased the viscosity of sonicated rod-like DNA fragments, producing a calculated length of 2$\cdot$4 Å/bound MPTQ molecule. The binding of MPTQ to DNA increased the melting temperature by about 4$^\circ$C. This research offers a new intercalation functional group to DNA targetted drug design.</p>
+				</abstract>					
+				<keywords>DNA; intercalative binding; 8-methoxy pyrimido[$4',5'$:$4,5$]thieno($2,3-b$) quinoline-4(3H)one; fluorescence quenching.</keywords>
+				<allauthors>
+					<author lname="Gopal" fname="M." isfellow="0">Gopal, M.</author>
+					<author lname="Shahabuddin" fname="M. S." isfellow="0">Shahabuddin, M. S.</author>
+					<author lname="Inamdar" fname="Sanjeev R." isfellow="0">Inamdar, Sanjeev R.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Radiolysis and corrosion of ${}^{238}$Pu-doped UO$_2$ pellets in chloride brine</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0697-0704</page>
+				<abstract>
+					<p>Deaerated 5 M NaCl solution is irradiated in the presence of UO$_2$ pellets with a-radiation from ${}^{238}$Pu. Experiments are conducted with ${}^{238}$Pu doped pellets and others with ${}^{238}$Pu dissolved in the brine. The radiolysis products and yields of mobilized U and Pu from the oxidative dissolution of UO$_2$ are determined. Results found for radiolysis products and for the oxidation/dissolution of pellets immersed in Pu containing brine are similar to results for Pu doped pellets, where the radiation chemical processes occur only in the liquid layer of some 10 $\mu$m thickness adjacent to the pellet. The yield of radiolysis products is comparable to earlier results, that of mobilized U from the pellets is $&lt;$ 1$&#37;$ of the total amount of oxidized species. Thus, the radiation chemical yield ($G$-value) for mobilized hexavalent U is $&lt;$ 0$\cdot$01 ions/100 eV. In spite of the low radiation yield for the corrosion, the rate of UO$_2$ dissolution is higher than expected for the concentrations of long-lived oxidizing radiolysis compounds found in the solutions.</p>
+				</abstract>
+				<keywords>$\alpha$-Radiolysis; UO$_2$; leaching; chloride brine; radiolysis products.</keywords>
+				<allauthors>
+					<author lname="Kelm" fname="M." isfellow="0">Kelm, M.</author>
+					<author lname="Bohnert" fname="E." isfellow="0">Bohnert, E.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Fluorescence studies on radiation oxidative damage to membranes with implications to cellular radiosensitivity</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0705-0711</page>
+				<abstract>
+					<p>Radiation oxidative damage to plasma membrane and its consequences to cellular radiosensitivity have received increasing attention in the past few years. This review gives a brief account of radiation oxidative damage in model and cellular membranes with particular emphasis on results from our laboratory. Fluorescence and ESR spin probes have been employed to investigate the structural and functional alterations in membranes after g-irradiation. Changes in the lipid bilayer in irradiated unilamellar liposomes prepared from egg yolk lecithin (EYL) were measured by using diphenylhexatriene (DPH) as a probe. The observed increase in DPH polarization and decrease in fluorescence intensity after g-irradiation of liposomes imply radiationinduced decrease in bilayer fluidity. Inclusion of cholesterol in liposome was found to protect lipids against radiation damage, possibly by modulation of bilayer organization e.g. lipid packing. Measurements on dipalmitoyl phosphatidylcholine (DPPC) liposomes loaded with 6-carboxyfluorescein (CF) showed radiation dose-dependent release of the probe indicating radiation-induced increased permeability. Changes in plasma membrane permeability of thymocytes were monitored by fluorescein diacetate (FDA) and induced intracellular reactive oxygen species (ROS) were determined by 2,7-dichlorodihydro fluorescein diacetate (DCH-FDA). Results suggest a correlation between ROS generation and membrane permeability changes induced by radiation within therapeutic doses (0–10 Gy). It is concluded that increase in membrane permeability was the result of ROS-mediated oxidative reactions, which might trigger processes leading to apoptotic cell death after radiation exposure.</p> 
+				</abstract>
+				<keywords>Membrane oxidative damage; cellular radiosensitivity; DPH fluorescence; lipid peroxidation; liposomal membrane; thymocyte membrane permeability.</keywords>
+				<allauthors>
+					<author lname="Mishra" fname="K. P." isfellow="0">Mishra, K. P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>An immunomodulator from Tinospora cordifolia with antioxidant activity in cell-free systems</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0713-0719</page>
+				<abstract>
+					<p>Several plant products are known to exhibit immense medicinal value against human diseases. Our earlier studies showed that dry stem crude extract (DSCE) of \textit{Tinospora cordifolia} contained a polyclonal B cell mitogen, G1-4A. DSCE as well as G1-4A also enhanced immune response in mice. In order to explore the possibility of using G1-4A/PPI (partially purified immunomodulator) to modulate radiation induced immunosuppression, the antioxidant effect of PPI from this plant was examined against reactive oxygen and nitrogen species (ROS/RNS), generated by photosensitization/peroxynitrite. Levels of lipid peroxidation products, superoxide dismutase (SOD) and catalase in liver/spleen homogenate from mouse were monitored. Photosensitization induced significant increase in thiobarbituric acid reactive substances (TBARS) in liver. The activities of SOD and catalase were reduced considerably. PPI, present during photosensitisation, prevented lipid peroxidation and restored the activities of both the enzymes. Likewise, oxidative damage induced by peroxynitrite was inhibited by PPI. The degradation of proteins due to photosensitization as assessed by SDS-PAGE was effectively reduced by simultaneous treatment with PPI during photosensitization. Selective inhibitors of ROS like mannitol, SOD, sodium azide and antioxidants, GSH and vitamin C brought about significant inhibition of formation of TBARS suggesting possible involvement of O$_2^{–\bullet}$,${}^{\bullet}$OH and ${}^{1}$O$_2$. Photosensitization in deuterated buffer enhanced formation of TBARS thus indicating generation of ${}^1$O$_2$. Thus, the action of PPI may be against oxidative damage through Type I and II photosensitization mechanisms. Therefore, the immunomodulator from \textit{Tinospora cordifolia} may also be beneficial as an antioxidant.</p> 
+				</abstract>
+				<keywords>Immunomodulator; \textit{Tinospora cordifolia}; antioxidant; photosensitization.</keywords>
+				<allauthors>
+					<author lname="Desai" fname="Veena R." isfellow="0">Desai, Veena R.</author>
+					<author lname="Kamat" fname="J. P." isfellow="0">Kamat, J. P.</author>
+					<author lname="Sainis" fname="" isfellow="0">Sainis, K. B.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Redox chemistry of $o-$ and $m$-hydroxycinnamic acids: A pulse radiolysis study</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0721-0730</page>
+				<abstract>
+					<p>Radiation chemical reactions of ${}^{\bullet}$OH, O$^{\bullet -}$, N$_3^{\bullet}$ and $e^-_{aq}$ with $o-$ and $m$-hydroxycinnamic acids were studied. The second-order rate constants for the reaction of ${}^{\bullet}$OH with ortho and meta isomers in buffer solution at $p$H 7 are $3\cdot9\pm0\cdot 2 \times 10^9$ and $4 \cdot 4 \pm  0 \cdot 3 \times 10^9$ dm$^3$ mol$^{–1}$ s$^{–1}$ respectively. At $p$H 3 the rate with the ortho isomer was halved ($1 \cdot 6 \pm 0 \cdot 4 \times 10^9$ dm$^3$ mol$^{–1}$ s$^{–1}$) but it was unaffected in the case of meta isomer ($k = 4 \cdot 2 \pm 0 \cdot 6 \times 10^9$ dm$^3$ mol$^{–1}$ s$^{–1}$). The rate constant in the reaction of N$_3^{\bullet}$ with the ortho isomer is lower by an order of magnitude ($k = 4 \cdot 9 \pm 0 \cdot 4 \times 10^8$ dm$^3$ mol$^{–1}$s$^{–1}$). The rates of the reaction of $e^-_{aq}$ with ortho and meta isomers were found to be diffusion controlled. The transient absorption spectrum measured in the ${}^{\bullet}$OH with $o$-hydroxycinnamic acid exhibited an absorption maximum at 360 nm and in meta isomer the spectrum was blue-shifted (330 nm) with a shoulder at 390 nm. A peak at 420 nm was observed in the reaction of O$^{\bullet-}$ with the $o$-isomer whereas the meta isomer has a maximum at 390 and a broad shoulder at 450 nm. In the reaction of $e^-_{aq}$, the absorption peaks were centred at 370–380 nm in both the isomers. The underlying reaction mechanism is discussed.</p>
+				</abstract>
+				<keywords>Pulse radiolysis; transient absorption spectra; $o-$ and $m$-hydroxycinnamic acids, ${}^{\bullet}$OH and N$_3^{\bullet}$ radicals.</keywords>
+				<allauthors>
+					<author lname="Yadav" fname="P." isfellow="0">Yadav, P.</author>
+					<author lname="Mohan" fname="H." isfellow="0">Mohan, H.</author>
+					<author lname="Rao" fname="B. S. M." isfellow="0">Rao, B. S. M.</author>
+					<author lname="Mittal" fname="J. P." isfellow="0">Mittal, J. P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Direct optical observation of the formation of some aliphatic alcohol radicals. A pulse radiolysis study</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0731-0737</page>
+				<abstract>
+					<p>The kinetics of the reactions of hydroxyl radicals and hydrogen atoms with some aliphatic alcohols in aqueous solutions were studied using pulse radiolysis. Based on the increase in optical absorption in the UV region, the rate constants for the reaction of hydroxyl radicals and hydrogen atoms with methanol, ethanol, 2-propanol or $t$-butyl alcohol were determined to be $9 \cdot 0 \times 10^8$, $2\cdot2 \times 10^9$,  $2\cdot 0 \times 10^9$, $6 \cdot 2 \times 10^8$ and $1 \cdot 1 \times 10^6$, $1 \cdot 8 \times 10^7$, $5 \cdot 3  \times 10^7$, $2 \cdot 3  \times 10^5$ dm$^3$ mol$^{–1}$ s$^{–1}$ respectively. The bimolecular decay rate constants for the alcohol radicals produced in methanol and ethanol were evaluated to be $2  \cdot 4 \times  10^9$ and $1 \cdot 5 \times 10^9$ dm$^3$ mol$^{–1}$ s$^{–1}$. The values observed are in fairly good agreement with those reported earlier.</p> 
+				</abstract>
+				<keywords>Aliphatic alcohols; hydroxyl radical; hydrogen atom; rate constant; UV absorption.</keywords>
+				<allauthors>
+					<author lname="Janata" fname="E." isfellow="0">Janata, E.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Oxidation reactions of 1,3-diphenylpropane-1,3-dione</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0739-0747</page>
+				<abstract>
+					<p>The free radical scavenging properties and possible antioxidant activity of 1,3-diphenylpropane-1,3-dione ({\bf 1}) are reported. Pulse radiolysis technique was employed to study the one-electron oxidation of {\bf 1} with various radicals viz. CCl$_3$O$_2^{\bullet}$, N$_3^{\bullet}$ and ${}^{\bullet}$OH in homogeneous aqueous solution. All these radicals reacted with {\bf 1} under ambient conditions at almost diffusion controlled rates producing transient species with an absorption maximum around 420 nm that decayed at first order rates. The transient absorption peak was shifted in the case of CCl$_3$OO$^{\bullet}$ radical reaction with {\bf 1} due to change in the polarity of the medium. Formation of a stable product with a broad absorption band starting from 400 nm and cut off at 230 nm was observed in the oxidation of {\bf 1} with ${}^{\bullet}$OH and ${}^{\bullet}$N$_3$ radicals. In a biological system also, {\bf 1} showed significant inhibitory activity against Fe$^{2+}$-mediated lipid peroxidation. Based on these observations, a suitable mechanism for the oxidation of {\bf 1} has been proposed.</p>
+				</abstract>
+				<keywords>$\beta$-Diketone; pulse radiolysis; oxidation; lipid peroxidation.</keywords>
+				<allauthors>
+					<author lname="Rele" fname="Medha" isfellow="0">Rele, Medha</author>
+					<author lname="Patro" fname="B. S." isfellow="0">Patro, B. S.</author>
+					<author lname="Adhikari" fname="S." isfellow="0">Adhikari, S.</author>
+					<author lname="Kalena" fname="G. P." isfellow="0">Kalena, G. P.</author>
+					<author lname="Chattopadhyay" fname="S." isfellow="0">Chattopadhyay, S.</author>
+					<author lname="Mukherjee" fname="T." isfellow="0">Mukherjee, T.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of electron-withdrawing power of the substituted group on ${}^{\bullet}$OH radical reaction with substituted aryl sulphides: A pulse radiolysis study</title>
+				<feature>Recent Advances in Photochemistry</feature>
+				<page>0749-0758</page>
+				<abstract>
+					<p>In neutral aqueous solution of (phenylthio)acetic acid, hydroxyl radical is observed to react with a bimolecular rate constant of $7 \cdot 2 \times 10^9$ dm$^3$ mol$^{–1}$ s$^{–1}$ and the transient absorption bands are assigned to ${}^{\bullet}$OH radical addition to benzene and sulphur with a rough estimated values of 50 and 40$&#37;$ respectively. The reaction of the ${}^{\bullet}$OH radical with diphenyl sulphide ($k = 4 \cdot 3 \times 10^8$ dm$^3$ mol$^{–1}$ s$^{–1}$) is observed to take place with formation of solute radical cation, OH-adduct at sulphur and benzene with estimated values of about 12, 28 and 60$&#37;$ respectively. The transient absorption bands observed on reaction of ${}^{\bullet}$OH radical, in neutral aqueous solution of 4-(methylthio) phenyl acetic acid, are assigned to solute radical cation ($\lambda_{\text{max}} = 550$ and 730 nm), OH-adduct at sulphur ($\lambda_{\text{max}} = 360$ nm) and addition at benzene ring ($\lambda_{\text{max}} = 320$ nm). The fraction of ${}^{\bullet}$OH radical reacting to form solute radical cation is observed to depend on the electron-withdrawing power of substituted group. In acidic solutions, depending on the concentration of acid and electron-withdrawing power, solute radical cation is the only transient species formed on reaction of ${}^{\bullet}$OH radical with the sulphides studied.</p>
+				</abstract>
+				<keywords>Pulse radiolysis; aryl sulphides; hydroxyl radicals; aqueous solution.</keywords>
+				<allauthors>
+					<author lname="Mohan" fname="Hari" isfellow="0">Mohan, Hari</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="115">
+		<issue inum="01" month="02" year="2003">
+			<entry issup="0">
+				<title>Magnetic, catalytic, EPR and electrochemical studies on binuclear copper(II) complexes derived from 3,4-disubstituted phenol</title>
+				<feature>Inorganic and Analytical</feature>
+				<page>0001-0014</page>
+				<abstract>
+					<p>New symmetrical compartmental binucleating ligands 2,6-\textit{bis[N-(2-$&#123;$dimethylamino$&#125;$ethyl)-N-methyl)aminomethyl]-3,4-dimethylphenol [HL$^1$] and 2,6-\textit{bis}[N-(2-$&#123;$diethylamino$&#123;$ethyl)-N-ethyl)aminomethyl]-3,4-dimethylphenol [HL$^2$], and their copper(II) complexes [Cu$_2$L$^{1–2}$(X)]ClO$_4$, (X = NO$_2^–$, OAc$^–$ and OH$^–$) have been prepared. Spectral, catalytic, magnetic, EPR and electrochemical studies have been carried out. A catecholase activity study indicates that only HL$^1$ complexes have efficient catalytic activity due to a less sterically hindered methyl group and enhanced planarity (larger $–2J$ values) with respect to the oxidation of 3,5-di-$t$-butylcatechol to the corresponding quinone. Variable temperature magnetic susceptibility studies of the complexes show antiferromagnetic interaction between the copper atoms. X-band EPR signals could not be observed for polycrystalline samples both at room temperatures and liquid nitrogen, consistent with two antiferrromagnetically coupled copper centres in the solid state. EPR spectral studies in methanol solvent show welldefined four hyperfine signals at room temperature due to decomposition of the dimer into monomers. This however is not seen in frozen methanol glass, may be owing to restructuring of the monomers into dimers due to an increase in viscosity of the solvent. Electrochemical studies revealed chemically irreversible behaviour due to chemical or/and stereochemical changes subsequent to electron transfer.</p>
+				</abstract>
+				<keywords>Dicopper(II) complexes; 3,4-disubstituted phenols; binucleating ligands.</keywords>
+				<allauthors>
+					<author lname="Kannappan" fname="R." isfellow="0">Kannappan, R.</author>
+					<author lname="Mahalakshmy" fname="R." isfellow="0">Mahalakshmy, R.</author>
+					<author lname="Rajendiran" fname="T. M." isfellow="0">Rajendiran, T. M.</author>
+					<author lname="Venkatesan" fname="R." isfellow="0">Venkatesan, R.</author>
+					<author lname="Rao" fname="P. Sambasiva" isfellow="0">Rao, P. Sambasiva</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A comparative study of the proton transport properties of metal (IV) tungstates</title>
+				<feature>Inorganic and Analytical</feature>
+				<page>0015-0022</page>
+				<abstract>
+					<p>Tetravalent metal acid (TMA) salts are cation exchangers due to the presence of structural hydroxyl groups. The presence of protons makes the TMA salt, a potential candidate for solid state protonic conduction. In the present endeavour, amorphous inorganic ion exchangers of the class of TMA salts, tin tungstate (SnW), titanium tungstate (TiW) and zirconium tungstate (ZrW) have been synthesized and characterized for elemental analysis, thermal analysis (TGA, DSC), FTIR spectroscopy and X-ray analysis. Chemical resistivity of these materials have been assessed in various acidic, basic and organic media. Ion exchange capacity has been determined and effect of heating on ion exchange capacity has been studied. The proton conduction behaviour of these materials has been studied by measuring specific conductance ($\sigma$) at different temperatures in the range 30–175$^\circ$C using HP 4192 A impedance analyzer. The specific conductance values for the three materials have been compared.</p> 
+				</abstract>
+				<keywords>Tetravalent metal acid salts; inorganic ion exchangers; proton conduction; metal (IV) tungstates; transport properties.</keywords>
+				<allauthors>
+					<author lname="Parikh" fname="Alpana" isfellow="0">Parikh, Alpana</author>
+					<author lname="Chudasama" fname="Uma" isfellow="0">Chudasama, Uma</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Equilibrium and spectral studies on ligational behaviour of N,N'-diformylhydrazine</title>
+				<feature>Inorganic and Analytical</feature>
+				<page>0023-0028</page>
+				<abstract>
+					<p>The ligand N,N'-diformylhydrazine (DFH) is a resonance hybrid of its keto- and enol-forms. The resonance structures indicate enolisation of one as well as both the carbonyl groups. This indicates the presence of dissociable protons in the molecule. Equilibrium studies carried out with DFH indicate the presence of one dissociable proton. The solid complexes of Mn(II), Fe(II), Co(II), Ni(II), Cu(II), Zn(II) and Pb(II) with DFH have been synthesized, and have been characterized by elemental analysis, magnetic susceptibility, IR, Far-IR, ${}^1$H NMR, TGA, FAB and reflectance spectra. IR and ${}^1$H NMR spectra of the complexes indicate deprotonation of both the enol protons upon complexation. Elemental and TG analyses of Mn(II), Ni(II), Zn(II) DFH complexes indicate 1 : 1 metal to ligand composition. The dimeric nature of the Mn(II)–DFH complex is supported by its FAB spectrum.</p> 
+				</abstract>
+				<keywords>N,N'-diformylhydrazine; ligational behaviour; resonance hybrid; keto-enol forms.</keywords>
+				<allauthors>
+					<author lname="Bhargavi" fname="G." isfellow="0">Bhargavi, G.</author>
+					<author lname="Sireesha" fname="B." isfellow="0">Sireesha, B.</author>
+					<author lname="Devi" fname="Ch. Sarala" isfellow="0">Devi, Ch. Sarala</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Cobalt (II)–EDTA complex as a new reductant for phosphomolybdic acid used for the assay of trazodone</title>
+				<feature>Inorganic and Analytical</feature>
+				<page>0029-0032</page>
+				<abstract>
+					<p>A new spectrophotometric method for the assay of trazodone (TZ) has been described. TZ forms a complex in stoichiometric proportions with phosphomolybdic acid. The released phosphomolybdic acid from the complex with acetone is reduced with a new reductant (cobalt nitrate–ethylenediamine tetra acetic acid) to molybdenum blue, which has maximum absorption at 840 nm. Beer's law limits, precision and accuracy of the methods are checked by the UV reference method. This method is found to be suitable for the assay of TZ in the presence of other ingredients that are usually present in tablets. Recoveries are almost quantitative.</p>
+				</abstract>
+				<keywords>Trazodone; phosphomolybdic acid; cobalt nitrate; ethylenediamine tetra acetic acid.</keywords>
+				<allauthors>
+					<author lname="Prasad" fname="A. V. S. S." isfellow="0">Prasad, A. V. S. S.</author>
+					<author lname="Sastry" fname="C. S. P." isfellow="0">Sastry, C. S. P.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Hydrothermal synthesis of a new ethylenediammonium intercalated vanadyl phosphate, (H3NCH2CH2NH3)0×5[V V O PO {P(OH) } ]</title>
+				<feature>Inorganic and Analytical</feature>
+				<page>0033-0040</page>
+				<abstract>
+					<p>In this paper we report the hydrothermal synthesis and characterisation of a new ethylenediammonium intercalated vanadyl phosphate, (H$_3$NCH$_2$CH$_2$NH$_3$)$_{0 \cdot 5}$ [V$^{4+}_{0 \cdot 32}$V$^{5+}_{0\cdot 68}$ O$_2$ PO$_4$ $&#123;$P(OH)$_2 &#125;_{0\cdot 44}$]. The phase purity of the solid was established using powder X-ray diffraction, single crystal X-ray diffraction, TGA, DTA, FTIR, UV-Vis and magnetic susceptibility measurements. Crystal data: orthorhombic, \textit{Pnma}, $a = 9 \cdot 0289$, $b = 8 \cdot 8962$ and $c = 15 \cdot 9813$ Å, $V = 1283 \cdot 7$Å$^3$, $Z = 8$. The structure contains layers made of VO$_5$ square pyramids and PO$_4$ tetrahedra; adjacent layers are connected through disordered tetrahedral PO$_2$(OH)$_2$ units. Ethylenediammonium cations occupy cavities in between the layers.</p>
+				</abstract>
+				<keywords>Vanadyl phosphate; hydrothermal synthesis; intercalation; single crystal structure.</keywords>
+				<allauthors>
+					<author lname="Ayyappan" fname="P." isfellow="0">Ayyappan, P.</author>
+					<author lname="Asnani" fname="Minakshi" isfellow="0">Asnani, Minakshi</author>
+					<author lname="Ramanan" fname="A." isfellow="0">Ramanan, A.</author>
+					<author lname="Piffard" fname="Y." isfellow="0">Piffard, Y.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Carbocation lifetimes and entropy of water addition to carbocations dependent on their stability</title>
+				<feature>Organic</feature>
+				<page>0041-0047</page>
+				<abstract>
+					<p>Iminodiazonium ions ($\alpha$-azidobenzyl carbocations) were produced in aqueous solution by chemical initiation (solvolysis) of benzyl-\textit{gem}-diazides. Solvolysis reactions of benzyl-\textit{gem}-diazides in water proceed by a stepwise mechanism through $\alpha$-azidobenzyl carbocation intermediates, which are captured by water to give the corresponding carbonyl compounds as the sole detectable products. Rate constant ratio $k_{az}/k_s$ (M$^{–1}$) for partitioning of the carbocation between reaction with azide ion and reaction with water was determined by analysis of azide common ion inhibition of the solvolysis reaction. Rate constants $k_s$ (s$^{–1}$) for the reaction of the cation with solvent water were determined from the experimental values of $k_{az}/k_s$ and $k_{\text{solv}}, for the solvolysis of the benzyl-\textit{gem}-diazides, using $k_{\text{az}} = 5 \times 10^9$ M$^{–1}$ s$^{–1}$ for diffusion-limited reactions of azide ion with $\alpha$-azidobenzyl carbocations. Values of $1/k_s$ were thus the lifetimes of the $\alpha$-azidobenzyl carbocations. From the study of effect of temperature on $k_{\text{solv}}$ and $k_s$ the activation parameters are determined and discussed.</p>
+				</abstract>
+				<keywords>Nucleophilic solvation; carbocation lifetimes; entropy of water addition; $\alpha$-azidobenzyl carbocations.</keywords>
+				<allauthors>
+					<author lname="Jagannadham" fname="V." isfellow="0">Jagannadham, V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Measures to evaluate heteroaromaticity and their limitations: Story of skeletally substituted benzenes</title>
+				<feature>Organic</feature>
+				<page>0049-0066</page>
+				<abstract>
+					<p>\textit{Ab initio} HF, MP2, CCSD(T) and hybrid density functional B3LYP calculations were performed on a series of skeletally mono- and di-substituted benzenes, (CH)$_5$Z and (CH)$_4$Z$_2$, Z = C$^–$, N, O$^+$, Si$^–$, P, S$^+$, Ge$^–$, As, Se$^+$, BH$^–$, NH$^+$, AlH$^–$, SiH, PH$^+$, GaH$^–$, GeH and AsH$^+$. Various measures of aromaticity such as the bond length equalization, homodesmic equations, singlet–triplet energy difference (DE$_{s–t}$), chemical hardness ($\eta$) and out-of-plane distortive tendency are critically analysed. The relative energy ordering in skeletally disubstituted benzenes displays trends that are inexplicable based on conventional wisdom. In general, the orthoisomer is found to be the least stable when the substituent is from the second row, whereas if the substituent is from the fourth row, the ortho-isomer is the most stable. Various qualitative arguments, including (a) lone pair–lone pair repulsion, (b) the sum of bond strengths in the twin Kekule forms, and (c) the rule of topological charge stabilization (TCS), are used to explain the observed relative energy trends. The rule of TCS in conjunction with the sum of bond strengths is found to predict the relative energy ordering reasonably well. The reactivity of this class of compounds is assessed based on their singlet–triplet energy differences, chemical hardness and the frequencies corresponding to out-of-plane skeletal distortions. These reactivity indices show less kinetic stability for the compounds with substituents from the fourth row and point to the fact that the thermodynamically most stable compounds need not be the least reactive ones. The $\Delta E_{s–t}$ values indicate that the $\pi$-framework of benzene weakens upon skeletal substitutions.</p>
+				</abstract>
+				<keywords>Aromaticity; heteroaromaticity; skeletally substituted benzenes; theoretical calculations; DFT.</keywords>
+				<allauthors>
+					<author lname="Priyakumar" fname="U. Deva" isfellow="0">Priyakumar, U. Deva</author>
+					<author lname="Sastry" fname="G. Narahari" isfellow="0">Sastry, G. Narahari</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Linear C$_{32}H$_{66}$ hydrocarbon in the mixed state with C$_{10}$H$_{22}$, C$_{12}$H$_{26}$, C$_{14}$H$_{30}$, C$_{16}$H$_{34}$ and C$_{18}$H$_{38}$: Comparison of strength of phases and role of tunnel-like defects</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0067-0073</page>
+				<abstract>
+					<p>Strengths of $\beta_m$, $\beta_o$ and $U_p$ phases of linear dotriacontane hydrocarbon in mixed state with certain shorter chain length homologues (SMOLLENCs), estimated from powder XRD analysis, are compared. The results suggest strong evidence in favour of tunnel-like defects (TLIDs).</p>
+				</abstract>
+				<keywords>Linear chain hydrocarbons; strength of phases; tunnel-like defects; super lattices.</keywords>
+				<allauthors>
+					<author lname="Shashikanth" fname="P. B." isfellow="0">Shashikanth, P. B.</author>
+					<author lname="Prasad" fname="P. B. V." isfellow="0">Prasad, P. B. V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Kinetics and mechanism of oxidation of aliphatic primary alcohols by quinolinium bromochromate</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0075-0082</page>
+				<abstract>
+					<p>Oxidation of nine aliphatic primary alcohols by quinolinium bromochromate (QBC) in dimethylsulphoxide leads to the formation of the corresponding aldehydes. The reaction is first order with respect to both QBC and the alcohol. The reaction is catalysed by hydrogen ions. The hydrogen-ion dependence has the form: $k_{\text{obs}} = a + b$[H$^+$]. The oxidation of [1,1-$^2$H$_2$]ethanol (MeCD$_2$OH) exhibits a substantial primary kinetic isotope effect. The reaction has been studied in nineteen different organic solvents. The solvent effect was analysed using Taft’s and Swain's multiparametric equations. The rate of oxidation is susceptible to both polar and steric effects of the substituents. A suitable mechanism has been proposed.</p>
+				</abstract>
+				<keywords>Aliphatic alcohols; hydride ion transfer; quinolinium bromochromate.</keywords>
+				<allauthors>
+					<author lname="Saraswat" fname="Sonu" isfellow="0">Saraswat, Sonu</author>
+					<author lname="Sharma" fname="Vinita" isfellow="0">Sharma, Vinita</author>
+					<author lname="Banerji" fname="K. K." isfellow="0">Banerji, K. K.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="04" year="2003">
+			<entry issup="0">
+				<title>Equilibria and kinetics for pH-dependent axial ligation of bromomethyl(aquo)cobaloxime by aliphatic amine ligands</title>
+				<feature>Inorganic and  Analytical</feature>
+				<page>0083-0090</page>
+				<abstract>
+					<p>Kinetics and equilibria of axial ligation of bromomethyl(aquo) cobaloxime by a series of straight chain primary amines (methylamine, ethylamine, propylamine, butylamine, pentylamine, hexylamine), cycloamines (cyclopentylamine, cyclohexylamine, cycloheptylamine) and secondary amines (N,N-dimethylamine, N,N-diethylamine) have been measured as functions of pH by spectrophotometric technique in aqueous solution, ionic strength 1 M (KCl) at 25$^\circ$C. The rate of substitution of H$_2$O varies with the $p$Ka of incoming ligand, thus establishing nucleophilic participation of the ligand in the transition state. Binding and kinetic data are interpreted based on the basicity and steric influence of the entering ligand. To compare the rate constants of the entering ligands, pH independent second-order rate constants ($k_{\text{on}}$) are calculated.</p>
+				</abstract>
+				<keywords>Alkylcobaloximes, axial ligation; bromomethyl(aquo)cobaloxime; cycloamines.</keywords>
+				<allauthors>
+					<author lname="Bhoopal" fname="M." isfellow="0">Bhoopal, M.</author>
+					<author lname="Reddy" fname="N. Ravi Kumar" isfellow="0">Reddy, N. Ravi Kumar</author>
+					<author lname="Satyanarayana" fname="S." isfellow="0">Satyanarayana, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis and room temperature single crystal EPR studies of a dinickel complex having an $&#123;$Ni$_2$($\mu$-phenoxide)$_2&#125;^{2+}$ unit supported by a macrocyclic ligand environment [Ni$_2$(L)$_2$(OClO$_3$)$_2$] [L = 2-[(4-methyl-pyridin-2-ylimino)-methyl]-phenol]</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0091-0102</page>
+				<abstract>
+					<p>A bimetallic nickel(II) complex with the ligand Hsalamp (2-[(4-methylpyridin-2-ylimino)-methyl]-phenol), having the molecular formula, Ni$_2$C$_{26}$H$_{22}$ N$_4$O$_{10}Cl$_2$, is synthesized and characterized by elemental, UV-Vis, IR and EPR studies. The IR spectrum confirms the presence of coordinated perchlorate ion and the UV-Vis. spectrum substantiates that the geometry around the metal ion is distorted square pyramidal. In the solvent methanol, the complex undergoes dissociation indicating the nature of the complex to be 1 : 2 electrolyte. The single crystal EPR studies indicate that the zero-field splitting is not large and the spectra can be observed even at room temperature, not so common for a nickel(II) ion. The spin Hamiltonian parameters calculated from single crystal rotations are: $g – 2 \cdot 377$, $2\cdot 219$, $2 \cdot 071$ and D – $9 \cdot 7$, $4 \cdot 2$ and $– 13 \cdot 9$ mT. Optical and electron paramagnetic spectral data have been used to obtain the parameters $Dq$, $B$ and $C$.</p>
+				</abstract>
+				<keywords>Hsalamp; cyclic voltammetry; electron paramagnetic resonance; spin-Hamiltonian parameters.</keywords>
+				<allauthors>
+					<author lname="Srinivasan" fname="R." isfellow="0">Srinivasan, R.</author>
+					<author lname="Sougandi" fname="I." isfellow="0">Sougandi, I.</author>
+					<author lname="Venkatesan" fname="R." isfellow="0">Venkatesan, R.</author>
+					<author lname="Rao" fname="P. Sambasiva" isfellow="0">Rao, P. Sambasiva</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Preparation, spectral and thermal studies of pyrazinecarboxylic acids and their hydrazinium salts</title>
+				<feature>Organic</feature>
+				<page>0103-0111</page>
+				<abstract>
+					<p>Some new hydrazinium 2-pyrazinecarboxylate and 2,3-pyrazinedicarboxylate salts of the formulae N$_2$H$_5$pc, N$_2$H$_5$pc.H$_2$O (Hpc = 2-pyrazinecarboxylic acid), N$_2$H$_5$Hpdc, (N$_2$H$_5$)$_2$pdc.H$_2$O and N$_2$H$_5$(Hpdc).H$_2$pdc (H$_2$pdc = 2,3-pyrazinedicarboxylic acid) have been prepared by neutralization of aqueous hydrazine hydrate with the respective acids in appropriate molar ratios. The free acids and their hydrazinium salts have been characterized by analytical, IR spectroscopic and thermal studies. IR spectra of all the salts show N–N stretching frequencies of the N$_2$H$_5^+$ ion in the region 975–960 cm$^{–1}$. The thermoanalytical behaviour of the free acids and their salts has been investigated by simultaneous TG and DTA. While pyrazinecarboxylic acid shows single-step endothermic (229$^{\circ}$C) complete decomposition, pyrazindicarboxylic acid shows exothermic decarboxylation followed by identical endothermic decomposition as that of the former. Similarly, salts of the monocarboxylic acid show endothermic effects during pyrolysis, whereas salts of the dicarboxylic acid show endothermic followed by exothermic decomposition. The acids and their salts both undergo complete decomposition to gaseous products.</p> 
+				</abstract>
+				<keywords>Hydrazinium salts; pyrazinecarboxylic acids; IR spectra; thermal decomposition.</keywords>
+				<allauthors>
+					<author lname="Premkumar" fname="T." isfellow="0">Premkumar, T.</author>
+					<author lname="Govindarajan" fname="S." isfellow="0">Govindarajan, S.</author>
+					<author lname="Pan" fname="Wei-Ping" isfellow="0">Pan, Wei-Ping</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Regioselective nitration of aromatic substrates in zeolite cages</title>
+				<feature>Organic</feature>
+				<page>0113-0121</page>
+				<abstract>
+					<p>Phenol is nitrated regioselectively by fuming nitric acid inside the cages of faujasite zeolites (dependent on the loading level) and a remarkable orthoselectivity is observed in solid state nitration. Toluene and chlorobenzene also containing ortho-/para-orienting substituents, undergo faster nitration, though the regioselectivity is less significant in zeolite media. The results are explained on the basis of diffusion and binding of phenol inside zeolite, which facilitate regioselectivity (and which is absent in toluene and chlorobenzene). Other advantages of employing zeolites as media for mild and selective nitration are also highlighted.</p> 
+				</abstract>
+				<keywords>Phenol, toluene, chlorobenzene, regioselective nitration, zeolites.</keywords>
+				<allauthors>
+					<author lname="Esakkidurai" fname="T." isfellow="0">Esakkidurai, T.</author>
+					<author lname="Kumarraja" fname="M." isfellow="0">Kumarraja, M.</author>
+					<author lname="Pitchumani" fname="K." isfellow="0">Pitchumani, K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Kinetics and mechanism of protection of thymine from sulphate radical anion under anoxic conditions</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0123-0128</page>
+				<abstract>
+					<p>The rates of photooxidation of thymine in presence of peroxydisulphate (PDS) have been determined by measuring the absorbance of thymine at 264 nm spectrophotometrically. The rates and the quantum yields ($\phi$) of oxidation of thymine by sulphate radical anion have been determined in the presence of different concentrations of caffeic acid. Increase in [caffeic acid] is found to decrease the rate of oxidation of thymine suggesting that caffeic acid acts as an efficient scavenger of SO$^{\bullet -}_4$ and protects thymine from it. Sulphate radical anion competes for thymine as well as for caffeic acid. The rate constant of sulphate radical anion with caffeic acid has been calculated to be $1 \cdot 24 \times 10^{10}$ dm$^3$ mol$^{–1}$ s$^{–1}$. The quantum yields of photooxidation of thymine have been calculated from the rates of oxidation of thymine and the light intensity absorbed by PDS at 254 nm, the wavelength at which PDS is activated to sulphate radical anion. From the results of experimentally determined quantum yields ($\phi_{\text{exptl}}$) and the quantum yields calculated ($\phi_{\text{cl}}$) assuming caffeic acid acting only as a scavenger of SO$^{\bullet -}_4$ radicals show that $\phi_{\text{exptl}}$ values are lower than $\phi_{\text{cl}}$ values. The $\phi'$ values, which are experimentally found quantum yield values at each caffeic acid concentration and corrected for SO$^{\bullet-}_4$ scavenging by caffeic acid, are also found to be greater than $\phi_{\text{exptl}}$ values. These observations suggest that the thymine radicals are repaired by caffeic acid in addition to scavenging of sulphate radical anions.</p> 
+				</abstract>
+				<keywords>Oxidation of caffeic acid; repair of thymine by caffeic acid; oxidations by sulphate radical anion.</keywords>
+				<allauthors>
+					<author lname="Swaraga" fname="M. Sudha" isfellow="0">Swaraga, M. Sudha</author>
+					<author lname="Adinarayana" fname="M." isfellow="0">Adinarayana, M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Kinetics and mechanism of the oxidation of substituted benzylamines by cetyltrimethylammonium permanganate</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0129-0134</page>
+				<abstract>
+					<p>Oxidation of meta- and para-substituted benzylamines by cetyltrimethylammonium permanganate (CTAP) to the corresponding aldimines is first order with respect to both the amine and CTAP. Oxidation of deuteriated benzylamine (PhCD$_2$NH$_2$) exhibited the presence of a substantial kinetic isotope effect ($k_H/k_D = 5 \cdot 60$ at 293 K). This confirmed the cleavage of an $\alpha$-C–H bond in the ratedetermining step. Correlation analyses of the rates of oxidation of 19 monosubstituted benzylamines were performed with various single and multiparametric equations. The rates of the oxidation showed excellent correlations in terms of Yukawa–Tsuno and Brown’s equations. The polar reaction constants are negative. The oxidation exhibited an extensive cross-conjugation, in the transition state, between the electron-donating substituents and the reaction centre. A mechanism involving a hydride-ion transfer from the amine to CTAP in the rate-determining step has been proposed.</p>
+				</abstract>
+				<keywords>Substituted benzylamines; cetyltrimethylammonium permanganate; hydride-ion transfer.</keywords>
+				<allauthors>
+					<author lname="Shukla" fname="Raghvendra" isfellow="0">Shukla, Raghvendra</author>
+					<author lname="Sharma" fname="Pradeep K." isfellow="0">Sharma, Pradeep K.</author>
+					<author lname="Kótai" fname="László" isfellow="0">Kótai, László</author>
+					<author lname="Banerji" fname="Kalyan K." isfellow="0">Banerji, Kalyan K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Kinetics and mechanism of the oxidation of some vicinal and non-vicinal diols by tetrabutylammonium tribromide</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0135-0145</page>
+				<abstract>
+					<p>Kinetics of oxidation of five vicinal and four non-vicinal diols, and two of their monoethers, by tetrabutylammonium tribromide (TBATB) has been studied. The vicinal diols yield products arising out of glycol-bond fission, while the non-vicinal diols produce the hydroxycarbonyl compounds. The reaction is first-order with respect to TBATB. Michaelis–Menten type kinetics is observed with respect to diols. The reaction fails to induce the polymerization of acrylonitrile. There is no effect of tetrabutylammonium chloride on the reaction rate. The proposed reactive oxidizing species is the tribromide ion. The effect of solvent composition indicates that the rate increases with increase in the polarity of the solvent. The oxidation of [1,1,2,2-$^2$H$_4$] ethanediol shows the absence of any primary kinetic isotope effect. Values of solvent isotope effect, $k$(H$_2$O)/$k$(D$_2$O), at 288 K for the oxidation of ethanediol, propane-1,3-diol and 3-methoxybutan-1-ol are $3 \cdot 41$, $0 \cdot 98$ and $1 \cdot 02$ respectively. A mechanism involving a glycol-bond fission has been proposed for the oxidation of vicinal diols. Non-vicinal diols are oxidised by a hydride-transfer mechanism, as they are monohydric alcohols.</p>
+				</abstract>
+				<keywords>Correlation analysis; vicinal and non-visinal diols; tetrabutylammonium tribromide.</keywords>
+				<allauthors>
+					<author lname="Gosain" fname="Jaya" isfellow="0">Gosain, Jaya</author>
+					<author lname="Sharma" fname="Pradeep K." isfellow="0">Sharma, Pradeep K.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Application of refractive index mixing rules in binary systems of hexadecane and heptadecane with $n$-alkanols at different temperatures</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0147-0154</page>
+				<abstract>
+					<p>Density and refractive index have been experimentally determined for binary liquid mixtures of hexadecane and heptadecane with 1-butanol, 1-pentanol, 1-hexanol and 1-heptanol at $298 \cdot 15$, $308 \cdot 15$ and $318 \cdot 15$ K. A comparative study of Lorentz–Lorenz (L–L), Weiner (W) and Heller (H), and Gladstone–Dale (G–D) relations for predicting the refractive index of a liquid has been carried out to test their validity for the eight binaries over the entire mole fraction range of hexadecane and heptadecane at the three temperatures. Comparison of various mixing rules has been expressed in terms of average percentage deviation. The performance of the Lorentz– Lorenz and Heller relations is relatively better than that of the Weiner and Gladstone–Dale relations.</p>
+				</abstract>
+				<keywords>Hexadecane; heptadecane; refractive index; Lorentz–Lorenz relation; Heller relation; Weiner relation; Gladstone–Dale relation.</keywords>
+				<allauthors>
+					<author lname="Mehra" fname="Rita" isfellow="0">Mehra, Rita</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="06" year="2003">
+			<entry issup="0">
+				<title>Heavy metal ion uptake properties of polystyrene-supported chelating polymer resins</title>
+				<feature>Inorganic and  Analytical</feature>
+				<page>0155-0160</page>
+				<abstract>
+					<p>Metal ion uptake properties of polystyrene-supported chelating polymer resins functionalized with (i) glycine, (ii) hydroxy benzoic acid, (iii) Schiff base and (iv) diethanol amine have been investigated. The effects of pH, time and initial concentration on the uptake of metal ions have been studied. The uptake of metal ion depends on pH. The resins are more selective at pH 10 for Pb(II) and Hg(II), whereas at pH 6 they are found to be Cd(II) and Cr(VI) selective. Metal ion uptake properties of resins follow Freundlich’s equation. The resins are recyclable and are therefore employed for the removal of heavy metal pollutants from industrial waste water.</p>
+				</abstract>
+				<keywords>Uptake properties; heavy metal ion; selectivity; recyclability.</keywords>
+				<allauthors>
+					<author lname="Reddy" fname="A. Ravikumar" isfellow="0">Reddy, A. Ravikumar</author>
+					<author lname="Reddy" fname="K. Hussain" isfellow="0">Reddy, K. Hussain</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis, characterisation and electrochemical behaviour of Cu(II), Co(II), Ni(II) and Zn(II) complexes derived from acetylacetone and p-anisidine and their antimicrobial activity</title>
+				<feature>Inorganic and  Analytical</feature>
+				<page>0161-0167</page>
+				<abstract>
+					<p>Neutral tetradentate N$_2$O$_2$ type complexes of Cu(II), Ni(II), Co(II) and Zn(II) have been synthesised using the Schiff base formed by the condensation of acetylacetone and p-anisidine. Microanalysis, molar conductance, magnetic susceptibility, IR, UV-Vis, ${}^1$H NMR, CV and EPR studies have been carried out to determine the structure of the complexes. From the data, it is found that all the complexes possess square-planar geometry. The EPR spectrum of the copper complex in DMSO at 300 K and 77 K was recorded and its salient features are reported. All the title complexes were screened for antimicrobial activity by the well diffusion technique using DMSO as solvent. The minimum inhibitory concentration (MIC) values were calculated at 37$^\circ$C for a period of 24 h. It has been found that all the complexes are antimicrobially active and show higher activity than the free ligand.</p> 
+				</abstract>
+				<keywords>Metal(II) tetradentate complexes, Schiff base complexes, EPR, CV, ${}^1$H-NMR spectra.</keywords>
+				<allauthors>
+					<author lname="Raman" fname="N." isfellow="0">Raman, N.</author>
+					<author lname="Muthuraj" fname="V." isfellow="0">Muthuraj, V.</author>
+					<author lname="Ravichandran" fname="S." isfellow="0">Ravichandran, S.</author>
+					<author lname="Kulandaisamy" fname="A." isfellow="0">Kulandaisamy, A.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Synthesis, spectral characterization and redox properties of iron (II) complexes of 1-alkyl-2-(arylazo)imidazole</title>
+				<feature>Inorganic and Analytical</feature>
+				<page>016-0174</page>
+				<abstract>
+					<p>Iron (II) complexes of 1-alkyl-2-(arylazo)imidazoles ($p$-R-C$_6$H$_4$-N=N-C$_3$H$_2$NN-1-R', R = H ({\bf a}), Me ({\bf b}), Cl ({\bf c}) and R' = Me ({\bf 1/3}), Et ({\bf 2/4}) have been synthesized and formulated as tris-chelates Fe(RaaiR')$^{2+}_3$. They are characterized by microanalytical, conductance, UV-Vis, IR, magnetic (polycrystalline state) data. The complexes are low spin in character, $t^6_{2g}$ (Fe(II)) configurations.</p>
+				</abstract>
+				<keywords>Arylazoimidazole; Fe(II) complexes; tris-chelates.</keywords>
+				<allauthors>
+					<author lname="Ray" fname="U. S." isfellow="0">Ray, U. S.</author>
+					<author lname="Banerjee" fname="D." isfellow="0">Banerjee, D.</author>
+					<author lname="Sinha" fname="C." isfellow="0">Sinha, C.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Equilibrium and kinetic studies on ligand substitution reactions of chloromethyl(aquo)cobaloxime with aromatic and aliphatic N-donor ligands</title>
+				<feature>Inorganic and  Analytical</feature>
+				<page>0175-0183</page>
+				<abstract>
+					<p>Equilibria and kinetics of the reactions of chloromethyl(aquo)cobaloxime with histamine, histidine, glycine and ethyl glycine ester were studied as a function of pH at 25$^\circ$C, $1 \cdot 0$ M ionic strength (KCl) by spectrophotometric techniques. Comparison of equilibrium constants and rate constants tells that the order is $K_{\text{Hisdn}} &gt; K_{\text{Hiamn}} &gt; K_{\text{Gly}} &gt; K_{\text{EtGlyest}}$. The rate of substitution of H$_2$O varies with the p$Ka$ of the incoming ligand and nucleophilic participation of the ligand in the transition state. The rate constants and equilibrium constants are correlated to the hardness and softness of the ligands and the Co(III) of cobaloxime.</p>
+				</abstract>
+				<keywords>Alkylcobaloximes; ligand substitution reactions; hard and soft ligands.</keywords>
+				<allauthors>
+					<author lname="Reddy" fname="D. Sudarshan" isfellow="0">Reddy, D. Sudarshan</author>
+					<author lname="Satyanarayana" fname="S." isfellow="0">Satyanarayana, S.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Lamellar multilayer hexadecylaniline-modified gold nanoparticle films deposited by the Langmuir–Blodgett technique</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0185-0193</page>
+				<abstract>
+					<p>Organization of hexadecylaniline (HDA)-modified colloidal gold particles at the air–water interface and the formation thereafter of lamellar, multilayer films of gold nanoparticles by the Langmuir–Blodgett technique is described in this paper. Formation of HDA-capped gold nanoparticles is accomplished by a simple biphasic mixture experiment wherein the molecule hexadecylaniline present in the organic phase leads to electrostatic complexation and reduction of aqueous chloroaurate ions, capping of the gold nanoparticles thus formed and phase transfer of the now hydrophobic particles into the organic phase. Organization of gold nanoparticles at the air–water interface is followed by surface pressure–area isotherm measurements while the formation of multilayer films of the nanoparticles by the Langmuir–Blodgett technique is monitored by quartz crystal microgravimetry, UVVis spectroscopy, Fourier transform infrared spectroscopy and transmission electron microscopy.</p>
+				</abstract>
+				<keywords>Lamellar multilayer films; hexadecylaniline-modified gold nanoparticle films; Langmuir–Blodgett technique.</keywords>
+				<allauthors>
+					<author lname="Swami" fname="Anita" isfellow="0">Swami, Anita</author>
+					<author lname="Kumar" fname="Ashavani" isfellow="0">Kumar, Ashavani</author>
+					<author lname="Sastry" fname="Murali" isfellow="0">Sastry, Murali</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Chemical reactivity of the compressed noble gas atoms and their reactivity dynamics during collisions with protons</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0195-0218</page>
+				<abstract>
+					<p>Attempts are made to gain insights into the effect of confinement of noble gas atoms on their various reactivity indices. Systems become harder, less polarizable and difficult to excite as the compression increases. Ionization also causes similar effects. A quantum fluid density functional technique is adopted in order to study the dynamics of reactivity parameters during a collision between protons and He atoms in different electronic states for various projectile velocities and impact parameters. Dynamical variants of the principles of maximum hardness, minimum polarizability and maximum entropy are found to be operative.</p> 
+				</abstract>
+				<keywords>Confinement; reactivity dynamics; quantum fluid density functional theory.</keywords>
+				<allauthors>
+					<author lname="Chattaraj" fname="P. K." isfellow="0">Chattaraj, P. K.</author>
+					<author lname="Maiti" fname="B." isfellow="0">Maiti, B.</author>
+					<author lname="Sarkar" fname="U." isfellow="0">Sarkar, U.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Yield and enrichment studies of C-13 isotope by multi-photon dissociation of Freon-22 at low temperatures</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0219-0224</page>
+				<abstract>
+					<p>Multi-photon dissociation of Freon-22 (CF$_2$HCl) at low temperatures has been carried out to separate the C-13 isotope using a TEA CO$_2$ laser. Yield and enrichment of C-13 isotope in the product C$_2$F$_4$ are studied at 9$P$($22$) laser line as a function of temperature (–50$^\circ$C to 30$^\circ$C). It is observed that at a given fluence when the temperature is lowered the yield decreases and the enrichment factor of C-13 increases.</p>
+					<p>Room temperature irradiation of CF$_2$HCl towards the blue edge of C-13 absorption (i.e. at 9$P$(20) laser line) gives low yield of the product (C$_2$F$_4$) at a fluence, which produces the desired enrichment factor of 100. An increase in fluence gives very high yield of C$_2$F$_4$ but the enrichment factor is very low. Irradiating CF$_2$HCl at a temperature of –10$^\circ$C enhances the enrichment factor to 100 and the yield obtained is comparable to that towards the red edge of C-13 absorption (i.e. at 9$P$(26) laser line).</p>
+					<p>At a given enrichment factor higher enrichment efficiency is achieved when CF$_2$HCl is irradiated at lower temperature.</p>
+				</abstract>
+				<keywords>TEA CO$_2$ laser; carbon-13; isotope separation; low temperature.</keywords>
+				<allauthors>
+					<author lname="Kumar" fname="Manoj" isfellow="0">Kumar, Manoj</author>
+					<author lname="Deshpande" fname="Anant" isfellow="0">Deshpande, Anant</author>
+					<author lname="Gupta" fname="Chintan" isfellow="0">Gupta, Chintan</author>
+					<author lname="Nath" fname="A. K." isfellow="0">Nath, A. K.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="08" year="2003">
+			<entry issup="0">
+				<title>Contributions in organic functional group transformations and photochemical and photophysical studies of selective organic substrates*</title>
+				<feature>Review Article</feature>
+				<page>0225-0239</page>
+				<abstract>
+					<p>A brief overview of our scientific contributions over the past few years and the results of some of our recent studies on fullerene clusters are presented.</p>
+				</abstract>
+				<keywords>Electron transfer processes; functional group transformations; phototransformations; transient intermediates; fullerene clusters; photophysical studies.</keywords>
+				<allauthors>
+					<author lname="George" fname="Manapurathu Verghese" isfellow="0">George, Manapurathu Verghese</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Equilibrium study on the reactions of boric acid with some \textit{cis}-diaqua Cr$^{III}$-complexes</title>
+				<feature>Inorganic and  Analytical</feature>
+				<page>0241-0248</page>
+				<abstract>
+					<p>Substitution inert \textit{cis}-diaqua Cr$^{III}$ complexes: \textit{cis}-[(L$^{x–}$)Cr$^{III}$(H$_2$O)$_2$]$^{(3–x)+}$ derived from N-donor ligands (L$^{x–}$) viz., bipyridine and 1,10-phenanthroline ($x = 0$) and N,O-donor ligands viz., nitrilotriacetate and anthranilate N,N-diacetate ($x = 3$) titrate as diprotic acids in aqueous solution and enhance the acidity of otherwise weakly acidic boric acid (H$_3$BO$_3$) producing mononuclear and binuclear mixed ligand Cr$^{III}$-borate complexes: [(L)C$_r$(H$_2$BO$_4$)]$^{x–}$ and [(L)Cr(BO$_4$)Cr(L)]$^{(1–2x)+}$ respectively through coordination of the H$_2$O and/or OH$^–$ ligands, \textit{cis}-coordinated in the Cr$^{III}$-complexes on the electron deficient B$^{III}$-atom in H$_3$BO$_3$ with release of protons. Deprotonation of the parent Cr$^{III}$-complexes and their reactions with H$_3$BO$_3$ have been investigated by potentiometric method in aqueous solution, $I = 0 \cdot 1$ mol dm$^{–3}$ (NaNO$_3$) at $25  \pm ± 0 \cdot 1^\circ$C. The equilibrium constants have been evaluated by computerized methods and the tentative stoichiometry of the reactions have been worked out on the basis of the speciation curves.</p>
+				</abstract>
+				<keywords>\textit{cis}-Diaqua Cr$^{III}$ complex–boric acid equilibria; mixed ligand Cr$^{III}$-borate complexes; Cr$^{III}$-borate complexes in solution.</keywords>
+				<allauthors>
+					<author lname="Mukherjee" fname="G. N." isfellow="0">Mukherjee, G. N.</author>
+					<author lname="Das" fname="Ansuman" isfellow="0">Das, Ansuman</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>\textit{Fac–mer} equilibria of coordinated iminodiacetate (ida$^{2–}$) in ternary Cu$^{II}^(ida)(H$_{–1}$B)$^–$ complex formation (B = imidazole, benzimidazole) in aqueous solution</title>
+				<feature>Inorganic and  Analytical</feature>
+				<page>0249-0261</page>
+				<abstract>
+					<p>pH potentiometric and spectrophotometric investigations on the complex formation equilibria of Cu$^{II}$ with iminodiacetate (ida$^{2–}$) and heterocyclic N-bases, viz. imidazole and benzimidazole (B), in aqueous solution in binary and ternary systems using different molar ratios of the reactants indicated the formation of complexes of the types, Cu(ida), Cu(ida)(OH)$^–$, (ida)Cu(OH)Cu(ida)$^–$, Cu(B)$^{2+}$, Cu(H$_{–1}$B)$^+$, Cu(ida)(H$_{–1}$B)$^–$, (ida)Cu(B)Cu(ida) and (ida)Cu(H$_{–1}$B)Cu(ida)$^–$. Formation constants of the complexes at $25 \pm 1^\circ$ at a fixed ionic strength, $I = 0 \cdot 1$ mol dm$^{–3}$ (NaNO$_3$) in aqueous solution were evaluated and the complex formation equilibria were elucidated with the aid of speciation curves. Departure of the experimental values of the reproportionation constants ($\Delta \log K_{\text{Cu}}$) of ternary Cu(ida)(H$_{–1}$B)$^–$ complexes from the statistically expected values, despite their formation in appreciable amounts at equilibrium, were assigned to \textit{fac(f)-mer(m)$ equilibria of the ida$^{2–}$ ligand coordinated to Cu$^{II}$, as the N-heterocyclic donors, ($H_{–1}B)$^–$, coordinate \textit{trans}- to the N-(ida$^{2–}$) atom in the binary Cu(ida)$_f$ complex to form the ternary Cu(ida)$_m$(H$_{–1}$B)$^–$ complexes.</p> 
+				</abstract>
+				<keywords>\textit{Fac–mer} equilibria; Cu$^{II}$-iminodiacetate-imidazole/benzimidazole ternary complexes; stability constants.</keywords>
+				<allauthors>
+					<author lname="Bandyopadhyay" fname="Susmita" isfellow="0">Bandyopadhyay, Susmita</author>
+					<author lname="Mukherjee" fname="G. N." isfellow="0">Mukherjee, G. N.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Solvent effects on some new meso-aryl substituted octabromoporphyrins</title>
+				<feature>Organic</feature>
+				<page>0263-0271</page>
+				<abstract>
+					<p>A series of porphyrins with tolyl and naphthyl substituents at the meso positions, their octabromoderivatives (OBP) with Br substituents at $\beta$-pyrrole positions are synthesised and characterised by chemical analysis, 1H NMR and electronic spectral studies. It is seen that all the OBPs exhibit pronounced red shifts in both the Soret and $Q$ bands of their electronic spectra compared to their nonbrominated form in various polar and nonpolar solvents, the energy difference $\Delta\bar{v}$ being in the range 2300–2700 cm$^{–1}$. The high energy $B$ band of naphthyl porphyrins (both brominated and nonbrominated) are found to be more red-shifted than that of tolyl porphyrins, owing to the noticeable mesomeric effect of the naphthyl groups. Detailed spectral studies reveal that while none of the nonbrominated porphyrin show solvent-dependent change in their $B$ and $Q$ bands, all the OBPs manifest significant shifts depending on the nature of solvents. Solvent–solute interaction can be considered to be of strong dipole–dipole nature for OBPs with polar solvents and of $\pi - \pi$ type with aromatic non-polar solvents. In the brominated form we find two categories of porphyrins exhibiting distinctly different absorption phenomena in aromatic solvents. The OBPs having \textit{meso}-groups not shielding the porphyrin $\pi$-framework exhibit additional absorption peaks (split Soret peaks and broadened Q bands) in some aromatic solvents. This could be explained in terms of $\pi - \pi$ type donor-acceptor (DA) complex formation between such bromoporphyrins (acceptor) and the aromatic solvent molecules (donor) that is not possible for OBPs that have bulky \textit{meso} groups that block the approach of aromatic solvent molecules close to the porphyrin framework.</p>
+				</abstract>
+				<keywords>Electronic spectra; tetratolylporphyrins; tetranaphthylporphyrins; octabromoporphyrins; solvent effects; donor–acceptor complex.</keywords>
+				<allauthors>
+					<author lname="George" fname="Regimol G." isfellow="0">George, Regimol G.</author>
+					<author lname="Padmanabhan" fname="M." isfellow="0">Padmanabhan, M.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Regioselective photoamination of 4-nitroveratrole upon cyclodextrin complexation</title>
+				<feature>Organic</feature>
+				<page>0273-0280</page>
+				<abstract>
+					<p>Photoamination of 4-nitroveratrole in cyclodextrins with the nucleophiles ammonia, methylamine and hexylamine provides a new route to regioselectivity. This method gives a displaced product para to the nitro group as the predominant product, in contrast to the solution reaction wherein the meta-displaced product predominates. This is due to the change in the mechanistic shift from S$_N$2Ar$^\ast$, wherein the nitro group is meta-directing, to a mechanism involving electron transfer from the nucleophile to the excited aromatic substrate (S$_N$ (ET)Ar$^\ast$) to give the para-displaced product.</p>
+				</abstract>
+				<keywords>Cyclodextrin; 4-nitroveratrole; photoamination.</keywords>
+				<allauthors>
+					<author lname="Manickam" fname="M. C. Durai" isfellow="0">Manickam, M. C. Durai</author>
+					<author lname="Pitchumani" fname="K." isfellow="0">Pitchumani, K.</author>
+					<author lname="Srinivasan" fname="C." isfellow="0">Srinivasan, C.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Temperature-programmed desorption of water and ammonia on sulphated zirconia catalysts for measuring their strong acidity and acidity distribution</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0281-0286</page>
+				<abstract>
+					<p>Temperature-programmed desorption (TPD) of water and ammonia over ZrO$_2$ and sulphated ZrO$_2$ prepared by different methods has been investigated for measuring strong acidity and acidity distribution on sulphated zirconia-type solid super-acid catalysts. The TPD of water provides a simple reliable method for this purpose because of the high stability of water molecules under redox conditions.</p>
+				</abstract>
+				<keywords>Temperature-programmed desorption; sulphated zirconia catalysts; acid catalysts; acidity distribution.</keywords>
+				<allauthors>
+					<author lname="Choudhary" fname="Vasant R." isfellow="0">Choudhary, Vasant R.</author>
+					<author lname="Karkamkar" fname="Abhijeet J." isfellow="0">Karkamkar, Abhijeet J.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Low temperature complete combustion of dilute propane over Mn-doped ZrO$_2$ (cubic) catalysts</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0287-0298</page>
+				<abstract>
+					<p>Combustion of dilute propane ($0  \cdot 9 mol&#37;$) over Mn-doped ZrO$_2$ catalysts prepared using different precipitating agents (viz. TMAOH, TEAOH, TPAOH, TBAOH and NH$_4$OH), having different Mn/Zr ratios ($0 \cdot 05 –0 \cdot 67$) and calcined at different temperatures (500–800$^\circ$C), has been thoroughly investigated at different temperatures (300–500$^\circ$C) and space velocities (25,000–100,000 cm$^3$ g$^{–1}$ h$^{–1}$) for controlling propane emissions from LPG-fuelled vehicles. Mn-doped ZrO$_2$ catalyst shows high propane combustion activity, particularly when its ZrO$_2$ is in the cubic form, when its Mn/Zr ratio is close to $0 \cdot 2$ and when it is prepared using TMAOH as a precipitating agent and calcined at 500–600$^\circ$C. Pulse reaction of propane in the absence of free-O$_2$ over Mn-doped ZrO$_2$ (cubic) and Mn-impregnated ZrO$_2$ (monoclinic) catalysts has also been investigated for studying the relative reactivity and mobility of the lattice oxygen of the two catalysts. Both reactivity and mobility of the lattice oxygen of Mn-doped ZrO$_2$ are found to be much higher than that of Mnimpregnated ZrO$_2$. Propane combustion over Mn-doped ZrO$_2$ catalyst involves a redox mechanism.</p>
+				</abstract>
+				<keywords>Combustion of dilute propane; Mn-doped ZrO$_2$ (cubic) catalyst; pulse reaction of propane.</keywords>
+				<allauthors>
+					<author lname="Choudhary" fname="Vasant R." isfellow="0">Choudhary, Vasant R.</author>
+					<author lname="Banerjee" fname="Subhabrata" isfellow="0">Banerjee, Subhabrata</author>
+					<author lname="Pataskar" fname="Suryakant G." isfellow="0">Pataskar, Suryakant G.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Effect of NaCl on the spectral and kinetic properties of cresyl violet (CV)-sodium dodecyl sulphate (SDS) complex</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0299-0306</page>
+				<abstract>
+					<p>Effect of added NaCl on the spectral and kinetic properties of cationically charged dye (cresyl violet) and anionically charged surfactant (sodium dodecyl sulphate) were studied in the pre-micellar and micellar regions. Addition of $0 \cdot 2$M NaCl to dye-surfactant solution decreased the critical micellar concentration for the micellization of the dye in sodium dodecyl sulphate to $1 \cdot 2 \times 10^{–3}$ M. Time-resolved studies using a stopped-flow spectrometer showed that NaCl influences the dynamics of micellisation. Addition of NaCl during the dye–surfactant complex formation converted the complex into micellized form at NaCl concentration of $0 \cdot 01$ to $0 \cdot 05$ M. In contrast, much higher concentration of NaCl (2 M) is required for the salting-out effect of the dye–surfactant complex for conversion to the micellized form.</p> 
+				</abstract>
+				<keywords>Cresyl violet; surfactant; salt effect; absorption; stopped-flow.</keywords>
+				<allauthors>
+					<author lname="Priyadarsini" fname="K. I." isfellow="0">Priyadarsini, K. I.</author>
+					<author lname="Mohan" fname="Hari" isfellow="0">Mohan, Hari</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Kinetics of proton transfer in a green fluorescent protein: A laser-induced pH jump study</title>
+				<feature>Physical and Theoretical</feature>
+				<page>0307-0317</page>
+				<abstract>
+					<p>The sub-millisecond protonation dynamics of the chromophore in S65T mutant form of the green fluorescent protein (GFP) was tracked after a rapid pH jump following laser-induced proton release from the caged photolabile compound o-nitrobenzaldehyde. Following a jump in pH from 8 to 5 (which is achieved within 2 $\mu$s), the fluorescence of S65T GFP decreased as a single exponential with a time constant of $\tilde 90 \mu$s. This decay is interpreted as the conversion of the deprotonated fluorescent GFP chromophore to a protonated non-fluorescent species. The protonation kinetics showed dependence on the bulk viscosity of the solvent, and therefore implicates bulk solvent-controlled protein dynamics in the protonation process. The protonation is proposed to be a sequential process involving two steps: (a) proton transfer from solvent to the chromophore, and (b) internal structural rearrangements to stabilize a protonated chromophore. The possible implications of these observations to protein dynamics in general is discussed.</p> 
+				</abstract>
+				<keywords>Green fluorescent protein; proton transfer; pH-jump; caged proton; protein dynamics.</keywords>
+				<allauthors>
+					<author lname="Mallik" fname="Roop" isfellow="0">Mallik, Roop</author>
+					<author lname="Udgaonkar" fname="Jayant B." isfellow="0">Udgaonkar, Jayant B.</author>
+					<author lname="Krishnamoorthy" fname="G." isfellow="0">Krishnamoorthy, G.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05-06" month="10-12" year="2003">
+			<entry issup="0">
+				<title>Foreword &#8212; Emerging Directions in Chemical Sciences</title>
+				<feature>Emerging Directions in Chemical Sciences</feature>
+				<page>0319-0319</page>
+				<abstract />
+				<keywords />
+				<allauthors>
+					<author lname="Kulkarni" fname="G. U." isfellow="0">Kulkarni, G. U.</author>
+					<author lname="Bagchi" fname="B." isfellow="0">Bagchi, B.</author>
+					<author lname="Gopalakrishnan" fname="J." isfellow="0">Gopalakrishnan, J.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Rigid rod spaced fullerene as building block for nanoclusters¶</title>
+				<feature>Emerging Directions in Chemical Sciences</feature>
+				<page>0321-0332</page>
+				<abstract>
+					<p>By using phenylacetylene based rigid-rod linkers (PhA), we have successfully synthesized two fullerene derivatives, C$_{60}$–PhA and C$_{60}$–PhA–C$_{60}$. The absorption spectral features of C$_{60}$, as well as that of the phenylacetylene moiety are retained in the monomeric forms of these fullerene derivatives, ruling out the possibility of any strong interaction between the two chromophores in the ground state. Both the fullerene derivatives form optically transparent clusters, absorbing in the UV-Vis region; this clustering leads to a significant increase in their molar extinction coefficients. TEM characterization of the C$_{60}$–PhA showed large spherical clusters, with sizes ranging from 150–350 nm, while an elongated wire-type structure was observed for the bisfullerene derivative (C$_{60}$–PhA–C$_{60}$). AFM section analysis studies of isolated nanoclusters of C$_{60}$–PhA–C$_{60}$, deposited on mica, indicate that smaller clusters associate to form larger nanostructures.</p>
+				</abstract>
+				<keywords>Fullerenes; nanoclusters; AFM and TEM studies.</keywords>
+				<allauthors>
+					<author lname="Sudeep" fname="Pallikara K." isfellow="0">Sudeep, Pallikara K.</author>
+					<author lname="Varkey" fname="James P." isfellow="0">Varkey, James P.</author>
+					<author lname="Thomas" fname="George" isfellow="0">Thomas, K. George</author>
+					<author lname="George" fname="Manappurathu V." isfellow="0">George, Manappurathu V.</author>
+					<author lname="Kamat" fname="Prashant V." isfellow="0">Kamat, Prashant V.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>A triad of rhenium-mediated transformations¶</title>
+				<feature>Emerging Directions in Chemical Sciences</feature>
+				<page>0333-0339</page>
+				<abstract>
+					<p>The title transformations are oxygen atom transfer, twin isomerization and regiospecific imine oxidation. \textit{Bis}pyridyldiazole ligands have furnished new oxygen atom transfer reagents of coordination type Re$^V^OCl$_3$(NN) which undergo a slower transfer to PPh$_3$ than the corresponding azole reagents. The rate of twin isomerization (linkage and geometrical) of meridional azole complexes of coordination type Re$^{III}$(OPnP)Cl$_3$(NN) to facial Re$^{III}$(PnPO)Cl$_3$(NN) decreases rapidly as $n$ increases in the interval 1–4 (PnP is Ph$_2$P(CH$_2$)$_n$PPh$_2$). An $\alpha$-diimine chelate of type Re$^V$(NPh)Cl$_3$(NN) is shown to undergo facile oxidation to the corresponding iminoamide complex Re$^{VI}$(NPh)Cl$_3$(NN) upon treating with dilute nitric acid. The reaction proceeds via regiospecific nucleophilic addition of water to the more polarized imine function.</p> 
+				</abstract>
+				<keywords>Rhenium-mediated transformations; oxygen atom transfer; linkage-cumgeometrical isomerization; regiospecific imine oxidation.</keywords>
+				<allauthors>
+					<author lname="Gangopadhyay" fname="J." isfellow="0">Gangopadhyay, J.</author>
+					<author lname="Das" fname="S." isfellow="0">Das, S.</author>
+					<author lname="Sengupta" fname="S." isfellow="0">Sengupta, S.</author>
+					<author lname="Chakraborty" fname="I." isfellow="0">Chakraborty, I.</author>
+					<author lname="Chakravorty" fname="A." isfellow="0">Chakravorty, A.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title>Electrical conduction in composites containing copper core–copper oxide shell nanostructure in silica gel¶</title>
+				<feature>Emerging Directions in Chemical Sciences</feature>
+				<page>0341-0348</page>
+				<abstract>
+					<p>Composites of nanometre-sized copper core–copper oxide shell with diameters in the range 6$\cdot$1 to 7$\cdot$3 nm dispersed in a silica gel were synthesised by a technique comprising reduction followed by oxidation of a suitably chosen precursor gel. The hot pressed gel powders mixed with nanometre-sized copper particles dispersed in silica gel showed electrical resistivities several orders of magnitude lower than that of the precursor gel. Electrical resistivities of the different specimens were measured over the temperature range 30 to 300$^\circ$C. Activation energies for the coreshell nanostructured composites were found to be a fraction of that of the precursor gel. Such dramatic changes are ascribed to the presence of an interfacial amorphous phase. The resistivity variation as a function of temperature was analysed on the basis of Mott’s small polaron hopping conduction model. The effective dielectric constant of the interfacial phase as extracted from the data analysis was found to be much higher than that of the precursor glass. This has been explained as arising from the generation of very high pressure at the interface due to the oxidation step to which the copper nanoparticles are subjected.</p>
+				</abstract>
+				<keywords>Copper core–copper oxide shell; electrical conduction in composites; nanostructures.</keywords>
+				<allauthors>
+					<author lname="Das" fname="D." isfellow="0">Das, D.</author>
+					<author lname="Kundu" fname="T. K." isfellow="0">Kundu, T. K.</author>
+					<author lname="Dey" fname="M. K." isfellow="0">Dey, M. K.</author>
+					<author lname="Chakraborty" fname="S." isfellow="0">Chakraborty, S.</author>
+					<author lname="Chakravorty" fname="D." isfellow="0">Chakravorty, D.</author>
+				</allauthors>
+			</entry>
+			<entry issup="0">%%%%%%%%%%%%%% prathibha
+				<title></title>
+				<feature>Emerging Directions in Chemical Sciences</feature>
+				<page>0349-0364</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<allauthors>
+					<author lname="" fname="" isfellow="0"></author>
+				</allauthors>
+			</entry>
+			<entry issup="0">
+				<title></title>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2498,7 +3192,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2510,7 +3204,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2522,7 +3216,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2534,7 +3228,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2546,7 +3240,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2558,7 +3252,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2570,7 +3264,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2582,7 +3276,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2594,7 +3288,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2606,7 +3300,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2618,7 +3312,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2630,7 +3324,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2642,7 +3336,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2654,7 +3348,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2666,7 +3360,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2678,7 +3372,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2690,7 +3384,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2702,7 +3396,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2714,7 +3408,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2726,7 +3420,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2738,7 +3432,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2750,7 +3444,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2762,7 +3456,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2774,7 +3468,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2786,7 +3480,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2798,7 +3492,7 @@
 			</entry>
 			<entry issup="0">
 				<title></title>
-				<feature>Recent Advances in Photochemistry</feature>
+				<feature>Emerging Directions in Chemical Sciences</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -2865,92 +3559,6 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
-			</entry>
-		</issue>
-	</volume>		
-	<volume vnum="">
 		<issue inum="00" month="00" year="0000">
 			<entry issup="0">
 				<title></title>
