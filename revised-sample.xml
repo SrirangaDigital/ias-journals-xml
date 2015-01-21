@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cs SYSTEM "pms.dtd">
+
+<journal title="" short="" mnemonic="">
+	<volume vnum="110">
+		<issue inum="01" month="02" year="2000">
+			<entry hassup="1">
+				<title>Connections for Small Vertex Models </title>
+				<feature></feature>
+				<page>0035-0053</page>
+				<abstract>
+					<p>This paper is a first attempt at calssifying connections on small vertex models i.e., commuting squares of the form displayed in (1.2) below. More precisely if we let B(k, n) denote the collection of matrices W for which (1.2) is a commuting square then, we : (i) obtain a simple model form for a representative from each equivalence class in B(2, n), (ii) obtain necessary conditions for two such `model connections' in B(2, n) to be themselves equivalent, (iii) show that B(2, n) contains a (3n – 6)-parameter family of pairwise inequivalent connections, and (iv) show that the number (3n – 6) is sharp. Finally, we deduce that every graph that can arise as the principal graph of a finite depth subfactor of index 4 actually arises for one arising from a vertex model corresponding to B(2, n) for some n.</p>
+				</abstract>
+				<keywords>Subfactor; vertex model; biunitary</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Srinivasan">R. Srinivasan</name>
+						<affiliation>Raman Research Institute, C.V. Raman Avenue, Sadashivanagar, Bangalore 560 080, India</affiliation>
+						<email>ranjini@rri.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+					<date type="E">2014-09-30</date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+</journal>
