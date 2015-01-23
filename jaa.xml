@@ -2,6 +2,241 @@
 <!DOCTYPE cs SYSTEM "journal.dtd">
 
 <journal title="Journal of Astrophysics and Astronomy" short="J. Astrophys. Astr." mnemonic="jaa">
+	<volume vnum="021">
+		<issue inum="01-02" month="06" year="2000">
+			<entry hassup="0">
+				<title>A Measurement of the Cosmic Microwave Background Temperature at 1280MHz</title>
+				<feature></feature>
+				<page>0001-0017</page>
+				<abstract>
+					<p>The absolute temperature of the cosmic microwave back-ground (CMB) has been measured at a frequency of 1280 MHz. The observation was made with a modified version of the L-band receiver used in the Giant Metre wavelength Radio Telescope (GMRT): the feed horn was replaced by a corrugated plate and the receiver was placed on the ground, directed at zenith, and shielded from ground radiation by an aluminium screen with corrugated edges. Novel techniques have been adopted for</p>
+					<ul>
+						<li>reducing and cancelling unwanted contributions to the system temperature of the receiver and</li>
+						<li>calibrating the contributions from the feed assembly and receiver.</li>
+					</ul>
+					<p>The thermodynamic temperature of the CMB is estimated to be $3.45 \pm 0.78$ K.</p>
+				</abstract>
+				<keywords>Cosmic microwave background — cosmology: observations.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Raghunathan">A. Raghunathan</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore - 560080, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ravi" last="Subrahmanyan">Ravi Subrahmanyan</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore - 560080, India</affiliation>
+						<affiliation>Present address: Australia Telescope National Facility, CSIRO, Locked bag 194, Narrabri, NSW, Australia.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-18</date>
+					<date type="R"></date>
+					<date type="A">2000-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nature of the Background Ultraviolet Radiation Field at High Redshifts</title>
+				<feature></feature>
+				<page>0019-0027</page>
+				<abstract>
+					<p>We have tried to determine the flux of the ultraviolet background radiation field from the column density ratios of various ions in several absorption systems observed in the spectra of QSOs. We find that in most cases the flux is considerably higher than what has been estimated to be contributed by the AGNs. The excess flux could originate locally in hot stars. In a few cases we have been able to show that such galactic flux can only contribute a part of the total required flux. The results suggest that the background gets a significant contribution from an unseen QSO population.</p>
+				</abstract>
+				<keywords>Quasars: absorption lines—diffuse radiation.</keywords>
+				<authors>
+					<author>
+						<name first="Archana" last="Samantaray">Archana Samantaray</name>
+						<affiliation>Physics Department, Utkal University, Bhubaneswar, 751 004, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pushpa" last="Khare">Pushpa Khare</name>
+						<affiliation>Physics Department, Utkal University, Bhubaneswar, 751 004, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-20-09</date>
+					<date type="R"></date>
+					<date type="A">2000-02-09</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Observation of XTE J2012+381 during the 1998 Outburst</title>
+				<feature></feature>
+				<page>0029-0038</page>
+				<abstract>
+					<p>The outburst of X-ray transient source XTE J2012+381 was detected by the RXTE All-Sky Monitor on 1998 May 24th. Following the outburst, X-ray observations of the source were made in the 2-18keV energy band with the Pointed Proportional Counters of the Indian X-ray Astronomy Experiment (IXAE) on-board the Indian satellite IRS-P3 during 1998 June 2nd-10th. The X-ray flux of the source in the main outburst decreased exponentially during the period of observation. No large amplitude short-term variability in the intensity is detected from the source. The power density spectrum obtained from the timing analysis of the data shows no indication of any quasi-periodic oscillations in 0.002-0.5 Hz band. The hardness ratio i.e. the ratio of counts in 6-18 keV to 2-6 keV band, indicates that the X-ray spectrum is soft with spectral index $\gt$ 2. From the similarities of the X-ray properties with those of other black hole transients, we conclude that the X-ray transient XTE J2012+381 is likely to be a black hole.</p>
+				</abstract>
+				<keywords>Accretion, accretion disks—black hole physics—X-rays: stars—stars: individual—XTE J2012+381.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Naik">S. Naik</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai, 400 005, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. C." last="Agrawal">P. C. Agrawal</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai, 400 005, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Paul">B. Paul</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai, 400 005, India.</affiliation>
+						<affiliation>Present Address: Institute of Space and Astronautical Science, 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. R." last="Rao">A. R. Rao</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai, 400 005, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Seetha">S. Seetha</name>
+						<affiliation>ISRO Satellite Center, Airport Road, Vimanapura P.O., Bangalore 560017, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Κ." last="Kasturirangan">Κ. Kasturirangan</name>
+						<affiliation>ISRO Satellite Center, Airport Road, Vimanapura P.O., Bangalore 560017, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-10-22</date>
+					<date type="R"></date>
+					<date type="A">2000-02-09</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Measurements of Black Hole X-ray Binary Source GRS 1915+105 and the Evolution of Hard X-ray Spectrum</title>
+				<feature></feature>
+				<page>0039-0052</page>
+				<abstract>
+					<p>We report the spectral measurement of GRS 1915+105 in the hard X-ray energy band of 20-140keV. The observations were made on March 30th, 1997 during a quiescent phase of the source. We discuss the mechanism of emission of hard X-ray photons and the evolution of the spectrum by comparing the data with earlier measurements and an axiomatic model for the X-ray source.</p>
+				</abstract>
+				<keywords>Accretion, accretion disks—X-rays: stars—Black hole candidates, binary sources: individual—GRS 1915+105.</keywords>
+				<authors>
+					<author>
+						<name first="R. K." last="Manchanda">R. K. Manchanda</name>
+						<affiliation>Tata Institute of Fundamental Research, Mumbai 400 005, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-12-28</date>
+					<date type="R"></date>
+					<date type="A">2000-02-09</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Scale Length of the Galactic Thin Disk</title>
+				<feature></feature>
+				<page>0053-0059</page>
+				<abstract>
+					<p>This paper presents an analysis of the first 2MASS (The Two Micron All Sky Survey) sampler data as observed at lower Galactic latitude in our Galaxy. These new near-infrared data provide insight into the structure of the thin disk of our Galaxy, The interpretation of star counts and color distributions of stars in the near-infrared with the synthetic stellar population model, gives strong evidence that the Galactic thin disk density scale length, $h_{R}$, is rather short ($2.7 \pm 0.1$ kpc).</p>
+				</abstract>
+				<keywords>Galaxy: stellar content—Galaxy: structure.</keywords>
+				<authors>
+					<author>
+						<name first="D. Κ." last="Ojha">D. Κ. Ojha</name>
+						<affiliation>Tata Institute of Fundamental Research, Dr. Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-09-14</date>
+					<date type="R"></date>
+					<date type="A">2000-02-09</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Stellar Sources in the ISOGAL Inner Galactic Bulge Field $(l=0^{0},b=-1^{0})$</title>
+				<feature></feature>
+				<page>0077-0090</page>
+				<abstract>
+					<p>ISOGAL is a survey at 7 and 15 μm with ISOCAM of the inner galactic disk and bulge of our Galaxy. The survey covers $\sim 22$ deg$^{2}$ in selected areas of the central $l=\pm 30$ degree of the inner Galaxy. In this paper, we report the study of a small ISOGAL field in the inner galactic bulge ($l = 0^{0},b = -1^{0}$, area = 0.033deg$^{2}$). Using the multicolor near-infrared data (IJK$_{s}$) of DENIS (DEep Near Infrared Southern Sky Survey) and mid-infrared ISOGAL data, we discuss the nature of the ISOGAL sources. The various color-color and color-magnitude diagrams are discussed in the paper. While most of the detected sources are red giants (RGB tip stars), a few of them show an excess in J-K$_{s}$ and K$_{s}$-[15] colors with respect to the red giant sequence. Most of them are probably AGB stars with large mass-loss rates.</p>
+				</abstract>
+				<keywords>Stars: AGB and post-AGB — stars: circumstellar matter — stars: mass- loss - dust - infrared: stars — Galaxy: bulge.</keywords>
+				<authors>
+					<author>
+						<name first="D. Κ." last="Ojha">D. Κ. Ojha</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Omont">A. Omont</name>
+						<affiliation>Institut d'Astrophysique de Paris, CNRS, 98 bis, Bd Arago, F-75014, Paris, France.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Ganesh">S. Ganesh</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Simon">G. Simon</name>
+						<affiliation>DASGAL, CNRS UMR 8633, Observatoire de Paris, France.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Μ." last="Schultheis">Μ. Schultheis</name>
+						<affiliation>Institut d'Astrophysique de Paris, CNRS, 98 bis, Bd Arago, F-75014, Paris, France.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-03-27</date>
+					<date type="R"></date>
+					<date type="A">2000-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Porous and Fluffy Grains in the Regions of Anomalous Extinction</title>
+				<feature></feature>
+				<page>0091-0099</page>
+				<abstract>
+					<p>It has long been established that the ratio of total to selective extinction is anomalously large (³ 5) in certain regions of the interstellar medium. In these regions of anomalous extinction the dust grains are likely to be irregular in shape and fluffy in structure. Using discrete dipole approximation (DDA) we calculate the extinction for porous and fluffy grains. We apply DDA first to solid spheroidal particles assumed to be made of a certain (large) number of dipoles. Then we systematically reduce the number of dipoles to model the porous grains. The aggregates of these particles are suggested to form the fluffy grains. We study the extinction for these particles as a function of grain size, porosity and wavelength. We apply these calculations to interpret the observed extinction data in the regions of star formation (e.g. the Orion complex).</p>
+				</abstract>
+				<keywords>Interstellar dust—extinction—porous grains—anomalous extinction.</keywords>
+				<authors>
+					<author>
+						<name first="D. B." last="Vaidya">D. B. Vaidya</name>
+						<affiliation>Gujarat College, Ahmedabad 380 006, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. G." last="Anandarao">B. G. Anandarao</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. N." last="Desai">J. N. Desai</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Gupta">R. Gupta</name>
+						<affiliation>Inter-University Centre for Astronomy &amp; Astrophysics, Pune 411007, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-12-24</date>
+					<date type="R"></date>
+					<date type="A">2000-01-29</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>%raghu
+	</volume>
 	<volume vnum="022">
 		<issue inum="02-03" month="06-09" year="2001">
 			<entry hassup="0">
