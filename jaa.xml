@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cs SYSTEM "journal.dtd">
+
+<journal title="Journal of Astrophysics and Astronomy" short="J. Astrophys. Astr." mnemonic="jaa">
+	<volume vnum="022">
+		<issue inum="02-03" month="06-09" year="2001">
+			<entry hassup="0">
+				<title>Hard X-ray Spectrum of Mkn 421 during the Active Phase</title>
+				<feature></feature>
+				<page>0145-0154</page>
+				<abstract>
+					<p>Spectral measurement of Mkn 421 were made in the hard X-ray energy band of 20–200 keV using a high sensitivity, large area scintillation counter telescope on November 21, 2000 and these coincided with the onset of an active X-ray phase as seen in the ASM counting rates on board RXTE. The observed spectrum can not be fitted to a single power law similar to the PDS data of BeppoSAX. The data can be fitted both by a two component power-law function or a combination of an exponential function with a power law component at the high energies above 80 keV. We identify these components with those arising from the synchrotron self compton and the high energy power-law tail arising from the upgrading of the thermal photons due to multiple Compton scattering a la Cyg X-1. A comparison with the earlier data clearly suggests a spectral variability in the hard X-ray spectrum of the source. We propose a continuously flaring geometry for the source as the underlying mechanism for energy release.</p>
+				</abstract>
+				<keywords>X-rays;AGNs—BL Lac sources, massive black hole candidates, jet emission;individual—Mkn 421.</keywords>
+				<authors>
+					<author>
+						<name first="R. K." last="Manchanda">R. K. Manchanda</name>
+						<affiliation>Tata Institute of Fundamental Research, Colaba, Mumbai 400 005, India</affiliation>
+						<email>ravi@tifr.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-07-27</date>
+					<date type="R"></date>
+					<date type="A">2001-09-27</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>H$\alpha$ Emission Line Morphologies in Markarian Starburst Galaxies</title>
+				<feature></feature>
+				<page>0155-0172</page>
+				<abstract>
+					<p>We present broad band $R$ and narrow band H$\alpha$ emission line images of a sample of optically selected starburst galaxies from the Markarian lists. The emission line morphology is studied and global properties like luminosities, equivalent widths and star formation rates are derived. The radial distribution of H$\alpha$ flux and the EW are determined using concentric aperture photometry on the emission line and the continuum images. H$\alpha$ flux is generally found to peak in the nuclear region and fall off outwards. The EW is found to peak off-center in most of the cases implying that though the intensity of emission is maximum at the nucleus, the star formation activity relative to the underlying continuum often peaks away from the center in Markarian starburst galaxies.</p>
+				</abstract>
+				<keywords>Galaxies: starburst, photometry</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Chitre">A. Chitre</name>
+						<affiliation>Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="U. C." last="Joshi">U. C. Joshi</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-12-04</date>
+					<date type="R"></date>
+					<date type="A">2001-05-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Far Infrared Mapping of Three Galactic Star Forming Regions: W3(OH), S209 &amp; S187</title>
+				<feature></feature>
+				<page>0173-0185</page>
+				<abstract>
+					<p>Three Galactic star forming regions associated with W3(OH), S209 and S187 have been simultaneously mapped in two trans-IRAS far infrared (FIR) bands centered at $\sim 140$ and 200$\mu$m using the TIFR 100 cm balloon borne FIR telescope. These maps showextended FIR emission with structures. The HIRES processed IRAS maps of these regions at 12, 25, 60 &amp; 100 $\mu$m have also been presented for comparison. Point-like sources have been extracted from the longest waveband TIFR maps and searched for associations in the other five bands. The diffuse emission from these regions have been quantified, which turns out to be a significant fraction of the total emission. The spatial distribution of cold dust (T $\lt$ 30 K) for two of these sources (W3(OH) &amp; S209), has been determined reliably from the maps in TIFR bands. The dust temperature and optical depth maps show complex morphology. In general the dust around S209 has been found to be warmer than that in W3(OH) region.</p>
+				</abstract>
+				<keywords>Interstellar dust—W3(OH)–S209—S187.</keywords>
+				<authors>
+					<author>
+						<name first="S. K." last="Ghosh">S. K. Ghosh</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400 005, India.</affiliation>
+						<affiliation>Institute of Space and Astronautical Science, Kanagawa 229, Japan.</affiliation>
+						<email>swarna@tifr.res.in</email>
+					</author>
+					<author>
+						<name first="B." last="Mookerjea">B. Mookerjea</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400 005, India.</affiliation>
+						<affiliation>Joint Astronomy Programme, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T. N." last="Rengarajan">T. N. Rengarajan</name>
+						<affiliation>Department of Physics, Nagoya University, Nagoya 464-8602, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. N." last="Tandon">S. N. Tandon</name>
+						<affiliation>Inter-University Centre for Astronomy &mp; Astrophysics, Pune 411 007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. P." last="Verma">R. P. Verma</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400 005, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-04-07</date>
+					<date type="R"></date>
+					<date type="A">2001-05-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 24: HD 106104, 109281, 109463 and 110743</title>
+				<feature></feature>
+				<page>0187-0211</page>
+				<abstract>
+					<p>The four stars treated in this paper have been under observation with photoelectric radial-velocity spectrometers for many years. They have proved to be binaries with periods of 30, 1828, 1514 and 822 days respectively; the orbits are of modest eccentricity apart from that of HD 110743 which is indistinguishable from a circle. The mass functions are small, and no companion has been observed for any of the stars. HD 110743, a K dwarf, is much the nearest of the four, and its orbit is of short enough period for the photocentric motion to have been recognized by <i>Hipparcos</i>. An eleventh-magnitude star rather more than $1'$ away from HD 106104 is shown to be a genuine physical companion, with practically identical radial velocity, proper motion and distance modulus, although the projected separation is about 13,000 AU.</p>
+				</abstract>
+				<keywords>Radial velocities—spectroscopic binaries—orbits—stars, individual—HD 106104—HD 109281—HD 109463—HD 110743.</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge CB3 0HA, England</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-10-16</date>
+					<date type="R"></date>
+					<date type="A">2001-02-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Detection, Excision and Statistics of Interference at the Mauritius Radio Telescope</title>
+				<feature></feature>
+				<page>0213-0227</page>
+				<abstract>
+					<p>A technique to detect man-made interference in the visibility data of the Mauritius Radio Telescope (MRT) has been developed. This technique is based on the understanding that the interference is generally ‘spiky’ in nature and has Fourier components beyond the maximum frequency which can arise from the radio sky and can therefore be identified. We take the sum of magnitudes of visibilities on all the baselines measured at a given time to improve detectability. This is then high-pass filtered to get a time series from which the contribution of the sky is removed. Interference is detected in the high-pass data using an iterative scheme. In each iteration, interference with amplitudes beyond a certain threshold is detected. These points are then removed from the original time series and the resulting data are high-pass filtered and the process repeated. We have also studied the statistics of the strength, numbers, time of occurrence and duration of the interference at the MRT. The statistics indicate that most often the interference excision can be carried out while post-integrating the visibilities by giving a zero weight to the interference points.</p>
+				</abstract>
+				<keywords>Metre-wave radio telescope—Fourier synthesis—interference excision.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Sachdev">S. Sachdev</name>
+						<affiliation>Raman Research Institute, Sadashivanagar, Bangalore 560 080, India.</affiliation>
+						<affiliation>Department of Physics, University of Mauritius, Reduit, Mauritius.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N. Udaya" last="Shankar">N. Udaya Shankar</name>
+						<affiliation>Raman Research Institute, Sadashivanagar, Bangalore 560 080, India.</affiliation>
+						<affiliation>Department of Physics, University of Mauritius, Reduit, Mauritius.</affiliation>
+						<email>uday@rri.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-08-21</date>
+					<date type="R"></date>
+					<date type="A">2001-09-28</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2001">
+			<entry hassup="0">
+				<title>Variability of Extragalactic Objects in Relation to Redshift, Color, Radio Spectral Index and Absorption Lines</title>
+				<feature></feature>
+				<page>0263-0282</page>
+				<abstract>
+					<p>Optical variability of extragalactic objects, viz., QSOs, BL Lacs and Seyfert galaxies has been monitored systematically over an appreciable period of time and a large amount of data have accumulated. The present work reports results of investigations involving statistical analysis of updated data on relationships between variability and various observed properties of the objects, viz., redshift, color indices, radio spectral index and absorption lines. It is found that at high frequencies (rest frame) radio spectral index does not change significantly with the degree of variability. However, the degree of variability depends on redshifts. On the other hand, presence or absence of absorption lines is significantly associated with variability for QSOs with larger redshifts ($z \gt 1.0$), while no such relationship exists for QSOs at smaller redshifts ($z \lt 1.0$ or other objects. Correlation between color indices and redshifts depends on the degree of variability and the sample chosen for the color index.</p>
+				</abstract>
+				<keywords>Galaxies active: galaxies — quasars: general.</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Basu">D. Basu</name>
+						<affiliation>Department of Physics, Carleton University, Ottawa, ON K1S 5B6, Canada</affiliation>
+						<email>basu@physics.carleton.ca</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-11-13</date>
+					<date type="R"></date>
+					<date type="A">2001-12-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Soft X-ray Variability of the Bright Quasar 3C273</title>
+				<feature></feature>
+				<page>0283-0292</page>
+				<abstract>
+					<p>We present the results from ROSAT observations of 3C273 in the soft X-ray band. The light variation of 3C273 was investigated for three different energy bands of soft, medium, and hard. The maximum variability with a factor of 2 for 551 dayswas confirmed at all three different bands. This appears to be a periodic variation within the period of roughly 6 months. However, the short-term or micro variation was not so distinct and the light variation of each band did not show any correlation between them. The hardness ratio for hard and soft bands shows irregular variation but there was no correlation between them. There is no distinct variation of the photon index in the case of simple power law model fitting. For power law + free absorption model fitting, the average photon index $(\Gamma)$ is 2.08.</p>
+				</abstract>
+				<keywords>Galaxies: individual (3C273), quasar—X-rays: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Chulhee" last="Kim">Chulhee Kim</name>
+						<affiliation>Department of Earth Science Education, Chonbuk National University, Korea.</affiliation>
+						<email>chkim@astro.chonbuk.ac.kr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-07-20</date>
+					<date type="R"></date>
+					<date type="A">2001-11-02</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>HI Fluctuations at Large Redshifts: I–Visibility correlation</title>
+				<feature></feature>
+				<page>0293-0307</page>
+				<abstract>
+					<p>We investigate the possibility of probing the large scale structure in the universe at large redshifts by studying fluctuations in the redshifted 1420 MHz emission from the neutral hydrogen (HI) at early epochs. The neutral hydrogen content of the universe is knownfrom absorption studies for $z \lesssim 4.5$. The HI distribution is expected to be inhomogeneous in the gravitational instability picture and this inhomogeneity leads to anisotropy in the redshifted HI emission. The best hope of detecting this anisotropy is by using a large low-frequency interferometric instrument like the Giant Meter-Wave Radio Telescope (GMRT). We calculate the visibility correlation function $\langle V_{v}(\mathbf{U})V_{v'}(\mathbf{U})\rangle$ at two frequencies $v$ and $v'$ of the redshifted HI emission for an interferometric observation. In particular we give numerical results for the two GMRT channels centered around $v=325$ MHz and $v=610$ MHz from density inhomogeneity and peculiar velocity of the HI distribution. The visibility correlation is $\simeq 10^{-10}-10^{-9}$ Jy$^{2}$. We calculate the signal-to-noise for detecting the correlation signal in the presence of system noise and show that the GMRT might detect the signal for integration times $\simeq 100$ hrs. We argue that the measurement of visibility correlation allows optimal use of the uncorrelated nature of the system noise across baselines and frequency channels.</p>
+				</abstract>
+				<keywords>Cosmology: theory, observations, large scale structures — diffuse radiation.</keywords>
+				<authors>
+					<author>
+						<name first="Somnath" last="Bharadwaj">Somnath Bharadwaj</name>
+						<affiliation>Department of Physics and Meteorology &amp; Center for Theoretical Studies, I.I.T. Kharagpur, 721 302, India</affiliation>
+						<email>somnath@phy.iitkgp.ernet.in</email>
+					</author>
+					<author>
+						<name first="Shiv K." last="Sethi">Shiv K. Sethi</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Sadashivnagar, Bangalore 560 080, India</affiliation>
+						<affiliation>On leave from Harish-Chandra Research Institute, Chhatnag Road, Jhusi, Allahabad 211 019, India.</affiliation>
+						<email>sethi@rri.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-03-15</date>
+					<date type="R"></date>
+					<date type="A">2002-05-31</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Map for a Group of Resonant Cases in a Quartic Galactic Hamiltonian</title>
+				<feature></feature>
+				<page>0309-0319</page>
+				<abstract>
+					<p>We present a map for the study of resonant motion in a potential made up of two harmonic oscillators with quartic perturbing terms. This potential can be considered to describe motion in the central parts of non-rotating elliptical galaxies. The map is based on the averaged Hamiltonian. Adding on a semi-empirical basis suitable terms in the unperturbed averaged Hamiltonian, corresponding to the $1:1$ resonant case, we are able to construct a map describing motion in several resonant cases. The map is used in order to find the $x- p_{x}$ Poincare phase plane for each resonance. Comparing the results of the map, with those obtained by numerical integration of the equation of motion, we observe, that the map describes satisfactorily the broad features of orbits in all studied cases for regular motion. There are cases where the map describes satisfactorily the properties of the chaotic orbits as well.</p>
+				</abstract>
+				<keywords>Galaxies: elliptical-orbits-regular and chaotic motion—maps: averaged Hamiltonian—stability.</keywords>
+				<authors>
+					<author>
+						<name first="N. D." last="Caranicolas">N. D. Caranicolas</name>
+						<affiliation>Department of Physics, Section of Astrophysics, Astronomy and Mechanics, University of Thessaloniki, 540 06 Thessaloniki, Greece</affiliation>
+						<email>caranic@helios.astro.auth.</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-10-11</date>
+					<date type="R"></date>
+					<date type="A">2001-11-29</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Real-Time Signal Processor for Pulsar Studies</title>
+				<feature></feature>
+				<page>0321-0342</page>
+				<abstract>
+					<p>This paper describes the design, tests and preliminary results of a real-time parallel signal processor built to aid a wide variety of pulsar observations. The signal processor reduces the distortions caused by the effects of dispersion, Faraday rotation, doppler acceleration and parallactic angle variations, at a sustained data rate of 32 Msamples/sec. It also folds the pulses coherently over the period and integrates adjacent samples in time and frequency to enhance the signal-to-noise ratio. The resulting data are recorded for further off-line analysis of the characteristics of pulsars and the intervening medium. The signal processing for analysis of pulsar signals is quite complex, imposing the need for a high computational throughput, typically of the order of a Giga operations per second (GOPS). Conventionally, the high computational demand restricts the flexibility to handle only a few types of pulsar observations. This instrument is designed to handle a wide variety of Pulsar observations with the Giant Metre Wave Radio Telescope (GMRT), and is flexible enough to be used in many other high-speed, signal processing applications. The technology used includes field-programmable-gate-array(FPGA) based data/code routing interfaces, PC-AT based control, diagnostics and data acquisition, digital signal processor (DSP) chip based parallel processing nodes and C language based control software and DSP-assembly programs for signal processing. The architecture and the software implementation of the parallel processor are fine-tuned to realize about 60 MOPS per DSP node and a multiple-instruction-multiple-data (MIMD) capability.</p>
+				</abstract>
+				<keywords>Stars: neutron—pulsars; interstellar medium: dispersion—Faraday rotation; telescope: GMRT; instrumentation.</keywords>
+				<authors>
+					<author>
+						<name first="P. S." last="Ramkumar">P. S. Ramkumar</name>
+						<affiliation>Present address: Intel Technology India Pvt Ltd, No. 65, 13th cross, III phase, JP Nagar, Bangalore 560 078.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. A." last="Deshpande">A. A. Deshpande</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore 560 080, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-04-01</date>
+					<date type="R"></date>
+					<date type="A">2002-05-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0343-0344</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0345-0349</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+</journal>
