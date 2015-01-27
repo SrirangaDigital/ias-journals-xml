@@ -2011,7 +2011,7 @@
 				<feature>Modern Trends in Inorganic Chemistry</feature>
 				<page>0291-0309</page>
 				<abstract>
-					<p>The phenomenon of ‘non-innocence’, first articulated by Jørgensen in 1966, is briefly reviewed. Spectroelectrochemical studies of a range of dinuclear complexes of the type [$\{Mo(NO)Tp$^\ast$Cl$\}_2$(bridge)] (bridge = dipyridyls) and [$\{Mo(O)Tp$^\ast$Cl$\}_2$(bridge)] (bridge = diphenolates) which are redox active, show that oxidised or reduced forms of these species exhibit `non-innocence’. The spectral behaviour is associated with metal-to-ligand or ligand-to-metal charge transfer phenomena, probably the first time that monodentate bridging ligands have been implicated in `non-innocent’ behaviour. These bridging ligands also determine the nature and extent of magnetic interaction between the unpaired spins in [$\{Mo(NO)Tp$^\ast$Cl$\}_2$(bridge)] and [$\{$Mo(O)Tp$^\ast$Cl\}_2$(bridge)], the dominant mechanism of spin-exchange relying on the extent of $&eth;$-delocalisation within the bridging ligands. The unusual optical behaviour of these dinuclear complexes when oxidised (oxomolybdenum diphenolates) or reduced (nitrosyl molybdenum dipyridyls) has led to the exploration of electrochromism as a means to develop variable optical attenuators operating in the near-infrared region.</p> 
+					<p>The phenomenon of `non-innocence’, first articulated by Jørgensen in 1966, is briefly reviewed. Spectroelectrochemical studies of a range of dinuclear complexes of the type [$\{$Mo(NO)Tp$^\ast$Cl$\}_2$(bridge)] (bridge = dipyridyls) and [$\{$Mo(O)Tp$^\ast$Cl$\}_2$(bridge)] (bridge = diphenolates) which are redox active, show that oxidised or reduced forms of these species exhibit `non-innocence’. The spectral behaviour is associated with metal-to-ligand or ligand-to-metal charge transfer phenomena, probably the first time that monodentate bridging ligands have been implicated in `non-innocent’ behaviour. These bridging ligands also determine the nature and extent of magnetic interaction between the unpaired spins in [$\{Mo(NO)Tp$^\ast$Cl$\}_2$(bridge)] and [$\{$Mo(O)Tp$^\ast$Cl\}_2$(bridge)], the dominant mechanism of spin-exchange relying on the extent of $\eth$-delocalisation within the bridging ligands. The unusual optical behaviour of these dinuclear complexes when oxidised (oxomolybdenum diphenolates) or reduced (nitrosyl molybdenum dipyridyls) has led to the exploration of electrochromism as a means to develop variable optical attenuators operating in the near-infrared region.</p> 
 				</abstract>
 				<keywords>Molydenum; nitrosyl; non-innocence; spectroelectrochemistry; magnetic exchange; electrochromism.</keywords>
 				<allauthors>
@@ -4373,7 +4373,7 @@
 				</abstract>
 				<keywords>Unfolded proteins; NMR; high throughput procedures.</keywords>
 				<allauthors>
-					<author lname="Chatterjee" fname="Amarnath" isfellow="0">Chatterjee, Amarnath</author>
+					<author lname="Chatterjee" fname="Amarnath" isfellow="0">Chtterjee, Amarnath</author>
 					<author lname="Kumar" fname="Ashutosh" isfellow="0">Kumar, Ashutosh</author>
 					<author lname="Chugh" fname="Jeetender" isfellow="0">Chugh, Jeetender</author>
 					<author lname="Srivastava" fname="Sudha" isfellow="0">Srivastava, Sudha</author>
@@ -6492,36 +6492,44 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">%%%% prathibha
+			<entry hassup="0">
 				<title>A conceptual DFT approach towards analysing toxicity</title>
 				<feature>Special Issue on Chemical Reactivity</feature>
 				<page>0599-0612</page>
 				<abstract>
-					<p>The applicability of DFT-based descriptors for the development of toxicological structure–
-activity relationships is assessed. Emphasis in the present study is on the quality of DFT-based descriptors
-for the development of toxicological QSARs and, more specifically, on the potential of the electrophilicity
-concept in predicting toxicity of benzidine derivatives and the series of polyaromatic hydrocarbons
-(PAH) expressed in terms of their biological activity data (pIC50). First, two benzidine derivatives, which
-act as electron-donating agents in their interactions with biomolecules are considered. Overall toxicity in
-general and the most probable site of reactivity in particular are effectively described by the global and
-local electrophilicity parameters respectively. Interaction of two benzidine derivatives with nucleic acid
-(NA) bases/selected base pairs is determined using Parr’s charge transfer formula. The experimental biological
-activity data (pIC50) for the family of PAH, namely polychlorinated dibenzofurans (PCDF), polyhalogenated
-dibenzo-p-dioxins (PHDD) and polychlorinated biphenyls (PCB) are taken as dependent
-variables and the HF energy (E), along with DFT-based global and local descriptors, viz., electrophilicity
-index (w) and local electrophilic power (w+) respectively are taken as independent variables. Fairly good
-correlation is obtained showing the significance of the selected descriptors in the QSAR on toxins that act
-as electron acceptors in the presence of biomolecules. Effects of population analysis schemes in the calculation
-of Fukui functions as well as that of solvation are probed. Similarly, some electron-donor aliphatic
-amines are studied in the present work. We see that global and local electrophilicities along with
-the HF energy are adequate in explaining the toxicity of several substances</p>
+					<p>The applicability of DFT-based descriptors for the development of toxicological structure–activity relationships is assessed. Emphasis in the present study is on the quality of DFT-based descriptors for the development of toxicological QSARs and, more specifically, on the potential of the electrophilicity concept in predicting toxicity of benzidine derivatives and the series of polyaromatic hydrocarbons (PAH) expressed in terms of their biological activity data ($pIC_{50}$). First, two benzidine derivatives, which act as electron-donating agents in their interactions with biomolecules are considered. Overall toxicity in general and the most probable site of reactivity in particular are effectively described by the global and local electrophilicity parameters respectively. Interaction of two benzidine derivatives with nucleic acid (NA) bases/selected base pairs is determined using Parr’s charge transfer formula. The experimental biological activity data ($pIC_{50}$) for the family of PAH, namely polychlorinated dibenzofurans (PCDF), polyhalogenated dibenzo-$p$-dioxins (PHDD) and polychlorinated biphenyls (PCB) are taken as dependent variables and the HF energy ($E$), along with DFT-based global and local descriptors, viz., electrophilicity index ($\omega$) and local electrophilic power ($\omega^+$) respectively are taken as independent variables. Fairly good correlation is obtained showing the significance of the selected descriptors in the QSAR on toxins that act as electron acceptors in the presence of biomolecules. Effects of population analysis schemes in the calculation of Fukui functions as well as that of solvation are probed. Similarly, some electron-donor aliphatic amines are studied in the present work. We see that global and local electrophilicities along with the HF energy are adequate in explaining the toxicity of several substances</p> 
 				</abstract>
 				<keywords>Conceptual DFT approach; toxicity; structure–activity relationships; polyaromatic hydrocarbons.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="U." last="Sarkar">U. Sarkar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Kharagpur 721302, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="D. R." last="Roy">D. R. Roy</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Kharagpur 721302, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. K." last="Chattaraj">P. K. Chattaraj</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Kharagpur 721302, India</affiliation>
+						<email>pkc@chem.iitkgp.ernet.in</email>
+					</author>
+					<author>
+						<name first="R." last="Parthasarathi">R. Parthasarathi</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Padmanabhan">J. Padmanabhan</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Subramanian">V. Subramanian</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email>subuchem@hotmail.com</email>
 					</author>
 				</authors>
 				<dates>
@@ -6532,16 +6540,319 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Some late-term thoughts of a density-functional theorist</title>
 				<feature>Special Issue on Chemical Reactivity</feature>
+				<page>0613-0615</page>
+				<abstract>
+					<p>Fourteen problems are stated within the density-functional theory of molecular electronic structure. Their alleviation will bring the subject closer to maturity.</p>
+				</abstract>
+				<keywords>Density-functional theory; molecular electronic structure; quantum chemistry; molecular behavior.</keywords>
+				<authors>
+					<author>
+						<name first="Robert G." last="Parr">Robert G. Parr</name>
+						<affiliation>Department of Chemistry, University of North Carolina, Chapel Hill, North Carolina 27599, USA</affiliation>
+						<email>rgparr@email.unc.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="06" month="11" year="2005">
+			<entry hassup="0">
+				<title>Thiol peroxidase-like activity of some intramolecularly coordinated diorganyl diselenides</title>
+				<feature></feature>
+				<page>0621-0628</page>
+				<abstract>
+					<p>Several new diaryl diselenides having intramolecular coordinating groups have been synthesized by ortho-lithiation/Na$_2$Se$_2$ routes in good yield. Bis[2-(N-phenylferrocenecarboxamide)] diselenide ({\bf 10}), bis[2-(N-\textit{tert}-butylferrocenecarboxamide)] diselenide ({\bf 11}), ($S$)($S$)-bis[2(-$N$-phenethylferrocenecarboxamide)] diselenide ({\bf 12}) were synthesized by the ortho-lithiation route. Bis[2-(N,N-dimethylaminomethylnaphthyl)] diselenide ({\bf 13}) was synthesized by lithium/bromide exchange reaction whereas bis(2,4-dinitrophenyl) diselenide ({\bf 14}) was prepared by the reaction of disodium diselenide with 2,4- dinitro-1-chlorobenzene. Thiol peroxidase-like activities of the diorganodiselenides have been evaluated by using H$_2$O$_2$ as substrate and PhSH as cosubstrate. Diselenides ({\bf 13}) and ({\bf 14}) with dimethylaminomethyl- or nitro-donor groups in close proximity to selenium, show much better thiol peroxidase-like activities compared to diselenides {\bf 10–12} with amide donor groups. Cyclic voltammetry study of diselenides {\bf 10–12} derived from redox-active ferrocenamide has been carried out.</p>
+				</abstract>
+				<keywords>Selenium; diorganodiselenide; ferrocenamide; thiol peroxidase; antioxidant.</keywords>
+				<authors>
+					<author>
+						<name first="Sangit" last="Kumar">Sangit Kumar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Harkesh B." last="Singh">Harkesh B. Singh</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India</affiliation>
+						<email>chhbsia@chem.iitb.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-04-19</date>
+					<date type="R">2005-11-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and anion exchange reactions of a layered copper–zinc hydroxy double salt, Cu1×6Zn0×4(OH)3(OAc)×H2O</title>
+				<feature></feature>
+				<page>0629-0633</page>
+				<abstract>
+					<p>A mixed-metal hydroxysalt of formula Cu$_{1 \cdot 6}$Zn$_{0 \cdot 4}$(OH)$_3$(OAc)$\cdot$H$_2$O has been synthesized by an acetate hydrolysis route. Acetate ions can be exchanged with simple inorganic anions such as chloride and nitrate, and organic anions such as benzoate and large surfactant anions such as dodecyl sulphate. Structures of these hydroxysalts are derived from that of Cu$_2$(OH)$_3$NO$_{3}\cdot$H$_2$O with some of the Cu$^{2+}$ ions being replaced by Zn$^{2+}$.</p>
+				</abstract>
+				<keywords>Copper–zinc hydroxides; Cu–Zn hydroxysalts; anion exchange.</keywords>
+				<authors>
+					<author>
+						<name first="Jacqueline Therese" last="Rajamathi">Jacqueline Therese Rajamathi</name>
+						<affiliation>Department of Chemistry, St. Joseph’s College, Lalbagh Road, Bangalore 560 027, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sylvia" last="Britto">Sylvia Britto</name>
+						<affiliation>Department of Chemistry, St. Joseph’s College, Lalbagh Road, Bangalore 560 027, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Michael" last="Rajamathi">Michael Rajamathi</name>
+						<affiliation>Department of Chemistry, St. Joseph’s College, Lalbagh Road, Bangalore 560 027, India</affiliation>
+						<email>mikerajamathi@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-11-16</date>
+					<date type="R">2005-03-07</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Highly active and reusable catalyst from Fe-Mg-hydrotalcite anionic clay for Friedel–Crafts type benzylation reactions</title>
+				<feature></feature>
 				<page>00-00</page>
+				<abstract>
+					<p>Fe-Mg-hydrotalcite (Mg/Fe = 3) anionic clay with or without calcination (at 200–800$^\circ$C) has been used for the benzylation of toluene and other aromatic compounds by benzyl chloride. Hydrotalcite before and after its calcination was characterized for surface area, crystalline phases and basicity. Both the hydrotalcite, particularly after its use in the benzylation reaction, and the catalyst derived from it by its calcination at 200–800$^\circ$C show high catalytic activity for the benzylation of toluene and other aromatic compounds. The catalytically active species present in the catalyst in its most active form are the chlorides and oxides of iron on the catalyst surface.</p>
+				</abstract>
+				<keywords>Fe-Mg-hydrotalcite; activation by calcinations; benzylation of toluene; benzylation of aromatic compounds.</keywords>
+				<authors>
+					<author>
+						<name first="Vasant R." last="Choudhary">Vasant R. Choudhary</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008, India</affiliation>
+						<email>vrc@chem.ncl.res.in</email>
+						<email>vrc@ems.ncl.res.in</email>
+					</author>
+					<author>
+						<name first="Rani" last="Jha">Rani Jha</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pankaj A." last="Choudhari">Pankaj A. Choudhari</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-04-11</date>
+					<date type="R">2005-08-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fluorescence spectroscopic studies on binding of a flavonoid antioxidant quercetin to serum albumins</title>
+				<feature></feature>
+				<page>0641-0647</page>
+				<abstract>
+					<p>Binding of quercetin to human serum albumin (HSA) was studied and the binding constant measured by following the red-shifted absorption spectrum of quercetin in the presence of HSA and the quenching of the intrinsic protein fluorescence in the presence of different concentrations of quercetin. Fluorescence lifetime measurements of HSA showed decrease in the average lifetimes indicating binding at a location, near the tryptophan moiety, and the possibility of fluorescence energy transfer between excited tryptophan and quercetin. Critical transfer distance ($R_o$) was determined, from which the mean distance between tryptophan-214 in HSA and quercetin was calculated. The above studies were also carried out with bovine serum albumin (BSA).</p>
+				</abstract>
+				<keywords>Human serum albumin; bovine serum albumin; quercetin; energy transfer; binding constant.</keywords>
+				<authors>
+					<author>
+						<name first="Beena" last="Mishra">Beena Mishra</name>
+						<affiliation>Radiation Chemistry &amp; Chemical Dynamics Division, Bhabha Atomic Research Centre, Trombay, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Atanu" last="Barik">Atanu Barik</name>
+						<affiliation>Radiation Chemistry &amp; Chemical Dynamics Division, Bhabha Atomic Research Centre, Trombay, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. Indira" last="Priyadarsini">K. Indira Priyadarsini</name>
+						<affiliation>Radiation Chemistry &amp; Chemical Dynamics Division, Bhabha Atomic Research Centre, Trombay, Mumbai 400 085, India</affiliation>
+						<email>kindira@apsara.barc.ernet.in</email>
+					</author>
+					<author>
+						<name first="Hari" last="Mohan">Hari Mohan</name>
+						<affiliation>Radiation Chemistry &amp; Chemical Dynamics Division, Bhabha Atomic Research Centre, Trombay, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-12-03</date>
+					<date type="R">2005-03-24</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mechanism of interaction of vincristine sulphate and rifampicin with bovine serum albumin: A spectroscopic study</title>
+				<feature></feature>
+				<page>0649-0655</page>
+				<abstract>
+					<p>The mechanism of interaction of vincristine sulphate (VS) and rifampicin (RF) with bovine serum albumin (BSA) has been studied by quenching of BSA fluorescence by RF/VS. The Stern–Volmer plot indicates the presence of a static component in the quenching mechanism. Results also show that both the tryptophan residues of BSA are accessible to VS and RF. The high magnitude of rate constant of quenching indicates that the process of energy transfer occurs by intermolecular interaction and VS/RFbinding site is in close proximity to the tryptophan residues of BSA. Binding studies in the presence of a hydrophobic probe, 8-anilino-1-naphthalene-sulphonic acid sodium salt (ANS) indicate that the VS and RF compete with ANS for hydrophobic sites on the surface of BSA. Small decreases in critical micellar concentrations (CMC) of anionic surfactants in presence of VS/ RF show that the ionic character of VS/RF also contributes to binding. The temperature dependence of the association constant is used to estimate the values of the thermodynamic parameters involved in the interaction of VS/RF with BSA and the results indicate that hydrophobic forces play a significant role in the binding. Circular dichroism studies reveal that the change in helicity of BSA are due to binding of VS/RF to BSA.</p>
+				</abstract>
+				<keywords>Vincristine sulphate; rifampicin; fluorescence quenching mechanism.</keywords>
+				<authors>
+					<author>
+						<name first="Bhalchandra P." last="Kamat">Bhalchandra P. Kamat</name>
+						<affiliation>Department of Chemistry, Karnatak University, Dharwad 580 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jaldappa" last="Seetharamappa">Jaldappa Seetharamappa</name>
+						<affiliation>Department of Chemistry, Karnatak University, Dharwad 580 003, India</affiliation>
+						<email>jseetharam@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-08-18</date>
+					<date type="R">2005-08-21</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Influence of charged microenvironment on redox potential and diffusion coefficient of [Fe$_4$S$_4$(SPh)$_4$](NBu$_4$)$_2$ in DMF and inside CTAB film on electrode surface</title>
+				<feature></feature>
+				<page>0657-0661</page>
+				<abstract>
+					<p>Redox potential of [Fe$_4$S$_4$(SPh)$_4$]$^{2_–/3_–}$, a model of the active centre of ferredoxin, in DMF solution shows a 90-mV positive shift, when the charged microenvironment provided by the surfactant is changed from negative to positive. Inside the positive surfactant film on GC electrode there is a 235-mV positive shift in redox potential compared to that in neutral DMF solution. Diffusion coefficient of the reduced cluster onto the electrode surface is also found to be 10$^2$ times greater in the presence of negative surfactant compared to that in positive surfactant.</p>
+				</abstract>
+				<keywords>Ferredoxin; chronocoulometry; diffusion coefficient; redox potential; surfactant films.</keywords>
+				<authors>
+					<author>
+						<name first="Raben Ch" last="Roy">Raben Ch Roy</name>
+						<affiliation>Department of Chemistry, Gauhati University, Guwahati 781 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Diganta Kumar" last="Das">Diganta Kumar Das</name>
+						<affiliation>Department of Chemistry, Gauhati University, Guwahati 781 014, India</affiliation>
+						<email>digkdas@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-03-16</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Adsorption studies of iron(III) on chitin</title>
+				<feature></feature>
+				<page>0663-0672</page>
+				<abstract>
+					<p>Adsorption of ferric ions by chitin was studied by the batch equilibration method. The influence of particle size and dosage of the adsorbant, contact time, initial concentration of the adsorbate and temperature were experimentally verified. The effect of anions like chloride, nitrate and sulphate and also of cations like zinc, chromium and copper on the adsorption of iron(III) was determined. The time dependence of fraction of adsorption, $Y_t$, at varying particle sizes and doses of chitin and the intraparticle diffusion rate constants, $k_p$, of the adsorption process were calculated. Thermodynamic and equilibrium parameters of the reaction were determined to understand the sorption behaviour of chitin. The results revealed that the adsorption of iron(III) by chitin is spontaneous, endothermic and favourable.</p> 
+				</abstract>
+				<keywords>Adsorption; chitin; variable parameters; fraction of adsorption; temperature effect.</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Karthikeyan">G. Karthikeyan</name>
+						<affiliation>Department of Chemistry, Gandhigram Rural Institute – Deemed University, Gandhigram 624 302, India</affiliation>
+						<email>drg_karthikeyan@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="N. Muthulakshmi" last="Andal">N. Muthulakshmi Andal</name>
+						<affiliation>Department of Chemistry, Gandhigram Rural Institute – Deemed University, Gandhigram 624 302, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Anbalagan">K. Anbalagan</name>
+						<affiliation>Department of Chemistry, Gandhigram Rural Institute – Deemed University, Gandhigram 624 302, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-12-18</date>
+					<date type="R">2005-06-04</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dielectric studies of binary mixtures of $n$-propyl alcohol and ethylenediamine</title>
+				<feature></feature>
+				<page>0673-0676</page>
+				<abstract>
+					<p>Dielectric constant ($\varepsilon'$) and dielectric loss ($\varepsilon"$) of $n$-propyl alcohol (PA), ethylenediamine (EDA) and their binary mixtures, for different mole fractions of ethylenediamine have been experimentally measured at $11\cdot 15$ GHz microwave frequency. Values of density ($\rho$), viscosity ($\eta$) and square refractive index ($n^2_D$) of binary mixtures as well as those of pure liquids are reported. Excess square refractive index, viscosity and activation energy of viscous flow have also been estimated. These parameters have been used to explain the formation of complexes in the system.</p>
+				</abstract>
+				<keywords>Molecular interaction; binary mixture; dielectric parameters.</keywords>
+				<authors>
+					<author>
+						<name first="B. S." last="Narwade">B. S. Narwade</name>
+						<affiliation>Department of Physics, Science College, Nanded 431605, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. G." last="Gawali">P. G. Gawali</name>
+						<affiliation>Department of Physics, Science College, Nanded 431605, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rekha" last="Pande">Rekha Pande</name>
+						<affiliation>Department of Physics, Science College, Nanded 431605, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. M." last="Kalamse">G. M. Kalamse</name>
+						<affiliation>Department of Physics, Science College, Nanded 431605, India</affiliation>
+						<email>kalamse_gm123@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-03-05</date>
+					<date type="R">2004-09-08</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Modified Pippard relationship describing the Raman frequency shifts of the rotatory lattice mode of ammonia solid II in the vicinity of its melting point</title>
+				<feature></feature>
+				<page>0677-0683</page>
+				<abstract>
+					<p>We relate in this study the thermal expansivity, $\alpha_P$, to the Raman frequency shift ($1/v$)($\partial v/\partial P$)$_T$ for the rotatory lattice (librational) mode in ammonia solid II near its melting point. We have used our calculated Raman frequencies of this mode for pressures of $3 \cdot 65$, $5 \cdot 02$ and $6 \cdot 57$ kbars for this crystalline system. The values of the slope, d$P_m$/dT, which we deduced from our spectroscopic relation, are compared with those obtained experimentally. In particular, our computed slope value for the pressure of $5 \cdot 02$ kbar is in very good agreement with the empirical result.</p>
+				</abstract>
+				<keywords>Thermal expansivity; librational mode; Raman frequency.</keywords>
+				<authors>
+					<author>
+						<name first="H." last="Karacali">H. Karacali</name>
+						<affiliation>Department of Physics, Middle East Technical University, 06531 Ankara, Turkey</affiliation>
+						<email>karacali@newton.physics.metu.edu.tr</email>
+					</author>
+					<author>
+						<name first="H." last="Yurtseven">H. Yurtseven</name>
+						<affiliation>Department of Physics, Middle East Technical University, 06531 Ankara, Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-09-30</date>
+					<date type="R">2005-07-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Some late-term thoughts of a density-functional theorist</title>
+				<feature>Erratum</feature>
+				<page>0685-0685</page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
+						<name first="Robert G." last="Parr">Robert G. Parr</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -6554,16 +6865,51 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Special Issue on Chemical Reactivity</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0687-0697</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0698-0702</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="118">
+		<issue inum="01" month="01" year="2006">
+			<entry hassup="0">
+				<title>Foreword &#8212; Recent Development in Metal Oxides and Related Materials</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0001-0001</page>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
+						<name first="S." last="Natarajan">S. Natarajan</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T. N. Guru" last="row">T. N. Guru row</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -6576,17 +6922,61 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Special Issue on Chemical Reactivity</feature>
-				<page>00-00</page>
+				<title>Improved synthesis of carbon nanotubes with junctions and of single-walled carbon nanotubes</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0009-0014</page>
 				<abstract>
-					<p></p>
+					<p>Pyrolysis of thiophene over nickel nanoparticles dispersed on silica is shown to yield Yjunction carbon nanotubes with smaller diameters than those obtained by the pyrolysis of organometallicthiophene mixtures. In the presence of water vapour, the pyrolysis of organometallic-hydrocarbon mixtures yields single-walled nanotubes, as well as relatively narrow-diameter carbon nanotubes with Y-junctions. Pyrolysis of organometallic-hydrocarbon mixtures, in the absence of water vapour, only gives nanotubes with T- and Y-junctions.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Carbon nanotubes; T- &amp; Y-junctions of nanotubes; single-walled carbon nanotubes.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="F. L." last="Deepak">F. L. Deepak</name>
+						<affiliation>Chemistry and Physics of Materials Unit and DST Unit on Nanosciences, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur PO, Bangalore 560 064</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Govindaraj">A. Govindaraj</name>
+						<affiliation>Chemistry and Physics of Materials Unit and DST Unit on Nanosciences, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur PO, Bangalore 560 064</affiliation>	
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. N. R." last="Rao">C. N. R. Rao</name>
+						<affiliation>Chemistry and Physics of Materials Unit and DST Unit on Nanosciences, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur PO, Bangalore 560 064</affiliation>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>cnrrao@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Influence of fuel ratios on auto combustion synthesis of barium ferrite nano particles</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0015-0021</page>
+				<abstract>
+					<p>Single-domain barium ferrite nano particles have been synthesized with narrow particle-size distribution using an auto combustion technique. In this process, citric acid was used as a fuel. Ratios of cation to fuel were maintained variously at 1 : 1, 1 : 2 and 1 : 3. The pH was 7 in all cases. Of all three cases, a cation to citric acid ratio of 1 : 2 gives better yield in the formation of crystalline and single domain particles with a narrow range of size distribution. Most particles are in the range of 80 to 100 nm. Maximum magnetization and coercivity values are also greater for 1 : 2 ratios. These values measured at room temperature are found to be 55 emu/gram and 5000 Oe respectively. XPS and ESR studies support the results.</p>
+				</abstract>
+				<keywords>Nano particle synthesis; autocombustion; fuel ratios; barium ferrite.</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Bahadur">D. Bahadur</name>
+						<affiliation>Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology, Mumbai 400 076</affiliation>
+						<email>dhirenb@iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="S." last="Rajakumar">S. Rajakumar</name>
+						<affiliation>Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology, Mumbai 400 076</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ankit" last="Kumar">Ankit Kumar</name>
+						<affiliation>Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology, Mumbai 400 076</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -6597,8 +6987,1398 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 					<date type="E"></date>
 				</dates>
 			</entry>
+			<entry hassup="0">
+				<title>Fluorescence resonance energy transfer (FRET) in chemistry and biology: Non-Förster distance dependence of the FRET rate</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0023-0035</page>
+				<abstract>
+					<p>Fluorescence resonance energy transfer (FRET) is a popular tool to study equilibrium and dynamical properties of polymers and biopolymers in condensed phases and is now widely used in conjunction with single molecule spectroscopy. In the data analysis, one usually employs the Förster expression which predicts ($1/R^6$) distance dependence of the energy transfer rate. However, critical analysis shows that this expression can be of rather limited validity in many cases. We demonstrate this by explicitly considering a donor–acceptor system, polyfluorene (PF$_6$)-tetraphenylporphyrin (TPP), where the size of both donor and acceptor is comparable to the distance separating them. In such cases, one may expect much weaker distance (as $1/R^2$ or even weaker) dependence. We have also considered the case of energy transfer from a dye to a nanoparticle. Here we find $1/R^4$ distance dependence at large separations, completely different from Förster. We also discuss recent application of FRET to study polymer conformational dynamics.</p> 
+				</abstract>
+				<keywords>Fluorescence resonance energy transfer (FRET); non-Förster regime; single molecule spectroscopy; donor–acceptor system.</keywords>
+				<authors>
+					<author>
+						<name first="Sangeeta" last="Saini">Sangeeta Saini</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Harjinder" last="Singh">Harjinder Singh</name>
+						<affiliation>Department of Chemistry, Panjab University, Chandigarh 160 014</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biman" last="Bagchi">Biman Bagchi</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>bbagchi@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0037-0042</page>
+				<abstract>
+					<p>Using molten salt route (with NaCl/KCl as the salt) we have been able to synthesize a new form of magnesium tantalate at 850$^\circ$C. Powder X-ray diffraction data could be indexed on an orthorhombic unit cell with lattice parameters, `$a$' = 15$\cdot$36(1) Å, ‘$b$’ = $13\dot 38$(1) Å and ‘$c$’ = $12\cdot 10$(1) Å. High resolution transmission electron microscopy and electron diffraction studies confirm the results obtained by X-ray studies. Energy dispersive X-ray spectroscopy helps ascertain the composition of MgTa$_2$O$_6$. The title compound shows a dielectric constant of $\tilde 24$ with a low dielectric loss of $0 \cdot 006$ at 100 kHz at room temperature. Dielectric constant is nearly unchanged with rise in temperature while the loss shows a very marginal increase ($0 \cdot 007$ at 300$^\circ$C).</p>
+				</abstract>
+				<keywords>MgTa2O6; molten salt method; high resolution transmission electron microscopy; dielectric properties.</keywords>
+				<authors>
+					<author>
+						<name first="Ashok K." last="Ganguli">Ashok K. Ganguli</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, New Delhi 110 016</affiliation>
+						<email>ashok@chemistry.iitd.ernet.in</email>
+					</author>
+					<author>
+						<name first="Shikha" last="Nangia">Shikha Nangia</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, New Delhi 110 016</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Meganathan" last="Thirumala">A. Meganathan Thirumala</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, New Delhi 110 016</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pratibha L." last="Gai">Pratibha L. Gai</name>
+						<affiliation>DuPont, Central Research and Development, Wilmington, DE 19880-0356 and University of Delaware, Newark, Delaware, 19716, USA</affiliation>
+						<email>ashok@chemistry.iitd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Crystal structure and ionic conductivity of a new bismuth tungstate, Bi3W2O10×5</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0043-0046</page>
+				<abstract>
+					<p>The compound Bi$_3$W$_2$O$_{10 \cdot 5}$ was synthesized by the solid-state technique from Bi$_2$O$_3$ and WO$_3$ in stoichiometric quantities. Single crystals were grown by the melt-cooling technique and the crystal structure was solved in the tetragonal $I4/m$ space group with $a = 3 \cdot 839$ (1) Å, $c = 16 \cdot 382$ (5) Å, $V = 241 \cdot 4$ (1) Å$^3$, $Z = 4$ and was refined to an $R$ index of $0 \cdot 0672$. The structure represents a modification of the Aurivillius phase and consists of [$Bi_2O_2$]$^{2+}$ units separated by WO$_8$ polyhedra. a.c. impedance studies indicate oxide ion conductivity of 2$\cdot$91 10$^{–5}$ Scm$^{–1}$ at 600$^\circ$C.</p>
+				</abstract>
+				<keywords>Bismuth tungstate; single crystal X-ray diffraction; a.c. impedance; oxide ion conductivity.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Muktha">B. Muktha</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>ssctng@sscu.iisc.ernet.in</email>%%%%%%%%%%%%%% prathibha
+					</author>
+					<author>
+						<name first="T. N. Guru" last="Row">T. N. Guru Row</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>ssctng@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Design and fabrication of an automated temperature programmed reaction system to evaluate 3-way catalysts Ce1–x–y(La/Y)xPtyO2–d</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0047-0055</page>
+				<abstract>
+					<p>A completely automated temperature-programmed reaction (TPR) system for carrying out gas–solid catalytic reactions under atmospheric flow conditions is fabricated to study CO and hydrocarbon oxidation, and NO reduction. The system consists of an all-stainless steel UHV system, quadrupole mass spectrometer SX200 (VG Scientific), a tubular furnace and micro-reactor, a temperature controller, a versatile gas handling system, and a data acquisition and analysis system. The performance of the system has been tested under standard experimental conditions for CO oxidation over well-characterized Ce$_{1–x–y}$Pt$_x$(La/Y)$_y$O$_{2–\delta}$ catalysts. Testing of 3-way catalysis with CO, NO and C$_2$H$_2$ to convert to CO$_2$, N$_2$ and H$_2$O is done with this catalyst which shows complete removal of pollutants below 325$^\circ$C. Fixed oxide-ion defects in Pt substituted Ce$_{1–y}$(La/Y)$_y$O$_{2–y/2}$ show higher catalytic activity than Pt ion-substituted CeO$_2$.</p> 
+				</abstract>
+				<keywords>Automatic TPR; ceria, three way catalysis.</keywords>
+				<authors>
+					<author>
+						<name first="Arup" last="Gayen">Arup Gayen</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tinku" last="Baidya">Tinku Baidya</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. S." last="Ramesh">G. S. Ramesh</name>
+						<affiliation>Techno Science Instruments, Bangalore 560 021</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Sriharia">R. Sriharia</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. S." last="Hegde">M. S. Hegde</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>mshegde@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, structure and magnetic properties of the polyoxovanadate cluster [Zn$_2$(NH$_2$(CH$_2$)2NH$_2$)$_5$][$\{$Zn(NH$_2$(CH$_2$)$_2$NH$_2$)$_2$$\}_2$$\{$V$_{18}$O$_{42}$(H$_2$O)$\}$]$\cdot x$H$_2$O ($x \tilde 12$), possessing a layered structure</title> 
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0057-0065</page>
+				<abstract>
+					<p>A hydrothermal reaction of a mixture of ZnCl$_2$, V$_2$O$_5$, ethylenediamine and water gave rise to a layered poly oxovanadate material [Zn$_2$(NH$_2$(CH$_2$)$_2$NH$_2$)$_5$][$\{$Zn(NH$_2$(CH$_2$)$_2$NH$_2$)$_2 \}_2$$\{$V$_{18}$O$_{42}$(H$_2$O)$\}$]$\cdot x$H$_2$O ($x \cdot 12$) ({\bf I}) consisting of [V$_{18}$O$_{42}$]$^{12–}$ clusters. These clusters, with all the vanadium ions in the $+4$ state, are connected together through Zn(NH$_2$(CH$_2$)$_2$NH$_2$)$_2$ linkers forming a two-dimensional structure. The layers are also separated by distorted trigonal bipyramidal [Zn$_2$(NH$_2$(CH$_2$)$_2$NH$_2$)$_5$] complexes. The structure, thus, presents a dual role for the Zn-ethylenediamine complex. The magnetic susceptibility studies indicate that the interactions between the V centres in {\bf I} are predominantly antiferromagnetic in nature and the compound shows highly frustrated behaviour. The magnetic properties are compared to the theoretical calculations based on the Heisenberg model, in addition to correlating to the structure. Crystal data for the complexes are presented.</p>
+				</abstract>
+				<keywords>Polyoxovanadate clusters; layerd structure; Zn-ethylenediamine complex; frustrated behaviour.</keywords>
+				<authors>
+					<author>
+						<name first="Srinivasan" last="Natarajan">Srinivasan Natarajan</name>
+						<affiliation>Framework Solids Laboratory, Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>snatarajan@sscu.iisc.ernet.in</email>
+					</author>
+					<author>
+						<name first="K. S." last="Narayan">K. S. Narayan</name>
+						<affiliation>Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur PO, Bangalore 560 064</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Swapan K." last="Pati">Swapan K. Pati</name>
+						<affiliation>Theoretical Sciences Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur PO, Bangalore 560 064</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A density matrix renormalization group study of low-lying excitations of polythiophene within a Pariser–Parr–Pople model</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0067-0078</page>
+				<abstract>
+					<p>Symmetrized density-matrix-renormalization-group calculations have been carried out, within Pariser–Parr–Pople Hamiltonian, to explore the nature of the ground and low-lying excited states of long polythiophene oligomers. We have exploited $C_2$ symmetry and spin parity of the system to obtain excited states of experimental interest, and studied the lowest dipole allowed excited state and lowest dipole forbidden two photon state, for different oligomer sizes. In the long system limit, the dipole allowed excited state always lies below the lowest dipole forbidden two-photon state which implies, by Kasha rule, that polythiophene fluoresces strongly. The lowest triplet state lies below two-photon state as usual in conjugated polymers. We have doped the system with a hole and an electron and obtained the charge excitation gap and the binding energy of the $1^1 B_u^–$ exciton. We have calculated the charge density of the ground, one-photon and two-photon states for the longer system size of 10 thiophene rings to characterize these states. We have studied bond order in these states to get an idea about the equilibrium excited state geometry of the system. We have also studied the charge density distribution of the singly and doubly doped polarons for longer system size, and observe that polythiophenes do not support bipolarons.</p> 
+				</abstract>
+				<keywords>DMRG technique; PPP Hamiltonian; low-lying excited states; fluorescence; Kasha rule.</keywords>
+				<authors>
+					<author>
+						<name first="Mosumi" last="Das">Mosumi Das</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Ramasesha">S. Ramasesha</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>ramasesh@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Formation of high nuclearity mixed-valent polyoxovanadates in the presence of copper amine complexes</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0079-0086</page>
+				<abstract>
+					<p>Two new Müller-type clusters, a one-dimensional solid $\{$Cu($en$)$_2\}_4$[Cl $\subset$ V$_{15}$O$_{36}$]$\cdot$12H$_2$O {\bf 1}, and a three-dimensional solid $\{$Cu($pn$)$_2 \}_4$[Cl $\subset$ V$_{18}$O$_{42}$]$\cdot$12H$_2$O {\bf 2}, have been synthesised by employing identical hydrothermal conditions except varying the nature of organic diamine. {\bf 1} crystallised in a chiral space group $P2_12_12_1$ with $a = 12 \cdot 757$(1), $b = 18 \cdot 927$(2) and $c = 28 \cdot 590$(3) Å, and $Z = 4$. {\bf 2} crystallised in a tetragonal system with space group $P4/nnc$, $a = 15 \cdot 113$(1) and $c = 18 \cdot 542$(3) Å, and $Z = 2$. Mixed-valent vanadium ions in structures {\bf 1} and {\bf 2} have been established both by magnetisation and bond-length bondvalence measurements. Chemistry of formation of high nuclearity polyoxovanadate clusters is discussed.</p> 
+				</abstract>
+				<keywords>Müller-type clusters; polyoxovanadate; copper amine complex; magnetism, hydrothermal conditions.</keywords>
+				<authors>
+					<author>
+						<name first="Jency" last="Thomas">Jency Thomas</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Delhi, New Delhi 110 016</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sanjeev" last="Sharma">Sanjeev Sharma</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Delhi, New Delhi 110 016</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. E." last="Lofland">S. E. Lofland</name>
+						<affiliation>Department of Chemistry and Physics, Center for Materials Research and Education, Rowan University, 201 Mullica Hill Road, Glassboro, NJ 08028, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. V." last="Ramanujachary">K. V. Ramanujachary</name>
+						<affiliation>Department of Chemistry and Physics, Center for Materials Research and Education, Rowan University, 201 Mullica Hill Road, Glassboro, NJ 08028, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Ramanana">A. Ramanana</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Delhi, New Delhi 110 016</affiliation>
+						<email>aramanan@chemistry.iitd.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A microspectroscopic study of the electronic homogeneity of ordered and disordered Sr$_2$FeMoO$_6$</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0087-0092</page>
+				<abstract>
+					<p>Disordered Sr$_2$FeMoO$_6$ shows a drastic reduction in saturation magnetization compared to highly ordered samples, moreover magnetization as a function of the temperature for different disordered samples shows qualitatively different behaviours. We investigate the origin of such diversity by performing spatially resolved photoemission spectroscopy on various disordered samples. Our results establish that extensive electronic inhomogeneity, arising most probably from an underlying chemical inhomogeneity in disordered samples, is responsible for the observed magnetic inhomogeneity. It is further pointed out that these inhomogeneities are connected with composition fluctuations of the type Sr$_2$Fe$_{1+x}$Mo$_{1–x}$O$_6$ with Fe-rich ($x$ &gt; 0) and Mo-rich ($x$ &lt; 0) regions.</p>
+				</abstract>
+				<keywords>Double-perovskite structure; disordered Sr$_2$FeMoO$_6$; chemical/electronic inhomogeneity; phase separation; spectromicroscopy; spatially resolved photoemission spectroscopy.</keywords>
+				<authors>
+					<author>
+						<name first="Dinesh" last="Topwal">Dinesh Topwal</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="U." last="Manju">U. Manju</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sugata" last="Ray">Sugata Ray</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<affiliation>Materials and Structures Laboratory, Tokyo Institute of Technology, 4259 Nagatsuta, Midori-ku, Yokohama 226-8503, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Raj">S. Raj</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<affiliation>Department of Physics, Tohoku University, Sendai 9808578, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. D." last="Sarma">D. D. Sarma</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>sarma@sscu.iisc.ernet.in</email>
+					</author>
+					<author>
+						<name first="S. R." last="Krishnakumar">S. R. Krishnakumar</name>
+						<affiliation>International Centre for Theoretical Physics (ICTP), Strada Costiera 11, 34100 Trieste, Italy</affiliation>
+						<affiliation>Saha Institute of Nuclear Physics, Kolkata 700 064</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Bertolo">M. Bertolo</name>
+						<affiliation>Sincrotrone Trieste S.C.p.A., s.s. 14 km 163, 5 Area Science Park, 34012 Trieste, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. La" last="Rosa">S. La Rosa</name>
+						<affiliation>Sincrotrone Trieste S.C.p.A., s.s. 14 km 163, 5 Area Science Park, 34012 Trieste, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Cautero">G. Cautero</name>
+						<affiliation>Sincrotrone Trieste S.C.p.A., s.s. 14 km 163, 5 Area Science Park, 34012 Trieste, Italy</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A low-cost lead-acid battery with high specific-energy</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0093-0098</page>
+				<abstract>
+					<p>Lightweight grids for lead-acid battery grids have been prepared from acrylonitrile butadiene styrene (ABS) copolymer followed by coating with lead. Subsequently, the grids have been electrochemically coated with a conductive and corrosion-resistant layer of polyaniline. These grids are about 75&#37; lighter than those employed in conventional lead-acid batteries. Commercial-grade 6V/3$\cdot$5Ah (C$_{20}$-rate) lead-acid batteries have been assembled and characterized employing positive and negative plates constituting these grids. The specific energy of such a lead-acid battery is about 50 Wh/kg. The batteries can withstand fast charge–discharge duty cycles.</p>
+				</abstract>
+				<keywords>Lead-acid battery; specific energy; polyaniline; corrosion.</keywords>
+				<authors>
+					<author>
+						<name first="S. K." last="Martha">S. K. Martha</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Hariprakash">B. Hariprakash</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. A." last="Gaffoor">S. A. Gaffoor</name>
+						<affiliation>NED Energy Ltd, 6-3-1109/1 Navbharat Chambers, Raj Bhavan Road, Hyderabad 560 082</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. C." last="Trivedi">D. C. Trivedi</name>
+						<affiliation>Central Electrochemical Research Institute, Karaikudi 630 006</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Shukla">A. K. Shukla</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<affiliation>Central Electrochemical Research Institute, Karaikudi 630 006</affiliation>
+						<email>shukla@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structural, magnetic and magnetotransport properties of La$_{0 \cdot 7–x}$Ce$_x$Ba$_{0 \cdot 3}$MnO$_3$ ($x = 0 \cdot 0–0 \cdot 4$)</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0099-0103</page>
+				<abstract>
+					<p>Structural, magnetic and magnetotransport properties of La$_{0 \cdot 7 –x}$Ce$_x$Ba$_{0 \cdot 3}$MnO$_3$ ($x = 0–0 \cdot 4$) have been investigated although some unreacted secondary phases of CeO$_2$ were present. The rhombohedral structure ($R-3c$) for $x = 0$ transforms to orthorhombic with the space group \textit{Imma} for $x = 0 \cdot 3$. All samples showed ferromagnetic transition above 300 K and a negative magnetoresistance. For $x$ &gt; $0 \cdot 1$, magnetization data measured at 1 T showed a decrease at low temperatures ($T$ &lt; 50 K) due to antiferromagnetic coupling between Ce-local moments and Mn-moments. For $x = 0 \cdot 4$, the resistivity showed a maximum around 200 K which corresponds to ordering temperature of cerium. Since these results are similar to that observed in the Sr-containing La$_{0 \cdot 5–x}$Ce$_x$Sr$_{0 \cdot 5$MnO$_{3}$ ($x = 0–0 \cdot 4$) system, we suggest that the cerium ions are in the trivalent state and the anomalous behaviour has been attributed to a Kondo-like effect.</p>
+				</abstract>
+				<keywords>X-ray diffraction; magnetization, magnetoresistance, manganites.</keywords>
+				<authors>
+					<author>
+						<name first="R. Vengadesh Kumara" last="Mangalam">R. Vengadesh Kumara Mangalam</name>
+						<affiliation>Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur PO, Bangalore 560 064</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Sundaresan">A. Sundaresan</name>
+						<affiliation>Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur PO, Bangalore 560 064</affiliation>
+						<email>sundaresan@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Inclusion of poly-aromatic hydrocarbon (PAH) molecules in a functionalized layered double hydroxide</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0105-0115</page>
+				<abstract>
+					<p>The internal surface of an Mg–Al layered double hydroxide has been functionalized by anchoring carboxy-methyl derivatized $\beta$-cyclodextrin cavities to the gallery walls. Neutral polyaromatic hydrocarbon (PAH) molecules have been included within the functionalized solid by driving the hydrophobic aromatic molecules from a polar solvent into the less polar interior of the anchored cyclodextrin cavities by a partitioning process. The optical (absorption and emission) properties of the PAH molecules included within the functionalized Mg–Al layered double hydroxide solid are similar to that of dilute solutions of the PAH in non-polar solvents. The unique feature of these hybrid materials is that they are thermally stable over a wide temperature range with their emission properties practically unaltered.</p> 
+				</abstract>
+				<keywords>Layered double hydroxide; polyaromatic hydrocarbon molecules; thermal; emission properties.</keywords>
+				<authors>
+					<author>
+						<name first="L." last="Mohanambe">L. Mohanambe</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Vasudevan">S. Vasudevan</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>svipc@ipc.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Syntheses, structure and intercalation properties of low-dimensional phenylarsonates, A(HO$_3$AsC$_6$H$_5$)(H$_2$O$_3$AsC$_6$H$_5$) (A = Tl, Na, K and Rb)</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0117-0126</page>
+				<abstract>
+					<p>Four new low-dimensional phenylarsonates, A(HO$_3$AsC$_6$H$_5$)(H$_2$O$_3$AsC$_6$H$_5$) (A = Tl({\bf 1}), Na({\bf 2}), K({\bf 3}) and Rb({\bf 4})), have been synthesized and characterized by X-ray diffraction, spectroscopic and thermal studies. They crystallize in triclinic unit cells and have approximately planar arrangement of $A^+$ ions, coordinated to oxygen atoms of phenylarsonates, on both sides. Structure of thallium phenylarsonate as determined by single crystal X-ray diffraction, is one-dimensional, whereas those of alkalimetal analogues are two-dimensional. Successful intercalation reactions of compounds {\bf 1}  and {\bf 2} with primary $n$-alkyl amines have been demonstrated.</p>
+				</abstract>
+				<keywords>Phenylarsonates; organic–inorganic hybrid composites; X-ray diffraction; low-dimensional compounds; intercalation.</keywords>
+				<authors>
+					<author>
+						<name first="Bonthu Krishna Kishore" last="Reddy">Bonthu Krishna Kishore Reddy</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. Prabhakara" last="Rao">K. Prabhakara Rao</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Vidyasagar">K. Vidyasagar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036</affiliation>
+						<email>kvsagar@iitm.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Line broadening in the PXRD patterns of layered hydroxides: The relative effects of crystallite size and structural disorder</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0127-0133</page>
+				<abstract>
+					<p>Layered hydroxides crystallize in a hexagonal structure and incorporate a number of different types of structural disorders as an exigency of anisotropic bonding. Structural disorder contributes to the non-uniform broadening of lines in the powder X-ray diffraction pattern. Common among the disorders are stacking faults, which broaden the $h0 \ell/0k\ell$ reflections. Interstratification selectively broadens the $00\ell$ reflections and turbostratic disorder broadens the $0k\ell$ reflections. The line broadening caused by structural disorder has to be discounted before estimates of particle size are made by applying the Scherrer formula.</p>
+				</abstract>
+				<keywords>Layered double hydroxides; pyroaurite; structural disorder; stacking faults; turbostraticity; interstratification; polytypes.</keywords>
+				<authors>
+					<author>
+						<name first="Grace S." last="Thomas">Grace S. Thomas</name>
+						<affiliation>Department of Chemistry, Central College, Bangalore University, Bangalore 560 001</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. Vishnu" last="Kamath">P. Vishnu Kamath</name>
+						<affiliation>Department of Chemistry, Central College, Bangalore University, Bangalore 560 001</affiliation>
+						<email>vishnukamath8@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ionic conduction in the solid state</title>
+				<feature>Special Issue on Recent Developments in Metal Oxides and Related Materials</feature>
+				<page>0135-0154</page>
+				<abstract>
+					<p>Solid state ionic conductors are important from an industrial viewpoint. A variety of such conductors have been found. In order to understand the reasons for high ionic conductivity in these solids, there have been a number of experimental, theoretical and computational studies in the literature. We provide here a survey of these investigations with focus on what is known and elaborate on issues that still remain unresolved. Conductivity depends on a number of factors such as presence of interstitial sites, ion size, temperature, crystal structure etc. We discuss the recent results from atomistic computer simulations on the dependence of conductivity in NASICONs as a function of composition, temperature, phase change and cation among others. A new potential for modelling of NASICON structure that has been proposed is also discussed.</p>
+				</abstract>
+				<keywords>Ionic conduction; solid state; atomistic computer simulations; NASICON structure.</keywords>
+				<authors>
+					<author>
+						<name first="P. Padma" last="Kumar">P. Padma Kumar</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Yashonath">S. Yashonath</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>yashonat@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
 		</issue>
-		<issue inum="00" month="00" year="0000">
+		<issue inum="02" month="03" year="2006">
+			<entry hassup="0">
+				<title>Two new polyoxovanadate clusters templated through cysteamine</title>
+				<feature></feature>
+				<page>0159-0164</page>
+				<abstract>
+					<p>Two new fully oxidized polyoxovanadate cluster-based solids (C$_4$N$_2$S$_2$H$_{14}$)$_2$[H$_2$V$_{10}$O$_{28}$]$\cdot 4$H$_2$O, {\bf 1} and (C$_4$N$_2$S$_2$H$_{14}$)$_5$[H$_4$V$_{15}$O$_{42}$]$_2 \cdot 10$H$_2$O, {\bf 2} are crystallized under self-assembly process in the presence of cysteamine. In both {\bf 1} and {\bf 2}, cysteamines are oxidized forming disulphide linkages and occur as counter cations. The organic cations assemble around V$_{10}$O$_{28}$ cluster anions in {\bf 1} whereas they aggregate around V$_{15}$O$_{42}$ clusters in {\bf 2}. pH appears to be the structure determinant in the occurrence of decavanadate cluster in {\bf 1} and pentadecavanadate in {\bf 2}, with the same counter cation.</p> 
+				</abstract>
+				<keywords>Self assembly; decavanadate; pentadecavanadate; crystal structure; cysteamine.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Pavani">K. Pavani</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, New Delhi 110 016</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Upreti">S. Upreti</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, New Delhi 110 016</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Ramanan">A. Ramanan</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, New Delhi 110 016</affiliation>
+						<email>aramanan@chemistry.iitd.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-10-06</date>
+					<date type="R">2005-11-28</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and spectroscopic properties of homo- and heterobimetallic complexes of oxovanadium(V)</title>
+				<feature></feature>
+				<page>0165-0170</page>
+				<abstract>
+					<p>Equimolar interaction of VO(OP$_r^i$)$_3$ with N-phenyldiethanolamine (H$_2$L) affords the dimeric complex [VO(L)($\mu$-OPr$^i$)]$_2$ ({\bf 1}), which on reaction with different glycols yields a new class of oxovanadium(V) complexes of the type: VO(L)(OGOH) (where L = C$_6$H$_5$N(CH$_2$CH$_2$O$^–$)$_2$ and G = G$^1$ (CMe$_2$CH$_2$CH$_2$CMe$_2$) {\bf 2}, G$^2$(CHMeCH$_2$CMe$_2$) {\bf 3}, G$^3$(CH$_2$CMe$_2$CH$_2$) {\bf 4}, G$^4$(CH$_2$CEt$_2$CH$_2$) {\bf 5}, G$^5$(CHMeCHMe) {\bf 6}, G$^6$(CMe$_2$CMe$_2$) {\bf 7}), featuring N-phenyldiethanolaminate and glycolate moieties. Complexes ({\bf 2})–({\bf 7}) react with Al(OPr$^i$)$_3$ to afford novel heterobimetallic coordination complexes of the type: VO(L)$\{$(OGO)Al(OPr$^i$)$_2\}$ (G = G$^1$–G$^6$). All these complexes have been characterised by elemental analyses and molecular weight measurements. Spectroscopic (IR, UV–Vis and (${}^1$H, ${}^{27}$Al, ${}^{51}$V) NMR) properties of the new complexes have been investigated and their plausible structures suggested.</p>
+				</abstract>
+				<keywords>Mixed-ligand complexes; oxovanadium(V) complexes; metalloligands; heterobimetallic complexes; spectroscopic studies.</keywords>
+				<authors>
+					<author>
+						<name first="Rajendra S." last="Ghadwal">Rajendra S. Ghadwal</name>
+						<affiliation>Department of Chemistry, University of Rajasthan, Jaipur 302 004</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anirudh" last="Singh">Anirudh Singh</name>
+						<affiliation>Department of Chemistry, University of Rajasthan, Jaipur 302 004</affiliation>
+						<email>anirudhsinghunivjpr@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-18</date>
+					<date type="R">2006-02-18</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Sulphur-bridged ruthenium–molybdenum complexes: [(R-aapm)$_2$Ru($\mu$-S)$_2$ Mo(OH)$_2$]. Synthesis, spectroscopic and electro-chemical characterization. R-aapm = 2-(arylazo)pyrimidine</title>
+				<feature></feature>
+				<page>0171-0177</page>
+				<abstract>
+					<p>The reaction of \textit{ctc}-[Ru(R-aapm)$_2$Cl$_2$] ({\bf 1}) with (NH$_4$)$_2$MoS$_4$ in aqueous MeOH afforded redviolet mixed ligand complexes of the type [(R-aapm)$_2$Ru($\mu$-S)$_2$Mo(OH)$_2$] ({\bf 2a–2e}) [R-aapm = 2-(arylazo) pyrimidine, $p$-R-C$_6$H$_4$-N=N-C$_4$H$_3$NN, R = H ({\bf 2a}), Me ({\bf 2b}), Cl ({\bf 2c}), OMe ({\bf 2d}), NO$_2$ ({\bf 2e})]. In complexes ({\bf 2a–2e}) the terminal Mo=S bonds of the MoS$_4^{2–}$ unit get hydroxylated and the molybdenum ion is reduced from the starting Mo$^{VI}$ in MoS$_4^{2–}$ to Mo$^{IV}$ in the final product. The solution electronic spectra exhibit a strong MLCT band at 550–570 nm in DCM. The ${}^1$H NMR spectra confirms the geometry of the complexes as being that of \textit{cis-trans-cis} isomers. Cyclic voltammograms show a Ru(III)/Ru(II) couple at $1\cdot 10–1 \cdot 4$ V, irreversible Mo(IV)/Mo(V) oxidations in the $1 \cdot 66–1 \cdot 72$ V range, along with four successive reversible ligand reductions in the range $–0 \cdot 45–0 \cdot 67$ V (one electron), $–0 \cdot 82–1 \cdot 12$ V (one electron), $–1 \cdot 44–1 \cdot 90$ V (simultaneously two electrons).</p>
+				</abstract>
+				<keywords>Ruthenium–molybdenum; 2-(arylazo)pyrimidine; sulphur bridged complexes; metal–ligand charge transfer.</keywords>
+				<authors>
+					<author>
+						<name first="Prithwiraj" last="Byabartta">Prithwiraj Byabartta</name>
+						<affiliation>Department of Chemistry, University of Burdwan, Golapbag, Burdwan 713 104</affiliation>
+						<affiliation>Departmento de Quimica Inorganica, Universidad de Zaragoza, Zaragoza 50009, Spain</affiliation>
+						<email>prithwis33@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-03-02</date>
+					<date type="R">2005-05-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tuning size and catalytic activity of nano-clusters of cobalt oxide</title>
+				<feature></feature>
+				<page>0179-0184</page>
+				<abstract>
+					<p>Cobalt oxides were prepared by three different methods: (1) by reacting cobalt nitrate with oxalic acid, (2) co-precipitating cobalt nitrate with sodium carbonate, and (3) using sodium dodecyl sulphate as organic surfactant. All three samples were characterized before and after calcination by solvent extraction and the resulting products examined by IR spectroscopy. In the case of method 3, the removal of surfactant was followed by TGA studies. Products from all three methods were identified by XRD. Peaks in low angle XRD indicate the porous nature of the oxides. The morphology of the pores was studied by transmission electron microscopy. Some irregular pore structures were obtained for samples from methods 1 and 2, with an average size of 4–6 nm. Only the product from method 3 using SDS as template showed ordered structure and optimum size, and Brunauer–Emmet–Teller surface areas of the as-prepared, as well as the treated samples, exhibited H3 type hysteresis. The samples from the three methods were used as catalysts in the oxidation reaction of cyclohexane under mild conditions and the catalytic efficiency of the cobalt oxide was comparable with mesoporous cobalt oxides.</p>
+				</abstract>
+				<keywords>Cobalt oxide; nano cluster; catalytic activity; pore sizes.</keywords>
+				<authors>
+					<author>
+						<name first="R. Venkat" last="Narayan">R. Venkat Narayan</name>
+						<affiliation>Sathya Bama Deemed University, Jeppiar Nagar, Old Mahabalipuram Road, Chennai 600 119</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vinod" last="Kanniah">Vinod Kanniah</name>
+						<affiliation>Sathya Bama Deemed University, Jeppiar Nagar, Old Mahabalipuram Road, Chennai 600 119</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Aruna" last="Dhathathreyan">Aruna Dhathathreyan</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Adyar, Chennai 600 020</affiliation>
+						<email>adhatha@md5.vsnl.net.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-15</date>
+					<date type="R">2005-08-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A study on equilibrium and kinetics of ion exchange of alkaline earth metals using an inorganic cation exchanger – zirconium titanium phosphate</title>
+				<feature></feature>
+				<page>0185-0189</page>
+				<abstract>
+					<p>An advanced inorganic cation exchange material of the class of tetravalent metal acid (TMA) salt, zirconium titanium phosphate (ZTP), has been synthesized by a modified sol–gel technique. ZTP has been characterized by elemental analysis (ICP-AES), thermal analysis (TGA), FTIR and X-ray diffraction studies. The Nernst–Planck equation has been used to study the forward and reverse ion exchange kinetics of Mg (II), Ca (II), Sr (II) and Ba (II) with H (I) at four different temperatures. The mechanism of exchange is particle diffusion, as confirmed by the linear $\tau$ (dimensionless time parameter) vs $t$ (time) plots. The exchange process is thus controlled by the diffusion within the exchanger particles for the systems studied herein. Further, various kinetic parameters like self-diffusion coefficient ($D_0$), energy of activation ($E_a$) and entropy of activation ($\Delta S^\ast$) have been evaluated under conditions favouring a particle diffusion-controlled mechanism.</p>
+				</abstract>
+				<keywords>Kinetics of ion exchange; zirconium titanium phosphate; cation exchanger; tetravalent metal acid salts; inorganic ion exchanger.</keywords>
+				<authors>
+					<author>
+						<name first="Amin" last="Jignasa">Amin Jignasa</name>
+						<affiliation>Applied Chemistry Department, Faculty of Technology and Engineering, MS University of Baroda, Vadodara 390 001</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Thakkar" last="Rakesh">Thakkar Rakesh</name>
+						<affiliation>Applied Chemistry Department, Faculty of Technology and Engineering, MS University of Baroda, Vadodara 390 001</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chudasama" last="Uma">Chudasama Uma</name>
+						<affiliation>Applied Chemistry Department, Faculty of Technology and Engineering, MS University of Baroda, Vadodara 390 001</affiliation>
+						<email>uvcres@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-25</date>
+					<date type="R">2006-01-18</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, spectral characterization and antihaemostatic activity of 1,2,4-triazoles incorporating 1,2,4-triazine rings</title>
+				<feature></feature>
+				<page>0191-0195</page>
+				<abstract>
+					<p>A simple and high yielding method for the integration of a 1,2,4-triazole ring with 1,2,4-triazine- 5-one ({\bf 4a–j}) has been developed starting from 3-arylsydnones ({\bf 1a–d}). The structures were proved by their spectral data and screened for antihaemostatic activity.</p> 
+				</abstract>
+				<keywords>Sydnones; 1,3-dipolar cycloaddition; cyclocondensation; N-N-biheterocycles; antihaemostatic activity.</keywords>
+				<authors>
+					<author>
+						<name first="Ravindra R." last="Kamble">Ravindra R. Kamble</name>
+						<affiliation>Department of Chemistry and Food Science, Yuvaraja’s College, University of Mysore, Mysore 570 005</affiliation>
+						<email>ravichem1234@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Belgur S." last="Sudha">Belgur S. Sudha</name>
+						<affiliation>Department of Chemistry and Food Science, Yuvaraja’s College, University of Mysore, Mysore 570 005</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-16</date>
+					<date type="R">2006-02-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An unusual hydrogen addition of indolo-2,3-quinodimethanes to dimethylindoles in the presence of 1,3-azoles</title>
+				<feature></feature>
+				<page>0195-0198</page>
+				<abstract>
+					<p>Indolo-2,3-quinodimethane generated in situ from bis-(bromomethyl)indole with NaI/DMF at 70$^\circ$C was expected to undergo cycloaddition with 1,3-azoles to give carboline derivatives, which form the backbone of many indole alkaloids. However, the reaction did not give the anticipated product but proceeded via hydrogen addition to exocyclic methylene groups, furnishing dimethylindoles in good yields.</p>
+				</abstract>
+				<keywords>Indolo-2,3-quinodimethane; \textit{bis}-(bromomethyl)indole; 1,3-azoles; hydrogen addition; dimethylindoles.</keywords>
+				<authors>
+					<author>
+						<name first="P. T." last="Perumal">P. T. Perumal</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute, Adyar, Chennai 600 020</affiliation>
+						<email>ptperumal@hotmail.com</email>
+					</author>
+					<author>
+						<name first="R." last="Nagarajan">R. Nagarajan</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute, Adyar, Chennai 600 020</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-05-22</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An efficient synthesis of quinolines under solvent-free conditions</title>
+				<feature></feature>
+				<page>0199-0202</page>
+				<abstract>
+					<p>An efficient synthesis of substituted quinolines has been achieved in a one-pot reaction from $o$-nitrobenzaldehyde and enolizable ketones using SnCl$_2$.2H$_2$O as the reductant under microwave irradiation without any solvent or catalyst.</p>
+				</abstract>
+				<keywords>Quinolines; $o$-nitrobenzaldehyde; enolizable ketone; SnCl$_2$.2H$_2$O; microwave; solvent-free synthesis.</keywords>
+				<authors>
+					<author>
+						<name first="Mihir K." last="Chaudhuri">Mihir K. Chaudhuri</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Guwahati, Guwahati 781 039</affiliation>
+						<email>mkc@iitg.ernet.in</email>
+					</author>
+					<author>
+						<name first="Sahid" last="Hussain">Sahid Hussain</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Guwahati, Guwahati 781 039</affiliation>
+						<email>mkc@iitg.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-04-16</date>
+					<date type="R">2005-08-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mesogenic benzothiazole derivatives with methoxy substituents</title>
+				<feature></feature>
+				<page>0203-0210</page>
+				<abstract>
+					<p>Two new mesogenic homologous series containing 6-methoxybenzothiazole ring at the terminus of the molecule, viz. 2-(4'-$n$-alkoxyphenylazo)-6-methoxybenzothiazoles and 2-[4'-(4"-$n$-alkoxybenzoyloxy) phenylazo]-6-methoxybenzothiazoles were synthesized. In series I, $n$-butyloxy to $n$-tetradecyloxy derivatives exhibit nematic mesophase. Smectic A mesophase commences from the $n$-dodecyloxy derivative as a monotropic phase and is retained up to the last member synthesized. All the members of series II exhibit enantiotropic nematic mesophase. The mesomorphic properties of the present series are compared with other structurally related series to evaluate the effect of the benzothiazole ring and the methoxy substituent on mesomorphism.</p>
+				</abstract>
+				<keywords>6-Methoxybenzothiazole; azomesogens; smectic A; nematic.</keywords>
+				<authors>
+					<author>
+						<name first="A. K." last="Prajapati">A. K. Prajapati</name>
+						<affiliation>Applied Chemistry Department, Faculty of Technology and Engineering, Kalabhavan, P.O. Box No. 51, MS University of Baroda, Vadodara 390 001</affiliation>
+						<email>akprajapati@yahoo.co.uk</email>
+					</author>
+					<author>
+						<name first="N. L." last="Bonde">N. L. Bonde</name>
+						<affiliation>Applied Chemistry Department, Faculty of Technology and Engineering, Kalabhavan, P.O. Box No. 51, MS University of Baroda, Vadodara 390 001</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-08</date>
+					<date type="R">2005-12-15</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A novel hydrogen-bonded cyclic dibromide in an organic diammonium salt</title>
+				<feature></feature>
+				<page>0211-0218</page>
+				<abstract>
+					<p>The organic diammonium salt N,N'-dibenzyl-N,N,N',N'-tetramethylethylenediammonium dibromide dihydrate, (dbtmen)Br$_2 \cdot 2$H$_2$O ({\bf 1}), was prepared by the reaction of N,N,N',N'-tetramethylethylenediamine (tmen) with benzyl bromide. {\bf 1} crystallizes in the triclinic space group $P_1$ with the following unit cell dimensions for C$_{20}$H$_{34}$Br$_{2}$N$_2$O$_2$ (M = 494$\cdot$31): $a = 8 \cdot 6672$(6) Å, $b = 11 \cdot 7046$(8) Å, $c = 11 \cdot 7731$(8) Å, $\alpha = 76 \cdot 988$(8)$^circ$, $\beta = 88 \cdot 978$(8)$^\circ$, $\gamma = 76\cdot 198$(8)$^\circR, $V = 1129 \cdot 26$(13) Å$^3$, $Z = 2$. Three components, namely the (dbtmen)$^{2+}$ dication, two bromide anions and two crystal water molecules constitute the structural arrangement of {\bf 1}. H$_2$O molecules are linked to bromide anions via O–H$\cdots$Br hydrogen bonding interactions resulting in the formation of a four-membered $\{$O$_2$Br$_2\}$ cyclic dibromide. The $\{$O$_2$Br$_2\}$ units and the dications are arranged as alternating layers extending in the crystallographic $bc$ plane. The arrangement of anions and cations may be viewed as a typical lamellar structure. The crystal water molecules can be removed by heating {\bf 1} at 140$^\circ$C and the anhydrous dibromide thus formed can be fully rehydrated as evidenced by IR spectra and X-ray powder patterns.</p>
+				</abstract>
+				<keywords>N,N'-dibenzyl-N,N,N',N'-tetramethylethylenediammonium dibromide; hydrogen bonding interactions; cyclic dibromide.</keywords>
+				<authors>
+					<author>
+						<name first="Bikshandarkoil R." last="srinivasan">Bikshandarkoil R. srinivasan</name>
+						<affiliation>Department of Chemistry, Goa University PO, Goa 403 206</affiliation>
+						<email>srini@unigoa.ac.in</email>
+					</author>
+					<author>
+						<name first="Sunder N." last="Dhuri">Sunder N. Dhuri</name>
+						<affiliation>Department of Chemistry, Goa University PO, Goa 403 206</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jyoti V." last="Sawant">Jyoti V. Sawant</name>
+						<affiliation>Department of Chemistry, Goa University PO, Goa 403 206</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Christian" last="Näther">Christian Näther</name>
+						<affiliation>Institut für Anorganische Chemie, Christian-Albrechts-Universität Kiel, Olshausenstraße 40, D-24098 Kiel, Germany</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wolfgang" last="Bensch">Wolfgang Bensch</name>
+						<affiliation>Institut für Anorganische Chemie, Christian-Albrechts-Universität Kiel, Olshausenstraße 40, D-24098 Kiel, Germany</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-23</date>
+					<date type="R">2006-01-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="05" year="2006">
+			<entry hassup="0">
+				<title>Factors influencing ring closure through olefin metathesis – A perspective</title>
+				<feature></feature>
+				<page>0223-0235</page>
+				<abstract>
+					<p>Success of ring closure reactions of substrates having two terminal alkenes through olefin metathesis depends on a number of factors such as catalysts, nature and size of the rings to be formed and the substituents/functional groups present on the alkenes as well as at the allylic position. This article presents an overview of these influencing factors with illustrative examples.</p>
+				</abstract>
+				<keywords>Olefin metathesis; molybdenum and ruthenium alkylidines; ring closure; carbocycles; heterocycles.</keywords>
+				<authors>
+					<author>
+						<name first="Subrata" last="Ghosh">Subrata Ghosh</name>
+						<affiliation>Department of Organic Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032</affiliation>
+						<email>ocsg@iacs.res.in</email>
+					</author>
+					<author>
+						<name first="Sarita" last="Ghosh">Sarita Ghosh</name>
+						<affiliation>Jhargram Raj College, Jhargram, Midnapore 721 507</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Niladri" last="Sarkar">Niladri Sarkar</name>
+						<affiliation>Department of Organic Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-01-02</date>
+					<date type="R">2006-04-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, spectroscopic characterization and electronic structure of some new Cu(I) carbene complexes</title>
+				<feature></feature>
+				<page>0237-0242</page>
+				<abstract>
+					<p>Reaction of oligomeric Cu(I) complexes [Cu$\{ \mu$-S-C(=NR)(O–Ar–CH$_3$)$\}$]$_n$ with Lewis acids gave Cu(I) carbene complexes, which were characterized by ${}^1$H and ${}^{13}$C NMR spectroscopy. Cu(I) carbene complexes could be directly generated from RNCS, Cu(I)–OAr and Lewis acids; this method can be used to prepare Cu(I) carbene complexes with different substitutents on the carbene carbon. The complexes were unreactive towards olefins and do not undergo cyclopropanation. Electronic structure calculations (DFT) show that the charge on the carbene carbon plays an important role in controlling the reactivity of the carbene complex.</p>
+				</abstract>
+				<keywords>Copper(I) carbene complex; carbene complex synthesis; Cu(I)–carbene electronic structure.</keywords>
+				<authors>
+					<author>
+						<name first="Chinnappan" last="Sivasankar">Chinnappan Sivasankar</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Christina" last="Baskaran">Christina Baskaran</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ashoka G." last="Samuelson">Ashoka G. Samuelson</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>ashoka@ipc.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-02-07</date>
+					<date type="R">2006-04-26</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydrothermal syntheses and single crystal structural characterization of M(H$_2$O)$_6$(OPTA)$_2$ [M = Co(II), Ni(II), Zn(II); OPTA = 1-oxopyridinium-2-thioacetato]</title>
+				<feature></feature>
+				<page>0243-0248</page>
+				<abstract>
+					<p>A new class of compounds of the family M(H$_2$O)$_6$(OPTA)$_2$ (where M = Co(II), Ni(II), and Zn(II); OPTA = 1-oxopyridinium-2-thioacetato) was prepared from the appropriate metal acetates, 1-oxopyridinium-2-thioacetic acid (OPTAH), and potassium hydroxide in hydrothermal media and structurally characterized. The structure is constructed from M(H$_2$O)$_6^{2+}$ and two anions of OPTAH (C$_7$H$_6$NO$_3$S) linked through hydrogen bonding into an extended network.</p>
+				</abstract>
+				<keywords>Hydrothermal; ionic crystals; cobalt; nickel; zinc; 1-oxopyridinium-2-thioacetato.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Kumaresan">S. Kumaresan</name>
+						<affiliation>Department of Chemistry, Manonmaniam Sundaranar University, Abishekapatti, Tirunelveli 627 012</affiliation>
+						<email>skumarmsu@yahoo.com</email>
+					</author>
+					<author>
+						<name first="P." last="Ramadevi">P. Ramadevi</name>
+						<affiliation>Department of Chemistry, Manonmaniam Sundaranar University, Abishekapatti, Tirunelveli 627 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. D." last="Walsh">R. D. Walsh</name>
+						<affiliation>Department of Chemistry, University of South Florida, SCA 400, 4202, East Fowler Avenue, Tampa, FL 33620-5250, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="McAneny">A. McAneny</name>
+						<affiliation>Department of Chemistry, Indiana University of Pennsylvania, Indiana, PA 15701, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. H." last="Lake">C. H. Lake</name>
+						<affiliation>Department of Chemistry, Indiana University of Pennsylvania, Indiana, PA 15701, USA</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-21</date>
+					<date type="R">2005-12-22</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Curtius rearrangement reactions of 3-(4-azidocarbonyl) phenylsydnone. Synthesis of 4-(sydnon-3-yl) phenyl carbamates, N-aryl-N'-[4-(sydnon-3-yl)] phenyl ureas and their antimicrobial and insecticidal activities</title>
+				<feature></feature>
+				<page>0249-0256</page>
+				<abstract>
+					<p>3-[4-(Azidocarbonyl)]phenylsydnone ({\bf 2}) obtained from 3-(4-hydrazinocarbonyl) phenylsydnone ({\bf 1}) on Curtius rearrangement with alcohols, water and amines afforded the corresponding carbamates ({\bf 3a–h}), 4,4'-(sydnone-3-yl) diphenyl urea ({\bf 4}) and 4-(heterocyclyl)phenyl ureas ({\bf 5a–l}). Compounds ({\bf 5a–l}) on one-pot ring conversion yielded the 1,3,4-oxadiazolin-2-one derivatives ({\bf 6a–l}), which on reaction with N$_2$H$_4$ gave the 4-amino-1,2,4-triazolin-3-ones ({\bf 7a–l}). All these compounds exhibited moderate antimicrobial activity against the few microbes tested. The carbamates have been found to be more toxic against fourth instar larvae of \textit{Aedes aegypti}, in particular, the $n$-butyl derivative ({\bf 3e}).</p> 
+				</abstract>
+				<keywords>3-(4-Azidocarbonyl)phenylsydnone; Curtius rearrangement; 4-(sydnon-3-yl)phenyl carbamates; N-aryl-N'-[4-(sydnon-3-yl)] phenyl ureas.</keywords>
+				<authors>
+					<author>
+						<name first="P. R." last="Latthe">P. R. Latthe</name>
+						<affiliation>Department of Chemistry, Karnatak University, Dharwad 580 003</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. S." last="Shinge">P. S. Shinge</name>
+						<affiliation>Department of Chemistry, Karnatak University, Dharwad 580 003</affiliation>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bharati V." last="Badami">Bharati V. Badami</name>
+						<affiliation>Department of Chemistry, Karnatak University, Dharwad 580 003</affiliation>
+						<email>bbadami@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="P. B." last="Patil">P. B. Patil</name>
+						<affiliation>Department of Zoology, Karnatak University, Dharwad 580 003</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. N." last="Holihosur">S. N. Holihosur</name>
+						<affiliation>Department of Zoology, Karnatak University, Dharwad 580 003</affiliation>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-01</date>
+					<date type="R">2006-01-04</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Linear free energy relationship in reactions between diphenyl amine and benzyl bromides</title>
+				<feature></feature>
+				<page>0257-0260</page>
+				<abstract>
+					<p>Rate of reaction between benzyl bromide and diphenyl amine is retarded by electron-donating groups and enhanced by electron-withdrawing groups present on the benzene ring of the substrate. Hammett's reaction constant $\rho$ of the reaction decreases with increase in temperature according to the equation,</p>
+					<p>\rho = -11 \cdot 92 + 3 \cdot 54/ T.</p>
+					<p>Minimal structural effects observed are attributed to the fact that the isokinetic temperature of the reaction is close to the reaction temperature.</p>
+				</abstract>
+				<keywords>Diphenyl amine; substituent effect; reaction constant; isokinetic temperature; linear free energy relationship.</keywords>
+				<authors>
+					<author>
+						<name first="S. Ranga" last="Reddy">S. Ranga Reddy</name>
+						<affiliation>Department of Chemistry, Kakatiya University, Warangal 506 009</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Manikyamba">P. Manikyamba</name>
+						<affiliation>Department of Chemistry, Kakatiya University, Warangal 506 009</affiliation>
+						<email>mani_prerepa@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-20</date>
+					<date type="R">2006-04-24</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Non-catalytic pyrolysis of ethane to ethylene in the presence of CO$_2$ with or without limited O$_2$</title>
+				<feature></feature>
+				<page>0261-0267</page>
+				<abstract>
+					<p>Influence of the presence of CO$_2$, which is a mild oxidant, on the performance of the thermal cracking of ethane to ethylene in the absence or presence of limited O$_2$ at different temperatures (750–900$^\circ$C), space velocities (1500–9000 h$^{–1}$) and CO$_2$/C$_2$H$_6$ and O$_2$/C$_2$H$_6$ mole ratios ($0–2 \cdot 0$ and $0–0 \cdot 3$ respectively) has been investigated. In both the presence and absence of limited O2, ethane conversion increases markedly because of the presence of CO$_2$, indicating its beneficial effect on the ethane to ethylene cracking. The increased ethane conversion is, however, not due to the oxidation of ethane to ethylene by CO$_2$; the formation of carbon monoxide in the presence of CO$_2$ is found to be very small. It is most probably due to the activation of ethane in the presence of CO$_2$.</p>
+				</abstract>
+				<keywords>Ethane; ethylene; thermal cracking of ethane; ethane cracking in presence of CO$_2$; ethane cracking in presence of CO$_2$ and limited O$_2$.</keywords>
+				<authors>
+					<author>
+						<name first="Vasant R." last="Choudhary">Vasant R. Choudhary</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008</affiliation>
+						<email>vr.choudhary@ncl.res.in</email>
+					</author>
+					<author>
+						<name first="Kartick C." last="Mondal">Kartick C. Mondal</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shafeek A. R." last="Mulla">Shafeek A. R. Mulla</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-18</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Study of apparent molal volume and viscosity of mutual citric acid and disodium hydrogen orthophosphate aqueous systems</title>
+				<feature></feature>
+				<page>0269-0274</page>
+				<abstract>
+					<p>Fundamental properties, density ($\rho$) and viscosity ($\eta$), of citric acid (CA) and disodium hydrogen orthophosphate (DSP) at various strengths were obtained at different temperatures. The $\rho$ and $\eta$ values were used to determine apparent molal volumes and viscosity of systems. The $\rho$, $V_\phi$ and $\eta$ values were regressed against molality $m$ for $\rho^0$, $\eta^0$ and $V^0_\phi$f, the limiting constants at infinite dilution ($m \rightarrow 0$) forionic and molecular interactions. The $\rho^0$ and $V^0_\phi$f of aq. acids are higher than those of aq. DSP and the viscosity of DSP is higher than that of aq. CA. Examination of $\rho^0$ and $V^0_\phi$ functions indicates that mutual compositions of CA and DSP counterbalance concentration and temperature effects on pH in bioprocesses.</p> 
+				</abstract>
+				<keywords>Citric acid–disodium hydrogen orthophosphate aqueous system; density/viscosity of aqueous systems; limiting constants at infinite dilution.</keywords> 
+				<authors>
+					<author>
+						<name first="Man" last="Singh">Man Singh</name>
+						<affiliation>Chemistry Research Lab, Deshbandhu College, University of Delhi, New Delhi 110 019</affiliation>
+						<email>mansingh50@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-03-24</date>
+					<date type="R">2005-12-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A study of quasi reversible nitro radical anion from $\beta$-nitrostyrene at wax-impregnated carbon paste electrode</title>
+				<feature></feature>
+				<page>0275-0279</page>
+				<abstract>
+					<p>A comprehensive study of the electrochemical reduction of $\beta$-nitrostyrene and the corresponding heterocyclic analogue has been carried out in aprotic media using wax-impregnated carbon paste electrodes. Nitrostyrene exhibits quasi-reversible reduction process in aprotic medium at the waximpregnated carbon paste electrodes as compared to other electrodes reported in the literature. The nitroradical anion couple detected in the presence of tetrabutyl ammonium perchlorate is found to be stable only in aprotic media. Though, as reported, the pharmacological activity related to this nitro radical anion and its therapeutic value are related to the stability of the nitro radical anion, the stability itself depends on the electrode system employed. Added benzoic acid is found to bring about a positive shift in cathodic peak potential.</p>
+				</abstract>
+				<keywords>Electrochemical reduction; b-nitrostyrene; wax-impregnated carbon paste electrode; nitro radical anion.</keywords>
+				<authors>
+					<author>
+						<name first="Ronald J." last="Mascarenhas">Ronald J. Mascarenhas</name>
+						<affiliation>Department of Chemistry, St. Joseph’s College, Lalbagh Road, Bangalore 560 027</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Irishi N." last="Namboothiri">Irishi N. Namboothiri</name>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. S." last="Sherigara">B. S. Sherigara</name>
+						<affiliation>Department of Post Graduate Studies and Research in Industrial Chemistry, Kuvempu University, Shankaraghatta 577 451</affiliation>
+						<email>bssherigara@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Vijayakumar K." last="Reddy">Vijayakumar K. Reddy</name>
+						<affiliation>Department of Chemistry, St. Joseph’s College, Lalbagh Road, Bangalore 560 027</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-11-03</date>
+					<date type="R">2006-03-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Temperature effects on surface activity and application in oxidation of toluene derivatives of CTAB–SDS with KMnO$_4$</title>
+				<feature></feature>
+				<page>0281-0285</page>
+				<abstract>
+					<p>The $\gamma_{\text{cmc}}$ values of CTAB–SDS decrease from 63$\cdot$67 mN/m at 10$^\circ$C to 36$\cdot$38 mN/m at 90$^\circ$C, slightly lower than those of either CTAB or SDS. Correspondingly, the CMC of CTAB–SDS decreases almost by half. The increase of surface activity of CTAB–SDS can be attributed to the relatively weak electrostatic interaction at high temperature, which is supported by the increase of solubility of CTAB–SDS with rise in temperature. Catalytic effect on oxidation of toluene derivatives with potassium permanganate follows the order CTAB–SDS &gt; SDS &gt; CTAB. This is not caused by the dissociative effect of CTAB–SDS with low surface activity at low temperature, as seen from the fact that almost all oxidative products can be retrieved for different toluene derivatives and surfactants by mimicking the conditions of reaction. In the emulsifications of toluene derivatives at 90$^\circ$C, the time that turbid water layers of surfactant solutions take to become clear is the same as that of the catalytic effect on oxidation of toluene derivatives. Thus, it can be inferred that surfactants can improve the oxidation yields of toluene derivatives by increasing the contact between two reacting phases.</p>
+				</abstract>
+				<keywords>Surface activity; cetyl trimethylammonium bromide; sodium dodecyl sulfate; temperature; oxidation.</keywords>
+				<authors>
+					<author>
+						<name first="Yu" last="Tang">Yu Tang</name>
+						<affiliation>Chemistry Department, Jinan University, Guangdong Guangzhou 510632, People’s Republic of China</affiliation>
+						<email>ttangy123@yahoo.com.cn</email>
+					</author>
+					<author>
+						<name first="Biying" last="Du">Biying Du</name>
+						<affiliation>Chemistry Department, Jinan University, Guangdong Guangzhou 510632, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jun" last="Yang">Jun Yang</name>
+						<affiliation>Chemistry Department, Jinan University, Guangdong Guangzhou 510632, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuanming" last="Zhang">Yuanming Zhang</name>
+						<affiliation>Chemistry Department, Jinan University, Guangdong Guangzhou 510632, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-09</date>
+					<date type="R">2005-11-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="07" year="2006">
+			<entry hassup="0">
+				<title>Creative research in the chemical industry – Four decades in retrospect</title>
+				<feature></feature>
+				<page>0291-0309</page>
+				<abstract>
+					<p>My professional research career spanning more than four decades has been largely devoted to synthetic medicinal chemistry (Ciba, Bombay – now Mumbai – 21 years) followed by an equal number of years in process development of drugs, crop protection chemicals (Searle, Bombay) and drugs and speciality chemicals (Recon and Hikal, Bangalore). These efforts have involved several collaborators including many from other institutions and offered multitudinous challenges calling for continuous creativity in industrial setups. I was fortunate to have had a conducive environment to be able to respond to these challenges. I attempt to offer the readers in the ensuing pages a flavour of the excitement that has marked these years.</p>
+				</abstract>
+				<keywords>Creative research; new drugs; alkaloids; heterocycles; structure–activity studies.</keywords>
+				<authors>
+					<author>
+						<name first="Kuppuswamy" last="Nagarajan">Kuppuswamy Nagarajan</name>
+						<affiliation>Hikal Research Centre, Bangalore 560 078</affiliation>
+						<email>k_nagarajan@hikal.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-01-30</date>
+					<date type="R">2006-07-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A chiral Mn(IV) complex and its supramolecular assembly: Synthesis, characterization and properties</title>
+				<feature></feature>
+				<page>0311-0317</page>
+				<abstract>
+					<p>The open air reaction of the chiral Schiff base ligand H$_2$L, prepared by the condensation of L-phenylalaninol and 5-bromosalicylaldehyde, with Mn$^{II}$(CH$_3$COO)$_{2}\cdot$4H$_2$O yielded dark brown complex [Mn$^{IV}$L$_2$]$\cdot$0$\cdot$5 DMF ({\bf 1}). Compound {\bf 1} was characterized by elemental analysis, IR, UV–visible, CD and EPR spectroscopy, cyclic voltammetry and room temperature magnetic moment determination. Singlecrystal X-ray analysis revealed that compound {\bf 1} crystallises in the monoclinic $P2_1$ space group with six mononuclear [Mn$^{IV}$L$_2$] units in the asymmetric unit along with three solvent DMF molecules. In the crystal structure, each Mn(IV) complex, acting as the building unit, undergoes supramolecular linking through C-H$\cdots$O bonds leading to an intricate hydrogen bonding network.</p>
+				</abstract>
+				<keywords>Synthesis; characterization; crystal structure; chiral Mn(IV) complex; C-H$\cdots$O hydrogen bonding interaction.</keywords>
+				<authors>
+					<author>
+						<name first="Chullikkattil P." last="Pradeep">Chullikkattil P. Pradeep</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Panthapally S." last="Zacharias">Panthapally S. Zacharias</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Samar K." last="Das">Samar K. Das</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email>skdsc@uohyd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-01-24</date>
+					<date type="R">2006-06-30</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Substitution reactions of diphenyl-2-pyridylphosphine with [($\eta^5$-C$_5$Me$_5$)M($\mu$-Cl)Cl]$_2$ (M = Rh or Ir) dimers: Isolation of mono-, di- and chelating complexes</title>
+				<feature></feature>
+				<page>0319-0326</page>
+				<abstract>
+					<p>The reaction of [$\{$(h$_5$-C$_5$Me$_5$)M($\mu$-Cl)Cl$\}_2$] $\{$where M = Rh ({\bf 1}), Ir ({\bf 2})$\}$ with functionalized phosphine viz., diphenyl-2-pyridylphosphine (PPh$_2$Py) in dichloromethane solvent yield neutral $\kappa^1$-P-coordinated rhodium and iridium complexes [($\eta^5$-C$_5$Me$_5$)RhCl$_2$($\kappa^1$-P-PPh$_2$Py)] {\bf 3} and [($\eta^5$-C$_5$Me$_5$) IrCl$_2$($\kappa^1$-P-PPh$_2$Py)] {\bf 4}. Reaction of complexes {\bf 1} and {\bf 2} with the ligand PPh$_2Py in methanol under reflux give \textit{bis}-substituted complexes such as [($\eta^5$-C$_5$Me$_5$)RhCl($\kappa^1$-P-PPh$_2$Py)$_2$]$^+$ {\bf 5} and [($\eta^5$-C$_5$Me$_5$)IrCl($\kappa^1$-P-PPh$_2$Py)$_2$]$^+$ {\bf 6}, whereas stirring in methanol at room temperature gives P-, N-chelating complexes of the type [($\eta^5$-C$__5$Me$_5$)RhCl($\kappa_2$-P-N-PPh$_2$Py)]$^+$ {\bf 7} and [($\eta^5$-C$_5$Me$_5$)IrCl($\kappa^2$-P-N-PPh$_2$Py)]$^+$ {\bf 8}. Neutral $\kappa^1$-P-coordinated complexes [($\eta^5$-C$_5$Me$_5$)RhCl$_2$($\kappa^1$-P-PPh$_2$Py)] {\bf 3} and [($\eta^5$-C$_5$Me$_5$)IrCl$_2$($\kappa^1$-P-PPh$_2$Py)] {\bf 4} easily undergo conversion to the cationic P-, N-chelating complexes [($\eta^5$-C$_5$Me$_5$)RhCl($\kappa^2$-P-N-PPh$_2$Py)]$^+$ {\bf 7} and [($\eta^5$-C$_5$Me$_5$) IrCl($\kappa^2$-P, N-PPh$_2$Py)]$^+$ {\bf 8} on stirring in methanol at room temperature. These complexes are characterized by FT–IR and FT–NMR spectroscopy as well as analytical methods. The molecular structures of the representative complexes [($\eta^5$-C$_5$Me$_5$)RhCl$_2$($\kappa^1$-P-PPh$_2$Py)] {\bf 3}, [($\eta^5$-C$_5$Me$_5$)IrCl$_2$($\kappa^1$-P-PPh$_2$Py)] {\bf 4} and hexafluorophosphate salt of complex [($\eta^5$-C$_5$Me$_5$)IrCl($\kappa^2$-P-PPh$_2$Py)$_2$]$^+$ {\bf 6} are established by singlecrystal X-ray diffraction methods.</p>
+				</abstract>
+				<keywords>Pentamethylcyclopentadienyl; diphenyl-2-pyridylphosphine; rhodium and iridium complexes.</keywords>
+				<authors>
+					<author>
+						<name first="Padavattan" last="Govindaswamy">Padavattan Govindaswamy</name>
+						<affiliation>Department of Chemistry, North-Eastern Hill University, Shillong 793 022</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Patrick J." last="Carroll">Patrick J. Carroll</name>
+						<affiliation>Department of Chemistry, University of Pennsylvania, Philadelphia, Pennsylvania PA 19104, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yurij A." last="Mozharivskyj">Yurij A. Mozharivskyj</name>
+						<affiliation>Department of Chemistry, McMaster University, Hamilton, Ontario, L8S 4M1, Canada</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mohan Rao" last="Kollipara">Mohan Rao Kollipara</name>
+						<affiliation>Department of Chemistry, North-Eastern Hill University, Shillong 793 022</affiliation>
+						<email>mohanrao59@hotmail.com</email>
+						<email>mohanraokollipara@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-03-30</date>
+					<date type="R">2006-07-03</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Protonation constant of salicylidene (N-benzoyl)glycyl hydrazone and its coordination behaviour towards some bivalent metal ions</title>
+				<feature></feature>
+				<page>0327-0334</page>
+				<abstract>
+					<p>Protonation constant of an unsymmetrical Schiff base, salicylidene(N-benzoyl)glycyl hydrazone (SalBzGH), and formation constants of its complexes have been determined potentiometrically at different temperatures in aqueous dioxane medium. Complexes of SalBzGH with VO(IV), Mn(II), Co(II), Ni(II), Cu(II), Zn(II), Cd(II) and Hg(II) have been prepared. Elemental analyses, pH-metric, molar conductance, magnetic susceptibility, electronic, IR, ESR, XRD (powder) and NMR studies have been carried out to study the coordination behaviour of SalBzGH toward these metal ions. pH-metric and ${}^1$H NMR studies show the presence of two dissociable protons in the ligand. IR and NMR spectra suggest the tridentate nature of the ligand, coordinating as a uninegative species in the Mn(II) complex and as a dinegative species in all the other complexes. Presence of two different conformers of the ligand at room temperature and stabilization of a single conformer upon complex formation have been established from ${}^1$H NMR spectra of the metal-free ligand, Zn(II) and Hg(II) complexes recorded at 296 K. Electronic and ESR spectra indicate highly distorted tetragonal geometry for VO(IV) and Cu(II) complexes. XRD powder patterns of the Zn(II) complexes are indexed for an orthorhombic crystal system.</p> 
+				</abstract>
+				<keywords>Salicylidene(N-benzoyl)glycyl hydrazone; protonation constant; NMR; coordination behaviour.</keywords>
+				<authors>
+					<author>
+						<name first="R. K." last="Lonibala">R. K. Lonibala</name>
+						<affiliation>Chemistry Department, Manipur University, Canchipur 795 003</affiliation>
+						<email>lonirk@yahoo.co.uk</email>
+					</author>
+					<author>
+						<name first="T. R" last="Rao">T. R. Rao</name>
+						<affiliation>Department of Chemistry, Banaras Hindu University, Varanasi 221 005</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. K. Babita" last="Devia">R. K. Babita Devia</name>
+						<affiliation>Chemistry Department, Manipur University, Canchipur 795 003</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-12-23</date>
+					<date type="R">2006-04-04</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Optical absorption and fluorescence studies on imidazolium ionic liquids comprising the \textit{bis}(trifluoromethanesulphonyl)imide anion</title>
+				<feature></feature>
+				<page>0335-0340</page>
+				<abstract>
+					<p>Optical absorption and fluorescence behaviour of two rigorously purified imidazolium ionic liquids, 1-butyl-3-methylimidazolium \textit{bis}(trifluoromethanesulfonyl)imide and 1-ethyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide are studied in the neat condition and in solution. Non-negligible absorption in the UV region with a long tail extending into the visible region is the main feature of the absorption. Excitation wavelength-dependent two-component fluorescence characterizes the emission behaviour of these liquids. That ion association gives rise to the long absorption tail and shifting fluorescence maximum, which appears to be common to most of the imidazolium ionic liquids, is evident from the effect of the conventional solvents.</p>
+				</abstract>
+				<keywords>Imidazolium ionic liquids; UV–Vis absorption; excitation wavelength-dependent fluorescence; red-edge effect; solvent effect.</keywords>
+				<authors>
+					<author>
+						<name first="Aniruddha" last="Paul">Aniruddha Paul</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anunay" last="Samanta">Anunay Samanta</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046</affiliation>
+						<email>assc@uohyd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-04-18</date>
+					<date type="R">2006-06-27</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantum yield of Cl$^\ast$ ($^2P_{1/2}$) production in the gas phase photolysis of CCl4 in the ultraviolet</title>
+				<feature></feature>
+				<page>0341-0344</page>
+				<abstract>
+					<p>In this paper, we have probed the dynamics of chlorine atom production from the gas phase photodissociation of carbon tetrachloride at 222 and 235 nm. The quantum yield, $\phi^{\ast}$ of Cl$^{\ast}$ ($^2P_{1/2}$) production has been determined by probing the nascent concentrations of both excited ($^2P_{1/2}$) and ground state (${}^2P_{3/2}$) chlorine atoms by suitable resonance-enhanced multiphoton ionization (REMPI) detection schemes. Although at the photolysis wavelengths the absorption of carbon tetrachloride is weak, significant amounts of Cl$^{\ast}$ are produced. Surprisingly, the quantum yield of Cl$^{\ast}$ production does not follow the absorption spectrum closely, which gives rise to the possibility of an indirect dissociation mechanism present in CCl$_4$ along with direct dissociation at these ultraviolet wavelengths.</p>
+				</abstract>
+				<keywords>Ultraviolet photolysis; carbon tetrachloride; gas phase; resonance enhanced multiphoton ionization; quantum yield.</keywords>
+				<authors>
+					<author>
+						<name first="Manish" last="Tak">Manish Tak</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manabendra" last="Chandra">Manabendra Chandra</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dulal" last="Senapati">Dulal Senapati</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Puspendu K." last="Das">Puspendu K. Das</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012</affiliation>
+						<email>pkdas@ipc.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-03-01</date>
+					<date type="R">2006-05-22</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Correlation of the isosteric heat of adsorption of organic molecules over zeolites with equalized electronegativity and chemical hardness</title>
+				<feature></feature>
+				<page>0345-0349</page>
+				<abstract>
+					<p>Considering the direct correlation between charge transfer and heat of adsorption, we have equated the isosteric heat of adsorption ($Q_{st}$) with Nalewajski's charge transfer equation involving equalized electronegativities and chemical hardness given in the literature. The equation is then tested and compared with the experimental heat of adsorption values of organic molecules over zeolites given in the literature with the average percentage deviation of 15$\cdot$9. Other similar types of equations of charge transfer affinity are also tested. Various semi-empirical equations based on Barrer's approach of the determination of $Q_{st}$ and neural network method have been proposed, tested and compared for the first time.</p> 
+				</abstract>
+				<keywords>Isosteric heat of adsorption, charge transfer, equalized electro negativity, chemical hardness, zeolites.</keywords>
+				<authors>
+					<author>
+						<name first="N. V. K." last="Dutt">N. V. K. Dutt</name>
+						<affiliation>Indian Institute of Chemical Technology, Hyderabad 500 007</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. J." last="Kulkarni">S. J. Kulkarni</name>
+						<affiliation>Indian Institute of Chemical Technology, Hyderabad 500 007</affiliation>
+						<email>sjkulkarni@ins.iictnet.com</email>
+					</author>
+					<author>
+						<name first="Y. V. L." last="Ravikumar">Y. V. L. Ravikumar</name>
+						<affiliation>Indian Institute of Chemical Technology, Hyderabad 500 007</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. S. N." last="Murthy">B. S. N. Murthy</name>
+						<affiliation>Indian Institute of Chemical Technology, Hyderabad 500 007</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-04</date>
+					<date type="R">2005-11-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A study of substituent effect on the oxidative strengths of sodium salts of N-bromo-arylsulphonamides: Kinetics and mechanism of oxidation of D-fructose and D-glucose in alkaline medium</title>
+				<feature></feature>
+				<page>0351-0359</page>
+				<abstract>
+					<p>N-Bromo-arylsulphonamides of different oxidizing strengths are used for studying the kinetics of oxidation of D-fructose and D-glucose in aqueous alkaline medium. The results are analysed and compared with those from the sodium salts of N-bromo-benzenesulphonamide and N-bromo-4-methylbenzenesulphonamide. The reactions show zero-order kinetics in [oxidant], fractional order in [Fru/Glu] and nearly first order in [OH$^–$]. Rates of oxidation of fructose are higher than those for glucose with the same oxidant. Similarly, $E_a$ values for glucose oxidations are higher than those for fructose. The results are explained by a suitable mechanism and the related rate law is deduced. The effective oxidising species in the reactions of N-bromo-arylsulphonamides is Br$^+$. The oxidative strengths of the latter therefore depend on the ease with which Br$^+$ is released from them. The ease with which Br$^+$ is released from Nbromo- arylsulphonamides depends on the electron density on the nitrogen atom of the sulphonamide group, which in turn depends on the nature of the substituent on the benzene ring. The validity of the Hammett equation has also been tested for oxidation of both fructose and glucose. Enthalpies and entropies of activations of the oxidations by all the N-bromo-arylsulphonamides correlate well. The effect of substitution on $E_a$ and log $A$ of the oxidations is also considered.</p>
+				</abstract>
+				<keywords>Kinetics of oxidation; N-bromo-arylsulphonamides; D-fructose, D-glucose.</keywords>
+				<authors>
+					<author>
+						<name first="K. M." last="Usha">K. M. Usha</name>
+						<affiliation>Department of Post-Graduate Studies and Research in Chemistry, Mangalore University, Mangalagangothri, Mangalore 574 199</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. Thimme" last="Gowda">B. Thimme Gowda</name>
+						<affiliation>Department of Post-Graduate Studies and Research in Chemistry, Mangalore University, Mangalagangothri, Mangalore 574 199</affiliation>
+						<email>gowdabt@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-13</date>
+					<date type="R">2006-03-13</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fourier-transform infrared spectroscopic studies of dithia tetraphenylporphine</title>
+				<feature></feature>
+				<page>0361-0369</page>
+				<abstract>
+					<p>We present here infrared absorption spectra of dithia tetraphenylporphine and its cation in the 450–1600 and 2900–3400 cm$^{–1}$ regions. Most of the allowed IR bands are observed in pairs due to overall $D_{2h}$ point group symmetry of the molecule. The observed bands have been assigned to the porphyrin skeleton and phenyl ring modes. Some weak bands, which are forbidden under $D_{2h}$, also appear in the spectra due to the distortion of the molecule from planarity-caused by the out-of-plane positioned N and S atoms. Increased intensity of some phenyl ring bands compared to free-base tetraphenylporphine is explained on the basis of rotation of phenyl rings towards the mean molecular plane. Contrary to the point group symmetry of cation of dithia tetraphenylporphine, certain bands are observed to be degenerate due to identical bonding arrangements in pyrrole rings of the cation.</p>
+				</abstract>
+				<keywords>Infrared spectra, dithia tetraphenylporphine, dithia tetraphenylporphine cation.</keywords>
+				<authors>
+					<author>
+						<name first="Sandeep" last="Mishra">Sandeep Mishra</name>
+						<affiliation>Department of Physics, Panjab University, Chandigarh 160 014</affiliation>
+						<email>gsssaini@pu.ac.in</email>
+					</author>
+					<author>
+						<name first="" last="">Sarvpreet kaur</name>
+						<affiliation>Department of Physics, Panjab University, Chandigarh 160 014</affiliation>
+						<email>gsssaini@pu.ac.in</email>
+					</author>
+					<author>
+						<name first="" last="">Sandeep mishra, sarvpreet kaur, s k tripathi, c g mahajan and g s s saini</name>
+						<affiliation>Department of Physics, Panjab University, Chandigarh 160 014</affiliation>
+						<email>gsssaini@pu.ac.in</email>
+					</author>
+					<author>
+						<name first="" last="">Sandeep mishra, sarvpreet kaur, s k tripathi, c g mahajan and g s s saini</name>
+						<affiliation>Department of Physics, Panjab University, Chandigarh 160 014</affiliation>
+						<email>gsssaini@pu.ac.in</email>
+					</author>
+					<author>
+						<name first="" last="">Sandeep mishra, sarvpreet kaur, s k tripathi, c g mahajan and g s s saini</name>
+						<affiliation>Department of Physics, Panjab University, Chandigarh 160 014</affiliation>
+						<email>gsssaini@pu.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="0" month="00" year="0000">%%%%%%%%%%%%%%% prathibha
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -6622,8 +8402,8 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page>00-00</page>
@@ -6631,15 +8411,23 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 		</issue>
-	</volume>		
-	<volume vnum="">
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page>00-00</page>
@@ -6647,15 +8435,23 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 		</issue>
-	</volume>		
-	<volume vnum="">
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page>00-00</page>
@@ -6663,15 +8459,23 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 		</issue>
-	</volume>		
-	<volume vnum="">
-		<issue inum="00" month="00" year="0000">
-			<entry issup="0">
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page>00-00</page>
@@ -6679,9 +8483,141 @@ the HF energy are adequate in explaining the toxicity of several substances</p>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
-				<allauthors>
-					<author lname="" fname="" isfellow="0"></author>
-				</allauthors>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="0">
+		<issue inum="0" month="00" year="0000">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 		</issue>
 	</volume>		
