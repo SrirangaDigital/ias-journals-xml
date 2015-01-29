@@ -2838,114 +2838,140 @@
 				</authors>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>A study on the structure of the convective atmosphere over the Bay of Bengal during BOBMEX-99</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0147-0163</page>
 				<abstract>
-					<p></p>
+					<p>Convective activity is one of the major processes in the atmosphere influencing the local and large scale weather in the tropics. The latent heat released by the cumulus cloud is known to drive monsoon circulation, which on the other hand supplies the moisture that maintains the cumulus clouds. An investigation is carried out on the convective structure of the atmosphere during active and suppressed periods of convection using data sets obtained from the Bay of Bengal and Monsoon Experiment (BOBMEX). The cumulus convection though being a small-scale phenomenon, still influences its embedding environment by interaction through various scales. This study shows the variation in the kinematic and convective parameters during the transition from suppressed to active periods of convection. Convergence in the lower levels and strong upward vertical velocity, significant during active convection are associated with the formation of monsoon depressions. The apparent heat source due to latent heat release and the vertical transport of the eddy heat by cumulus convection, and the apparent moisture sink due to net condensation and vertical divergence of the eddy transport of moisture, are estimated through residuals of the thermodynamic equation and examined in relation to monsoon activity during BOBMEX.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Convection;monsoon depression;Bay of Bengal;BOBMEX.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="U. C." last="Mohanty">U. C. Mohanty</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology, Delhi, New Delhi, India.</affiliation>
+						<email>mohanty@cas.iitd.ernet.in</email>
+					</author>
+					<author>
+						<name first="N. V." last="Sam">N. V. Sam</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology, Delhi, New Delhi, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Das">S. Das</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting, Lodhi Road, New Delhi, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. N. V." last="Satyanarayana">A. N. V. Satyanarayana</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology, Delhi, New Delhi, India.</affiliation>
 					</author>
 				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-					<date type="E">2014-09-30</date>
-				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Circulation characteristics of a monsoon depression during BOBMEX-99 using high-resolution analysis</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0165-0184</page>
 				<abstract>
-					<p></p>
+					<p>The skill and efficiency of a numerical model mostly varies with the quality of initial values, accuracy on parameterization of physical processes and horizontal and vertical resolution of the model. Commonly used low-resolution reanalyses are hardly able to capture the prominent features associated with organized convective processes in a monsoon depression. The objective is to prepare improved high-resolution analysis by the use of MM5 modelling system developed by the Pennsyl- vania State University/National Center for Atmospheric Research (PSU/NCAR). It requires the objective comparison of high and low-resolution analysis datasets in assessing the specific convective features of a monsoon depression. For this purpose, reanalysis datasets of NCAR/NCEP (National Center for Atmospheric Research/National Centers for Environmental Prediction) at a horizontal resolution of $2.5^\circ $ (latitude/longitude) have been used as first guess in the objective analysis scheme. The additional asynoptic datasets obtained during BOBMEX-99 are utilized within the assimilation process. Cloud Motion Wind (CMW) data of METEOSAT satellite and SSM/I surface wind data are included for the improvement of derived analysis. The multiquadric (MQD) interpolation technique is selected and applied for meteorological objective analysis at a horizontal resolution of 30 km. After a successful inclusion of additional data, the resulting reanalysis is able to produce the structure of convective organization as well as prominent synoptic features associated with monsoon depression. Comparison and error verifications have been done with the help of available upper-air station data. The objective verification reveals the efficiency of the analysis scheme.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>BOBMEX;high-resolution analysis;monsoon depression;MM5.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Ananda K." last="Das">Ananda K. Das</name>
+						<affiliation>Center for Atmospheric Sciences, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India</affiliation>
+					</author>
+					<author>
+						<name first="U. C." last="Mohanty">U. C. Mohanty</name>
+						<affiliation>Center for Atmospheric Sciences, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India</affiliation>
+					</author>
+					<author>
+						<name first="Someshwar" last="Das">Someshwar Das</name>
+						<affiliation>National Center for Medium Range Weather Forecasting, Mausam Bhavan, Lodhi Road, New Delhi 110 003.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Mandal">M. Mandal</name>
+						<affiliation>Center for Atmospheric Sciences, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India</affiliation>
+					</author>
+					<author>
+						<name first="S. R." last="Kalsi">S. R. Kalsi</name>
+						<affiliation>India Meteorological Department, Mausam Bhavan, Lodhi Road, New Delhi 110 003.</affiliation>
 					</author>
 				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-					<date type="E">2014-09-30</date>
-				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Simulation of Marine Boundary Layer characteristics using a 1-D PBL model over the Bay of Bengal during BOBMEX-99</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0185-0204</page>
 				<abstract>
-					<p></p>
+					<p>The characteristic features of the marine boundary layer (MBL) over the Bay of Bengal during the southwest monsoon and the factors influencing it are investigated. The Bay of Bengal and Monsoon Experiment (BOBMEX) carried out during July--August 1999 is the first observational experiment under the Indian Climate Research Programme (ICRP). A very high-resolution data in the vertical was obtained during this experiment, which was used to study the MBL characteristics off the east coast of India in the north and south Bay of Bengal. Spells of active and suppressed convection over the Bay were observed, of which, three representative convective episodes were considered for the study. For this purpose a one-dimensional multi-level PBL model with a TKE$-\varepsilon $ closure scheme was used. The soundings, viz., the vertical profiles of temperature, humidity, zonal and meridional component of wind, obtained onboard ORV Sagar Kanya and from coastal stations along the east coast are used for the study. The temporal evolution of turbulent kinetic energy, marine boundary layer height (MBLH), sensible and latent heat fluxes and drag coefficient of momentum are simulated for different epochs of monsoon and monsoon depressions during BOBMEX-99.The model also generates the vertical profiles of potential temperature, specific humidity, zonal and meridional wind. These simulated values compared reasonably well with the observations available from BOBMEX.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Sensible and latent heat fluxes;marine boundary layer;turbulent kinetic energy.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="N. V." last="Sam">N. V. Sam</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India.</affiliation>
+					</author>
+					<author>
+						<name first="U. C." last="Mohanty">U. C. Mohanty</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India.</affiliation>
+						<email>mohanty@cas.iitd.ernet.in</email>
+					</author>
+					<author>
+						<name first="A. N. V." last="Satyanarayana">A. N. V. Satyanarayana</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology, Hauz Khas, New Delhi 110 016, India.</affiliation>
 					</author>
 				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-					<date type="E">2014-09-30</date>
-				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Study of total column atmospheric aerosol optical depth, ozone and precipitable water content over Bay of Bengal during BOBMEX-99</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0205-0221</page>
 				<abstract>
-					<p></p>
+					<p>The spatial and temporal variations in aerosols and precursor gases over oceanic regions have special importance in the estimation of radiative forcing parameters and thereby in the refinement of general circulation models. Extensive observations of the columnar aerosol optical depth (AOD), total column ozone (TCO) and precipitable water content (PWC) have been carried out using the on-line, multi-band solar radiometers onboard ORV Sagar Kanya (Cruise # SK 147B) over Bay of Bengal during 11th--28th August 1999. Aerosol optical and physical properties (optical depth and angstrom parameter) have been estimated at six wavelengths covering from UV to NIR (380--1020 nm) while TCO and PWC have been determined using the UV band around 300nm and NIR band around 940 nm, respectively. Added, concurrent meteorological and satellite observations during this field phase of BOBMEX-99 have been utilized to investigate spectral-temporal variations of AOD, TCO and PWC in marine environment.</p>
+					<p>The results indicate lower AODs (around 0.4 at characteristic wavelength of 500 nm) and size distributions with abundance of coarse-mode particles as compared to those aerosols of typical land origin. An interesting result that is found in the present study is the significant reduction in AOD at all wavelengths from initial to later part of observation period due to cloud-scavenging and rain-washout effects as well as signature of coastal aerosol loading. The clear-sky daytime diurnal variation of TCO shows gradual increase during post-sunrise hours, broad maximum during afternoon hours and gradual decrease during pre-sunset hours, which is considered to be due to photochemical reactions. The diurnal variation curve of PWC showed maximum ($\sim 4cm$) during morning hours and gradual decrease ($\sim 3.5cm$) towards evening hours, which are found to be greater as compared to typical values over land. Another interesting feature observed is that although the PWC values are very high, there was no proportionate or appreciable enhancement in AOD--a feature that can be utilized to infer composition of aerosols over the study region.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Bay of Bengal;total column aerosol optical depth;size distribution; ozone;precipitable water content;ship;TOMS;satellite.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="K. K." last="Dani">K. K. Dani</name>
+						<affiliation>Physical Meteorology and Aerology Division, Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Marg, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. S." last="Maheskumar">R. S. Maheskumar</name>
+						<affiliation>Physical Meteorology and Aerology Division, Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Marg, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. C. S." last="Devara">P. C. S. Devara</name>
+						<affiliation>Physical Meteorology and Aerology Division, Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Marg, Pune 411 008, India.</affiliation>
+						<email>devara@tropmet.res.in</email>
 					</author>
 				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-					<date type="E">2014-09-30</date>
-				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Observed daily large-scale rainfall patterns during BOBMEX-1999</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0223-0232</page>
 				<abstract>
-					<p></p>
+					<p>A daily rainfall dataset and the corresponding rainfall maps have been produced by objective analysis of rainfall data. The satellite estimate of rainfall and the raingauge values are merged to form the final analysis. Associated with epochs of monsoon these rainfall maps are able to show the rainfall activities over India and the Bay of Bengal region during the BOBMEX period. The intra-seasonal variations of rainfall during BOBMEX are also seen using these data. This dataset over the oceanic region compares well with other available popular datasets like GPCP and CMAP. Over land this dataset brings out the features of monsoon in more detail due to the availability of more local raingauge stations.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>BOBMEX;rainfall analysis;monsoon;Bay of Bengal;convection.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="A. K." last="Mitra">A. K. Mitra</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting, Mausam Bhavan Complex, Lodi Road, New Delhi 3, India.</affiliation>
+						<email>akm@ncmrwf.gov.in</email>
+					</author>
+					<author>
+						<name first="M. Das" last="Gupta">M. Das Gupta</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting, Mausam Bhavan Complex, Lodi Road, New Delhi 3, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. K." last="Paliwal">R. K. Paliwal</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting, Mausam Bhavan Complex, Lodi Road, New Delhi 3, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. V." last="Singh">S. V. Singh</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting, Mausam Bhavan Complex, Lodi Road, New Delhi 3, India.</affiliation>
 					</author>
 				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-					<date type="E">2014-09-30</date>
-				</dates>
 			</entry>
 			<entry hassup="0">
 				<title></title>
