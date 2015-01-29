@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE cs SYSTEM "journal.dtd">
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 
 <journal title="Journal of Astrophysics and Astronomy" short="J. Astrophys. Astr." mnemonic="jaa">
 	<volume vnum="021">
@@ -6609,8 +6610,2384 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="028">%raghu
+	<volume vnum="028">
 		<issue inum="01" month="03" year="2007">
+			<entry hassup="0">
+				<title>Oblique Propagation and Dissipation of Alfv´enWaves in Coronal Holes</title>
+				<feature></feature>
+				<page>0001-0007</page>
+				<abstract>
+					<p>We investigate the effect of viscosity and magnetic diffusivity on the oblique propagation and dissipation of Alfvén waves with respect to the normal outward direction, making use of MHD equations, density, temperature and magnetic field structure in coronal holes and underlying magnetic funnels. We find reduction in the damping length scale, group velocity and energy flux density as the propagation angle of Alfvén waves increases inside the coronal holes. For any propagation angle, the energy flux density and damping length scale also show a decrement in the source region of the solar wind ($\lt 1.05$ R$_{\odot}$) where these may be one of the primary energy sources, which can convert the inflow of the solar wind into the outflow. In the outer region ($\gt 1.21$ R$_{\odot}$), for any propagation angle, the energy flux density peaks match with the peaks of MgX 609.78 Å and 624.78 Å linewidths observed from the Coronal Diagnostic Spectrometer (CDS) on SOHO and the non-thermal velocity derived from these observations, justify the observed spectroscopic signature of the Alfvén wave dissipation.</p>
+				</abstract>
+				<keywords>Sun: Alfvén waves;coronal holes;solar wind.</keywords>
+				<authors>
+					<author>
+						<name first="A. K." last="Srivastava">A. K. Srivastava</name>
+						<affiliation>Department of Applied Physics, Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. N." last="Dwivedi">B. N. Dwivedi</name>
+						<affiliation>Department of Applied Physics, Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email>bholadwivedi@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-03-31</date>
+					<date type="R"></date>
+					<date type="A">2007-01-05</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Homotopy Continuation Method of Arbitrary Order of Convergence for Solving the Hyperbolic Form of Kepler’s Equation</title>
+				<feature></feature>
+				<page>0009-0016</page>
+				<abstract>
+					<p>In this paper, an efficient iterative method of arbitrary integer order of convergence $\gt 2$ has been established for solving the hyperbolic form of Kepler’s equation. The method is of a dynamic nature in the sense that, moving from one iterative scheme to the subsequent one, only additional instruction is needed. Most importantly, the method does not need any prior knowledge of the initial guess. A property which avoids the critical situations between divergent and very slow convergent solutions that may exist in other numerical methods which depend on initial guess. Computational Package for digital implementation of the method is given and is applied to many case studies.</p>
+				</abstract>
+				<keywords>Homotopy method;hyperbolic Kepler’s equation;initial value problem;orbit determination.</keywords>
+				<authors>
+					<author>
+						<name first="M. A." last="Sharaf">M. A. Sharaf</name>
+						<affiliation>Department of Astronomy, Faculty of Science, King Abdul Aziz University, Jeddah, Saudi Arabia.</affiliation>
+						<email>sharaf_adel@hotmail.com</email>
+					</author>
+					<author>
+						<name first="M. A." last="Banajh">M. A. Banajh</name>
+						<affiliation>Department of Mathematics, Girls College of Education, Jeddah, Saudi Arabia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. A." last="Alshaary">A. A. Alshaary</name>
+						<affiliation>Department of Mathematics, Girls College of Education, Jeddah, Saudi Arabia.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-18</date>
+					<date type="R"></date>
+					<date type="A">2007-01-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Modeling Repulsive Gravity with Creation</title>
+				<feature></feature>
+				<page>0017-0027</page>
+				<abstract>
+					<p>There is a growing interest among cosmologists for theories with negative energy scalar fields and creation, in order to model a repulsive gravity. The classical steady state cosmology proposed by Bondi, Gold &amp; Hoyle in 1948, was the first such theory which used a negative kinetic energy creation field to invoke creation of matter. We emphasize that creation plays a very crucial role in cosmology and provides a natural explanation to the various explosive phenomena occurring in local $(z \lt 0.1)$ and extra galactic universe.We exemplify this point of view by considering the resurrected version of this theory – the quasi-steady state theory, which tries to relate creation events directly to the large scale dynamics of the universe and supplies more natural explanations of the observed phenomena.</p>
+					<p>Although the theory predicts a decelerating universe at the present era, it explains successfully the recent SNe Ia observations (which require an accelerating universe in the standard cosmology), as we show in this paper by performing a Bayesian analysis of the data.</p>
+				</abstract>
+				<keywords>Cosmology: theory, observation, creation;negative energy fields;SNe Ia.</keywords>
+				<authors>
+					<author>
+						<name first="R. G." last="Vishwakarma">R. G. Vishwakarma</name>
+						<affiliation>Unidad Académica de Matemáticas, Universidad Autónoma de Zacatecas, C.P. 98068, Zacatecas, ZAC, Mexico.</affiliation>
+						<email>rvishwa@mate.reduaz.mx</email>
+					</author>
+					<author>
+						<name first="J. V." last="Narlikar">J. V. Narlikar</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Ganeshkhind, Pune 411 007, India.</affiliation>
+						<email>jvn@iucaa.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-05-08</date>
+					<date type="R"></date>
+					<date type="A">2007-01-18</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Kinematical Diagrams for Conical Relativistic Jets</title>
+				<feature></feature>
+				<page>0029-0040</page>
+				<abstract>
+					<p>We present diagrams depicting the expected inter-dependences of two key kinematical parameters of radio knots in the parsec-scale jets of blazars, deduced from VLBI observations. The two parameters are the apparent speed ($v_{\text{app}} = c\beta_{\text{app}}$) and the <i>effective</i> Doppler boosting factor ($\delta_{\text{eff}}$) of the relativistically moving radio knot. A novel aspect of these analytical computations of $\beta$–$\delta$ diagrams is that they are made for parsecscale jets having a <i>conical</i> shape, with modest opening angles ($\omega$ up to $10^{\circ}$), in accord with the VLBI observations of the nuclei of the nearest radio galaxies. Another motivating factor is the recent finding that consideration of a conical geometry can have important implications for the interpretation of a variety of radio observations of blazar jets. In addition to uniform jet flows (i.e., those having a uniform bulk Lorentz factor, $\Gamma$), computational results are also presented for stratified jets where an ultra-relativistic central spine along the jet axis is surrounded by a slower moving sheath, possibly arising from a velocity shear.</p>
+				</abstract>
+				<keywords>Blazars: general;galaxies: active, quasars, jets, nuclei, radio continuum.</keywords>
+				<authors>
+					<author>
+						<name first="Gopal" last="Krishna">Gopal-Krishna</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune University Campus, Post Bag No. 3, Pune 411 007, India.</affiliation>
+						<email>krishna@ncra.tifr.res.in</email>
+					</author>
+					<author>
+						<name first="Pronoy" last="Sircar">Pronoy Sircar</name>
+						<affiliation>Department of Physics, Indian Institute of Technology, Kanpur, India.</affiliation>
+						<email>pronoys@iitk.ac.in</email>
+					</author>
+					<author>
+						<name first="Samir" last="Dhurde">Samir Dhurde</name>
+						<affiliation>Inter-University Centre for Astronomy &amp; Astrophysics, Pune University Campus, Post Bag No. 4, Pune 411 007, India.</affiliation>
+						<email>samir@iucaa.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-08-07</date>
+					<date type="R"></date>
+					<date type="A">2007-02-28</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>GMRT and VLA Observations at 49 cm and 20 cm of the HII Region near $l = 24.8^{\circ}$, $b = 0.1^{\circ}$</title>
+				<feature></feature>
+				<page>0041-0053</page>
+				<abstract>
+					<p>We report multi-frequency radio continuum and hydrogen radio recombination line observations of HII regions near $l = 24.8^{\circ}$, $b = 0.1^{\circ}$ using the Giant Metrewave Radio Telescope(GMRT) at 1.28 GHz $(n = 172)$, 0.61 GHz ($n = 220$) and the Very Large Array (VLA) at 1.42 GHz ($n = 166$). The region consists of a large number of resolved HII regions and a few compact HII regions as seen in our continuum maps, many of which have associated infrared (IR) point sources. The largest HII region at $l = 24.83^{\circ}$ and $b = 0.1^{\circ}$ is a few arcmins in size and has a shell-type morphology. It is a massive HII region enclosing $\sim 550 M_{\odot}$ with a linear size of 7 pc and an rms electron density of $\sim 110$ cm^{-3}$ at a kinematic distance of 6 kpc. The required ionization can be provided by a single star of spectral type O5.5.</p>
+					<p>We also report detection of hydrogen recombination lines from the HII region at $l = 24.83^{\circ}$ and $b = 0.1^{\circ}$ at all observed frequencies near $V_{lsr} = 100$ km s$^{-1}$. We model the observed integrated line flux density as arising in the diffuse HII region and find that the best fitting model has an electron density comparable to that derived from the continuum.We also report detection of hydrogen recombination lines from two other HII regions in the field.</p>
+				</abstract>
+				<keywords>Interstellar medium;radio recombination lines;HII regions;envelopes.</keywords>
+				<authors>
+					<author>
+						<name first="N. G." last="Kantharia">N. G. Kantharia</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Post Bag 3, Ganeshkhind, Pune 411 007, India.</affiliation>
+						<email>ngk@ncra.tifr.res.in</email>
+					</author>
+					<author>
+						<name first="W. M." last="Goss">W. M. Goss</name>
+						<affiliation>National Radio Astronomy Observatory, P. O. Box 0, Socorro, NM 87801, USA.</affiliation>
+						<email>mgoss@aoc.nrao.edu</email>
+					</author>
+					<author>
+						<name first="D. Anish" last="Roshi">D. Anish Roshi</name>
+						<affiliation>Raman Research Institute, Sadashivnagar, Bangalore 560 080, India.</affiliation>
+						<email>anish@rri.res.in</email>
+					</author>
+					<author>
+						<name first="Niruj R." last="Mohan">Niruj R. Mohan</name>
+						<affiliation>Sterrewacht, Leiden, The Netherlands.</affiliation>
+						<email>mohan@strw.leidenuniv.nl</email>
+					</author>
+					<author>
+						<name first="Francois" last="Viallefond">Francois Viallefond</name>
+						<affiliation>Observatoire de Paris, Paris, France.</affiliation>
+						<email>fviallef@maat.obspm.fr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-09-05</date>
+					<date type="R"></date>
+					<date type="A">2007-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evolution of the Distribution of Neutron Exposures in the Galaxy Disc: An Analytical Model</title>
+				<feature></feature>
+				<page>0055-0066</page>
+				<abstract>
+					<p>In this work, based on the analytical model with delayed production approximation developed by Pagel &amp; Tautvaišienė (1995) for the Galaxy, the analytic solutions of the distribution of neutron exposures of the Galaxy (hereafter NEG) are obtained. The present results appear to reasonably reproduce the distribution of neutron exposures of the solar system (hereafter NES). The strong component and the main component of the NES are built up in different epochs. Firstly, the strong component is produced by the s-process nucleosynthesis in the metal-poor AGB stars, starting from [Fe/H] $\approx -1.16$ to [Fe/H] $\approx -0.66$, corresponding to the time interval $1.06 \lt t \lt 2.6$ Gyr. Secondly, the main component is produced by the s-process in the galactic disk AGB stars, starting from [Fe/H] $\approx -0.66$ to [Fe/H] $\approx 0$, corresponding to the time interval $t \gt 2.6$ Gyr. The analytic solutions have the advantage of an understanding of the structure and the properties of the NEG. The NEG is believed to be an effective tool to study the s-process element abundance distributions in the Galaxy at different epochs and the galactic chemical evolution of the neutron-capture elements.</p>
+				</abstract>
+				<keywords>Nucleosynthesis;neutron exposures;abundances;stars: AGB stars: low-mass stars;galaxy: evolution.</keywords>
+				<authors>
+					<author>
+						<name first="Wenyuan" last="Cui">Wenyuan Cui</name>
+						<affiliation>Department of Physics, Hebei Normal University, Shijiazhuang 050 016, P. R. China.</affiliation>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100 012, P. R. China.</affiliation>
+						<affiliation>Graduate School of Chinese Academy of Sciences, Beijing 100 049, P. R. China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Weijuan" last="Zhang">Weijuan Zhang</name>
+						<affiliation>Department of Physics, Hebei Normal University, Shijiazhuang 050 016, P. R. China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bo" last="Zhang">Bo Zhang</name>
+						<affiliation>Department of Physics, Hebei Normal University, Shijiazhuang 050 016, P. R. China.</affiliation>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100 012, P. R. China.</affiliation>
+						<email>zhangbo@hebtu.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-01-05</date>
+					<date type="R"></date>
+					<date type="A">2007-02-06</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02-03" month="06-09" year="2007">
+			<entry hassup="0">
+				<title>Cosmology and Cosmogony in a Cyclic Universe</title>
+				<feature></feature>
+				<page>0067-0099</page>
+				<abstract>
+					<p>In this paper we discuss the properties of the quasi-steady state cosmological model (QSSC) developed in 1993 in its role as a cyclic model of the universe driven by a negative energy scalar field. We discuss the origin of such a scalar field in the primary creation process first described by F. Hoyle &amp; J. V. Narlikar forty years ago. It is shown that the creation processes which take place in the nuclei of galaxies are closely linked to the high energy and explosive phenomena, which are commonly observed in galaxies at all redshifts.</p>
+					<p>The cyclic nature of the universe provides a natural link between the places of origin of the microwave background radiation (arising in hydrogen burning in stars), and the origin of the lightest nuclei (H, D, He$^{3}$ and He$^{4}$). It also allows us to relate the large scale cyclic properties of the universe to events taking place in the nuclei of galaxies. Observational evidence shows that ejection of matter and energy from these centers in the form of compact objects, gas and relativistic particles is responsible for the population of quasi-stellar objects (QSOs) and gamma-ray burst sources in the universe.</p>
+					<p>In the later parts of the paper we briefly discuss the major unsolved problems of this integrated cosmological and cosmogonical scheme – the understanding of the origin of the intrinsic redshifts, and the periodicities in the redshift distribution of the QSOs.</p>
+				</abstract>
+				<keywords>Cosmology;cosmogony;high energy phenomena.</keywords>
+				<authors>
+					<author>
+						<name first="Jayant V." last="Narlikar">Jayant V. Narlikar</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Pune 411 007, India.</affiliation>
+						<email>jvn@iucaa.ernet.in</email>
+					</author>
+					<author>
+						<name first="Geoffrey" last="Burbidge">Geoffrey Burbidge</name>
+						<affiliation>Center for Astrophysics and Space Sciences, University of California, San Diego, CA 92093-0424, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. G." last="Vishwakarma">R. G. Vishwakarma</name>
+						<affiliation>Department of Mathematics, Autonomous University of Zacatecas, Zacatecas, ZAC C.P. 98060, Mexico.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-08-08</date>
+					<date type="R"></date>
+					<date type="A">2007-04-26</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Some Doubts on the Validity of the Foreground Galactic Contribution Subtraction from Microwave Anisotropies</title>
+				<feature></feature>
+				<page>0101-0116</page>
+				<abstract>
+					<p>The Galactic foreground contamination in CMBR anisotropies, especially from the dust component, is not easily separable from the cosmological or extragalactic component. In this paper, some doubts will be raised concerning the validity of the methods used until now to remove Galactic dust emission and will show that none of them achieves its goal.</p>
+					<p>First, I review the recent bibliography on the topic and discuss critically the methods of foreground subtraction: the cross-correlation with templates, analysis assuming the spectral shape of the Galactic components, the “maximum entropy method”, “internal linear combination”, and “wavelet-based high resolution fitting of internal templates”. Second, I analyse the Galactic latitude dependence from WMAP data. The frequency dependence is discussed with data in the available literature. The result is that all methods of subtracting the Galactic contamination are inaccurate. The Galactic latitude dependence analysis or the frequency dependence of the anisotropies in the range 50–250 GHz put a constraint on the maximum Galactic contribution in the power spectrum to be less than $\sim 10\%$ (68\%\ C. L.) for an $\sim 1$ degree scale, and possibly higher for larger scales.</p>
+					<p>The origin of most of the signals in the CMBR anisotropies is not Galactic. In any case, the subtraction of the galaxy is not accurate enough to allow a “precision Cosmology”; other sources of contamination (extragalactic, solar system) are also present.</p>
+				</abstract>
+				<keywords>Cosmic microwave background;ISM: clouds;dust, extinction;ISM: structure.</keywords>
+				<authors>
+					<author>
+						<name first="Martín" last="López-Corredoira">Martín López-Corredoira</name>
+						<affiliation>Instituto de Astrofísica de Canarias, C/.Vía Láctea, s/n, E-38200 La Laguna (S/C de Tenerife), Spain.</affiliation>
+						<email>martinlc@iac.es</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-04-05</date>
+					<date type="R"></date>
+					<date type="A">2007-08-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of the Size of Cosmological N-body Simulations on Physical Quantities – II: Halo Formation and Destruction Rate</title>
+				<feature></feature>
+				<page>0117-0131</page>
+				<abstract>
+					<p>In this study we show how errors due to finite box size affect formation and the destruction rate for haloes in cosmological N-body simulations. In an earlier study we gave an analytic prescription of finding the corrections in the mass function. Following the same approach, in this paper we give analytical expressions for corrections in the formation rate, destruction rate and the rate of change in comoving number density, and compute their expected values for the power law $(n = -2)$ and LCDM models.</p>
+				</abstract>
+				<keywords>Large scale structure of Universe;N-body simulations;galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Jayanti" last="Prasad">Jayanti Prasad</name>
+						<affiliation>Harish-Chandra Research Institute, Allahabad 211 019, India.</affiliation>
+						<email>jayanti@mri.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-02-22</date>
+					<date type="R"></date>
+					<date type="A">2007-09-05</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On Surface Tension for Compact Stars</title>
+				<feature></feature>
+				<page>0133-0138</page>
+				<abstract>
+					<p>In an earlier analysis it was demonstrated that general relativity gives higher values of surface tension in strange stars with quark matter than neutron stars. We generate the modified Tolman–Oppenheimer–Volkoff equation to incorporate anisotropic matter and use this to show that pressure anisotropy provides for a wide range of behaviour in the surface tension than is the case with isotropic pressures. In particular, it is possible that anisotropy drastically decreases the value of the surface tension.</p>
+				</abstract>
+				<keywords>Relativity;pulsars;equation of state.</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Sharma">R. Sharma</name>
+						<affiliation>Astrophysics and Cosmology Research Unit, School of Mathematical Sciences, University of KwaZulu–Natal, Private Bag X54001, Durban 4000, South Africa.</affiliation>
+						<email>206526115@ukzn.ac.za</email>
+					</author>
+					<author>
+						<name first="S. D." last="Maharaj">S. D. Maharaj</name>
+						<affiliation>Astrophysics and Cosmology Research Unit, School of Mathematical Sciences, University of KwaZulu–Natal, Private Bag X54001, Durban 4000, South Africa.</affiliation>
+						<email>maharaj@ukzn.ac.za</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-02-22</date>
+					<date type="R"></date>
+					<date type="A">2007-05-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Does Si Play a Role in the Formation of Extrasolar Planet Systems?</title>
+				<feature></feature>
+				<page>0139-0145</page>
+				<abstract>
+					<p>With the high signal-to-noise ratio spectra, we obtained Si abundances of 22 extrasolar planet host stars, and discussed some constraints on the planet formation. Using our silicon abundance results and other authors’ Si abundance studies about planets-harboring stars, we investigated the correlation between the dynamical properties and the silicon abundance. We propose a hypothesis that higher primordial metallicity in the host stars’ birth cloud with higher abundance of Si will make the cloud more sticky to bypass the time scale restriction in planet formation and easier to form the planets.</p>
+				</abstract>
+				<keywords>Planetary systems: formation;stars: abundances;stars: late-type.</keywords>
+				<authors>
+					<author>
+						<name first="C." last="Huang">C. Huang</name>
+						<affiliation>Department of Astronomy, Peking University, Beijing 100 871, China.</affiliation>
+						<affiliation>National Center for Space Weather, China Meteorological Administration, Beijing 100 081, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Zhao">G. Zhao</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100 012, China.</affiliation>
+						<email>gzhao@bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="H. W." last="Zhang">H. W. Zhang</name>
+						<affiliation>Department of Astronomy, Peking University, Beijing 100 871, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y. Q." last="Chen">Y. Q. Chen</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100 012, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-08-31</date>
+					<date type="R"></date>
+					<date type="A">2007-08-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Activity Cycle of Solar Filaments</title>
+				<feature></feature>
+				<page>0147-0156</page>
+				<abstract>
+					<p>Long-term variation in the distribution of the solar filaments observed at the Observatorie de Paris, Section de Meudon from March 1919 to December 1989 is presented to compare with sunspot cycle and to study the periodicity in the filament activity, namely the periods of the coronal activity with the Morlet wavelet used. It is inferred that the activity cycle of solar filaments should have the same cycle length as sunspot cycle, but the cycle behavior of solar filaments is globally similar in profile with, but different in detail from, that of sunspot cycles. The amplitude of solar magnetic activity should not keep in phase with the complexity of solar magnetic activity. The possible periods in the filament activity are about 10.44 and 19.20 years. The wavelet local power spectrum of the period 10.44 years is statistically significant during the whole consideration time. The wavelet local power spectrum of the period 19.20 years is under the 95\%\ confidence spectrum during the whole consideration time, but over the mean red-noise spectrum of $\alpha = 0.72$ before approximate Carrington rotation number 1500, and after that the filament activity does not statistically show the period. Wavelet reconstruction indicates that the early data of the filament archive (in and before cycle 16) are more noiseful than the later (in and after cycle 17).</p>
+				</abstract>
+				<keywords>Sun: activity;filaments;active cycle.</keywords>
+				<authors>
+					<author>
+						<name first="K. J." last="Li">K. J. Li</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Kunming 650 011, China.</affiliation>
+						<email>lkj@ynao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Q. X." last="Li">Q. X. Li</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Kunming 650 011, China.</affiliation>
+						<affiliation>School of Graduate, CAS, Beijing 100 863, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. X." last="Gao">P. X. Gao</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Kunming 650 011, China.</affiliation>
+						<affiliation>School of Graduate, CAS, Beijing 100 863, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Mu">J. Mu</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Kunming 650 011, China.</affiliation>
+						<affiliation>School of Graduate, CAS, Beijing 100 863, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. D." last="Chen">H. D. Chen</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Kunming 650 011, China.</affiliation>
+						<affiliation>School of Graduate, CAS, Beijing 100 863, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T. W." last="Su">T. W. Su</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Kunming 650 011, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-02-28</date>
+					<date type="R"></date>
+					<date type="A">2007-09-02</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Forbidden Transition Probabilities of Astrophysical Interest among Low-lying States of V III</title>
+				<feature></feature>
+				<page>0157-0166</page>
+				<abstract>
+					<p>Electric and magnetic multipole transitions among low-lying states of doubly ionized vanadium were computed using the multi-configuration Hartree–Fock (MCHF) method with Breit–Pauli (BP) corrections to a non-relativistic Hamiltonian. Energy levels were determined up to and including $3d^2({}^{1}G)4s$ b ${}^{2}G_{7/2}$ and computed energies were found to be in good agreement with experiment and other theories. In addition to Einstein $A_{ki}$ coefficients for some E2 and M1 transitions, lifetime data and selected weighted oscillator strengths are also reported.</p>
+				</abstract>
+				<keywords>Atomic structure calculations;atomic data;oscillator strength;lifetimes.</keywords>
+				<authors>
+					<author>
+						<name first="Andrei" last="Irimia">Andrei Irimia</name>
+						<affiliation>Department of Physics and Astronomy, Vanderbilt University, Nashville, Tennessee, 37235, USA.</affiliation>
+						<email>andrei.irimia@vanderbilt.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-05-15</date>
+					<date type="R"></date>
+					<date type="A">2007-08-07</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2007">
+			<entry hassup="0">
+				<title>Causal Temperature Profiles in Horizon-free Collapse</title>
+				<feature></feature>
+				<page>0167-0174</page>
+				<abstract>
+					<p>We investigate the causal temperature profiles in a recent model of a radiating star undergoing dissipative gravitational collapse without the formation of a horizon. It is shown that this simple exact model provides physically reasonable behaviour for the temperature profile within the framework of extended irreversible thermodynamics.</p>
+				</abstract>
+				<keywords>Horizon-free collapse;thermodynamics.</keywords>
+				<authors>
+					<author>
+						<name first="N. F." last="Naidu">N. F. Naidu</name>
+						<affiliation>Astrophysics and Cosmology Research Unit, School of Mathematics, University of KwaZulu Natal, Durban 4041, South Africa.</affiliation>
+						<email>203507365@ukzn.ac.za</email>
+					</author>
+					<author>
+						<name first="M." last="Govender">M. Govender</name>
+						<affiliation>Astrophysics and Cosmology Research Unit, School of Mathematics, University of KwaZulu Natal, Durban 4041, South Africa.</affiliation>
+						<email>govenderm43@ukzn.ac.za</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-03-24</date>
+					<date type="R"></date>
+					<date type="A">2008-02-12</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Search for Orbital Motion of the Pulsar 4U 1626-67: Candidate for a Neutron Star with a Supernova Fall-back Accretion Disk</title>
+				<feature></feature>
+				<page>0175-0184</page>
+				<abstract>
+					<p>We report here results from a new search for orbital motion of the accretion powered X-ray pulsar 4U 1626-67 using two different analysis techniques. X-ray light curve obtained with the Proportional Counter Array of the Rossi X-ray Timing Explorer during a long observation carried out in February 1996, was used in this work. The spin period and the local period derivative were first determined from the broad 2–60 keV energy band light curve and these were used for all subsequent timing analysis. In the first technique, the orbital phase dependent pulse arrival times were determined for different trial orbital periods in the range of 500 to 10,000 s. We have determined a $3\sigma$ upper limit of 13 lt-ms on the projected semimajor axis of the orbit of the neutron star for most of the orbital period range, while in some narrow orbital period ranges, covering about 10\%\ of the total orbital period range, it is 20 lt-ms. In the second method, we have measured the pulse arrival times at intervals of 100 s over the entire duration of the observation. The pulse arrival time data were used to put an upper limit on any periodic arrival time delay using the Lomb–Scargle periodogram. We have obtained a similar upper limit of 10 lt-ms using the second method over the orbital period range of 500–10,000 s. This puts very stringent upper limits for the mass of the compact object except for the unlikely case of a complete face-on orientation of the binary system with respect to our line-of-sight. In the light of this measurement and the earlier reports, we discuss the possibility of this system being a neutron star with a supernovae fall-back accretion disk.</p>
+				</abstract>
+				<keywords>Accretion, accretion disks;binaries: general;stars: individual (4U 1626-67);stars: neutron;X-rays: stars.</keywords>
+				<authors>
+					<author>
+						<name first="Chetana" last="Jain">Chetana Jain</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email>chetanajain11@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Biswajit" last="Paul">Biswajit Paul</name>
+						<affiliation>Raman Research Institute, Sadashivnagar, C. V. Raman Avenue, Bangalore 560 080, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kaustubh" last="Joshi">Kaustubh Joshi</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology – Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anjan" last="Dutta">Anjan Dutta</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Harsha" last="Raichur">Harsha Raichur</name>
+						<affiliation>Raman Research Institute, Sadashivnagar, C. V. Raman Avenue, Bangalore 560 080, India.</affiliation>
+						<affiliation>Joint Astronomy Programme, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-06-01</date>
+					<date type="R">2008-01-31</date>
+					<date type="A">2008-02-01</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Pulse Phase Dependence of the Magnetar Bursts</title>
+				<feature></feature>
+				<page>0185-0196</page>
+				<abstract>
+					<p>We report here results from a study of X-ray bursts from 3 magnetar candidates (SGR 1806–20, SGR 1900+14 and AXP 1E 2259+586). We have searched for a pulse phase dependence of the X-ray burst rate from these sources. X-ray light curves were obtained with the Proportional Counter Array on-board the Rossi X-ray Timing Explorer during the periods of intense burst activity in these sources. On detailed analysis of the three sources, we found a very significant burst rate for all pulsar phases. However, some locations appear to produce bursts slightly more often, rendering the non-isotropic distribution. Only in the case of SGR 1900+14, there is a clear pulse phase dependence of burst rate.</p>
+				</abstract>
+				<keywords>Gamma rays: bursts;neutron stars, magnetars: individual (SGR 1806–20, SGR 1900+14 and AXP 1E 2259+586);X-rays: bursts.</keywords>
+				<authors>
+					<author>
+						<name first="Chetana" last="Jain">Chetana Jain</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email>chetanajain11@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Anjan" last="Dutta">Anjan Dutta</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biswajit" last="Paul">Biswajit Paul</name>
+						<affiliation>Raman Research Institute, Sadashivnagar, C. V. Raman Avenue, Bangalore 560 080, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-10-03</date>
+					<date type="R">2008-02-06</date>
+					<date type="A">2008-02-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Orbital Evolution Measurement of the Accreting Millisecond X-ray Pulsar SAX J1808.4–3658</title>
+				<feature></feature>
+				<page>0197-0206</page>
+				<abstract>
+					<p>We present results from a pulse timing analysis of the accretion-powered millisecond X-ray pulsar SAX J1808.4–3658 using X-ray data obtained during four outbursts of this source. Extensive observations were made with the proportional counter array of the Rossi X-ray Timing Explorer (RXTE) during the four outbursts that occurred in 1998, 2000, 2002 and 2005. Instead of measuring the arrival times of individual pulses or the pulse arrival time delay measurement that is commonly used to determine the orbital parameters of binary pulsars, we have determined the orbital ephemeris during each observation by optimizing the pulse detection against a range of trial ephemeris values. The source exhibits a significant pulse shape variability during the outbursts. The technique used by us does not depend on the pulse profile evolution, and is therefore, different from the standard pulse timing analysis. Using 27 measurements of orbital ephemerides during the four outbursts spread over more than 7 years and more than 31,000 binary orbits, we have derived an accurate value of the orbital period of 7249.156862(5) s (MJD = 50915) and detected an orbital period derivative of $(3.14 \pm 0.21) \times 10^{-12}$ s s$^{-1}$. We have included a table of the 27 mid-eclipse time measurements of this source that will be valuable for further studies of the orbital evolution of the source, especially with ASTROSAT. We point out that the measured rate of orbital period evolution is considerably faster than the most commonly discussed mechanisms of orbital period evolution like mass transfer, mass loss from the companion star and gravitational wave radiation. The present time scale of orbital period change, 73 Myr is therefore likely to be a transient high value of period evolution and similar measurements during subsequent outbursts of SAX J1808.4–3658 will help us to resolve this.</p>
+				</abstract>
+				<keywords>Stars: neutron stars;pulsars: individual (SAX J1808.4–3658), magnetic fields;X-rays: binaries;accretion.</keywords>
+				<authors>
+					<author>
+						<name first="Chetana" last="Jain">Chetana Jain</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email>chetanajain11@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Anjan" last="Dutta">Anjan Dutta</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biswajit" last="Paul">Biswajit Paul</name>
+						<affiliation>Raman Research Institute, Sadashivnagar, C.V. Raman Avenue, Bangalore 560 080, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-10-01</date>
+					<date type="R">2007-12-05</date>
+					<date type="A">2007-12-06</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Distribution of Latitudes and Speeds of Coronal Mass Ejections in the Northern and Southern Hemispheres in Cycle 23</title>
+				<feature></feature>
+				<page>0207-0215</page>
+				<abstract>
+					<p>Distribution of latitudes and speeds of Coronal Mass Ejections (CMEs) in the northern and southern hemispheres in cycle 23, from September 1996 to December 2006, have been analyzed. By calculating the actual probability of the hemispheric distribution of the activity of the CME, we find that a southern dominance of the activity of the CME is shown to occur in cycle 23 from September 1996 to December 2006. The CME activity occurs at all latitudes and is most common at low latitudes. This should furnish evidence to support that CMEs are associated with source magnetic structures on a large spatial scale, even with transequatorial source magnetic structures on a large spatial scale. The latitudinal distribution of CMEs in the northern and southern hemispheres are no different from a statistical point of view. The speed distribution in the northern and southern hemispheres are nearly identical and to a good approximation they can be fitted with a single lognormal distribution. This finding implies that, statistically, there is no physical distinction between the CME events in the southern and northern hemispheres and the same mechanism of a nonlinear nature acting in both the CME events in the northern and southern hemispheres. Our conclusions seem to suggest that the northern–southern asymmetry of the CME events is related to the northern–southern asymmetry in solar dynamo theory (Jiang <i>et al.</i> 2007).</p>
+				</abstract>
+				<keywords>Sun: activity;Sun: Coronal Mass Ejections (CMEs).</keywords>
+				<authors>
+					<author>
+						<name first="P. X." last="Gao">P. X. Gao</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Yunnan, China.</affiliation>
+						<affiliation>School of Graduate, CAS, Beijing, China.</affiliation>
+						<email>gpx@ynao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Q. X." last="Li">Q. X. Li</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Yunnan, China.</affiliation>
+						<affiliation>School of Graduate, CAS, Beijing, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. H." last="Zhong">S. H. Zhong</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, CAS, Yunnan, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-08-26</date>
+					<date type="R">2008-02-12</date>
+					<date type="A">2008-02-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Velocity Curve Analysis of the Spectroscopic Binary Stars PV Pup, HD 141929, EE Cet and V921 Her by Nonlinear Regression</title>
+				<feature></feature>
+				<page>0217-0230</page>
+				<abstract>
+					<p>We use the method introduced by Karami &amp; Mohebi (2007), and Karami &amp; Teimoorinia (2007) which enable us to derive the orbital parameters of the spectroscopic binary stars by the nonlinear least squares of observed $vs$. curve fitting (o–c). Using the measured experimental data for radial velocities of the four double-lined spectroscopic binary systems PV Pup, HD 141929, EE Cet and V921 Her, we find both the orbital and the combined spectroscopic elements of these systems. Our numerical results are in good agreement with those obtained using the method of Lehmann-Filhés.</p>
+				</abstract>
+				<keywords>Stars: binaries: eclipsing;stars: binaries: spectroscopic.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Karami">K. Karami</name>
+						<affiliation>Department of Physics, University of Kurdistan, Pasdaran St., Sanandaj, Iran.</affiliation>
+						<affiliation>Research Institute for Astronomy &amp; Astrophysics of Maragha (RIAAM), Maragha, Iran.</affiliation>
+						<affiliation>Institute for Advanced Studies in Basic Sciences (IASBS), Gava Zang, Zanjan, Iran.</affiliation>
+						<email>karami@iasbs.ac.ir</email>
+					</author>
+					<author>
+						<name first="R." last="Mohebi">R. Mohebi</name>
+						<affiliation>Department of Physics, University of Kurdistan, Pasdaran St., Sanandaj, Iran.</affiliation>
+						<email>rozitamohebi@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-11-15</date>
+					<date type="R">2007-11-20</date>
+					<date type="A">2007-11-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0231-0232</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0233-0234</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="029">
+		<issue inum="01-02" month="03-06" year="2008">
+			<entry hassup="0">
+				<title>Editorial</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0001-0002</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Judith T." last="Karpen">Judith T. Karpen</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Keynote Address: Outstanding Problems in Solar Physics</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0003-0016</page>
+				<abstract>
+					<p>Celebrating the diamond jubilee of the Physics Research Laboratory (PRL) in Ahmedabad, India, we look back over the last six decades in solar physics and contemplate on the ten outstanding problems (or research foci) in solar physics:</p>
+					<ol type="arabic">
+						<li>The solar neutrino problem</li>
+						<li>Structure of the solar interior (helioseismology)</li>
+						<li>The solar magnetic field (dynamo, solar cycle, corona)</li>
+						<li>Hydrodynamics of coronal loops</li>
+						<li>MHD oscillations and waves (coronal seismology)</li>
+						<li>The coronal heating problem</li>
+						<li>Self-organized criticality (from nanoflares to giant flares)</li>
+						<li>Magnetic reconnection processes</li>
+						<li>Particle acceleration processes</li>
+						<li>Coronal mass ejections and coronal dimming</li>
+					</ol>
+					<p>The first two problems have been largely solved recently, while the other eight selected problems are still pending a final solution, and thus remain persistent <i>Challenges for Solar Cycle 24</i>, the theme of this jubilee conference.</p>
+				</abstract>
+				<keywords>Solar neutrinos;solar interior;helioseismology;solar magnetic field;solar: corona, cycle, flares;magnetohydrodynamics (MHD);MHD: oscillations, waves;coronal: heating, dimming;self-organized criticality;particle acceleration;coronal mass ejections (CME).</keywords>
+				<authors>
+					<author>
+						<name first="Markus J." last="Aschwanden">Markus J. Aschwanden</name>
+						<affiliation>Lockheed Martin Advanced Technology Center, Solar and Astrophysics Laboratory, Bldg. 252, Org. ADBS, 3251 Hanover St., Palo Alto, CA 94304, USA.</affiliation>
+						<email>aschwanden@lmsal.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Solar Magnetic Fields</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0019-0028</page>
+				<abstract>
+					<p>Since the structuring and variability of the Sun and other stars are governed by magnetic fields, much of present-day stellar physics centers around the measurement and understanding of the magnetic fields and their interactions. The Sun, being a prototypical star, plays a unique role in astrophysics, since its proximity allows the fundamental processes to be explored in detail. The PRL anniversary gives us an opportunity to look back at past milestones and try to identify the main unsolved issues that will be addressed in the future.</p>
+				</abstract>
+				<keywords>Sun;magnetic fields;polarimetry;history of science.</keywords>
+				<authors>
+					<author>
+						<name first="J. O." last="Stenflo">J. O. Stenflo</name>
+						<affiliation>Institute of Astronomy, ETH Zurich, CH-8092 Zurich, Switzerland.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Global Solar Dynamo Models: Simulations and Predictions</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0029-0039</page>
+				<abstract>
+					<p>Flux-transport type solar dynamos have achieved considerable success in correctly simulating many solar cycle features, and are now being used for prediction of solar cycle timing and amplitude.We first define flux-transport dynamos and demonstrate how they work. The essential added ingredient in this class of models is meridional circulation, which governs the dynamo period and also plays a crucial role in determining the Sun’s memory about its past magnetic fields.We show that flux-transport dynamo models can explain many key features of solar cycles. Then we show that a predictive tool can be built from this class of dynamo that can be used to predict mean solar cycle features by assimilating magnetic field data from previous cycles.</p>
+				</abstract>
+				<keywords>Sun;magnetic fields: solar cycle;dynamo;prediction.</keywords>
+				<authors>
+					<author>
+						<name first="Mausumi" last="Dikpati">Mausumi Dikpati</name>
+						<affiliation>High Altitude Observatory, NCAR, 3080 Center Green, Boulder CO 80301, USA.</affiliation>
+						<email>dikpati@hao.ucar.edu</email>
+					</author>
+					<author>
+						<name first="Peter A." last="Gilman">Peter A. Gilman</name>
+						<affiliation>High Altitude Observatory, NCAR, 3080 Center Green, Boulder CO 80301, USA.</affiliation>
+						<email>gilman@hao.ucar.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Prospects for Predicting Cycle 24</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0041-0047</page>
+				<abstract>
+					<p>Although we have reliable data of solar polar fields only from the mid-1970s, it seems that the polar field at a minimum is well correlated with the next cycle, but the strength of the cycle is not correlated with the polar field produced at its end. We explain this by suggesting that the Babcock–Leighton mechanism of poloidal field generation from tilted active regions involves randomness, whereas the other aspects of the dynamo process are more ordered. To model actual cycles, we have to ‘correct’ our theoretical dynamo model by ‘feeding’ information about the polar field at the minima. Following this process, we find that our model fits the observed sunspot numbers of cycles 21–23 reasonably well and predicts that cycle 24 will be the weakest in a century.</p>
+				</abstract>
+				<keywords>Sun: magnetic field;solar cycle;MHD.</keywords>
+				<authors>
+					<author>
+						<name first="Arnab Rai" last="Choudhuri">Arnab Rai Choudhuri</name>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email>arnab@physics.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>What Helicity Can Tell Us about Solar Magnetic Fields</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0049-0056</page>
+				<abstract>
+					<p>Concept of magnetic/current helicity was introduced to solar physics about 15 years ago. Earlier studies led to discovery of such fundamental properties as hemispheric helicity rule, and role of helicity in magnetic reconnection and solar eruptions. Later, the concept was successfully applied in studies of different solar processes from solar dynamo to flare and CME phenomena. Although no silver bullet, helicity has proven to be a very useful “tool” in answering many still-puzzling questions about origin and evolution of solar magnetic fields. I present an overview of some helicity studies and briefly analyze their findings.</p>
+				</abstract>
+				<keywords>Sun;magnetic fields;helicity.</keywords>
+				<authors>
+					<author>
+						<name first="Alexei A." last="Pevtsov">Alexei A. Pevtsov</name>
+						<affiliation>National Solar Observatory, Sunspot, NM 88349, USA.</affiliation>
+						<email>apevtsov@nso.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Evolution of Vector Magnetic Field Associated with Major Flares in NOAA AR10656</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0057-0061</page>
+				<abstract>
+					<p>In this paper, we study the evolution of vector magnetic field of AR 10656 by using the observations of Huairou Solar Observing Station (HSOS, China) and Big Bear Solar Observatory (BBSO, USA). The magnetic flux emergence and cancellation, and thus, magnetic non-potential changes, are associated with the major flares in this active region. Compared with some other super-active regions, the evolution of magnetic morphologies and non-potentialities are relatively gradual, and thus the energy transportation and release are relatively slow. This gradual process may result in the recurrent flares of AR 10656.</p>
+				</abstract>
+				<keywords>Magnetic field;evolution;flares.</keywords>
+				<authors>
+					<author>
+						<name first="Shuo" last="Wang">Shuo Wang</name>
+						<affiliation>Department of Astronomy, Beijing Normal University, Beijing, 100 875, China.</affiliation>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing, 100 012, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuanyong" last="Deng">Yuanyong Deng</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing, 100 012, China.</affiliation>
+						<email>dyy@bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vasyl" last="Yurchyshyn">Vasyl Yurchyshyn</name>
+						<affiliation>Big Bear Solar Observatory, 40386 North Shore Lane, Big Bear City, CA 92914, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haimin" last="Wang">Haimin Wang</name>
+						<affiliation>Big Bear Solar Observatory, 40386 North Shore Lane, Big Bear City, CA 92914, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuanyuan" last="Liu">Yuanyuan Liu</name>
+						<affiliation>Department of Astronomy, Beijing Normal University, Beijing, 100 875, China.</affiliation>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing, 100 012, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhiliang" last="Yang">Zhiliang Yang</name>
+						<affiliation>Department of Astronomy, Beijing Normal University, Beijing, 100 875, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Inductive Magnetic Footpoint Tracking by Combining the Minimum Energy Fit with the Local Correlation Tracking and Doppler Velocity</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0063-0067</page>
+				<abstract>
+					<p>Time-dependent magneto-hydrodynamic simulations of active region coronal magnetic field require the underlying photospheric magnetic footpoint velocities. The minimum energy fit (MEF) is a new velocity inversion technique to infer the photospheric magnetic footpoint velocities using a pair of vector magnetograms, introduced by Longcope (2004). The MEF selects the smallest overall flow from several consistent flows by minimizing an energy functional. The inferred horizontal and vertical flow fields by the MEF can be further constrained by incorporating the partial or imperfect velocity information obtained through independent means. This hybrid method is expected to give a velocity close to the true magnetic footpoint velocity. Here, we demonstrate that a combination of the MEF, the local correlation tracking (LCT) and Doppler velocity is capable of inferring the velocity close to the photospheric flow.</p>
+				</abstract>
+				<keywords>Velocity;magnetic field;induction equation.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Ravindra">B. Ravindra</name>
+						<affiliation>Department of Physics, Montana State University, Bozeman, MT 59715, USA.</affiliation>
+						<email>ravindra@mithra.physics.montana.edu</email>
+					</author>
+					<author>
+						<name first="D. W." last="Longcope">D. W. Longcope</name>
+						<affiliation>Department of Physics, Montana State University, Bozeman, MT 59715, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Prediction of Peaks inWolf Numbers in Cycle 24 according to Actual Numbers of Polar Faculae</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0069-0073</page>
+				<abstract>
+					<p>Previous investigations by Makarov <i>et al.</i> have shown a relation between the peaks in the number of polar faculae and the peaks in the Wolf number. In cycles 20 and 22 the delay between peaks in polar faculae and Wolf number was 6.1 $\pm$ 0.1 year, north and south taken separately, as their peaks do not coincide. For the odd cycle 21, this shift was 5.6 years average. Polar faculae always <i>precede</i> the sunspots. The relevance of this for the dynamo mechanism is obvious. In cycle 23 the delay was 7.7 year (north) and 7.8 year (south). The approach of a deep minimum is probably responsible for this increased delay; thus for cycle 24 the delay between peaks of polar faculae and sunspots is expected to be at least 7.8 years and probably longer. The present polar faculae show 6 peaks above the smoothed average (north) and similarly 3 peaks south. The first peak for the sunspots will be at the earliest during the very end of 2007. As soon as one peak in the spots occurs the delay for cycle 24 can be estimated and the other peaks predicted.</p>
+				</abstract>
+				<keywords>Polar faculae;sunspots;dynamo;Wolf number.</keywords>
+				<authors>
+					<author>
+						<name first="D. K." last="Callebaut">D. K. Callebaut</name>
+						<affiliation>Physics Department, CGB, University of Antwerp, B-2020 Antwerp, Belgium.</affiliation>
+						<email>Dirk.Callebaut@ua.ac.be</email>
+					</author>
+					<author>
+						<name first="V. V." last="Makarova">V. V. Makarova</name>
+						<affiliation>Kislovodsk Solar Station of the PAO, 357700 Kislovodsk, Russia.</affiliation>
+						<email>mahatt@rambler.ru</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Helioseismology and the Solar Cycle: Past, Present and Future</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p>A major goal of helioseismology is to understand the mechanism of the solar cycle. In this paper, some results of helioseismic observations relevant to the cycle are briefly reviewed, the current state-of-the-art is discussed, and near-term future directions are sketched out. Topics covered include the internal rotation rate; activity-related parameter variations; the tachocline; far-side imaging; the torsional oscillation; and meridional flows.</p>
+				</abstract>
+				<keywords>Helioseismology;solar activity cycle;tachocline;far-side imaging.</keywords>
+				<authors>
+					<author>
+						<name first="Frank" last="Hill">Frank Hill</name>
+						<affiliation>National Solar Observatory, Tucson, Arizona 85719, USA.</affiliation>
+						<email>fhill@noao.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Seismic Study of Magnetic Field in the Solar Interior</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0085-0092</page>
+				<abstract>
+					<p>Magnetic field in the solar interior contributes to the even order splitting coefficients, but it is not possible to separate the effect of magnetic field from those due to other deviations from spherical symmetry. Results obtained using GONG and MDI data are discussed. Limits on possible magnetic field in the solar core and in the tachocline region are obtained. There is some signal from possible magnetic field in the convection zone, but evidence of possible temporal variation in the solar interior is only marginal.</p>
+				</abstract>
+				<keywords>Sun: oscillations, interior, magnetic field.</keywords>
+				<authors>
+					<author>
+						<name first="H. M." last="Antia">H. M. Antia</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India.</affiliation>
+						<email>antia@tifr.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Helioseismic Effects of Energetic Transients</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0093-0101</page>
+				<abstract>
+					<p>Photospheric and chromospheric signatures related to large, energetic transients such as flares and CMEs, have been extensively reported during the last several years. In addition, energetic solar transients are expected to cause helioseismic effects. Some of the recent results are reviewed here; in particular, the helioseismic effects of the powerful flares in superactive region, NOAA 10486, including the 4B/X17 superflare of October 28, 2003. We also examine the temporal variations of power in low-$l$ modes during the period May 1995–October 2005, and compare with daily, disk-integrated flare- and CME-indices to infer the effect of transients on the scale of whole solar disk.</p>
+				</abstract>
+				<keywords>Helioseismic effects—solar activity—solar transients.</keywords>
+				<authors>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, Udaipur 313 001, India.</affiliation>
+						<email>ambastha@prl.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Magnetic and Velocity Field Variations in the Active Regions NOAA 10486 and NOAA 10488</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0103-0105</page>
+				<abstract>
+					<p>We study the magnetic and velocity field evolution in the two magnetically complex active regions NOAA 10486 and NOAA 10488 observed during October–November 2003.We have used the available data to examine net flux and Doppler velocity time profiles to identify changes associated with evolutionary and transient phenomena. In particular, we report detection of rapid moving features observed in NOAA 10486 during the maximum phase of the X17.2/4B superflare of October 28, 2003. The velocity of this moving feature is estimated around 40 km/s, i.e., much greater than the usual H$\alpha$ flare-ribbons’ separation speed of 3–10 km/s, but similar to the velocity of seismic waves, i.e., $\sim 45$ km/s reported earlier by Kosovichev &amp; Zharkova (1998).</p>
+				</abstract>
+				<keywords>Sun: magnetogram;Sun: Dopplergram;Sun: flare.</keywords>
+				<authors>
+					<author>
+						<name first="Ram Ajor" last="Maurya">Ram Ajor Maurya</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email>ramajor@prl.res.in</email>
+					</author>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email>ambastha@prl.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Software for Interactively Visualizing Solar Vector Magnetograms of Udaipur Solar Observatory</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0107-0111</page>
+				<abstract>
+					<p>The Solar Vector Magnetograph (SVM) at Udaipur Solar Observatory saw its first light in April 2005. The retrieval of vector fields from the imaging spectro-polarimetric observational data requires a substantial amount of computer post-processing. The GUI-based data reduction and analysis software have been developed to make the data processing pipeline user-friendly and less time-consuming. In this paper we describe these software packages.</p>
+				</abstract>
+				<keywords>Instrumentation;polarimetry;spectroscopy.</keywords>
+				<authors>
+					<author>
+						<name first="Sanjay" last="Gosain">Sanjay Gosain</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Udaipur 313 001, India.</affiliation>
+						<email>sgosain@prl.res.in</email>
+					</author>
+					<author>
+						<name first="Sanjiv" last="Tiwari">Sanjiv Tiwari</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Udaipur 313 001, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jayant" last="Joshi">Jayant Joshi</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Udaipur 313 001, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Udaipur 313 001, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Solar Flare Physics Enlivened by TRACE and RHESSI</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0115-0124</page>
+				<abstract>
+					<p>The Transition Region and Coronal Explorer (TRACE) gave us the highest EUV spatial resolution and the Ramaty High Energy Solar Spectrometric Imager (RHESSI) gave us the highest hard X-ray and gamma-ray spectral resolution to study solar flares. We review a number of recent highlights obtained from both missions that either enhance or challenge our physical understanding of solar flares, such as:</p>
+					<ol>
+						<li>Multi-thermal Diagnostic of 6.7 and 8.0 keV Fe and Ni lines,</li>
+						<li>Multi-thermal Conduction Cooling Delays,</li>
+						<li>Chromospheric Altitude of Hard X-Ray Emission,</li>
+						<li>Evidence for Dipolar Reconnection Current Sheets,</li>
+						<li>Footpoint Motion and Reconnection Rate,</li>
+						<li>Evidence for Tripolar Magnetic Reconnection,</li>
+						<li>Displaced Electron and Ion Acceleration Sources.</li>
+					</ol>
+				</abstract>
+				<keywords>Solar flares;particle acceleration;hard X-rays.</keywords>
+				<authors>
+					<author>
+						<name first="Markus J." last="Aschwanden">Markus J. Aschwanden</name>
+						<affiliation>Lockheed Martin Advanced Technology Center, Solar and Astrophysics Laboratory, Bldg. 252, Org. ADBS, 3251 Hanover St., Palo Alto, CA 94304, USA.</affiliation>
+						<email>aschwanden@lmsal.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Emission from Solar Flares</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0125-0145</page>
+				<abstract>
+					<p>Solar X-ray Spectrometer (SOXS), the first space-borne solar astronomy experiment of India was designed to improve our current understanding of X-ray emission from the Sun in general and solar flares in particular. SOXS mission is composed of two solid state detectors, <i>viz</i>., Si and CZT semiconductors capable of observing the full disk Sun in X-ray energy range of 4–56 keV. The X-ray spectra of solar flares obtained by the Si detector in the 4–25 keV range show evidence of Fe and Fe/Ni line emission and multi-thermal plasma. The evolution of the break energy point that separates the thermal and non-thermal processes reveals increase with increasing flare plasma temperature. Small scale flare activities observed by both the detectors are found to be suitable to heat the active region corona; however their location appears to be in the transition region.</p>
+				</abstract>
+				<keywords>Solar flares;X-ray detectors;X-ray line emission and continuum;break energy;microflares.</keywords>
+				<authors>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation>Physical Research Laboratory, Department of Space, Government of India, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Malini" last="Aggarwal">Malini Aggarwal</name>
+						<affiliation>Physical Research Laboratory, Department of Space, Government of India, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Raghunandan" last="Sharma">Raghunandan Sharma</name>
+						<affiliation>Physical Research Laboratory, Department of Space, Government of India, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Studies of Flaring Plasma</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0147-0150</page>
+				<abstract>
+					<p>We present some methods of X-ray data analysis employed in our laboratory for deducing the physical parameters of flaring plasma. For example, we have used a flare well observed with Polish instrument RESIK aboard Russian <i>CORONAS-F</i> satellite. Based on a careful instrument calibration, the absolute fluxes in a number of individual spectral lines have been obtained. The analysis of these lines allows us to follow the evolution of important thermodynamic parameters characterizing the emitting plasma throughout this flare evolution.</p>
+				</abstract>
+				<keywords>Sun;flares;X-rays;spectroscopic plasma diagnostic.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Sylwester">B. Sylwester</name>
+						<affiliation>Space Research Center, Polish Academy of Sciences, Kopernika 11, 51-622 Wroclaw, Poland.</affiliation>
+						<email>bs@cbk.pan.wroc.pl</email>
+					</author>
+					<author>
+						<name first="J." last="Sylwester">J. Sylwester</name>
+						<affiliation>Space Research Center, Polish Academy of Sciences, Kopernika 11, 51-622 Wroclaw, Poland.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. J. H." last="">Phillips</name>
+						<affiliation>Mullard Space Science Laboratory, Holmbury St. Mary, Dorking, RH5 6NT, UK.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Models of Solar Irradiance Variations: Current Status</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0151-0158</page>
+				<abstract>
+					<p>Regular monitoring of solar irradiance has been carried out since 1978 to show that solar total and spectral irradiance varies at different time scales. Whereas variations on time scales of minutes to hours are due to solar oscillations and granulation, variations on longer time scales are driven by the evolution of the solar surface magnetic field. Here the most recent advances in modelling of solar irradiance variations on time scales longer than a day are briefly reviewed.</p>
+				</abstract>
+				<keywords>Sun: activity, faculae, plages, magnetic fields;solar irradiance;solar-terrestrial relations;sunspots.</keywords>
+				<authors>
+					<author>
+						<name first="Natalie A." last="Krivova">Natalie A. Krivova</name>
+						<affiliation>Max Planck Institute for Solar System Research, Katlenburg-Lindau, Germany.</affiliation>
+						<email>natalie@mps.mpg.de</email>
+					</author>
+					<author>
+						<name first="Sami K." last="Solanki">Sami K. Solanki</name>
+						<affiliation>Max Planck Institute for Solar System Research, Katlenburg-Lindau, Germany.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spatially Resolved Images and Solar Irradiance Variability</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0159-0162</page>
+				<abstract>
+					<p>The Sun is the primary source of energy that governs both the terrestrial climate and near-earth space environment. Variations in UV irradiances seen at earth are the sum of global (solar dynamo) to regional (active region, plage, network, bright points and background) solar magnetic activities that can be identified through spatially resolved photospheric, chromospheric and coronal features. In this research, the images of CaII K-line (NSO/Sac Peak) have been analysed to segregate the various chromospheric features.We derived the different indices and estimated their contribution from the time series data to total CaII K emission flux and UV irradiance variability. A part of the important results from this research is discussed in this paper.</p>
+				</abstract>
+				<keywords>Solar chromosphere: spatially resolved images;chromospheric features;irradiance variability.</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Kariyappa">R. Kariyappa</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560 034, India.</affiliation>
+						<email>rkari@iiap.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Wave Heating of the Solar Chromosphere</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0163-0166</page>
+				<abstract>
+					<p>The nonmagnetic interior of supergranulation cells has been thought since the 1940s to be heated by the dissipation of acoustic waves. But all attempts to measure the acoustic flux have failed to show sufficient energy for chromospheric heating. Recent space observations with TRACE, for example, have found 10\%\ or less of the necessary flux. To explain the missing energy it has been speculated that the nonmagnetic chromosphere is heated mainly by waves related to the magnetic field. If that were correct, the whole chromosphere, magnetic as well as nonmagnetic, would be heated mainly by waves related to the magnetic field. But contrary to expectation, the radiation emerging from the nonmagnetic chromosphere shows none of the signatures of magnetic waves, only those of acoustic waves. Nearly all the heating of the nonmagnetic chromosphere must therefore be due to acoustic waves. In the magnetic network on the boundary of supergranulation cells, on the other hand, the small filling factor of the magnetic field in the photosphere implies that only a small fraction of the wave flux that travels upward to heat the chromosphere can be channeled by the magnetic field. Hence, while some of the energy that is dissipated in the magnetic network is in the form of magnetic waves, most of it must be in the form of acoustic waves. Thus, the quiet solar chromosphere, instead of being heated mainly by magneticwaves throughout, must be heated mainly by acoustic waves throughout. The full wave flux heating the quiet chromosphere must travel through the photosphere. In the nonmagnetic medium, this flux is essentially all in the form of acoustic waves; TRACE registers at most 10% of it, perhaps because of limited spatial resolution.</p>
+				</abstract>
+				<keywords>Sun: chromosphere, oscillations;heating and dynamics;acoustic waves;magnetic waves.</keywords>
+				<authors>
+					<author>
+						<name first="Wolfgang" last="Kalkofen">Wolfgang Kalkofen</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA.</affiliation>
+						<email>wolf@cfa.harvard.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ultraviolet Spectroscopic Observations of Coronal Streamers in the SOHO Era</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0167-0170</page>
+				<abstract>
+					<p>Measurements made with the Ultraviolet Coronagraph Spectrometer (UVCS) on the Solar and Heliospheric Observatory can be used to determine physical parameters in the solar corona such as hydrogen and ion kinetic temperatures, electron densities, and absolute elemental abundances. Hydrogen and ion outflow velocities can be determined by combining the UV spectroscopic measurements with white light polarized brightness measurements. These combined measurements can be used to reveal physical characteristics of coronal streamers. To date we have studied plasma properties, such as the variation of plasma outflows in quiescent streamers, primarily in classic helmet streamers at solar minimum. Outflows have not been observed in the centers of coronal streamers suggesting that these are closed magnetic field regions.We propose to study all of the coronal streamers in the UVCS synoptic dataset in order to investigate different types of streamers and their long-term evolution.</p>
+				</abstract>
+				<keywords>Sun;corona;ultraviolet.</keywords>
+				<authors>
+					<author>
+						<name first="Leonard" last="Strachan">Leonard Strachan</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA.</affiliation>
+						<email>lstrachan@cfa.harvard.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Microflares as Possible Sources for Coronal Heating</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0171-0177</page>
+				<abstract>
+					<p>We present a preliminary study of 27 microflares observed by Solar X-ray Spectrometer (SOXS) mission during July 2003 to August 2006. We found that all 27 microflares show the Fe-line feature peaking around 6.7 keV, which is an indicator of the presence of coronal plasma temperature $\geq 9$ MK. On the other hand, the spectra of microflares showhybrid model of thermal and non-thermal emission, which further supports them as possible sources of coronal heating. Our results based on the analysis show that the energy relapsed by the microflares is good enough for heating of the active corona. We discuss our results in the light of the hybrid model of microflares production.</p>
+				</abstract>
+				<keywords>Solar flares: microflares, Fe-line feature;coronal heating.</keywords>
+				<authors>
+					<author>
+						<name first="Meera" last="Gupta">Meera Gupta</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email>soumya−rishi@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jayshree" last="Trivedi">Jayshree Trivedi</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. P." last="Mishra">A. P. Mishra</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Initiation and Propagation of Coronal Mass Ejections</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0179-0186</page>
+				<abstract>
+					<p>This paper reviews recent progress in the research on the initiation and propagation of CMEs. In the initiation part, several trigger mechanisms are discussed; in the propagation part, the observations and modelings of EIT waves/dimmings, as the EUV counterparts of CMEs, are described.</p>
+				</abstract>
+				<keywords>Coronal mass ejections;magnetic field.</keywords>
+				<authors>
+					<author>
+						<name first="P. F." last="Chen">P. F. Chen</name>
+						<affiliation>Department of Astronomy, Nanjing University, Nanjing 210 093, China.</affiliation>
+						<email>chenpf@nju.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>UV Diagnostics for the Energy Budget of Flares and CMEs</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0187-0193</page>
+				<abstract>
+					<p>Solar flares and coronal mass ejections convert large amounts of magnetic free energy into thermal, kinetic and potential energies, and into energy of non-thermal particles. The partitioning among these forms of energy is fundamental to both the physics of the eruptive events and the space weather consequences of the eruptions. This talk describes some aspects of the energy budget that can be derived from ultraviolet observations of the corona.</p>
+				</abstract>
+				<keywords>Sun: corona;flares;coronal mass ejections.</keywords>
+				<authors>
+					<author>
+						<name first="J. C." last="Raymond">J. C. Raymond</name>
+						<affiliation>Center for Astrophysics, 60 Garden St., Cambridge, MA 02176, USA.</affiliation>
+						<email>jraymond@cfa.harvard.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Emission Characteristics of Flares Associated with CMEs</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0195-0205</page>
+				<abstract>
+					<p>We present the study of 20 solar flares observed by “Solar X-ray Spectrometer (SOXS)” mission during November 2003 to December 2006 and found associated with coronal mass ejections (CMEs) seen by LASCO/SOHO mission. In this investigation, X-ray emission characteristics of solar flares and their relationship with the dynamics of CMEs have been presented.We found that the fast moving CMEs, i.e., positive acceleration are better associated with short rise time ($\lt 150$ s) flares. However, the velocity of CMEs increases as a function of duration of the flares in both 4.1–10 and 10–20 keV bands. This indicates that the possibility of association of CMEs with larger speeds exists with long duration flare events. We observed that CMEs decelerate with increasing rise time, decay time and duration of the associated X-ray flares. A total 10 out of 20 CMEs under current investigation showed positive acceleration, and 5 of them whose speed did not exceed 589 km/s were associated with short rise time ($\lt 150$ s) and short duration ($\lt 1300$ s) flares. The other 5 CMEs were associated with long duration or large rise time flare events. The unusual feature of all these positive accelerating CMEs was their low linear speed ranging between 176 and 775 km/s. We do not find any significant correlation between X-ray peak intensity of the flares with linear speed as well as acceleration of the associated CMEs. Based on the onset time of flares and associated CMEs within the observing cadence of CMEs by LASCO, we found that in 16 cases CME preceded the flare by 23 to 1786 s, while in 4 cases flare occurred before the CME by 47 to 685 s. We argue that both events are closely associated with each other and are integral parts of one energy release system.</p>
+				</abstract>
+				<keywords>X-ray flares: rise time, duration, peak intensity;CME: linear velocity, acceleration.</keywords>
+				<authors>
+					<author>
+						<name first="Malini" last="Aggarwal">Malini Aggarwal</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. P." last="Mishra">A. P. Mishra</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa 486 003, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. G." last="Kulkarni">P. G. Kulkarni</name>
+						<affiliation>Department of Physics, Z. B. Patil College, North Maharashtra University, Jalgaon, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chintan" last="Vyas">Chintan Vyas</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Sharma">R. Sharma</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Meera" last="Gupta">Meera Gupta</name>
+						<affiliation>Department of Physics, Government Girls College, Durg, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Helioseismic Ring Analysis of CME Source Regions</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0207-0210</page>
+				<abstract>
+					<p>We apply the ring diagram technique to source regions of halo coronal mass ejections (CMEs) to study changes in acoustic mode parameters before, during, and after the onset of CMEs.We find that CME regions associated with a low value of magnetic flux have line widths smaller than the quiet regions, implying a longer life-time for the oscillation modes. We suggest that this criterion may be used to forecast the active regions which may trigger CMEs.</p>
+				</abstract>
+				<keywords>Sun;coronal mass ejections;oscillations;magnetic field.</keywords>
+				<authors>
+					<author>
+						<name first="S. C." last="Tripathy">S. C. Tripathy</name>
+						<affiliation>National Solar Observatory, Tucson, AZ 85719, USA.</affiliation>
+						<email>stripathy@nso.edu</email>
+					</author>
+					<author>
+						<name first="S. de" last="Wet">S. de Wet</name>
+						<affiliation>National Solar Observatory, Tucson, AZ 85719, USA.</affiliation>
+						<affiliation>Rice University, Houston, TX 77005, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Jain">K. Jain</name>
+						<affiliation>National Solar Observatory, Tucson, AZ 85719, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Clark">R. Clark</name>
+						<affiliation>National Solar Observatory, Tucson, AZ 85719, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="F." last="Hill">F. Hill</name>
+						<affiliation>National Solar Observatory, Tucson, AZ 85719, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analysis of Ion Charge States in Solar Wind and CMEs</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0211-0215</page>
+				<abstract>
+					<p>We discuss needs in dielectronic recombination data motivated by recent work directed at a quantitative understanding of ion charge states of various elements observed in situ in the solar wind and CMEs. The competing processes of ionization and recombination lead to departures from collision ionization equilibrium. The use of this as a diagnostic of acceleration and heating processes of the solar wind and CMEs is sensitive to the accuracy of the atomic rates in a way that steady state ionization equilibrium plasmas are not. The most pressing need is dielectronic recombination rates for ions Fe8+$-$12+. These are among the dominant species observed in various regions of the solar wind and CMEs, and in remotely sensed EUV spectra.</p>
+				</abstract>
+				<keywords>Solar wind and CMEs—Fe ion charge states—dielectronic recombination.</keywords>
+				<authors>
+					<author>
+						<name first="Arati" last="Dasgupta">Arati Dasgupta</name>
+						<affiliation>Naval Research Laboratory, Washington DC 20375, USA.</affiliation>
+						<email>arati.dasgupta@nrl.navy.mil</email>
+					</author>
+					<author>
+						<name first="J. M." last="Laming">J. M. Laming</name>
+						<affiliation>Naval Research Laboratory, Washington DC 20375, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Solar Wind: Our Current Understanding and How We Got Here</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0217-0237</page>
+				<abstract>
+					<p>In the original theory for the solar wind, the electron pressure gradient was the principal accelerating force. This was soon recognized to be insufficient to drive the high-speed streams. Subsequently, the discovery of Alfvén waves in the solar wind led to a long series of models in which wave pressure provided additional acceleration, but these wave-driven models ultimately failed to explain the rapid acceleration of the fast wind close to the Sun. An alternate viewwas that the pressure of hot protons close to the Sun could explain the rapid acceleration, with the proton heating coming from the cyclotron resonance. SOHO has provided remarkable data which have verified some of the predictions of this view, and given impetus to ongoing studies of the ion-cyclotron resonance in the fast wind. After a historical review, we discuss the basic ideas behind current research, emphasizing the importance of particle kinetics. We conclude with some guesses as to how work might proceed in the future.</p>
+				</abstract>
+				<keywords>Solar wind;coronal holes;solar corona;cyclotron resonance;MHD waves.</keywords>
+				<authors>
+					<author>
+						<name first="Joseph V." last="Hollweg">Joseph V. Hollweg</name>
+						<affiliation>Space Science Center, Morse Hall, University of New Hampshire, Durham, New Hampshire 03824, USA.</affiliation>
+						<email>joe.hollweg@unh.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Numerical Simulations of Kinetic Alfvén Waves to Study Spectral Index in SolarWind Turbulence and Particle Heating</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0239-0242</page>
+				<abstract>
+					<p>We present numerical simulations of the modified nonlinear Schrödinger equation satisfied by kinetic Alfvén waves (KAWs) leading to the formation of magnetic filaments at different times. The relevance of these filamentary structures to solar wind turbulence and particle heating has also been pointed out.</p>
+				</abstract>
+				<keywords>Kinetic Alfvén wave: filamentation;solar wind;spectral index;chaotic structure.</keywords>
+				<authors>
+					<author>
+						<name first="R. P." last="Sharma">R. P. Sharma</name>
+						<affiliation>Center for Energy Studies, Indian Institute of Technology, Delhi 110 016, India.</affiliation>
+						<email>rpsharma@ces.iitd.ernet.in</email>
+					</author>
+					<author>
+						<name first="H. D." last="Singh">H. D. Singh</name>
+						<affiliation>Center for Energy Studies, Indian Institute of Technology, Delhi 110 016, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Damping of Slow Magnetoacoustic Waves in an Inhomogeneous Coronal Plasma</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0243-0248</page>
+				<abstract>
+					<p>We study the propagation and dissipation of slow magnetoacoustic waves in an inhomogeneous viscous coronal loop plasma permeated by uniform magnetic field. Only viscosity and thermal conductivity are taken into account as dissipative processes in the coronal loop. The damping length of slow-mode waves exhibit varying behaviour depending upon the physical parameters of the loop in an active region AR8270 observed by TRACE. The wave energy flux associated with slow magnetoacoustic waves turns out to be of the order of $10^{6}$ erg cm$^{-2}$ s$^{-1}$ which is high enough to replace the energy lost through optically thin coronal emission and the thermal conduction belowto the transition region. It is also found that only those slow-mode waves which have periods more than 240 s provide the required heating rate to balance the energy losses in the solar corona. Our calculated wave periods for slow-mode waves nearly match with the oscillation periods of loop observed by TRACE.</p>
+				</abstract>
+				<keywords>Sun: corona;active region;coronal loops;TRACE;MHD waves;heating.</keywords>
+				<authors>
+					<author>
+						<name first="Nagendra" last="Kumar">Nagendra Kumar</name>
+						<affiliation>Department of Mathematics, K.G.K. (P.G.) College, Moradabad 244 001, Uttar Pradesh, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pradeep" last="Kumar">Pradeep Kumar</name>
+						<affiliation>Department of Mathematics, K.G.K. (P.G.) College, Moradabad 244 001, Uttar Pradesh, India.</affiliation>
+						<affiliation>Department of Physics, Hindu College, Moradabad 244 001, Uttar Pradesh, India.</affiliation>
+						<email>pradeepkgk@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Shiv" last="Singh">Shiv Singh</name>
+						<affiliation>Department of Physics, Hindu College, Moradabad 244 001, Uttar Pradesh, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anil" last="Kumar">Anil Kumar</name>
+						<affiliation>Department of Mathematics, K.G.K. (P.G.) College, Moradabad 244 001, Uttar Pradesh, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>H$\mathbf{\alpha}$ Intensity Oscillations in Large Flares</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0249-0252</page>
+				<abstract>
+					<p>We reinvestigate the problem of Hα intensity oscillations in large flares, particularly those classified as X-class flares. We have used high spatial and temporal resolution digital observations obtained from Udaipur Solar Observatory during the period 1998–2006 and selected several events. Normalized Lomb–Scargle periodogram method for spectral analysis was used to study the oscillatory power in quiet and active chromospheric locations, including the flare ribbons.</p>
+				</abstract>
+				<keywords>Sun: oscillations, chromosphere, flares.</keywords>
+				<authors>
+					<author>
+						<name first="Ram Ajor" last="Maurya">Ram Ajor Maurya</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email>ramajor@prl.res.in</email>
+					</author>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P. O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email>ambastha@prl.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Role of Magnetic Carpet in Coronal Heating</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0253-0256</page>
+				<abstract>
+					<p>One of the fundamental questions in solar physics is how the solar corona maintains its high temperature of several million Kelvin above photosphere with a temperature of 6000 K.</p>
+					<p>Observations show that solar coronal heating problem is highly complex with many different facts. It is likely that different heating mechanisms are at work in the solar corona. The separate kinds of coronal loops may also be heated by different mechanisms.</p>
+					<p>Using data from instruments onboard the Solar and Heliospheric Observatory (SOHO) and from the more recent Transition Region and Coronal Explorer (TRACE) scientists have identified small regions of mixed polarity, termed magnetic carpet contributing to solar activity on a short time scale.</p>
+					<p>Magnetic loops of all sizes rise into the solar corona, arising from regions of opposite magnetic polarity in the photosphere. Energy released when oppositely directed magnetic fields meet in the corona is one likely cause for coronal heating. There is enough energy coming up from the loops of the “magnetic carpet” to heat the corona to its known temperature.</p>
+				</abstract>
+				<keywords>Sun;corona;magnetic field;magnetic carpet;reconnection.</keywords>
+				<authors>
+					<author>
+						<name first="S. R." last="Verma">S. R. Verma</name>
+						<affiliation>Department of Physics, D.B.S. (P.G.) College, Dehradun, Uttarakhand, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Diksha" last="Chaudhary">Diksha Chaudhary</name>
+						<affiliation>Department of Physics, D.B.S. (P.G.) College, Dehradun, Uttarakhand, India.</affiliation>
+						<affiliation>Dehradun Institute of Technology, Dehradun, Uttarakhand, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Multi-parametric Effect of Solar Activity on Cosmic Rays</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0257-0262</page>
+				<abstract>
+					<p>The long-term modulation of cosmic ray intensity (CRI) by different solar activity (SA) parameters and an inverse correlation between individual SA parameter and CRI is well known. Earlier, it has been suggested that the concept of multi-parametric modulation of CRI may play an important role in the study of long-term modulation of CRI. In the present study, we have tried to investigate the combined effect of a set of two SA parameters in the long-term modulation of CRI. For this purpose, we have used a new statistical technique called “Running multiple correlation method”, based on the “Running cross correlation method”. The running multiple correlation functions among different sets of two SA parameters (e.g., sunspot numbers and solar flux, sunspot numbers and coronal index, sunspot numbers and grouped solar flares, etc.) and CRI have been correlated separately. It is found that the strength of multiple correlation (among two SA parameters and CRI) and cross correlation (between individual SA parameter and CRI) is almost similar throughout the period of investigation (1955–2005). It is also found that the multiple correlations among various SA parameters and CRI is stronger during ascending and descending phases of the solar cycles and it becomes weaker during maxima and minima of the solar cycles, which is in accordance with the linear relationship between SA parameters and CRI. The values of multiple correlation functions among different sets of SA parameters and CRI fall well within the 95\%\ confidence interval. In the view of odd–even hypothesis of solar cycles, the strange behaviour of present cycle 23 (odd cycle), as this is characterized by many peculiarities with double peaks and many quiet periods (Gnevyshev gaps) interrupted the solar activity (for example April 2001, October–November 2003 and January 2005), leads us to speculate that the solar cycle 24 (even cycle) might be of exceptional nature.</p>
+				</abstract>
+				<keywords>Sun;solar parameters;cosmic ray modulation;running multiple correlation method.</keywords>
+				<authors>
+					<author>
+						<name first="V. K." last="Mishra">V. K. Mishra</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email>vkmishra74@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Meera" last="Gupta">Meera Gupta</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. N." last="Mishra">B. N. Mishra</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Nigam">S. K. Nigam</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. P." last="Mishra">A. P. Mishra</name>
+						<affiliation>Department of Physics, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Solar and Interplanetary Disturbances causing Moderate Geomagnetic Storms</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0263-0267</page>
+				<abstract>
+					<p>The effect of solar and interplanetary disturbances on geomagnetospheric conditions leading to 121 moderate geomagnetic storms (MGS) have been investigated using the neutron monitor, solar geophysical and interplanetary data during the period 1978–99. Further, the duration of recovery phase has been observed to be greater than the duration of main phase in most of the cases of MGS. It has further been noted that Ap-index increases on sudden storm commencement (SSC) day than its previous day value and acquires maximum value on the day of maximum solar activity. Generally, the decrease in cosmic ray (CR) intensity and Dst begins few hours earlier than the occurrence of MGS at Earth. Furthermore, negative Bz pointing southward plays a key causal role in the occurrence of MGS and the magnitude and the duration of Bz and Bav also play a significant role in the development of MGS. The solar features H$\alpha$, X-ray solar flares and active prominences and disappearing filaments (APDFs) which have occurred within lower helio-latitudinal/helio-longitudinal zones produce larger number of MGS. Solar flares seem to be the major cause for producing MGS.</p>
+				</abstract>
+				<keywords>Solar flares;active prominences and disappearing filaments;sunspot numbers;geomagnetic storms.</keywords>
+				<authors>
+					<author>
+						<name first="Santosh" last="Kumar">Santosh Kumar</name>
+						<affiliation>Department of P.G. Studies and Research in Physics and Electronics, R. D. University, Jabalpur (M. P.) 482 001, India.</affiliation>
+						<email>s_kumar123@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="M. P." last="Yadav">M. P. Yadav</name>
+						<affiliation>Department of P.G. Studies and Research in Physics and Electronics, R. D. University, Jabalpur (M. P.) 482 001, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Amita" last="Raizada">Amita Raizada</name>
+						<affiliation>Department of P.G. Studies and Research in Physics and Electronics, R. D. University, Jabalpur (M. P.) 482 001, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of Magnetic Activity on Ionospheric Time Delay at Low Latitude</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0269-0274</page>
+				<abstract>
+					<p>The purpose of this work is to investigate the effect of magnetic activity on ionospheric time delay at low latitude Station Bhopal (geom. lat. 23.2$^{\circ}$N, geom. long. 77.6$^{\circ}$E) using dual frequency (1575.42 and 1227.60 MHz) GPS measurements. Data from GSV4004A GPS Ionospheric Scintillation and TEC monitor (GISTM) have been chosen to study these effects. This paper presents the results of ionospheric time delay during quiet and disturbed days for the year 2005. Results show that maximum delay is observed during quiet days in equinoxial month while the delays of disturbed period are observed during the months of winter. We also study the ionospheric time delay during magnetic storm conditions for the same period. Results do not show any clear relationship either with the magnitude of the geomagnetic storm or with the main phase onset (MPO) of the storm. But most of the maximum ionospheric time delay variations are observed before the main phase onset (MPO) or sudden storm commencement (SSC) as compared to storm days.</p>
+				</abstract>
+				<keywords>Ionospheric time delay;scintillation;TEC;geomagnetic storm.</keywords>
+				<authors>
+					<author>
+						<name first="Soumi" last="Bhattacharya">Soumi Bhattacharya</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Smita" last="Dubey">Smita Dubey</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajesh" last="Tiwari">Rajesh Tiwari</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. K." last="Purohit">P. K. Purohit</name>
+						<affiliation>National Institute of Technical, Teacher Training and Research, Shamla Hill, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Gwal">A. K. Gwal</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geomagnetic Field Variation during Winter Storm at Localized Southern and Northern High Latitude</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0275-0280</page>
+				<abstract>
+					<p>This paper presents the effect of geomagnetic storm on geomagnetic field components at Southern (Maitri) and Northern (Kiruna) Hemispheres. The Indian Antarctic Station Maitri is located at geom. long. $66.03^{\circ}$ S; $53.21^{\circ}$ E whereas Kiruna is located at geom. long. $67.52^{\circ}$ N; $23.38^{\circ}$ E. We have studied all the geomagnetic storms that occurred during winter season of the year 2004–2005. We observed that at Southern Hemisphere the variation is large as compared to the Northern Hemisphere. Geomagnetic field components vary when the interplanetary magnetic field is oriented in southward direction. Geomagnetic field components vary in the main phase of the ring current. Due to southward orientation of vertical component of IMF reconnection takes place all across the dayside that transports plasma and magnetic flux which create the geomagnetic field variation.</p>
+				</abstract>
+				<keywords>Dst;vertical component of interplanetary magnetic field and geomagnetic field components.</keywords>
+				<authors>
+					<author>
+						<name first="Babita" last="Devi">Babita Devi</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Smita" last="Dubey">Smita Dubey</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shailendra" last="Saini">Shailendra Saini</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajni" last="Devi">Rajni Devi</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rashmi" last="Wahi">Rashmi Wahi</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ajay" last="Dhar">Ajay Dhar</name>
+						<affiliation>Indian Institute of Geomagnetism, New Panvel, Mumbai, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Vijay">S. K. Vijay</name>
+						<affiliation>Government Geetanjali College, Bhopal, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Gwal">A. K. Gwal</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of Interplanetary Magnetic Field and Disturb Storm Time on H Component</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0281-0286</page>
+				<abstract>
+					<p>A fluxgate digital magnetometer is used to study the variation of magnitude of H component during geomagnetic storm events of April, July and November 2004 at southern subauroral localized region at “MAITRI” (geom. lat. $62^{\circ}$S, long. $52.8^{\circ}$E). We also study the effect of vertical component of interplanetary magnetic field (IMF) on the variation of the magnitude of H component during storm time of April, July and November 2004. Results show that before sudden storm commencement (SSC) time magnitude ofHcomponent and IMF showsmooth variation but after SSC of first storm of 22 July 2004, the magnitude of the H component shows fluctuations and at 09:00 UT it increases, but during second storm of 24 July 2004, the magnitude of H component indicates large fluctuations and it increases rapidly at 04:00 UT.</p>
+				</abstract>
+				<keywords>Sudden Storm Commencement (SSC);magnitude of the H component deviation;Interplanetary Magnetic Field (IMF).</keywords>
+				<authors>
+					<author>
+						<name first="Rajni" last="Devi">Rajni Devi</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Smita" last="Dubey">Smita Dubey</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shailendra" last="Saini">Shailendra Saini</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Babita" last="Devi">Babita Devi</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ajay" last="Dhar">Ajay Dhar</name>
+						<affiliation>Indian Institute of Geomagnetism, New Panvel, Mumbai, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Vijay">S. K. Vijay</name>
+						<affiliation>Government Geetanjali College, Bhopal, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Gwal">A. K. Gwal</name>
+						<affiliation>Space Science Laboratory, Department of Physics, Barkatullah University, Bhopal 462 026, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geo-effectiveness of CMEs</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0287-0291</page>
+				<abstract>
+					<p>Coronal Mass Ejections (CMEs) are important phenomena in coronal dynamics causing interplanetary signatures (ICMEs). They eject large amounts of mass and magnetic fields into the heliosphere, causing major geomagnetic storms and interplanetary shocks. Geomagnetic storms are often characterized by abrupt increases in the northward component of the earth’s field, called sudden commencements (SSC) followed by large decreases of the magnetic field and slow recovery to normal values. The SSCs are well correlated with IP shocks. Here a case study of 10–15 February 2000 and also the statistical study of CME events observed by IPS array, Rajkot, during the years 2000 to 2003 and Radio Astronomy Center, Ooty are described. The geomagnetic storm index Dst, which is a measure of geo-effectiveness, is shown to be well correlated with normalized scintillation index ‘g’, derived from Ooty Radio Telescope (ORT) observations.</p>
+				</abstract>
+				<keywords>Coronal mass ejection;interplanetary medium and normamalized scintillation index.</keywords>
+				<authors>
+					<author>
+						<name first="Ajaysinh K." last="Jadeja">Ajaysinh K. Jadeja</name>
+						<affiliation>Christ College, Saurashtra University, Rajkot 360 005, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. N." last="Iyer">K. N. Iyer</name>
+						<affiliation>Department of Physics, Saurashtra University, Rajkot 360 005, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hari Om" last="Vats">Hari Om Vats</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. K." last="Manoharan">P. K. Manoharan</name>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Ooty 643 001, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Relationship between Interplanetary (IP) Parameters and Geomagnetic Indices during IP Shock Events of 2005</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0293-0302</page>
+				<abstract>
+					<p>In the present study, we investigate the possible relationship of IP parameters of solar wind and interplanetary magnetic field with ground-based geomagnetic indices. To carry out the study, we take all the IP shock events listed by Proton Monitor onboard Solar and Heliospheric Observatory (SOHO) during 2005, and plot the time variations of all the IP parameters and geomagnetic parameters ($\pm$5 days), centered at the shock arrival time. Next, we obtain scatter plots of absolute values of solar wind parameters such as Vsw, Nsw and Interplanetary Magnetic Field (IMF) components Bx, By, Bz and total B with the values of geomagnetic parameters such as Dst, Kp indices, dayside Magnetopause (MP) distance and Cosmic-Ray Neutron Monitor count (CRNM). The scatter plots show that before the IP shock, the pattern is random with no clear relationship. Following the shock, a clear pattern emerges with a type of relationship being seen – clear for SHARP shocks and less clear for DIFFUSE shocks. A total of 10 shock events for 2005 have been studied. Typical examples of this behaviour are the shock events of January 21, 2005 and May 15, 2005.</p>
+					<p>Our study suggests a definite correlation between changes in the solar wind and interplanetary magnetic field parameters and ground-based geomagnetic response. We are trying to obtain quantitative relationships between these for shock events of 2005.</p>
+				</abstract>
+				<keywords>IP parameters;IP shocks;solar;terrestrial relationship.</keywords>
+				<authors>
+					<author>
+						<name first="Jatin" last="Rathod">Jatin Rathod</name>
+						<affiliation>CSRE, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Girija" last="Rajaram">Girija Rajaram</name>
+						<affiliation>CSRE, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Radharani" last="Alyana">Radharani Alyana</name>
+						<affiliation>CSRE, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Chandrasekhar" last="Reddy">A. Chandrasekhar Reddy</name>
+						<affiliation>CSRE, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. S." last="Misra">D. S. Misra</name>
+						<affiliation>CSRE, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. G." last="Patil">C. G. Patil</name>
+						<affiliation>MCF- Indian Space Research Organisation, PB No. 66, Hassan, Karnataka 573 201, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Y. S." last="Prasad">M. Y. S. Prasad</name>
+						<affiliation>SITAA-SAC, Indian Space Research Organisation, Ahmedabad, Gujarat 380 015, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. G." last="Ananth">A. G. Ananth</name>
+						<affiliation>Indian Space Research Organisation-Head Quarters, Bangalore, Karnataka, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Multipoint Observations of Low Latitude ULF Pc3 Waves in South-East Australia</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0303-0311</page>
+				<abstract>
+					<p>Geomagnetic pulsations recorded on the ground are the signatures of the integrated signals from the magnetosphere. Pc3 geomagnetic pulsations are quasi-sinusoidal variations in the earth’s magnetic field in the period range 10–45 seconds. The magnitude of these pulsations ranges from fraction of a nT (nano Tesla) to several nT. These pulsations can be observed in a number of ways. However, the application of ground-based magnetometer arrays has proven to be one of the most successful methods of studying the spatial structure of hydromagnetic waves in the earth’s magnetosphere. The solar wind provides the energy for the earth’s magnetospheric processes. Pc3-5 geomagnetic pulsations can be generated either externally or internally with respect to the magnetosphere. The Pc3 studies undertaken in the past have been confined to middle and high latitudes. The spatial and temporal variations observed in Pc3 occurrence are of vital importance because they provide evidence which can be directly related to wave generation mechanisms both inside and external to the magnetosphere. At low latitudes (L $\lt$ 3) wave energy predominates in the Pc3 band and the spatial characteristics of these pulsations have received little attention in the past. An array of four low latitude induction coil magnetometers were established in south-east Australia over a longitudinal range of 17 degrees at L = 1.8 to 2.7 for carrying out the study of the effect of the solar wind velocity on these pulsations. Digital dynamic spectra showing Pc3 pulsation activity over a period of about six months have been used to evaluate Pc3 pulsation occurrence. Pc3 occurrence probability at low latitudes has been found to be dominant for the solar wind velocity in the range 400–700 km/s. The results suggest that solar wind controls Pc3 occurrence through a mechanism in which Pc3 wave energy is convected through the magnetosheath and coupled to the standing oscillations of magnetospheric field lines.</p>
+				</abstract>
+				<keywords>Pc3 magnetic pulsations;Pc3 occurrence;solar wind velocity;magnetospheric physics.</keywords>
+				<authors>
+					<author>
+						<name first="I. A." last="Ansari">I. A. Ansari</name>
+						<affiliation>Department of Physics, Aligarh Muslim University, Aligarh 202 002, U.P., India.</affiliation>
+						<email>iaaamuphysics@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Energy Dependence of Near-relativistic Electron Spectrum at Geostationary Orbit during the SEP Events of 2005</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0313-0317</page>
+				<abstract>
+					<p>In view of the renewed interest in the study of energetic particles in the outer radiation belt of the earth, we feel it will be helpful in looking for the energy dependence of the electron energy spectrum at geostationary orbit. This may give us some insight into how we can safeguard geostationary satellites from functional anomalies of the deep dielectric charging type, which are caused by charge accumulation and subsequent discharge of relativistic electrons. In this study we examine whether there is any energy dependence in relativistic electron enhancements at geosynchronous altitudes during solar energetic proton events of 2005.</p>
+				</abstract>
+				<keywords>SEP events;shocks;geostationary orbit;REDs;REEs.</keywords>
+				<authors>
+					<author>
+						<name first="A. Chandrasekhar" last="Reddy">A. Chandrasekhar Reddy</name>
+						<affiliation>CSRE, Indian Institute of Technology, Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jatin" last="Rathod">Jatin Rathod</name>
+						<affiliation>CSRE, Indian Institute of Technology, Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Girija" last="Rajaram">Girija Rajaram</name>
+						<affiliation>CSRE, Indian Institute of Technology, Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Radharani" last="Alyana">Radharani Alyana</name>
+						<affiliation>CSRE, Indian Institute of Technology, Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. S." last="Misra">D. S. Misra</name>
+						<affiliation>CSRE, Indian Institute of Technology, Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. G." last="Patil">C. G. Patil</name>
+						<affiliation>MCF-Indian Space Research Organisation, PB No. 66, Hassan, Karnataka 573 201, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Y. S." last="Prasad">M. Y. S. Prasad</name>
+						<affiliation>SITAA-SAC, Indian Space Research Organisation, Ahmedabad, Gujarat 380 015, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. G." last="Ananth">A. G. Ananth</name>
+						<affiliation>Indian Space Research Organisation, Headquarters, Bangalore, Karnataka, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Next Generation UV Coronagraph Instrumentation for Solar Cycle-24</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0321-0327</page>
+				<abstract>
+					<p>Ultraviolet coronagraph observations of the extended solar corona (defined here as 1.5 to 10 solar radii from Sun-center) have become a powerful tool for obtaining detailed empirical descriptions of coronal holes, streamers, and coronal mass ejections. The empirical models resulting from ultraviolet coronagraph observations provide the constraints needed to test and guide theoretical models aimed at determining the physical processes that control solar wind acceleration, CME heating and acceleration, and solar energetic particle (SEP) acceleration. Measurements to date from sounding rockets, the shuttle deployed Spartan 201 satellite and the Solar and Heliospheric Observatory (SOHO) have utilized high resolution spectroscopy over a very limited instantaneous field of view. New concepts for next generation instrumentation include imaging ultraviolet spectrocoronagraphs and large aperture ultraviolet coronagraph spectrometers. An imaging instrument would be the first to obtain absolute spectral line intensities of the extended corona over a wide field of view. Such images would provide the absolute intensities of spectral lines that can be used to determine densities and outflow velocities of specific coronal ions. Measurements from several charge states of a given element will allow electron temperatures to be determined. These measurements combined with observations of H I Ly$\alpha$ provide absolute chemical abundances (relative to hydrogen) for observed elements. Ultraviolet imaging would be highly complementary to a large-aperture ultraviolet coronagraph spectrometer designed for high spectral resolution observations over a small instantaneous field of view. The images would be used to select targets for more detailed spectroscopic studies with the large aperture UV coronagraph spectrometer and to provide time dependent empirical descriptions of the regions surrounding the narrow instantaneous field of view of the large aperture instrument. Descriptions of both the imaging ultraviolet spectrocoronagraph and the large aperture ultraviolet coronagraph spectrometer are provided. Recommended co-observing instruments are described.</p>
+				</abstract>
+				<keywords>Solar instrumentation;solar spectroscopy;solar corona;solar wind;coronal mass ejections.</keywords>
+				<authors>
+					<author>
+						<name first="John L." last="Kohl">John L. Kohl</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA.</affiliation>
+						<email>jkohl@cfa.harvard.edu</email>
+					</author>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Steven R." last="Cranmer">Steven R. Cranmer</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Larry D." last="Gardner">Larry D. Gardner</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anil K." last="Pradhan">Anil K. Pradhan</name>
+						<affiliation>Department of Astronomy, 4055 McPherson Laboratory, The Ohio State University, 140 W. 18th Ave., Columbus, OH 43210-1173, U.S.A.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="John C." last="Raymond">John C. Raymond</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Leonard" last="Strachan">Leonard Strachan</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>High Resolution Observations using Adaptive Optics: Achievements and Future Needs</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0329-0337</page>
+				<abstract>
+					<p>Over the last few years, several interesting observations were obtained with the help of solar Adaptive Optics (AO). In this paper, few observations made using the solarAOare enlightened and briefly discussed. A list of disadvantages with the current AO system are presented. With telescopes larger than 1.5 m expected during the next decade, there is a need to develop the existing AO technologies for large aperture telescopes. Some aspects of this development are highlighted. Finally, the recent AO developments in India are also presented.</p>
+				</abstract>
+				<keywords>Small-scale structures;Adaptive Optics;Multi-conjugate Adaptive Optics;high spatial resolution.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Sankarasubramanian">K. Sankarasubramanian</name>
+						<affiliation>ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+						<email>sankark@isac.gov.in</email>
+					</author>
+					<author>
+						<name first="T." last="Rimmele">T. Rimmele</name>
+						<affiliation>National Solar Observatory, Sunspot, NM – 88349, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title><i>SphinX</i>: A Fast <i>Solar Photometer in X</i>-rays</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0339-0343</page>
+				<abstract>
+					<p>The scientific goals and construction details of a new design, Polish X-ray spectrophotometer are given. It will be incorporated within the Russian TESIS X and EUV complex aboard the forthcoming <i>CORONAS</i> solar mission. SphinX (Solar Photometer in X-rays) will use PIN silicon detectors for high time resolution (0.01 s) measurements of the solar spectra of quiet and active corona in the range 0.5–15 keV. A new filter-fluorescence target concept will be employed to allow for a fast photometry of the solar X-ray flux variations in selected, well defined narrow spectral bands including the Fe xxvi and Fe xxv iron line groups.</p>
+				</abstract>
+				<keywords>Sun: X-rays;spectrophotometer;high time resolution.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Sylwester">J. Sylwester</name>
+						<affiliation>Space Research Center, Polish Academy of Sciences, Kopernika 11, 51-622 Wroclaw, Poland.</affiliation>
+						<email>js@cbk.pan.wroc.pl</email>
+					</author>
+					<author>
+						<name first="S." last="Kuzin">S. Kuzin</name>
+						<affiliation>P. N. Lebedev Physical Institute, Leninskij prospekt 53, 119991 Moscow, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yu. D." last="Kotov">Yu. D. Kotov</name>
+						<affiliation>Moscow Engineering Physics Institute, Kashirskoe Shosse 31, 115409 Moscow, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="F." last="Farnik">F. Farnik</name>
+						<affiliation>Astronomical Institute, Czech Academy of Sciences, Fricova 298, 251 65 Ondrejov, Czech Republic.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="F." last="Reale">F. Reale</name>
+						<affiliation>INAF/Observatorio Astronomico di Palermo and University of Palermo, Palazzo dei Normanni, I-90134 Palermo, Italy.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Proposed National Large Solar Telescope</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0345-0351</page>
+				<abstract>
+					<p>Sun’s atmosphere is an ideal place to study and test many magnetohydrodynamic (MHD) processes controlling turbulent plasma. We wish to resolve some of the finest solar features (which remain unresolved presently) and study their dynamics. Indian Institute of Astrophysics has proposed to design, fabricate and install a 2-meter class solar telescope at a suitable site in India to resolve features on the Sun of the size of about 0.1 arcsec. The focal plane instruments will include a high resolution polarimeteric package to measure polarization with an accuracy of 0.01 per cent; a high spectral resolution spectrograph to obtain spectra in 5 widely separated absorption lines simultaneously and high spatial resolution narrow band imagers in various lines. The Himalayan region appears to be a good choice keeping in view the prevailing dry and clear weather conditions. We have started detailed analysis of the weather conditions in the area and at some other locations in India. The site characterization will be done using the Sun-photometer, S-DIMM and SHABAR techniques to determine the seeing conditions.</p>
+				</abstract>
+				<keywords>Solar telescope;adaptive optics;spectropolarimetry;location.</keywords>
+				<authors>
+					<author>
+						<name first="Jagdev" last="Singh">Jagdev Singh</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560 034, India.</affiliation>
+						<email>jsingh@iiap.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Development of a Low-order Adaptive Optics System at Udaipur Solar Observatory</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0353-0357</page>
+				<abstract>
+					<p>A low-order Adaptive Optics (AO) system is being developed at the Udaipur Solar Observatory and we present in this paper the status of the project, which includes the image stabilization system and calibration of wavefront sensor and deformable mirror. The image stabilization system comprises of a piezo driven tip-tilt mirror, a high speed camera (955 fps), a frame grabber system for sensing the overall tilt and a Linux based Intel Pentium 4 control computer with Red Hat Linux OS. The system operates under PID control. In the closed loop, an rms image motion of 0.1–0.2 arcsec was observed with the improvement factor varying from 10–20 depending on the external conditions. Error rejection bandwidth of the system at 0 dB is 80–100 Hz. In addition to that, we report the on-going efforts in the calibration of lenslet array and deformable mirror for sensing and correcting the local tilt of the wavefront.</p>
+				</abstract>
+				<keywords>Sun: astronomical seeing, adaptive optics, solar telescopes, solar imaging.</keywords>
+				<authors>
+					<author>
+						<name first="A. R." last="Bayanna">A. R. Bayanna</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P.O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email>bayanna@prl.res.in</email>
+					</author>
+					<author>
+						<name first="B." last="Kumar">B. Kumar</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P.O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. E." last="Louis">R. E. Louis</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P.O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P.O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Mathew">S. K. Mathew</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, P.O. Box 198, Dewali, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>CONCEPTUAL PAPER : Utilization of GPS Satellites for Precise Irradiation Measurement and Monitoring</title>
+				<feature>Special Issue : Proceedings of the International Conference on "Challenges for Solar - 24"</feature>
+				<page>0359-0361</page>
+				<abstract>
+					<p>Precise measurement of irradiance over the earth under various circumstances like solar flares, coronal mass ejections, over an 11-year solar cycle, etc. leads to better understanding of Sun–earth relationship. To continuously monitor the irradiance over earth-space regions several satellites at several positions are required. For that continuous and multiple satellite monitoring we can use GPS (Global Positioning System) satellites (like GLONASS, GALILEO, future satellites) installed with irradiance measuring and monitoring instruments. GPS satellite system consists of 24 constellations of satellites. Therefore usage of all the satellites leads to 24 measurements of irradiance at the top of the atmosphere (or 12 measurements of those satellites which are pointing towards the Sun) at an instant. Therefore in one day, numerous irradiance observations can be obtained for the whole globe, which will be very helpful for several applications like Albedo calculation, Earth Radiation Budget calculation, monitoring of near earth-space atmosphere, etc. Moreover, measuring irradiance both in ground (using ground instruments) and in space at the same instant of time over a same place, leads to numerous advantages. That is, for a single position we obtain irradiance at the top of the atmosphere, irradiance at ground and the difference in irradiance from over top of the atmosphere to the ground. Measurement of irradiance over the atmosphere and in ground at a precise location gives more fine details about the solar irradiance influence over the earth, path loss and interaction of irradiance with the atmosphere.</p>
+				</abstract>
+				<keywords>Albedo;global positioning system—solar irradiation.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Vijayan">S. Vijayan</name>
+						<affiliation>Institute of Remote Sensing, Anna University, Chennai, India.</affiliation>
+						<email>vijayansiva@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="09-12" year="2008">
+			<entry hassup="0">
+				<title>Error Minimization of Polynomial Approximation of Delta $T$</title>
+				<feature></feature>
+				<page>0363-0366</page>
+				<abstract>
+					<p>The difference between Universal time (UT) and Dynamical time (TD), known as Delta $T(\Delta T)$ is tabulated for the first day of each year in the Astronomical Almanac. During the last four centuries it is found that there are large differences between its values for two consecutive years. Polynomial approximations have been developed to obtain the values of $\Delta T$ for any time of a year for the period AD 1620 to AD 2000 (Meeu 2000) as no dynamical theories describe the variations in $\Delta T$. In this work, a new set of polynomials for $\Delta T$ is obtained for the period AD 1620 to AD 2007 that is found to produce better results compared to previous attempts.</p>
+				</abstract>
+				<keywords>Delta $T$;polynomial approximation;Dynamical time;Universal time.</keywords>
+				<authors>
+					<author>
+						<name first="Islam" last="Sana">Islam Sana</name>
+						<affiliation>Department of Applied Physics, University of Karachi, Pakistan.</affiliation>
+						<email>ashahsana@gmail.com</email>
+					</author>
+					<author>
+						<name first="Sadiq" last="Muhammad">Sadiq Muhammad</name>
+						<affiliation>Department of Applied Physics, University of Karachi, Pakistan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qureshi Muhammad" last="Shahid">Qureshi Muhammad Shahid</name>
+						<affiliation>Institute of Space and Planetary Astrophysics, University of Karachi, Pakistan.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-11-20</date>
+					<date type="R"></date>
+					<date type="A">2008-10-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Investigation of the Effects of Expectation Values for Radii on the Determination of Transition Probabilities using WBEPM Theory</title>
+				<feature></feature>
+				<page>0367-0378</page>
+				<abstract>
+					<p>Transition probabilities for some excited s–p and p–s transition arrays of neutral nitrogen have been calculated using the weakest bound electron potential model theory (WBEPMT) for the investigation of effects of expectation values of radii.We have used both numerical non-relativistic Hartree-Fock (NRHF) wave functions and numerical Coulomb approximation (NCA) wave functions to calculate expectation values of radii. The transition probability results obtained using the parameters determined with two different wave functions agree well with each other and accepted values taken from NIST for low values of transition probability. However, the NRHF wave functions present better results for p–s transitions, while NCA wave functions are better in s–p transitions for large values of transition probability.</p>
+				</abstract>
+				<keywords>Neutral nitrogen;atomic data;transition probabilities;WBEPM theory.</keywords>
+				<authors>
+					<author>
+						<name first="Gültekin" last="Çelik">Gültekin Çelik</name>
+						<affiliation>Department of Physics, Faculty of Arts and Science, Selc¸uk University, Campus 42075 Konya, Türkiye.</affiliation>
+						<email>gultekin@selcuk.edu.tr</email>
+					</author>
+					<author>
+						<name first="Şule" last="Ateş">Şule Ateş</name>
+						<affiliation>Department of Physics, Faculty of Arts and Science, Selc¸uk University, Campus 42075 Konya, Türkiye.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-02-08</date>
+					<date type="R"></date>
+					<date type="A">2008-09-24</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Gravitation Field Dynamics in Jeans Theory</title>
+				<feature></feature>
+				<page>0379-0386</page>
+				<abstract>
+					<p>Closed system of time equations for nonrelativistic gravitation field and hydrodynamic medium was obtained by taking into account binary correlations of the field, which is the generalization of Jeans theory. Distribution function of the systemwas built on the basis of the Bogolyubov reduced description method. Calculations were carried out up to the first order of a perturbation theory in interaction. Adiabatic and enthropic types of perturbations were corrected and two new types of perturbations were found.</p>
+				</abstract>
+				<keywords>Time equations;Jeans theory;Bogolyubov reduced description method;perturbation types.</keywords>
+				<authors>
+					<author>
+						<name first="A. A." last="Stupka">A. A. Stupka</name>
+						<affiliation>Dnipropetrovsk National University, Quantum Chromoplasma Laboratory, Naukova Str., 13, 49050, Dnipropetrovsk, Ukraine.</affiliation>
+						<email>antonstupka@mail.ru</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-11-20</date>
+					<date type="R"></date>
+					<date type="A">2009-01-27</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Observational Evidences for Multi-component Magnetic Field Structure in Solar Flares</title>
+				<feature></feature>
+				<page>0387-0404</page>
+				<abstract>
+					<p>Two solar flares of 25 July 1981 and 5 November 2004 of importance $2N$ and M4.1/1B, respectively, were investigated using observational data obtained with the Echelle spectrograph of the Kyiv University Astronomical Observatory. Stokes $I$ and $V$ profiles of the FeI lines 5233, 5247.1, 5250.2, 5250.6, 5576.1 and of CrI 5247.6 Å have been analyzed. We found several evidences for the existence of spatially unresolved magnetic field structures with kG strengths. In particular, the values of the measured average longitudinal field $B_{\parallel}$ depend on the Lande factors $g$ of the lines: in general, $B_{\parallel}$ increases with increasing factor $g$. Analogously, the observed line ratio $B_{\parallel}(5250.2)/B_{\parallel}(5247.1)$ is increasing with increasing distance $\Delta \gamma$ from the line center. The observed Stokes $V$ profiles show some deviations from that of an assumed homogeneous field, presented by the Stokes $I$ gradient, $dI/d\gamma$. A comparison with the non-split line FeI 5576.1 Å shows that some of these deviations are real and indicate the presence of subtelescopic magnetic elements with discrete field strengths of several kG. The lines with large Lande factors have considerable broadenings of the Stokes $I$ profiles, indicating a strong background magnetic field of mixed polarity. On the basis of all these data we conclude that a four-component magnetic field structure is a possible explanation. The field strengths are about $\pm 1.05$ kG in the background field, and 1.3–1.5, 3.9–4.0, and 7.4–7.8 kG at level of middle photosphere ($h \approx 300$ km) in the spatially unresolved, small-scale magnetic elements.</p>
+				</abstract>
+				<keywords>Solar flares;small-scale magnetic fields;multi-component structure.</keywords>
+				<authors>
+					<author>
+						<name first="V. G." last="Lozitsky">V. G. Lozitsky</name>
+						<affiliation>Kyiv University Astronomical Observatory, Observatorna St. 3, Kyiv, UA-04053, Ukraine.</affiliation>
+						<email>lozitsky@observ.univ.kiev.ua</email>
+					</author>
+					<author>
+						<name first="J." last="Staude">J. Staude</name>
+						<affiliation>Astrophysikalisches Institut Potsdam, An der Sternwarte 16, D-14482 Potsdam, Germany.</affiliation>
+						<email>jstaude@aip.de</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-12-18</date>
+					<date type="R"></date>
+					<date type="A">2009-01-27</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0405-0409</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0411-0414</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="030">%raghu
+		<issue inum="01" month="03" year="2009">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-18</date>
+					<date type="R"></date>
+					<date type="A">2000-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2009">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-18</date>
+					<date type="R"></date>
+					<date type="A">2000-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="09-12" year="2009">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -6635,8 +9012,80 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="029">
-		<issue inum="01" month="03" year="2007">
+	<volume vnum="031">
+		<issue inum="01" month="03" year="2010">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-18</date>
+					<date type="R"></date>
+					<date type="A">2000-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2010">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-18</date>
+					<date type="R"></date>
+					<date type="A">2000-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2010">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-18</date>
+					<date type="R"></date>
+					<date type="A">2000-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2010">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
