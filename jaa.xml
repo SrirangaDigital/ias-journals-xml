@@ -8938,75 +8938,431 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="030">%raghu
+	<volume vnum="030">
 		<issue inum="01" month="03" year="2009">
 			<entry hassup="0">
-				<title></title>
+				<title>The Fate of Dwarf Galaxies in Clusters and the Origin of Intracluster Stars</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0001-0036</page>
 				<abstract>
-					<p></p>
+					<p>The main goal of this paper is to compare the relative importance of destruction by tides vs. destruction by mergers, in order to assess if tidal destruction of galaxies in clusters is a viable scenario for explaining the origin of intracluster stars. We have designed a simple algorithm for simulating the evolution of isolated clusters. The distribution of galaxies in the cluster is evolved using a direct gravitational $N$-body algorithm combined with a subgrid treatment of physical processes such as mergers, tidal disruption, and galaxy harassment. Using this algorithm, we have performed a total of 148 simulations. Our main results are:</p>
+					<ul>
+						<li>destruction of dwarf galaxies by mergers dominates over destruction by tides, and</li>
+						<li>the destruction of galaxies by tides is sufficient to explain the observed intracluster light in clusters.</li>
+					</ul>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cosmology—galaxies: clusters, dwarfs, interactions;methods: numerical.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Paramita" last="Barai">Paramita Barai</name>
+						<affiliation>Département de physique, de génie physique et d’optique, Université Laval, Québec City, Québec, G1K 7P4, Canada.</affiliation>
+						<email>paramita.barai.1@ulaval.ca</email>
+					</author>
+					<author>
+						<name first="William" last="Brito">William Brito</name>
+						<affiliation>Département de physique, de génie physique et d’optique, Université Laval, Québec City, Québec, G1K 7P4, Canada.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hugo" last="Martel">Hugo Martel</name>
+						<affiliation>Département de physique, de génie physique et d’optique, Université Laval, Québec City, Québec, G1K 7P4, Canada.</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-04-18</date>
+					<date type="M">2008-03-04</date>
 					<date type="R"></date>
-					<date type="A">2000-05-11</date>
+					<date type="A">2009-03-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>GMRT Detection of a New Wide-Angle Tail (WAT) Radio Source Associated with the Galaxy PGC 1519010</title>
+				<feature></feature>
+				<page>0037-0051</page>
+				<abstract>
+					<p>We report the serendipitous detection of a Wide-Angle Tail (WAT) radio galaxy at 240 and 610 MHz, using the Giant Metrewave Radio Telescope (GMRT). This WAT is hosted by a cD galaxy PGC 1519010 whose photometric redshift given in the SDSS DR6 catalogue is close to the spectroscopic redshifts (0.105, 0.106 and 0.107) of three galaxies found within $4'$ of the cD. Using the SDSS DR6, we have identified a total of 37 galaxies within $15'$ of the cD, whose photometric redshifts are between 0.08 and 0.14. This strongly suggests that the cD is associated with a group of galaxies whose conspicuous feature is a north–south chain of galaxies (filament) extending to at least 2.6 Mpc. The <i>ROSAT</i> all-sky survey shows a faint, diffuse X-ray source in this direction, which probably marks the hot intracluster gas in the potential well of this group.</p>
+					<p>We combine the radio structural information for this WAT with the galaxy clustering in that region to check its overall consistency with the models of WAT formation. The bending of the jet before and after its disruption forming the radio plume, are found to be correlated in this WAT, as seen from the contrasting morphological patterns on the two sides of the core. Probable constraints imposed by this on the models ofWAT formation are pointed out. We also briefly report on the other interesting radio sources found in the proximity of the WAT. These include a highly asymmetric double radio source and an ultra-steep spectrum radio source for which no optical counterpart is detected in the SDSS.</p>
+				</abstract>
+				<keywords>Radio galaxies;cluster of galaxies;ram pressure;intracluster medium.</keywords>
+				<authors>
+					<author>
+						<name first="N. G." last="Kantharia">N. G. Kantharia</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Post Bag 3, Ganeshkhind, Pune University Campus, Pune 411 007, India.</affiliation>
+						<email>ngk@ncra.tifr.res.in</email>
+					</author>
+					<author>
+						<name first="M." last="Das">M. Das</name>
+						<affiliation>Raman Research Institute, Sadashivnagar, Bangalore 560 080, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gopal" last="Krishna">Gopal-Krishna</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Post Bag 3, Ganeshkhind, Pune University Campus, Pune 411 007, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-10-29</date>
+					<date type="R"></date>
+					<date type="A">2009-03-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Self-similar Flow Behind a Shock Wave in a Gravitating or Non-gravitating Gas with Heat Conduction and Radiation Heat-flux</title>
+				<feature></feature>
+				<page>0053-0069</page>
+				<abstract>
+					<p>The propagation of a spherical shock wave in an ideal gas with heat conduction and radiation heat-flux, and with or without self-gravitational effects, is investigated. The initial density of the gas is assumed to obey a power law. The heat conduction is expressed in terms of Fourier’s law and the radiation is considered to be of the diffusion type for an optically thick grey gas model. The thermal conductivity and the absorption coefficient are assumed to vary with temperature and density, and the total energy of the wave to vary with time. Similarity solutions are obtained and the effects of variation of the heat transfer parameters, the variation of initial density and the presence of self-gravitational field are investigated.</p>
+				</abstract>
+				<keywords>Shock wave;self-similar flow;self-gravitational effects;heat transfer effects;variable initial density;variable total energy.</keywords>
+				<authors>
+					<author>
+						<name first="J. P." last="Vishwakarma">J. P. Vishwakarma</name>
+						<affiliation>Department of Mathematics and Statistics, D.D.U. Gorakhpur University, Gorakhpur 273 009, India.</affiliation>
+						<email>jpv_univgkp@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Arvind K." last="Singh">Arvind K. Singh</name>
+						<affiliation>Department of Mathematics and Statistics, D.D.U. Gorakhpur University, Gorakhpur 273 009, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-03-16</date>
+					<date type="R"></date>
+					<date type="A">2009-03-16</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Predicting Maximum Sunspot Number in Solar Cycle 24</title>
+				<feature></feature>
+				<page>0071-0077</page>
+				<abstract>
+					<p>A few prediction methods have been developed based on the precursor technique which is found to be successful for forecasting the solar activity. Considering the geomagnetic activity $aa$ indices during the descending phase of the preceding solar cycle as the precursor, we predict the maximum amplitude of annual mean sunspot number in cycle 24 to be $111 \pm 21$. This suggests that the maximum amplitude of the upcoming cycle 24 will be less than cycles 21–22. Further, we have estimated the annual mean geomagnetic activity $aa$ index for the solar maximum year in cycle 24 to be $20.6\pm 4.7$ and the average of the annual mean sunspot number during the descending phase of cycle 24 is estimated to be $48 \pm 16.8$.</p>
+				</abstract>
+				<keywords>Sunspot number;precursor prediction technique;geomagnetic activity index $aa$.</keywords>
+				<authors>
+					<author>
+						<name first="Nipa J" last="Bhatt">Nipa J Bhatt</name>
+						<affiliation>C. U. Shah Science College, Ashram Road, Ahmedabad 380 014, India.</affiliation>
+						<email>nijibhatt@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Malini" last="Aggarwal">Malini Aggarwal</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-11-22</date>
+					<date type="R"></date>
+					<date type="A">2008-12-23</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="02" month="06" year="2009">
 			<entry hassup="0">
-				<title></title>
+				<title>Reconnection in Solar Flares: Outstanding Questions</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0079-0085</page>
 				<abstract>
-					<p></p>
+					<p>Space observations of solar flares such as those from Yohkoh, SOHO,TRACE, and RHESSI have revealed a lot of observational evidence of magnetic reconnection in solar flares: cusp-shaped arcades, reconnection inflows, plasmoids, etc. Thus it has been established, at least phenomenologically, that magnetic reconnection does occur in solar flares. However, a number of fundamental questions and puzzles still remain in the physics of reconnection in solar flares. In this paper, we discuss the recent progresses and future prospects in the study of magnetic reconnection in solar flares from both theoretical and observational points of view.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Flares;magnetic reconnection;magnetohydrodynamics.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Hiroaki" last="Isobe">Hiroaki Isobe</name>
+						<affiliation>Department of Earth and Planetary Science, University of Tokyo, Hongo, Bunkyo-ku, Tokyo 113-0033, Japan.</affiliation>
+						<email>isobe@eps.s.u-tokyo.ac.jp</email>
+					</author>
+					<author>
+						<name first="Kazunari" last="Shibata">Kazunari Shibata</name>
+						<affiliation>Kwasan and Hida Observatories, Kyoto University, Yamashina, Kyoto 607-8471, Japan.</affiliation>
+						<email>shibata@kwasan.kyoto-u.ac.jp</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-04-18</date>
+					<date type="M">2007-04-09</date>
 					<date type="R"></date>
-					<date type="A">2000-05-11</date>
+					<date type="A">2009-04-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectroscopic Binaries near the North Galactic Pole Paper 12A: 6 Boötis</title>
+				<feature></feature>
+				<page>0087-0091</page>
+				<abstract>
+					<p>About 25 years ago, in Paper 12 of this series, the author presented a spectroscopic orbit for 6 Boo. The velocity amplitude of little more than 1 km s$^{-1}$ was much smaller than for any star whose orbit had been determined up till that time. Although it was objectively demonstrated that the orbit was very secure, a few years ago subjective misgivings prompted the author to restore the star to his observing programme. Newobservations of much higher precision confirm not only the spectroscopic-binary nature of 6 Boo but also, with almost astonishing fidelity, the elements already given for it.</p>
+				</abstract>
+				<keywords>Radial velocities;spectroscopic binaries;orbits;stars: individual;6 Boo.</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge CB3 0HA, England.</affiliation>
+						<email>rfg@ast.cam.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-06-17</date>
+					<date type="R"></date>
+					<date type="A">2009-07-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Ks-band Tully–Fisher Relation – A Determination of the Hubble Parameter from 218 ScI Galaxies and 16 Galaxy Clusters</title>
+				<feature></feature>
+				<page>0093-0118</page>
+				<abstract>
+					<p>The value of Hubble parameter (H$_{0}$) is determined using the morphologically type dependent Ks-band Tully–Fisher Relation (K-TFR). The slope and zero point are determined using 36 calibrator galaxies with ScI morphology. Calibration distances are adopted from direct Cepheid distances, and group or companion distances derived with the Surface Brightness Fluctuation Method or Type Ia Supernova. It is found that a small morphological type effect is present in the K-TFR such that ScI galaxies are more luminous at a given rotational velocity than Sa/Sb galaxies and Sbc/Sc galaxies of later luminosity classes. Distances are determined to 16 galaxy clusters and 218 ScI galaxies with minimum distances of 40.0 Mpc. From the 16 galaxy clusters a weighted mean Hubble parameter of $\text{H}_{0} = 84.2 \pm 6$ km s$^{-1}$ Mpc$^{-1}$ is found. From the 218 ScI galaxies a Hubble parameter of $\text{H}_{0} = 83.4 \pm 8$ km s$^{-1}$ Mpc$^{-1}$ is found. When the zero point of K-TFR is corrected to account for recent results that find a Large Magellanic Cloud distance modulus of $18.39\pm 0.05$, a Hubble parameter of $88.0 \pm 6$ km s$^{-1}$ Mpc$^{-1}$ is found. Effects from Malmquist bias are shown to be negligible in this sample as galaxies are restricted to a minimum rotational velocity of 150 km s$^{-1}$. It is also shown that the results of this study are negligibly affected by the adopted slope for the K-TFR, inclination binning, and distance binning. A comparison with the results of the Hubble Key Project (Freedman <i>et al.</i> 2001) is made. Discrepancies between the K-TFR distances and the HKP I-TFR distances are discussed. Implications for $\Lambda$-CDM cosmology are considered with $\text{H}_{0} = 84$ km s$^{-1}$ Mpc$^{-1}$. It is concluded that it is very difficult to reconcile the value of H$_{0}$ found in this study with ages of the oldest globular clusters and matter density of the universe derived from galaxy clusters in the context of $\Lambda$-CDM cosmology.</p>
+				</abstract>
+				<keywords>Distance scale;galaxies: distances and redshifts.</keywords>
+				<authors>
+					<author>
+						<name first="David G." last="Russell">David G. Russell</name>
+						<affiliation>Owego Free Academy, Owego, NY 13827, USA.</affiliation>
+						<email>Russeld1@oacsd.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-04-27</date>
+					<date type="R"></date>
+					<date type="A">2009-06-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Effect of Hypothetical Diproton Stability on the Universe</title>
+				<feature></feature>
+				<page>0119-0131</page>
+				<abstract>
+					<p>By calculation of the proton–proton capture cross-section, it is shown that the existence of a bound diproton state would not lead to significant production of diprotons during big bang nucleosynthesis, contrary to popular belief. In typical stellar interiors, the stability of diprotons would lead to a reaction pathway for converting protons to deuterons perhaps $\sim 10^{10}$ times faster than the usual weak capture reaction. This would prevent stars of the familiar hot, dense type from occurring in the universe. However, if diproton stability is achieved by an increase in the low-energy strong coupling, $g_{s}$ , then stars with temperatures and densities sufficiently reduced so as to offset the faster reaction pathway to deuterium will appear to meet elementary stability criteria. The claim that there is a fine-tuned, anthropic upper bound to the strong force which ensures diproton instability therefore appears to be unfounded.</p>
+				</abstract>
+				<keywords>Big bang nucleosynthesis;star formation;anthropic cosmology.</keywords>
+				<authors>
+					<author>
+						<name first="R. A. W." last="Bradford">R. A. W. Bradford</name>
+						<affiliation>Bennerley, 1 Merlin Haven, Wotton-under-Edge, Gloucestershire, England, GL12 7BA.</affiliation>
+						<email>RickatMerlinHaven@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-03-28</date>
+					<date type="R"></date>
+					<date type="A">2009-03-16</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="03-04" month="09-12" year="2009">
 			<entry hassup="0">
-				<title></title>
+				<title>Close Separation Triple System QSO 1009-0252 with Discordant Redshifts: Is the Spectrum of One Component Blueshifted?</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0133-0143</page>
 				<abstract>
-					<p></p>
+					<p>1009-0252 is a Quasi Stellar Object (QSO) with three components A, B, C. A, B are thought to be the result of gravitational lensing of one object, and A, C constitute a close pair with redshifts 2.74 and 1.62 respectively. Close separation pairs of QSOs with discordant redshifts have received special attention in recent years, probably because of the possibility that they may be physically associated, implying non-cosmological redshifts. Attempts have been made to explain their occurrences due to the effect of gravitational lensing. However, gravitational lensing has not offered a completely satisfactory explanation for this triplet. Furthermore, examination revealed some inadequacies and inconsistencies in the redshift identification of the observed lines in the component A. Observational results of 1009-0252 therefore remain puzzling.We propose an alternative explanation by suggesting that A, B actually constitute a close pair and C is an unrelated object in the field. We show that the observed spectrum of A can be interpreted as blueshifted. This implies that A, B are two separate objects, one (A) approaching us and the other (B) receding from us, and are not the result of gravitational lensing of a single object. The oppositely directed pair A, B may have been ejected due to the merger of two galaxies.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Quasars: emission lines, absorption lines;individual: Q 1009-0252;cosmology: miscellaneous.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="D." last="Basu">D. Basu</name>
+						<affiliation>Department of Physics, Carleton University, Ottawa, ON K1S 5B6, Canada.</affiliation>
+						<email>basu@physics.carleton.ca</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-08-20</date>
+					<date type="R"></date>
+					<date type="A">2009-07-27</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Method for Judging Decay or Growth of the Magnetic Field of Pulsar</title>
+				<feature></feature>
+				<page>0145-0151</page>
+				<abstract>
+					<p>This paper provides a method for judging growth or decay of the magnetic field of pulsar by using pulse period $P$, or frequency $v$, and its first and second derivatives $\dot{P}$, $\ddot{P}$ or $\dot{v}$, $\ddot{v}$. The author uses this method to judge the growth or decay of the magnetic field of Crab pulsar. The judged result for Crab pulsar is that the magnetic field of Crab pulsar is growing now, but it is not decaying. The result corresponds with the actual case of Crab pulsar.</p>
+				</abstract>
+				<keywords>Pulsar;decay or growth of magnetic field;method of judgement.</keywords>
+				<authors>
+					<author>
+						<name first="Lin-Sen" last="Li">Lin-Sen Li</name>
+						<affiliation>Department of Physics, Northeast Normal University, Changchun 130 024, China.</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-04-18</date>
+					<date type="M">2008-06-09</date>
 					<date type="R"></date>
-					<date type="A">2000-05-11</date>
+					<date type="A">2009-09-01</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Velocity Curve Studies of Spectroscopic Binary Stars V380 Cygni, V401 Cyg, V523 Cas, V373 Cas and V2388 Oph</title>
+				<feature></feature>
+				<page>0153-0163</page>
+				<abstract>
+					<p>Using measured radial velocity data of five double lined spectroscopic binary systems V380 Cygni, V401 Cyg, V523 Cas, V373 Cas and V2388 Oph, we find corresponding orbital and spectroscopic elements via the method introduced by Karami &amp; Mohebi (2007) and Karami &amp; Teimoorinia (2007). Our numerical results are in good agreement with those obtained by others using more traditional methods.</p>
+				</abstract>
+				<keywords>Stars: binaries: eclipsing;stars: binaries: spectroscopic.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Karami">K. Karami</name>
+						<affiliation>Department of Physics, University of Kurdistan, Pasdaran St., Sanandaj, Iran.</affiliation>
+						<affiliation>Research Institute for Astronomy &amp; Astrophysics of Maragha (RIAAM), Maragha, Iran.</affiliation>
+						<email>KKarami@uok.ac.ir</email>
+					</author>
+					<author>
+						<name first="R." last="Mohebi">R. Mohebi</name>
+						<affiliation>Department of Physics, University of Kurdistan, Pasdaran St., Sanandaj, Iran.</affiliation>
+						<email>rozitamohebi@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-05-11</date>
+					<date type="R"></date>
+					<date type="A">2009-03-16</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Rapid Neutron Capture Process in Supernovae and Chemical Element Formation</title>
+				<feature></feature>
+				<page>0165-0175</page>
+				<abstract>
+					<p>The rapid neutron capture process (r-process) is one of the major nucleosynthesis processes responsible for the synthesis of heavy nuclei beyond iron. Isotopes beyond Fe are most exclusively formed in neutron capture processes and more heavier ones are produced by the r-process. Approximately half of the heavy elements with mass number A $\succ$ 70 and all of the actinides in the solar system are believed to have been produced in the r-process. We have studied the r-process in supernovae for the production of heavy elements beyond $A = 40$ with the newest mass values available. The supernova envelopes at a temperature $\succ 10^{9}$ K and neutron density of $10^{24}$ cm$^{-3}$ are considered to be one of the most potential sites for the r-process. The primary goal of the r-process calculations is to fit the global abundance curve for solar system r-process isotopes by varying time dependent parameters such as temperature and neutron density. This method aims at comparing the calculated abundances of the stable isotopes with observation.We have studied the r-process path corresponding to temperatures ranging from $1.0 \times 10^{9}$ K to $3.0 \times 10^{9}$ K and neutron density ranging from $10^{20}$ cm$^{-3}$ to $10^{30}$ cm$^{-3}$. With temperature and density conditions of $3.0 \times 10^{9}$ K and $10^{20}$ cm$^{-3}$ a nucleus of mass 273 was theoretically found corresponding to atomic number 115. The elements obtained along the r-process path are compared with the observed data at all the above temperature and density range.</p>
+				</abstract>
+				<keywords>Supernova;nucleosynthesis;abundance;r-process.</keywords>
+				<authors>
+					<author>
+						<name first="Rulee" last="Baruah">Rulee Baruah</name>
+						<affiliation>Department of Physics, HRH The Prince of Wales Institute of Engineering and Technology, Jorhat 785 001, India.</affiliation>
+						<email>ruleebaruah@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Kalpana" last="Duorah">Kalpana Duorah</name>
+						<affiliation>Department of Physics, Gauhati University, Guwahati 781 014, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. L." last="Duorah">H. L. Duorah</name>
+						<affiliation>Department of Physics, Gauhati University, Guwahati 781 014, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-05-28</date>
+					<date type="R"></date>
+					<date type="A">2009-09-29</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On Out of Plane Equilibrium Points in Photo-Gravitational Restricted Three-Body Problem</title>
+				<feature></feature>
+				<page>0177-0185</page>
+				<abstract>
+					<p>We have investigated the out of plane equilibrium points of a passive micron size particle and their stability in the field of radiating binary stellar systems <i>Krüger</i>-60, <i>RW-Monocerotis</i> within the framework of photo-gravitational circular restricted three-body problem. We find that the out of plane equilibrium points $(L_{i}, i = 6, 7, 8, 9)$ may exist for range of $\beta_{1}$ (ratio of radiation to gravitational force of the massive component) values for these binary systems in the presence of Poynting–Robertson drag (hereafter PR-drag). In the absence of PR-drag, we find that the motion of a particle near the equilibrium points $L_{6,7}$ is stable in both the binary systems for a specific range of $\beta_{1}$ values. The PR-drag is shown to cause instability of the various out of plane equilibrium points in these binary systems.</p>
+				</abstract>
+				<keywords>Radiation;Poynting;Robertson drag;binary stellar system;equilibrium points;stability.</keywords>
+				<authors>
+					<author>
+						<name first="M. K." last="Das">M. K. Das</name>
+						<affiliation>Institute of Informatics and Communication, University of Delhi South Campus, Benitojuarez Road, New Delhi 110 021, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pankaj" last="Narang">Pankaj Narang</name>
+						<affiliation>Department of Physics, A.R.S.D. College, University of Delhi, New Delhi 110 021, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Mahajan">S. Mahajan</name>
+						<affiliation>Department of Physics &amp; Astrophysics, University of Delhi, New Delhi 110 021, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Yuasa">M. Yuasa</name>
+						<affiliation>RIST, Kinki University , Higashi-Osaka 577-8502, Japan.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-08-17</date>
+					<date type="R"></date>
+					<date type="A">2009-09-01</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analytical Treatment of the Two-Body Problem with Slowly Varying Mass</title>
+				<feature></feature>
+				<page>0187-0205</page>
+				<abstract>
+					<p>The present work is concerned with the two-body problem with varying mass in case of isotropic mass loss from both components of the binary systems. The law of mass variation used gives rise to a perturbed Keplerian problem depending on two small parameters. The problem is treated analytically in the Hamiltonian frame-work and the equations of motion are integrated using the Lie series developed and applied, separately by Delva (1984) and Hanslmeier (1984). A second order theory of the two bodies eject mass is constructed, returning the terms of the rate of change of mass up to second order in the small parameters of the problem.</p>
+				</abstract>
+				<keywords>Mass loss;binary systems;two-body problem;perturbations.</keywords>
+				<authors>
+					<author>
+						<name first="W. A." last="Rahoma">W. A. Rahoma</name>
+						<affiliation>Cairo University, Faculty of Science, Department of Astronomy, Cairo, Egypt.</affiliation>
+						<email>walid−rahoma@yahoo.com</email>
+					</author>
+					<author>
+						<name first="F. A. Abd" last="El-Salam">F. A. Abd El-Salam</name>
+						<affiliation>Cairo University, Faculty of Science, Department of Astronomy, Cairo, Egypt.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. K." last="Ahmed">M. K. Ahmed</name>
+						<affiliation>Cairo University, Faculty of Science, Department of Astronomy, Cairo, Egypt.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-03-06</date>
+					<date type="R"></date>
+					<date type="A">2009-09-01</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0207-0208</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0209-0210</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
@@ -9015,77 +9371,509 @@
 	<volume vnum="031">
 		<issue inum="01" month="03" year="2010">
 			<entry hassup="0">
-				<title></title>
+				<title>Editorial</title>
 				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<page>0001-0002</page>
+				<abstract />
 				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Computational Developments for Distance Determination of Stellar Groups</title>
+				<feature></feature>
+				<page>0003-0016</page>
+				<abstract>
+					<p>In this paper, we consider a statistical method for distance determination of stellar groups. The method depends on the assumption that the members of the group scatter around a mean absolute magnitude in Gaussian distribution. The mean apparent magnitude of the members is then expressed by frequency function, so as to correct for observational incompleteness at the faint end. The problem reduces to the solution of a highly transcendental equation for a given magnitude parameter $\alpha$. For the computational developments of the problem, continued fraction by the Top–Down algorithm was developed and applied for the evaluation of the error function erf$(z)$. The distance equation $\Lambda(y) = 0$ was solved by an iterative method of second order of convergence using homotopy continuation technique. This technique does not need any prior knowledge of the initial guess, a property which avoids the critical situations between divergent and very slow convergent solutions, that may exist in the applications of other iterative methods depending on initial guess.</p>
+					<p>Finally, we apply the method for the nearby main sequence late type stars assuming that the stars of each group of the same spectral type scatter around a mean absolute magnitude in a Gaussian distribution. The accuracies of the numerical results are satisfactory, in that, the percentage errors between $r$ and the mean values are respectively: (2.4\%, 1.6\%, 0.72\%, 0.66\%, 3.5\%, 2.4\%, 2\%, 2.5\%, 0.9\%) for the stars of spectral types: (F5V, F6V, F7V, F8V, F9V, G0V, G2V, G5V, G8V).</p>
+				</abstract>
+				<keywords>Distance determination;spectral type;frequency function.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="M. A." last="Sharaf">M. A. Sharaf</name>
+						<affiliation>Department of Astronomy, Faculty of Science, King Abdul Aziz University, Jeddah, Saudi Arabia.</affiliation>
+						<email>sharaf−adel@hotmail.com</email>
+					</author>
+					<author>
+						<name first="A. M." last="Sendi">A. M. Sendi</name>
+						<affiliation>Department of Astronomy, Faculty of Science, King Abdul Aziz University, Jeddah, Saudi Arabia.</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-04-18</date>
+					<date type="M">2008-04-09</date>
 					<date type="R"></date>
-					<date type="A">2000-05-11</date>
+					<date type="A">2010-02-17</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Three-Component Dust Models for Interstellar Extinction</title>
+				<feature></feature>
+				<page>0017-0029</page>
+				<abstract>
+					<p>Interstellar extinction curves obtained from the ‘extinction without standard’ method were used to constrain the dust characteristics in the mean ISM $(R_{V} = 3.1)$, along the lines of sight through a high latitude diffuse molecular cloud towards HD 210121 $(RV = 2.1)$ and in a dense interstellar environment towards the cluster NGC 1977 $(R_{V} = 6.42)$. We have used three-component dust models comprising silicate, graphite and very small carbonaceous grains (polycyclic aromatic hydrocarbons) following the grain size distributions introduced by Li &amp; Draine in 2001. It is shown that oxygen, carbon and silicon abundances derived from our models are closer with the available elemental abundances for the dust grains in the ISM if F &amp; G type stars atmospheric abundances are taken for the ISM than the solar. The importance of very small grains in modelling the variation of interstellar extinction curves has been investigated. Grain size distributions and elemental abundances locked up in dust are studied and compared at different interstellar environments using these three extinction curves. We present the albedo and the scattering asymmetry parameter evaluated from optical to extreme-UV wavelengths for the proposed dust models.</p>
+				</abstract>
+				<keywords>Dust extinction;ISM: abundances;ISM.</keywords>
+				<authors>
+					<author>
+						<name first="C." last="Muthumariappan">C. Muthumariappan</name>
+						<affiliation>Vainu Bappu Observatory, Indian Institute of Astrophysics, Kavalur 635 701, India.</affiliation>
+						<email>muthu@iiap.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-03-23</date>
+					<date type="R"></date>
+					<date type="A">2010-01-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectroscopic Study of ‘CO’ and its Isotopic mm/Submillimeter Lines from Dark Cloud Lynds 183</title>
+				<feature></feature>
+				<page>0031-0041</page>
+				<abstract>
+					<p>We have made spectral line analysis of CO and its isotopic lines from dark cloud Lynds 183 (L183). Our dataset incorporates $^{12}$CO(1––0), $^{13}$CO(1––0) and $^{13}$CO(2––1) lines using NRAO-12m and $^{12}$CO(3––2), $^{13}$CO(3––2) lines using CSO-10m telescopes, respectively. Observations suggest steep north-south (direction with respect to the offset position (0, 0)) temperature gradient in the cloud. These are likely to be caused by non-uniform, Inter Stellar Radiation Field (ISRF) illumination due to the shadow of nearby L134 cloud complex. As the emission of radiation depends on local properties like density and kinetic temperature, the present study attempts to deduce the irradiation contrast (and the resulting temperature difference) using 1D Monte Carlo radiative transfer code RATRAN. The model results accord with the observed data and shows a temperature difference of $\sim 7$ K mainly within the cloud envelope. This results in a non-uniform intensity distribution of both CO and its species.</p>
+				</abstract>
+				<keywords>Radiative transfer;molecular spectral lines;temperature gradient.</keywords>
+				<authors>
+					<author>
+						<name first="R. S." last="Thampi">R. S. Thampi</name>
+						<affiliation>Physical Research Laboratory (PRL), Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email>satheesh−t@yahoo.com</email>
+					</author>
+					<author>
+						<name first="L." last="Pagani">L. Pagani</name>
+						<affiliation>LERMA &amp; UMR 8112 du CNRS, Observatoire de Paris 61, Av. de l’Observatoire, 75014 Paris, France.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-07-19</date>
+					<date type="R"></date>
+					<date type="A">2010-02-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Electron Temperatures in W51 Complex from High Resolution, Low Frequency Radio Observations</title>
+				<feature></feature>
+				<page>0043-0058</page>
+				<abstract>
+					<p>W51 is a giant radio complex lying along the tangent to the Sagitarius arm at a distance of about 7 kpc from the Sun, with an extension of about $1^{\circ}$ in the sky. It is divided into three components A, B, C where W51A and W51B consist of many compact HII regions while W51C is a supernova remnant. We have made continuum radio observations of these HII regions of the W51 complex at 240, 610, 1060 and 1400 MHz using GMRT with lower resolution ($20'' \times 15''$) at the lowest frequency. The observed spectra of the prominent thermal subcomponents of W51 have been fitted to a free-free emission spectrum and their physical properties like electron temperatures and emission measures have been estimated. The electron temperatures from continuum spectra are found to be lower than the temperatures reported from radio recombination line (RRL) studies of these HII regions indicating the need for a filling factor even at this resolution. Also, the observed brightness at 240 MHz is found to be higher than expected from the best fits suggesting the need for a multicomponent model for the region.</p>
+				</abstract>
+				<keywords>ISM;HII regions;radio continuum;individual (W51).</keywords>
+				<authors>
+					<author>
+						<name first="P. K." last="Srivastava">P. K. Srivastava</name>
+						<affiliation>Dayanand Anglo-Vedic College, Civil Lines, Kanpur 208 001, India.</affiliation>
+						<email>pradeep@iucaa.ernet.in</email>
+					</author>
+					<author>
+						<name first="A. Pramesh" last="Rao">A. Pramesh Rao</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune University Campus, Post Bag 3, Ganeshkhind P.O., Pune 411 007, India.</affiliation>
+						<email>pramesh@ncra.tifr.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-06-08</date>
+					<date type="R"></date>
+					<date type="A">2010-02-05</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="02" month="06" year="2010">
 			<entry hassup="0">
-				<title></title>
+				<title>Determination of the Mean HI Absorption of the Intergalactic Medium</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0059-0079</page>
 				<abstract>
-					<p></p>
+					<p>In recent years, the Lyman-$\alpha$ forest in quasar spectra has been used, together with $N$-body simulations, to determine the underlying matter distribution in the intergalactic medium (IGM). One of the key parameters to be known in order to compare observations and numerical simulations is the mean HI absorption in the IGM. To derive the latter, one has first to fit the quasar continuum.We have observed 20 high redshift and highly luminous QSOs ($m_{V} \leq 17.5$ and $2.40 \leq z_{\text{em}} \leq 3.91$) at intermediate spectral resolution, with either EMMI (ESO Multi-Mode Instrument) on the ESO-NTT telescope or CARELEC at the OHP (Observatoire de Haute-Provence), and applied different methods of determining the QSO continuum to this QSO sample. We have measured the amount of absorption, known as the flux decrement, $DA$, in the Lyman-$\alpha$ forest for these different methods and compared the results. In addition, we have compared $DA$ values measured along the same lines of sight observed at high and intermediate spectral resolutions.We discuss the systematics resulting from the use of automatic continuum fitting methods.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Quasar: absorption lines;galaxies: intergalactic medium.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A." last="Aghaee">A. Aghaee</name>
+						<affiliation>Department of Physics, University of Sistan and Baluchestan, Zahedan 98135-674, Iran.</affiliation>
+						<affiliation>School of Astronomy, Institute for Research in Fundamental Sciences (IPM), P. O. Box 19395-5531, Tehran, Iran.</affiliation>
+						<email>aghaee@ipm.ir</email>
+					</author>
+					<author>
+						<name first="P." last="Petitjean">P. Petitjean</name>
+						<affiliation>Institut d’Astrophysique de Paris, Université Paris 06 &amp; CNRS, UMR7095, 98bis Bd Arago, 75014 Paris, France.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Srianand">R. Srianand</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Ganeshkhind, Pune 411 007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. S." last="Stalin">C. S. Stalin</name>
+						<affiliation>Indian Institute of Astrophysics, Koramangala, Bangalore 560 034, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Guimarães">R. Guimarães</name>
+						<affiliation>Universidade de Feira de Santana, Av. Transnordestinam S/N, 40036-900, Feira de Santana, BA - Brasil.</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-04-18</date>
+					<date type="M">2009-09-14</date>
 					<date type="R"></date>
-					<date type="A">2000-05-11</date>
+					<date type="A">2010-04-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Markov Stochastic Technique to Determine Galactic Cosmic Ray Sources Distribution</title>
+				<feature></feature>
+				<page>0081-0088</page>
+				<abstract>
+					<p>A new numerical model of particle propagation in the Galaxy has been developed, which allows the study of cosmic-ray production and propagation in 2D. The model has been used to solve cosmic ray diffusive transport equation with a complete network of nuclear interactions using the time backward Markov stochastic process by tracing the particles’ trajectories starting from the Solar System back to their sources in the Galaxy. This paper describes a further development of the model to calculate the contribution of various galactic locations to the production of certain cosmic ray nuclei observed at the Solar System.</p>
+				</abstract>
+				<keywords>Cosmic rays;ISM: galactic locations;stochastic processes.</keywords>
+				<authors>
+					<author>
+						<name first="Ashraf" last="Farahat">Ashraf Farahat</name>
+						<affiliation>Department of Physics and Astronomy, Okanagan College, Kelowna, BC, V1Y4X8, Canada.</affiliation>
+						<email>afarahat@okanagan.bc.ca</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-09-03</date>
+					<date type="R"></date>
+					<date type="A">2010-04-25</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Study of High and Low Amplitude Wave Trains of Cosmic Ray Diurnal Variation during Solar Cycle 23</title>
+				<feature></feature>
+				<page>0089-0096</page>
+				<abstract>
+					<p>A detailed study has been conducted on the long-term changes in the diurnal variation of cosmic rays in terms of high and low amplitude wave trains event (HAEs/LAEs) during the period 1996–2008 (solar cycle 23), using the neutron monitor data from Kiel neutron monitoring station. As such, 17 HAE and 48 LAE cases have been detected and analyzed. These HAEs appear quite dominantly during the declining phase as well as near the maximum of the solar activity cycle 23. In contrast, the low amplitude events (LAEs) are inversely correlated with solar activity cycle. In fact, LAEs appear quite dominantly during the minimum phase of the solar activity. When we compare our results for diurnal phase with that observed on an annual average basis, we notice no significant diurnal phase shift for HAEs as well as for LAEs. Moreover, we find that the high-speed solar wind streams (HSSWS) do not play any significant role in causing these variations. These results are discussed on the basis of that observed in earlier cycles.</p>
+				</abstract>
+				<keywords>Cosmic rays;diurnal variation;high amplitude anisotropic events;low amplitude anisotropic events;solar cycle;solar wind speed.</keywords>
+				<authors>
+					<author>
+						<name first="Ambika" last="Singh">Ambika Singh</name>
+						<affiliation>Physics Department, Government T.R.S. College, Rewa (M.P.) 486 001, India.</affiliation>
+						<email>ambika.physics@gmail.com</email>
+					</author>
+					<author>
+						<name first="Anil Kumar" last="Tiwari">Anil Kumar Tiwari</name>
+						<affiliation>Physics Department, Government T.R.S. College, Rewa (M.P.) 486 001, India.</affiliation>
+						<email>tiwarianil−trs@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="S. P." last="Agrawal">S. P. Agrawal</name>
+						<affiliation>Physics Department, A.P.S. University, Rewa (M.P.) 486 003, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-04-14</date>
+					<date type="R"></date>
+					<date type="A">2010-05-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Photometric Observation and Light Curve Analysis of Binary System ER-Orionis</title>
+				<feature></feature>
+				<page>0097-0104</page>
+				<abstract>
+					<p>Photometric observations of the over-contact binary ER ORI were performed during November 2007 and February to April 2008 with the 51 cm telescope of Biruni Observatory of Shiraz University in U, B and V filters (Johnson system) and an RCA 4509 photomultiplier. We used these data to obtain the light curves and calculate the newtimes of minimum light in each filter and plot the O–C diagram of ER ORI. Using the Wilson’s computer code with the help of an auxiliary computer program to improve the optimizations, the light curve analyses were carried out to find out the photometric elements of the system.</p>
+				</abstract>
+				<keywords>Photoelectric photometry;eclipsing binaries;over-contact systems.</keywords>
+				<authors>
+					<author>
+						<name first="M. M." last="Lame’e">M. M. Lame’e</name>
+						<affiliation>Leiden Observatory, Leiden University, P.O. Box 9513, 2300 RA, Leiden, The Netherlands.</affiliation>
+						<email>mehdi@strw.leidenuniv.nl</email>
+					</author>
+					<author>
+						<name first="B." last="Javanmardi">B. Javanmardi</name>
+						<affiliation>Department of Physics, Biruni Observatory, Shiraz University, Shiraz, 71454, Iran.</affiliation>
+						<email>behnam.javanmardi@gmail.com</email>
+					</author>
+					<author>
+						<name first="N." last="Riazi">N. Riazi</name>
+						<affiliation>Department of Physics, Biruni Observatory, Shiraz University, Shiraz, 71454, Iran.</affiliation>
+						<email>riazi@physics.susc.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-10-31</date>
+					<date type="R"></date>
+					<date type="A">2010-04-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Extracting Information from the Gravitational Redshift of Compact Rotating Objects</title>
+				<feature></feature>
+				<page>0105-0119</page>
+				<abstract>
+					<p>Essential macroscopic internal properties of compact objects can be related to each other with the help of General Relativity. A somewhat familiar example is the relationship between the compactness $M/R$ and the gravitational redshift for nonrotating bodies. Rotation poses new challenges when trying to relate observed or potentially observed quantities such as the graviational redshift, mass, radius, and angular velocity. Using a perturbative approach, we present an analytical approximation whose purpose is to relate these quantities. Two main results are highlighted: Derivation of a new maximal angular velocity depending only on the mass of the object and a possible estimate of the radius from a measurement of the gravitational redshift.</p>
+				</abstract>
+				<keywords>Maximal angular velocity;stars: neutron;stars: rotation.</keywords>
+				<authors>
+					<author>
+						<name first="Paul D." last="Nuñez">Paul D. Nuñez</name>
+						<affiliation>Department of Physics &amp; Astronomy, University of Utah, 115 S 1400 E, Salt Lake City, UT 84112 and Observatorio Astronómico, Universidad Sergio Arboleda, Cll. 74 No. 14–14, Bogotá, Colombia.</affiliation>
+						<email>nunez.paul@gmail.com</email>
+					</author>
+					<author>
+						<name first="Marek" last="Nowakowski">Marek Nowakowski</name>
+						<affiliation>Departamento de Física, Universidad de los Andes, Cra. 1E No. 18A-10, Bogotá, Colombia.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-02-16</date>
+					<date type="R"></date>
+					<date type="A">2010-05-04</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="03" month="09" year="2010">
 			<entry hassup="0">
-				<title></title>
+				<title>Oxygen Abundance Methods in SDSS: View from Modern Statistics</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0121-0133</page>
 				<abstract>
-					<p></p>
+					<p>Our purpose is to find which is the most reliable one among various oxygen abundance determination methods. We will test the validity of several different oxygen abundance determination methods using methods of modern statistics. These methods include Bayesian analysis and information scoring. We will analyze a sample of $\sim 6000$ HII galaxies from the Sloan Digital Sky Survey (SDSS) spectroscopic observations data release four. All methods that we used drew the same conclusion that the $T_{e}$ method is a more reliable oxygen abundance determination method than the Bayesian metallicity method under the existing telescope ability. The ratios of the likelihoods between the different kinds of methods tell us that the $T_{e}$, $P$, and $O3N2$ methods are consistent with each other because the $P$ and $O3N2$ methods are calibrated by $T_{e}$ method. The Bayesian and $R_{23}$ methods are consistent with each other because both are calibrated by a galaxy model. In either case, the $N2$ method is an <i>unreliable</i> method.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Galaxies: abundance, starburst;stars: formation.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Fei" last="Shi">Fei Shi</name>
+						<affiliation>Department of Basic Science, North China Institute of Spaceflight Engineering, Hebei 065000, PR China.</affiliation>
+						<email>fshi@bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Gang" last="Zhao">Gang Zhao</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing 100012, PR China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="James" last="Wicker">James Wicker</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing 100012, PR China.</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-04-18</date>
+					<date type="M">2010-05-03</date>
 					<date type="R"></date>
-					<date type="A">2000-05-11</date>
+					<date type="A">2010-06-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Effect of Screening Factors and Thermonuclear Reaction Rates in the Pre-main Sequence Evolution of Low Mass Stars</title>
+				<feature></feature>
+				<page>0135-0145</page>
+				<abstract>
+					<p>In understanding the nucleosynthesis of the elements in stars, one of the most important quantities is the reaction rate and it must be evaluated in terms of the stellar temperature $T$, and its determination involves the knowledge of the excitation function $\sigma(E)$ of the specific nuclear reaction leading to the final nucleus. In this paper, the effect of thermonuclear reaction rates to the pre-main sequence evolution of low mass stars having masses 0.7, 0.8, 0.9 and 1 M$_{\odot}$ are studied by using our modified Stellar Evolutionary Program.</p>
+				</abstract>
+				<keywords>Low mass stars;thermonuclear reaction rates;electron screening factors;composition changes.</keywords>
+				<authors>
+					<author>
+						<name first="İ." last="Küçük">İ. Küçük</name>
+						<affiliation>Erciyes University, Science Faculty, Department of Astronomy and Space Sciences, 38039 Kayseri, Turkey.</affiliation>
+						<email>kucuk@erciyes.edu.tr</email>
+					</author>
+					<author>
+						<name first="Ş." last="Çalışkan">Ş. Çalışkan</name>
+						<affiliation>Ankara University, Science Faculty, Department of Astronomy and Space Sciences, 06100 Ankara, Turkey.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-07-30</date>
+					<date type="R"></date>
+					<date type="A">2010-06-07</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Constraining the Relative Inclinations of the Planets B and C of the Millisecond Pulsar PSR B1257+12</title>
+				<feature></feature>
+				<page>0147-0153</page>
+				<abstract>
+					<p>We investigate on the relative inclination of the planets B and C orbiting the pulsar PSR B1257+12. First, we show that the third Kepler’s law does represent an adequate model for the orbital periods $P$ of the planets, because other Newtonian and Einsteinian corrections are orders of magnitude smaller than the accuracy in measuring $P_{B/C}$. Then, on the basis of available timing data, we determine the ratio sin $i_{C}/ \sin i_{B} = 0.92\pm 0.05$ of the orbital inclinations $i_{B}$ and $i_{C}$ independently of the pulsar’s mass $M$. It turns out that coplanarity of the orbits of B and C would imply a violation of the equivalence principle. Adopting a pulsar mass range $1 \lesssim M \lesssim 3$, in solar masses (supported by present-day theoretical and observational bounds for pulsar’s masses), both face-on and edge-on orbital configurations for the orbits of the two planets are ruled out; the acceptable inclinations for B span the range 36 deg $\lesssim i_{B} \lesssim 66$ deg, with a corresponding relative inclination range 6 deg $\lesssim (i_{C} − i_{B}) \lesssim 13$ deg.</p>
+				</abstract>
+				<keywords>Planetary systems;pulsars: general, individual, (PSR B1257+12);extrasolar planets.</keywords>
+				<authors>
+					<author>
+						<name first="Lorenzo" last="Iorio">Lorenzo Iorio</name>
+						<affiliation>Ministero dell’Istruzione, dell’Università e della Ricerca, Viale Unità di Italia 68, 70125, Bari (BA), Italy.</affiliation>
+						<email>lorenzo.iorio@libero.it</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-12-10</date>
+					<date type="R"></date>
+					<date type="A">2010-07-28</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evidence of Decay of Flux Ratio of Fe to Fe–Ni Line Features with Electron Temperature in Solar Flares</title>
+				<feature></feature>
+				<page>0155-0163</page>
+				<abstract>
+					<p>We report observational evidence of the decay of the flux ratio of Fe to Fe–Ni line features as a function of plasma electron temperature in solar flares in comparison to that theoretically predicted by Phillips (2004). We present the study of spectral analysis of 14 flares observed by the Solar X-ray Spectrometer (SOXS) – Low Energy Detector (SLD) payload. The SLD payload employs the state-of-the-art solid state detectors, viz., Si PIN and Cadmium-Zinc-Telluride (CZT) devices. The sub-keV energy resolution of Si PIN detector allows us to study the Fe-line and Fe–Ni line features appearing at 6.7 and 8 keV, respectively, in greater detail. In order to best-fit the whole spectrum at one time in the desired energy range between 4 and 25 keV we considered Gaussian-line, the multi-thermal power-law and broken power-law functions. We found that the flux ratio of Fe to Fe–Ni line features decays with flare electron temperature by the asymptotic form of polynomial of inverse third order. The relative flux ratio is $\sim 30$ at temperature 12 MK which drops to half, $\sim 15$ at 20 MK, and at further higher temperatures it decreases smoothly reaching to $\sim 8$ at $\sim 50$ MK. The flux ratio, however, at a given flare plasma temperature, and its decrease with temperature is significantly lower than that predicted theoretically. We propose that the difference may be due to the consideration of higher densities of Fe and Fe–Ni lines in the theoretical model of Phillips (2004). We suggest revising the Fe and Fe–Ni line densities in the corona. The decay of flux ratio explains the variation of equivalent width and peak energy of these line features with temperature.</p>
+				</abstract>
+				<keywords>Sun: flares, corona;X-rays.</keywords>
+				<authors>
+					<author>
+						<name first="Rajmal" last="Jain">Rajmal Jain</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Malini" last="Aggarwal">Malini Aggarwal</name>
+						<affiliation>Solar and Space Weather Group, Korea Astronomy and Space Science Institute, Daejeon, Republic of Korea.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Raghunandan" last="Sharma">Raghunandan Sharma</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-09-07</date>
+					<date type="R"></date>
+					<date type="A">2010-08-18</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Solar Cycle Variation of Interplanetary Coronal Mass Ejection Latitudes</title>
+				<feature></feature>
+				<page>0165-0175</page>
+				<abstract>
+					<p>With the use of interplanetary coronal mass ejections (ICMEs) compiled by Richardson and Cane from 1996 to 2007 and the associated coronal mass ejections (CMEs) observed by the Large Angle and Spectrometric Coronagraph (LASCO) onboard the Solar and Heliospheric Observatory (SOHO), we investigate the solar cycle variation of real ICME-associated CME latitudes during solar cycle 23 using Song <i>et al.</i>’s method. The results show the following:</p>
+					<ul>
+						<li>Although most of ICME-associatedCMEsare distributed at lowlatitudes, there is a significant fraction of ICME-associated CMEs occurring at high latitudes.</li>
+						<li>The latitudinal evolution of ICME-associated CMEs do not follow Spörer’s sunspot law at low latitudes (thus, no ‘butterfly diagram’); however, at high latitudes, there may be a poleward motion and an equator-ward motion from the rise to the maximum to the declining phases.</li>
+					</ul>
+				</abstract>
+				<keywords>Sun: activity, coronal mass ejections (CMEs).</keywords>
+				<authors>
+					<author>
+						<name first="P. X." last="Gao">P. X. Gao</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, Chinese Academy of Sciences, Kunming 650 011, China.</affiliation>
+						<affiliation>Graduate University of Chinese Academy of Sciences, Beijing 100 049, China.</affiliation>
+						<email>gaopengxin@ynao.ac.cn</email>
+					</author>
+					<author>
+						<name first="K. J." last="Li">K. J. Li</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, Chinese Academy of Sciences, Kunming 650 011, China.</affiliation>
+						<affiliation>Key Laboratory of Solar Activity, National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100 012, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-10-12</date>
+					<date type="R"></date>
+					<date type="A">2010-08-25</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="04" month="12" year="2010">
+			<entry hassup="0">
+				<title>Carbon Stars</title>
+				<feature></feature>
+				<page>0177-0211</page>
+				<abstract>
+					<p>In this paper, the present state of knowledge of the carbon stars is discussed. Particular attention is given to issues of classification, evolution, variability, populations in our own and other galaxies, and circumstellar material.</p>
+				</abstract>
+				<keywords>Stars: carbon;stars: evolution;stars: circumstellar matter;galaxies: magellanic clouds.</keywords>
+				<authors>
+					<author>
+						<name first="T. Lloyd" last="Evans">T. Lloyd Evans</name>
+						<affiliation>SUPA, School of Physics and Astronomy, University of St. Andrews, North Haugh, St. Andrews, Fife KY16 9SS, UK.</affiliation>
+						<email>thhle@st-andrews.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-07-19</date>
+					<date type="R"></date>
+					<date type="A">2010-10-18</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Could the Optical Transient SCP 06F6 be due to Microlensing?</title>
+				<feature></feature>
+				<page>0213-0219</page>
+				<abstract>
+					<p>In this paper, we consider the mysterious optical transient SCP 06F6 displaying a symmetric light curve with a (half-time) duration of about 100 days. The projected location of the event falls close to the center of the galaxy cluster CL 1432.5 + 332.8 lying at the redshift $z = 1.112$. Guided by suggestive symmetry of the light curve and its similarity in two photometric bands, which is a typical signature of microlensing events, we discuss this possibility in several scenarios. As a consistency check we use the lens mass inferred from the event duration and the size of the source. The second check comes from a plausible assumption that since the event was highly magnified there was a perfect alignment at the maximum magnification.</p>
+					<p>A scenario where the lens and the source are located in our Galaxy is ruled out. There remain extragalactic scenarios in which the source is a broad absorption line quasar at redshift 2.7 (as might be suggested by transient’s spectroscopy) and the lens could be a compact object associated either with the cluster or with quasar’s host galaxy. They give reasonable results.</p>
+					<p>Even if the true nature of the transient eventually turns out different, the idea presented here is interesting from the perspective of cosmological microlensing studies.</p>
+				</abstract>
+				<keywords>Gravitational lensing;cosmology: miscellaneous.</keywords>
+				<authors>
+					<author>
+						<name first="Marek" last="Biesiada">Marek Biesiada</name>
+						<affiliation>Institute of Physics, Department of Astrophysics and Cosmology, University of Silesia, Uniwersytecka 4, 40-007 Katowice, Poland.</affiliation>
+						<email>biesiada@us.edu.pl</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-02-17</date>
+					<date type="R"></date>
+					<date type="A">2010-09-28</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0221-0222</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0223-0224</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="032">%raghu
+		<issue inum="01-02" month="03-06" year="2011">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -9102,9 +9890,155 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-04-18</date>
+					<date type="M">0000-00-00</date>
 					<date type="R"></date>
-					<date type="A">2000-05-11</date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2011">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2011">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="033">
+		<issue inum="01" month="03" year="2012">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="06" year="2012">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="09" year="2012">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="12" year="2012">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
