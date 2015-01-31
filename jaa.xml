@@ -9872,8 +9872,2576 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="032">%raghu
+	<volume vnum="032">
 		<issue inum="01-02" month="03-06" year="2011">
+			<entry hassup="0">
+				<title>Praface</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. E." last="Romero">G. E. Romero</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z." last="Shen">Z. Shen</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. C." last="Gupta">A. C. Gupta</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y." last="Liu">Y. Liu</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Radio Band Observations of Blazar Variability</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0005-0011</page>
+				<abstract>
+					<p>The properties of blazar variability in the radio band are studied using the unique combination of temporal resolution from single dish monitoring and spatial resolution from VLBA imaging. Such measurements now available in all four Stokes parameters, together with theoretical simulations, identify the origin of radio band variability and probe the characteristics of the radio jet where the broadband blazar emission originates. Outbursts in total flux density and linear polarization in the optical-to-radio bands are attributed to shocks propagating within the jet spine, in part, based on limited modelling invoking transverse shocks; new radiative transfer simulations allowing for shocks at arbitrary angle to the flow direction confirm this picture by reproducing the observed centimeter-band variations observed more generally, and are of current interest since these shocks may play a role in the $\gamma$-ray flaring detected by Fermi. Recent UMRAO multifrequency Stokes V studies of bright blazars identify the spectral variability properties of circular polarization for the first time and demonstrate that polarity flips are relatively common. All-Stokes data are consistent with the production of circular polarization by linear-to-circular mode conversion in a region that is at least partially selfabsorbed. Detailed analysis of single-epoch, multifrequency, all-Stokes VLBA observations of 3C 279 support this physical picture and are best explained by emission from an electron-proton plasma.</p>
+				</abstract>
+				<keywords>Blazar variability;radio band;shocks;circular polarization.</keywords>
+				<authors>
+					<author>
+						<name first="Margo F." last="Aller">Margo F. Aller</name>
+						<affiliation>University of Michigan, Ann Arbor, MI 48109-1042, USA.</affiliation>
+						<email>mfa@umich.edu</email>
+					</author>
+					<author>
+						<name first="Hugh D." last="Aller">Hugh D. Aller</name>
+						<affiliation>University of Michigan, Ann Arbor, MI 48109-1042, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Philip A." last="Hughes">Philip A. Hughes</name>
+						<affiliation>University of Michigan, Ann Arbor, MI 48109-1042, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Intra-Day Variability of Sagittarius A* at Multi-Wavelengths</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0013-0018</page>
+				<abstract>
+					<p>This paper reviews the recent progress in the study of the intra-day variability (IDV) of Sagittarius A* (Sgr A*), the best known supermassive black hole candidates with a dark mass concentration of $4\times 10^{6}M_{\odot}$ at the center of our galaxy.</p>
+				</abstract>
+				<keywords>Galaxy: center;galaxies: individual (Sagittarius A*);techniques: interferometric.</keywords>
+				<authors>
+					<author>
+						<name first="Z. Q." last="Shen">Z. Q. Shen</name>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan RD, Shanghai 200030, China.</affiliation>
+						<email>zshen@shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="J." last="Li">J. Li</name>
+						<affiliation>Department of Astronomy, Nanjing University, Nanjing 210093, Jiangsu, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Miyazaki">A. Miyazaki</name>
+						<affiliation>National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L." last="Huang">L. Huang</name>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan RD, Shanghai 200030, China.</affiliation>
+						<affiliation>Academia Sinica, Institute of Astronomy and Astrophysics, Taipei 106, Taiwan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. J." last="Sault">R. J. Sault</name>
+						<affiliation>University of Melbourne, School of Physics, Parkville, Victoria 3052, Australia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Miyoshi">M. Miyoshi</name>
+						<affiliation>National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Tsuboi">M. Tsuboi</name>
+						<affiliation>Institute of Space and Astronautical Science, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Tsutsumi">T. Tsutsumi</name>
+						<affiliation>National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Models for High-Energy Radiation from Blazars</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0019-0024</page>
+				<abstract>
+					<p>We discuss on the modelling of blazar jets as emitters of multiwavelength radiation with the implementation of a lepto-hadronic treatment. Assuming that injection of non-thermal electrons and protons can take place at the base of the jet, the stationary particle distributions can be found using an inhomogeneous one-dimensional transport equation with cooling and convection. The goal of this approach is to replace the widely used one-zone purely leptonic approximation by a more realistic model. We argue that the rapid variability observed in emission from blazars can be obtained as a result of interaction of the jet with obstacles, i.e., molecular clouds and stars. Long term variability is likely related to changes in the injection and physical conditions in the acceleration region.</p>
+				</abstract>
+				<keywords>Blazars;radiation mechanisms: non-thermal;jets.</keywords>
+				<authors>
+					<author>
+						<name first="G. E." last="Romero">G. E. Romero</name>
+						<affiliation>Instituto Argentino de Radioastronomía (CCT La Plata - CONICET), C.C. N$^{\circ}$5 (1894), Villa Elisa, Buenos Aires, Argentina.</affiliation>
+						<email>romero@iar-conicet.gov.ar</email>
+					</author>
+					<author>
+						<name first="M. M." last="Reynoso">M. M. Reynoso</name>
+						<affiliation>Instituto de Investigaciones Físicas (CONICET-UNMdP), Funes 3350, (7600) Mar del Plata, Buenos Aires, Argentina.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Peculiar Physical Properties of HST-1 in M87</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0025-0028</page>
+				<abstract>
+					<p>We report on VLA observations of HST-1 in M87 at 8 GHz from 2003–2007, during which a long major outburst occurs from radio to X-ray wave bands. At the VLA resolution, the flux density of HST-1 rises rapidly from 2003, peaks at the end of 2004, and then falls slowly in subsequent stages, which is similar to that in optical and X-ray wave bands. It appears that HST-1 moves with an apparent speed of $1.23c\pm 0.91c$, and the fractional polarization keeps rising through the whole major outburst. The persistent increase in polarization level may mainly be attributed to the formation of a couple of new ‘subcomponents’ of relatively high degree of polarization within HST-1, and the weakening depolarization due to Faraday rotation and/or opacity through the whole major outburst.</p>
+				</abstract>
+				<keywords>Polarization;galaxies: active;galaxies: individual (M87);galaxies: jets;radio continuum: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Y. J." last="Chen">Y. J. Chen</name>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email>cyj@shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="G.-Y." last="Zhao">G.-Y. Zhao</name>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z.-Q." last="Shen">Z.-Q. Shen</name>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Radio Variability of First 3-Month Fermi Blazars at 5 GHz: Affected by Interstellar Scintillation?</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0029-0032</page>
+				<abstract>
+					<p>Blazars from the first-three-months Fermi-AGN list were observed with the Urumqi 25-m radio telescope at 5 GHz in IDV (Intra-Day Variability) mode and inter-month observation mode. A significant correlation between the flux density at 5 GHz and the $\gamma$-ray intensity for the Fermi-LAT detected blazars is seen. There is a higher IDV detection rate in Fermi detected blazars than those reported for other samples. Stronger variability appears at lower galactic latitudes; IDV appears to be stronger in weaker sources, indicating that the variability is affected by interstellar scintillation.</p>
+				</abstract>
+				<keywords>Active galactic nuclei: blazars;radio continuum: variability;\$gamma$-ray: Fermi-LAT.</keywords>
+				<authors>
+					<author>
+						<name first="X." last="Liu">X. Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, Peoples Republic of China.</affiliation>
+						<email>liux@uao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Z." last="Ding">Z. Ding</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, Peoples Republic of China.</affiliation>
+						<affiliation>Graduate University of Chinese Academy of Sciences, Beijing 100049, Peoples Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Liu">J. Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, Peoples Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N." last="Marchili">N. Marchili</name>
+						<affiliation>Max-Plank-Institut für Radioastronomie, Auf dem Hügel 69, 53121 Bonn, Germany.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T. P." last="Krichbaum">T. P. Krichbaum</name>
+						<affiliation>Max-Plank-Institut für Radioastronomie, Auf dem Hügel 69, 53121 Bonn, Germany.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Cavities in Galaxy Groups and Clusters: Central Gas Entropy Excess as Direct Evidence for AGN Feedback</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0033-0036</page>
+				<abstract>
+					<p>Observations of X-ray jets and cavities in clusters of galaxies observed by Chandra are briefly reviewed. A recent study on the excess of central gas entropy, which can be considered as direct evidence for AGN feedback in galaxy groups and clusters is presented. An expanded account of this study has been presented in RAA (Wang <i>et al.</i> 2010).</p>
+				</abstract>
+				<keywords>AGN;jets;X-rays;intergalactic medium.</keywords>
+				<authors>
+					<author>
+						<name first="Yu" last="Wang">Yu Wang</name>
+						<affiliation>Shanghai Astronomical Observatory, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email>wangyu@shao.ac.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Multi-Wavelength Studies on H$_{2}$O Maser Host Galaxies</title>
+				<feature></feature>
+				<page>0037-0041</page>
+				<abstract>
+					<p>H$_{2}$O maser emissions have been found in external galaxies for more than 30 years. Main sciences associated with extragalactic H$_{2}$O masers can be summarized roughly into three parts: maser emission itself, AGN sciences and cosmology exploration. Our work in this field focusses on two projects: X-ray data analysis of individual maser source using X-ray penetrability to explore maser host obscured AGN; multi-wavelength statistical properties of the whole published H$_{2}$O maser sample. Here their nuclear radio properties were investigated in detail, based on their 6-cm and 20-cm radio observation data. Comparing the radio properties between maser-detected sources and non-detected sources at similar distance scale, we find that: (1) maser host galaxies tend to have higher nuclear radio luminosity; (2) the spectral index of both samples is comparable $(\sim 0.6)$, within the error ranges. In addition, for AGN-maser sources, the isotropic maser luminosity tends to increase with rising radio luminosity. Thus we propose the nuclear radio luminosity as one good indicator for searching AGN-masers in the future.</p>
+				</abstract>
+				<keywords>Maser;multi-wavelength;statistics;AGN.</keywords>
+				<authors>
+					<author>
+						<name first="J. S." last="Zhang">J. S. Zhang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email>jszhang@gzhu.edu.cn</email>
+					</author>
+					<author>
+						<name first="J." last="Wang">J. Wang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Long-term Periodicity Analysis of Polarization Variation for Radio Sources</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0043-0046</page>
+				<abstract>
+					<p>We use the database of University of Michigan Radio Astronomy Observatory (UMRAO) at three radio bands (4.8, 8 and 14.5 GHz) to analyse the long-term polarization variation in search of the possible periodicity. Using the power spectral analysis method (PSA), the Jurkevich method and the discrete correlation function (DCF) method, we find that there are 16 sources lying in periodicity. The results show the astrophysically meaningful periodicity covering 2.1 years to 16.2 years at 4.8 GHz, 2.8 years to 16.3 years at 8 GHz, and 1.8 years to 16.6 years at 14.5 GHz.</p>
+				</abstract>
+				<keywords>Galaxies;blazars;periodicity analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Yuhai" last="Yuan">Yuhai Yuan</name>
+						<affiliation>Center for Experiment, Guangzhou University, Guangzhou, Guangdong 510006, People’s Republic of China.</affiliation>
+						<email>yh_yuan@gzhu.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Radio Observation of the 11-Month Fermi-AGN at Urumqi Observatory</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0047-0048</page>
+				<abstract>
+					<p>We carry out flux observation at 5 GHz for 124 sources from the ‘clean’ sample of Fermi catalog 1LAC (The First LAT AGN Catalog) with Urumqi 25 m telescope. We find that it is obvious that there is a correlation between the $\gamma$-ray and the radio flux density for blazars. For the subclasses, the correlation for FSRQs is strong, but the correlation for BL Lacs is weak.</p>
+				</abstract>
+				<keywords>Fermi-LAT;AGN;$\gama$-ray;radio.</keywords>
+				<authors>
+					<author>
+						<name first="Zhen" last="Ding">Zhen Ding</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<affiliation>Graduate University of the Chinese Academy of Sciences, Beijing 100049, China.</affiliation>
+						<email>philosonae@gmail.com</email>
+					</author>
+					<author>
+						<name first="Xiang" last="Liu">Xiang Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jun" last="Liu">Jun Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Lang" last="Cui">Lang Cui</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. G." last="Song">H. G. Song</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<affiliation>Graduate University of the Chinese Academy of Sciences, Beijing 100049, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Eddington Ratio of H$_{2}$O Maser Host AGN</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0049-0051</page>
+				<abstract>
+					<p>The Eddington ratio $\gamma$ was derived for the entire maser host AGN sample, based on the intrinsic X-ray luminosity, the X-ray bolometric correction $C_{X}$ and the mass of central black hole. Further the [O III] bolometric correction $C_{\text{[O III]}}$ was estimated for our sample. Possible relations were also investigated between the maser luminosity and the bolometric luminosity – the Eddington ratio.</p>
+				</abstract>
+				<keywords>Eddington ratio;bolometric correction;maser.</keywords>
+				<authors>
+					<author>
+						<name first="Q." last="Guo">Q. Guo</name>
+						<affiliation>Hunan University of Humanities, Science and Technology, Loudi 417000, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. S." last="Zhang">J. S. Zhang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email>jszhang@gzhu.edu.cn</email>
+					</author>
+					<author>
+						<name first="J." last="Wang">J. Wang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Visual Method of Time Scale Determination using a PC for Radio Sources</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0053-0054</page>
+				<abstract>
+					<p>Variability is one of the extremely observational properties. In the radio bands, variability is caused by the shock in the jet. In this case, emissions increase rapidly following an exponential curve, and then decrease rapidly also in an exponential curve. The variability time scale is important with regard to the physics carrying on in the jet. However, it is not easy to fit the light curve. In this paper, we proposed a method of light curve fitting on a PC machine, in which the theoretical exponential light curve is adopted to the observations using the least regression method. Using this method, anybody can fit the light curve and get the time scale by moving and clicking themouse.We also used this method to some light curves obtained from the archive and compared our results with those in the literature.</p>
+				</abstract>
+				<keywords>AGNs;quasars;general-jets.</keywords>
+				<authors>
+					<author>
+						<name first="Yong" last="Huang">Yong Huang</name>
+						<affiliation>School of Computer Science &amp; Educational Software, Guangzhou University, Guangzhou, China.</affiliation>
+						<affiliation>Astronomy Science and Technology Research Laboratory of Department of Education of Guangdong Province, Guangzhou, China.</affiliation>
+						<email>yongh@gzhu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Jun-Hui" last="Fan">Jun-Hui Fan</name>
+						<affiliation>Astronomy Science and Technology Research Laboratory of Department of Education of Guangdong Province, Guangzhou, China.</affiliation>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jing" last="Pan">Jing Pan</name>
+						<affiliation>Astronomy Science and Technology Research Laboratory of Department of Education of Guangdong Province, Guangzhou, China.</affiliation>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Radio Observations of the S5 Sample</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0055-0056</page>
+				<abstract>
+					<p>The S5 sample was monitored on a monthly basis since December 2008 at Urumqi Observatory. Most of the sources are variables and a considerable proportion (about 20\%) exhibited a significant inter-month flux variability (modulation index $\gt  4\%$) during the 1-year observation.</p>
+				</abstract>
+				<keywords>Galaxies: active;quasars: general;radio continuum: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Jun" last="Liu">Jun Liu</name>
+						<affiliation>Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People’s Republic of China.</affiliation>
+						<email>liuj@uao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Xiang" last="Liu">Xiang Liu</name>
+						<affiliation>Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>IDV Observations of BL0716+714 at 5 GHz</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0057-0058</page>
+				<abstract>
+					<p>A selected sample of intra-day variable AGN had been observed for 3–4 days per month at the Urumqi Observatory. The sample includes 7 target sources and 7 calibrators. The BL Lac object B0716+714 shows prominent intraday and long term variations.</p>
+				</abstract>
+				<keywords>Galaxies: AGN;radio: IDV;BL Lac object: B0716+714.</keywords>
+				<authors>
+					<author>
+						<name first="H.-G" last="Song">H.-G Song</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<affiliation>Graduate University of the Chinese Academy of Sciences, Beijing 100049, China.</affiliation>
+						<email>songhg@uao.ac.cn</email>
+					</author>
+					<author>
+						<name first="X." last="Liu">X. Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Liu">J. Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N." last="Marchili">N. Marchili</name>
+						<affiliation>Max-Plank-Institut für Radioastronomie, Auf dem Hügel 69, 53121 Bonn, Germany.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T. P." last="Krichbaum">T. P. Krichbaum</name>
+						<affiliation>Max-Plank-Institut für Radioastronomie, Auf dem Hügel 69, 53121 Bonn, Germany.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Relationship between Radio Luminosity and Core-Dominance Parameter for XBLs</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0059-0060</page>
+				<abstract>
+					<p>In this work, we investigate the correlation between the luminosity and the core-dominance parameter for a sample of X-ray selected BL Lacertae objects (XBLs), and found that the extended luminosity is strongly anti-correlated with the core-dominance parameter while the core (or the total) luminosity is not correlated with the core-dominance parameter. If this is the case, then we can expect that the lower extended luminosity XBLs and their core luminosity is relatively higher. This can be explained by a relativistic beaming model since in this case, the viewing angle is smaller and the emissions dominate the extended emissions. Therefore, the anti-correlation is in fact the result of the relativistic beaming model.</p>
+				</abstract>
+				<keywords>Galaxies;BL Lacertae objects;general: galaxies;fundamental parameters: galaxies;jet.</keywords>
+				<authors>
+					<author>
+						<name first="Yong-Xiang" last="Wang">Yong-Xiang Wang</name>
+						<affiliation>Guangzhou Vocational College of Technology &amp; Business, Guangzhou, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y." last="Liu">Y. Liu</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<affiliation>Astronomy Science and Technology Research Laboratory of Department of Education of Guangdong Province, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Fei-Peng" last="Pi">Fei-Peng Pi</name>
+						<affiliation>Astronomy Science and Technology Research Laboratory of Department of Education of Guangdong Province, Guangzhou 510006, China.</affiliation>
+						<affiliation>School of Physics and Electronic Engineering, Guangzhou University, Guangzhou, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jiang-He" last="Yang">Jiang-He Yang</name>
+						<affiliation>Department of Physics and Electronics Science, Hunan University of Arts and Science, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Position Measurements of the Core in 3C 66B</title>
+				<feature>Part 1. Blazar Observations in Radio</feature>
+				<page>0061-0063</page>
+				<abstract>
+					<p>It was argued that 3C 66B, a nearby radio galaxy, harbors a supermassive black hole binary (SMBHB). To investigate this, a 4-epoch VLBA phase referencing imaging observation was performed in 2004–2005. Here we present some preliminary results of this project. We found a large position difference compared to previous results.</p>
+				</abstract>
+				<keywords>Galaxies: individual(3C 66B);techniques: interferometric.</keywords>
+				<authors>
+					<author>
+						<name first="G.-Y." last="Zhao">G.-Y. Zhao</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<affiliation>Graduate School of the Chinese Academy of Sciences, Beijing 100039, China.</affiliation>
+						<email>gyzhao@shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Y.-J." last="Chen">Y.-J. Chen</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z.-Q." last="Shen">Z.-Q. Shen</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H." last="Sudou">H. Sudou</name>
+						<affiliation>Faculty of Engineering, Gifu University, Gifu 501-1193, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Iguchi">S. Iguchi</name>
+						<affiliation>National Astronomical Observatory of Japan, Tokyo 181-8588, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y." last="Murata">Y. Murata</name>
+						<affiliation>The Institute of Space and Astronautical Science, JAXA, Kanagawa 229-8510, Japan.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y." last="Taniguchi">Y. Taniguchi</name>
+						<affiliation>Research Center for Space and Cosmic Evolution, Ehime University, Matsuyama 790-8577, Japan.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variability of Blazars</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0067-0071</page>
+				<abstract>
+					<p>Variability is one of the characteristics of blazars. The rapid variability is superposed on the long term variation. In this work, the variability on different time scales, such as intra-day (IDV), short-term (STV) and long-term (LTV) variations are presented for some sources. We also presented our own observations of some selected objects, for which the historical data were compiled for periodicity analysis using several methods. The parameters of the binary black hole system OJ 287 are determined.</p>
+				</abstract>
+				<keywords>AGNs;Blazars (BL Lacertae objects-BLs &amp; Flat Spectrum Radio Quasars);continuum.</keywords>
+				<authors>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<affiliation>Astronomy Science and Technology Research Laboratory of Department of Education of Guangdong Province, Guangzhou 510006, China.</affiliation>
+						<email>jhfan_cn@yahoo.com.cn</email>
+					</author>
+					<author>
+						<name first="Y." last="Liu">Y. Liu</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<affiliation>Astronomy Science and Technology Research Laboratory of Department of Education of Guangdong Province, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y." last="Li">Y. Li</name>
+						<affiliation>Department of Computer Science, Jinan University, Guangzhou 510632, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Q. F." last="Zhang">Q. F. Zhang</name>
+						<affiliation>Department of Computer Science, Jinan University, Guangzhou 510632, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Tao">J. Tao</name>
+						<affiliation>Shanghai Astronomical Observatory, CAS, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<affiliation>Joint Institute for Galaxies and Cosmology, ShAO and USTC, CAS, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="O." last="Kurtanidze">O. Kurtanidze</name>
+						<affiliation>Abastumani Observatory, Abastumani 0301, Georgia.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Blazar Observations in Infrared and Optical Regions: Magnetic Field Strength Evaluation</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0073-0077</page>
+				<abstract>
+					<p>A brief review of the methods to evaluate the strength of magnetic fields in blazars on some examples using observational data is presented.</p>
+				</abstract>
+				<keywords>Blazars;magnetic fields;polarimetry.</keywords>
+				<authors>
+					<author>
+						<name first="Yu. S." last="Yefimov">Yu. S. Yefimov</name>
+						<affiliation>Crimean Astrophysical Observatory, Crimea, Ukraine, Nauchny 98409, Ukraine.</affiliation>
+						<email>efimov@crao.crimea.ua</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Methods for the Quasi-Periodic Variability Analysis in Blazars</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0079-0086</page>
+				<abstract>
+					<p>In this work, four methods are introduced to analyse the unevenly sampled data. The four methods are power spectral density, autocorrelation function, structure function and Jurkevich method. Some interesting mathematical links are derived amongst the four methods. These links show that the four methods have the same performance. For the Jurkevich method, the effect of the width of bins is apparent. If the width is half the time scale, the method has better performance.</p>
+				</abstract>
+				<keywords>Method: quasi-periodic analysis;unevenly sampled time series analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Y." last="Liu">Y. Liu</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email>pinux@gzhu.edu.cn</email>
+					</author>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. G." last="Wang">H. G. Wang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. G." last="Deng">G. G. Deng</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectral Variability of FSRQs</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0087-0090</page>
+				<abstract>
+					<p>The optical variability of 29 flat spectrum radio quasars in SDSS Stripe 82 region are investigated by using DR7 released multi-epoch data. All FSRQs show variations with overall amplitude ranging from 0.24 mag to 3.46 mag in different sources. About half of FSRQs show a bluer-when-brighter trend, which is commonly observed for blazars. However, only one source shows a redder-when-brighter trend, which implies it is rare in FSRQs. In this source, the thermal emission may be responsible for the spectral behaviour.</p>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: quasars: general;galaxies: photometry.</keywords>
+				<authors>
+					<author>
+						<name first="Minfeng" last="Gu">Minfeng Gu</name>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email>gumf@shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Y. L." last="Ai">Y. L. Ai</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, Chinese Academy of Sciences, Kunming, Yunnan, P.O. Box 110, China.</affiliation>
+						<affiliation>Key Laboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Sciences, Kunming, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Astronomical Plate Archives and Binary Blazars Studies</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0091-0095</page>
+				<abstract>
+					<p>There are about 3 million astronomical photographic plates around the globe, representing an important data source for various aspects of astrophysics. The main advantage is the large time coverage of 100 years or even more. Recent digitization efforts, together with the development of dedicated software, enables for the first time, effective data mining and data analyses by powerful computers with these archives. Examples of blazars proposed and/or investigated on the astronomical plates are presented and discussed.</p>
+				</abstract>
+				<keywords>Astronomical plates;astronomical archives;binary blazars.</keywords>
+				<authors>
+					<author>
+						<name first="Rene" last="Hudec">Rene Hudec</name>
+						<affiliation>Astronomical Institute, Academy of Sciences of the Czech Republic, 25 165 Ondrejov,</affiliation>
+						<affiliation>Czech Republic and Czech Technical University in Prague,</affiliation>
+						<affiliation>Faculty of Electrical Engineering, Technicka 2, Prague 6, Czech Republic.</affiliation>
+						<email>rhudec@asu.cas.cz</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Optical Microvariability and Spectral Changes of the BL Lacertae Object S5 0716+714</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0097-0103</page>
+				<abstract>
+					<p>The BL Lac object S5 0716+714 was monitored in the optical band during October 2008, December 2008 and February 2009. We achieved a best temporal resolution of about 5 min in the $BVRI$ bands. The source was active during the whole monitoring campaign. It showed microvariability in 13 days out of 14 days of observation. Four fast flares were observed with amplitudes ranging from 0.3–0.75 mag. The overall amplitude changes during the whole campaign are $\Delta B \sim 0.^{m} 89$, $\Delta V \sim 0.^{m} 80$, $\Delta R \sim 0.^{m} 73$, and $\Delta I \sim 0.^{m} 51$. On internight time scales, strong bluer-when-brighter chromatism was found while different spectral behaviours were found on intranight time scales.</p>
+				</abstract>
+				<keywords>BL lacertae objects: individual (S5 0716+714);galaxies: active;galaxies: photometry.</keywords>
+				<authors>
+					<author>
+						<name first="H." last="Poon">H. Poon</name>
+						<affiliation>Astronomy Department, Beijing Normal University, Beijing 100875, China.</affiliation>
+						<email>china_108@yahoo.com</email>
+					</author>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. N." last="Fu">J. N. Fu</name>
+						<affiliation>Astronomy Department, Beijing Normal University, Beijing 100875, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Optical Photometric and Radio Monitoring of Gamma-ray Loud Blazars</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0105-0108</page>
+				<abstract>
+					<p>We present the results of multi-years optical and radio monitoring of radio-loud quasars 0716+714 and 1633+382, aimed at searching the flux variations and possible correlation at different wave bands. Our radio observations were performed with a 22-m radio telescope of the Crimean Astrophysical Observatory, 14-m radio telescope of the Metsahovi Radio Observatory and 26-m telescope of the Michigan Radio Astronomy Observatory at 4.8, 8.0, 14.5, 22.2 and 36.8 GHz. The optical observations were performed with a Zeiss-1000 reflector of the Special Astrophysical Observatory in the B, V, R filters.</p>
+					<p>The harmonic analysis performed for the light curves of 0716+714 from 2002–2010 in radio and optical wave bands revealed the presence of an apparent periodical component in the flux variations. The period of the radio light curve is nearly 3.6 years, and coincides within the errors with the period of the optical light curve (nearly 3.4 years). The duration of the flares is approximately the same in radio and optical ranges, and it is about 100–150 days.</p>
+				</abstract>
+				<keywords>Blazar;radio waves;monitoring.</keywords>
+				<authors>
+					<author>
+						<name first="V. S." last="Bychkova">V. S. Bychkova</name>
+						<affiliation>Astro Space Center of Lebedev Physical Institute of Russian Academy of Sciences, Moscow, Russia.</affiliation>
+						<email>bychkova@asc.rssi.ru</email>
+					</author>
+					<author>
+						<name first="N. S." last="Kardashev">N. S. Kardashev</name>
+						<affiliation>Astro Space Center of Lebedev Physical Institute of Russian Academy of Sciences, Moscow, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. G." last="Larionov">M. G. Larionov</name>
+						<affiliation>Astro Space Center of Lebedev Physical Institute of Russian Academy of Sciences, Moscow, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. E." last="Volvach">A. E. Volvach</name>
+						<affiliation>Crimean Astrophysical Observatory, Crimea, Ukraine.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V. V." last="Vlasjuk">V. V. Vlasjuk</name>
+						<affiliation>Special Astrophysical Observatory of Russian Academy of Sciences, Nizhny Arkhyz, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="O. I." last="Spiridonova">O. I. Spiridonova</name>
+						<affiliation>Special Astrophysical Observatory of Russian Academy of Sciences, Nizhny Arkhyz, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Lächteenmäki">A. Lächteenmäki</name>
+						<affiliation>Radio Observatory Metsahovi, Helsinki University of Technology, Kylmälä, Finland.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Tornikoski">M. Tornikoski</name>
+						<affiliation>Radio Observatory Metsahovi, Helsinki University of Technology, Kylmälä, Finland.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Hovatta">T. Hovatta</name>
+						<affiliation>Radio Observatory Metsahovi, Helsinki University of Technology, Kylmälä, Finland.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="E." last="Nieppola">E. Nieppola</name>
+						<affiliation>Radio Observatory Metsahovi, Helsinki University of Technology, Kylmälä, Finland.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="I." last="Torniainen">I. Torniainen</name>
+						<affiliation>Radio Observatory Metsahovi, Helsinki University of Technology, Kylmälä, Finland.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. D." last="Aller">H. D. Aller</name>
+						<affiliation>Radio Observatory of Michigan University, Ann Arbor, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. F." last="Aller">M. F. Aller</name>
+						<affiliation>Radio Observatory of Michigan University, Ann Arbor, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Optical Spectra Evolution of BL Lac Objects</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0109-0112</page>
+				<abstract>
+					<p>Many quasi-simultaneous optical observations of nine BL Lac objects are obtained from literature. We study the relationship between the optical spectral index and the luminosity of BL Lac objects, and are tempted to exploit spectral evolution in the optical frequency ranges. Our results show that:</p> 
+					<ol type="roman">
+						<li>The optical spectra index of the low-frequency peaked BL Lac objects (LBLs) is steeper than the high-frequency peaked BL Lac objects (HBLs);</li> 
+						<li>The spectra tend to be softer when the source becomes brighter for LBLs and the intermediate BL Lac objects (IBLs) (i.e., bluer-when-brighter), and the spectra of HBLs does not vary when the brightness of HBLs changes. Possible explanations are briefly discussed for this phenomenon.</li>
+					</ol>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: evolution;BL Lac objects: general.</keywords>
+				<authors>
+					<author>
+						<name first="X. W." last="Bi">X. W. Bi</name>
+						<affiliation>Department of Physics, Honghe University, Mengzi 661100, Yunnan, China.</affiliation>
+						<email>bxw7910@sohu.com</email>
+					</author>
+					<author>
+						<name first="B. Z." last="Wang">B. Z. Wang</name>
+						<affiliation>Department of Physics and Electronic Engineering, Jiaozuo Teachers College, Jiaozuo 454000, Henan, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z. Q." last="Ni">Z. Q. Ni</name>
+						<affiliation>Nationality Middle School of Shilin, Shilin 651000, Yunnan, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Q." last="Cai">Q. Cai</name>
+						<affiliation>Department of Physics, Honghe University, Mengzi 661100, Yunnan, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. J." last="Tian">J. J. Tian</name>
+						<affiliation>Department of Physics, Honghe University, Mengzi 661100, Yunnan, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Multi-Band Spectral Properties of Fermi Blazars</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0113-0115</page>
+				<abstract>
+					<p>The multi-band data covering optical, X-ray and $\gamma$-ray energy regions of 130 Fermi blazars in the First LAT AGN Catalog (1LAC) were collected to investigate the broadband spectral properties. The composite spectral indices show that HBLs have convex optical-to-X-ray continua and concave X-ray-to-$\gamma$-ray continua, $\alpha_{\gamma X\gamma}\gt 0$ and $\alpha_{XOX}\lt 0$, while FSRQs and LBLs have $\alpha_{\gamma X\gamma}\lt 0$. The $\alpha_{XOX}$ distribution of FSRQs and LBLs extends from negative to positive values. We suggest $\alpha_{\gamma X\gamma}\gt 0$ and $\alpha_{XOX}\lt 0$ could be considered as a criterion for HBLs. Moreover, HBLs have narrow distribution of peak interval of log $v^{\text{ic}}_{\text{p}}=\log v^{\text{syn}}_{\text{p}}$, and FSRQs have significant anti-correlation between log $v^{\text{ic}}_{\text{p}}-\log v^{\text{syn}}_{\text{p}}$ and $\log v^{\text{syn}}_{\text{p}}$. This indicates that SSC model is responsible for high energy emission of HBLs, while EC for FSRQs. Our results also indicate that FSRQs with larger break energy of electrons have smaller bulk Lorentz factor of dissipation region.</p>
+				</abstract>
+				<keywords>Galaxies: active;BL Lacertae objects;general;gamma rays;observations.</keywords>
+				<authors>
+					<author>
+						<name first="Benzhong" last="Dai">Benzhong Dai</name>
+						<affiliation>Department of Physics, Yunnan University, Kunming 650091, China.</affiliation>
+						<email>bzhdai@ynu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Dahai" last="Yan">Dahai Yan</name>
+						<affiliation>Department of Physics, Yunnan University, Kunming 650091, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Re-Analysis of QPO in 3C 273 Light Curve</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0117-0120</page>
+				<abstract>
+					<p>We have developed analysis tools to search for quasi periodic oscillations in light curves from active galactic nuclei, using the following time series techniques: Wavelets, periodogram, Lomb–Scargle periodogram, structure function and multi-harmonic analysis of variance.</p>
+					<p>The analysis tools incorporate different noise models with significant levels for all the techniques that is an improvement over the previous work. By looking for consistently high significance, we make the detection of periodicities more robust. We apply this tool to a previously reported QPO (Espaillat <i>et al.</i> 2008) in the X-ray light curve of 3C 273 with a periodicity of $\sim 3300$ s and find that the significance is only 74\%\ in the wavelet and fails to show up above 95\%\ significance in the periodogram and multi-harmonic analysis of variance.</p>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: quasars: individual: 3C 273;X-rays: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Mohan">P. Mohan</name>
+						<affiliation>Indian Institute of Astrophysics, Sarjapur Road, Koramangala, Bangalore 560 034, India.</affiliation>
+						<email>prashanth@iiap.res.in</email>
+					</author>
+					<author>
+						<name first="A." last="Mangalam">A. Mangalam</name>
+						<affiliation>Indian Institute of Astrophysics, Sarjapur Road, Koramangala, Bangalore 560 034, India.</affiliation>
+						<email>mangalam@iiap.res.in</email>
+					</author>
+					<author>
+						<name first="Hum" last="Chand">Hum Chand</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital 263 129, India.</affiliation>
+						<email>hum@aries.res.in</email>
+					</author>
+					<author>
+						<name first="Alok C." last="Gupta">Alok C. Gupta</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital 263 129, India.</affiliation>
+						<email>alok@aries.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Novel Algorithms for Astronomical Plate Analyses</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0121-0123</page>
+				<abstract>
+					<p>Powerful computers and dedicated software allow effective data mining and scientific analyses in astronomical plate archives. We give and discuss examples of newly developed algorithms for astronomical plate analyses, e.g., searches for optical transients, as well as for major spectral and brightness changes.</p>
+				</abstract>
+				<keywords>Astronomical plates;plate archives archives;astronomical algorithms.</keywords>
+				<authors>
+					<author>
+						<name first="Rene" last="Hudec">Rene Hudec</name>
+						<affiliation>Astronomical Institute, Academy of Sciences of the Czech Republic, Ondrejov 25165, Czech Republic.</affiliation>
+						<affiliation>Czech Technical University in Prague, Faculty of Electrical Engineering, Technicka 2, Prague 6, Czech Republic.</affiliation>
+						<email>rhudec@asu.cas.cz</email>
+					</author>
+					<author>
+						<name first="Lukas" last="Hudec">Lukas Hudec</name>
+						<affiliation>Czech Technical University in Prague, Faculty of Electrical Engineering, Technicka 2, Prague 6, Czech Republic.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Spectral Index and Beaming Effect for Radio Sources</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0125-0126</page>
+				<abstract>
+					<p>In this paper, we revisited the relationship between the spectral index and the core-dominance parameter using a larger sample of blazars. Conclusively, we explain that the spectral index is associated with the core-dominance parameter using the two-component relativistic beaming model.</p>
+				</abstract>
+				<keywords>Active galactic nuclei (AGNs);BL Lac objects;quasars;relativistic beaming effect.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Pan">J. Pan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email>jhfan_cn@yahoo.com.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Optical Monitoring of 3C 66A in 1994–2008</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0127-0129</page>
+				<abstract>
+					<p>3C 66A is one of the most interesting blazar. Our monitoring was carried out with a 1.56-m telescope of the Shanghai Astronomical Observatory (SHAO) from 13 December 1994 to 9 November 2008. Some peaks and gradual brightening of the source up to three times were observed.</p>
+				</abstract>
+				<keywords>AGN: blazar;BL Lac: individual;3C 66A.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Tao">J. Tao</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email>taojun@shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. C." last="Qian">B. C. Qian</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. J." last="Pan">H. J. Pan</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Long-Term Optical Spectra Variability of BL Lacertae Object S5 0716+714</title>
+				<feature>Part 2. Blazar Observations in Infrared and Optical</feature>
+				<page>0131-0135</page>
+				<abstract>
+					<p>Based on the long-term data from observations, we present an evidence for its spectral index variability behaviour in optical bands for BL Lacertae object S5 0716+714.We find that the spectral index variability period is in agreement with the flux variability period of about 1180 days in optical bands.We also find that the spectral index variability has periods of about 71 and 60 days which cannot be compared with the amplitude of long-term variability.</p>
+				</abstract>
+				<keywords>BL Lac object individual: S5 0716+714;optical spectral index variability period;methods: periodogram analysis method, wavelet analysis method.</keywords>
+				<authors>
+					<author>
+						<name first="Zhang Hao" last="Jing">Zhang Hao Jing</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<affiliation>Yunnan Astronomical Observatory, National Astronomical Observatories, Chinese Academy of Sciences, Kunming 650011, China.</affiliation>
+						<email>kmzhanghj@yahoo.cn</email>
+					</author>
+					<author>
+						<name first="Zhao" last="Gang">Zhao Gang</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhang" last="Xiong">Zhang Xiong</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bai Jing" last="Ming">Bai Jing Ming</name>
+						<affiliation>Yunnan Astronomical Observatory, National Astronomical Observatories, Chinese Academy of Sciences, Kunming 650011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tang" last="Ling">Tang Ling</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xu Yun" last="Bing">Xu Yun Bing</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Gamma-Ray and Multiwavelength Emission from Blazars</title>
+				<feature>Part 3. Blazar Observations in High Energy Bands</feature>
+				<page>0139-0145</page>
+				<abstract>
+					<p>Blazars are now well understood as approaching relativistic jets aligned with the line of sight. The long-time uncertainty about the demographics of blazars is starting to become clearer: since the Fermi blazar sample includes a larger fraction of high-frequency peaked blazars (like the typical X-ray-selected blazars in, say, the Einstein Slew Survey sample) than did the higher-flux-limit EGRET blazar sample, these low-luminosity sources must be more common than their higher luminosity, low-frequency-peaked cousins. Blazar spectral energy distributions have a characteristic two-component form, with synchrotron radiation at radio through optical (UV, X-ray) frequencies and gamma-rays from X-ray through GeV (TeV) energies.Multiwavelength monitoring has suggested that gamma-ray flares can result from acceleration of electrons at shocks in the jet, and there appears to be an association between the creation of outflowing superluminal radio components in VLBI maps and the gamma-ray flares. In many cases, the gamma-ray emission is produced by inverse Compton upscattering of ambient optical-UV photons, although the contribution from energetic hadrons cannot be ruled out. The next few years of coordinated gamma-ray, X-ray, UV, optical, infrared and radio monitoring of blazars will be important for characterizing jet content, structure, and total power.</p>
+				</abstract>
+				<keywords>Blazars;demographics;spectral energy distributions;gamma-ray emission;multiwavelength monitoring.</keywords>
+				<authors>
+					<author>
+						<name first="Meg" last="Urry">Meg Urry</name>
+						<affiliation>Department of Physics and Yale Center for Astronomy &amp; Astrophysics, Yale University, New Haven, Connecticut, USA.</affiliation>
+						<email>meg.urry@yale.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quasi-Periodic Oscillations in the X-ray Light Curves of Blazars</title>
+				<feature>Part 3. Blazar Observations in High Energy Bands</feature>
+				<page>0147-0154</page>
+				<abstract>
+					<p>Any quasi-periodic variations discovered in blazar light curves would contain important information on the location and nature of the processes within the emission regions. In non-blazar active galactic nuclei, particularly Seyfert galaxies, any such fluctuations are very likely to be associated with the accretion disks, but in blazars they would almost certainly have to emanate from jets. This brief review summarizes recent claims for the presence of quasi-periodic variability in the X-ray emission of several AGN, focusing on blazars. Although no individual claim of the presence of a QPO in AGN X-ray light curves is absolutely convincing, there are some good cases for the presence of QPOs, including the Narrow Line Seyfert 1 galaxy, RE J1034+396, the quasar, 3C 273 and the BL Lac, PKS 2155−304.</p>
+				</abstract>
+				<keywords>Galaxies: active;BL Lacertae objects: general;galaxies: jets;quasars: general.</keywords>
+				<authors>
+					<author>
+						<name first="Paul J." last="Wiita">Paul J. Wiita</name>
+						<affiliation>Department of Physics, The College of New Jersey, P.O. Box 7718, Ewing, NJ 08628-0718, USA.</affiliation>
+						<email>wiitap@tcnj.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>UV and X-ray Variability of Blazars</title>
+				<feature>Part 3. Blazar Observations in High Energy Bands</feature>
+				<page>0155-0161</page>
+				<abstract>
+					<p>It is well established that the blazars show flux variations in the complete electromagnetic (EM) spectrum on all possible time scales ranging from a few tens of minutes to several years. Here we report the review of various UV and X-ray flux variability properties of blazars. Our analysis show that UV variability amplitude is smaller than X-rays, mostly soft X-rays hardness ratio show correlations with blazar luminosity and different modes of variability might be operating for different time scales and epochs. Quasi periodic oscillations are seen on a few occasions in blazars, higher fraction of high energy peaked blazars show intra day and short term variabilities in X-rays but variability duty cycle is much less in optical bands on intra day time scale compared to low energy peaked blazars. But these results are yet to be established.</p>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: quasars;blazars;blazar: individual: PKS 2155–304.</keywords>
+				<authors>
+					<author>
+						<name first="Alok C." last="Gupta">Alok C. Gupta</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital 263 129, India.</affiliation>
+						<email>acgupta30@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectral Evolution of Synchrotron and Inverse Compton Emission in BL Lac Objects</title>
+				<feature>Part 3. Blazar Observations in High Energy Bands</feature>
+				<page>0163-0167</page>
+				<abstract>
+					<p>With XMM–Newton observations, the X-ray spectral variations and the derived physical implications for two very high energy gamma-ray BL Lac objects PKS 2155–304 and S5 0716+714 are presented.</p>
+				</abstract>
+				<keywords>BL Lacertae objects;galaxies: active;X-rays: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="You-Hong" last="Zhang">You-Hong Zhang</name>
+						<affiliation>Department of Physics, Tsinghua University, Beijing 100084, China.</affiliation>
+						<email>youhong.zhang@mail.tsinghua.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fermi-LAT View of Bright Flaring Gamma-Ray Blazars</title>
+				<feature>Part 3. Blazar Observations in High Energy Bands</feature>
+				<page>0169-0172</page>
+				<abstract>
+					<p>The Fermi LAT provides a continuous and uniform monitoring of the Universe in the gamma-ray band. During the first year many gamma-ray blazar flares, some unidentified transients and emission by the Sun while in a quiet state were promptly detected. This is mainly due to the design of the mission, featuring a detector, the LAT with a wide field of view, and to the operation of the spacecraft itself, that can cover every region of the sky every 3 hours. Nevertheless, the scientific exploitation of this monitoring is more fruitful when early information about transients reaches a broader community. In this respect, the indefatigable activity of flare advocates, who worked on weekly shifts to validate the results and quickly broadcast information about flares and new detections, was the key to most scientific results.</p>
+				</abstract>
+				<keywords>Gamma-ray sources;active galaxies;transients.</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Bastieri">D. Bastieri</name>
+						<affiliation>Dipartimento di Fisica ‘G. Galilei’, Università di Padova 35131 Padova, Italy.</affiliation>
+						<affiliation>N.F.N. Sezione di Padova 35131 Padova, Italy.</affiliation>
+						<email>denis.bastieri@unipd.it</email>
+					</author>
+					<author>
+						<name first="S." last="Ciprini">S. Ciprini</name>
+						<affiliation>Dipartimento di Fisica, Università di Perugia 06100 Perugia, Italy.</affiliation>
+						<affiliation>Agenzia Spaziale Italiana &amp; Istituto Nazionale di Astrofisica, Rome, Italy.</affiliation>
+						<affiliation>Tuorla Obs., Department of Physics and Astronomy, University of Turku, 21500 Piikkiö, Finland.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Gasparrini">D. Gasparrini</name>
+						<affiliation>ASI Science Data Center, 00044 Frascati, Rome, Italy.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ten Years of Monitoring 3C 273 with XMM–Newton</title>
+				<feature>Part 3. Blazar Observations in High Energy Bands</feature>
+				<page>0173-0178</page>
+				<abstract>
+					<p>We present ten years optical/UV/X-ray observations of 3C 273 performed using XMM–Newton between 2000 and 2009. The short-time scale variability behaviour of the soft and hard X-ray light curves may suggest different origins of the soft/hard X-ray emissions. We fit well the 0.2–10 keV X-ray spectrum with a hard power-law component plus a soft Comptonization component. The lack of $\Gamma$–$F$ correlation of the hard power-law component and the weakness of iron $K_{\alpha}$ lines may support dominance of the jet component. The soft X-ray excess correlates much better with ultraviolet than with the hard power-law component, strongly suggesting that soft excess emission originates from inverse Comptonization of UV photons.</p>
+				</abstract>
+				<keywords>Quasars: individual (3C 273);X-rays: galaxies;ultraviolet: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Liu" last="Liu">Liu Liu</name>
+						<affiliation>Department of Physics and Tsinghua Center for Astrophysics, Tsinghua University, Beijing, 100084, China.</affiliation>
+						<email>liuliu08@mails.tsinghua.edu.cn</email>
+					</author>
+					<author>
+						<name first="Youhong" last="Zhang">Youhong Zhang</name>
+						<affiliation>Department of Physics and Tsinghua Center for Astrophysics, Tsinghua University, Beijing, 100084, China.</affiliation>
+						<email>youhong.zhang@mails.thu.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chandra and XMM–Newton Observations of H$_{2}$O Maser Galaxy Mrk 266</title>
+				<feature>Part 3. Blazar Observations in High Energy Bands</feature>
+				<page>0179-0182</page>
+				<abstract>
+					<p>For H$_{2}$O megamaser galaxy Mrk 266, its Chandra and XMM–Newton data are analyzed here. It shows existence of two obscured nuclei (separation is $\sim 5''$). Our preferred model, the high energy reflected model can fit the hard component of both nuclei spectra well.</p>
+				</abstract>
+				<keywords>Megamaser;Mrk 266;Chandra;XMM;Newton.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Wang">J. Wang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. S." last="Zhang">J. S. Zhang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Time Lags in TeV Blazars</title>
+				<feature>Part 4. Emission Models and Theory</feature>
+				<page>0185-0188</page>
+				<abstract>
+					<p>We use Monte Carlo/Fokker–Planck simulations to study the X-ray time lags. Our results show that soft lags will be observed as long as the decay of the flare is dominated by radiative cooling, even when acceleration and cooling time scales are similar. Hard lags can be produced in the presence of a competitive achromatic particle energy loss mechanism if the acceleration process operates on a time scale such that particles are slowly moved towards higher energy while the flare evolves. In this type of scenario, the $\gamma$-ray/X-ray quadratic relation is also reproduced.</p>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: jets;X-rays: theory.</keywords>
+				<authors>
+					<author>
+						<name first="X." last="Chen">X. Chen</name>
+						<affiliation>Department of Physics and Astronomy, Rice University, Houston, Texas 77005, USA.</affiliation>
+						<email>xuhui@rice.edu</email>
+					</author>
+					<author>
+						<name first="G." last="Fossati">G. Fossati</name>
+						<affiliation>Department of Physics and Astronomy, Rice University, Houston, Texas 77005, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="E." last="Liang">E. Liang</name>
+						<affiliation>Department of Physics and Astronomy, Rice University, Houston, Texas 77005, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Böttcher">M. Böttcher</name>
+						<affiliation>Department of Physics and Astronomy, Astrophysical Institute, Ohio University, Athens, Ohio 45701, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Modelling the IDV Emissions of the BL Lac Objects with a Langevin Type Stochastic Differential Equation</title>
+				<feature>Part 4. Emission Models and Theory</feature>
+				<page>0189-0192</page>
+				<abstract>
+					<p>In this paper, we introduce a simplified model for explaining the observations of optical intra-day variability (IDV) of the BL Lac Objects. We assume that the source of the IDV are the stochastic oscillations of an accretion disk around a supermassive black hole. The stochastic fluctuations on the vertical direction of the accretion disk are described by using a Langevin type equation with a damping term and a random, white noise type force. Furthermore, preliminary numerical simulation results are presented, which are based on the numerical analysis of the Langevin stochastic differential equation.</p>
+				</abstract>
+				<keywords>Langevin type stochastic differential equation;BL Lac objects.</keywords>
+				<authors>
+					<author>
+						<name first="C. S." last="Leung">C. S. Leung</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing, China.</affiliation>
+						<email>astrosinghk@yahoo.com.hk</email>
+					</author>
+					<author>
+						<name first="J. Y." last="Wei">J. Y. Wei</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing, China.</affiliation>
+						<email>wjy@bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="T." last="Harko">T. Harko</name>
+						<affiliation>Department of Physics and Center for Theoretical and Computational Physics, The University of Hong Kong, Pok Fu Lam Road, Hong Kong, PR China.</affiliation>
+						<email>harko@hkucc.hku.hk</email>
+					</author>
+					<author>
+						<name first="Z." last="Kovacs">Z. Kovacs</name>
+						<affiliation>Department of Physics and Center for Theoretical and Computational Physics, The University of Hong Kong, Pok Fu Lam Road, Hong Kong, PR China.</affiliation>
+						<email>zkovacs@hku.hk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Radiation Mechanisms and the Beaming Effect of Hot Spots and Knots in AGN Jets</title>
+				<feature>Part 4. Emission Models and Theory</feature>
+				<page>0193-0196</page>
+				<abstract>
+					<p>The observed broadband spectral energy distributions (SEDs) of 22 hot spots and 45 knots are modelled with single-zone lepton models. Considering the sources at rest, the X-rays of some hot spots can be explained by the SSC model with magnetic field being consistent with the equipartition magnetic field in magnitude of order 1, but at the same time an unreasonably low magnetic field is required to model the X-rays for all knots. When considering the relativistic bulk motion of the sources, the IC/CMB model well explains the X-ray emission for most of them under the equipartition condition. We show that the ratio of observational luminosity $R_{L}$ is tentatively correlated with the co-moving equipartition magnetic field $B_{\text{eq}}$ and the beaming factor $\delta$. These facts suggest that the observational differences of the X-rays from the knots and hot spots may be mainly due to the differences in the Doppler boosting effect and the co-moving magnetic field of the two kinds of source.</p>
+				</abstract>
+				<keywords>Galaxies: jets;magnetic fields;radiation mechanisms: non-thermal;X-rays: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Jin" last="Zhang">Jin Zhang</name>
+						<affiliation>College of Physics and Electronic Engineering, Guangxi Teachers Education University, Nanning 530001, China.</affiliation>
+						<email>zhang.jin@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Jin-Ming" last="Bai">Jin-Ming Bai</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, Chinese Academy of Sciences, Kunming, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Liang" last="Chen">Liang Chen</name>
+						<affiliation>National Astronomical Observatories/Yunnan Observatory, Chinese Academy of Sciences, Kunming, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Enwei" last="Liang">Enwei Liang</name>
+						<affiliation>Department of Physics and GXU-NAOC Center for Astrophysics and Space Sciences, Guangxi University, Nanning 530004, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Tilt between Acretion Disk and Stellar Disk</title>
+				<feature>Part 4. Emission Models and Theory</feature>
+				<page>0197-0201</page>
+				<abstract>
+					<p>The orientations of the accretion disk of active galactic nuclei (AGN) and the stellar disk of its host galaxy are both determined by the angular momentum of their forming gas, but on very different physical environments and spatial scales. Here we show the evidence that the orientation of the stellar disk is correlated with the accretion disk by comparing the inclinations of the stellar disks of a large sample of Type 2 AGNs selected from Sloan Digital Sky Survey (SDSS, York <i>et al.</i> 2000) to a control galaxy sample. Given that the Type 2 AGN fraction is in the range of 70–90 percent for low luminosity AGNs as <i>a priori</i>, we find that the mean tilt between the accretion disk and stellar disk is $\sim 30$ degrees (Shen <i>et al.</i> 2010).</p>
+				</abstract>
+				<keywords>Galaxies: statistics;galaxies: Seyfert;galaxies: nuclei;galaxies: spiral.</keywords>
+				<authors>
+					<author>
+						<name first="Shiyin" last="Shen"></name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<affiliation>Key Lab for Astrophysics, Shanghai 200234, China.</affiliation>
+						<email>ssy@shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Zhengyi" last="Shao">Zhengyi Shao</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<affiliation>Key Lab for Astrophysics, Shanghai 200234, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Minfeng" last="Gu">Minfeng Gu</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Correlation between $\gamma$-Ray and Radio Emissions for the Fermi Blazars</title>
+				<feature>Part 4. Emission Models and Theory</feature>
+				<page>0203-0205</page>
+				<abstract>
+					<p>Based upon the Fermi blazars sample, the radio and $\gamma$-ray emissions are compiled for a sample of 74 $\gamma$-ray loud blazars to calculate the radio to $\gamma$-ray effective spectrum index $\alpha_{\text{R}_{\gamma}}$ . The correlations between $\alpha_{\text{R}_{\gamma}}$ and $\gamma$-ray luminosity, and between radio and $\gamma$-ray luminosity are also investigated.</p>
+				</abstract>
+				<keywords>BL Lacs;quasars;$\gamma$-ray emissions.</keywords>
+				<authors>
+					<author>
+						<name first="J. H." last="Yang">J. H. Yang</name>
+						<affiliation>Department of Physics and Electronics Science, Hunan University of Arts and Science, Changde 415000, China.</affiliation>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email>yjianghe@163.com</email>
+					</author>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Estimating Black Hole Masses of Blazars</title>
+				<feature>Part 5. Black Holes in Blazars</feature>
+				<page>0209-0215</page>
+				<abstract>
+					<p>Estimating black hole masses of blazars is still a big challenge. Because of the contamination of jets, using the previously suggested size–continuum luminosity relation can overestimate the broad line region (BLR) size and black hole mass for radio-loud AGNs, including blazars. We propose a new relation between the BLR size and $H_{\beta}$ emission line luminosity and present evidences for using it to get more accurate black hole masses of radio-loud AGNs. For extremely radio-loud AGNs such as blazars with weak/absent emission lines, we suggest the use of fundamental plane relation of their elliptical host galaxies to estimate the central velocity dispersions and black hole masses, if their velocity dispersions are not known but the host galaxies can be mapped. The black hole masses of some well-known blazars, such as OJ 287, AO 0235+164 and 3C 66B are obtained using these two methods and the $M$–$\sigma$ relation. The implications of their black hole masses on other related studies are also discussed.</p>
+				</abstract>
+				<keywords>Black holes;galaxies: active;blazars;jets.</keywords>
+				<authors>
+					<author>
+						<name first="Xue-Bing" last="Wu">Xue-Bing Wu</name>
+						<affiliation>Department of Astronomy, Peking University, Beijing 100871, China.</affiliation>
+						<email>wuxb@pku.edu.cn</email>
+					</author>
+					<author>
+						<name first="F. K." last="Liu">F. K. Liu</name>
+						<affiliation>Department of Astronomy, Peking University, Beijing 100871, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Z." last="Kong">M. Z. Kong</name>
+						<affiliation>Department of Physics, Hebei Normal University, Shijiazhang 050016, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Wang">R. Wang</name>
+						<affiliation>Steward Observatory, University of Arizona, Tucson, AZ 85721, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. L." last="Han">J. L. Han</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variability of Spectral Energy Distribution of Blazar S5 0716+714</title>
+				<feature>Part 5. Black Holes in Blazars</feature>
+				<page>0217-0222</page>
+				<abstract>
+					<p>The emission from blazars is known to be variable at all wavelengths. The flux variability is often accompanied by spectral changes. Spectral energy distribution (SED) changes must be associated with changes in the spectra of emitting electrons and/or the physical parameters of the jet. Meaningful modeling of blazar broadband spectra is required to understand the extreme conditions within the emission region. Not only is the broadband SED crucial, but also information about its variability is needed to understand how the highest states of emission occur and how they differ from the low states. This may help in discriminating between models. Here we present the results of our SED modeling of the blazar S5 0716+714 during various phases of its activity. The SEDs are classified into different bins depending on the optical brightness state of the source.</p>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: quasars: individual: S5 0716+714.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Rani">B. Rani</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital 263 129, India.</affiliation>
+						<email>bindu@aries.res.in</email>
+					</author>
+					<author>
+						<name first="Alok C." last="Gupta">Alok C. Gupta</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital 263 129, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Paul J." last="Wiita">Paul J. Wiita</name>
+						<affiliation>Department of Physics, The College of New Jersey, P.O. Box 7718, Ewing, NJ 08628, USA.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Unification of Radio Galaxies and their Accretion Jet Properties</title>
+				<feature>Part 5. Black Holes in Blazars</feature>
+				<page>0223-0226</page>
+				<abstract>
+					<p>We investigate the relation between black hole mass, $M_{\text{bh}}$, and jet power, $Q_{\text{jet}}$, for a sample of BL Lacs and radio quasars. We find that BL Lacs are separated from radio quasars by the FR I/II dividing line in $M_{\text{bh}}-Q_{\text{jet}}$ plane, which strongly supports the unification scheme of FR I/BL Lac and FR II/radio quasar. The Eddington ratio distribution of BL Lacs and radio quasars exhibits a bimodal nature with a rough division at $L_{\text{bol}}/L_{\text{Edd}} \sim 0.01$, which imply that they may have different accretion modes. We calculate the jet power extracted from advection-dominated accretion flow (ADAF), and find that it requires dimensionless angular momentum of black hole $j\simeq 0.9 - 0.99$ to reproduce the dividing line between FR I/II or BL Lac/radio quasar if dimensionless accretion rate $\dot{m} = 0.01$ is adopted, which is required by the above bimodal distribution of Eddington ratios. Our results suggest that black holes in radio galaxies are rapidly spinning.</p>
+				</abstract>
+				<keywords>Black hole physics;accretion;galaxies: jets.</keywords>
+				<authors>
+					<author>
+						<name first="Qingwen" last="Wu">Qingwen Wu</name>
+						<affiliation>Physics Department, Huazhong University of Science and Technology, Wuhan, China.</affiliation>
+						<email>qwwu@mail.hust.edu.cn</email>
+					</author>
+					<author>
+						<name first="Ya-Di" last="Xu">Ya-Di Xu</name>
+						<affiliation>Physics Department, Shanghai Jiao Tong University, Shanghai, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xinwu" last="Cao">Xinwu Cao</name>
+						<affiliation>Shanghai Astronomical Observatory, CAS, Shanghai, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Period of Light Variability in BL Lac ON 231</title>
+				<feature>Part 5. Black Holes in Blazars</feature>
+				<page>0227-0230</page>
+				<abstract>
+					<p>In this paper, the authors have compiled the data of about 100 years in B-band of the BL Lac ON 231 and used this database to analyze periodicity signals in the optical light curve. Two different methods were applied: the wavelet analysis and the Discrete Correlation Function (DCF) method. We revealed the existence of periods of 13.5 years in the source variability.</p>
+				</abstract>
+				<keywords>BL Lac object individual: ON 231;period of light variation;methods: wavelet analysis method, DCF analysis method.</keywords>
+				<authors>
+					<author>
+						<name first="Xu Yun" last="Bing">Xu Yun Bing</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhang Hao" last="Jing">Zhang Hao Jing</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<affiliation>Yunnan Astronomical Observatory, National Astronomical Observatories, Chinese Academy of Sciences, Kunming 650011, China.</affiliation>
+						<email>kmzhanghj@yahoo.cn</email>
+					</author>
+					<author>
+						<name first="Zhang" last="Xiong">Zhang Xiong</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mao Wei" last="Ming">Mao Wei Ming</name>
+						<affiliation>College of Physics and Electronics, Yunnan Normal University, Kunming 650092, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dong Fu" last="Tong">Dong Fu Tong</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Multi-Waveband Emission Maps of Blazars</title>
+				<feature>Part 6. Combined Multi-Waveband Observations</feature>
+				<page>0233-0237</page>
+				<abstract>
+					<p>We are leading a comprehensive multi-waveband monitoring program of 34 $\gamma$-ray bright blazars designed to locate the emission regions of blazars from radio to $\gamma$-ray frequencies. The ‘maps’ are anchored by sequences of images in both total and polarized intensity obtained with the VLBA at an angular resolution of $\sim 0.1$ milliarcseconds. The time-variable linear polarization at radio to optical wavelengths and radio to $\gamma$-ray light curves allow us to specify the locations of flares relative to bright stationary features seen in the images and to infer the geometry of the magnetic field in different regions of the jet. Our data reveal that some flares occur simultaneously at different wavebands and others are only seen at some of the frequencies. The flares are often triggered by a superluminal knot passing through the stationary ‘core’ on the VLBA images. Other flares occur upstream or even parsecs downstream of the core.</p>
+				</abstract>
+				<keywords>Quasars;polarization;gamma rays: general;radio continuum: galaxies;X-rays: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Alan" last="Marscher">Alan Marscher</name>
+						<affiliation>Institute for Astrophysical Research, Boston U., 725 Commonwealth Ave., Boston, MA 02215, USA.</affiliation>
+						<email>marscher@bu.edu</email>
+					</author>
+					<author>
+						<name first="Svetlana G." last="Jorstad">Svetlana G. Jorstad</name>
+						<affiliation>Institute for Astrophysical Research, Boston U., 725 Commonwealth Ave., Boston, MA 02215, USA.</affiliation>
+						<affiliation>Astronomical Institute, St. Petersburg State U., St. Petersburg, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Valeri M." last="Larionov">Valeri M. Larionov</name>
+						<affiliation>Astronomical Institute, St. Petersburg State U., St. Petersburg, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Margo F." last="Aller">Margo F. Aller</name>
+						<affiliation>Astronomy Department, University of Michigan, Ann Arbor, Michigan 48109-1042, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anne" last="Lähteenmäki">Anne Lähteenmäki</name>
+						<affiliation>Metsähovi Radio Observatory at Aalto University, Kylmälä, Finland.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Multi-Frequency Observations of Gamma-Ray Blazar 1633+382</title>
+				<feature>Part 6. Combined Multi-Waveband Observations</feature>
+				<page>0239-0242</page>
+				<abstract>
+					<p>We perform monthly monitoring of the quasar 1633+382 (4C+38.41) within a sample of $\gamma$-ray blazars with the VLBA at 43 GHz along with optical photometric and polarimetric observations. We construct the $\gamma$-ray light curve of 1633+382 using data obtained by the Fermi LAT. We find that a high $\gamma$-ray state of the quasar starting in 2009 September is simultaneous with an increase of the flux in the mm-wave VLBI core. We resolve a superluminal feature on the VLBA images that appears to be responsible for the mm-wave flux increase. We find a strong correlation between optical and $\gamma$-ray light curves with a delay of $\gamma$-ray variations of $5\pm 3$ days, as well as a strong correlation between optical flux and degree of polarization during the high $\gamma$-ray state. Comparison between the optical polarization position angle and that in the VLBI core supports the idea that in the quasar 1633+382 a high $\gamma$-ray state is connected with processes originating near the mm-VLBI core.</p>
+				</abstract>
+				<keywords>Gamma-rays;quasars: 1633+382(4C+38.41);radio jets;polarization.</keywords>
+				<authors>
+					<author>
+						<name first="S. G." last="Jorstad">S. G. Jorstad</name>
+						<affiliation>IAR, Boston U., 725 Commonwealth Ave., Boston, MA 02215, USA.</affiliation>
+						<affiliation>St.Petersburg State U., Petrodvorets, 198504 St. Petersburg, Russia.</affiliation>
+						<email>jorstad@bu.edu</email>
+					</author>
+					<author>
+						<name first="A. P." last="Marscher">A. P. Marscher</name>
+						<affiliation>IAR, Boston U., 725 Commonwealth Ave., Boston, MA 02215, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="I." last="Agudo">I. Agudo</name>
+						<affiliation>IAR, Boston U., 725 Commonwealth Ave., Boston, MA 02215, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. S." last="Smith">P. S. Smith</name>
+						<affiliation>Steward Obs., University of Arizona, Tucson, AZ 85721, USA.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V. M." last="Larionov">V. M. Larionov</name>
+						<affiliation>St.Petersburg State U., Petrodvorets, 198504 St. Petersburg, Russia.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Lähteenmäki"></name>
+						<affiliation>Metsähovi Radio Obs., Aalto U., FIN-02540 Kylmälä, Finland.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fundamental Plane of FSRQs from SDSS DR5 Quasar Catalogue</title>
+				<feature>Part 6. Combined Multi-Waveband Observations</feature>
+				<page>0243-0245</page>
+				<abstract>
+					<p>In this work, we explore a sample of 362 flat-spectrum radio quasars (FSRQs) to investigate the jet formation. We find that the fundamental plane for our FSRQs can be expressed as $L_{\text{5\;GHz}}\propto M^{-0.19}_{\text{bh}}L^{1.08}_{\text{2\; keV}}$. We also find that the 5 GHz luminosities are tightly related to both black hole mass and Eddington ratio, which is established as $L_{\text{5\;GHz}}\propto M^{0.67}_{\text{bh}}(L_{\text{bol}}/L_{\text{EDD}})^{1.32}$.</p>
+				</abstract>
+				<keywords>Flat-spectrum radio quasars;jet;black hole mass;fundamental plane.</keywords>
+				<authors>
+					<author>
+						<name first="Ting-Ting" last="Wang">Ting-Ting Wang</name>
+						<affiliation>Guangdong University of Technology, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C.-Y." last="Su">C.-Y. Su</name>
+						<affiliation>Guangdong University of Technology, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email>cysu@gdut.edu.cn</email>
+					</author>
+					<author>
+						<name first="Z.-F." last="Chen">Z.-F. Chen</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y.-P." last="Qin">Y.-P. Qin</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G.-A." last="Wang"></name>
+						<affiliation>Guangdong Cable TV Network Co. Ltd, Guangzhou 510030, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the Superluminal Motion of Radio-Loud AGNs</title>
+				<feature>Part 6. Combined Multi-Waveband Observations</feature>
+				<page>0247-0249</page>
+				<abstract>
+					<p>Apparent superluminal motion of different radio-loud AGNs are similarly related with beaming effect. The cosmological expanding effect would play no part in the superluminal motion of radio galaxies, BL Lacertae objects as well as quasars.Meanwhile, we confirm that estimates for apparent velocity $\beta_{\text{app}}$ and Doppler boosting factor $\delta$ based on multi-wavelength combination and variability are comparable.</p>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: jets;radio continuum: galaxies;radiation mechanisms: non-thermal;quasars: general.</keywords>
+				<authors>
+					<author>
+						<name first="Zhi-Bin" last="Zhang">Zhi-Bin Zhang</name>
+						<affiliation>College of Science, Guizhou University, Guiyang, Guizhou 550025, China.</affiliation>
+						<affiliation>The Joint Research Center for Astronomy Sponsored by GZU and NAOC, Guiyang, China.</affiliation>
+						<email>sci.zbzhang@gzu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Yi-Zhen" last="Zhang">Yi-Zhen Zhang</name>
+						<affiliation>College of Science, Guizhou University, Guiyang, Guizhou 550025, China.</affiliation>
+						<affiliation>The Joint Research Center for Astronomy Sponsored by GZU and NAOC, Guiyang, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variability of Fe II in Two NLS1s, PG 1700+815 and NGC 4051</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0253-0256</page>
+				<abstract>
+					<p>We analyze the spectral variability for two narrow line Seyfert 1 galaxies, PG 1700+518 and NGC 4051 using the spectral decomposition method. We focus on their optical Fe II variability to investigate the origin of Fe II in AGNs. For PG 1700+518, we find that the Fe II size is about 200 light-days, which is consistent with the H$\beta$ size derived from the empirical R–L relation. For NGC 4051, the [O III] 5007 Å flux is strongly correlated with continuum flux, suggesting that we should recalibrate the spectral flux on a scale defined by [O III] flux. The corrected light curves of Fe II, H$\beta$, He II, $f_{\gamma}$(5100 Å) are given here. A detailed analysis will be given in the near future.</p>
+				</abstract>
+				<keywords>Fe II;emission lines;light curves;time lag;PG 1700+518;NGC4051.</keywords>
+				<authors>
+					<author>
+						<name first="Weihao" last="Bian">Weihao Bian</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics, Nanjing Normal University, Nanjing 210046, China.</affiliation>
+						<affiliation>Large Binocular Telescope Observatory, Tucson, AZ 85721, USA.</affiliation>
+						<email>whbian@njnu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Zhen" last="Yang">Zhen Yang</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics, Nanjing Normal University, Nanjing 210046, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Curvature Effect and the Spectral Softening Phenomenon Detected in GRB Afterglows</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0257-0260</page>
+				<abstract>
+					<p>Detection of radiation from a relativistic fireball would be affected by the so-called curvature effect. I illustrate the expected temporal and spectral behaviours of this effect and show that it can well explain the observed spectral softening in the early GRB afterglows.</p>
+				</abstract>
+				<keywords>Gamma-rays: bursts;gamma-rays: theory;relativity.</keywords>
+				<authors>
+					<author>
+						<name first="Y.-P." last="Qin">Y.-P. Qin</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email>ypqin@gzhu.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Pumping Mechanisms for SiO Masers around VX Sgr</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0261-0264</page>
+				<abstract>
+					<p>VX Sgr, a semi-regular variable, is a red giant star with intense SiO maser emission at 43 GHz. The pumping mechanism of the circumstellar SiO masers has been controversial for decades since its discovery. In order to pursue this long-standing problem further, we have carried out simultaneous VLBA observations of two 7 mm SiO masers at five epochs in about two years. We present relatively aligned $v = 1$ and $v = 2$, $J = 1-0$ SiO maser maps and discuss the dominant pumping mechanism, which may be epoch dependent or a combination of both mechanisms.</p>
+				</abstract>
+				<keywords>Stars: individual (VX Sgr);techniques: interferometric.</keywords>
+				<authors>
+					<author>
+						<name first="J. B." last="Su">J. B. Su</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<email>sujb@shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Z.-Q." last="Shen">Z.-Q. Shen</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="X." last="Chen">X. Chen</name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jiyune" last="Yi">Jiyune Yi</name>
+						<affiliation>Korea Astronomy and Space Science Institute, Daejeon 305-348, South Korea.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. R." last="Jiang"></name>
+						<affiliation>Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y. J." last="Yun">Y. J. Yun</name>
+						<affiliation>Department of Physics and Astronomy, Seoul National University, Seoul, South Korea.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Solar Cycle Phase Dependence of Supergranular Fractal Dimension</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0265-0268</page>
+				<abstract>
+					<p>We study the complexity of supergranular cells using the intensity patterns obtained from the Kodaikanal Solar Observatory during the 23rd solar cycle. Our data consists of visually identified supergranular cells, from which a fractal dimension D for supergranulation is obtained according to the relation $P\propto A^{D/2}$, where $A$ is the area and $P$ is the perimeter of the supergranular cells. We find a difference in the fractal dimension between active and quiet region cells in the ascending phase, during the peak and in the descending phase which is conjectured to be due to the magnetic activity level.</p>
+				</abstract>
+				<keywords>Solar cycle;supergranulation;fractal dimension.</keywords>
+				<authors>
+					<author>
+						<name first="U." last="Paniveni">U. Paniveni</name>
+						<affiliation>NIE Institute of Technology, Mysore, India.</affiliation>
+						<affiliation>Indian Institute of Astrophysics, Bangalore, India.</affiliation>
+						<email>paniveni.udayashankar@gmail.com</email>
+					</author>
+					<author>
+						<name first="V." last="Krishan">V. Krishan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Singh">J. Singh</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Srikanth">R. Srikanth</name>
+						<affiliation>Poornaprajna Institute of Research, 4 Sadashivnagar, Bangalore, India.</affiliation>
+						<affiliation>Optics Group, Raman Research Institute, Bangalore, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Estimation of Black Hole Masses from Steep Spectrum Radio Quasars</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0269-0272</page>
+				<abstract>
+					<p>In this work, we employ a sample of 185 steep-spectrum radio quasars (SSRQs) to estimate their black hole masses from broad emission lines. Our black hole masses are compared with the virial black hole masses estimated by Shen (2010). We find that there is a large deviation between the two kinds of values if the black hole masses are estimated from broad emission line of CIV. However, both values are in agreement if the black hole masses are estimated from broad emission line of MgII or H$\beta$.</p>
+				</abstract>
+				<keywords>Black hole physics;methods: statistical;galaxies: jet.</keywords>
+				<authors>
+					<author>
+						<name first="Ye" last="Chen">Ye Chen</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email>ppchen824@yahoo.com.cn</email>
+					</author>
+					<author>
+						<name first="Zhi-Fu" last="Chen">Zhi-Fu Chen</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yi-Ping" last="Qin">Yi-Ping Qin</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<affiliation>Physics Department, Guangxi University, Nanning 530004, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="You-Bing" last="Li">You-Bing Li</name>
+						<affiliation>Guangzhou City Construction College, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Size of Narrow Line Region and [OIII] Luminosity Analyzed from SDSS DR7 Quasar Catalogue</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0273-0276</page>
+				<abstract>
+					<p>In this work, we constructed a sample of 4002 quasars from SDSS DR7 quasar catalogue to calculate the electron density and size of narrow line region. We find that the electron densities are $\sim 10^{3}$/cm$^{3}$, and the sizes are between 27 and 775 pc. We also find that, in the ionization cone, the sizes are tightly correlated with the luminosities of [OIII]$\gamma$5007.</p>
+				</abstract>
+				<keywords>Methods: statistical;galaxies: active;galaxy: fundamental parameters.</keywords>
+				<authors>
+					<author>
+						<name first="Zhi-Fu" last="Chen">Zhi-Fu Chen</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<email>zhichenfu@gmail.com</email>
+					</author>
+					<author>
+						<name first="Y.-P." last="Qin">Y.-P. Qin</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, People’s Republic of China.</affiliation>
+						<affiliation>Physics Department, Guangxi University, Nanning 530004, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z.-Y." last="Chen">Z.-Y. Chen</name>
+						<affiliation>Department of Astronomy, Peking University, Beijing 100871, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L.-Z." last="Lü">L.-Z. Lü</name>
+						<affiliation>Physics Department, Guangxi University, Nanning 530004, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Identification of MgII Absorption Line Systems from SDSS Quasar Catalogue</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0277-0280</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="W.-R." last="Huang">W.-R. Huang</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z.-F." last="Chen">Z.-F. Chen</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email>zhichenfu@gmail.com</email>
+					</author>
+					<author>
+						<name first="Y.-P." last="Qin">Y.-P. Qin</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M.-S." last="Li">M.-S. Li</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R.-H." last="Liao">R.-H. Liao</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="W.-W." last="He">W.-W. He</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="F." last="Han">F. Han</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y.-Q." last="Zhong">Y.-Q. Zhong</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J.-Q." last="Gan">J.-Q. Gan</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="W." last="Zhou">W. Zhou</name>
+						<affiliation>School of Physics &amp; Electronic Engineering, Guang Zhou University, Guangzhou, People’s Republic of China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variability of GPS Radio Sources at 5 GHz</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0281-0283</page>
+				<abstract>
+					<p>We carry out flux monitoring on a sample of 169 Gigahertz Peaked Spectrum (GPS) radio sources at 5 GHz and find that about one-third of them show considerable Inter-Month Variability (IMV), and these IMV phenomena are likely to be caused by interstellar scintillation (ISS). Furthermore, we find that those showing IMV tend to be point-like or core-jet structures at VLBI scale.</p>
+				</abstract>
+				<keywords>GPS sources;radio—variability;VLBI.</keywords>
+				<authors>
+					<author>
+						<name first="Lang" last="Cui">Lang Cui</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email>cuilang@uao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Xiang" last="Liu">Xiang Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jun" last="Liu">Jun Liu</name>
+						<affiliation>Urumqi Observatory, NAOC, 40-5 South Beijing Road, Urumqi 830011, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Possible Outflow Formation in the Central Engine of GRBs</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0285-0287</page>
+				<abstract>
+					<p>We investigate the vertical structure of neutrino-dominated accretion flows in spherical coordinates. In our calculation, the empty funnel along the rotation axis can naturally explain the neutrino annihilable ejection. The outflow is possible due to the positive Bernoulli function, and the luminosity of neutrino annihilation is enhanced by one or two orders of magnitude.</p>
+				</abstract>
+				<keywords>Accretion: accretion disks;black hole physics;gamma rays: bursts.</keywords>
+				<authors>
+					<author>
+						<name first="Tong" last="Liu">Tong Liu</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email>guwm@xmu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Wei-Min" last="Gu">Wei-Min Gu</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ju-Fu" last="Lu">Ju-Fu Lu</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of Black Hole Spin on the Limit-Cycle Behaviour of Accretion Disks</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0289-0291</page>
+				<abstract>
+					<p>We present a spatially 1.5-dimensional, time-dependent numerical study of accretion disks around Kerr black holes. Our study focuses on the limit-cycle behavior of thermally unstable accretion disks. We find that maximal luminosity may be a more appropriate probe of black hole spin than the cycle duration and influence radius.</p>
+				</abstract>
+				<keywords>Accretion;accretion disks;black hole physics;hydrodynamics;instabilities.</keywords>
+				<authors>
+					<author>
+						<name first="Li" last="Xue">Li Xue</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email>lixue@xmu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Ju-Fu" last="Lu">Ju-Fu Lu</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of Toroidal Magnetic Fields on the Thermal Instability of Thin Accretion Disks</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0293-0294</page>
+				<abstract>
+					<p>The standard thin disk model predicts that when the accretion rate is moderately high, the disk is radiation–pressure-dominated and thermally unstable. However, observations indicate the opposite, namely the disk is quite stable. We present an explanation in this work by taking into account the role of the magnetic field which was ignored in the previous analysis.</p>
+				</abstract>
+				<keywords>Accretion;accretion disks;black hole physics;instabilities.</keywords>
+				<authors>
+					<author>
+						<name first="Sheng-Ming" last="Zheng">Sheng-Ming Zheng</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Feng" last="Yuan">Feng Yuan</name>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wei-Min" last="Gu">Wei-Min Gu</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email>guwm@xmu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Ju-Fu" last="Lu">Ju-Fu Lu</name>
+						<affiliation>Department of Physics and Institute of Theoretical Physics and Astrophysics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chandra Data Analysis of H$_{2}$O Megamaser Galaxy NGC 4258</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0295-0297</page>
+				<abstract>
+					<p>Chandra observations of NGC 4258 were analyzed to investigate the circumnuclear environment of the H$_{2}$O megamaser galaxy. Its adaptively-smoothed image shows a bright nucleus and another weak source nearby. For the maser host nucleus, our preferred fitting of its spectra gives the absorption of $\sim 7\times 10^{22}$cm$^{-2}$.</p>
+				</abstract>
+				<keywords>Galaxies: active;galaxies: individual (NGC 4258);X-rays.</keywords>
+				<authors>
+					<author>
+						<name first="Baisheng" last="Liu">Baisheng Liu</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jiangshui" last="Zhang">Jiangshui Zhang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email>jszhang@gzhu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Jin" last="Wang">Jin Wang</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Constraint on Parameters of Inverse Compton Scattering Model for PSR B2319+60</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0299-0300</page>
+				<abstract>
+					<p>Using the multifrequency radio profiles of pulsar PSR B2319+60, two parameters of inverse Compton scattering model, the initial Lorentz factor and the factor of energy loss of relativistic particles are constrained.</p>
+				</abstract>
+				<keywords>Pulsar;inverse Compton scattering;emission mechanism.</keywords>
+				<authors>
+					<author>
+						<name first="H. G." last="Wang">H. G. Wang</name>
+						<affiliation>Center for Astrophysics,Guangzhou University, Guangzhou, China.</affiliation>
+						<email>cosmic008@yahoo.com.cn</email>
+					</author>
+					<author>
+						<name first="M." last="Lv">M. Lv</name>
+						<affiliation>Center for Astrophysics,Guangzhou University, Guangzhou, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cosmic Rays Accelerated at Cosmological Shock Waves</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0301-0302</page>
+				<abstract>
+					<p>Based on hydrodynamic numerical simulations and diffusive shock acceleration model, we calculated the ratio of cosmic ray (CR) to thermal energy. We found that the CR fraction can be less than $\sim 0.1$ in the intracluster medium, while it would be of order unity in the warm-hot intergalactic medium.</p>
+				</abstract>
+				<keywords>Cosmic rays;large-scale structure of universe;methods: numerical;shock waves.</keywords>
+				<authors>
+					<author>
+						<name first="Renyi" last="Ma">Renyi Ma</name>
+						<affiliation>Department of Physics, Xiamen University, Xiamen, Fujian 361005, China.</affiliation>
+						<affiliation>Department of Astronomy and Space Science, Chungnam National University, Daejeon 305764, Korea.</affiliation>
+						<email>ryma@xmu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Dongsu" last="Ryu">Dongsu Ryu</name>
+						<affiliation>Department of Astronomy and Space Science, Chungnam National University, Daejeon 305764, Korea.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hyesung" last="Kang">Hyesung Kang</name>
+						<affiliation>Department of Earth Science, Pusan National University, Pusan 609735, Korea.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Measurement of Plasma Ion Temperature and Flow Velocity from Chord-Averaged Emission Line Profile</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0303-0305</page>
+				<abstract>
+					<p>The distinction between Doppler broadening and Doppler shift has been analysed, the differences between Gaussian fitting and the distribution of chord-integral line shape have also been discussed. Local ion temperature and flow velocity have been derived from the chord-averaged emission line profile by a chosen-point Gaussian fitting technique.</p>
+				</abstract>
+				<keywords>Plasma;Doppler broadening;Doppler shift;Gaussian fitting.</keywords>
+				<authors>
+					<author>
+						<name first="Xu" last="Wei"></name>
+						<affiliation>Department of Physics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email>gnuxuwei@tom.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Relationship among FR-I, FR-II(Q) and FR-II(G) Radio Galaxies</title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0307-0308</page>
+				<abstract>
+					<p>Based on a sample of radio galaxies, the effective spectrum index $\alpha_{\text{RO}}$ (178 MHz to 0.54 $\mu$m), the radio and the V-band optical luminosities are investigated for FR-I, FR-II(G) and FR-II(Q).</p>
+				</abstract>
+				<keywords>Radio galaxies;FR-I, FR-II(Q) and FR-II(G);radio and V-band luminosities;luminosity distributions;unified model.</keywords>
+				<authors>
+					<author>
+						<name first="R. S." last="Yang">R. S. Yang</name>
+						<affiliation>Department of Physics and Electronics Science, Hunan University of Arts and Science, Changde 415000, China.</affiliation>
+						<email>yangrushu@hotmail.com</email>
+					</author>
+					<author>
+						<name first="J. H." last="Yang">J. H. Yang</name>
+						<affiliation>Department of Physics and Electronics Science, Hunan University of Arts and Science, Changde 415000, China.</affiliation>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y. X." last="Wang">Y. X. Wang</name>
+						<affiliation>College of Science and Trade, Guangzhou University, Guangzhou 511442, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. H." last="Fan">J. H. Fan</name>
+						<affiliation>Center for Astrophysics, Guangzhou University, Guangzhou 510006, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">%raghu, pdf 66.pdf
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 7. Other Topics</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Part 8. Summary</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">0000-00-00</date>
+					<date type="R"></date>
+					<date type="A">0000-00-00</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
