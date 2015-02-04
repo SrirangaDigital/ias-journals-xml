@@ -14262,102 +14262,605 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="033">%raghu
+	<volume vnum="033">
 		<issue inum="01" month="03" year="2012">
 			<entry hassup="0">
-				<title></title>
+				<title>High Energy Emissions from Young Stellar Objects</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0001-0008</page>
 				<abstract>
-					<p></p>
+					<p>X-ray emissions from Young Stellar Objects (YSO) are detected by many X-ray missions that are providing important information about their properties. However, their emission processes are not fully understood. In this research note, we propose a model for the generation of emissions from a YSO on the basis of a simple interaction between the YSO and its surrounding circumstellar accretion disc containing neutral gas and charged dust. It is assumed that the YSO has a weak dipole type magnetic field and its field lines are threaded into the circumstellar disc. Considering the motion of ions and charged dust particles in the presence of neutral gas, we show that the sheared dust-neutral gas velocities can lead to a current along the direction of ambient magnetic field. Magnitude of this current can become large and is capable of generating an electric field along the magnetic field lines. It is shown how the particles can gain energy up to MeV range and above, which can produce high-energy radiations from the YSO.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>discs;dusty plasma;high energy emission;stars.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="A. C." last="Das"></name>
+						<affiliation>Physical Research Laboratory, Navarangpura, Ahmedabad 380 009, India</affiliation>
+						<email>acd@prl.res.in</email>
+					</author>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, Udaipur 313 001, India</affiliation>
+						<email>ambastha@prl.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">0000-00-00</date>
+					<date type="M">2011-04-21</date>
+					<date type="R">2011-09-13</date>
+					<date type="A">2012-01-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Self-Similar Solutions for Viscous and Resistive Advection Dominated Accretion Flows</title>
+				<feature></feature>
+				<page>0009-0025</page>
+				<abstract>
+					<p>In this paper, self-similar solutions of resistive advection dominated accretion flows (ADAF) in the presence of a pure azimuthal magnetic field are investigated. The mechanism of energy dissipation is assumed to be the viscosity and the magnetic diffusivity due to turbulence in the accretion flow. It is assumed that the magnetic diffusivity and the kinematic viscosity are not constant and vary by position and $\alpha$-prescription is used for them. In order to solve the integrated equations that govern the behavior of the accretion flow, a self-similar method is used. The solutions show that the structure of accretion flow depends on the magnetic field and the magnetic diffusivity. As the radial infall velocity and the temperature of the flow increase by magnetic diffusivity, the rotational velocity decreases. Also, the rotational velocity for all selected values of magnetic diffusivity and magnetic field is sub-Keplerian. The solutions show that there is a certain amount of magnetic field for which rotational velocity of the flow becomes zero. This amount of the magnetic field depends upon the gas properties of the disc, such as adiabatic index and viscosity, magnetic diffusivity, and advection parameters. The mass accretion rate increases by adding the magnetic diffusivity and the solutions show that in high magnetic pressure, the ratio of the mass accretion rate to the Bondi accretion rate is reduced with an increase in magnetic pressure. Also, the study of Lundquist and magnetic Reynolds numbers based on resistivity indicates that the linear growth of magnetorotational instability (MRI) of the flow reduces by resistivity. This property is qualitatively consistent with resistive magnetohydrodynamics (MHD) simulations.</p>
+				</abstract>
+				<keywords>Accretion;accretion disks;magnetohydrodynamics: MHD.</keywords>
+				<authors>
+					<author>
+						<name first="Kazem" last="Faghei">Kazem Faghei</name>
+						<affiliation>School of Physics, Damghan University, Damghan, Iran.</affiliation>
+						<email>kfaghei@du.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-01-04</date>
 					<date type="R"></date>
-					<date type="A">0000-00-00</date>
+					<date type="A">2011-04-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Editorial Note</title>
+				<feature></feature>
+				<page>0027-0027</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Photoelectric Radial Velocities, Paper XVIII Spectroscopic Orbits for Another 52 Binaries in the Hyades Field</title>
+				<feature></feature>
+				<page>0029-0200</page>
+				<abstract>
+					<p>Spectroscopic orbits are presented for 52 stars in the Hyades field, of which 41 prove to be actual members of the Hyades (with some reservations in two cases). Most of the stars concerned have not had orbits published for them previously. Three of them are of higher multiplicity. The already-known double-lined eclipsing system van Bueren 22 is demonstrated to be a triple system, as was obliquely announced 25 years ago; its ‘outer’ orbit, which has a period of about 8 years, is now determined. Van Bueren 75 is already known to be triple, but here the visual secondary is shown to be the (single-lined) spectroscopic sub-system, and an independent spectroscopic solution is given for the 40-year orbit of what has hitherto been regarded as the ‘visual’ pair. Van Bueren 102, for which a close visual companion was discovered comparatively recently, is a single-lined binary whose $\gamma$-velocity has shown a steady drift over at least the last 30 (probably 50) years. Three stars, vB 39, 50 and 59, have notably high eccentricities of 0.85, 0.98 and 0.94, respectively; they have quite long periods (especially vB 50, which is over 100 years), and every one of them contrived to pass the whole of its recent periastron passage (about $180^{\circ}$ of true anomaly) <i>between seasons</i>, at the time of year when the Hyades are unobservable!</p>
+				</abstract>
+				<keywords>Spectroscopic binaries;orbits;stars: late-type;stars: radial velocities;star clusters: Hyades.</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge CB3 0HA, UK.</affiliation>
+						<email>rfg@ast.cam.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-09-27</date>
+					<date type="R"></date>
+					<date type="A">2011-06-03</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="02" month="06" year="2012">
 			<entry hassup="0">
-				<title></title>
+				<title>Effect of Inhomogeneity of the Universe on a Gravitationally Bound Local System: A No-Go Result for Explaining the Secular Increase in the Astronomical Unit</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0201-0211</page>
 				<abstract>
-					<p></p>
+					<p>We will investigate the influence of the inhomogeneity of the Universe, especially that of the Lemaître–Tolman–Bondi (LTB) model, on a gravitationally bound local system such as the solar system.We concentrate on the dynamical perturbation to the planetary motion and derive the leading order effect generated from the LTB model. It will be shown that there appear not only a well-known cosmological effect arisen from the homogeneous and isotropic model, such as the Robertson–Walker (RW) model, but also the additional terms due to the radial inhomogeneity of the LTB model. We will also apply the obtained results to the problem of secular increase in the astronomical unit, reported by Krasinsky and Brumberg (2004), and imply that the inhomogeneity of the Universe cannot have a significant effect for explaining the observed dAU/d$t = 15 \pm 4$ [m/century].</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Celestial mechanics;gravitation;cosmology;LTB model;ephemerides;astronomical unit.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Hideyoshi" last="Arakida">Hideyoshi Arakida</name>
+						<affiliation>Graduate School of Education, Iwate University, Iwate, Japan</affiliation>
+						<email>arakida@iwate-u.ac.jp</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-01-13</date>
+					<date type="R"></date>
+					<date type="A">2012-04-16</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Star Formation Rate Indicators in Wide-Field Infrared Survey Preliminary Release</title>
+				<feature></feature>
+				<page>0213-0220</page>
+				<abstract>
+					<p>With the goal of investigating the degree at which the MIR luminosity in the Wide-field Infrared Survey Explorer (WISE) traces the SFR, we analyse 3.4, 4.6, 12 and 22 $\mu$m data in a sample of $\sim 140,000$ star-forming galaxies or star-forming regions <i>covering a wide range in metallicity</i> $7.66 \lt 12 + \log\text{(O/H)} \lt 9.46$, <i>with redshift</i> $z \lt 0.4$. These star-forming galaxies or star-forming regions are selected by matching the WISE Preliminary Release Catalog with the star-forming galaxy Catalog in SDSS DR8 provided by JHU/MPA. We study the relationship between the luminosity at 3.4, 4.6, 12 and 22 $\mu$m from WISE and H$\alpha$ luminosity in SDSS DR8. From these comparisons, we derive reference SFR indicators for use in our analysis. Linear correlations between SFR and the 3.4, 4.6, 12 and 22 $\mu$m luminosity are found, and calibrations of SFRs based on L(3.4), L(4.6), L(12) and L(22) are proposed. The calibrations hold for galaxies with verified spectral observations. The dispersion in the relation between 3.4, 4.6, 12 and 22 $\mu$m luminosity and SFR relates to the galaxy’s properties, such as 4000 Å break and galaxy color.</p>
+				</abstract>
+				<keywords>Galaxies: star formation;galaxies: abundances;methods: data analysis;infrared: galaxies.</keywords>
+				<authors>
+					<author>
+						<name first="Fei" last="Shi">Fei Shi</name>
+						<affiliation>Department of Basic Science, North China Institute of Spaceflight Engineering, Hebei 065000, China</affiliation>
+						<email>fshi@bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Xu" last="Kong">Xu Kong</name>
+						<affiliation>Center of Astrophysics, University of Science and Technology of China, Hefei 230026, China</affiliation>
+						<affiliation>Key Laboratory for Research in Galaxies and Cosmology, USTC, Chinese Academy of Sciences, Beijing 100012, China</affiliation>
+						<email>xkong@ustc.edu.cn</email>
+					</author>
+					<author>
+						<name first="James" last="Wicker">James Wicker</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Beijing 100012, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yang" last="Chen">Yang Chen</name>
+						<affiliation>Center of Astrophysics, University of Science and Technology of China, Hefei 230026, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zi-Qiang" last="Gong">Zi-Qiang Gong</name>
+						<affiliation>Department of Basic Science, North China Institute of Spaceflight Engineering, Hebei 065000, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dong-Xin" last="Fan">Dong-Xin Fan</name>
+						<affiliation>Department of Physics and Electronics, Guangxi Teachers Education University, Nanning 530001, China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">0000-00-00</date>
+					<date type="M">2011-11-20</date>
 					<date type="R"></date>
-					<date type="A">0000-00-00</date>
+					<date type="A">2012-05-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Hemispheric Asymmetry of Polar Faculae</title>
+				<feature></feature>
+				<page>0221-0226</page>
+				<abstract>
+					<p>In this paper, the north–south (N–S) asymmetry of the polar faculae at relatively low (RLLs), relatively high (RHLs) as well as total latitudes (TLs) respectively, are investigated. It is found that</p> 
+					<ol type="arabic">
+						<li>the polar faculae behave in a different asymmetrical way at different latitudinal bands;</li>
+						<li>the asymmetry of solar activity may be a function of latitudes, which is present not only in the low-latitude solar activity but also in the high-latitude solar activity;</li>
+						<li>the N–S asymmetry of the polar faculae at TLs depends on that at RHLs, and the asymmetry of the polar faculae at RLLs only plays a modulatory role.</li>
+					</ol>
+				</abstract>
+				<keywords>Sun: polar faculae;N–S asymmetry.</keywords>
+				<authors>
+					<author>
+						<name first="L. H." last="Deng">L. H. Deng</name>
+						<affiliation>National Astronomical Observatories/Yunnan Astronomical Observatory, Chinese Academy of Sciences, P. O. Box 110, 650011, Kunming, People’s Republic of China</affiliation>
+						<affiliation>Graduate School of the Chinese Academy of Sciences, ShijingShan Block, 100049, Beijing, People’s Republic of China</affiliation>
+						<email>bench@ynao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Z. Q." last="Qu">Z. Q. Qu</name>
+						<affiliation>National Astronomical Observatories/Yunnan Astronomical Observatory, Chinese Academy of Sciences, P. O. Box 110, 650011, Kunming, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="X. L." last="Yan">X. L. Yan</name>
+						<affiliation>National Astronomical Observatories/Yunnan Astronomical Observatory, Chinese Academy of Sciences, P. O. Box 110, 650011, Kunming, People’s Republic of China</affiliation>
+						<affiliation>Graduate School of the Chinese Academy of Sciences, ShijingShan Block, 100049, Beijing, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Liu">T. Liu</name>
+						<affiliation>Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, 430074, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. R." last="Wang">K. R. Wang</name>
+						<affiliation>North China Electric Power University, Beijing, 102206, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-28</date>
+					<date type="R"></date>
+					<date type="A">2012-04-24</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Photoelectric Radial Velocities, Paper XIX Additional Spectroscopic Binaries among the Redman K Stars</title>
+				<feature></feature>
+				<page>0227-0244</page>
+				<abstract>
+					<p>The ‘Redman K stars’ project, described more particularly in the paper immediately following this one, involved the repeated measurement on a quasi-annual basis of the radial velocities of a group of 86 seventh-magnitude late-type stars over an interval of 45 years. Certain of the stars proved to vary in velocity and were then transferred to a different observing programme, in which they were measured more frequently with a view to determining their orbits. Orbits have already been published for 18 of the stars. Presented here (and summarized in Table 9) are the results on six more; all are single-lined. One of them (HD 191046, a star which has a literature coverage about ten times as rich as that of any of the others, probably on account of its high space velocity which includes a $\gamma$-velocity of nearly $-100$ km s$^{-1}$) has a good orbit with a period of about 8000 days (22 years). Five others (HD 3345, 15728, 20509, 188058 and 191084) have orbits that are perfectly secure in principle, but their periods range between 40 and perhaps 70 years, and (particularly in some cases) their radial velocities have not been observed well enough for long enough to establish either the periods or the orbits very accurately. One star, HD 9354, has exhibited a monotonic variation of velocity throughout the duration of the observing programme; it is possible to draw a Keplerian velocity curve that does justice to the measurements, but it cannot be expected to have much predictive power.</p>
+				</abstract>
+				<keywords>Stars: late-type;stars: radial velocities;spectroscopic binaries;orbits.</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge CB3 0HA, UK</affiliation>
+						<email>rfg@ast.cam.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-29</date>
+					<date type="R"></date>
+					<date type="A">2011-11-21</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Photoelectric Radial Velocities, Paper XX 45 Years’ Monitoring of the Radial Velocities of the Redman K Stars</title>
+				<feature></feature>
+				<page>0245-0278</page>
+				<abstract>
+					<p>The ‘Redman K stars’ are a group of 80-odd seventh-magnitude late-type stars, nearly all giants, distributed along the Galactic equator between approximate longitudes $50^{\circ}$ and $150^{\circ}$ (roughly Sagitta to Cassiopeia). Their radial velocities have been measured systematically once per season in 30 of the 45 seasons from 1966 to 2010/11. At least 26 of them (30\%) have proved to vary in velocity. Orbits have been derived for all but one of the 26, many of them having longer periods than have normally been associated with spectroscopic binaries; several are comparable with, or longer than, the present duration of the observing campaign. Also reported here are radial-velocity measurements made casually of stars seen in the fields of some of the Redman stars. Two of the companions have proved to vary in velocity on long time-scales, and (somewhat preliminary) orbits are given for them.</p>
+				</abstract>
+				<keywords>Stars: late-type;stars: radial velocities;spectroscopic binaries;orbits.</keywords>
+				<authors>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge CB3 0HA, UK</affiliation>
+						<email>rfg@ast.cam.ac.uk</email>
+					</author>
+					<author>
+						<name first="A." last="Stroe">A. Stroe</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge CB3 0HA, UK</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-29</date>
+					<date type="R"></date>
+					<date type="A">2011-10-19</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="03" month="09" year="2012">
 			<entry hassup="0">
-				<title></title>
+				<title>Relativistic Beaming and Orientation Effects in BL Lacertae Objects</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0279-0290</page>
 				<abstract>
-					<p></p>
+					<p>We use the correlation between the core-to-lobe radio luminosity ratio $(R)$ and the linear size $(D)$ of a sample of BL Lacertae objects to investigate the relativistic beaming and radio source orientation paradigm for high peaked and low-peaked BL Lacs (X-ray and radio selected BL Lacs respectively) and to constrain relativistic beaming model for this extreme class of active galactic nuclei. We show that the $R - D$ distributions of the BL Lac populations contradict blazar orientation sequence, with the X-ray selected BL Lacs (XBLs) being more consistent with the beaming and orientation model. On the premise that Fanaroff-Riley Type I radio galaxies are the unbeamed parent population of these objects, we derive the bulk Lorentz factor of the jets, $\gamma\sim 7-20$ corresponding to a critical cone angle for optimum boosting, $\phi_{\text{c}}$ of $\sim 1^{\circ}-4^{\circ}$, while on average, these objects are inclined at $5^{\circ}-12^{\circ}$ to the line-of-sight. The implications of these results for the blazar unification sequence are discussed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Galaxies: BL Lacertae objects: general.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="F. C." last="Odo">F. C. Odo</name>
+						<affiliation>National Centre for Energy Research and Development, University of Nigeria, Nsukka, Nigeria</affiliation>
+						<email>finboc@yahoo.com</email>
+					</author>
+					<author>
+						<name first="A. A." last="Ubachukwu">A. A. Ubachukwu</name>
+						<affiliation>Department of Physics &amp; Astronomy, University of Nigeria, Nsukka, Nigeria</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. E." last="Chukwude">A. E. Chukwude</name>
+						<affiliation>Department of Physics &amp; Astronomy, University of Nigeria, Nsukka, Nigeria</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">0000-00-00</date>
+					<date type="M">2011-05-18</date>
 					<date type="R"></date>
-					<date type="A">0000-00-00</date>
+					<date type="A">2012-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Photoionization Cross-Section of Chlorine-like Iron</title>
+				<feature></feature>
+				<page>0291-0301</page>
+				<abstract>
+					<p>Semi-relativistic calculations are performed for the photoionization of Fe X (an important coronal ion) from its ground state 3s$^{2}$3p$^{5}$($^{2}P^{0}_{3/2}$) and the first two excited states 3s$^{2}$3p$^{5}$(${}^{2}P^{0}_{1/2}$) and 3s3p$^{6}$(${}^{2}S_{1/2}$) using the Breit–Pauli $R$-matrix method. A lowest 41 state eigenfunction expansion for Fe XI is employed to ensure an extensive treatment of auto ionizing resonances that affect the effective cross-sections. In the present calculations, we have considered all the important physical effects like channel coupling, exchange and short range correlation. The present calculations using the lowest 41 target levels of Fe XI in the LSJ coupling scheme are reported and we expect that the present results should enable more accurate modelling of the emission spectrum of highly excited plasma from the optical to the far UV region.</p>
+				</abstract>
+				<keywords>Atomic data;atomic processes;photoionization;Fe X.</keywords>
+				<authors>
+					<author>
+						<name first="Sunny" last="Aggarwal">Sunny Aggarwal</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email>Sunny.kmc87@gmail.com</email>
+					</author>
+					<author>
+						<name first="Jagjit" last="Singh">Jagjit Singh</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K. S." last="Jha">A. K. S. Jha</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Man" last="Mohan">Man Mohan</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-04-17</date>
+					<date type="R"></date>
+					<date type="A">2012-07-25</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Constraints on the Moment of Inertia of a Proto Neutron Star from the Hyperon Coupling Constants</title>
+				<feature></feature>
+				<page>0303-0310</page>
+				<abstract>
+					<p>The influence of the hyperon coupling constants on the moment of inertia of a proto neutron star has been investigated within the framework of relativistic mean field theory for the baryon octet $\{n, p,\Lambda,\Sigma^{-},\Sigma^{0},\Sigma^{+},\Xi^{-},\Xi^{0}\}$ system. It is found that for a proto neutron star, the mass, the moment of inertia and their own maximum values as a function of radius R or M/R are all more sensitive to the hyperon coupling constants. For all the different hyperon coupling constants mentioned, the case of no hyperons corresponds to the largest moment of inertia.</p>
+				</abstract>
+				<keywords>The moment of inertia;the relativistic mean field theory;proto neutron star.</keywords>
+				<authors>
+					<author>
+						<name first="Xian-Feng" last="Zhao">Xian-Feng Zhao</name>
+						<affiliation>College of Mechanical and Electronic Engineering, Chuzhou University, Chuzhou 239000, China.</affiliation>
+						<email>zhaopioneer.student@sina.com</email>
+					</author>
+					<author>
+						<name first="Huan-Yu" last="Jia">Huan-Yu Jia</name>
+						<affiliation>Institute for Modern Physics, Southwest Jiaotong University, Chengdu 610031, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-01-20</date>
+					<date type="R"></date>
+					<date type="A">2012-07-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Classical Calculations of Scattering Signatures from a Gravitational Singularity or the Scattering and Absorption Cross-Sections of a Black Hole</title>
+				<feature></feature>
+				<page>0311-0347</page>
+				<abstract>
+					<p>Within the context of general relativity theory we calculate, analytically, scattering signatures around a gravitational singularity: angular and time distributions of scattered massive objects and photons and the time and space modulation of Doppler effects. Additionally, the scattering and absorption cross sections for the gravitational interactions are calculated. The results of numerical simulations of the trajectories are compared with the analytical results.</p>
+				</abstract>
+				<keywords>Blackhole;general relativity;trajectories;cross-sections;scattering;absorption;analytical solutions;incomplete elliptic integrals;numerical verifications;time and angular distributions;Doppler effects;massive objects;photons.</keywords>
+				<authors>
+					<author>
+						<name first="Felix C." last="Difilippo">Felix C. Difilippo</name>
+						<affiliation>102 Westwind, Oak Ridge, TN 37830, USA.</affiliation>
+						<email>pitagoras_km30@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-02-29</date>
+					<date type="R"></date>
+					<date type="A">2012-08-03</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Black Hole Dynamic Potentials</title>
+				<feature></feature>
+				<page>0349-0359</page>
+				<abstract>
+					<p>In the following paper, certain black hole dynamic potentials have been developed definitively on the lines of classical thermodynamics. These potentials have been refined in view of the small differences in the equations of the laws of <i>black hole</i> dynamics as given by Bekenstein and those of thermodynamics. Nine fundamental black hole dynamical relations have been developed akin to the four fundamental thermodynamic relations of Maxwell. The specific heats $C_{\Omega,\Phi}$ and $C_{J,Q}$ have been defined. For a black hole, these quantities are <i>negative</i>. The $\kappa$d$A$ equation has been obtained as an application of these fundamental relations. Time reversible processes observing constancy of surface gravity are considered and an equation connecting the internal energy of the black hole $E$, the additional available energy defined as the first free energy function $K$, and the surface gravity $\kappa$, has been obtained. Finally as a further application of the fundamental relations, it has been proved for a <i>homogeneous gravitational field in black hole space times or a de Sitter black hole that</i> $C_{\Omega,\Phi}-C_{J,Q}=\kappa \left[\left(\dfrac{\partial J}{\partial \kappa}\right)_{\Omega,\Phi}\left(\dfrac{\partial \Omega}{\partial \kappa}\right)_{J,Q}+\left(\dfrac{\partial Q}{\partial \kappa}\right)_{\Omega,\Phi}\left(\dfrac{\partial\Phi}{\partial \kappa}\right)_{J,Q}\right]$. This is dubbed as the <i>homogeneous fluid approximation</i> in context of the black holes.</p>
+				</abstract>
+				<keywords>Black hole dynamics;black hole thermodynamics;thermodynamic potentials.</keywords>
+				<authors>
+					<author>
+						<name first="Koustubh Ajit" last="Kabe">Koustubh Ajit Kabe</name>
+						<affiliation>Department of Physics, Lokmanya Tilak Bhavan, University of Mumbai, Vidyanagari, Santacruz (East), Mumbai 400 098, India.</affiliation>
+						<email>koustubhkabe@physics.mu.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-14</date>
+					<date type="R"></date>
+					<date type="A">2011-11-21</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="04" month="12" year="2012">
 			<entry hassup="0">
-				<title></title>
+				<title>Editorial</title>
 				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<page>0361-0362</page>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
+						<name first="Chanda J." last="Jog">Chanda J. Jog</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">0000-00-00</date>
+					<date type="M"></date>
 					<date type="R"></date>
-					<date type="A">0000-00-00</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the Jeans Criterion of a Stratified Heat Conducting Gaseous Medium in the Presence of Non-Uniform Rotation and Magnetic Field</title>
+				<feature></feature>
+				<page>0363-0373</page>
+				<abstract>
+					<p>The problem of self-gravitational instability of an infinite, homogeneous stratified gaseous medium with finite thermal conductivity and infinite electrical conductivity, in the presence of non-uniform rotation and magnetic field in the Chandrasekhar’s frame of reference, is studied. It is found that the magnetic field, whether uniform or non-uniform, has no effect on the <i>Jeans’ criterion</i> for gravitational instability and remains essentially unaffected. However, the thermal conductivity has the usual stabilizing effect on the criterion that the adiabatic sound velocity occurring in the <i>Jeans criterion</i> is replaced by the isothermal sound velocity. Thus, the present analysis extends the results of Chandrasekhar for the case of heat conducting medium and for non-uniform rotation and magnetic field.</p>
+				</abstract>
+				<keywords>Jeans criterion;gravitational instability;non-uniform magnetic field;thermal conductivity.</keywords>
+				<authors>
+					<author>
+						<name first="Joginder S." last="Dhiman">Joginder S. Dhiman</name>
+						<affiliation>Department of Mathematics, Himachal Pradesh University, Summer Hill, Shimla 171 005, India.</affiliation>
+						<email>dhiman_jp@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Rekha" last="Dadwal">Rekha Dadwal</name>
+						<affiliation>Department of Mathematics, Himachal Pradesh University, Summer Hill, Shimla 171 005, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-12</date>
+					<date type="R"></date>
+					<date type="A">2012-10-03</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the Maximum Separation of Visual Binaries</title>
+				<feature></feature>
+				<page>0375-0386</page>
+				<abstract>
+					<p>In this paper, an efficient algorithm is established for computing the maximum (minimum) angular separation $\rho_{\max}(\rho_{\min})$, the corresponding apparent position angles $(\theta|_{\rho_{\max}} , \theta|_{\rho_{\min}})$ and the individual masses of visual binary systems. The algorithm uses Reed’s formulae (1984) for the masses, and a technique of one-dimensional unconstrained minimization, together with the solution of Kepler’s equation for $(\rho_{\max}, \theta |_{\rho_{\max}})$ and $(\rho_{\min}, \theta |_{\rho_{\min}})$. Iterative schemes of quadratic coverage up to any positive integer order are developed for the solution of Kepler’s equation. A sample of 110 systems is selected from the Sixth Catalog of Orbits (Hartkopf <i>et al.</i> 2001). Numerical studies are included and some important results are as follows:</p> 
+					<ol type="arabic">
+						<li>there is no dependence between $\rho_{\max}$ and the spectral type and</li> 
+						<li>a minor modification of Giannuzzi’s (1989) formula for the upper limits of $\rho_{\max}$ functions of spectral type of the primary.</li>
+					</ol>
+				</abstract>
+				<keywords>Stars: spectral types;binaries: visual;numerical: optimization.</keywords>
+				<authors>
+					<author>
+						<name first="M. I." last="Nouh">M. I. Nouh</name>
+						<affiliation>Department of Physics, College of Science, Northern Border University, 1321 Arar, Saudi Arabia</affiliation>
+						<email>abdo_nouh@hotmail.com</email>
+					</author>
+					<author>
+						<name first="M. A." last="Sharaf">M. A. Sharaf</name>
+						<affiliation>Department of Astronomy, Faculty of Science, King Abdul-Aziz University, Jeddah, Saudi Arabia</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-05-05</date>
+					<date type="R"></date>
+					<date type="A">2012-05-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Phase Relationship Between Sunspot Number, Flare Index and Solar Radio Flux</title>
+				<feature></feature>
+				<page>0387-0397</page>
+				<abstract>
+					<p>To understand better the variation of solar activity indicators originated at different layers of the solar atmosphere with respect to sunspot cycles, we carried out a study of phase relationship between sunspot number, flare index and solar radio flux at 2800 MHz from January 1966 to May 2008 by using cross-correlation analysis. The main results are as follows:</p> 
+					<ol type="arabic">
+						<li>The flare index and sunspot number have synchronous phase for cycles 21 and 22 in the northern hemisphere and for cycle 20 in the southern hemisphere.</li>
+						<li>The flare index has a noticeable time lead with respect to sunspot number for cycles 20 and 23 in the northern hemisphere and for cycles 22 and 23 in the southern hemisphere.</li>
+						<li>For the entire Sun, the flare index has a noticeable time lead for cycles 20 and 23, a time lag for cycle 21, and no time lag or time lead for cycle 22 with respect to sunspot number.</li>
+						<li>The solar radio flux has a time lag for cycles 22 and 23 and no time lag or time lead for cycles 20 and 21 with respect to sunspot number.</li>
+						<li>For the four cycles, the sunspot number and flare index in the northern hemisphere are all leading to the ones in the southern hemisphere.</li>
+					</ol>
+					<p>These results may be instructive to the physical processes of flare energy storage and dissipation.</p>
+				</abstract>
+				<keywords>Sun: sunspot;flare index;solar radio flux;solar cycle.</keywords>
+				<authors>
+					<author>
+						<name first="X. L." last="Yan">X. L. Yan</name>
+						<affiliation>National Astronomical Observatories/Yunnan Astronomical Observatory, Chinese Academy of Sciences, Kunming 650011, China.</affiliation>
+						<affiliation>Key Laboratory of Solar Activity, National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email>yanxl@ynao.ac.cn</email>
+					</author>
+					<author>
+						<name first="L. H." last="Deng">L. H. Deng</name>
+						<affiliation>National Astronomical Observatories/Yunnan Astronomical Observatory, Chinese Academy of Sciences, Kunming 650011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z. Q." last="Qu">Z. Q. Qu</name>
+						<affiliation>National Astronomical Observatories/Yunnan Astronomical Observatory, Chinese Academy of Sciences, Kunming 650011, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. L." last="Xu">C. L. Xu</name>
+						<affiliation>School of Mathematics, Yunnan Normal University, Yunnan, Kunming 650092, China.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. F." last="Kong">D. F. Kong</name>
+						<affiliation>National Astronomical Observatories/Yunnan Astronomical Observatory, Chinese Academy of Sciences, Kunming 650011, China.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-24</date>
+					<date type="R"></date>
+					<date type="A">2012-11-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Revisiting the Cosmological Principle in a Cellular Framework</title>
+				<feature></feature>
+				<page>0399-0416</page>
+				<abstract>
+					<p>The cosmological principle in its various versions states that:</p> 
+					<ol type="roman">
+						<li>the galaxy does not occupy a particular position,</li> 
+						<li>the Universe is homogeneous and isotropic.</li> 
+					</ol>
+					<p>This statement does not agree with the recent astronomical observations in the range $z$ lower than 0.05 which are in agreement with a cellular structure of the Universe. Here we present a local analysis of the inhomogeneity of the Universe. When $z$ is greater than 0.05 our analysis cannot be applied because the astronomical sample of galaxies here processed is not complete. The two tools of the Poisson Voronoi Tessellation (PVT) and the luminosity function for galaxies allow building a new version of the local cosmological principle.</p>
+				</abstract>
+				<keywords>Cosmology: Miscellaneous cosmology;observations cosmology;theory.</keywords>
+				<authors>
+					<author>
+						<name first="L." last="Zaninetti">L. Zaninetti</name>
+						<affiliation>Dipartimento di Fisica, Via Pietro Giuria 1, 10125 Torino, Italy</affiliation>
+						<email>zaninetti@ph.unito.it</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-04</date>
+					<date type="R"></date>
+					<date type="A">2012-11-09</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Acknowledgements</title>
+				<feature></feature>
+				<page>0417-0417</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0419-0420</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0421-0422</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
-	</volume>
+	</volume>%raghu, vol 34 onwards
 </journal>
