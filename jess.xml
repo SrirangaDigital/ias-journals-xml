@@ -6696,7 +6696,7 @@
 				</authors>
 			</entry>
 			<entry hassup="0">
-				<title>International partnership in lunar missions: Inaugural address His Excellency Dr A P J Abdul Kalam</title>
+				<title>International partnership in lunar missions: Inaugural address</title>
 				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
 				<page>0577-0585</page>
 				<abstract>
@@ -6835,27 +6835,33 @@
 					<author>
 						<name first="Wu" last="Ji">Wu Ji</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 						<email>wuji@center.cssar.ac.cn</email>
 					</author>
 					<author>
 						<name first="Li" last="Dihui">Li Dihui</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="Zhang" last="Xiaohui">Zhang Xiaohui</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="Jiang" last="Jingshan">Jiang Jingshan</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="A. T." last="Altyntsev">A. T. Altyntsev</name>
 						<affiliation>Institute of Solar Terrestrial Physics, Siberia Branch of Russian Academy of Sciences, P.O. Box 4026, Irkutsk 664 033, Russia.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="B. I." last="Lubyshev">B. I. Lubyshev</name>
 						<affiliation>Institute of Solar Terrestrial Physics, Siberia Branch of Russian Academy of Sciences, P.O. Box 4026, Irkutsk 664 033, Russia.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 				</authors>
 			</entry>
@@ -7087,7 +7093,7 @@
 				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
 				<page>0717-0720</page>
 				<abstract>
-					<p>The Terrain Mapping Camera (TMC)on India ’s ﬁrst satellite for lunar exploration,Chandrayaan-1, is for generating high-resolution 3-dimensional maps of the Moon.With this instrument,a complete topographic map of the Moon with 5 m spatial resolution and 10-bit quantization will be available for scienti ﬁc studies.The TMC will image within the panchromatic spectral band of 0.4 to 0 .µ with a stereo view in the fore,nadir and aft directions of the spacecraft movement and have a B/H ratio of 1.The swath coverage will be 20 km.The camera is con ﬁgured for imaging in the push broom-mode with three linear detectors in the image plane.The camera will have four gain settings to cover the varying illumination conditions of the Moon.Additionally,a provision of imaging with reduced resolution,for improving Signal-to-Noise Ratio (SNR)in polar regions,which have poor illumination conditions throughout,has been made.SNR of better than 100 is expected in the ± 60 ◦latitude region for mature mare soil,which is one of the darkest regions on the lunar surface. This paper presents a brief description of the TMC instrument.</p>
+					<p>The Terrain Mapping Camera (TMC)on India ’s ﬁrst satellite for lunar exploration,Chandrayaan-1, is for generating high-resolution 3-dimensional maps of the Moon.With this instrument,a complete topographic map of the Moon with 5 m spatial resolution and 10-bit quantization will be available for scienti ﬁc studies.The TMC will image within the panchromatic spectral band of 0.4 to 0.9 $\mu m$ with a stereo view in the fore,nadir and aft directions of the spacecraft movement and have a B/H ratio of 1.The swath coverage will be 20 km.The camera is conﬁgured for imaging in the push broom-mode with three linear detectors in the image plane.The camera will have four gain settings to cover the varying illumination conditions of the Moon.Additionally,a provision of imaging with reduced resolution,for improving Signal-to-Noise Ratio (SNR)in polar regions,which have poor illumination conditions throughout,has been made.SNR of better than 100 is expected in the $\pm 60^\circ $ latitude region for mature mare soil,which is one of the darkest regions on the lunar surface. This paper presents a brief description of the TMC instrument.</p>
 				</abstract>
 				<keywords>Terrain mapping;active pixel sensor;digital elevation map;lunar topography.</keywords>
 				<authors>
@@ -7103,6 +7109,597 @@
 				</authors>
 			</entry>		
 			<entry hassup="0">
+				<title>Hyper-Spectral Imager in visible and near-infrared band for lunar compositional mapping</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0721-0724</page>
+				<abstract>
+					<p>India ’s ﬁrst lunar mission,Chandrayaan-1,will have a Hyper-Spectral Imager in the visible and near-infrared spectral bands along with other instruments.The instrument will enable mineralogical mapping of the Moon ’s crust in a large number of spectral channels.The planned Hyper-Spectral Imager will be the ﬁrst instrument to map the lunar surface with the capability of resolving the spectral region,0.4 to $0.92 \mu m$ in 64 continuous bands with a resolution of better than 15 nm and a spatial resolution of 80 m.Spectral separation will be done using a wedge ﬁlter and the image will be mapped onto an area detector.The detector output will be processed in the front-end processor to generate the 64-band data with 12-bit quantization.This paper gives a description of the Hyper-Spectral Imager instrument.</p>
+				</abstract>
+				<keywords>Hyper-Spectral Imager;wedge filter;spectral bands;mineral mapping.</keywords>
+				<authors>
+					<author>
+						<name first="" last="">A. S. Kiran Kumar</name>
+						<affiliation>Space Applications Centre, ISRO, Ahmedabad 380 015, India.</affiliation>
+						<email>kiran@sac.isro.gov.in</email>
+					</author>
+					<author>
+						<name first="" last="">A. Roy Chowdhury</name>
+						<affiliation>Space Applications Centre, ISRO, Ahmedabad 380 015, India.</affiliation>
+					</author>
+				</authors>
+			</entry>		
+			<entry hassup="0">
+				<title>Lunar ranging instrument for Chandrayaan-1</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0725-0731</page>
+				<abstract>
+					<p>Lunar Laser Ranging Instrument (LLRI)proposed for the ﬁrst Indian lunar mission Chandrayaan-1 is aimed to study the topography of the Moon ’s surface and its gravitational ﬁeld by precisely measuring the altitude from a polar orbit around the Moon.Altimetry data close to the poles of the Moon would also be available from the instrument,which was not covered by earlier missions. This instrument supplements the terrain mapping camera and hyper-spectral imager payloads on Chandrayaan-1.The instrument consists of a diode pumped Nd:YAG pulsed laser transmitter having 10 nsec pulse width and a receiver system.The receiver system features 17 cm diameter Ritchey –Chr$\acute{e} $tien collecting optics,Si Avalanche Photo Detector (APD),preampli ﬁers,constant fraction discriminators,time-of-ﬂight measurement unit and spacecraft interface.Altimeter resolution of better than 5 m is targeted.The received signal strength of LLRI depends on laser pulse backscatter from the Moon ’s surface.Moon ’s surface being a poor re ﬂector,the choice of receiver size and its type and the selection of detector play an important role in getting a good signal-to-noise ratio and in turn achieving the target resolution.At the same time,the spacecraft puts a limitation on payload size and weight.This paper discusses the proposed LLRI system for Chandrayaan-1 and signal-to-noise ratio estimation.</p>
+				</abstract>
+				<keywords>Nd:YAG laser;Si APD;laser altimeter.</keywords>
+				<authors>
+					<author>
+						<name first="J. A." last="Kamalakar">J. A. Kamalakar</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+						<email>kamalakar@leosisro.com</email>
+					</author>
+					<author>
+						<name first="K. V. S." last="Bhaskar">K. V. S. Bhaskar</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. S. Laxmi" last="Prasad">A. S. Laxmi Prasad</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Ranjith">R. Ranjith</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. A." last="Lohar">K. A. Lohar</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Venketeswaran">R. Venketeswaran</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="T. K." last="Alex">T. K. Alex</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>High energy X-$\gamma $ ray spectrometer on the Chandrayaan-1 mission to the Moon</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0733-0738</page>
+				<abstract>
+					<p>The Chandrayaan-1 mission to the Moon scheduled for launch in late 2007 will include a high energy X-ray spectrometer (HEX)for detection of naturally occurring emissions from the lunar surface due to radioactive decay of the $^{238} U$ and $^{232}Th$ series nuclides in the energy region 20 –250 keV.The primary science objective is to study the transport of volatiles on the lunar surface by detection of the 46.5 keV line from radioactive $^{210}Pb$, a decay product of the gaseous $^{222}Rn$,both of which are members of the $^{238} U$ decay series.Mapping of U and Th concentration over the lunar surface,particularly in the polar and U –Th rich regions will also be attempted through detection of prominent lines from the U and Th decay series in the above energy range.The low signal strengths of these emissions require a detector with high sensitivity and good energy resolution.Pixelated Cadmium – Zinc –Telluride (CZT)array detectors having these characteristics will be used in this experiment. Here we describe the science considerations that led to this experiment,anticipated ﬂux and back- ground (lunar continuum),the choice of detectors,the proposed payload con ﬁguration and plans for its realization.</p>
+				</abstract>
+				<keywords>Chemical composition;volatile transport;high energy X-rays;Chandrayaan-1;thorium distribution on Moon.</keywords>
+				<authors>
+					<author>
+						<name first="J. N." last="Goswami">J. N. Goswami</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email>goswami@prl.ernet.in</email>
+					</author>
+					<author>
+						<name first="D." last="Banerjee">D. Banerjee</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="N." last="Bhandari">N. Bhandari</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Shanmugam">M. Shanmugam</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="Y. B." last="Acharya">Y. B. Acharya</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. V." last="Subhedar">D. V. Subhedar</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. R." last="Sharma">M. R. Sharma</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="C. N." last="Umapathy">C. N. Umapathy</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Sreekumar">P. Sreekumar</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Sudhakar">M. Sudhakar</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="L." last="Abraham">L. Abraham</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. C." last="Agrawal">P. C. Agrawal</name>
+						<affiliation>Tata Institute of Fundamental Research, Mumbai 400 005, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Imaging and power generation strategies for Chandrayaan-1</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0739-0748</page>
+				<abstract>
+					<p>The Chandrayaan-1 mission proposes to put a 550 kg lunarcraft into Geostationary Transfer Orbit (GTO)using the Polar Satellite Launch Vehicle (PSLV)which will subsequently be transferred into a 100 km circular lunar polar orbit for imaging purposes.In this paper,we describe certain aspects of mission strategies which will allow optimum power generation and imaging of the lunar surface.</p>
+					<p>The lunar orbit considered is circular and polar and therefore nearly perpendicular to the ecliptic plane.Unlike an Earth orbiting remote sensing satellite,the orbit plane of lunar orbiter is inertially ﬁxed as a consequence of the very small oblateness of the Moon.The Earth rotates around the Sun once a year,resulting in an apparent motion of Sun around this orbit in a year.Two extreme situations can be identiﬁed concerning the solar illumination of the lunar orbit,noon/midnight orbit,where the Sun vector is parallel to the spacecraft orbit plane and dawn/dusk orbit,where the Sun vector is perpendicular to the spacecraft orbit plane.This scenario directly affects the solar panel conﬁguration.In case the solar panels are not canted,during the noon/midnight orbit, 100%power is generated,whereas during the dawn/dusk orbit,zero power is generated.Hence for optimum power generation,canting of the panels is essential.Detailed analysis was carriedout to ﬁx optimum canting and also determine a strategy to maintain optimum power generation throughout the year.The analysis led to the strategy of $180^\circ $ yaw rotation at noon/midnight orbits and ﬂipping the solar panel by $180^\circ $ at dawn/dusk orbits.This also resulted in the negative pitch face of the lunarcraft to be an anti-sun panel,which is very useful for thermal design,and further to meet cooling requirements of the spectrometers.</p>
+					<p>In principle the Moon ’s surface can be imaged in 28 days,because the orbit chosen and the payload swath provide adequate overlap.However,in reality it is not possible to complete the imaging in 28 days due to various mission constraints like maximum duration of imaging allowed keeping in view the SSR sizing and payloads data input rate,time required for downlinking the payload data,data compression requirements and visibility of the lunarcraft for the Bangalore DSN. In each cycle,all the latitudes are swept.Due to the constraints mentioned,only $60^\circ $ latitude arc coverage is possible in each orbit.As Bangalore DSN is the only station,half of the orbits in a day are not available.The longitudinal gaps because of non-visibility are covered in the next cycle by Bangalore DSN.Hence,in the ﬁrst \textit {prime imaging season} only 25% of the prime imaging zones are covered,and an additional three \textit {prime imaging seasons} are required for a full coverage of the Moon in two years.Strategy is also planned to cover X-ray payload coverage considering swath and orbit shift.</p>
+				</abstract>
+				<keywords>Chandrayaan-1;lunar imaging;Moon mapping;power generation.</keywords>
+				<authors>
+					<author>
+						<name first="Ananth" last="Krishna">Ananth Krishna</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+						<email>akrishna@isac.ernet.in</email>
+					</author>
+					<author>
+						<name first="N. S." last="Gopinath">N. S. Gopinath</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. S." last="Hegde">N. S. Hegde</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. K." last="Malik">N. K. Malik</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Low energy neutral atom imaging on the Moon with the SARA instrument aboard Chandrayaan-1 mission</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0749-0760</page>
+				<abstract>
+					<p>This paper reports on the Sub-keV Atom Reﬂecting Analyzer (SARA)experiment that will be ﬂown on the ﬁrst Indian lunar mission Chandrayaan-1.The SARA is a low energy neutral atom (LENA)imaging mass spectrometer,which will perform remote sensing of the lunar surface via detection of neutral atoms in the energy range from 10 eV to 3 keV from a 100 km polar orbit.In this report we present the basic design of the SARA experiment and discuss various scientiﬁc issues that will be addressed.The SARA instrument consists of three major subsystems:a LENA sensor (CENA),a solar wind monitor (SWIM),and a digital processing unit (DPU).SARA will be used to image the solar wind –surface interaction to study primarily the surface composition and surface magnetic anomalies and associated mini-magnetospheres.Studies of lunar exosphere sources and space weathering on the Moon will also be attempted.SARA is the ﬁrst LENA imaging mass spectrometer of its kind to be ﬂown on a space mission.A replica of SARA is planned to ﬂy to Mercury onboard the BepiColombo mission.</p>
+				</abstract>
+				<keywords>Moon, Moon–solar wind interaction;lunar elemental composition;lunar magnetic anomalies;Energetic Neutral Atom (ENA);lunar mission.</keywords>
+				<authors> 
+					<author>
+						<name first="Anil" last="Bhardwaj">Anil Bhardwaj</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+						<email>anil−bhardwaj@vssc.org</email>
+					</author>
+					<author>
+						<name first="Stas" last="Barabash">Stas Barabash</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="Yoshifumi" last="Futaana">Yoshifumi Futaana</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="Yoichi" last="Kazama">Yoichi Kazama</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="Kazushi" last="Asamura">Kazushi Asamura</name>
+						<affiliation>Japan Aerospace Exploration Agency, Sagamihara, Kanagawa 229–8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="David" last="McCann">David McCann</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Sridharan">R. Sridharan</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="Mats" last="Holmstrom">Mats Holmstrom</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+						<affiliation>Currently at NASA Goddard Space Flight Center, Mail Code 612.2, Greenbelt, MD 20771, USA.</affiliation>
+					</author>
+					<author>
+						<name first="Peter" last="Wurz">Peter Wurz</name>
+						<affiliation>Physikalisches Institut, University of Bern, CH-3012 Bern, Switzerland.</affiliation>
+					</author>
+					<author>
+						<name first="Rickard" last="Lundin">Rickard Lundin</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Lunar-A mission: Outline and current status</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0763-0768</page>
+				<abstract>
+					<p>The scientiﬁc objective of the Lunar-A,Japanese Penetrator Mission,is to explore the lunar interior by seismic and heat-ﬂow experiments.Two penetrators containing two seismometers (horizontal and vertical components)and heat-ﬂow probes will be deployed from a spacecraft onto the lunar surface,one on the near-side and the other on the far-side of the moon.The data obtained by the penetrators will be transmitted to the earth station via the Lunar-A mother spacecraft orbiting at an altitude of about 200 km.</p>
+					<p>The spacecraft of a cylindrical shape,2.2 m in maximum diameter and 1.7 m in height,is designed to be spin-stabilized.The spacecraft will be inserted into an elliptic lunar orbit,after about a half- year cruise during which complex manoeuvering is made using the lunar-solar gravity assist.After lunar orbit insertion,two penetrators will be separated from the spacecraft near perilune,one by one,and will be landed on the lunar surface.</p>
+					<p>The ﬁnal impact velocity of the penetrator will be about 285 m/sec;it will encounter a shock of about 8000 G at impact on the lunar surface.According to numerous experimental impact tests using model penetrators and a lunar-regolith analog target,each penetrator is predicted to penetrate to a depth between l and 3 m,depending on the hardness and/or particle-size distribution of the lunar regolith.The penetration depth is important for ensuring the temperature stability of the instruments in the penetrator and heat ﬂow measurements.According to the results of the Apollo heat ﬂow experiment,an insulating regolith blanket of only 30 cm is sufficient to dampen out about 280 K lunar surface temperature ﬂuctuation to &mt; 3K variation.</p>
+					<p>The seismic observations are expected to provide key data on the size of the lunar core,as well as data on deep lunar mantle structure.The heat ﬂow measurements at two penetrator-landing sites will also provide important data on the thermal structure and bulk concentrations of heat- generating elements in the Moon.These data will provide much stronger geophysical constraints on the origin and evolution of the Moon than has been obtained so far.</p>
+					<p>Currently,the Lunar-A system is being reviewed and a more robust system for communication between the penetrators and spacecraft is being implemented according to the lessons learned from Beagle-2 and DS-2 failures.More impact tests for penetrators onto a lunar regolith analogue target will be undertaken before its launch.</p>
+				</abstract>
+				<keywords>Lunar-A;penetrator;lunar exploration;lunar interior;lunar seismology;heat flow.</keywords>
+				<authors>
+					<author>
+						<name first="H." last="Mizutani">H. Mizutani</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+						<email>mizutani@planeta.sci.isas.ac.jp</email>
+					</author>
+					<author>
+						<name first="A." last="Fujimura">A. Fujimura</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Tanaka">S. Tanaka</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="H." last="Shiraishi">H. Shiraishi</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="T." last="Nakjima">T. Nakjima</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>SELENE project status</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0771-0775</page>
+				<abstract>
+					<p>SELENE (Selenological and Engineering Explorer) project started as a joint mission of the former ISAS (Institute of Space and Astronautical Science) and the former NASDA (National Space Development Agency: the two organizations were merged into JAXA in 2002) of Japan in 1998. The launch target is rescheduled for 2006 due to delay of completion of launch vehicle, H-IIA. The SELENE project is now under a sustained design phase. The flight model components were manufactured, and the interface tests between the bus-system and the mission instruments were completed by the end of March 2004. The functional checks and calibration for the flight model components are being carried out at present. From the beginning of 2005, the final assembly tests will start.</p>
+				</abstract>
+				<keywords>Lunar exploration;SELENE;lunar imaging.</keywords>
+				<authors>
+					<author>
+						<name first="Konishi" last="Hisahiro">Konishi Hisahiro</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 2-1-1 Sengen, Tsukuba, Ibaraki 305-8505, Japan.</affiliation>
+						<email>konishi.hisahiro@jaxa.jp</email>
+					</author>
+					<author>
+						<name first="Manabu" last="Kato">Manabu Kato</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Susumu" last="Sasaki">Susumu Sasaki</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Yoshisada" last="Takizawa">Yoshisada Takizawa</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 2-1-1 Sengen, Tsukuba, Ibaraki 305-8505, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Hitoshi" last="Mizutani">Hitoshi Mizutani</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 2-1-1 Sengen, Tsukuba, Ibaraki 305-8505, Japan.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Japanese lunar robotics exploration by co-operation with lander and rover</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0777-0785</page>
+				<abstract>
+					<p>Unmanned mobile robots for surface exploration of the Moon or planets have been extensively  studied and developed.A lunar rover is expected to travel safely in a wide area and explore in detail. Japanese lunar robotics exploration is under study to conduct an unmanned geological survey in the vicinity of central peaks of impact craters for investigation of the sub-surface materials.This will give us the key information to study the lunar inner structure and understand the Moon ’s origin and evolution as well as to investigate the evolution of magma ocean and later igneous processes.To carry out the geological exploration in the central peak,lander and rover co-operative exploration is proposed.The working group has been conducting feasibility study of advance technologies.This paper addresses an overview of lunar exploration with lander and rover and also enumerates future technologies to be established.</p>
+					<p>The rover R&D group has developed an innovative science micro rover with a new mobility system and a lightweight manipulator.The design and implementation of a science rover for the near future lunar missions requiring long traverses and scientiﬁc observations are described and some experimental results are presented.</p>
+				</abstract>
+				<keywords>Lunar robotics exploration;central peak exploration;lander and rover co-operation;micro rover;micro manipulator.</keywords>
+				<authors>
+					<author>
+						<name first="Takashi" last="Kubota">Takashi Kubota</name>
+						<affiliation>ISAS/JAXA, 3-1-1, Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+						<email>kubota@nnl.isas.jaxa.jp</email>
+					</author>
+					<author>
+						<name first="Yasuharu" last="Kunii">Yasuharu Kunii</name>
+						<affiliation>Chuo University, 1-13-27, Kasuga, Bunkyo-ku, Tokyo 113-8551, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Yoji" last="Kuroda">Yoji Kuroda</name>
+						<affiliation>Meiji University, 1-1-1, Higashi-mita, Tama-ku, Kawasaki 214-8571, Japan.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Scientific objectives and the payloads of Chang’E-1 lunar satellite</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0789-0794</page>
+				<abstract>
+					<p>China plans to implement its ﬁrst lunar exploration mission Chang ’E-1 by 2007.The mission objectives are</p>
+					<ul>
+						<li>to obtain a three-dimensional stereo image of the lunar surface,</li>
+						<li>to determine distribution of some useful elements and to estimate their abundance,</li>
+						<li>to survey the thickness of lunar soil and to evaluate resource of $^{3}He$ and</li>
+						<li>to explore the environment between the Moon and Earth.</li>
+					</ul>
+					<p>To achieve the above mission goals,ﬁve types of scientiﬁc instruments are selected as payloads of the lunar craft.These include stereo camera and spectrometer imager,laser altimeter,microwave radiometer,gamma and X-ray spectrometers and space environment monitor system.In order to collect,process,store and transmit the scientiﬁc data of various payloads a special payload data management system is also included.In this paper the goals of Chang ’E-1 and its payloads are described.</p>
+				</abstract>
+				<keywords>Chang’E-1;lunar exploration;microwave radiometer;X-ray spectrometry;gamma-ray spectrometry.</keywords>
+				<authors>
+					<author>
+						<name first="Sun" last="Huixian">Sun Huixian</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+						<email>shxian@nc.poac.ac.cn</email>
+					</author>
+					<author>
+						<name first="Dai" last="Shuwu">Dai Shuwu</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+					</author>
+					<author>
+						<name first="Yang" last="Jianfeng">Yang Jianfeng</name>
+						<affiliation>Xi’an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences (CAS), Xi’an 710 068, China.</affiliation>
+					</author>
+					<author>
+						<name first="Wu" last="Ji">Wu Ji</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+					</author>
+					<author>
+						<name first="Jiang" last="Jingshan">Jiang Jingshan</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Space operation system for Chang’E program and its capability evaluation</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0795-0799</page>
+				<abstract>
+					<p>Space operation for China ’s ﬁrst lunar exploration program,Chang ’E will be provided by the S-band aerospace Telemetry,Tracking and Command (TT&C)network designed for China ’s manned space program.This is undoubtedly a great challenge to the ground TT&C system.The largest antennas of China ’s S-band aerospace TT&C network has an aperture of only 12 m.A series of technical measures have been taken into the designing of the spacecraft-ground TT&C system to ensure that such antennas can communicate with Chang ’E-1 lunar probe 400,000 km away.These include installation of high-gain directional antennae and medium-gain omni-directional antennae for the probe,adding channel encoding to the downlink channel,using both high and low data rates for information transmission and upgrade and design of ground equipment terminals.Among them,the omni-directional antenna will operate in the earth-ground transfer orbit phase and the directional antenna will operate in the lunar orbit phase.These measures satisfy the spacecraft- ground link and program design requirements.</p>
+					<p>To provide accurate navigation for the probe during its Earth –Moon ﬂight and initial lunar orbiting ﬂight,China ’s VLBI system designed for astronomical observations,will also be used besides the ranging and range rate measurement capabilities of the S-band TT&C network.The purpose is to provide 100 m accuracy in position determination during lunar orbit.This paper describes the system design,technical challenges,solutions and capability evaluation of space operation for Chang ’E-1.</p>
+				</abstract>
+				<keywords>Chang’E program;lunar exploration;space operations;TT&C design.</keywords>
+				<authors>
+					<author>
+						<name first="Yu" last="Zhi-jian">Yu Zhi-jian</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+					<author>
+						<name first="Lu" last="Li-chang">Lu Li-chang</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+					<author>
+						<name first="Liu" last="Yung-chun">Liu Yung-chun</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+					<author>
+						<name first="Dong" last="Guang-liang">Dong Guang-liang</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Luna-Glob project in the context of the past and present lunar exploration in Russia</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0801-0806</page>
+				<abstract>
+					<p>The Russian Luna-Glob project has been conceived with a view to understand the origin of the Earth –Moon system.The objectives and main features of the Luna-Glob mission,which will mainly study the internal structure of the Moon by seismic instruments,are described in the context of the past and current program of lunar exploration in Russia.</p>
+				</abstract>
+				<keywords>Luna-Glob mission;lunar core;penetrators;seismology.</keywords>
+				<authors>
+					<author>
+						<name first="E. M." last="Galimov">E. M. Galimov</name>
+						<affiliation>V.I. Vernadsky Institute of Geochemistry and Analytical Chemistry, Russian Academy of Sciences, Kosygin Str., 19, Moscow 119 991, Russia.</affiliation>
+						<email>galimov@geokhi.ru</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Analysis of optimal strategies for soft landing on the Moon from lunar parking orbits</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0807-0813</page>
+				<abstract>
+					<p>Optimal trajectory design of a probe for soft landing on the Moon from a lunar parking orbit by minimizing the fuel required is obtained.The problem is formulated as an optimal control problem with the thrust direction being the control variable.Using the maximum principle of Pontryagin, the control variable is expressed as a function of co-state variables and the problem is converted into a two-point boundary value problem.The two-point boundary value problem is solved using an optimization technique,i.e.,controlled random search.The strategies such as</p>
+					<ul>
+						<li>direct landing from a lunar parking orbit using powered braking </li>
+						<li>direct landing from an intermediate orbit using powered braking</li>
+						<li>by executing powered braking in two phases:through horizontal braking and vertical landing are analyzed and an optimal strategy that achieves the goals is suggested.Also,appropriate design parameters are selected using this analysis.</li>
+					</ul>
+				</abstract>
+				<keywords>Lunar parking orbit;soft landing;Pontryagin’s maximum principle;two-point boundary value problem;controlled random search.</keywords>
+				<authors>
+					<author>
+						<name first="R. V." last="Ramanan">R. V. Ramanan</name>
+						<affiliation>Aerospace Flight Dynamics Group, Vikram Sarabhai Space Centre, Thiruvananthapuram 695 022, India.</affiliation>
+						<email>rv_ramanan@vssc.org</email>
+					</author>
+					<author>
+						<name first="Madan" last="Lal">Madan Lal</name>
+						<affiliation>Aerospace Flight Dynamics Group, Vikram Sarabhai Space Centre, Thiruvananthapuram 695 022, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Telerobotic exploration and development of the Moon</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0815-0822</page>
+				<abstract>
+					<p>There has been a debate for the last thirty years about the relative merits of human versus robotic systems and we argue here that both are essential components for successful lunar exploration and development.We examine the role of robots in the next phases of exploration and human development of the Moon.The historical use of robots and humans in exploration is discussed,including Apollo-era exploration,International Space Station,and deep-water petroleum exploration.The technological challenges of lunar operations are addressed in the context of how robotic systems can be designed for robust and ﬂexible operations.System design recommendations are given based on the lessons learned from terrestrial and space robotics.</p>
+				</abstract>
+				<keywords>Telerobotics;lunar exploration development.</keywords>
+				<authors>
+					<author>
+						<name first="B. L." last="Cooper">B. L. Cooper</name>
+						<affiliation>Oceaneering Space Systems, Houston, Texas, USA.</affiliation>
+						<email>bcooper138@houston.rr.com</email>
+					</author>
+					<author>
+						<name first="B." last="Sharpe">B. Sharpe</name>
+						<affiliation>Independent Lunar Development Planner, St. Louis, MO, USA.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Schrunk">D. Schrunk</name>
+						<affiliation>Quality of Laws Institute, Poway, CA, USA.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Thangavelu">M. Thangavelu</name>
+						<affiliation>Space Exploration Architectures Concept Synthesis Studio, Division of Astronautics and Space Technology and School of Architecture, University of Southern California, USA.</affiliation>
+					</author>
+				</authors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="115">
+		<issue inum="01" month="02" year="2006">
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0001-0002</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="J. S." last="Ray">J. S. Ray</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C." last="Chakraborty">C. Chakraborty</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Proterozoic intracontinental basin: The Vindhyan example</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0003-0022</page>
+				<abstract>
+					<p>The Vindhyan basin is a classic example of Proterozoic intracontinental basin that developed in the central part of the Indian shield along with several other basins such as Cuddapah,Chattisgarh,etc.The strata are exposed in three major sectors:Son valley,Bundelkhand and Rajasthan. Substantially thick Vindhyan rocks have also been recognized under the Gangetic alluvium.The constituent stratigraphic units of the Vindhyan Supergroup are laterally correlatable and vertically stacked in similar fashion in individual sectors,but their stratigraphic and sedimentologic attributes vary from one sector to the other.The basin ﬁll in the Son valley (around 3 km thick) exhibits an asymmetric cross-sectional geometry normal to the regional strike (ENE –WSW),with the thickest part occurring to the south,and is divisible into four groups:Semri,Kaimur,Rewa and Bhander,from bottom to top.The boundary between the Semri and Kaimur Groups is marked by a pronounced unconformity.The dominant lithologies include conglomerate,sandstone,shale, limestone as well as volcaniclastics.The Vindhyan strata de ﬁne a broad,regional syncline trending ENE –WSW.The axis of the syncline is slightly curved (convex towards north)and plunges gently towards west.The average dip of the southern limb is greater than that of the northern limb rendering the axial plane to dip southerly.</p>
+					<p>The Vindhyan succession can be divided into ﬁve major sequences separated by unconformities. The unconformities are manifested in the ﬁeld by angular discordances and/or long-term subaerial exposure features.Unconformity surfaces are disposed in the succession de ﬁning what is known as progressive unconformity,indicating contemporaneous tectonic activity during sedimentation. Individual sequences comprise of a spectrum of depositional systems that include alluvial fan, fan delta,braidplain,braidplain delta,eolian sandsheet,siliciclastic/carbonate tidal ﬂat,siliciclas- tic/carbonate shoreface,siliciclastic/carbonate shelf.The paleocurrents revealed by the Vindhyan strata are typically northerly suggesting that the evolving Satpura orogen served as the source for the Vindhyan sediments.However,the source for the clastics occurring within the Semri and the lower parts of the Kaimur and Rewa Groups in the Bundelkhand sector was perhaps the Bundelkhand Granite Gneiss,Bijawar and Gwalior Group of rocks as manifested by the southerly paleocurrent.</p>
+					<p>The sequences of the Vindhyan succession are composed of several systems tracts.The different paleogeographic settings characterizing the systems tracts within individual sequences are as follows:</p>
+					<p>Sequence 1:</p>
+					<ul>
+						<li>TST – alluvial fan–fan delta–shelf (Deoland and Arangi Formations)</li>
+						<li>HST – carbonate ramp (Kajrahat Formation)</li>
+					</ul>
+					<p>Sequence 2:</p>
+					<ul>
+						<li>TST – shelf (Deonar Formation)</li>
+						<li>FSST to TST – braid/fan delta–shelf (Koldaha Formation)</li>
+						<li>HST – tidal flat–shoreface–shelf (Chorhat and Koldaha Formations)</li>
+						<li>TST – shelf (Rampur Formation)</li>
+						<li>TST – carbonate ramp (Rohtas Formation)</li>
+					</ul>
+					<p>Sequence 3:</p>
+					<ul>
+						<li>TST – shoreface–shelf (Sasaram Formation)</li>
+						<li>FSST – shoreface (Ghaghar Formation)</li>
+						<li>TST – shelf (Bijaygarh Formation)</li>
+						<li>HST – braidplain–braid delta–shelf (Mageswar and Dhandraul Formations)</li>
+					</ul>
+					<p>Sequence 4:</p>
+					<ul>
+						<li>TST – shelf (Panna Formation)</li>
+						<li>FSST to TST – shoreface (Assan and Jhri Formations)</li>
+						<li>HST – braidplain–braid delta–shelf (Jhiri, Drammondgunj and Govindgarh Formations)</li>
+					</ul>
+					<p>Sequence 5:</p>
+					<ul>
+						<li>TST – tidal flat (Ganurgarh Formation)</li>
+						<li>HST – carbonate platform (Bhander Formartion)</li>
+						<li>TST – tidal flat to coastal lagoon (Bundihill and Sirbu Formations)</li>
+						<li>FSST – tidal flat–braidplain–eolian (Shikhaoda Formation)</li>
+					</ul>
+				</abstract>
+				<keywords>Intracratonic basin;Proterozoic;depositional environments;sedimentation;sequence stratigraphy.</keywords>
+				<authors>
+					<author>
+						<name first="Chandan" last="Chakraborty">Chandan Chakraborty</name>
+						<affiliation>Geological Studies Unit, Indian Statistical Institute, 203 B.T. Road, Kolkata 700 108, India.</affiliation>
+						<email>chandan@isical.ac.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Outcrop signatures of relative sea level fall on a siliciclastic shelf: Examples from Rewa Group of Proterozoic Vindhyan basin</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0023-0036</page>
+				<abstract>
+					<p>The Rewa Group of the Vindhyan Supergroup in the Son valley begins with a thick ($\sim 200m$) dominantly shaly,shelfal succession,occurring between the Dhandraul Formation of the Kaimur Group (ﬂuvial sandstone)below and Drammondganj Formation of the Rewa Group (marginal marine sandstone)above.Such a stratigraphic disposition indicates a sharp rise in relative sea level at the onset of Rewa sedimentation,inducing a shelfal depth to the Vindhyan basin.However,a number of wedge-shaped,sandstone/conglomerate bodies (maximum thickness 23.5 m)occur at multiple stratigraphic levels within the aforesaid deeper water shale succession,which appear to be of much shallow water origin representing regressive deposits.Though these bodies do not deﬁne a single physically continuous unit,either vertically or laterally,they are still designated by a single term ‘Asan Sandstone ’in the literature.On the other hand,the encasing shelfal shales are termed as Panna and Jhiri Shales,in accordance with their occurrence below or above the so-called ‘Asan Sandstone ’.The present study reveals that in different sections spread over the Son valley,there are several discrete regressive wedges occurring vertically,and their depositional environment is also variable,ranging between braided ﬂuvial,shoreface fan and braid delta.The  features common to most of the regressive coarser clastic bodies are:</p>
+					<ul>
+						<li>invariable presence of deeper water,shelfal shale below (Panna or Jhiri);</li>
+						<li>the underlying shale at places shows signatures of emergence at the top;</li>
+						<li>laterally impersistent,wedge-like geometry;and</li>
+						<li>presence of granular transgressive lags at the top.These coarser clastic wedges record several episodes of regressive deposition during short-term falling stage or lowstand of relative sea level at the early phase of Rewa sedimentation.Each individual phase of regressive deposition was, however,followed by ﬂooding and resumption of shelf mud deposition.</li>
+					</ul>
+				</abstract>
+				<keywords>Neoproterozoic;Rewa Group;paleoenvironment;sea level;regression.</keywords>
+				<authors>
+					<author>
+						<name first="Partha Pratim" last="Chakraborty">Partha Pratim Chakraborty</name>
+						<affiliation>Department of Applied Geology, Indian School of Mines, Dhanbad 826 004, India.</affiliation>
+						<email>partha−geology@yahoo.co.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Stratigraphy, sedimentology and bulk organic geochemistry of black shales from the Proterozoic Vindhyan Supergroup (central India)</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0037-0047</page>
+				<abstract>
+					<p>Four organic-rich shale units of the Proterozoic Vindhyan sedimentary succession have been scanned to reveal their origin and hydrocarbon potential.The wavy-crinkly nature of the carbonaceous laminae is suggestive of a microbial mat origin of the shales.These shales are thus different from Phanerozoic black shales which typically exhibit planar laminae.The hydrocarbon potential of the black shale units has been evaluated by Rock-Eval pyrolysis.Total organic carbon content of many of the shales exceeds 1%.The mean \textit {T}_max for the black shales translate to a vitrinite re ﬂectance range of 2.05 –2.40%Rm based on standard conversion techniques.These shales have reached the catagenetic stage near the beginning of anthracite formation.</p>
+				</abstract>
+				<keywords>Proterozoic;black shales;microbial mat;kerogen;maturation;catagenesis.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Banerjee">S. Banerjee</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email>santanu@iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="S." last="Dutta">S. Dutta</name>
+						<affiliation>Forschungszentrum J¨ulich, Institut f¨ur Chemie und Dynamik der Geosph¨are, Sediment¨are Systeme, D-52425 J¨ulich, Germany.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Paikaray">S. Paikaray</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="U." last="Mann">U. Mann</name>
+						<affiliation>Forschungszentrum J¨ulich, Institut f¨ur Chemie und Dynamik der Geosph¨are, Sediment¨are Systeme, D-52425 J¨ulich, Germany.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Microbial mat-induced sedimentary structures in siliciclastic sediments: Examples from the 1.6 Ga Chorhat Sandstone, Vindhyan Supergroup, M.P., India</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0049-0060</page>
+				<abstract>
+					<p>This paper addresses macroscopic signatures of microbial mat-related structures within the 1.6 Ga-old Chorhat Sandstone of the Semri Group –the basal stratigraphic unit of the Vindhyan succession in Son valley.The Chorhat Sandstone broadly represents a prograding succession of three depositional facies ranging from shallow shelf to coastal margin with aeolian sandsheet.The mat-mediated structures were generated because of plastic or brittle deformation of sand,turned cohesive and even thixotropic because of microbial mat growth.Mat growth also favoured abundant preservation of structures that usually have low preservation potential.</p>
+					<p>Proliﬁc growth of microbial mat in the subtidal to intertidal zone of the Chorhat sea was facilitated due to lack of grazing and burrowing activities of organisms in the Precambrian.It further indicates low rate of sedimentation between the storms,as also attested by frequent superposition of storm-beds,even near the storm wave base.It also reduces erosion and that,in turn,would imply low sediment concentration in ﬂows leading to development of bedforms that are likely to be smaller in size and isolated from each other in a single train in contrast to those that form in mat-free sands.</p>
+				</abstract>
+				<keywords>Microbial mat;Proterozoic;siliciclastics;mat-induced structures;1.6 Ga-old Chorhat Sandstone.</keywords>
+				<authors>
+					<author>
+						<name first="Subir" last="Sarkar">Subir Sarkar</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+						<email>ssarkar@geology.jdvu.ac.in</email>
+					</author>
+					<author>
+						<name first="Santanu" last="Banerjee">Santanu Banerjee</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="Pradip" last="Samanta">Pradip Samanta</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+					</author>
+					<author>
+						<name first="Silambuchelvan" last="Jeevankumar">Silambuchelvan Jeevankumar</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page>000-000</page>
@@ -7117,7 +7714,87 @@
 						<email></email>
 					</author>
 				</authors>
-			</entry>		
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
