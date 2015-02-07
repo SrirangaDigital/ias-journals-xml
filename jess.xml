@@ -8159,9 +8159,339 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Simulation of a Himalayan cloudburst event</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0299-0313</page>
+				<abstract>
+					<p>Intense rainfall often leads to ﬂoods and landslides in the Himalayan region even with rainfall amounts that are considered comparatively moderate over the plains;for example,‘cloudbursts ’, which are devastating convective phenomena producing sudden high-intensity rainfall ($\sim 10 cm$ per hour)over a small area.Early prediction and warning of such severe local weather systems is crucial to mitigate societal impact arising from the accompanying ﬂash ﬂoods.We examine a cloudburst event in the Himalayan region at Shillagarh village in the early hours of 16 July 2003.The storm lasted for less than half an hour, followed by ﬂash ﬂoods that affected hundreds of people.We examine the ﬁdelity of MM5 con ﬁgured with multiple-nested domains (81,27,9 and 3 km grid-resolution)for predicting a cloudburst event with attention to horizontal resolution and the cloud microphysics parameterization.The MM5 model predicts the rainfall amount 24 hours in advance. However,the location of the cloudburst is displaced by tens of kilometers.</p>
+				</abstract>
+				<keywords>Cloudburst;flash floods;mesoscale;tropical rainfall measuring mission.</keywords>
+				<authors>
+					<author>
+						<name first="Someshwar" last="Das">Someshwar Das</name>
+						<affiliation>National Center for Medium Range Weather Forecasting, Noida 201 307, India.</affiliation>
+						<email>somesh@ncmrwf.gov.in</email>
+					</author>
+					<author>
+						<name first="Raghavendra" last="Ashrit">Raghavendra Ashrit</name>
+						<affiliation>National Center for Medium Range Weather Forecasting, Noida 201 307, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. W." last="Moncrieff">M. W. Moncrieff</name>
+						<affiliation>National Center for Atmospheric Research, Boulder CO 80301, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-16</date>
+					<date type="R">2005-11-16</date>
+					<date type="A">2006-01-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Operational mesoscale atmospheric dispersion prediction using a parallel computing cluster</title>
+				<feature></feature>
+				<page>0315-0332</page>
+				<abstract>
+					<p>An operational atmospheric dispersion prediction system is implemented on a cluster supercomputer for Online Emergency Response at the Kalpakkam nuclear site.This numerical system constitutes a parallel version of a nested grid meso-scale meteorological model MM5 coupled to a random walk particle dispersion model FLEXPART.The system provides 48-hour forecast of the local weather and radioactive plume dispersion due to hypothetical airborne releases in a range of 100 km around the site.The parallel code was implemented on different cluster con ﬁgurations like distributed and shared memory systems.A 16-node dual Xeon distributed memory gigabit ethernet cluster has been found sufficient for operational applications.The runtime of a triple nested domain MM5 is about 4 h for a 24 h forecast.The system had been operated continuously for a few months and results were ported on the IMSc home page.</p>
+					<p>Initial and periodic boundary condition data for MM5 are provided by NCMRWF,New Delhi. An alternative source is found to be NCEP,USA.These two sources provide the input data to the operational models at different spatial and temporal resolutions using different assimilation methods.A comparative study on the results of forecast is presented using these two data sources for present operational use.Improvement is noticed in rainfall forecasts that used NCEP data, probably because of its high spatial and temporal resolution.</p>
+				</abstract>
+				<keywords>Operational mesoscale dispersion model;cluster computer;MM5;RSL;FLIC.</keywords>
+				<authors>
+					<author>
+						<name first="C. V." last="Srinivas">C. V. Srinivas</name>
+						<affiliation>Radiological Safety Division, SE Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+						<email>cvsri@igcar.ernet.in</email>
+					</author>
+					<author>
+						<name first="R." last="Venkatesan">R. Venkatesan</name>
+						<affiliation>Radiological Safety Division, SE Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. V." last="Muralidharan">N. V. Muralidharan</name>
+						<affiliation>Radiological Safety Division, SE Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+					</author>
+					<author>
+						<name first="Someshwar" last="Das">Someshwar Das</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="Hari" last="Dass">Hari Dass</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. Eswara" last="Kumar">P. Eswara Kumar</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-10</date>
+					<date type="R">2005-09-29</date>
+					<date type="A">2005-11-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Retrieval of stratospheric $O_{3}$ and $NO_{2}$ vertical profiles using zenith scattered light observations</title>
+				<feature></feature>
+				<page>0333-0347</page>
+				<abstract>
+					<p>Daily zenith scattered light intensity observations were carried out in the morning twilight hours using home-made UV-visible spectrometer over the tropical station Pune ($18^\circ 31^{,}, 73^\circ 51^{,}$ )for the years 2000--2003.These observations are obtained in the spectral range 462--498 nm for the solar zenith angles (SZAs)varying from $87^\circ to 91.5^\circ $.An algorithm has been developed to retrieve vertical proﬁles of ozone ($O_3$) and nitrogen dioxide ($NO_2$) from ground-based measurements using the Chahine iteration method.This retrieval method has been checked using measured and recalculated slant column densities (SCDs)and they are found to be well matching. $O_3$ and $NO_2$ vertical proﬁles have been retrieved using a set of their air mass factors (AMFs)and SCDs measured over a range of $87--91.5^\circ $ SZA during the morning.The vertical proﬁles obtained by this method are compared with Umkehr proﬁles and ozonesondes and they are found to be in good agreement.The bulk of the column density is found near layer 20--25 km.Daily total column densities (TCDs)of $O_3$ and $NO_2$ along with their stratospheric and tropospheric counterparts are derived using their vertical proﬁles for the period 2000--2003.The total column,stratospheric column and tropospheric column amounts of both trace gases are found to be maximum in summer and minimum in the winter season.Increasing trend is found in column density of $NO_2$ in stratospheric,tropospheric and surface layers,but no trend is observed in $O_3$ columns for above layers during the period 2000--2003.</p>
+				</abstract>
+				<keywords>Ozone;nitrogen dioxide;vertical profile;total column density;air mass factor;solar zenith angle.</keywords>
+				<authors>
+					<author>
+						<name first="G. S." last="Meena">G. S. Meena</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pashan, Pune 411 008, India.</affiliation>
+						<email>gsm@tropmet.res.in</email>
+					</author>
+					<author>
+						<name first="C. S." last="Bhosale">C. S. Bhosale</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pashan, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. B." last="Jadhav">D. B. Jadhav</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pashan, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-04-12</date>
+					<date type="R">2005-10-05</date>
+					<date type="A">2005-11-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Global surface temperature in relation to northeast monsoon rainfall over Tamil Nadu</title>
+				<feature></feature>
+				<page>0349-0362</page>
+				<abstract>
+					<p>The local and teleconnective association between Northeast Monsoon Rainfall (NEMR)over Tamil Nadu and global Surface Temperature Anomalies (STA)is examined using the monthly grid-ded STA data for the period 1901--2004.Various geographical regions which have signiﬁcant tele-connective signals associated with NEMR are identi ﬁed.During excess (deﬁcient)NEMR years,it is observed that the meridional gradient in surface air temperature anomalies between Europe and north Africa,in the month of September is directed from the subtropics (higher latitudes)to higher latitudes (subtropics).It is also observed that North Atlantic Oscillation (NAO)during September in ﬂuences the surface air temperature distribution over north Africa and Europe.Also,the NAO index in January shows signiﬁcant inverse relationship with NEMR since recent times.The central and eastern equatorial Paciﬁc oceanic regions have signi ﬁcant and consistent positive correlation with NEMR while the western equatorial region has signiﬁcant negative correlation with NEMR. A zonal temperature anomaly gradient index (ZTAGI)de ﬁned between eastern equatorial Paciﬁc and western equatorial Paciﬁc shows stable signiﬁcant inverse relationship with NEMR.</p>
+				</abstract>
+				<keywords>Global surface temperature anomaly;northeast monsoon rainfall;teleconnection;north Atlantic oscillation.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Balachandran">S. Balachandran</name>
+						<affiliation>Regional Meteorological Centre, 50(New 6) College Road, Chennai 600 006, India.</affiliation>
+						<email>balaimd@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="R." last="Asokan">R. Asokan</name>
+						<affiliation>Regional Meteorological Centre, 50(New 6) College Road, Chennai 600 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Sridharan">S. Sridharan</name>
+						<affiliation>Regional Meteorological Centre, 50(New 6) College Road, Chennai 600 006, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-27</date>
+					<date type="R">2005-12-23</date>
+					<date type="A">2006-01-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Amino sugars in suspended particulate matter from the Bay of Bengal during the summer monsoon of 2001</title>
+				<feature></feature>
+				<page>0363-0370</page>
+				<abstract>
+					<p>Amino sugars (AS)are important constituents of organic matter.However,very little is known about their cycling in marine waters.In this research,we assessed the distribution and cycling of these compounds in waters of the Bay of Bengal.For this purpose,samples of suspended particulate matter (SPM)were collected from 8 depths (surface to 1000 m)at 6 locations during the 166th cruise of the ORV Sagar Kanya in the Bay of Bengal in July/August 2001.The SPM samples were analysed for particulate organic carbon (POC),particulate nitrogen (PN)and AS concentrations and composition.The AS varied between 0.4 and 17.5 nmol/l.Concentrations were high in the surface waters and generally decreased with increasing depth.AS concentration decreased from the south to north.AS accounted for 0.01 to 0.71%and 0.05 to 2.37%of POC and PN,respectively. Rapid decrease in AS-C%and AS-N%with depth indicates that these compounds were preferentially degraded relative to bulk POC and PN.The composition of AS suggests that glucosamine (GLU-N)and galactosamine (GAL-N)were present in the surface SPM samples,and their abundance decreased from surface downwards.Relatively,low values of GLU-N/GAL-N ratio indicate that the organic matter was mostly derived from the detritus of micro-organisms.Our data suggest that chitin,a polymer of the glucosamine produced by many marine organisms was not the major source of AS in the Bay.Rapid cycling of these compounds indicates their importance in the cycling of nitrogen in marine waters.</p>
+				</abstract>
+				<keywords>Suspended particulate matter;organic matter;particulate nitrogen;amino sugars;micro-organisms;Bay of Bengal.</keywords>
+				<authors>
+					<author>
+						<name first="Loreta" last="Fernandes">Loreta Fernandes</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="Fraddry" last="D’Souza">Fraddry D’Souza</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. G. P." last="Matondkar">S. G. P. Matondkar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="Narayan B." last="Bhosle">Narayan B. Bhosle</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>bhosle@nio.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-07</date>
+					<date type="R">2005-11-02</date>
+					<date type="A">2005-11-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Seaweed floristic studies along tsunami affected Indian coasts: A litmus test scenario after 26th December 2004</title>
+				<feature></feature>
+				<page>0371-0378</page>
+				<abstract>
+					<p>On 26th December 2004,the world witnessed the devastating power of tsunami, affecting many countries,bordering the Indian Ocean region.This has caused signiﬁcant changes in the shallow and intertidal regions of the Indian coast,especially the Andaman and Nicobar Islands,Tamil Nadu, Kerala and Pondicherry.The baseline data on biomass availability and distribution of benthic intertidal seaweed species were collected immediately after this catastrophic event by spot surveying 11 selected localities of the above-mentioned regions.In all,45 species belonging to 31 genera were recorded during the present survey,the maximum number of seaweed species were recorded at Thirumullavarum,Kerala with the minimum at Car Nicobar,Andaman and Nicobar Islands. A very different trend was observed in the case of biomass availability at some locations which was due to the inﬂuence of habitat suitability over the tsunami damage.The details of this study have been provided in the present communication.</p>
+				</abstract>
+				<keywords>Seaweeds;tsunami;species diversity;similarity index.</keywords>
+				<authors>
+					<author>
+						<name first="Vaibhav A." last="Mantri">Vaibhav A. Mantri</name>
+						<affiliation>Central Salt & Marine Chemicals Research Institute, Bhavnagar 364 002, Gujarat, India.</affiliation>
+						<email>vaibhav@csmcri.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-11-10</date>
+					<date type="R">2006-01-23</date>
+					<date type="A">2006-01-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Climate induced changes in the circulation and dispersal patterns of the fluvial sources during late Quaternary in the middle Bengal Fan</title>
+				<feature></feature>
+				<page>0379-0386</page>
+				<abstract>
+					<p>From a transact along $15^\circ $N latitude in the middle Bengal Fan,temporal and spatial variations in the granulometric parameters and clay minerals in $^{14}C$ dated box cores from the eastern,the central and the western regions were studied to determine climate induced changes in the hydrography. Clay assemblages have spatial and temporal changes and are markedly different in the eastern and the western bay.From a high abundance of the clay smectite,which has its major source in the Deccan Basalt in peninsular India,it is inferred that the western bay is predominantly a depocenter of ‘peninsular sources ’.The eastern and the central regions of the bay,however, mostly receive sediments of the ‘Himalayan source ’.Related to unstable climate,the reported dominant illite –chlorite (I +C)assemblage in the eastern region of the bay (I +C &lt; 60%smectite &mt; 15%),between 18 and 12.6 ka BP,points to a predominant supply from the Himalayan sources through equatorwards dispersal by the winter hydrography.Higher smectite,and reduced clays of the Himalayan sources (smectite $lt; 25%;I +C &lt; 45%)are reported also after 12.5 ka BP from the eastern bay.These are interpreted as evidences of an intensiﬁed SW monsoon and associated change in the dispersal pattern by stronger summer monsoon hydrography which supports across bay dispersal by anticyclonic gyre.The inﬂuence of climate on hydrographic changes is consistent during the short events of arid climate (weak NE monsoon)in Holocene in core 31/1(western bay), in which the enhanced contents of the clays of the Himalayan sources are observed (smectite $mt; 40% I +C &lt; 50%).These ﬁndings have implications for climate regulated in ﬂuence of ﬂuvial processes over the areas,hitherto,considered unaffected by the Indian peninsular ﬂuvial sources.</p>
+				</abstract>
+				<keywords>Himalayan sources;Bengal Fan;hydrography;dispersal patterns;clay minerals.</keywords>
+				<authors>
+					<author>
+						<name first="Onkar S." last="Chauhan">Onkar S. Chauhan</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>onkar@nio.org</email>
+					</author>
+					<author>
+						<name first="E." last="Vogelsang">E. Vogelsang</name>
+						<affiliation>Institut f$\ddot{u} r$ Geowissenschaften, Universit$\ddot{a} t$ Kiel, Olshausenstrasse 40, D - 24118 Kiel, Germany.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-10-01</date>
+					<date type="R">2005-12-31</date>
+					<date type="A">2005-12-31</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="08" year="2006">
+			<entry hassup="0">
+				<title>Structure of Charnockitic basement in a part of the Krishna–Godavari basin, Andhra Pradesh</title>
+				<feature></feature>
+				<page>0387-0393</page>
+				<abstract>
+					<p>A regional magnetic survey was carried out over an area of $8000 km^2$ in Godavari districts of Andhra Pradesh,India,which is covered by the rocks of Eastern Ghat Mobile Belt (EGMB) \textit {viz.,} the Khondalitic series and Charnockites in the northern half and Permian to Mesozoic and Cenozoic sediments in the southern half,and forms a part of the Krishna –Godavari (K –G)basin. The survey brought out a strong NE –SW trending anomaly in the area covered by the rocks of Eastern Ghat Mobile Belt (EGMB),and a mild ENE –WSW trending anomaly in the area covered by the sediments of the Krishna –Godavari (K –G)basin.The NE –SW trending anomaly in the northern half could be attributed to the exposed/near surface Charnockite basement that has come closer to the surface as a result of Eastern Ghat Mobile Belt  (EGMB)tectonics.Explanation of  the mild ENE –WSW trending anomaly over the sediments of the Krishna –Godavari (K –G)basin required a faulted magnetic basement at depth downthrown towards the south.It is therefore concluded that the Charnockitic basement together with the Khondalite group of rocks which are folded and faulted during the different phases of tectonics of Eastern Ghat Mobile Belt (EGMB) extend into the Krishna –Godavari (K –G)basin and further,were involved in faulting during the phases of formation and sedimentation in the Krishna –Godavari (K –G)basin.</p>
+				</abstract>
+				<keywords>Eastern Ghat Mobile Belt;magnetic survey;magnetic basement;tectonics.</keywords>
+				<authors>
+					<author>
+						<name first="I. V. Radhakrishna" last="Murthy">I. V. Radhakrishna Murthy</name>
+						<affiliation>Department of Geophysics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+						<email>ivr_murthy@yahoo.com</email>
+					</author>
+					<author>
+						<name first="S. Bangaru" last="Babu">S. Bangaru Babu</name>
+						<affiliation>Department of Geophysics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-10-17</date>
+					<date type="R">2006-02-01</date>
+					<date type="A">2006-02-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geomorphic expression of late Quaternary sea level changes along the southern Saurashtra coast, western India</title>
+				<feature></feature>
+				<page>0395-0402</page>
+				<abstract>
+					<p>Geomorphic expression of land--sea interaction is preserved in the form of abandoned cliffs, marine terraces,shore platforms and marine notches along the southern Saurashtra coast. These features have been used to ascertain the magnitude of sea level changes during late Quaternary.Notch morphology and associated biological encrustation have been used to estimate the magnitude and duration of palaeo-sea strands.Marine notches and other erosive features occurring between 12 and 15 m above the present Biological Mean Sea Level (BMSL) are attributed to the last interglacial corresponding to the Marine Isotopic Stage 5 (MIS-5). However,6 to 9 m upliftment of the coastal fringe is attributed to this sea level.The second major high sea strand was identiﬁed during the mid-Holocene when the sea rose 2 m above the present level.Notches corresponding to this high sea level are recorded 4 to 5 m above the present BMSL.</p>
+				</abstract>
+				<keywords>Quaternary sea level;coastal geomorphology;marine notches;Gujarat.</keywords>
+				<authors>
+					<author>
+						<name first="Nilesh" last="Bhatt">Nilesh Bhatt</name>
+						<affiliation>Department of Geology, Faculty of Science, M. S. University of Baroda, Vadodara 390 002, India.</affiliation>
+						<email>nilesh_geol@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Uday" last="Bhonde">Uday Bhonde</name>
+						<affiliation>Department of Geology, Faculty of Science, M. S. University of Baroda, Vadodara 390 002, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-11-14</date>
+					<date type="R">2006-02-20</date>
+					<date type="A">2006-02-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamics of transparent exopolymeric particles (TEP) and particle-associated carbohydrates in the Dona Paula bay, west coast of India</title>
+				<feature></feature>
+				<page>0403-0413</page>
+				<abstract>
+					<p>Surface seawater samples were collected over a period of 27 months at a shallow water station in Dona Paula bay from 1998--2000.The samples were analyzed to assess the seasonal variations, inter-annual variability and the contributions of:</p>
+					<ul>
+						<li>transparent exopolymeric particles (TEP)concentration,</li>
+						<li>two forms of particle-associated carbohydrates –1.5 M NaCl/saline extracted (Sal-PCHO) and 10 mM EDTA-extracted (CPCHO)and</li>
+						<li>total bacterial abundance (TBA)to particulate organic carbon pool.</li>
+					</ul>
+					<p>A distinct inter-annual variability was observed with an increase in the bacterial abundance,chlorophyll \textit {a} (Chl \textit {a} ,TEP and Sal-PCHO and their greater contribution to particulate organic carbon during May 1998--1999 than in June 1999--July 2000.Overall,there was no statistically signiﬁcant correlation of TEP with phytoplankton biomass (Chl \textit {a} ,Sal-PCHO,CPCHO and hydrodynamic conditions.A weak inverse correlation was observed between TEP and TBA (\textit {r} = −0.397; \textit {p} &mt; 0.05) but the role of TEP as a C-source for bacteria was not evident.Both Sal-PCHO and CPCHO appeared to be two distinct forms of carbohydrates.Unlike CPCHO,Sal-PCHO concentrations showed a positive trend with Chl \textit {a} and signiﬁcant linear correlation with bacterial abundance (\textit {r} =0.44, \textit {p} &mt; 0.007, \textit {n}= 48),indicating that Sal-PCHO as carbon source might have supported bacterioplankton abundance.The mean %TEP-C contribution to the annual average organic carbon for 1998--2000 was $6.9% \pm 5.8%$, next only to phytoplankton-C ($33.1 \pm 22.1%$) and greater than bacterial-C ($4.6% \pm 4.6%$)or carbohydrate-C (&mt; 3.8%).Despite its greater contribution to the organic carbon pool,the contribution of TEP-C to the benthic carbon demand and its fate in the study area could not be ascertained in this study.</p>
+				</abstract>
+				<keywords>Transparent exopolymeric particles;particle-associated carbohydrates;bacteria;phytoplankton.</keywords>
+				<authors>
+					<author>
+						<name first="P. V." last="Bhaskar">P. V. Bhaskar</name>
+						<affiliation>Marine Corrosion and Materials Research Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<affiliation>Present address: Chemical Oceanography Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>pbhaskar23@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Narayan B." last="Bhosle">Narayan B. Bhosle</name>
+						<affiliation>Marine Corrosion and Materials Research Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-14</date>
+					<date type="R">2006-03-22</date>
+					<date type="A">2006-03-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Coccolithophores from the central Arabian Sea: Sediment trap results</title>
+				<feature></feature>
+				<page>0415-0428</page>
+				<abstract>
+					<p>Sediment trap samples collected from a depth of 1018 m in the Central Arabian Sea Trap (CAST) at $14^\circ 28.2^{,}N, 64^\circ 35.8^{,}E$ were analyzed for temporal variation of coccolithophore ﬂuxes from October 1993 to August 1994.Out of the twenty species of coccolithophores encountered, \tetit {Gephyrocapsa oceanica,Emiliania huxleyi,Umbilicosphaera sibogae} and \textit {Umbellosphaera irregularis} were the most abundant.The total coccolithophore ﬂuxes ranged from $28.5 \times 10^{6} m^{−2} d^{−1}$ to $50.3 \times 10^{6} m^{−2} d^{−1}$ showing seasonality with higher ﬂuxes during the northeast (NE)monsoon and lower ﬂuxes during the spring intermonsoon.The higher ﬂuxes were attributed to the enhancement of primary production in the central Arabian Sea due to southward extent of nutrients from the northeast Arabian Sea by the prevailing surface currents.Similarly,the occurrences of relatively lower coc-colithophore ﬂuxes during the spring intermonsoon and southwest (SW)monsoon were attributed to the low nutrients in the warm,shallow surface mixed layer and downwelling to the south of Findlater Jet respectively in the central Arabian Sea.Some of the coccolithophore species such as \textit {E.huxleyi,G.oceanica,Calcidiscus leptoporus} and \textit {Umbellosphaera tenuis} showed signs of dissolution.</p>
+				</abstract>
+				<keywords>Coccolithophores;central Arabian Sea;sediment trap;monsoon;upwelling and dissolution.</keywords>
+				<authors>
+					<author>
+						<name first="Lina P." last="Mergulhao">Lina P. Mergulhao</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>mlina@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Rahul" last="Mohan">Rahul Mohan</name>
+						<affiliation>National Centre for Antarctic and Ocean Research, Headland Sada, Vasco-da-Gama, Goa 403 804, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. S. N." last="Murty">V. S. N. Murty</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. V. S." last="Guptha">M. V. S. Guptha</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<affiliation>Present address: 62, Sagar Society, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. K." last="Sinha">D. K. Sinha</name>
+						<affiliation>Department of Geology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-02-09</date>
+					<date type="R">2006-01-19</date>
+					<date type="A">2006-03-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Section Title Page</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0429-0429</page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -8177,6 +8507,184 @@
 					<date type="M">2014-09-30</date>
 					<date type="R">2014-09-30</date>
 					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0431-0431</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="M. Dileep" last="Kumar">M. Dileep Kumar</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>The influence of Indian Ocean Dipole (IOD) on biogeochemistry of carbon in the Arabian Sea during 1997–1998</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0433-0450</page>
+				<abstract>
+					<p>Data on ocean color chlorophyll \textit {a} (Chl \textit {a} )obtained using Sea-viewing Wide Field of view Sensor (SeaWiFS),sea surface temperature (SST)by Advanced Very High Resolution Radiometer (AVHRR),and sea surface height (SSH)by TOPEX/POSEIDON were analyzed to examine the inﬂuence of Indian Ocean Dipole (IOD)on the physical and biogeochemical processes with special reference to phytoplankton primary production and air –sea ﬂuxes of carbon dioxide in the Arabian Sea.Positive SST anomalies (SSTA)were found in the Arabian Sea (0.4 to $1.8^\circ C$) with higher values in the southwestern Arabian Sea that decreased towards north.The SSH anomalies (SSHA)and turbulent kinetic energy anomalies (TKEA)suggest decreased mixing during the IOD compared to the normal period.Chlorophyll \textit {a} displayed signiﬁcant negative correlations with SSTA and SSHA in the Arabian Sea.Consistently, Chl \textit {a} showed negative anomalies (low Chl \textit {a} )during the IOD period which could be due to reduced inputs of nutrients.The photic zone integrated primary production decreased by 30%during the IOD period compared to the normal whereas $pCO_2$ levels were higher (by $10--20 \mu atm$). However,sea to air ﬂuxes were lower by 10% during the IOD period due to prevailing weaker winds.Primary production seems to be the key process controlling the surface $pCO_2$ levels in the Arabian Sea.In future,the in ﬂuence of IOD on ecosystem structure,export production and bacterial respiration rates are to be probed through \textit {in situ} time-series observations.</p>
+				</abstract>
+				<keywords>Indian Ocean Dipole;biogeochemistry;carbon;chlorophyll;Arabian Sea;models.</keywords>
+				<authors>
+					<author>
+						<name first="V. V. S. S." last="Sarma">V. V. S. S. Sarma </name>
+						<affiliation>SORST, Japan Science and Technology Agency, Kawaguchi, Japan and Hydrospheric Atmospheric Research Center, Nagoya University, Nagoya 464 8601, Japan.</affiliation>
+						<email>sarma@hyarc.nagoya-u.ac.jp</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Spatial and temporal distribution of methane in an extensive shallow estuary, south India</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0451-0460</page>
+				<abstract>
+					<p>Sedimentary methane ($CH_4$) ﬂuxes and oxidation rates were determined over the wet and dry seasons (four measurement campaigns)in Pulicat lake,an extensive shallow estuary in south India. Dissolved $CH_4$ concentrations were measured at 52 locations in December 2000.The annual mean net $CH_4$ ﬂux from Pulicat lake sediments was $3.7 \times 10^{9} g yr^{−1}$ based on static chamber measurements.A further $1.7 \times 10^{9} g yr^{−1}$ was estimated to be oxidized at the sediment--water interface. The mean dissolved concentration of $CH_4$ was 242 nmol $l^{−1}$ (ranging between 94 and 501 nmol $l^{−1}$ ) and the spatial distribution could be explained by tidal dynamics and freshwater input.Sea –air exchange estimates using models,account only for $\sim 13%(0.5 \times 10^{9} g yr^{−1}$ )of the total $CH_4$ produced in sediments, whereas ebullition appeared to be the major route for loss to the atmosphere ($\sim 63%$ of the net sediment ﬂux).We estimated the total atmospheric source of $CH_4$ from Pulicat lake to be 0.5 to $4.0 \times 10^{9} g yr^{−1}$.</p>
+				</abstract>
+				<keywords>Methane emission;spatial and temporal variation;macro-algal zone;estuaries;Pulicat lake.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Shalini">A. Shalini</name>
+						<affiliation>Institute for Ocean Management, Anna University, Chennai 600 025, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Ramesh">R. Ramesh</name>
+						<affiliation>Institute for Ocean Management, Anna University, Chennai 600 025, India.</affiliation>
+						<email>rramesh_au@yahoo.com</email>
+					</author>
+					<author>
+						<name first="R." last="Purvaja">R. Purvaja</name>
+						<affiliation>Institute for Ocean Management, Anna University, Chennai 600 025, India.</affiliation>
+					</author>
+					<author>
+						<name first="J." last="Barnes">J. Barnes</name>
+						<affiliation>School of Marine Sciences and Technology, University of Newcastle-upon-Tyne, Newcastle-upon-Tyne, NE1 7RU United Kingdom.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Monsoon control on trace metal fluxes in the deep Arabian Sea</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0461-0472</page>
+				<abstract>
+					<p>Particulate ﬂuxes of aluminium,iron,magnesium and titanium were measured using six time- series sediment traps deployed in the eastern,central and western Arabian Sea.Annual Al ﬂuxes at shallow and deep trap depths were 0.47 and $0.46 g m^{−2}$ in the western Arabian Sea,and 0.33 and $0.47 g m^{−2}$ in the eastern Arabian Sea.There is a difference of about $0.9 --1.8g m^{−2} y^{−1}$ in the lithogenic ﬂuxes determined analytically (residue remaining after leaching out all biogenic particles) and estimated from the Al ﬂuxes in the western Arabian Sea.This arises due to higher ﬂuxes of Mg (as dolomite)in the western Arabian Sea (6--11 times higher than the eastern Arabian Sea). The estimated dolomite ﬂuxes at the western Arabian Sea site range from 0.9 to $1.35 g m^{−2} y^{−1}$ . Fe ﬂuxes in the Arabian Sea were less than that of the reported atmospheric ﬂuxes without any evidence for the presence of labile fraction/excess of Fe in the settling particles.More than 75% of Al,Fe,Ti and Mg ﬂuxes occurred during the southwest (SW)monsoon in the western Arabian Sea.In the eastern Arabian Sea,peak Al,Fe,Mg and Ti ﬂuxes were recorded during both the northeast (NE)and SW monsoons.During the SW monsoon,there exists a time lag of around one month between the increases in lithogenic and dolomite ﬂuxes.Total lithogenic ﬂuxes increase when the southern branch of dust bearing northwesterlies is dragged by the SW monsoon winds to the trap locations.However,the dolomite ﬂuxes increase only when the northern branch of the northwesterlies (which carries a huge amount of dolomite accounting 60%of the total dust load) is dragged,from further north,by SW monsoon winds.The potential for the use of Mg/Fe ratio as a paleo-monsoonal proxy is examined.</p>
+				</abstract>
+				<keywords>Monsoon;fluxes;trace metal;Arabian Sea;aerosol;proxies.</keywords>
+				<authors>
+					<author>
+						<name first="T. M. Balakrishnan" last="Nair">T. M. Balakrishnan Nair</name>
+						<affiliation>Indian National Centre for Ocean Information Services (INCOIS), Ministry of Ocean Development, ‘Ocean Valley’, IDA–Jeedimetla (P.O), Hyderabad 500 055, India.</affiliation>
+						<email>bala@incois.gov.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Observations of trace gases and aerosols over the Indian Ocean during the monsoon transition period</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0473-0484</page>
+				<abstract>
+					<p>Characteristics of trace gases ($O_{3}, CO, CO_{2}, CH_{4}$ and $N_{2}O$ and aerosols (particle size of 2.5 micron) were studied over the Arabian Sea,equatorial Indian Ocean and southwest part of the Bay of Bengal during the monsoon transition period (October--November,2004).Flow of pollutants is expected from south and southeast Asia during the monsoonal transition period due to the patterns of wind ﬂow which are different from the monsoon period.This is the ﬁrst detailed report on aerosols and trace gases during the sampled period as the earlier Bay of Bengal Experiment (BOBMEX), Arabian Sea Monsoon Experiment (ARMEX)and Indian Ocean Experiments (INDOEX)were during monsoon seasons.The signiﬁcant observations during the transition period include:(i)low ozone concentration of the order of 5 ppbv around the equator,(ii)high concentrations of $CO_{2}, CH_{4}$ and $N_{2}O$ and (iii)variations in PM2.5 of $5--20 \mu g/ m^{3}$.</p>
+				</abstract>
+				<keywords>Trace gases;aerosols;Indian Ocean;monsoon transition;air pollutants.</keywords>
+				<authors>
+					<author>
+						<name first="T. K." last="Mandal">T. K. Mandal</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ateef" last="Khan">Ateef Khan</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Y. Nazeer" last="Ahammed">Y. Nazeer Ahammed</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. S." last="Tanwar">R. S. Tanwar</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. S." last="Parmar">R. S. Parmar</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. S." last="Zalpuri">K. S. Zalpuri</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Prabhat K." last="Gupta">Prabhat K. Gupta</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. L." last="Jain">S. L. Jain</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Risal" last="Singh">Risal Singh</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. P." last="Mitra">A. P. Mitra</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. C." last="Garg">S. C. Garg</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Suryanarayana">A. Suryanarayana</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. S. N." last="Murty">V. S. N. Murty</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. Dileep" last="Kumar">M. Dileep Kumar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="" last="">Andrew J. Shepherd</name>
+						<affiliation>National Ocean and Atmospheric Administration/Pacific Marine Environmental Laboratory, USA.</affiliation>
+					</author>
+				</authors>
+			</entry>
+		</issue>
+		<issue inum="05" month="10" year="2006">
+			<entry hassup="0">
+				<title>Discriminating four tectonic settings: Five new geochemical diagrams for basic and ultrabasic volcanic rocks based on log–ratio transformation of major-element data</title>
+				<feature></feature>
+				<page>0485-0528</page>
+				<abstract>
+					<p>We present ﬁve new discriminant function diagrams based on an extensive database representative of basic and ultrabasic rocks from four tectonic settings of island arc, continental rift, ocean-island, and mid-ocean ridge. These diagrams were obtained after log_{e}-transformation of concentration ratios of major-elements – a technique recommended for a correct statistical treatment of compositional data. Higher % success rates (overall values from $\sim 83 $to 97%) were obtained for proposing these new diagrams as compared to those ($\sim 82$ to 94%) obtained from the discriminant analysis of the raw major-element concentration data (i.e., without the log_{e}-transformation and without taking ratios of the compositional data, but using exactly the same database to provide an unbiased comparison), suggesting that such a data transformation constitutes a statistically correct and recommended technique. The new diagrams also resulted in less mis-classiﬁcation of basic and ultrabasic rocks from known tectonic settings than the diagrams obtained from the raw data. The use of these highly successful new discriminant function diagrams is illustrated using Miocene to Recent basic and ultrabasic rocks from three areas of Mexico with complex or controversial tectonic settings (Mexican Volcanic Belt, Los Tuxtlas volcanic ﬁeld, and Eastern Alkaline Province), as well as older rocks from three areas (Deccan, Malani, and Bastar) of India. Additionally, the major-element data from two ‘known’ continental arc settings are used to show that they are similar to those from the island arc setting. Continental rift setting is inferred for all Mexican cases and for one cratonic area of India (Malani) and an IAB setting for the Bastar craton. The Deccan ﬂood basalt province of India is used to warn against an indiscriminate use of those discrimination diagrams that do not explicitly include the likely setting of the area under evaluation. An Excel template is also provided for an easy application of these new diagrams for discriminating the four settings considered in this work.</p>
+				</abstract>
+				<keywords>Log-transformation;compositional space;discriminant function analysis;standard igneous norm and volcanic rock classification system computer program;Mexico; India.</keywords>
+				<authors>
+					<author>
+						<name first="Surendra P." last="Verma">Surendra P. Verma</name>
+						<affiliation>Centro de Investigaci$\acute{o} n$ en Energ$\acute{i}$ a, Universidad Nacional Aut$\acute{o} $noma de M$\acute{e} $xico, Priv. Xochicalco s/no., Col Centro, Apartado Postal 34, Temixco 62580, Mexico.</affiliation>
+						<email>spv@cie.unam.mx</email>
+					</author>
+					<author>
+						<name first="Mirna" last="Guevara">Mirna Guevara</name>
+						<affiliation>Centro de Investigaci$\acute{o} n$ en Energ$\acute{i}$ a, Universidad Nacional Aut$\acute{o} $noma de M$\acute{e} $xico, Priv. Xochicalco s/no., Col Centro, Apartado Postal 34, Temixco 62580, Mexico.</affiliation>
+					</author>
+					<author>
+						<name first="Salil" last="Agrawal">Salil Agrawal</name>
+						<affiliation>Department of Geology, University of Rajasthan, Jaipur 302 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-03-28</date>
+					<date type="R">2006-05-17</date>
+					<date type="A">2006-05-24</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
