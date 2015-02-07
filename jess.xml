@@ -6696,7 +6696,7 @@
 				</authors>
 			</entry>
 			<entry hassup="0">
-				<title>International partnership in lunar missions: Inaugural address His Excellency Dr A P J Abdul Kalam</title>
+				<title>International partnership in lunar missions: Inaugural address</title>
 				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
 				<page>0577-0585</page>
 				<abstract>
@@ -6835,27 +6835,33 @@
 					<author>
 						<name first="Wu" last="Ji">Wu Ji</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 						<email>wuji@center.cssar.ac.cn</email>
 					</author>
 					<author>
 						<name first="Li" last="Dihui">Li Dihui</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="Zhang" last="Xiaohui">Zhang Xiaohui</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="Jiang" last="Jingshan">Jiang Jingshan</name>
 						<affiliation>Center for Space Science and Applied Research, Chinese Academy of Sciences, P.O. Box 8701, Beijing 100 080, China.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="A. T." last="Altyntsev">A. T. Altyntsev</name>
 						<affiliation>Institute of Solar Terrestrial Physics, Siberia Branch of Russian Academy of Sciences, P.O. Box 4026, Irkutsk 664 033, Russia.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 					<author>
 						<name first="B. I." last="Lubyshev">B. I. Lubyshev</name>
 						<affiliation>Institute of Solar Terrestrial Physics, Siberia Branch of Russian Academy of Sciences, P.O. Box 4026, Irkutsk 664 033, Russia.</affiliation>
+						<affiliation>China–Russia Joint Research Center on Space Weather</affiliation>
 					</author>
 				</authors>
 			</entry>
@@ -7087,7 +7093,7 @@
 				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
 				<page>0717-0720</page>
 				<abstract>
-					<p>The Terrain Mapping Camera (TMC)on India ’s ﬁrst satellite for lunar exploration,Chandrayaan-1, is for generating high-resolution 3-dimensional maps of the Moon.With this instrument,a complete topographic map of the Moon with 5 m spatial resolution and 10-bit quantization will be available for scienti ﬁc studies.The TMC will image within the panchromatic spectral band of 0.4 to 0 .µ with a stereo view in the fore,nadir and aft directions of the spacecraft movement and have a B/H ratio of 1.The swath coverage will be 20 km.The camera is con ﬁgured for imaging in the push broom-mode with three linear detectors in the image plane.The camera will have four gain settings to cover the varying illumination conditions of the Moon.Additionally,a provision of imaging with reduced resolution,for improving Signal-to-Noise Ratio (SNR)in polar regions,which have poor illumination conditions throughout,has been made.SNR of better than 100 is expected in the ± 60 ◦latitude region for mature mare soil,which is one of the darkest regions on the lunar surface. This paper presents a brief description of the TMC instrument.</p>
+					<p>The Terrain Mapping Camera (TMC)on India ’s ﬁrst satellite for lunar exploration,Chandrayaan-1, is for generating high-resolution 3-dimensional maps of the Moon.With this instrument,a complete topographic map of the Moon with 5 m spatial resolution and 10-bit quantization will be available for scienti ﬁc studies.The TMC will image within the panchromatic spectral band of 0.4 to 0.9 $\mu m$ with a stereo view in the fore,nadir and aft directions of the spacecraft movement and have a B/H ratio of 1.The swath coverage will be 20 km.The camera is conﬁgured for imaging in the push broom-mode with three linear detectors in the image plane.The camera will have four gain settings to cover the varying illumination conditions of the Moon.Additionally,a provision of imaging with reduced resolution,for improving Signal-to-Noise Ratio (SNR)in polar regions,which have poor illumination conditions throughout,has been made.SNR of better than 100 is expected in the $\pm 60^\circ $ latitude region for mature mare soil,which is one of the darkest regions on the lunar surface. This paper presents a brief description of the TMC instrument.</p>
 				</abstract>
 				<keywords>Terrain mapping;active pixel sensor;digital elevation map;lunar topography.</keywords>
 				<authors>
@@ -7103,9 +7109,1389 @@
 				</authors>
 			</entry>		
 			<entry hassup="0">
-				<title></title>
+				<title>Hyper-Spectral Imager in visible and near-infrared band for lunar compositional mapping</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0721-0724</page>
+				<abstract>
+					<p>India ’s ﬁrst lunar mission,Chandrayaan-1,will have a Hyper-Spectral Imager in the visible and near-infrared spectral bands along with other instruments.The instrument will enable mineralogical mapping of the Moon ’s crust in a large number of spectral channels.The planned Hyper-Spectral Imager will be the ﬁrst instrument to map the lunar surface with the capability of resolving the spectral region,0.4 to $0.92 \mu m$ in 64 continuous bands with a resolution of better than 15 nm and a spatial resolution of 80 m.Spectral separation will be done using a wedge ﬁlter and the image will be mapped onto an area detector.The detector output will be processed in the front-end processor to generate the 64-band data with 12-bit quantization.This paper gives a description of the Hyper-Spectral Imager instrument.</p>
+				</abstract>
+				<keywords>Hyper-Spectral Imager;wedge filter;spectral bands;mineral mapping.</keywords>
+				<authors>
+					<author>
+						<name first="" last="">A. S. Kiran Kumar</name>
+						<affiliation>Space Applications Centre, ISRO, Ahmedabad 380 015, India.</affiliation>
+						<email>kiran@sac.isro.gov.in</email>
+					</author>
+					<author>
+						<name first="" last="">A. Roy Chowdhury</name>
+						<affiliation>Space Applications Centre, ISRO, Ahmedabad 380 015, India.</affiliation>
+					</author>
+				</authors>
+			</entry>		
+			<entry hassup="0">
+				<title>Lunar ranging instrument for Chandrayaan-1</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0725-0731</page>
+				<abstract>
+					<p>Lunar Laser Ranging Instrument (LLRI)proposed for the ﬁrst Indian lunar mission Chandrayaan-1 is aimed to study the topography of the Moon ’s surface and its gravitational ﬁeld by precisely measuring the altitude from a polar orbit around the Moon.Altimetry data close to the poles of the Moon would also be available from the instrument,which was not covered by earlier missions. This instrument supplements the terrain mapping camera and hyper-spectral imager payloads on Chandrayaan-1.The instrument consists of a diode pumped Nd:YAG pulsed laser transmitter having 10 nsec pulse width and a receiver system.The receiver system features 17 cm diameter Ritchey –Chr$\acute{e} $tien collecting optics,Si Avalanche Photo Detector (APD),preampli ﬁers,constant fraction discriminators,time-of-ﬂight measurement unit and spacecraft interface.Altimeter resolution of better than 5 m is targeted.The received signal strength of LLRI depends on laser pulse backscatter from the Moon ’s surface.Moon ’s surface being a poor re ﬂector,the choice of receiver size and its type and the selection of detector play an important role in getting a good signal-to-noise ratio and in turn achieving the target resolution.At the same time,the spacecraft puts a limitation on payload size and weight.This paper discusses the proposed LLRI system for Chandrayaan-1 and signal-to-noise ratio estimation.</p>
+				</abstract>
+				<keywords>Nd:YAG laser;Si APD;laser altimeter.</keywords>
+				<authors>
+					<author>
+						<name first="J. A." last="Kamalakar">J. A. Kamalakar</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+						<email>kamalakar@leosisro.com</email>
+					</author>
+					<author>
+						<name first="K. V. S." last="Bhaskar">K. V. S. Bhaskar</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. S. Laxmi" last="Prasad">A. S. Laxmi Prasad</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Ranjith">R. Ranjith</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. A." last="Lohar">K. A. Lohar</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Venketeswaran">R. Venketeswaran</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+					<author>
+						<name first="T. K." last="Alex">T. K. Alex</name>
+						<affiliation>Laboratory for Electro-Optics Systems, Indian Space Research Organization (ISRO), Bangalore 560 058, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>High energy X-$\gamma $ ray spectrometer on the Chandrayaan-1 mission to the Moon</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0733-0738</page>
+				<abstract>
+					<p>The Chandrayaan-1 mission to the Moon scheduled for launch in late 2007 will include a high energy X-ray spectrometer (HEX)for detection of naturally occurring emissions from the lunar surface due to radioactive decay of the $^{238} U$ and $^{232}Th$ series nuclides in the energy region 20 –250 keV.The primary science objective is to study the transport of volatiles on the lunar surface by detection of the 46.5 keV line from radioactive $^{210}Pb$, a decay product of the gaseous $^{222}Rn$,both of which are members of the $^{238} U$ decay series.Mapping of U and Th concentration over the lunar surface,particularly in the polar and U –Th rich regions will also be attempted through detection of prominent lines from the U and Th decay series in the above energy range.The low signal strengths of these emissions require a detector with high sensitivity and good energy resolution.Pixelated Cadmium – Zinc –Telluride (CZT)array detectors having these characteristics will be used in this experiment. Here we describe the science considerations that led to this experiment,anticipated ﬂux and back- ground (lunar continuum),the choice of detectors,the proposed payload con ﬁguration and plans for its realization.</p>
+				</abstract>
+				<keywords>Chemical composition;volatile transport;high energy X-rays;Chandrayaan-1;thorium distribution on Moon.</keywords>
+				<authors>
+					<author>
+						<name first="J. N." last="Goswami">J. N. Goswami</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email>goswami@prl.ernet.in</email>
+					</author>
+					<author>
+						<name first="D." last="Banerjee">D. Banerjee</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="N." last="Bhandari">N. Bhandari</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Shanmugam">M. Shanmugam</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="Y. B." last="Acharya">Y. B. Acharya</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. V." last="Subhedar">D. V. Subhedar</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. R." last="Sharma">M. R. Sharma</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="C. N." last="Umapathy">C. N. Umapathy</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Sreekumar">P. Sreekumar</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Sudhakar">M. Sudhakar</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="L." last="Abraham">L. Abraham</name>
+						<affiliation>Space Astronomy and Instrumentation Division, ISRO Satellite Center, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. C." last="Agrawal">P. C. Agrawal</name>
+						<affiliation>Tata Institute of Fundamental Research, Mumbai 400 005, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Imaging and power generation strategies for Chandrayaan-1</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0739-0748</page>
+				<abstract>
+					<p>The Chandrayaan-1 mission proposes to put a 550 kg lunarcraft into Geostationary Transfer Orbit (GTO)using the Polar Satellite Launch Vehicle (PSLV)which will subsequently be transferred into a 100 km circular lunar polar orbit for imaging purposes.In this paper,we describe certain aspects of mission strategies which will allow optimum power generation and imaging of the lunar surface.</p>
+					<p>The lunar orbit considered is circular and polar and therefore nearly perpendicular to the ecliptic plane.Unlike an Earth orbiting remote sensing satellite,the orbit plane of lunar orbiter is inertially ﬁxed as a consequence of the very small oblateness of the Moon.The Earth rotates around the Sun once a year,resulting in an apparent motion of Sun around this orbit in a year.Two extreme situations can be identiﬁed concerning the solar illumination of the lunar orbit,noon/midnight orbit,where the Sun vector is parallel to the spacecraft orbit plane and dawn/dusk orbit,where the Sun vector is perpendicular to the spacecraft orbit plane.This scenario directly affects the solar panel conﬁguration.In case the solar panels are not canted,during the noon/midnight orbit, 100%power is generated,whereas during the dawn/dusk orbit,zero power is generated.Hence for optimum power generation,canting of the panels is essential.Detailed analysis was carriedout to ﬁx optimum canting and also determine a strategy to maintain optimum power generation throughout the year.The analysis led to the strategy of $180^\circ $ yaw rotation at noon/midnight orbits and ﬂipping the solar panel by $180^\circ $ at dawn/dusk orbits.This also resulted in the negative pitch face of the lunarcraft to be an anti-sun panel,which is very useful for thermal design,and further to meet cooling requirements of the spectrometers.</p>
+					<p>In principle the Moon ’s surface can be imaged in 28 days,because the orbit chosen and the payload swath provide adequate overlap.However,in reality it is not possible to complete the imaging in 28 days due to various mission constraints like maximum duration of imaging allowed keeping in view the SSR sizing and payloads data input rate,time required for downlinking the payload data,data compression requirements and visibility of the lunarcraft for the Bangalore DSN. In each cycle,all the latitudes are swept.Due to the constraints mentioned,only $60^\circ $ latitude arc coverage is possible in each orbit.As Bangalore DSN is the only station,half of the orbits in a day are not available.The longitudinal gaps because of non-visibility are covered in the next cycle by Bangalore DSN.Hence,in the ﬁrst \textit {prime imaging season} only 25% of the prime imaging zones are covered,and an additional three \textit {prime imaging seasons} are required for a full coverage of the Moon in two years.Strategy is also planned to cover X-ray payload coverage considering swath and orbit shift.</p>
+				</abstract>
+				<keywords>Chandrayaan-1;lunar imaging;Moon mapping;power generation.</keywords>
+				<authors>
+					<author>
+						<name first="Ananth" last="Krishna">Ananth Krishna</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+						<email>akrishna@isac.ernet.in</email>
+					</author>
+					<author>
+						<name first="N. S." last="Gopinath">N. S. Gopinath</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. S." last="Hegde">N. S. Hegde</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. K." last="Malik">N. K. Malik</name>
+						<affiliation>Control and Mission Area, ISRO Satellite Centre, Bangalore 560 017, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Low energy neutral atom imaging on the Moon with the SARA instrument aboard Chandrayaan-1 mission</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0749-0760</page>
+				<abstract>
+					<p>This paper reports on the Sub-keV Atom Reﬂecting Analyzer (SARA)experiment that will be ﬂown on the ﬁrst Indian lunar mission Chandrayaan-1.The SARA is a low energy neutral atom (LENA)imaging mass spectrometer,which will perform remote sensing of the lunar surface via detection of neutral atoms in the energy range from 10 eV to 3 keV from a 100 km polar orbit.In this report we present the basic design of the SARA experiment and discuss various scientiﬁc issues that will be addressed.The SARA instrument consists of three major subsystems:a LENA sensor (CENA),a solar wind monitor (SWIM),and a digital processing unit (DPU).SARA will be used to image the solar wind –surface interaction to study primarily the surface composition and surface magnetic anomalies and associated mini-magnetospheres.Studies of lunar exosphere sources and space weathering on the Moon will also be attempted.SARA is the ﬁrst LENA imaging mass spectrometer of its kind to be ﬂown on a space mission.A replica of SARA is planned to ﬂy to Mercury onboard the BepiColombo mission.</p>
+				</abstract>
+				<keywords>Moon, Moon–solar wind interaction;lunar elemental composition;lunar magnetic anomalies;Energetic Neutral Atom (ENA);lunar mission.</keywords>
+				<authors> 
+					<author>
+						<name first="Anil" last="Bhardwaj">Anil Bhardwaj</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+						<email>anil−bhardwaj@vssc.org</email>
+					</author>
+					<author>
+						<name first="Stas" last="Barabash">Stas Barabash</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="Yoshifumi" last="Futaana">Yoshifumi Futaana</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="Yoichi" last="Kazama">Yoichi Kazama</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="Kazushi" last="Asamura">Kazushi Asamura</name>
+						<affiliation>Japan Aerospace Exploration Agency, Sagamihara, Kanagawa 229–8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="David" last="McCann">David McCann</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Sridharan">R. Sridharan</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="Mats" last="Holmstrom">Mats Holmstrom</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+						<affiliation>Currently at NASA Goddard Space Flight Center, Mail Code 612.2, Greenbelt, MD 20771, USA.</affiliation>
+					</author>
+					<author>
+						<name first="Peter" last="Wurz">Peter Wurz</name>
+						<affiliation>Physikalisches Institut, University of Bern, CH-3012 Bern, Switzerland.</affiliation>
+					</author>
+					<author>
+						<name first="Rickard" last="Lundin">Rickard Lundin</name>
+						<affiliation>Swedish Institute of Space Physics, Box 812, 98128, Kiruna, Sweden.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Lunar-A mission: Outline and current status</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0763-0768</page>
+				<abstract>
+					<p>The scientiﬁc objective of the Lunar-A,Japanese Penetrator Mission,is to explore the lunar interior by seismic and heat-ﬂow experiments.Two penetrators containing two seismometers (horizontal and vertical components)and heat-ﬂow probes will be deployed from a spacecraft onto the lunar surface,one on the near-side and the other on the far-side of the moon.The data obtained by the penetrators will be transmitted to the earth station via the Lunar-A mother spacecraft orbiting at an altitude of about 200 km.</p>
+					<p>The spacecraft of a cylindrical shape,2.2 m in maximum diameter and 1.7 m in height,is designed to be spin-stabilized.The spacecraft will be inserted into an elliptic lunar orbit,after about a half- year cruise during which complex manoeuvering is made using the lunar-solar gravity assist.After lunar orbit insertion,two penetrators will be separated from the spacecraft near perilune,one by one,and will be landed on the lunar surface.</p>
+					<p>The ﬁnal impact velocity of the penetrator will be about 285 m/sec;it will encounter a shock of about 8000 G at impact on the lunar surface.According to numerous experimental impact tests using model penetrators and a lunar-regolith analog target,each penetrator is predicted to penetrate to a depth between l and 3 m,depending on the hardness and/or particle-size distribution of the lunar regolith.The penetration depth is important for ensuring the temperature stability of the instruments in the penetrator and heat ﬂow measurements.According to the results of the Apollo heat ﬂow experiment,an insulating regolith blanket of only 30 cm is sufficient to dampen out about 280 K lunar surface temperature ﬂuctuation to &mt; 3K variation.</p>
+					<p>The seismic observations are expected to provide key data on the size of the lunar core,as well as data on deep lunar mantle structure.The heat ﬂow measurements at two penetrator-landing sites will also provide important data on the thermal structure and bulk concentrations of heat- generating elements in the Moon.These data will provide much stronger geophysical constraints on the origin and evolution of the Moon than has been obtained so far.</p>
+					<p>Currently,the Lunar-A system is being reviewed and a more robust system for communication between the penetrators and spacecraft is being implemented according to the lessons learned from Beagle-2 and DS-2 failures.More impact tests for penetrators onto a lunar regolith analogue target will be undertaken before its launch.</p>
+				</abstract>
+				<keywords>Lunar-A;penetrator;lunar exploration;lunar interior;lunar seismology;heat flow.</keywords>
+				<authors>
+					<author>
+						<name first="H." last="Mizutani">H. Mizutani</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+						<email>mizutani@planeta.sci.isas.ac.jp</email>
+					</author>
+					<author>
+						<name first="A." last="Fujimura">A. Fujimura</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Tanaka">S. Tanaka</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="H." last="Shiraishi">H. Shiraishi</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="T." last="Nakjima">T. Nakjima</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency, Yoshinodai 3-l-l, Sagamihara, Kanagawa 229 8510, Japan.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>SELENE project status</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0771-0775</page>
+				<abstract>
+					<p>SELENE (Selenological and Engineering Explorer) project started as a joint mission of the former ISAS (Institute of Space and Astronautical Science) and the former NASDA (National Space Development Agency: the two organizations were merged into JAXA in 2002) of Japan in 1998. The launch target is rescheduled for 2006 due to delay of completion of launch vehicle, H-IIA. The SELENE project is now under a sustained design phase. The flight model components were manufactured, and the interface tests between the bus-system and the mission instruments were completed by the end of March 2004. The functional checks and calibration for the flight model components are being carried out at present. From the beginning of 2005, the final assembly tests will start.</p>
+				</abstract>
+				<keywords>Lunar exploration;SELENE;lunar imaging.</keywords>
+				<authors>
+					<author>
+						<name first="Konishi" last="Hisahiro">Konishi Hisahiro</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 2-1-1 Sengen, Tsukuba, Ibaraki 305-8505, Japan.</affiliation>
+						<email>konishi.hisahiro@jaxa.jp</email>
+					</author>
+					<author>
+						<name first="Manabu" last="Kato">Manabu Kato</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Susumu" last="Sasaki">Susumu Sasaki</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Yoshisada" last="Takizawa">Yoshisada Takizawa</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 2-1-1 Sengen, Tsukuba, Ibaraki 305-8505, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Hitoshi" last="Mizutani">Hitoshi Mizutani</name>
+						<affiliation>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA), 2-1-1 Sengen, Tsukuba, Ibaraki 305-8505, Japan.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Japanese lunar robotics exploration by co-operation with lander and rover</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0777-0785</page>
+				<abstract>
+					<p>Unmanned mobile robots for surface exploration of the Moon or planets have been extensively  studied and developed.A lunar rover is expected to travel safely in a wide area and explore in detail. Japanese lunar robotics exploration is under study to conduct an unmanned geological survey in the vicinity of central peaks of impact craters for investigation of the sub-surface materials.This will give us the key information to study the lunar inner structure and understand the Moon ’s origin and evolution as well as to investigate the evolution of magma ocean and later igneous processes.To carry out the geological exploration in the central peak,lander and rover co-operative exploration is proposed.The working group has been conducting feasibility study of advance technologies.This paper addresses an overview of lunar exploration with lander and rover and also enumerates future technologies to be established.</p>
+					<p>The rover R&D group has developed an innovative science micro rover with a new mobility system and a lightweight manipulator.The design and implementation of a science rover for the near future lunar missions requiring long traverses and scientiﬁc observations are described and some experimental results are presented.</p>
+				</abstract>
+				<keywords>Lunar robotics exploration;central peak exploration;lander and rover co-operation;micro rover;micro manipulator.</keywords>
+				<authors>
+					<author>
+						<name first="Takashi" last="Kubota">Takashi Kubota</name>
+						<affiliation>ISAS/JAXA, 3-1-1, Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan.</affiliation>
+						<email>kubota@nnl.isas.jaxa.jp</email>
+					</author>
+					<author>
+						<name first="Yasuharu" last="Kunii">Yasuharu Kunii</name>
+						<affiliation>Chuo University, 1-13-27, Kasuga, Bunkyo-ku, Tokyo 113-8551, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Yoji" last="Kuroda">Yoji Kuroda</name>
+						<affiliation>Meiji University, 1-1-1, Higashi-mita, Tama-ku, Kawasaki 214-8571, Japan.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Scientific objectives and the payloads of Chang’E-1 lunar satellite</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0789-0794</page>
+				<abstract>
+					<p>China plans to implement its ﬁrst lunar exploration mission Chang ’E-1 by 2007.The mission objectives are</p>
+					<ul>
+						<li>to obtain a three-dimensional stereo image of the lunar surface,</li>
+						<li>to determine distribution of some useful elements and to estimate their abundance,</li>
+						<li>to survey the thickness of lunar soil and to evaluate resource of $^{3}He$ and</li>
+						<li>to explore the environment between the Moon and Earth.</li>
+					</ul>
+					<p>To achieve the above mission goals,ﬁve types of scientiﬁc instruments are selected as payloads of the lunar craft.These include stereo camera and spectrometer imager,laser altimeter,microwave radiometer,gamma and X-ray spectrometers and space environment monitor system.In order to collect,process,store and transmit the scientiﬁc data of various payloads a special payload data management system is also included.In this paper the goals of Chang ’E-1 and its payloads are described.</p>
+				</abstract>
+				<keywords>Chang’E-1;lunar exploration;microwave radiometer;X-ray spectrometry;gamma-ray spectrometry.</keywords>
+				<authors>
+					<author>
+						<name first="Sun" last="Huixian">Sun Huixian</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+						<email>shxian@nc.poac.ac.cn</email>
+					</author>
+					<author>
+						<name first="Dai" last="Shuwu">Dai Shuwu</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+					</author>
+					<author>
+						<name first="Yang" last="Jianfeng">Yang Jianfeng</name>
+						<affiliation>Xi’an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences (CAS), Xi’an 710 068, China.</affiliation>
+					</author>
+					<author>
+						<name first="Wu" last="Ji">Wu Ji</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+					</author>
+					<author>
+						<name first="Jiang" last="Jingshan">Jiang Jingshan</name>
+						<affiliation>Center for Space Science and Applied Research (CSSAR), Post Box 8701, Beijing 100 080, China.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Space operation system for Chang’E program and its capability evaluation</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0795-0799</page>
+				<abstract>
+					<p>Space operation for China ’s ﬁrst lunar exploration program,Chang ’E will be provided by the S-band aerospace Telemetry,Tracking and Command (TT&C)network designed for China ’s manned space program.This is undoubtedly a great challenge to the ground TT&C system.The largest antennas of China ’s S-band aerospace TT&C network has an aperture of only 12 m.A series of technical measures have been taken into the designing of the spacecraft-ground TT&C system to ensure that such antennas can communicate with Chang ’E-1 lunar probe 400,000 km away.These include installation of high-gain directional antennae and medium-gain omni-directional antennae for the probe,adding channel encoding to the downlink channel,using both high and low data rates for information transmission and upgrade and design of ground equipment terminals.Among them,the omni-directional antenna will operate in the earth-ground transfer orbit phase and the directional antenna will operate in the lunar orbit phase.These measures satisfy the spacecraft- ground link and program design requirements.</p>
+					<p>To provide accurate navigation for the probe during its Earth –Moon ﬂight and initial lunar orbiting ﬂight,China ’s VLBI system designed for astronomical observations,will also be used besides the ranging and range rate measurement capabilities of the S-band TT&C network.The purpose is to provide 100 m accuracy in position determination during lunar orbit.This paper describes the system design,technical challenges,solutions and capability evaluation of space operation for Chang ’E-1.</p>
+				</abstract>
+				<keywords>Chang’E program;lunar exploration;space operations;TT&C design.</keywords>
+				<authors>
+					<author>
+						<name first="Yu" last="Zhi-jian">Yu Zhi-jian</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+					<author>
+						<name first="Lu" last="Li-chang">Lu Li-chang</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+					<author>
+						<name first="Liu" last="Yung-chun">Liu Yung-chun</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+					<author>
+						<name first="Dong" last="Guang-liang">Dong Guang-liang</name>
+						<affiliation>Beijing Institute of Tracking and Telecommunications Technology, P.O. Box 5131, Beijing 100 094, China.</affiliation>
+						<email>csaspace@163bj.com</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Luna-Glob project in the context of the past and present lunar exploration in Russia</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0801-0806</page>
+				<abstract>
+					<p>The Russian Luna-Glob project has been conceived with a view to understand the origin of the Earth –Moon system.The objectives and main features of the Luna-Glob mission,which will mainly study the internal structure of the Moon by seismic instruments,are described in the context of the past and current program of lunar exploration in Russia.</p>
+				</abstract>
+				<keywords>Luna-Glob mission;lunar core;penetrators;seismology.</keywords>
+				<authors>
+					<author>
+						<name first="E. M." last="Galimov">E. M. Galimov</name>
+						<affiliation>V.I. Vernadsky Institute of Geochemistry and Analytical Chemistry, Russian Academy of Sciences, Kosygin Str., 19, Moscow 119 991, Russia.</affiliation>
+						<email>galimov@geokhi.ru</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Analysis of optimal strategies for soft landing on the Moon from lunar parking orbits</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0807-0813</page>
+				<abstract>
+					<p>Optimal trajectory design of a probe for soft landing on the Moon from a lunar parking orbit by minimizing the fuel required is obtained.The problem is formulated as an optimal control problem with the thrust direction being the control variable.Using the maximum principle of Pontryagin, the control variable is expressed as a function of co-state variables and the problem is converted into a two-point boundary value problem.The two-point boundary value problem is solved using an optimization technique,i.e.,controlled random search.The strategies such as</p>
+					<ul>
+						<li>direct landing from a lunar parking orbit using powered braking </li>
+						<li>direct landing from an intermediate orbit using powered braking</li>
+						<li>by executing powered braking in two phases:through horizontal braking and vertical landing are analyzed and an optimal strategy that achieves the goals is suggested.Also,appropriate design parameters are selected using this analysis.</li>
+					</ul>
+				</abstract>
+				<keywords>Lunar parking orbit;soft landing;Pontryagin’s maximum principle;two-point boundary value problem;controlled random search.</keywords>
+				<authors>
+					<author>
+						<name first="R. V." last="Ramanan">R. V. Ramanan</name>
+						<affiliation>Aerospace Flight Dynamics Group, Vikram Sarabhai Space Centre, Thiruvananthapuram 695 022, India.</affiliation>
+						<email>rv_ramanan@vssc.org</email>
+					</author>
+					<author>
+						<name first="Madan" last="Lal">Madan Lal</name>
+						<affiliation>Aerospace Flight Dynamics Group, Vikram Sarabhai Space Centre, Thiruvananthapuram 695 022, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Telerobotic exploration and development of the Moon</title>
+				<feature>Special issue: Proceedings of the International Conference on Exploration and Utilization of the Moon 22 – 26 November 2004 Udaipur, Rajasthan, India</feature>
+				<page>0815-0822</page>
+				<abstract>
+					<p>There has been a debate for the last thirty years about the relative merits of human versus robotic systems and we argue here that both are essential components for successful lunar exploration and development.We examine the role of robots in the next phases of exploration and human development of the Moon.The historical use of robots and humans in exploration is discussed,including Apollo-era exploration,International Space Station,and deep-water petroleum exploration.The technological challenges of lunar operations are addressed in the context of how robotic systems can be designed for robust and ﬂexible operations.System design recommendations are given based on the lessons learned from terrestrial and space robotics.</p>
+				</abstract>
+				<keywords>Telerobotics;lunar exploration development.</keywords>
+				<authors>
+					<author>
+						<name first="B. L." last="Cooper">B. L. Cooper</name>
+						<affiliation>Oceaneering Space Systems, Houston, Texas, USA.</affiliation>
+						<email>bcooper138@houston.rr.com</email>
+					</author>
+					<author>
+						<name first="B." last="Sharpe">B. Sharpe</name>
+						<affiliation>Independent Lunar Development Planner, St. Louis, MO, USA.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Schrunk">D. Schrunk</name>
+						<affiliation>Quality of Laws Institute, Poway, CA, USA.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Thangavelu">M. Thangavelu</name>
+						<affiliation>Space Exploration Architectures Concept Synthesis Studio, Division of Astronautics and Space Technology and School of Architecture, University of Southern California, USA.</affiliation>
+					</author>
+				</authors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="115">
+		<issue inum="01" month="02" year="2006">
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0001-0002</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="J. S." last="Ray">J. S. Ray</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C." last="Chakraborty">C. Chakraborty</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Proterozoic intracontinental basin: The Vindhyan example</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0003-0022</page>
+				<abstract>
+					<p>The Vindhyan basin is a classic example of Proterozoic intracontinental basin that developed in the central part of the Indian shield along with several other basins such as Cuddapah,Chattisgarh,etc.The strata are exposed in three major sectors:Son valley,Bundelkhand and Rajasthan. Substantially thick Vindhyan rocks have also been recognized under the Gangetic alluvium.The constituent stratigraphic units of the Vindhyan Supergroup are laterally correlatable and vertically stacked in similar fashion in individual sectors,but their stratigraphic and sedimentologic attributes vary from one sector to the other.The basin ﬁll in the Son valley (around 3 km thick) exhibits an asymmetric cross-sectional geometry normal to the regional strike (ENE –WSW),with the thickest part occurring to the south,and is divisible into four groups:Semri,Kaimur,Rewa and Bhander,from bottom to top.The boundary between the Semri and Kaimur Groups is marked by a pronounced unconformity.The dominant lithologies include conglomerate,sandstone,shale, limestone as well as volcaniclastics.The Vindhyan strata de ﬁne a broad,regional syncline trending ENE –WSW.The axis of the syncline is slightly curved (convex towards north)and plunges gently towards west.The average dip of the southern limb is greater than that of the northern limb rendering the axial plane to dip southerly.</p>
+					<p>The Vindhyan succession can be divided into ﬁve major sequences separated by unconformities. The unconformities are manifested in the ﬁeld by angular discordances and/or long-term subaerial exposure features.Unconformity surfaces are disposed in the succession de ﬁning what is known as progressive unconformity,indicating contemporaneous tectonic activity during sedimentation. Individual sequences comprise of a spectrum of depositional systems that include alluvial fan, fan delta,braidplain,braidplain delta,eolian sandsheet,siliciclastic/carbonate tidal ﬂat,siliciclas- tic/carbonate shoreface,siliciclastic/carbonate shelf.The paleocurrents revealed by the Vindhyan strata are typically northerly suggesting that the evolving Satpura orogen served as the source for the Vindhyan sediments.However,the source for the clastics occurring within the Semri and the lower parts of the Kaimur and Rewa Groups in the Bundelkhand sector was perhaps the Bundelkhand Granite Gneiss,Bijawar and Gwalior Group of rocks as manifested by the southerly paleocurrent.</p>
+					<p>The sequences of the Vindhyan succession are composed of several systems tracts.The different paleogeographic settings characterizing the systems tracts within individual sequences are as follows:</p>
+					<p>Sequence 1:</p>
+					<ul>
+						<li>TST – alluvial fan–fan delta–shelf (Deoland and Arangi Formations)</li>
+						<li>HST – carbonate ramp (Kajrahat Formation)</li>
+					</ul>
+					<p>Sequence 2:</p>
+					<ul>
+						<li>TST – shelf (Deonar Formation)</li>
+						<li>FSST to TST – braid/fan delta–shelf (Koldaha Formation)</li>
+						<li>HST – tidal flat–shoreface–shelf (Chorhat and Koldaha Formations)</li>
+						<li>TST – shelf (Rampur Formation)</li>
+						<li>TST – carbonate ramp (Rohtas Formation)</li>
+					</ul>
+					<p>Sequence 3:</p>
+					<ul>
+						<li>TST – shoreface–shelf (Sasaram Formation)</li>
+						<li>FSST – shoreface (Ghaghar Formation)</li>
+						<li>TST – shelf (Bijaygarh Formation)</li>
+						<li>HST – braidplain–braid delta–shelf (Mageswar and Dhandraul Formations)</li>
+					</ul>
+					<p>Sequence 4:</p>
+					<ul>
+						<li>TST – shelf (Panna Formation)</li>
+						<li>FSST to TST – shoreface (Assan and Jhri Formations)</li>
+						<li>HST – braidplain–braid delta–shelf (Jhiri, Drammondgunj and Govindgarh Formations)</li>
+					</ul>
+					<p>Sequence 5:</p>
+					<ul>
+						<li>TST – tidal flat (Ganurgarh Formation)</li>
+						<li>HST – carbonate platform (Bhander Formartion)</li>
+						<li>TST – tidal flat to coastal lagoon (Bundihill and Sirbu Formations)</li>
+						<li>FSST – tidal flat–braidplain–eolian (Shikhaoda Formation)</li>
+					</ul>
+				</abstract>
+				<keywords>Intracratonic basin;Proterozoic;depositional environments;sedimentation;sequence stratigraphy.</keywords>
+				<authors>
+					<author>
+						<name first="Chandan" last="Chakraborty">Chandan Chakraborty</name>
+						<affiliation>Geological Studies Unit, Indian Statistical Institute, 203 B.T. Road, Kolkata 700 108, India.</affiliation>
+						<email>chandan@isical.ac.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Outcrop signatures of relative sea level fall on a siliciclastic shelf: Examples from Rewa Group of Proterozoic Vindhyan basin</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0023-0036</page>
+				<abstract>
+					<p>The Rewa Group of the Vindhyan Supergroup in the Son valley begins with a thick ($\sim 200m$) dominantly shaly,shelfal succession,occurring between the Dhandraul Formation of the Kaimur Group (ﬂuvial sandstone)below and Drammondganj Formation of the Rewa Group (marginal marine sandstone)above.Such a stratigraphic disposition indicates a sharp rise in relative sea level at the onset of Rewa sedimentation,inducing a shelfal depth to the Vindhyan basin.However,a number of wedge-shaped,sandstone/conglomerate bodies (maximum thickness 23.5 m)occur at multiple stratigraphic levels within the aforesaid deeper water shale succession,which appear to be of much shallow water origin representing regressive deposits.Though these bodies do not deﬁne a single physically continuous unit,either vertically or laterally,they are still designated by a single term ‘Asan Sandstone ’in the literature.On the other hand,the encasing shelfal shales are termed as Panna and Jhiri Shales,in accordance with their occurrence below or above the so-called ‘Asan Sandstone ’.The present study reveals that in different sections spread over the Son valley,there are several discrete regressive wedges occurring vertically,and their depositional environment is also variable,ranging between braided ﬂuvial,shoreface fan and braid delta.The  features common to most of the regressive coarser clastic bodies are:</p>
+					<ul>
+						<li>invariable presence of deeper water,shelfal shale below (Panna or Jhiri);</li>
+						<li>the underlying shale at places shows signatures of emergence at the top;</li>
+						<li>laterally impersistent,wedge-like geometry;and</li>
+						<li>presence of granular transgressive lags at the top.These coarser clastic wedges record several episodes of regressive deposition during short-term falling stage or lowstand of relative sea level at the early phase of Rewa sedimentation.Each individual phase of regressive deposition was, however,followed by ﬂooding and resumption of shelf mud deposition.</li>
+					</ul>
+				</abstract>
+				<keywords>Neoproterozoic;Rewa Group;paleoenvironment;sea level;regression.</keywords>
+				<authors>
+					<author>
+						<name first="Partha Pratim" last="Chakraborty">Partha Pratim Chakraborty</name>
+						<affiliation>Department of Applied Geology, Indian School of Mines, Dhanbad 826 004, India.</affiliation>
+						<email>partha−geology@yahoo.co.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Stratigraphy, sedimentology and bulk organic geochemistry of black shales from the Proterozoic Vindhyan Supergroup (central India)</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0037-0047</page>
+				<abstract>
+					<p>Four organic-rich shale units of the Proterozoic Vindhyan sedimentary succession have been scanned to reveal their origin and hydrocarbon potential.The wavy-crinkly nature of the carbonaceous laminae is suggestive of a microbial mat origin of the shales.These shales are thus different from Phanerozoic black shales which typically exhibit planar laminae.The hydrocarbon potential of the black shale units has been evaluated by Rock-Eval pyrolysis.Total organic carbon content of many of the shales exceeds 1%.The mean \textit {T}_max for the black shales translate to a vitrinite re ﬂectance range of 2.05 –2.40%Rm based on standard conversion techniques.These shales have reached the catagenetic stage near the beginning of anthracite formation.</p>
+				</abstract>
+				<keywords>Proterozoic;black shales;microbial mat;kerogen;maturation;catagenesis.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Banerjee">S. Banerjee</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email>santanu@iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="S." last="Dutta">S. Dutta</name>
+						<affiliation>Forschungszentrum J¨ulich, Institut f¨ur Chemie und Dynamik der Geosph¨are, Sediment¨are Systeme, D-52425 J¨ulich, Germany.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Paikaray">S. Paikaray</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="U." last="Mann">U. Mann</name>
+						<affiliation>Forschungszentrum J¨ulich, Institut f¨ur Chemie und Dynamik der Geosph¨are, Sediment¨are Systeme, D-52425 J¨ulich, Germany.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Microbial mat-induced sedimentary structures in siliciclastic sediments: Examples from the 1.6 Ga Chorhat Sandstone, Vindhyan Supergroup, M.P., India</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0049-0060</page>
+				<abstract>
+					<p>This paper addresses macroscopic signatures of microbial mat-related structures within the 1.6 Ga-old Chorhat Sandstone of the Semri Group –the basal stratigraphic unit of the Vindhyan succession in Son valley.The Chorhat Sandstone broadly represents a prograding succession of three depositional facies ranging from shallow shelf to coastal margin with aeolian sandsheet.The mat-mediated structures were generated because of plastic or brittle deformation of sand,turned cohesive and even thixotropic because of microbial mat growth.Mat growth also favoured abundant preservation of structures that usually have low preservation potential.</p>
+					<p>Proliﬁc growth of microbial mat in the subtidal to intertidal zone of the Chorhat sea was facilitated due to lack of grazing and burrowing activities of organisms in the Precambrian.It further indicates low rate of sedimentation between the storms,as also attested by frequent superposition of storm-beds,even near the storm wave base.It also reduces erosion and that,in turn,would imply low sediment concentration in ﬂows leading to development of bedforms that are likely to be smaller in size and isolated from each other in a single train in contrast to those that form in mat-free sands.</p>
+				</abstract>
+				<keywords>Microbial mat;Proterozoic;siliciclastics;mat-induced structures;1.6 Ga-old Chorhat Sandstone.</keywords>
+				<authors>
+					<author>
+						<name first="Subir" last="Sarkar">Subir Sarkar</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+						<email>ssarkar@geology.jdvu.ac.in</email>
+					</author>
+					<author>
+						<name first="Santanu" last="Banerjee">Santanu Banerjee</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="Pradip" last="Samanta">Pradip Samanta</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+					</author>
+					<author>
+						<name first="Silambuchelvan" last="Jeevankumar">Silambuchelvan Jeevankumar</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Petrographic observations suggestive of microbial mats from Rampur Shale and Bijaigarh Shale, Vindhyan basin, India</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0061-0066</page>
+				<abstract>
+					<p>Petrographic observations of two Vindhyan black shales (Rampur Shale of the Semri Group and Bijaigarh Shale of the Kaimur Group)revealed the following features:</p>
+					<ul>
+						<li>general wavy lamination,</li>
+						<li>contorted and folded thin shreds of organic matter,</li>
+						<li>wavy pyritic laminae,</li>
+						<li>‘teeth and socket ’structure.</li>
+					</ul>
+					<p>These features are indirect evidence of microbial mat colonization during the Proterozoic.The microbial mats probably ﬁxed carbon at the sediment surface,stabilized sediment and recycled organic matter and were the primary producers,unlike during the Phanerozoic time.</p>
+				</abstract>
+				<keywords>Microbial mat;wavy laminae;black shales;pyrite;teeth and socket structures.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Sur">S. Sur</name>
+						<affiliation>Department of Geology and Geophysics, The University of Oklahoma, 100 East Boyd St., SEC Suite 810, Norman OK 73019, U.S.A.</affiliation>
+						<email>ssur@ou.edu</email>
+					</author>
+					<author>
+						<name first="J." last="Schieber">J. Schieber</name>
+						<affiliation>Department of Geological Sciences, Indiana University, 1001 E 10th St., Bloomington, IN 47405, U.S.A.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Banerjee">S. Banerjee</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Mumbai 400 076, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Palaeobiology of Mesoproterozoic Salkhan Limestone, Semri Group, Rohtas, Bihar, India: Systematics and significance</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0067-0098</page>
+				<abstract>
+					<p>Mesoproterozoic ($\sim 1600 Ma$ old) Salkhan Limestone (Semri Group)of the Vindhyan Supergroup, exposed in Rohtas district of Bihar,India,preserves an abundant and varied ancient microbial assemblage.These microfossils are recorded in three distinctly occurring cherts viz.,bedded chert, stromatolitic chert and cherty stromatolites.27 morphoforms belonging to 14 genera and 21 species have been recognized.Six unnamed forms are also described.</p>
+					<p>The microbial assemblage,almost exclusively composed of the remnants of cyanobacteria,is dominated by entophysalidacean members and short trichomes and can be termed as ‘typical Meso-proterozoic microbiotas ’.The assemblage includes characteristic mat-forming scytonematacean and entophysalidacean cyanobacteria. \textit {Eoentophysalis} is the dominant organism in the assemblage. Ellipsoidal akinetes of nostocalean cyanobacteria \textit {(Archaeollipsoides )} and spherical unicells also occur;both are distinct from mat forming assemblage,allochthonous and possibly planktic.Co-occurrence of the microbiotas and precipitates is related to the depositional environment of the Mesoproterozoic tidal ﬂats with high carbonate saturation.</p>
+				</abstract>
+				<keywords>Palaeobiology;cyanobactetria;microfossils;Semri Group;Vindhyan Supergroup;India.</keywords>
+				<authors>
+					<author>
+						<name first="Mukund" last="Sharma">Mukund Sharma</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, 53 University Road, Lucknow 226 007, India.</affiliation>
+						<email>sharmamukund1@rediffmail.com</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>\textit {Chuaria circularis} from the early Mesoproterozoic Suket Shale, Vindhyan Supergroup, India: Insights from light and electron microscopy and pyrolysis–gas chromatography</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0099-0112</page>
+				<abstract>
+					<p>\textit {Chuaria circularis} (Walcott 1899) from the Suket Shale of the Vindhyan Supergroup (central India) has been reinvestigated for its morphology and chemical composition using biostatistics,electron microscopy and pyrolysis –gas chromatography.Morphology and microscopic investigations provide little clues on the speciﬁc biological affinity of \textit {Chuaria} as numerous preservational artifacts seem to be incorporated.On the contrary,the predominance of \textit {n}-aliphatic pyrolysates of presently studied \textit {Chuaria} from India rather supports an algal affinity.Moreover,the reﬂectance of \textit {C. circularis} can be used to obtain a comparative maturity parameter of the Precambrian sediments.The review of the age and geographical distribution of \textit {C. circularis} constrains that this species cannot be considered as an index fossil for the Proterozoic time.</p>
+				</abstract>
+				<keywords>Chuaria circularis;Mesoproterozoic;Vindhyan Supergroup;pyrolysis–gas chromatography.</keywords>
+				<authors>
+					<author>
+						<name first="Suryendu" last="Dutta">Suryendu Dutta</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<affiliation>Technische Universit$\ddot{a} $t Berlin, Sekr. Ack 14, Ackerstrasse 71-76, 13355 Berlin, Germany.</affiliation>
+						<affiliation>Forschungszentrum J$\ddot{u} $lich, Institut f$\ddot{u} $r Chemie und Dynamik der Geosph$\ddot{a} $re, Sediment$\ddot{a} $re Systeme, D-52425 J$\ddot{u} $lich, Germany.</affiliation>
+						<email>s.dutta@fz-juelich.de</email>
+					</author>
+					<author>
+						<name first="Michael" last="Steiner">Michael Steiner</name>
+						<affiliation>Technische Universit$\ddot{a} $t Berlin, Sekr. Ack 14, Ackerstrasse 71-76, 13355 Berlin, Germany.</affiliation>
+					</author>
+					<author>
+						<name first="Santanu" last="Banerjee">Santanu Banerjee</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="Bernd-Dietrich" last="Erdtmann">Bernd-Dietrich Erdtmann</name>
+						<affiliation>Technische Universit$\ddot{a} $t Berlin, Sekr. Ack 14, Ackerstrasse 71-76, 13355 Berlin, Germany.</affiliation>
+					</author>
+					<author>
+						<name first="Silambuchelvan" last="Jeevankumar">Silambuchelvan Jeevankumar</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ulrich" last="Mann">Ulrich Mann</name>
+						<affiliation>Forschungszentrum J$\ddot{u} $lich, Institut f$\ddot{u} $r Chemie und Dynamik der Geosph$\ddot{a} $re, Sediment$\ddot{a} $re Systeme, D-52425 J$\ddot{u} $lich, Germany.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Carbon and oxygen isotope compositions of the carbonate facies in the Vindhyan Supergroup, central India</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0113-0134</page>
+				<abstract>
+					<p>The Vindhyan sedimentary succession in central India spans a wide time bracket from the Paleopro- terozoic to the Neoproterozoic period.Chronostratigraphic signiﬁcance of stable carbon and oxygen isotope ratios of the carbonate phase in Vindhyan sediments has been discussed in some recent studies.However,the subtle controls of facies variation,depositional setting and post-depositional diagenesis on stable isotope compositions are not yet clearly understood.The Vindhyan Super- group hosts four carbonate units,exhibiting a wide variability in depositional processes and paleogeography.A detailed facies-speciﬁc carbon and oxygen isotope study of the carbonate units was undertaken by us to investigate the effect of these processes and to identify the least altered isotope values.It is seen that both carbon and oxygen isotope compositions have been affected by early meteoric water diagenesis.The effect of diagenetic alteration is,however,more pronounced in case of oxygen isotopes than carbon isotopes.Stable isotope compositions remained insensitive to facies only when sediments accumulated in a shallow shelf setting without being exposed.Major alteration of original isotope ratios was observed in case of shallow marine carbonates,which became exposed to meteoric ﬂuids during early diagenetic stage.Duration of exposure possibly determined the magnitude of alteration and shift from the original values.Moreover,dolomitization is found to be accompanied by appreciable alteration of isotope compositions in some of the carbonates.The present study suggests that variations in sediment depositional settings,in particular the possibility of subaerial exposure,need to be considered while extracting chronostratigraphic signi ﬁcance from $\delta ^{13} C$ data.</p>
+				</abstract>
+				<keywords>Facies;meteoric water;diagenesis;Vindhyan;Proterozoic.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Banerjee">S. Banerjee</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Bhattacharya">S. K. Bhattacharya</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Sarkar">S. Sarkar</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Deep seismic reflection study over the Vindhyans of Rajasthan: Implications for geophysical setting of the basin</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0135-0147</page>
+				<abstract>
+					<p>This paper presents results of high-resolution deep seismic reﬂection proﬁling of the Proterozoic Vindhyan basin of the Rajasthan area along the Chandli –Bundi –Kota –Kunjer pro ﬁle.Seismic images have been used to estimate the thickness of Vindhyan strata as well as to understand the tectonic framework of the basin.The results are constrained by gravity,magnetic and magne-totelluric data.The study reveals gentle SE-dipping reﬂection bands representing the Vindhyan strata.The seismic sections depict gradual thickening of the Vindhyan succession towards south-east from Bundi.The velocities of the upper and lower Vindhyans are identiﬁed as 4.6 –4.8 km/s and 5.1 –5.3 km/s.The NW limit of the Vindhyan basin is demarcated by the Great Boundary Fault (GBF)that manifests as a 30 km wide NW dipping thrust fault extending to a depth of 30 km.</p>
+				</abstract>
+				<keywords>Vindhyan basin;reflection band;Great Boundary Fault;Narmada–Son lineament.</keywords>
+				<authors>
+					<author>
+						<name first="B. Rajendra" last="Prasad">B. Rajendra Prasad</name>
+						<affiliation>National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+						<email>rajbitragunta@yahoo.com</email>
+					</author>
+					<author>
+						<name first="V. Vijaya" last="Rao">V. Vijaya Rao</name>
+						<affiliation>National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+						<email>vijayraov@yahoo.co.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Age of the Vindhyan Supergroup: A review of recent findings</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0149-0160</page>
+				<abstract>
+					<p>The Vindhyan Supergroup of India is one of the largest and thickest sedimentary successions of the world.Deposited in an intra-cratonic basin,it is composed mostly of shallow marine deposits. It is believed to have recorded a substantial portion of Proterozoic time and therefore,likely to contain valuable information on the evolution of the atmosphere,climate,and life on our planet. It also contains some of the most disputed fossils of earliest animal life.Despite their importance, the absolute age of these rocks had remained unknown until recently.In this work I evaluate all the recent chronological information and discuss their implications.From the present ﬁndings it appears that the issues surrounding the age of the Lower Vindhyans in the Son valley are now resolved,whereas problems with the age of the Upper Vindhyans and that with the stratigraphic correlations remain to be answered.</p>
+				</abstract>
+				<keywords>Vindhyan Supergroup;geochronology;U–Pb zircon dating;isotope stratigraphy.</keywords>
+				<authors>
+					<author>
+						<name first="Jyotiranjan S." last="Ray">Jyotiranjan S. Ray</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email>jsray@prl.res.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Mesoproterozoic diamondiferous ultramafic pipes at Majhgawan and Hinota, Panna area, central India: Key to the nature of sub-continental lithospheric mantle beneath the Vindhyan basin</title>
+				<feature>Special issue: Vindhyan Geology: Status and Perspectives</feature>
+				<page>0161-0183</page>
+				<abstract>
+					<p>Amongst all the perceptible igneous manifestations (volcanic tuffs and agglomerates,minor rhyolitic ﬂows and andesites,dolerite dykes and sills near the basin margins,etc.)in the Vindhyan basin,the two Mesoproterozoic diamondiferous ultramaﬁc pipes intruding the Kaimur Group of sediments at Majhgawan and Hinota in the Panna area are not only the most conspicuous but also well-known and have relatively deeper mantle origin.Hence,these pipes constitute the only yet available ‘direct ’mantle samples from this region and their petrology,geochemistry and iso-tope systematics are of profound signiﬁcance in understanding the nature of the sub-continental lithospheric mantle beneath the Vindhyan basin.Their emplacement age ($\sim 1100 Ma$)also constitutes the only reliable minimum age constrain on the Lower Vindhyan Group of rocks.The Majhgawan and Hinota pipes share the petrological,geochemical and isotope characteristics of kimberlite,orangeite (Group II kimberlite)and lamproite and hence are recognised as belonging to a ‘transitional kimberlite –orangeite –lamproite ’rock type.The name \textit {majhagwanite} has been proposed by this author to distinguish them from other primary diamond source rocks.The parent magma of the Majhgawan and Hinota pipes is envisaged to have been derived by very small (&mt; 1%)degrees of partial melting of a phlogopite-garnet lherzolite source (rich in titanium and barium)that has been previously subjected to an episode of initial depletion (extensive melting during continent formation)and subsequent metasomatism (enrichment).There is absence of any subduction-related characteristics,such as large negative anomalies at Ta and Nb,and therefore, the source enrichment (metasomatism)of both these pipes is attributed to the volatile-and K-rich, extremely low-viscosity melts that leak continuously to semi-continuously from the asthenosphere and accumulate in the overlying lithosphere.Lithospheric/crustal extension,rather than decompression melting induced by a mantle plume,is favoured as the cause of melting of the source regions of Majhgawan and Hinota pipes.This paper is a review of the critical evaluation of the published work on these pipes based on contemporary knowledge derived from similar occurrences elsewhere.</p>
+				</abstract>
+				<keywords>Kimberlite;lamproite;orangeite;diamond;proterozoic;Majhgawan;Hinota;Panna;Vindhyan basin;India.</keywords>
+				<authors>
+					<author>
+						<name first="N. V. Chalapathi" last="Rao">N. V. Chalapathi Rao</name>
+						<affiliation>EPMA Laboratory, Mineralogy Section, Ore Dressing Division, Indian Bureau of Mines, Nagpur 440 016, India.</affiliation>
+						<email>nvcr100@gmail.com</email>
+					</author>
+				</authors>
+			</entry>
+		</issue>
+		<issue inum="02" month="04" year="2006">
+			<entry hassup="0">
+				<title>Transitions in the surface energy balance during the life cycle of a monsoon season</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0185-0201</page>
+				<abstract>
+					<p>In this observational/diagnostic study,we illustrate the time history of some important parameters of the surface energy balance during the life cycle of a single monsoon season.This chronology of the surface energy balance portrays the differential equilibrium state from the preonset phase to the withdrawal phase.This includes an analysis of the time history of base variables such as soil moisture,ground temperature,cloud cover,precipitation and humidity.This is followed by an analysis of the components of the surface energy balance where we note subtle changes in the overall balances as we proceed from one epoch of the monsoon to the next.Of interest here is the transition sequence:preonset,onset,break,revival,break,revival and withdrawal during the year 2001.Computations are all illustrated for a box over central India where the coastal effects were small,data coverage was not sparse and where the semi-arid land mass changes drastically to a lush green area.This region exhibited large changes in the components of surface energy balance.The principal results pertain to what balances the difference among the incoming short wave radiation (at the earth ’s surface)and the long wave radiation exhibited by the ground.That difference is balanced by a dominant sensible heat ﬂux and the reﬂected short wave radiation in the preonset stage.A sudden change in the Bowen ratio going from &lt; 1to &mt; 1 is noted soon after the onset of monsoon.Thereafter the latent heat ﬂux from the land surface takes an important role and the sensible heat ﬂux acquires a diminishing role.We also examine the subtle changes that occur in the components of surface energy balance between the break and the active phases.The break phases are seen to be quite different from the preonset phases.This study is aimed to illustrate the major importance of moisture and clouds in the radiative transfer computations that are central to the surface energy balance during each epoch.These sensitivities (of moisture and clouds)have major consequences for weather and climate forecasts.</p>
+				</abstract>
+				<keywords>Surface energy balance;onset/active/break cycle of monsoon;transition in Bowen ratio.</keywords>
+				<authors>
+					<author>
+						<name first="T. N." last="Krishnamurti">T. N. Krishnamurti</name>
+						<affiliation>Department of Meteorology, The Florida State University, Tallahassee, FL 32306, USA.</affiliation>
+						<email>tnk@io.met.fsu.edu</email>
+					</author>
+					<author>
+						<name first="Mrinal K." last="Biswas">Mrinal K. Biswas</name>
+						<affiliation>Department of Meteorology, The Florida State University, Tallahassee, FL 32306, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-20</date>
+					<date type="R">2005-10-10</date>
+					<date type="A">2005-10-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spatio-temporal variability of summer monsoon rainfall over Orissa in relation to low pressure systems</title>
+				<feature></feature>
+				<page>0203-0218</page>
+				<abstract>
+					<p>The summer monsoon rainfall over Orissa occurs mostly due to low pressure systems (LPS)developing over the Bay of Bengal and moving along the monsoon trough.A study is hence undertaken to ﬁnd out characteristic features of the relationship between LPS over different regions and rainfall over Orissa during the summer monsoon season (June--September).For this purpose,rainfall and rainy days over 31 selected stations in Orissa and LPS days over Orissa and adjoining land and sea regions during different monsoon months and the season as a whole over a period of 20 years (1980--1999)are analysed.The principal objective of this study is to ﬁnd out the role of LPS on spatial and temporal variability of summer monsoon rainfall over Orissa.</p>
+					<p>The rainfall has been signiﬁcantly less than normal over most parts of Orissa except the eastern side of Eastern Ghats during July and hence during the season as a whole due to a signiﬁcantly less number of LPS days over northwest Bay in July over the period of 1980--1999.The seasonal rainfall shows higher interannual variation (increase in coefficient of variation by about 5%)during 1980--1999 than that during 1901--1990 over most parts of Orissa except northeast Orissa.Most parts of Orissa,especially the region extending from central part of coastal Orissa to western Orissa (central zone)and western side of the Eastern Ghats get more seasonal monsoon rainfall with the development and persistence of LPS over northwest Bay and their subsequent movement and persistence over Orissa.The north Orissa adjoining central zone also gets more seasonal rainfall with development and persistence of LPS over northwest Bay.While the seasonal rainfall over the western side of the Eastern Ghats is adversely affected due to increase in LPS days over west central Bay,Jharkhand and Bangladesh,that over the eastern side of the Eastern Ghats is adversely affected due to increase in LPS days over all the regions to the north of Orissa.There are signiﬁcant decreasing trends in rainfall and number of rainy days over some parts of southwest Orissa during June and decreasing trends in rainy days over some parts of north interior Orissa and central part of coastal Orissa during July over the period of 1980--1999.</p>
+				</abstract>
+				<keywords>Rainfall variability;monsoon;Orissa.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Mohapatra">M. Mohapatra</name>
+						<affiliation>India Meteorological Department, Guwahati 781 015, Assam, India.</affiliation>
+					</author>
+					<author>
+						<name first="U. C." last="Mohanty">U. C. Mohanty</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology, Delhi, New Delhi 110 016, India.</affiliation>
+						<email>mohanty@cas.iitd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-01-27</date>
+					<date type="R">2005-08-17</date>
+					<date type="A">2005-09-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Coupled equations for transient water flow, heat flow, and deformation in hydrogeological systems</title>
+				<feature></feature>
+				<page>0219-0228</page>
+				<abstract>
+					<p>Hydrogeological systems are earth systems inﬂuenced by water.Their behaviors are governed by interacting processes,including ﬂow of ﬂuids,deformation of porous materials,chemical reactions, and transport of matter and energy.Here,coupling among three of these processes is considered: ﬂow of water,heat,and deformation,each of which is represented by a diffusion-type of partial differential equation.One side of the diffusion-type equation relates to motion of matter or energy, while the other relates to temporal changes of state variables at a given location.The coupling arises from processes that govern motion as well as those that relate to change of state.In this work, attention is devoted to coupling arising from changes in state.Partial derivatives of equations of state constitute the capacitance terms of diffusion-type equations.Of the many partial derivatives that are mathematically possible in physical systems characterized by several variables,only a few are physically signi ﬁcant.Because the state variables are related to each other through an equation of state,the partial derivatives must collectively satisfy a closure criterion.This framework offers a systematic way of developing the coupled set of equations that govern hydrogeological systems involving the ﬂow of water,heat,and deformation.Such systems are described in terms of four variables,and the associated partial derivatives.The physical import of these derivatives are discussed,followed by a description of partial derivatives that are of practical interest.These partial derivatives are then used as the basis to develop a set of coupled equations.A brief discussion is presented on coupled equations from a perspective of energy optimization.</p>
+				</abstract>
+				<keywords>Coupled processes;hydrogeological systems;heat and mass transport.</keywords>
+				<authors>
+					<author>
+						<name first="T. N." last="Narasimhan">T. N. Narasimhan</name>
+						<affiliation>Department of Materials Science and Engineering, Department of Environmental Science, Policy and Management, 210 Hearst Memorial Mining Building, University of California at Berkeley, Berkeley, Ca 94720-1760, USA.</affiliation>
+						<email>tnnarasimhan@lbl.gov</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-05</date>
+					<date type="R">2005-08-31</date>
+					<date type="A">2005-09-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Impact of sea breeze on wind-seas off Goa, west coast of India</title>
+				<feature></feature>
+				<page>0229-0234</page>
+				<abstract>
+					<p>After withdrawal of the Indian Summer Monsoon and until onset of the next monsoon,i.e.,roughly during November--May,winds in the coastal regions of India are dominated by sea breeze.It has an impact on the daily cycle of the sea state near the coast.The impact is quite signiﬁcant when large scale winds are weak.During one such event,1 –15 April 1997,a Datawell directional waverider buoy was deployed in 23 m water depth off Goa,west coast of India.Twenty-minute averaged spectra,collected once every three hours,show that the spectrum of sea-breeze-related ‘wind-seas ’ peaked at $0.23 \pm 0.05 Hz$. These wind-seas were well separated from swells of frequencies less than 0.15 Hz.The TMA spectrum (Bouws \textit {et al} 1985) matched the observed seas spectra very well when the sea-breeze was active and the fetch corresponding to equilibrium spectrum was found to be $77 \pm 43$ km during such occasions. We emphasize on the diurnal cycle of sea-breeze-related sea off the coast of Goa and write an equation for the energy of the seas as a function of the local wind.</p>
+				</abstract>
+				<keywords>Wind-wave;sea breeze;coastal processes;energy density spectra;Arabian Sea.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Neetu">S. Neetu</name>
+						<affiliation>Physical Oceanography Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>neetu@nio.org</email>
+					</author>
+					<author>
+						<name first="Satish" last="Shetye">Satish Shetye</name>
+						<affiliation>Physical Oceanography Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Chandramohan">P. Chandramohan</name>
+						<affiliation>Indomer Coastal Hydraulics (P) Ltd, Ragamalika, Kumran Colony Main Road, Vadapalani, Chennai 600 026, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-02</date>
+					<date type="R">2005-10-24</date>
+					<date type="A">2005-10-26</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Auto-correlation analysis of wave heights in the Bay of Bengal</title>
+				<feature></feature>
+				<page>0235-0237</page>
+				<abstract>
+					<p>Time series observations of signiﬁcant wave heights in the Bay of Bengal were subjected to auto-correlation analysis to determine temporal variability scale.The analysis indicates an exponential fall of auto-correlation in the ﬁrst few hours with a decorrelation time scale of about six hours.A similar ﬁgure was found earlier for ocean surface winds.The nature of variation of auto-correlation with time lags was also found to be similar for winds and wave heights.</p>
+				</abstract>
+				<keywords>Significant wave height;auto-correlation;temporal variability.</keywords>
+				<authors>
+					<author>
+						<name first="Abhijit" last="Sarkar">Abhijit Sarkar</name>
+						<affiliation>Meteorology & Oceanography Group, Space Applications Centre, ISRO, Ahmedabad 380 015, India.</affiliation>
+						<email>sarkar_abhi2000@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Jignesh" last="Kshatriya">Jignesh Kshatriya</name>
+						<affiliation>Meteorology & Oceanography Group, Space Applications Centre, ISRO, Ahmedabad 380 015, India.</affiliation>
+						<email>k_jignesh@ipdpg.gov.in</email>
+					</author>
+					<author>
+						<name first="K." last="Satheesan">K. Satheesan</name>
+						<affiliation>Meteorology & Oceanography Group, Space Applications Centre, ISRO, Ahmedabad 380 015, India.</affiliation>
+						<email>k_satheesan@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-04</date>
+					<date type="R">2005-10-14</date>
+					<date type="A">2006-01-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Correct nomenclature for the Angadimogar pluton, Kerala, southwestern India</title>
+				<feature></feature>
+				<page>0239-0248</page>
+				<abstract>
+					<p>The proper usage of modal composition and geochemical classiﬁcation of granitoids is discussed for assigning a proper nomenclature for the Angadimogar pluton,Kerala,southwestern India.This discussion is mainly aimed at addressing questions concerning the nomenclature of Angadimogar pluton (syenite vs. granite).Modal composition and whole-rock XRD data clearly show that the pluton exposed near Angadimogar is a quartz-syenite and its geochemistry is typical of a ferroan, metaluminous,alkali (A-type)granitoid.</p>
+				</abstract>
+				<keywords>Nomenclature;modal composition;whole-rock XRD;geochemistry;quartz-syenite;A-type granitoid.</keywords>
+				<authors>
+					<author>
+						<name first="H. M." last="Rajesh">H. M. Rajesh</name>
+						<affiliation>Graduate School of Life and Environmental Sciences, University of Tsukuba, Ibaraki 305-8572, Japan.</affiliation>
+						<email>rajesh.hm@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-06</date>
+					<date type="R">2005-08-23</date>
+					<date type="A">2005-08-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Bedrock gorges in the central mainland Kachchh: Implications for landscape evolution</title>
+				<feature></feature>
+				<page>0249-0256</page>
+				<abstract>
+					<p>Kachchh possesses a fault-controlled ﬁrst-order topography and several geomorphic features indicative of active tectonics.Though coseismic neotectonic activity is believed to be the major factor in the evolution of the landscape,detailed documentation and analysis of vital landscape features like drainage characteristics,bedrock gorges and terraces are lacking.The present study is a site-speci ﬁc documentation of gorges developed in the central part of the mainland Kachchh.We analyzed and interpreted four gorges occurring on either side of Katrol Hill Fault (KHF).The Khari river gorge is endowed with six levels of bedrock terraces,some of which are studded with large potholes and ﬂutings.Since no active development of potholes is observed along the rivers in the present day hyper-arid conditions,we infer an obvious linkage of gorges to the humid phases,which provided high energy runoff for the formation of gorges and distinct bedrock terraces and associated erosional features.Development of gorges within the miliolites and incision in the ﬂuvial deposits to the south of the KHF indicates that the gorges were formed during Early Holocene.However,ubi-quitous occurrence of gorges along the streams to the south of KHF,the uniformly $N40^\circ E$ trend of the gorges,their close association with transverse faults and the short length of the exceptionally well developed Khari river gorge in the low-relief rocky plain to the north of KHF suggests an important role of neotectonic movements.</p>
+				</abstract>
+				<keywords>Bedrock gorges;rocky terraces;potholes;tectonic uplift;landscape evolution;Kachchh.</keywords>
+				<authors>
+					<author>
+						<name first="M. G." last="Thakkar">M. G. Thakkar</name>
+						<affiliation>Department of Geology, R R Lalan College, Bhuj, Kachchh 370 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="B." last="Goyal">B. Goyal</name>
+						<affiliation>Department of Geology, R R Lalan College, Bhuj, Kachchh 370 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Patidar">A. K. Patidar</name>
+						<affiliation>Department of Geology, The Maharaja Sayajirao University of Baroda, Vadodara 390 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. M." last="Maurya">D. M. Maurya</name>
+						<affiliation>Department of Geology, The Maharaja Sayajirao University of Baroda, Vadodara 390 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="L. S." last="Chamyal">L. S. Chamyal</name>
+						<affiliation>Department of Geology, The Maharaja Sayajirao University of Baroda, Vadodara 390 002, India.</affiliation>
+						<email>lschamyal@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-20</date>
+					<date type="R">2005-08-25</date>
+					<date type="A">2005-10-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Wave velocities in a pre-stressed anisotropic elastic medium</title>
+				<feature></feature>
+				<page>0257-0265</page>
+				<abstract>
+					<p>Modiﬁed Christoffel equations are derived for three-dimensional wave propagation in a general anisotropic medium under initial stress.The three roots of a cubic equation deﬁne the phase velocities of three quasi-waves in the medium.Analytical expressions are used to calculate the directional derivatives of phase velocities.These derivatives are,further,used to calculate the group velocities and ray directions of the three quasi-waves in a pre-stressed anisotropic medium.Effect of initial stress on wave propagation is observed through the deviations in phase velocity,group velocity and ray direction for each of the quasi-waves.The variations of these deviations with the phase direction are plotted for a numerical model of general anisotropic medium with triclinic/ monoclinic/orthorhombic symmetry.</p>
+				</abstract>
+				<keywords>Pre-stress;anisotropy;phase velocity;group velocity.</keywords>
+				<authors>
+					<author>
+						<name first="M. D." last="Sharma">M. D. Sharma</name>
+						<affiliation>Department of Mathematics, Kurukshetra University, Kurukshetra 136 119, India.</affiliation>
+						<email>mohan_here@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Neetu" last="Garg">Neetu Garg</name>
+						<affiliation>UIET, Kurukshetra University, Kurukshetra 136 119, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-05-30</date>
+					<date type="R">2005-08-02</date>
+					<date type="A">2005-08-31</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="06" year="2006">
+			<entry hassup="0">
+				<title>Fast computation of Hankel Transform using orthonormal exponential approximation of complex kernel function</title>
+				<feature></feature>
+				<page>0267-0276</page>
+				<abstract>
+					<p>The computation of electromagnetic (EM)ﬁelds,for 1-D layered earth model,requires evaluation of Hankel Transform (HT)of the EM kernel function.The digital ﬁltering is the most widely used technique to evaluate HT integrals.However,it has some obvious shortcomings.We present an alternative scheme,based on an orthonormal exponential approximation of the kernel function, for evaluating HT integrals.This approximation of the kernel function was chosen because the analytical solution of HT of an exponential function is readily available in literature.This expansion reduces the integral to a simple algebraic sum.The implementation of such a scheme requires that the weights and the exponents of the exponential function be estimated.The exponents were estimated through a guided search algorithm while the weights were obtained using Marquardt matrix inversion method.The algorithm was tested on analytical HT pairs available in literature. The results are compared with those obtained using the digital ﬁltering technique with Anderson ﬁlters.The ﬁeld curves for four types (A-,K-,H-and Q-type)of 3-layer earth models are generated using the present scheme and compared with the corresponding curves obtained using the Anderson scheme.It is concluded that the present scheme is more accurate than the Anderson scheme.</p>
+				</abstract>
+				<keywords>Electromagnetic response;exponential approximation of kernel function;Hankel Transform.</keywords>
+				<authors>
+					<author>
+						<name first="Pravin K." last="Gupta">Pravin K. Gupta</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee 247 667, India.</affiliation>
+					</author>
+					<author>
+						<name first="Sri" last="Niwas">Sri Niwas</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee 247 667, India.</affiliation>
+					</author>
+					<author>
+						<name first="Neeta" last="Chaudhary">Neeta Chaudhary</name>
+						<affiliation>Oil and Natural Gas Corporation, Priyadarshini Building, Sion, Mumbai, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-09</date>
+					<date type="R">2005-12-22</date>
+					<date type="A">2006-01-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>2-D deformation of two welded half-spaces due to a blind dip-slip fault</title>
+				<feature></feature>
+				<page>0277-0287</page>
+				<abstract>
+					<p>The solution of two-dimensional problem of an interface breaking long inclined dip-slip fault in two welded half-spaces is well known.The purpose of this note is to obtain the corresponding solution for a blind fault.The solution is valid for arbitrary values of the fault-depth and the dip angle.Graphs showing the variation of the displacement ﬁeld with the distance from the fault, for different values of fault depth and dip angle are presented.Contour maps showing the stress ﬁeld around a long dip-slip fault are also obtained.</p>
+				</abstract>
+				<keywords>Blind fault;dip-slip fault;two dimensional;welded half-spaces.</keywords>
+				<authors>
+					<author>
+						<name first="Sunita" last="Rani">Sunita Rani</name>
+						<affiliation>Department of Mathematics, Guru Jambheshwar University, Hisar 125 001, India.</affiliation>
+						<email>s_b_rani@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Neeru" last="Bala">Neeru Bala</name>
+						<affiliation>Department of Mathematics, Guru Jambheshwar University, Hisar 125 001, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-04-27</date>
+					<date type="R">2005-10-31</date>
+					<date type="A">2006-01-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Modeling of groundwater flow for Mujib aquifer, Jordan</title>
+				<feature></feature>
+				<page>0289-0297</page>
+				<abstract>
+					<p>Jordan is an arid country with very limited water resources.Groundwater is the main source for its water supply.Mujib aquifer is located in the central part of Jordan and is a major source of drinking water for Amman,Madaba and Karak cities.High abstraction rates from Mujib aquifer during the previous years lead to a major decline in water levels and deterioration in groundwater quality. Therefore,proper groundwater management of Mujib aquifer is necessary;and groundwater ﬂow modeling is essential for proper management.For this purpose,Mod ﬂow was used to build a groundwater ﬂow model to simulate the behavior of the ﬂow system under different stresses.The model was calibrated for steady state condition by matching observed and simulated initial head counter lines.Drawdown data for the period 1985--1995 were used to calibrate the transient model by matching simulated drawdown with the observed one.Then,the transient model was validated by using drawdown data for the period 1996--2002.The results of the calibrated model showed that the horizontal hydraulic conductivity of the B2/A7 aquifer ranges between 0.001 and 40 m/d. Calibrated speci ﬁc yield ranges from 0.0001 to 0.15.The water balance for the steady state condition of Mujib aquifer indicated that the total annual direct recharge is $20.4 \times 10^{6} m^3$ ,the total annual in ﬂow is $13.0 \times 10^{6} m^{3}$ ,springs discharge is $15.3 \times 10^{6} m^{3}$ ,and total annual out ﬂow is $18.7 \times 10^{6} m^{3}$. Different scenarios were considered to predict aquifer system response under different conditions.  The results of the sensitivity analysis show that the model is highly sensitive to horizontal hydraulic conductivity and anisotropy and with lower level to the recharge rates.Also the model is sensitive to speciﬁc yield.</p>
+				</abstract>
+				<keywords>Modflow;Mujib basin–Jordan;groundwater modeling;calibration;validation.</keywords>
+				<authors>
+					<author>
+						<name first="Fayez" last="Abdulla">Fayez Abdulla</name>
+						<affiliation>Associate Professor of Water Resources, Civil Engineering Department, Jordan University of Science & Technology, P.O Box 3030, Irbid 22110, Jordan.</affiliation>
+						<email>fabdulla@just.edu.jo</email>
+					</author>
+					<author>
+						<name first="Tamer" last="Al-Assa’d">Tamer Al-Assa’d</name>
+						<affiliation>Water Resources Consultant, Eco-Consult, Amman, Jordan.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-27</date>
+					<date type="R">2005-11-14</date>
+					<date type="A">2005-12-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Simulation of a Himalayan cloudburst event</title>
+				<feature></feature>
+				<page>0299-0313</page>
+				<abstract>
+					<p>Intense rainfall often leads to ﬂoods and landslides in the Himalayan region even with rainfall amounts that are considered comparatively moderate over the plains;for example,‘cloudbursts ’, which are devastating convective phenomena producing sudden high-intensity rainfall ($\sim 10 cm$ per hour)over a small area.Early prediction and warning of such severe local weather systems is crucial to mitigate societal impact arising from the accompanying ﬂash ﬂoods.We examine a cloudburst event in the Himalayan region at Shillagarh village in the early hours of 16 July 2003.The storm lasted for less than half an hour, followed by ﬂash ﬂoods that affected hundreds of people.We examine the ﬁdelity of MM5 con ﬁgured with multiple-nested domains (81,27,9 and 3 km grid-resolution)for predicting a cloudburst event with attention to horizontal resolution and the cloud microphysics parameterization.The MM5 model predicts the rainfall amount 24 hours in advance. However,the location of the cloudburst is displaced by tens of kilometers.</p>
+				</abstract>
+				<keywords>Cloudburst;flash floods;mesoscale;tropical rainfall measuring mission.</keywords>
+				<authors>
+					<author>
+						<name first="Someshwar" last="Das">Someshwar Das</name>
+						<affiliation>National Center for Medium Range Weather Forecasting, Noida 201 307, India.</affiliation>
+						<email>somesh@ncmrwf.gov.in</email>
+					</author>
+					<author>
+						<name first="Raghavendra" last="Ashrit">Raghavendra Ashrit</name>
+						<affiliation>National Center for Medium Range Weather Forecasting, Noida 201 307, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. W." last="Moncrieff">M. W. Moncrieff</name>
+						<affiliation>National Center for Atmospheric Research, Boulder CO 80301, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-16</date>
+					<date type="R">2005-11-16</date>
+					<date type="A">2006-01-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Operational mesoscale atmospheric dispersion prediction using a parallel computing cluster</title>
+				<feature></feature>
+				<page>0315-0332</page>
+				<abstract>
+					<p>An operational atmospheric dispersion prediction system is implemented on a cluster supercomputer for Online Emergency Response at the Kalpakkam nuclear site.This numerical system constitutes a parallel version of a nested grid meso-scale meteorological model MM5 coupled to a random walk particle dispersion model FLEXPART.The system provides 48-hour forecast of the local weather and radioactive plume dispersion due to hypothetical airborne releases in a range of 100 km around the site.The parallel code was implemented on different cluster con ﬁgurations like distributed and shared memory systems.A 16-node dual Xeon distributed memory gigabit ethernet cluster has been found sufficient for operational applications.The runtime of a triple nested domain MM5 is about 4 h for a 24 h forecast.The system had been operated continuously for a few months and results were ported on the IMSc home page.</p>
+					<p>Initial and periodic boundary condition data for MM5 are provided by NCMRWF,New Delhi. An alternative source is found to be NCEP,USA.These two sources provide the input data to the operational models at different spatial and temporal resolutions using different assimilation methods.A comparative study on the results of forecast is presented using these two data sources for present operational use.Improvement is noticed in rainfall forecasts that used NCEP data, probably because of its high spatial and temporal resolution.</p>
+				</abstract>
+				<keywords>Operational mesoscale dispersion model;cluster computer;MM5;RSL;FLIC.</keywords>
+				<authors>
+					<author>
+						<name first="C. V." last="Srinivas">C. V. Srinivas</name>
+						<affiliation>Radiological Safety Division, SE Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+						<email>cvsri@igcar.ernet.in</email>
+					</author>
+					<author>
+						<name first="R." last="Venkatesan">R. Venkatesan</name>
+						<affiliation>Radiological Safety Division, SE Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. V." last="Muralidharan">N. V. Muralidharan</name>
+						<affiliation>Radiological Safety Division, SE Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+					</author>
+					<author>
+						<name first="Someshwar" last="Das">Someshwar Das</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="Hari" last="Dass">Hari Dass</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. Eswara" last="Kumar">P. Eswara Kumar</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-10</date>
+					<date type="R">2005-09-29</date>
+					<date type="A">2005-11-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Retrieval of stratospheric $O_{3}$ and $NO_{2}$ vertical profiles using zenith scattered light observations</title>
+				<feature></feature>
+				<page>0333-0347</page>
+				<abstract>
+					<p>Daily zenith scattered light intensity observations were carried out in the morning twilight hours using home-made UV-visible spectrometer over the tropical station Pune ($18^\circ 31^{,}, 73^\circ 51^{,}$ )for the years 2000--2003.These observations are obtained in the spectral range 462--498 nm for the solar zenith angles (SZAs)varying from $87^\circ to 91.5^\circ $.An algorithm has been developed to retrieve vertical proﬁles of ozone ($O_3$) and nitrogen dioxide ($NO_2$) from ground-based measurements using the Chahine iteration method.This retrieval method has been checked using measured and recalculated slant column densities (SCDs)and they are found to be well matching. $O_3$ and $NO_2$ vertical proﬁles have been retrieved using a set of their air mass factors (AMFs)and SCDs measured over a range of $87--91.5^\circ $ SZA during the morning.The vertical proﬁles obtained by this method are compared with Umkehr proﬁles and ozonesondes and they are found to be in good agreement.The bulk of the column density is found near layer 20--25 km.Daily total column densities (TCDs)of $O_3$ and $NO_2$ along with their stratospheric and tropospheric counterparts are derived using their vertical proﬁles for the period 2000--2003.The total column,stratospheric column and tropospheric column amounts of both trace gases are found to be maximum in summer and minimum in the winter season.Increasing trend is found in column density of $NO_2$ in stratospheric,tropospheric and surface layers,but no trend is observed in $O_3$ columns for above layers during the period 2000--2003.</p>
+				</abstract>
+				<keywords>Ozone;nitrogen dioxide;vertical profile;total column density;air mass factor;solar zenith angle.</keywords>
+				<authors>
+					<author>
+						<name first="G. S." last="Meena">G. S. Meena</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pashan, Pune 411 008, India.</affiliation>
+						<email>gsm@tropmet.res.in</email>
+					</author>
+					<author>
+						<name first="C. S." last="Bhosale">C. S. Bhosale</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pashan, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. B." last="Jadhav">D. B. Jadhav</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pashan, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-04-12</date>
+					<date type="R">2005-10-05</date>
+					<date type="A">2005-11-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Global surface temperature in relation to northeast monsoon rainfall over Tamil Nadu</title>
+				<feature></feature>
+				<page>0349-0362</page>
+				<abstract>
+					<p>The local and teleconnective association between Northeast Monsoon Rainfall (NEMR)over Tamil Nadu and global Surface Temperature Anomalies (STA)is examined using the monthly grid-ded STA data for the period 1901--2004.Various geographical regions which have signiﬁcant tele-connective signals associated with NEMR are identi ﬁed.During excess (deﬁcient)NEMR years,it is observed that the meridional gradient in surface air temperature anomalies between Europe and north Africa,in the month of September is directed from the subtropics (higher latitudes)to higher latitudes (subtropics).It is also observed that North Atlantic Oscillation (NAO)during September in ﬂuences the surface air temperature distribution over north Africa and Europe.Also,the NAO index in January shows signiﬁcant inverse relationship with NEMR since recent times.The central and eastern equatorial Paciﬁc oceanic regions have signi ﬁcant and consistent positive correlation with NEMR while the western equatorial region has signiﬁcant negative correlation with NEMR. A zonal temperature anomaly gradient index (ZTAGI)de ﬁned between eastern equatorial Paciﬁc and western equatorial Paciﬁc shows stable signiﬁcant inverse relationship with NEMR.</p>
+				</abstract>
+				<keywords>Global surface temperature anomaly;northeast monsoon rainfall;teleconnection;north Atlantic oscillation.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Balachandran">S. Balachandran</name>
+						<affiliation>Regional Meteorological Centre, 50(New 6) College Road, Chennai 600 006, India.</affiliation>
+						<email>balaimd@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="R." last="Asokan">R. Asokan</name>
+						<affiliation>Regional Meteorological Centre, 50(New 6) College Road, Chennai 600 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Sridharan">S. Sridharan</name>
+						<affiliation>Regional Meteorological Centre, 50(New 6) College Road, Chennai 600 006, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-27</date>
+					<date type="R">2005-12-23</date>
+					<date type="A">2006-01-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Amino sugars in suspended particulate matter from the Bay of Bengal during the summer monsoon of 2001</title>
+				<feature></feature>
+				<page>0363-0370</page>
+				<abstract>
+					<p>Amino sugars (AS)are important constituents of organic matter.However,very little is known about their cycling in marine waters.In this research,we assessed the distribution and cycling of these compounds in waters of the Bay of Bengal.For this purpose,samples of suspended particulate matter (SPM)were collected from 8 depths (surface to 1000 m)at 6 locations during the 166th cruise of the ORV Sagar Kanya in the Bay of Bengal in July/August 2001.The SPM samples were analysed for particulate organic carbon (POC),particulate nitrogen (PN)and AS concentrations and composition.The AS varied between 0.4 and 17.5 nmol/l.Concentrations were high in the surface waters and generally decreased with increasing depth.AS concentration decreased from the south to north.AS accounted for 0.01 to 0.71%and 0.05 to 2.37%of POC and PN,respectively. Rapid decrease in AS-C%and AS-N%with depth indicates that these compounds were preferentially degraded relative to bulk POC and PN.The composition of AS suggests that glucosamine (GLU-N)and galactosamine (GAL-N)were present in the surface SPM samples,and their abundance decreased from surface downwards.Relatively,low values of GLU-N/GAL-N ratio indicate that the organic matter was mostly derived from the detritus of micro-organisms.Our data suggest that chitin,a polymer of the glucosamine produced by many marine organisms was not the major source of AS in the Bay.Rapid cycling of these compounds indicates their importance in the cycling of nitrogen in marine waters.</p>
+				</abstract>
+				<keywords>Suspended particulate matter;organic matter;particulate nitrogen;amino sugars;micro-organisms;Bay of Bengal.</keywords>
+				<authors>
+					<author>
+						<name first="Loreta" last="Fernandes">Loreta Fernandes</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="Fraddry" last="D’Souza">Fraddry D’Souza</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. G. P." last="Matondkar">S. G. P. Matondkar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="Narayan B." last="Bhosle">Narayan B. Bhosle</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>bhosle@nio.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-07</date>
+					<date type="R">2005-11-02</date>
+					<date type="A">2005-11-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Seaweed floristic studies along tsunami affected Indian coasts: A litmus test scenario after 26th December 2004</title>
+				<feature></feature>
+				<page>0371-0378</page>
+				<abstract>
+					<p>On 26th December 2004,the world witnessed the devastating power of tsunami, affecting many countries,bordering the Indian Ocean region.This has caused signiﬁcant changes in the shallow and intertidal regions of the Indian coast,especially the Andaman and Nicobar Islands,Tamil Nadu, Kerala and Pondicherry.The baseline data on biomass availability and distribution of benthic intertidal seaweed species were collected immediately after this catastrophic event by spot surveying 11 selected localities of the above-mentioned regions.In all,45 species belonging to 31 genera were recorded during the present survey,the maximum number of seaweed species were recorded at Thirumullavarum,Kerala with the minimum at Car Nicobar,Andaman and Nicobar Islands. A very different trend was observed in the case of biomass availability at some locations which was due to the inﬂuence of habitat suitability over the tsunami damage.The details of this study have been provided in the present communication.</p>
+				</abstract>
+				<keywords>Seaweeds;tsunami;species diversity;similarity index.</keywords>
+				<authors>
+					<author>
+						<name first="Vaibhav A." last="Mantri">Vaibhav A. Mantri</name>
+						<affiliation>Central Salt & Marine Chemicals Research Institute, Bhavnagar 364 002, Gujarat, India.</affiliation>
+						<email>vaibhav@csmcri.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-11-10</date>
+					<date type="R">2006-01-23</date>
+					<date type="A">2006-01-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Climate induced changes in the circulation and dispersal patterns of the fluvial sources during late Quaternary in the middle Bengal Fan</title>
+				<feature></feature>
+				<page>0379-0386</page>
+				<abstract>
+					<p>From a transact along $15^\circ $N latitude in the middle Bengal Fan,temporal and spatial variations in the granulometric parameters and clay minerals in $^{14}C$ dated box cores from the eastern,the central and the western regions were studied to determine climate induced changes in the hydrography. Clay assemblages have spatial and temporal changes and are markedly different in the eastern and the western bay.From a high abundance of the clay smectite,which has its major source in the Deccan Basalt in peninsular India,it is inferred that the western bay is predominantly a depocenter of ‘peninsular sources ’.The eastern and the central regions of the bay,however, mostly receive sediments of the ‘Himalayan source ’.Related to unstable climate,the reported dominant illite –chlorite (I +C)assemblage in the eastern region of the bay (I +C &lt; 60%smectite &mt; 15%),between 18 and 12.6 ka BP,points to a predominant supply from the Himalayan sources through equatorwards dispersal by the winter hydrography.Higher smectite,and reduced clays of the Himalayan sources (smectite $lt; 25%;I +C &lt; 45%)are reported also after 12.5 ka BP from the eastern bay.These are interpreted as evidences of an intensiﬁed SW monsoon and associated change in the dispersal pattern by stronger summer monsoon hydrography which supports across bay dispersal by anticyclonic gyre.The inﬂuence of climate on hydrographic changes is consistent during the short events of arid climate (weak NE monsoon)in Holocene in core 31/1(western bay), in which the enhanced contents of the clays of the Himalayan sources are observed (smectite $mt; 40% I +C &lt; 50%).These ﬁndings have implications for climate regulated in ﬂuence of ﬂuvial processes over the areas,hitherto,considered unaffected by the Indian peninsular ﬂuvial sources.</p>
+				</abstract>
+				<keywords>Himalayan sources;Bengal Fan;hydrography;dispersal patterns;clay minerals.</keywords>
+				<authors>
+					<author>
+						<name first="Onkar S." last="Chauhan">Onkar S. Chauhan</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>onkar@nio.org</email>
+					</author>
+					<author>
+						<name first="E." last="Vogelsang">E. Vogelsang</name>
+						<affiliation>Institut f$\ddot{u} r$ Geowissenschaften, Universit$\ddot{a} t$ Kiel, Olshausenstrasse 40, D - 24118 Kiel, Germany.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-10-01</date>
+					<date type="R">2005-12-31</date>
+					<date type="A">2005-12-31</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="08" year="2006">
+			<entry hassup="0">
+				<title>Structure of Charnockitic basement in a part of the Krishna–Godavari basin, Andhra Pradesh</title>
+				<feature></feature>
+				<page>0387-0393</page>
+				<abstract>
+					<p>A regional magnetic survey was carried out over an area of $8000 km^2$ in Godavari districts of Andhra Pradesh,India,which is covered by the rocks of Eastern Ghat Mobile Belt (EGMB) \textit {viz.,} the Khondalitic series and Charnockites in the northern half and Permian to Mesozoic and Cenozoic sediments in the southern half,and forms a part of the Krishna –Godavari (K –G)basin. The survey brought out a strong NE –SW trending anomaly in the area covered by the rocks of Eastern Ghat Mobile Belt (EGMB),and a mild ENE –WSW trending anomaly in the area covered by the sediments of the Krishna –Godavari (K –G)basin.The NE –SW trending anomaly in the northern half could be attributed to the exposed/near surface Charnockite basement that has come closer to the surface as a result of Eastern Ghat Mobile Belt  (EGMB)tectonics.Explanation of  the mild ENE –WSW trending anomaly over the sediments of the Krishna –Godavari (K –G)basin required a faulted magnetic basement at depth downthrown towards the south.It is therefore concluded that the Charnockitic basement together with the Khondalite group of rocks which are folded and faulted during the different phases of tectonics of Eastern Ghat Mobile Belt (EGMB) extend into the Krishna –Godavari (K –G)basin and further,were involved in faulting during the phases of formation and sedimentation in the Krishna –Godavari (K –G)basin.</p>
+				</abstract>
+				<keywords>Eastern Ghat Mobile Belt;magnetic survey;magnetic basement;tectonics.</keywords>
+				<authors>
+					<author>
+						<name first="I. V. Radhakrishna" last="Murthy">I. V. Radhakrishna Murthy</name>
+						<affiliation>Department of Geophysics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+						<email>ivr_murthy@yahoo.com</email>
+					</author>
+					<author>
+						<name first="S. Bangaru" last="Babu">S. Bangaru Babu</name>
+						<affiliation>Department of Geophysics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-10-17</date>
+					<date type="R">2006-02-01</date>
+					<date type="A">2006-02-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geomorphic expression of late Quaternary sea level changes along the southern Saurashtra coast, western India</title>
+				<feature></feature>
+				<page>0395-0402</page>
+				<abstract>
+					<p>Geomorphic expression of land--sea interaction is preserved in the form of abandoned cliffs, marine terraces,shore platforms and marine notches along the southern Saurashtra coast. These features have been used to ascertain the magnitude of sea level changes during late Quaternary.Notch morphology and associated biological encrustation have been used to estimate the magnitude and duration of palaeo-sea strands.Marine notches and other erosive features occurring between 12 and 15 m above the present Biological Mean Sea Level (BMSL) are attributed to the last interglacial corresponding to the Marine Isotopic Stage 5 (MIS-5). However,6 to 9 m upliftment of the coastal fringe is attributed to this sea level.The second major high sea strand was identiﬁed during the mid-Holocene when the sea rose 2 m above the present level.Notches corresponding to this high sea level are recorded 4 to 5 m above the present BMSL.</p>
+				</abstract>
+				<keywords>Quaternary sea level;coastal geomorphology;marine notches;Gujarat.</keywords>
+				<authors>
+					<author>
+						<name first="Nilesh" last="Bhatt">Nilesh Bhatt</name>
+						<affiliation>Department of Geology, Faculty of Science, M. S. University of Baroda, Vadodara 390 002, India.</affiliation>
+						<email>nilesh_geol@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Uday" last="Bhonde">Uday Bhonde</name>
+						<affiliation>Department of Geology, Faculty of Science, M. S. University of Baroda, Vadodara 390 002, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-11-14</date>
+					<date type="R">2006-02-20</date>
+					<date type="A">2006-02-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamics of transparent exopolymeric particles (TEP) and particle-associated carbohydrates in the Dona Paula bay, west coast of India</title>
+				<feature></feature>
+				<page>0403-0413</page>
+				<abstract>
+					<p>Surface seawater samples were collected over a period of 27 months at a shallow water station in Dona Paula bay from 1998--2000.The samples were analyzed to assess the seasonal variations, inter-annual variability and the contributions of:</p>
+					<ul>
+						<li>transparent exopolymeric particles (TEP)concentration,</li>
+						<li>two forms of particle-associated carbohydrates –1.5 M NaCl/saline extracted (Sal-PCHO) and 10 mM EDTA-extracted (CPCHO)and</li>
+						<li>total bacterial abundance (TBA)to particulate organic carbon pool.</li>
+					</ul>
+					<p>A distinct inter-annual variability was observed with an increase in the bacterial abundance,chlorophyll \textit {a} (Chl \textit {a} ,TEP and Sal-PCHO and their greater contribution to particulate organic carbon during May 1998--1999 than in June 1999--July 2000.Overall,there was no statistically signiﬁcant correlation of TEP with phytoplankton biomass (Chl \textit {a} ,Sal-PCHO,CPCHO and hydrodynamic conditions.A weak inverse correlation was observed between TEP and TBA (\textit {r} = −0.397; \textit {p} &mt; 0.05) but the role of TEP as a C-source for bacteria was not evident.Both Sal-PCHO and CPCHO appeared to be two distinct forms of carbohydrates.Unlike CPCHO,Sal-PCHO concentrations showed a positive trend with Chl \textit {a} and signiﬁcant linear correlation with bacterial abundance (\textit {r} =0.44, \textit {p} &mt; 0.007, \textit {n}= 48),indicating that Sal-PCHO as carbon source might have supported bacterioplankton abundance.The mean %TEP-C contribution to the annual average organic carbon for 1998--2000 was $6.9% \pm 5.8%$, next only to phytoplankton-C ($33.1 \pm 22.1%$) and greater than bacterial-C ($4.6% \pm 4.6%$)or carbohydrate-C (&mt; 3.8%).Despite its greater contribution to the organic carbon pool,the contribution of TEP-C to the benthic carbon demand and its fate in the study area could not be ascertained in this study.</p>
+				</abstract>
+				<keywords>Transparent exopolymeric particles;particle-associated carbohydrates;bacteria;phytoplankton.</keywords>
+				<authors>
+					<author>
+						<name first="P. V." last="Bhaskar">P. V. Bhaskar</name>
+						<affiliation>Marine Corrosion and Materials Research Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<affiliation>Present address: Chemical Oceanography Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>pbhaskar23@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Narayan B." last="Bhosle">Narayan B. Bhosle</name>
+						<affiliation>Marine Corrosion and Materials Research Division, National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-14</date>
+					<date type="R">2006-03-22</date>
+					<date type="A">2006-03-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Coccolithophores from the central Arabian Sea: Sediment trap results</title>
+				<feature></feature>
+				<page>0415-0428</page>
+				<abstract>
+					<p>Sediment trap samples collected from a depth of 1018 m in the Central Arabian Sea Trap (CAST) at $14^\circ 28.2^{,}N, 64^\circ 35.8^{,}E$ were analyzed for temporal variation of coccolithophore ﬂuxes from October 1993 to August 1994.Out of the twenty species of coccolithophores encountered, \tetit {Gephyrocapsa oceanica,Emiliania huxleyi,Umbilicosphaera sibogae} and \textit {Umbellosphaera irregularis} were the most abundant.The total coccolithophore ﬂuxes ranged from $28.5 \times 10^{6} m^{−2} d^{−1}$ to $50.3 \times 10^{6} m^{−2} d^{−1}$ showing seasonality with higher ﬂuxes during the northeast (NE)monsoon and lower ﬂuxes during the spring intermonsoon.The higher ﬂuxes were attributed to the enhancement of primary production in the central Arabian Sea due to southward extent of nutrients from the northeast Arabian Sea by the prevailing surface currents.Similarly,the occurrences of relatively lower coc-colithophore ﬂuxes during the spring intermonsoon and southwest (SW)monsoon were attributed to the low nutrients in the warm,shallow surface mixed layer and downwelling to the south of Findlater Jet respectively in the central Arabian Sea.Some of the coccolithophore species such as \textit {E.huxleyi,G.oceanica,Calcidiscus leptoporus} and \textit {Umbellosphaera tenuis} showed signs of dissolution.</p>
+				</abstract>
+				<keywords>Coccolithophores;central Arabian Sea;sediment trap;monsoon;upwelling and dissolution.</keywords>
+				<authors>
+					<author>
+						<name first="Lina P." last="Mergulhao">Lina P. Mergulhao</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>mlina@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Rahul" last="Mohan">Rahul Mohan</name>
+						<affiliation>National Centre for Antarctic and Ocean Research, Headland Sada, Vasco-da-Gama, Goa 403 804, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. S. N." last="Murty">V. S. N. Murty</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. V. S." last="Guptha">M. V. S. Guptha</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<affiliation>Present address: 62, Sagar Society, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. K." last="Sinha">D. K. Sinha</name>
+						<affiliation>Department of Geology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-02-09</date>
+					<date type="R">2006-01-19</date>
+					<date type="A">2006-03-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Section Title Page</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0429-0429</page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -7117,7 +8503,190 @@
 						<email></email>
 					</author>
 				</authors>
-			</entry>		
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0431-0431</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="M. Dileep" last="Kumar">M. Dileep Kumar</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>The influence of Indian Ocean Dipole (IOD) on biogeochemistry of carbon in the Arabian Sea during 1997–1998</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0433-0450</page>
+				<abstract>
+					<p>Data on ocean color chlorophyll \textit {a} (Chl \textit {a} )obtained using Sea-viewing Wide Field of view Sensor (SeaWiFS),sea surface temperature (SST)by Advanced Very High Resolution Radiometer (AVHRR),and sea surface height (SSH)by TOPEX/POSEIDON were analyzed to examine the inﬂuence of Indian Ocean Dipole (IOD)on the physical and biogeochemical processes with special reference to phytoplankton primary production and air –sea ﬂuxes of carbon dioxide in the Arabian Sea.Positive SST anomalies (SSTA)were found in the Arabian Sea (0.4 to $1.8^\circ C$) with higher values in the southwestern Arabian Sea that decreased towards north.The SSH anomalies (SSHA)and turbulent kinetic energy anomalies (TKEA)suggest decreased mixing during the IOD compared to the normal period.Chlorophyll \textit {a} displayed signiﬁcant negative correlations with SSTA and SSHA in the Arabian Sea.Consistently, Chl \textit {a} showed negative anomalies (low Chl \textit {a} )during the IOD period which could be due to reduced inputs of nutrients.The photic zone integrated primary production decreased by 30%during the IOD period compared to the normal whereas $pCO_2$ levels were higher (by $10--20 \mu atm$). However,sea to air ﬂuxes were lower by 10% during the IOD period due to prevailing weaker winds.Primary production seems to be the key process controlling the surface $pCO_2$ levels in the Arabian Sea.In future,the in ﬂuence of IOD on ecosystem structure,export production and bacterial respiration rates are to be probed through \textit {in situ} time-series observations.</p>
+				</abstract>
+				<keywords>Indian Ocean Dipole;biogeochemistry;carbon;chlorophyll;Arabian Sea;models.</keywords>
+				<authors>
+					<author>
+						<name first="V. V. S. S." last="Sarma">V. V. S. S. Sarma </name>
+						<affiliation>SORST, Japan Science and Technology Agency, Kawaguchi, Japan and Hydrospheric Atmospheric Research Center, Nagoya University, Nagoya 464 8601, Japan.</affiliation>
+						<email>sarma@hyarc.nagoya-u.ac.jp</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Spatial and temporal distribution of methane in an extensive shallow estuary, south India</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0451-0460</page>
+				<abstract>
+					<p>Sedimentary methane ($CH_4$) ﬂuxes and oxidation rates were determined over the wet and dry seasons (four measurement campaigns)in Pulicat lake,an extensive shallow estuary in south India. Dissolved $CH_4$ concentrations were measured at 52 locations in December 2000.The annual mean net $CH_4$ ﬂux from Pulicat lake sediments was $3.7 \times 10^{9} g yr^{−1}$ based on static chamber measurements.A further $1.7 \times 10^{9} g yr^{−1}$ was estimated to be oxidized at the sediment--water interface. The mean dissolved concentration of $CH_4$ was 242 nmol $l^{−1}$ (ranging between 94 and 501 nmol $l^{−1}$ ) and the spatial distribution could be explained by tidal dynamics and freshwater input.Sea –air exchange estimates using models,account only for $\sim 13%(0.5 \times 10^{9} g yr^{−1}$ )of the total $CH_4$ produced in sediments, whereas ebullition appeared to be the major route for loss to the atmosphere ($\sim 63%$ of the net sediment ﬂux).We estimated the total atmospheric source of $CH_4$ from Pulicat lake to be 0.5 to $4.0 \times 10^{9} g yr^{−1}$.</p>
+				</abstract>
+				<keywords>Methane emission;spatial and temporal variation;macro-algal zone;estuaries;Pulicat lake.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Shalini">A. Shalini</name>
+						<affiliation>Institute for Ocean Management, Anna University, Chennai 600 025, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Ramesh">R. Ramesh</name>
+						<affiliation>Institute for Ocean Management, Anna University, Chennai 600 025, India.</affiliation>
+						<email>rramesh_au@yahoo.com</email>
+					</author>
+					<author>
+						<name first="R." last="Purvaja">R. Purvaja</name>
+						<affiliation>Institute for Ocean Management, Anna University, Chennai 600 025, India.</affiliation>
+					</author>
+					<author>
+						<name first="J." last="Barnes">J. Barnes</name>
+						<affiliation>School of Marine Sciences and Technology, University of Newcastle-upon-Tyne, Newcastle-upon-Tyne, NE1 7RU United Kingdom.</affiliation>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Monsoon control on trace metal fluxes in the deep Arabian Sea</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0461-0472</page>
+				<abstract>
+					<p>Particulate ﬂuxes of aluminium,iron,magnesium and titanium were measured using six time- series sediment traps deployed in the eastern,central and western Arabian Sea.Annual Al ﬂuxes at shallow and deep trap depths were 0.47 and $0.46 g m^{−2}$ in the western Arabian Sea,and 0.33 and $0.47 g m^{−2}$ in the eastern Arabian Sea.There is a difference of about $0.9 --1.8g m^{−2} y^{−1}$ in the lithogenic ﬂuxes determined analytically (residue remaining after leaching out all biogenic particles) and estimated from the Al ﬂuxes in the western Arabian Sea.This arises due to higher ﬂuxes of Mg (as dolomite)in the western Arabian Sea (6--11 times higher than the eastern Arabian Sea). The estimated dolomite ﬂuxes at the western Arabian Sea site range from 0.9 to $1.35 g m^{−2} y^{−1}$ . Fe ﬂuxes in the Arabian Sea were less than that of the reported atmospheric ﬂuxes without any evidence for the presence of labile fraction/excess of Fe in the settling particles.More than 75% of Al,Fe,Ti and Mg ﬂuxes occurred during the southwest (SW)monsoon in the western Arabian Sea.In the eastern Arabian Sea,peak Al,Fe,Mg and Ti ﬂuxes were recorded during both the northeast (NE)and SW monsoons.During the SW monsoon,there exists a time lag of around one month between the increases in lithogenic and dolomite ﬂuxes.Total lithogenic ﬂuxes increase when the southern branch of dust bearing northwesterlies is dragged by the SW monsoon winds to the trap locations.However,the dolomite ﬂuxes increase only when the northern branch of the northwesterlies (which carries a huge amount of dolomite accounting 60%of the total dust load) is dragged,from further north,by SW monsoon winds.The potential for the use of Mg/Fe ratio as a paleo-monsoonal proxy is examined.</p>
+				</abstract>
+				<keywords>Monsoon;fluxes;trace metal;Arabian Sea;aerosol;proxies.</keywords>
+				<authors>
+					<author>
+						<name first="T. M. Balakrishnan" last="Nair">T. M. Balakrishnan Nair</name>
+						<affiliation>Indian National Centre for Ocean Information Services (INCOIS), Ministry of Ocean Development, ‘Ocean Valley’, IDA–Jeedimetla (P.O), Hyderabad 500 055, India.</affiliation>
+						<email>bala@incois.gov.in</email>
+					</author>
+				</authors>
+			</entry>
+			<entry hassup="0">
+				<title>Observations of trace gases and aerosols over the Indian Ocean during the monsoon transition period</title>
+				<feature>Special Section on: Material exchanges at marine boundaries and surface ocean processes: Forcings and feedbacks</feature>
+				<page>0473-0484</page>
+				<abstract>
+					<p>Characteristics of trace gases ($O_{3}, CO, CO_{2}, CH_{4}$ and $N_{2}O$ and aerosols (particle size of 2.5 micron) were studied over the Arabian Sea,equatorial Indian Ocean and southwest part of the Bay of Bengal during the monsoon transition period (October--November,2004).Flow of pollutants is expected from south and southeast Asia during the monsoonal transition period due to the patterns of wind ﬂow which are different from the monsoon period.This is the ﬁrst detailed report on aerosols and trace gases during the sampled period as the earlier Bay of Bengal Experiment (BOBMEX), Arabian Sea Monsoon Experiment (ARMEX)and Indian Ocean Experiments (INDOEX)were during monsoon seasons.The signiﬁcant observations during the transition period include:(i)low ozone concentration of the order of 5 ppbv around the equator,(ii)high concentrations of $CO_{2}, CH_{4}$ and $N_{2}O$ and (iii)variations in PM2.5 of $5--20 \mu g/ m^{3}$.</p>
+				</abstract>
+				<keywords>Trace gases;aerosols;Indian Ocean;monsoon transition;air pollutants.</keywords>
+				<authors>
+					<author>
+						<name first="T. K." last="Mandal">T. K. Mandal</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ateef" last="Khan">Ateef Khan</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Y. Nazeer" last="Ahammed">Y. Nazeer Ahammed</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. S." last="Tanwar">R. S. Tanwar</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. S." last="Parmar">R. S. Parmar</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. S." last="Zalpuri">K. S. Zalpuri</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Prabhat K." last="Gupta">Prabhat K. Gupta</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. L." last="Jain">S. L. Jain</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Risal" last="Singh">Risal Singh</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. P." last="Mitra">A. P. Mitra</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. C." last="Garg">S. C. Garg</name>
+						<affiliation>National Physical Laboratory, New Delhi 110 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Suryanarayana">A. Suryanarayana</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. S. N." last="Murty">V. S. N. Murty</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. Dileep" last="Kumar">M. Dileep Kumar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="" last="">Andrew J. Shepherd</name>
+						<affiliation>National Ocean and Atmospheric Administration/Pacific Marine Environmental Laboratory, USA.</affiliation>
+					</author>
+				</authors>
+			</entry>
+		</issue>
+		<issue inum="05" month="10" year="2006">
+			<entry hassup="0">
+				<title>Discriminating four tectonic settings: Five new geochemical diagrams for basic and ultrabasic volcanic rocks based on log–ratio transformation of major-element data</title>
+				<feature></feature>
+				<page>0485-0528</page>
+				<abstract>
+					<p>We present ﬁve new discriminant function diagrams based on an extensive database representative of basic and ultrabasic rocks from four tectonic settings of island arc, continental rift, ocean-island, and mid-ocean ridge. These diagrams were obtained after log_{e}-transformation of concentration ratios of major-elements – a technique recommended for a correct statistical treatment of compositional data. Higher % success rates (overall values from $\sim 83 $to 97%) were obtained for proposing these new diagrams as compared to those ($\sim 82$ to 94%) obtained from the discriminant analysis of the raw major-element concentration data (i.e., without the log_{e}-transformation and without taking ratios of the compositional data, but using exactly the same database to provide an unbiased comparison), suggesting that such a data transformation constitutes a statistically correct and recommended technique. The new diagrams also resulted in less mis-classiﬁcation of basic and ultrabasic rocks from known tectonic settings than the diagrams obtained from the raw data. The use of these highly successful new discriminant function diagrams is illustrated using Miocene to Recent basic and ultrabasic rocks from three areas of Mexico with complex or controversial tectonic settings (Mexican Volcanic Belt, Los Tuxtlas volcanic ﬁeld, and Eastern Alkaline Province), as well as older rocks from three areas (Deccan, Malani, and Bastar) of India. Additionally, the major-element data from two ‘known’ continental arc settings are used to show that they are similar to those from the island arc setting. Continental rift setting is inferred for all Mexican cases and for one cratonic area of India (Malani) and an IAB setting for the Bastar craton. The Deccan ﬂood basalt province of India is used to warn against an indiscriminate use of those discrimination diagrams that do not explicitly include the likely setting of the area under evaluation. An Excel template is also provided for an easy application of these new diagrams for discriminating the four settings considered in this work.</p>
+				</abstract>
+				<keywords>Log-transformation;compositional space;discriminant function analysis;standard igneous norm and volcanic rock classification system computer program;Mexico; India.</keywords>
+				<authors>
+					<author>
+						<name first="Surendra P." last="Verma">Surendra P. Verma</name>
+						<affiliation>Centro de Investigaci$\acute{o} n$ en Energ$\acute{i}$ a, Universidad Nacional Aut$\acute{o} $noma de M$\acute{e} $xico, Priv. Xochicalco s/no., Col Centro, Apartado Postal 34, Temixco 62580, Mexico.</affiliation>
+						<email>spv@cie.unam.mx</email>
+					</author>
+					<author>
+						<name first="Mirna" last="Guevara">Mirna Guevara</name>
+						<affiliation>Centro de Investigaci$\acute{o} n$ en Energ$\acute{i}$ a, Universidad Nacional Aut$\acute{o} $noma de M$\acute{e} $xico, Priv. Xochicalco s/no., Col Centro, Apartado Postal 34, Temixco 62580, Mexico.</affiliation>
+					</author>
+					<author>
+						<name first="Salil" last="Agrawal">Salil Agrawal</name>
+						<affiliation>Department of Geology, University of Rajasthan, Jaipur 302 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-03-28</date>
+					<date type="R">2006-05-17</date>
+					<date type="A">2006-05-24</date>
+				</dates>
+			</entry>
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -7133,6 +8702,116 @@
 						<email></email>
 					</author>
 				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
 			</entry>
 			
 		
