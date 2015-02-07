@@ -8688,9 +8688,373 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>High resolution numerical weather prediction over the Indian subcontinent</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0529-0555</page>
+				<abstract>
+					<p>In this study, the Florida State University Global Spectral Model (FSUGSM), in association with a high-resolution nested regional spectral model (FSUNRSM), is used for short-range weather forecasts over the Indian domain. Three-day forecasts for each day of August 1998 were performed using different versions of the FSUGSM and FSUNRSM and were compared with the observed ﬁelds (analysis) obtained from the European Center for Medium Range Weather Forecasts (ECMWF). The impact of physical initialization (a procedure that assimilates observed rain rates into the model atmosphere through a set of reverse algorithms) on rainfall forecasts was examined in detail. A very high nowcasting skill for precipitation is obtained through the use of high-resolution physical initialization applied at the regional model level. Higher skills in wind and precipitation forecasts over the Indian summer monsoon region are achieved using this version of the regional model with physical initialization.</p>
+					<p>A relatively new concept, called the ‘multimodel/multianalysis superensemble’ is described in this paper and is applied for the wind and precipitation forecasts over the Indian subcontinent. Large improvement in forecast skills of wind at 850 hPa level over the Indian subcontinent is shown possible through the use of the multimodel superensemble. The multianalysis superensemble approach that uses the latest satellite data from the Tropical Rainfall Measuring Mission (TRMM) and the Defense Meteorological Satellite Program (DMSP) has shown signiﬁcant improvement in the skills of precipitation forecasts over the Indian monsoon region.</p>
+				</abstract>
+				<keywords>Numerical weather prediction;spectral modeling;physical initialization;high resolution regional models;multimodel superensemble forecasts.</keywords>
+				<authors>
+					<author>
+						<name first="T. S. V. Vijaya" last="Kumar">T. S. V. Vijaya Kumar</name>
+						<affiliation>Department of Meteorology, Florida State University,Tallahassee, Fl 32306-4520, USA.</affiliation>
+						<affiliation>Present address: Environmental Modeling Center, National Centers for Environmental Prediction, Camp Springs, Maryland, USA.</affiliation>
+						<email>vijay.tallapragada@noaa.gov</email>
+					</author>
+					<author>
+						<name first="T. N." last="Krishnamurti">T. N. Krishnamurti</name>
+						<affiliation>Department of Meteorology, Florida State University,Tallahassee, Fl 32306-4520, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-09</date>
+					<date type="R">2006-01-24</date>
+					<date type="A">2006-05-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A numerical study of sea breeze circulation observed at a tropical site Kalpakkam on the east coast of India, under different synoptic flow situations</title>
+				<feature></feature>
+				<page>0557-0574</page>
+				<abstract>
+					<p>A simulation study of the sea breeze circulation and thermal internal boundary layer (TIBL) characteristics has been carried out at the tropical site Kalpakkam on the east coast of India, for operational atmospheric dispersion prediction. The community based PSU/NCAR MM5 Mesoscale meteorological model is used for the study. Three cases on typical days in summer (24 May 2003), southwest (SW) monsoon (1 July 2001) winter season (2 February 2003) with different largescale  flow pattern are studied. The MM5 model is used with 3 nested domains with horizontal grid resolutions 18 km, 6 km and 2 km and 26 vertical levels. The model is integrated for 24 hours in the above cases with initial and boundary conditions taken from NCEP-FNL analyses data. Observations of 10 meteorological stations and coastal boundary layer experiments conducted at Kalpakkam are used for comparison and validation of the simulation. The characteristics of simulated sea breeze and TIBL at Kalpakkam are seen to vary in the above cases according to the prevailing large-scale winds and surface fluxes. The sea breeze circulation is seen to develop early with larger strength and inland propagation in the summer case under the influence of moderate synoptic wind and strong heating conditions than in the SW monsoon and winter cases. The horizontal and vertical extents of TIBL are found to be larger in the summer case than in other cases. Although model parameters agree in general with observations, all the fine features are not clearly captured and some slowness in model sea breeze development is also seen. The results indicate the need to improve i) the initial conditions by assimilation of available surface/upper air observations to reduce model bias and ii) surface net radiation parameterisation. The model could predict the essential features of the local circulation and further improvement is expected with better initial condition data and incorporation of more realistic surface data.</p>
+				</abstract>
+				<keywords>Mesoscale model;sea breeze;synoptic flow;thermal internal boundary layer;Sodar;Tether balloon.</keywords>
+				<authors>
+					<author>
+						<name first="C. V." last="Srinivas">C. V. Srinivas</name>
+						<affiliation>Radiological Safety Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+						<email>cvsri@igcar.ernet.in</email>
+					</author>
+					<author>
+						<name first="R." last="Venkatesan">R. Venkatesan</name>
+						<affiliation>Radiological Safety Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. M." last="Somayaji">K. M. Somayaji</name>
+						<affiliation>Radiological Safety Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. Bagavath" last="Singh">A. Bagavath Singh</name>
+						<affiliation>Radiological Safety Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-23</date>
+					<date type="R">2006-01-04</date>
+					<date type="A">2006-03-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Summer monsoon intraseasonal oscillation over eastern Arabian Sea – as revealed by TRMM microwave imager products</title>
+				<feature></feature>
+				<page>0575-0586</page>
+				<abstract>
+					<p>The time evolution of atmospheric parameters on intraseasonal time scale in the eastern Arabian Sea (EAS) is studied during the summer monsoon seasons of 1998–2003 using Tropical Rainfall Measuring Mission Microwave Imager (TMI) data. This is done using the spectral and wavelet analysis. Analysis shows that over EAS, total precipitable water vapour (TWV) and sea surface wind speed (SWS) have a periodicity of 8–15 days, 15–30 days and 30–60 days during the monsoon season. Signiﬁcant power is seen in the 8–15-day time scale in TWV during onset and retreat of the summer monsoon. Analysis indicates that the timings of the intensiﬁcation of 8–15, 15–30, and 30–60 days oscillations have a profound effect on the evolution of the daily rainfall over west coast of India. The positive and negative phases of these oscillations are directly related to the active and dry spells of rainfall along the west coast of India. The spectral analysis shows interannual variation of TWV and SWS. Heavy rainfall events generally occur over the west coast of India when positive phases of both 30–60 days and 15–30 days modes of TWV and SWS are simultaneously present.</p>
+				</abstract>
+				<keywords>Intraseasonal oscillation;wavelet analysis;Indian summer monsoon.</keywords>
+				<authors>
+					<author>
+						<name first="S. H." last="Rahman">S. H. Rahman</name>
+						<affiliation>Atmospheric Sciences Division, Meteorology and Oceanography Group, Space Applications Centre (ISRO), Ahmedabad 380 015, Gujarat, India.</affiliation>
+						<email>amar−bangla@yahoo.com</email>
+					</author>
+					<author>
+						<name first="B." last="Simon">B. Simon</name>
+						<affiliation>Atmospheric Sciences Division, Meteorology and Oceanography Group, Space Applications Centre (ISRO), Ahmedabad 380 015, Gujarat, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-06-13</date>
+					<date type="R">2006-01-19</date>
+					<date type="A">2006-02-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Marine boundary layer characteristics during a cyclonic storm over the Bay of Bengal</title>
+				<feature></feature>
+				<page>0587-0599</page>
+				<abstract>
+					<p>During the period 12–16 June 1996 a tropical cyclonic storm formed over the southwest Bay of Bengal and moved in a north–northeasterly direction. The thermodynamic characteristics of this system are investigated by utilizing the surface and upper air observations collected onboard \textit {ORV Sagar Kanya} over the Bay of Bengal region. The response of the cyclonic storm is clearly evident from the ship observations when the ship was within the distance of 600–800 km from the cyclonic storm. This study explores why (i) the whole atmosphere from surface to 500 hPa had become warm and moist during the cyclonic storm period as compared to before and after the formation of this system and (ii) the lower layer of the atmosphere had become stable during the formative stage of the cyclonic storm.</p>
+				</abstract>
+				<keywords>Cyclonic storm;marine boundary layer;thermodynamic structure;onset phase of monsoon;conserved variable diagrams.</keywords>
+				<authors>
+					<author>
+						<name first="Savita B." last="Morwal">Savita B. Morwal</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. G." last="Nagar">S. G. Nagar</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. S. N." last="Murty">V. S. N. Murty</name>
+						<affiliation>National Institute of Oceanography, Goa 403 004, India.</affiliation>
+						<email>morwal@tropmet.res.in</email>
+					</author>
+					<author>
+						<name first="P." last="Seetaramayya">P. Seetaramayya</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-09-14</date>
+					<date type="R">2006-01-31</date>
+					<date type="A">2006-04-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spatial monsoon variability with respect to NAO and SO</title>
+				<feature></feature>
+				<page>0601-0606</page>
+				<abstract>
+					<p>In this paper, the simultaneous effect of North Atlantic Oscillation (NAO) and Southern Oscillation (SO) on monsoon rainfall over different homogeneous regions/subdivisions of India is studied.  The simultaneous effect of both NAO and SO on Indian summer monsoon rainfall (ISMR) is more important than their individual impact because both the oscillations exist simultaneously throughout the year. To represent the simultaneous impact of NAO and SO, an index called effective strength index (ESI) has been deﬁned on the basis of monthly NAO and SO indices.</p>
+					<p>The variation in the tendency of ESI from January through April has been analyzed and reveals that when this tendency is decreasing, then the ESI value throughout the monsoon season (June--September) of the year remains negative and \textit {vice versa}. This study further suggests that during the negative phase of ESI tendency, almost all subdivisions of India show above-normal rainfall and \textit {vice versa}. The correlation analysis indicates that the ESI-tendency is showing an inverse and statistically signiﬁcant relationship with rainfall over 14 subdivisions of India. Area wise, about 50% of the total area of India shows statistically signiﬁcant association. Moreover, the ESI-tendency shows a signiﬁcant relationship with rainfall over north west India, west central India, central north east India, peninsular India and India as a whole. Thus, ESI-tendency can be used as a precursor for the prediction of Indian summer monsoon rainfall on a smaller spatial scale.</p>
+				</abstract>
+				<keywords>North Atlantic oscillation;southern oscillation;Indian summer monsoon rainfall;effective strength index.</keywords>
+				<authors>
+					<author>
+						<name first="S. B." last="Kakade">S. B. Kakade</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pune 411 008, India.</affiliation>
+						<email>kakade@tropmet.res.in</email>
+					</author>
+					<author>
+						<name first="S. S." last="Dugam">S. S. Dugam</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-10-19</date>
+					<date type="R">2006-01-13</date>
+					<date type="A">2006-03-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ozone decline and its effect on night airglow intensity of Na 5893˚A at Dumdum ($22.5^\circ N, 88.5^\circ E$) and Halley Bay (76^\circ S, 27^\circ W$)</title>
+				<feature></feature>
+				<page>0607-0613</page>
+				<abstract>
+					<p>The paper presents the effect of $O_3$ depletion on night airglow emission of Na 5893 A line at Dumdum ($22.5^\circ N, 88.5^\circ E$), India and Halley Bay (76^\circ S, 27^\circ W$), a British Antarctic service station. Calculations based on chemical kinetics show that the airglow intensity of Na 5893 A line will also be affected due to the depletion of $O_3$ concentration. The nature of yearly variation and seasonal variation of the intensity of Na 5893 A line for the above two stations are shown and compared. It is shown that the rate of decrease of intensity of Na 5893 A line is comparatively more at Halley Bay due to the dramatic decrease of Antarctic $O_3$ concentration. A possible explanation for this dramatic decrease of Antarctic $O_3$ concentration is also mentioned.</p>
+				</abstract>
+				<keywords>Ozone depletion;airglow intensity.</keywords>
+				<authors>
+					<author>
+						<name first="P. K." last="Jana">P. K. Jana</name>
+						<affiliation>Department of Chemistry, Institute of Education (P.G) for Women, Chandernagore, Hooghly 712 138, West Bengal, India.</affiliation>
+						<email>pkjingl@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="S. C." last="Nandi">S. C. Nandi</name>
+						<affiliation>Serampore High School, Serampore, Hooghly 712 201, West Bengal, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-10-08</date>
+					<date type="R">2006-02-27</date>
+					<date type="A">2006-05-10</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="06" month="12" year="2006">
+			<entry hassup="0">
+				<title>The emplacement of pahoehoe lavas on Kilauea and in the Deccan Traps</title>
+				<feature></feature>
+				<page>0615-0629</page>
+				<abstract>
+					<p>There is a growing interest in deciphering the emplacement and environmental impact of ﬂood basalt provinces such as the Deccan, India. Observations of active volcanism lead to meaningful interpretations of now-extinct volcanic systems. Here, I illustrate and discuss the morphology and emplacement of the modern and active lava ﬂows of Kilauea volcano in Hawaii, and based on them, interpret the compound pahoehoe lavas of the Deccan Traps. The latter are vastly larger (areally extensive and voluminous) than Kilauea ﬂows, and yet, their internal architecture is the same as that of Kilauea ﬂows, and even the sizes of individual ﬂow units often identical. Many or most compound ﬂows of the Deccan Traps were emplaced in a gentle, effusive, Kilauea-like fashion. Bulk eruption rates for the Deccan province are unknown, and were probably high, but the local eruption rates of the compound ﬂows were no larger than Kilauea’s. Large ($\geq 1000 km^3$) individual compound pahoehoe ﬂows in the Deccan could have been emplaced at Kilauea-like local eruption rates ($1 m^{3}/sec$ per metre length of ﬁssure) in a decade or less, given ﬁssures of sufficient length (tens of kilometres), now exposed as dyke swarms in the province.</p>
+				</abstract>
+				<keywords>Volcanism;lava;Kilauea;Hawaii;Deccan;flood basalt.</keywords>
+				<authors>
+					<author>
+						<name first="H. C." last="Sheth">H. C. Sheth</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology (IIT) Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email>hcsheth@iitb.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-04-20</date>
+					<date type="R">2006-06-28</date>
+					<date type="A">2006-07-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Primary volcanic structures from a type section of Deccan Trap flows around Narsingpur–Harrai–Amarwara, central India: Implications for cooling history</title>
+				<feature></feature>
+				<page>0631-0642</page>
+				<abstract>
+					<p>Field investigations of the Deccan Trap lava sequence along a 70 km traverse in the Narsingpur–Harrai–Amarwara area of central India indicate twenty lava ﬂows comprising a total thickness of around 480m. Primary volcanic structures like vesicles and cooling joints are conspicuous in this volcanic succession and are used to divide individual ﬂows into three well-deﬁned zones namely the lower colonnade zone, entablature zone, and the upper colonnade zone. The variable nature of these structural zones is used for identiﬁcation and correlation of lava ﬂows in the ﬁeld. For twenty lava ﬂows, the thicknesses of upper colonnade zones of eight ﬂows are $\sim 5m$ while those of eight other ﬂows are $\sim 8m$ each. The thicknesses of upper colonnade zones of remaining four ﬂows could not be measured in the ﬁeld. Using the thicknesses of these upper colonnade zones and standard temperature-ﬂow thickness-cooling time proﬁles for lava pile, the total cooling time of these sixteen Deccan Trap lava ﬂows has been estimated at 12 to 15 years.</p>
+				</abstract>
+				<keywords>Deccan Traps;lava flows;volcanism;isotherm;cooling history.</keywords>
+				<authors>
+					<author>
+						<name first="Piyali" last="Sengupta">Piyali Sengupta</name>
+						<affiliation>Department of Geology, Presidency College, 86/1 College Street, Kolkata 700 073, India.</affiliation>
+						<email>piysen@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Arijit" last="Ray">Arijit Ray</name>
+						<affiliation>Department of Geology, Presidency College, 86/1 College Street, Kolkata 700 073, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-02-01</date>
+					<date type="R">2006-05-16</date>
+					<date type="A">2006-07-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Is the outcrop topology of dolerite dikes of the Precambrian Singhbhum Craton fractal?</title>
+				<feature></feature>
+				<page>0643-0660</page>
+				<abstract>
+					<p>In the Precambrian Singhbhum Craton of eastern India, newer dolerite dikes occur profusely with varying outcrop lengths. We have analysed the nature of their length-size and orientation distributions in relation to the theory of fractals. Two orientational sets of dikes (NW–SE and NE–SW) are present. Both the sets show strongly non-power-law size distributions, as reﬂected in nonlinear variations in logarithmic space. We analyzed thousands of data, revealing that polynomial functions with a degree of 3 to 4 are the best representatives of the non-linear variations. Orientation analysis shows that the degree of dispersions from the mean trend tends to decrease with increasing dike length. The length-size distributions were studied by simulating fractures in physical models.  Experimental fractures also show a non-power-law distribution, which grossly conforms to those of the dolerite dikes. This type of complex size distributions results from the combined effects of nucleation, propagation and coalescence of fractures.</p>
+				</abstract>
+				<keywords>Dike;fractal geometry;fracture;Singhbhum Craton;size-distribution;power law;physical model.</keywords>
+				<authors>
+					<author>
+						<name first="Nibir" last="Mandal">Nibir Mandal</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+					</author>
+					<author>
+						<name first="Atin Kumar" last="Mitra">Atin Kumar Mitra</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+					</author>
+					<author>
+						<name first="Santanu" last="Misra">Santanu Misra</name>
+						<affiliation>Department of Geological Sciences, Jadavpur University, Kolkata 700 032, India.</affiliation>
+					</author>
+					<author>
+						<name first="Chandan" last="Chakraborty">Chandan Chakraborty</name>
+						<affiliation>Geological Studies Unit, Indian Statistical Institute, 203, B. T. Road, Kolkata 700 108, India.</affiliation>
+						<email>chandan@isical.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-07-21</date>
+					<date type="R">2006-04-26</date>
+					<date type="A">2006-06-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Probabilistic landslide hazards and risk mapping on Penang Island, Malaysia</title>
+				<feature></feature>
+				<page>0661-0672</page>
+				<abstract>
+					<p>This paper deals with landslide hazards and risk analysis of Penang Island, Malaysia using Geographic Information System (GIS) and remote sensing data. Landslide locations in the study area were identiﬁed from interpretations of aerial photographs and ﬁeld surveys. Topographical/ geological data and satellite images were collected and processed using GIS and image processing tools. There are ten landslide inducing parameters which are considered for landslide hazard analysis. These parameters are topographic slope, aspect, curvature and distance from drainage, all derived from the topographic database; geology and distance from lineament, derived from the geologic database; landuse from Landsat satellite images; soil from the soil database; precipitation amount, derived from the rainfall database; and the vegetation index value from SPOT satellite images. Landslide susceptibility was analyzed using landslide-occurrence factors employing the probability–frequency ratio model. The results of the analysis were veriﬁed using the landslide location data and compared with the probabilistic model. The accuracy observed was 80.03%. The qualitative landslide hazard analysis was carried out using the frequency ratio model through the map overlay analysis in GIS environment. The accuracy of hazard map was 86.41%. Further, risk analysis was done by studying the landslide hazard map and damageable objects at risk. This information could be used to estimate the risk to population, property and existing infrastructure like transportation network.</p>
+				</abstract>
+				<keywords>Landslide;frequency ratio;landslide hazard;risk analysis;geographic information system;remote sensing.</keywords>
+				<authors>
+					<author>
+						<name first="Saro" last="Lee">Saro Lee</name>
+						<affiliation>Geoscience Information Center, Korea Institute of Geoscience and Mineral Resources (KIGAM) 30, Kajung-Dong, Yusung-Gu, Daejeon, Korea.</affiliation>
+						<email>leesaro@kigam.re.kr</email>
+					</author>
+					<author>
+						<name first="Biswajeet" last="Pradhan">Biswajeet Pradhan</name>
+						<affiliation>Cilix Corporation, Lot L4-I-6, Level 4, Enterprise 4, Technology Park Malaysia, Bukit Jalil Highway, Bukit Jalil, 57000, Kuala Lumpur, Malaysia.</affiliation>
+						<email>biswajeet@mailcity.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-11-17</date>
+					<date type="R">2006-05-01</date>
+					<date type="A">2006-08-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Elastic properties of granulite facies rocks of Mahabalipuram, Tamil Nadu, India</title>
+				<feature></feature>
+				<page>0673-0683</page>
+				<abstract>
+					<p>Compressional and shear wave velocities and attenuation measurements have been carried out in some of the borehole samples of acidic, basic and intermediate granulites of Mahabalipuram, Tamil Nadu, India. The results have been obtained at ambient conditions using ‘time-of-ﬂight’ pulse transmission technique at 1.0MHz frequency. The results show linear relationships between velocity and density, and velocity and attenuation properties of the rocks. The acidic granulites show lower velocities and higher attenuation than the intermediate and basic granulites. The average values of the Poisson’s ratio of acidic, intermediate and basic granulites have been found to be 0.210, 0.241 and 0.279 respectively. The variations in velocities and attenuation in these low porosity crystalline rocks are found to be strongly inﬂuenced by their mineral composition. The laboratory velocity data (extrapolated to high pressure) of the present study and the published ﬁeld velocity data from deep seismic sounding studies indicate that these granulite facies rocks may belong to mid-crustal depths only.</p>
+				</abstract>
+				<keywords>Velocities;Poisson’s ratio;attenuation;granulite facies rocks.</keywords>
+				<authors>
+					<author>
+						<name first="M. V. M. S." last="Rao">M. V. M. S. Rao</name>
+						<affiliation>National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+						<email>mvmsraodr@yahoo.com</email>
+					</author>
+					<author>
+						<name first="K. J. Prasanna" last="Lakshmi">K. J. Prasanna Lakshmi</name>
+						<affiliation>National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="L. P." last="Sarma">L. P. Sarma</name>
+						<affiliation>National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. B." last="Chary">K. B. Chary</name>
+						<affiliation>National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-01-23</date>
+					<date type="R">2006-05-30</date>
+					<date type="A">2006-07-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Plane strain deformation of a multi-layered poroelastic half-space by surface loads</title>
+				<feature></feature>
+				<page>0685-0694</page>
+				<abstract>
+					<p>The Biot linearized quasi-static theory of ﬂuid-inﬁltrated porous materials is used to formulate the problem of the two-dimensional plane strain deformation of a multi-layered poroelastic half-space by surface loads. The Fourier–Laplace transforms of the stresses, displacements, pore pressure and ﬂuid ﬂux in each homogeneous layer of the multi-layered half-space are expressed in terms of six arbitrary constants. Generalized Thomson–Haskell matrix method is used to obtain the deformation ﬁeld. Simpliﬁed explicit expressions for the elements of the $6 \times 6$ propagator matrix for the poroelastic medium are obtained. As an example of the possible applications of the analytical formulation developed, formal solution is given for normal strip loading, normal line loading and shear line loading.</p>
+				</abstract>
+				<keywords>Multi-layered half-space;plane strain;poroelastic;propagator matrix;surface loads.</keywords>
+				<authors>
+					<author>
+						<name first="Sarva Jit" last="Singh">Sarva Jit Singh</name>
+						<affiliation>Senior Scientist, INSA, Department of Mathematics, University of Delhi, South Campus, New Delhi 110 021, India.</affiliation>
+						<email>s_j_singh@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Sunita" last="Rani">Sunita Rani</name>
+						<affiliation>Department of Mathematics, Guru Jambheshwar University, Hisar 125 001, India.</affiliation>
+						<email>s_b_rani@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-12</date>
+					<date type="R">2006-03-14</date>
+					<date type="A">2006-03-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evidence of reworking and resuspension of carbonates during last glacial maximum and early deglacial period along the southwest coast of India</title>
+				<feature></feature>
+				<page>0695-0702</page>
+				<abstract>
+					<p>A gravity core collected from the upper slope of southwest of Quilon at a water depth of 776m (Lat: $8^\circ 12^\prime 263^\prime\prime N$, Long: $76^\circ 28^\prime 281^\prime\prime E$) was analysed for texture (carbonate free), calcium carbonate and organic carbon. Variation in silicic fraction seems  to be controlled by silt, i.e., enrichment from 15 ka BP to 10 ka BP and then constant in Holocene. Below 15 ka BP, the silicic fraction gets depleted compared to the Holocene section with a minimum around 21 ka BP. Clay content remains nearly constant except in the Holocene where it shows an enrichment. Carbonate content of less than 63 micron when computed by subtracting coarse fraction content from the total carbonate suggests that the total carbonates are mainly concentrated in the ﬁner fraction. All these carbonate phases show an inverse relationship with silicic fraction except in Holocene. Below 15 ka BP, $CaCO_3$ dominates in sediments comprising more than 65%, such an increase is also seen in the coarse fraction. Coarse fraction from these sections contains abundant nodular type aggregates encrusting small forams. This period is marked by a high sedimentation rate comparable to Holocene. These parameters suggest that the productivity and precipitation have increased in the Holocene due to the intensiﬁcation of the southwest monsoon. During the last glacial maximum and early deglacial period the high sedimentation rate indicates redeposition of the carbonates from the existing carbonate lithofacies situated between Quilon and Cape Comorin probably due to the slope instability.</p>
+				</abstract>
+				<keywords>Holocene;last glacial maximum (LGM);deglacial.</keywords>
+				<authors>
+					<author>
+						<name first="Kamlesh" last="Verma">Kamlesh Verma</name>
+						<affiliation>National Center for Antarctic and Ocean Research, Vasco da Gama, Goa 403 804, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Sudhakar">M. Sudhakar</name>
+						<affiliation>National Center for Antarctic and Ocean Research, Vasco da Gama, Goa 403 804, India.</affiliation>
+						<email>msudhakar@ncaor.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2005-08-02</date>
+					<date type="R">2006-05-31</date>
+					<date type="A">2006-06-09</date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="116">
+		<issue inum="01" month="02" year="2007">
+			<entry hassup="0">
+				<title>Editorial</title>
+				<feature></feature>
+				<page>0001-0001</page>
 				<abstract>
 					<p></p>
 				</abstract>
@@ -8709,66 +9073,82 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Platinum group elements and gold in ferromanganese crusts from Afanasiy–Nikitin seamount, equatorial Indian Ocean: Sources and fractionation</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0003-0013</page>
 				<abstract>
-					<p></p>
+					<p>The major element relationships in ferromanganese (Fe-Mn) crusts from Afanasiy-Nikitin seamount (ANS), eastern equatorial Indian Ocean, appear to be atypical. High positive correlations (\textit {r} = 0.99) between Mn/Co and Fe/Co ratios, and lack of correlation of those ratios with Co, Ce, and Ce/Co, indicate that the ANS Fe-Mn crusts are distinct from Pacific seamount Fe-Mn crusts, and reflect region-specific chemical characteristics. The platinum group elements (PGE: Ir, Ru, Rh, Pt, and Pd) and Au in ANS Fe-Mn crusts are derived from seawater and are mainly of terrestrial origin, with a minor cosmogenic component. The Ru/Rh (0.5-2) and Pt/Ru ratios (7-28) are closely comparable to ratios in continental basalts, whereas Pd/Ir ratios exhibit values (&mt; 2) similar to CI-chondrite ($\sim 1$). The chondrite-normalized PGE patterns are similar to those of igneous rocks, except that Pd is relatively depleted. The water depth of Fe-Mn crust formation appears to have a first-order control on both major element and PGE enrichments. These relationships are defined statistically by significant (\textit {r} &lt; 0.75) correlations between water depth and Mn/Co, Fe/Co, Ce/Co, Co, and the PGEs. Fractionation of the PGE-Au from seawater during colloidal precipitation of the major-oxide phases is indicated by well-defined linear positive correlations (\textit {r} &lt; 0.8) of Co and Ce with Ir, Ru, Rh, and Pt; Au/Co with Mn/Co; and by weak or no correlations of Pd with water depth, Co-normalized major-element ratios, and with the other PGE (\textit {r} $mt; 0.5). The strong enrichment of Pt (up to 1 ppm) relative to the other PGE and its positive correlations with Ce and Co demonstrate a common link for the high concentrations of all three elements, which  likely involves an oxidation reaction on the Mn-oxide and Fe-oxyhydroxide surfaces. The documented fractionation of PGE-Au and their positive association with redox sensitive Co and Ce may have applications in reconstructing past-ocean redox conditions and water masses.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Indian Ocean;ferromanganese crusts;platinum group elements;source and fractionation.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="V. K." last="Banakar">V. K. Banakar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>banakar@nio.org</email>
+					</author>
+					<author>
+						<name first="J. R." last="Hein">J. R. Hein</name>
+						<affiliation>U.S. Geological Survey, MS999, Menlo Park, California, USA.</affiliation>
+					</author>
+					<author>
+						<name first="R. P." last="Rajani">R. P. Rajani</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. R." last="Chodankar">A. R. Chodankar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2006-07-19</date>
+					<date type="R">2006-09-01</date>
+					<date type="A">2006-09-07</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Facies characteristics of the basal part of the Talchir Formation, Talchir Basin, India – depositional history revisited</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0015-0020</page>
 				<abstract>
-					<p></p>
+					<p>The lowest unit of the Talchir Formation of Talchir Basin, Orissa, was described by pioneer workers as the 'basal oulder bed'. In an attempt to explain the co-existence of gravel and clay, materials of contrasting hydraulic properties, a probable situation resembling the effects of the action of ground-ice enabled boulders to be carried down by sluggish currents resulting in an intermixture of large boulders and fine mud was conceived. Misinterpretation of this conclusion led to a general tendency to describe the 'basal boulder bed' as 'glacial tillite'. However, the unit described as 'basal boulder bed is actually represented by a matrix rich conglomerate with pockets of normally graded silty clay. The present study reveals that the depositional imprints preserved in this part of the sedimentary succession indicate emplacement of successive debris flows generated through remobilization of pre-existing unconsolidated sediments. Small pockets of fine-grained turbidites presumably deposited from the entrained turbidity currents associated with the debris flows suggest the composite character of the debris flow deposit.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Gondwana sedimentation;Talchir Formation;Talchir Basin;debris flow;entrained turbidity current.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Prabir" last="Dasgupta">Prabir Dasgupta</name>
+						<affiliation>Department of Geology, Presidency College, 86/1 College Street, Kolkata 700 073, India.</affiliation>
+						<email>pdggeopc@cal3.vsnl.net.in</email>
+					</author>
+					<author>
+						<name first="Rishiraj" last="Sahoo">Rishiraj Sahoo</name>
+						<affiliation>Department of Geology, Presidency College, 86/1 College Street, Kolkata 700 073, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2006-04-10</date>
+					<date type="R">2006-07-31</date>
+					<date type="A">2006-08-22</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Domainal fabric development, associated microstructures and \textit {P--T} records attesting to polymetamorphism in a granulite complex of the Eastern Ghats granulite belt, India</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0021-0035</page>
 				<abstract>
-					<p></p>
+					<p>The granulite complex around Jenapore, Orissa, Eastern Ghats granulite belt, bears the imprint of two episodes of strong deformation ($D_1$ and $D_2$) attended with foliation (fabric) development ($S_1$ and $S_2$). Two distinct metamorphic events at \textit {P-T} conditions of $\sim 900^\circ C$ at $\sim 9kbar$ and $\sim 600^\circ C$ at $\sim 6 kbar$ are correlated with $D_1$ and $D_2$ respectively. The reaction textures in $S_1$-microdomains are interpreted to be the product of near isobaric cooling at $\sim 9 kbar$ from $950^\circ C$ to $600^\circ C$, whereas those in the $S_2$-microdomains are considered to be the result of an up-pressure trajectory from $\sim 6$ kbar at $600^\circ C$. The $D_{1}--M_{1}$ high \textit {P-T} granulite event is interpreted to be Archean in age (ca. 3Ga) on the basis of the isotopic data obtained from the charnockite suite of the area. The later relatively low \textit {P-T} granulite facies event, attendant to $D_{2}--S_{2}$ is considered to be related to the Grenvillian orogeny as represented by the dominant isotopic record in the belt.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Eastern Ghats granulite belt;polyphase deformation;distinct fabrics;diverse P–T records;polymetamorphism.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Rajib" last="Kar">Rajib Kar</name>
+						<affiliation>Department of Geology, J. K. College, Purulia 723 101, West Bengal, India.</affiliation>
+						<email>rajib_kar@hotmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2006-03-29</date>
+					<date type="R">2006-09-04</date>
+					<date type="A">2006-09-26</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
