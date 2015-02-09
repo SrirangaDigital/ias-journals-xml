@@ -44,14 +44,14 @@
 				<abstract>
 					<p>The very insightful Trivers-Willard hypothesis, proposed in the early 1970s, states that females in good physiological condition are more likely to produce male offspring when the variance of reproductive success among males is high. The hypothesis has inspired a number of studies over the last three decades aimed at its experimental verification, and many of them have found adequate supportive evidence in its favour. Theoretical investigations, on the other hand, have been few, perhaps because formulating a population-genetic model for describing the Trivers±Willard hypothesis turns out to be surprisingly complex. The present study is aimed at using a minimal population-genetic model to explore one specific scenario, namely how is the preference for a male offspring by females in good condition altered when $g$, the proportion of such females in the population, changes from a low to a high value. As expected, when the proportion of such females in good condition is low in the population, i.e. for low values of $g$, the Trivers-Willard (TW) strategy goes to fixation against the equal investment strategy. This holds true up to $g_\mathrm{max}$, a critical value of $g$, above which the two strategies coexist, but the proportion of the TW strategy steadily decreases as $g$ increases to unity. Similarly, when the effect of well-endowed males attaining disproportionately high number of matings is more pronounced, the TW strategy is more likely to go to fixation. Interestingly, the success of the TW strategy has a complex dependence on the variance of the physiological condition of females. If the difference in the two types of conditions is not large, TW strategy is favoured, and its success is more likely as the difference increases. However, beyond a critical value of the difference, the TW strategy is found to be less and less likely to succeed as the difference becomes larger. Possible reasons for these effects are discussed.</p>
 				</abstract>
-				<keywords>trivers-Willard hypothesis;maternal investment;sex ratio theory;optimal resource allocation;mathematical modelling.</keywords>
+				<keywords>Trivers-Willard hypothesis;maternal investment;sex ratio theory;optimal resource allocation;mathematical modelling.</keywords>
 				<authors>
 					<author>
 						<name first="N. V." last="Joshi">N. V. Joshi</name>
 						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email>nvjoshi@ces.iisc.ernet.in</email>
 					</author>
-				<authors>
+				</authors>
 				<dates>
 					<date type="M">2000-03-30</date>
 					<date type="R">2000-04-28</date>
@@ -103,7 +103,7 @@
 						<affiliation>Immunogénétique Humaine, Institut Pasteur, 75724 Paris, Cedex 15, France</affiliation>
 						<email></email>
 					</author>
-				<authors>
+				</authors>
 				<dates>
 					<date type="M">2000-03-31</date>
 					<date type="R"></date>
@@ -123,7 +123,7 @@
 						<affiliation></affiliation>
 						<email></email>
 					</author>
-				<authors>
+				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -412,8 +412,1873 @@
 		</issue>
 		<issue inum="03" month="00" year="2000">
 			<entry hassup="0">
-				<title></title>
+				<title>Identification of four genes involved in suppression of the pre-mRNA splicing defect in the <i>sng1-1/rhp6$^{-}$</i> mutant of fission yeast</title>
 				<feature></feature>
+				<page>0083-0090</page>
+				<abstract>
+					<p>Apart from the global regulators of silencing in the fission yeast <i>Schizosaccharomyces pombe</i>, namely <i>swi6, clr1, clr2, clr3, clr4</i> and <i>rik1</i>, the DNA repair gene <i>rhp6</i> plays a unique role in mating-type silencing. Recently, we showed that <i>sng1-1</i>, a mutation in the $5'$ splice junction of the second intron of the <i>rhp6</i> gene, leads to derepression of both the silent loci <i>mat2</i> and <i>mat3</i> in switching background. To address the mechanism of <i>rhp6</i> in silencing, we have isolated several extragenic suppressors of the <i>sng1-1/rhp6$^{-}$</i> mutation. These suppressors fall into four complementation groups and are referred to as suppressor of <i>rhp6: sur1, sur2, sur3</i> and <i>sur4</i>. Interestingly, reverse transcriptase polymerase chain reaction analysis of the <i>rhp6</i> transcript shows that in contrast to about $\gt 50\%$ level of unspliced <i>rhp6</i> pre-mRNA in the <i>sng1-1/rhp6$^{-}$</i> mutant, there is a restoration of normal splicing to varying degrees in the suppressors. The <i>sur2</i> gene belongs to the AAA-ATPase family of proteins, with maximum homology to the SIN1-associated protein SAP1 of <i>Saccharomyces cerevisiae</i>. We propose that <i>sur2</i>, along with <i>sur1, sur3</i> and <i>sur4</i>, may play an as yet uncharacterized role in pre-mRNA splicing.</p>
+				</abstract>
+				<keywords>pre-mRNA splicing;suppressors;<i>Schizosaccharomyces pombe</i>.</keywords>
+				<authors>
+					<author>
+						<name first="Alpana" last="Naresh">Alpana Naresh</name>
+						<affiliation>Institute of Microbial Technology, Sector 39A, Chandigarh 160 036, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jagmohan" last="Singh">Jagmohan Singh</name>
+						<affiliation>Institute of Microbial Technology, Sector 39A, Chandigarh 160 036, India</affiliation>
+						<email>jag@imtech.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-09-05</date>
+					<date type="R">2000-11-25</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Isolation of a <i>cdc28</i> mutation that abrogates the dependence of S phase on completion of M phase of the budding yeast cell cycle</title>
+				<feature></feature>
+				<page>0091-0096</page>
+				<abstract>
+					<p>We have isolated a mutation in the budding yeast <i>Saccharomyces cerevisisae CDC28</i> gene that allows <i>cdc13</i> cells, carrying damaged DNA, to continue with the cell division cycle. While <i>cdc13</i> mutant cells are arrested as large-budded cells at the nonpermissive temperature 37$^{\circ}$C, the <i>cdc13 cdc28</i> double mutant culture showed cells with one or more buds, most of which showed apical growth. The additional buds emerged without the intervening steps of nuclear division and cell separation. We suggest that the <i>cdc28</i> mutation abrogates a checkpoint function and allows cells with damaged or incompletely replicated DNA an entry to another round of cell cycle and bypasses the mitotic phase of the cell cycle.</p>
+				</abstract>
+				<keywords>yeast;Cdc28 kinase;checkpoint;cell cycle.</keywords>
+				<authors>
+					<author>
+						<name first="Santanu Kumar" last="Ghosh">Santanu Kumar Ghosh</name>
+						<affiliation>Department of Biochemistry, Bose Institute, Calcutta 700 054, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pratima" last="Sinha">Pratima Sinha</name>
+						<affiliation>Department of Biochemistry, Bose Institute, Calcutta 700 054, India</affiliation>
+						<email>pratima@bic.boseinst.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-11-29</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Induced mutation to monocotyledony in periwinkle, <i>Catharanthus roseus</i>, and suppression of mutant phenotype by kinetin</title>
+				<feature></feature>
+				<page>0097-0104</page>
+				<abstract>
+					<p>A recessive EMS-induced mutation inherited in Mendelian fashion caused monocotyledonous embryo formation and seed germination on high salt medium in <i>Catharanthus roseus</i>. Availability during embryo development of exogenously supplied cytokinin kinetin suppressed the mutant phenotype. These observations suggest that, in <i>C. roseus</i>,</p>
+					<ol type="roman">
+						<li>insufficiency in endogenous kinetin may lead to monocotyledonous embryo patterning and</li> 
+						<li>dicotyledonous embryo formation requires a critical amount of kinetin in certain cells of early embryos.</li>
+					</ol>
+				</abstract>
+				<keywords>cimap@satyam.net.in</keywords>
+				<authors>
+					<author>
+						<name first="Shashi Pandey" last="Rai">Shashi Pandey Rai</name>
+						<affiliation>Central Institute of Medicinal and Aromatic Plants, P.O. CIMAP, Lucknow 226 015, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sushil" last="Kumar">Sushil Kumar</name>
+						<affiliation>Central Institute of Medicinal and Aromatic Plants, P.O. CIMAP, Lucknow 226 015, India</affiliation>
+						<email>cimap@satyam.net.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-11-24</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Meiosis and speciation: a study in a speciating <i>Mus terricolor</i> complex</title>
+				<feature></feature>
+				<page>0105-0111</page>
+				<abstract>
+					<p>The three chromosomal species of the <i>Mus terricolor</i> complex possess $2n = 40$ chromosomes. We show that their karyotypes differ in stable heterochromatin variations fixed in homozygous condition as prominent short arms in auto-somes 1, 3 and 6. The three chromosomal species exhibit a high incidence of polymorphisms for Robertsonian fusions and pericentric inversions. Breeding experiments and histological analysis of testis show that heterozygosity for pericentric inversions and Robertsonian fusions had no effect on fertility. Meiotic analysis shows normal overall progression of meiosis in the heterozygotes, which is consistent with their normal gametogenesis. Nevertheless, both the inversion and fusion heterozygotes had undergone some alterations in the regular process of homologous synapsis, and it appeared that certain features of the meiotic system circumvented the potential negative effects of these polymorphic chromosomal rearrangements. The results indicate that the attributes of the meiotic system in a given organism could modulate the potential of a chromosomal rearrangement as reproductive barrier. The meiotic modulation hypothesis offers an explanation for the contradictory effects of the similar kinds of chromosomal mutations reported in different species.</p>
+				</abstract>
+				<keywords>inversion;Robertsonian fusion;heterochromatin;chromosomal polymorphism;meiosis;speciation.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Bardhan">A. Bardhan</name>
+						<affiliation>Cytogenetics Laboratory, Department of Zoology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Sharma">T. Sharma</name>
+						<affiliation>Cytogenetics Laboratory, Department of Zoology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email>tsharma@banaras.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-08-07</date>
+					<date type="R">2000-12-27</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Characterization of newly established colorectal cancer cell lines: correlation between cytogenetic abnormalities and allelic deletions associated with multistep tumorigenesis</title>
+				<feature></feature>
+				<page>0113-0123</page>
+				<abstract>
+					<p>We have established a series of 20 colorectal cancer cell lines and performed cytogenetic and RFLP analyses to show that the recurrent genetic abnormalities of chromosomes 1, 5, 17 and 18 associated with multistep tumorigenesis in colorectal cancer, and frequently detected as recurrent abnormalities in primary tumours, are also retained in long-term established cell lines. Earlier studies by us and other investigators showed that allelic losses of chromosomes 1 and 17 in primary colorectal cancers predicted poorer survival for the patients $(P = 0.03)$. We utilized the cell lines to identify specific chromosomal sites or gene(s) on chromosomes 1 and 17 which confer more aggressive phenotype. Cytogenetic deletions of chromosome 1p were detected in 14 out of the 20 (70\%) cell lines, whereas allelic deletions for 1p using polymorphic markers were detected in 13 out of 18 (72\%) informative cell lines for at least one polymorphic marker. We have performed Northern blotting, immunohistochemical staining (p53 mRNA, protein) and RFLP analysis using several probes including p53 and nm23. RFLP analysis using a total of seven polymorphic markers located on 17p and 17q arms showed allelic losses around the <i>p53</i> locus in 16 out of the 20 cell lines (80\%), four of which were losses of the <i>p53</i> locus itself. In addition, seven cell lines (out of nine informative cases) also showed losses of the <i>nm23</i> gene, four with concurrent losses of the <i>p53</i> locus, while the remaining three were homozygous. In addition, five out of seven cell lines with <i>nm23</i> deletions were derived from hepatic metastatic tumours, and one cell line was obtained from recurrent tumour. A comparison between allelic deletions of 1p and functional loss of <i>nm23</i> gene revealed a close association between these two events in cell lines derived from hepatic metastasis. Following immunohistochemical staining, nine out of the twenty cell lines showed high levels (25–80\%) of mutant p53, four showed intermediate levels $(\lt 20\%)$, and seven had undetectable levels of the protein. Of these seven, four showed complete absence of mRNA. Of the remaining three cell lines one showed aberrant mRNA due to germline rearrangement of the <i>p53</i> gene, whereas in two cell lines normal levels of mRNA were present. Nineteen of the 20 cell lines had normal germline configurations for the <i>p53</i> gene, while one showed a rearrangement. These data suggest that functional loss of <i>p53</i> and <i>nm23</i> genes accomplished by a variety of mechanisms may be associated with poor prognosis and survival. In addition, concurrent deletions of chromosome regions 17p, 17q and 1p were closely associated with high-stage hepatic metastatic disease. These cell lines with well-characterized genetic alterations and known clinical history provide an invaluable source of material for various biological and clinical studies relating to multistep colorectal tumorigenesis.</p>
+				</abstract>
+				<keywords>colorectal cancer;cell line;tumorigenesis;allelic deletion;chromosomal aberration.</keywords>
+				<authors>
+					<author>
+						<name first="Hans" last="Gerdes">Hans Gerdes</name>
+						<affiliation>Laboratory of Solid Tumor Genetics, Department of Human Genetics, and Gastroenterology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York, NY 10021, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abul" last="Elahi">Abul Elahi</name>
+						<affiliation>Laboratory of Solid Tumor Genetics, Department of Human Genetics, and Gastroenterology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York, NY 10021, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Quanguang" last="Chen">Quanguang Chen</name>
+						<affiliation>Laboratory of Solid Tumor Genetics, Department of Human Genetics, and Gastroenterology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York, NY 10021, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Suresh C." last="Jhanwar">Suresh C. Jhanwar</name>
+						<affiliation>Laboratory of Solid Tumor Genetics, Department of Human Genetics, and Gastroenterology Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York, NY 10021, USA</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-12-19</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Understanding protein–protein interactions by genetic suppression</title>
+				<feature>Review article</feature>
+				<page>0125-0129</page>
+				<abstract>
+					<p>Protein–protein interactions influence many cellular processes and it is increasingly being felt that even a weak and remote interplay between two subunits of a protein or between two proteins in a complex may govern the fate of a particular biochemical pathway. In a bacterial system where the complete genome sequence is available, it is an arduous task to assign function to a large number of proteins. It is possible that many of them are peripherally associated with a cellular event and it is very difficult to probe such interaction. However, mutations in the genes that encode such proteins (primary mutations) are useful in these studies. Isolation of a suppressor or a second-site mutation that restores the phenotype abolished by the primary mutation could be an elegant yet simple way to follow a set of interacting proteins. Such a reversion site need not necessarily be geometrically close to the primary mutation site.</p>
+				</abstract>
+				<keywords>genetic suppression;protein–protein interaction;allele specificity;long-range interaction.</keywords>
+				<authors>
+					<author>
+						<name first="Sitaraman" last="Sujatha">Sitaraman Sujatha</name>
+						<affiliation>Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dipankar" last="Chatterji">Dipankar Chatterji</name>
+						<affiliation>Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>dipankar@mbu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The genetics of sheep</title>
+				<feature>Book review</feature>
+				<page>0131-0132</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. H." last="Edwards">J. H. Edwards</name>
+						<affiliation>Emeritus Professor of Genetics, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evolutionary genetics: from molecules to morphology</title>
+				<feature>Book review</feature>
+				<page>0133-0134</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="N. V." last="Joshi">N. V. Joshi</name>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="080">
+		<issue inum="01" month="04" year="2001">
+			<entry hassup="0">
+				<title>Evolution of faster development does not lead to greater fluctuating asymmetry of sternopleural bristle number in <i>Drosophila</i></title>
+				<feature></feature>
+				<page>0001-0007</page>
+				<abstract>
+					<p>Both strong directional selection and faster development are thought to destabilize development, giving rise to greater fluctuating asymmetry (FA), although there is no strong empirical evidence supporting this assertion. We compared FA in sternopleural bristle number in four populations of <i>Drosophila melanogaster</i> successfully selected for faster development from egg to adult, and in four control populations. The fraction of perfectly symmetric individuals was higher in the selected populations, whereas the FA levels did not differ significantly between selected and control populations, clearly indicating that directional selection for faster development has not led to increased FA in sternopleural bristle number in these populations. This may be because:</p>
+					<ol type="roman">
+						<li>development time and FA are uncorrelated,</li> 
+						<li>faster development does result in FA, but selection has favoured developmentally stable individuals that can develop fast and still be symmetrical, or</li>
+						<li>the increased fraction of symmetric individuals in the selected populations is an artifact of reduced body size.</li> 
+					</ol>
+					<p>Although we cannot discriminate among these explanations, our results suggest that the relationship between development time, FA and fitness may be far more subtle than often thought.</p>
+				</abstract>
+				<keywords>sternopleural bristle; developmental stability; evolution; canalization; fluctuating asymmetry; <i>Drosophila melanogaster.</i></keywords>
+				<authors>
+					<author>
+						<name first="Mallikarjun" last="Shakarad">Mallikarjun Shakarad</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<affiliation>Poornaprajna Institute of Scientific Research, 4, Sadashivanagar, Bangalore 560 080, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N. G." last="Prasad">N. G. Prasad</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Rajamani">M. Rajamani</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-01-15</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An automated annotation tool for genomic DNA sequences using GeneScan and BLAST</title>
+				<feature></feature>
+				<page>0009-0016</page>
+				<abstract>
+					<p>Genomic sequence data are often available well before the annotated sequence is published. We present a method for analysis of genomic DNA to identify coding sequences using the GeneScan algorithm and characterize these resultant sequences by BLAST. The routines are used to develop a system for automated annotation of genome DNA sequences.</p>
+				</abstract>
+				<keywords>GeneScan;BLAST;genome annotation;DNA sequence;computational genomics;Fourier analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Andrew M." last="Lynn">Andrew M. Lynn</name>
+						<affiliation>Bioinformatics Centre, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chakresh Kumar" last="Jain">Chakresh Kumar Jain</name>
+						<affiliation>Bioinformatics Centre, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Kosalai">K. Kosalai</name>
+						<affiliation>Bioinformatics Centre, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pranjan" last="Barman">Pranjan Barman</name>
+						<affiliation>Bioinformatics Centre, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nupur" last="Thakur">Nupur Thakur</name>
+						<affiliation>Bioinformatics Centre, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Harish" last="Batra">Harish Batra</name>
+						<affiliation>Bioinformatics Centre, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alok" last="Bhattacharya">Alok Bhattacharya</name>
+						<affiliation>School of Life Sciences, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email>alok@jnuniv.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-02-26</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Accelerated molecular evolution of insect orthologues of <i>ERG28/C14orf1</i>: a link with ecdysteroid metabolism?</title>
+				<feature></feature>
+				<page>0017-0021</page>
+				<abstract>
+					<p>We have analysed the evolution of <i>ERG28/C14orf1</i>, a gene coding for a protein involved in sterol biosynthesis. While primary sequence of the protein is well conserved in all organisms able to synthesize sterols <i>de novo</i>, strong divergence is noticed in insects, which are cholesterol auxotrophs. In spite of this virtual acceleration, our analysis suggests that the insect orthologues are evolving today at rates similar to those of the remaining members of the family. A plausible way to explain this acceleration and subsequent stabilization is that Erg28 plays a role in at least two different pathways. Discontinuation of the cholesterogenesis pathway in insects allowed the protein to evolve as much as the function in the other pathway was not compromised.</p>
+				</abstract>
+				<keywords>ergosterol;cholesterol;steroids;ecdysteroids;Erg28;C14orf1.</keywords>
+				<authors>
+					<author>
+						<name first="Reiner A." last="Veitia">Reiner A. Veitia</name>
+						<affiliation>Unité d’Immunogénétique Humaine/Université Denis Diderot – Paris VII, Institut Pasteur, 25 rue du Dr Roux, 75015 Paris, France</affiliation>
+						<email>rveitia@pasteur.fr</email>
+					</author>
+					<author>
+						<name first="Laurence D." last="Hurst">Laurence D. Hurst</name>
+						<affiliation>Department of Biology and Biochemistry, University of Bath, Claverton Down, Bath, Somerset BA2 7AY, UK</affiliation>
+						<email>l.d.hurst@bath.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-03-28</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic variation at minisatellite loci D1S7, D4S139, D5S110 and D17S79 among three population groups of eastern India</title>
+				<feature></feature>
+				<page>0023-0030</page>
+				<abstract>
+					<p>Genetic variation at four minisatellite loci D1S7, D4S139, D5S110 and D17S79 in three predominant population groups of eastern India, namely Brahmin, Kayastha and Garo, are reported in this study. The Brahmin and Kayastha are of Indo-Caucasoid origin while the Garo community represents the Indo-Mongoloid ethnic group. The methodology employed comprised generation of <i>Hae</i>III-restricted fragments of isolated DNA, Southern blotting, and hybridization using chemiluminescent probes MS1, pH30, LH1 and V1 for the four loci. All four loci were highly polymorphic in the population groups. Heterozygosity values for the four loci ranged between 0.68 and 0.95. Neither departure from Hardy–Weinberg expectations nor evidence of any association across alleles among the selected loci was observed. The gene differentiation value among the loci is moderate $(G_{\text{ST}} = 0.027)$. A neighbour-joining tree constructed on the basis of the generated data shows very low genetic distance between the Brahmin and Kayastha communities in relation to the Garo. Our results based on genetic distance analysis are consistent with results of earlier studies based on serological markers and linguistic as well as morphological affiliations of these populations and their Indo-Caucasoid and Indo-Mongoloid origin. The minisatellite loci studied here were found to be not only useful in showing significant genetic variation between the populations but also to be suitable for human identity testing among eastern Indian populations.</p>
+				</abstract>
+				<keywords>RFLP;D1S7;D4S139;D5S110;D17S79;genetic variation;minisatellite;Indian populations.</keywords>
+				<authors>
+					<author>
+						<name first="Ranjan" last="Dutta">Ranjan Dutta</name>
+						<affiliation>DNA Typing Unit, Central Forensic Science Laboratory, Bureau of Police Research and Development, 30 Gorachand Road, Kolkata 700 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V. K." last="Kashyap">V. K. Kashyap</name>
+						<affiliation>DNA Typing Unit, Central Forensic Science Laboratory, Bureau of Police Research and Development, 30 Gorachand Road, Kolkata 700 014, India</affiliation>
+						<email>dtubprd@giascl01.vsnl.net.in;vkk2k@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-08-14</date>
+					<date type="R">2000-12-12;2001-04-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Isolation and characterization of stable mutants of <i>Streptomyces peucetius</i> defective in daunorubicin biosynthesis</title>
+				<feature></feature>
+				<page>0031-0038</page>
+				<abstract>
+					<p>Daunorubicin and its derivative doxorubicin are antitumour anthracycline antibiotics produced by <i>Streptomyces peucetius</i>. In this study we report isolation of stable mutants of <i>S. peucetius</i> blocked in different steps of the daunorubicin biosynthesis pathway. Mutants were screened on the basis of colony colour since producer strains are distinctively coloured on agar plates. Different mutants showed accumulation of aklaviketone, $\epsilon$-rhodomycinone, maggiemycin or 13-dihydrocarminomycin in their culture filtrates. These results indicate that the mutations in these isolates affect steps catalysed by <i>dnrE</i> (mutants SPAK and SPMAG), <i>dnrS</i> (SPFS and SPRHO) and <i>doxA</i> (SPDHC) gene products.</p>
+				</abstract>
+				<keywords>Streptomyces peucetius;daunorubicin;$\epsilon$-rhodomycinone;NTG mutagenesis.</keywords>
+				<authors>
+					<author>
+						<name first="K. S." last="Vetrivel">K. S. Vetrivel</name>
+						<affiliation>Department of Genetic Engineering, School of Biotechnology, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Dharmalingam">K. Dharmalingam</name>
+						<affiliation>Department of Genetic Engineering, School of Biotechnology, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email>kdharmalingam@vsnl.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-04-06</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Testing quantum dynamics in genetic information processing</title>
+				<feature></feature>
+				<page>0039-0043</page>
+				<abstract>
+					<p>Does quantum dynamics play a role in DNA replication? What type of tests would reveal that? Some statistical checks that distinguish classical and quantum dynamics in DNA replication are proposed.</p>
+				</abstract>
+				<keywords>assembly;computation;database search;DNA replication;genetic information;nucleotide base;polymerase enzyme;quantum coherence;quantum mechanics;quantum superposition.</keywords>
+				<authors>
+					<author>
+						<name first="Apoorva" last="Patel">Apoorva Patel</name>
+						<affiliation>Centre for Theoretical Studies, and Supercomputer Education and Research Centre, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>adpatel@cts.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-01-24</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Darkness in El Dorado: human genetics on trial</title>
+				<feature>Commentary</feature>
+				<page>0045-0052</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Newton E." last="Morton">Newton E. Morton</name>
+						<affiliation>Human Genetics Research Division, University of Southampton, Southampton SO16 6YD, UK</affiliation>
+						<email>nem@soton.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Neurospora compendium: chromosomal loci</title>
+				<feature>Book Review</feature>
+				<page>0053-0054</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Durgadas P." last="Kasbekar">Durgadas P. Kasbekar</name>
+						<affiliation>Centre for Cellular and Molecular Biology, Uppal Road, Hyderabad 500 007, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="08" year="2001">
+			<entry hassup="0">
+				<title>Evidence for dominant suppression of repeat-induced point mutation (RIP) in crosses with the wild-isolated <i>Neurospora crassa</i> strains Sugartown and Adiopodoume-7</title>
+				<feature></feature>
+				<page>0055-0061</page>
+				<abstract>
+					<p>A convenient assay to score repeat-induced point mutation (RIP) in <i>Neurospora</i> employs the <i>erg-3</i> locus as a mutagenesis target. Using this assay we screened 132 wild-isolated <i>Neurospora crassa</i> strains for ability to dominantly suppress RIP. RIP was exceptionally inefficient in crosses with the wild isolates Sugartown (P0854) and Adiopodoume-7 (P4305), thereby suggesting the presence of dominant RIP suppressors in these strains. In other experiments, we found no evidence for dominant RIP suppression by the <i>Spore killer</i> haplotypes <i>Sk-2</i> and <i>Sk-3</i>.</p>
+				</abstract>
+				<keywords>Spore killer;meiotic drive;Neurospora crassa;RIP.</keywords>
+				<authors>
+					<author>
+						<name first="Felicite K." last="Noubissi">Felicite K. Noubissi</name>
+						<affiliation>Centre for Cellular and Molecular Biology, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Aparna">K. Aparna</name>
+						<affiliation>Centre for Cellular and Molecular Biology, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kevin" last="McCluskey">Kevin McCluskey</name>
+						<affiliation>Fungal Genetics Stock Center, Department of Microbiology, University of Kansas Medical Center, Kansas City, KS 66103, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Durgadas P." last="Kasbekar">Durgadas P. Kasbekar</name>
+						<affiliation>Centre for Cellular and Molecular Biology, Hyderabad 500 007, India</affiliation>
+						<email>kas@ccmb.ap.nic.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-08-07</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>$K$-selection, $\alpha$-selection, effectiveness, and tolerance in competition: density-dependent selection revisited</title>
+				<feature></feature>
+				<page>0063-0075</page>
+				<abstract>
+					<p>In the <i>Drosophila</i> literature, selection for faster development and selection for adapting to high density are often confounded, leading, for example, to the expectation that selection for faster development should also lead to higher competitive ability. At the same time, results from experimental studies on evolution at high density do not agree with many of the predictions from classical density-dependent selection theory. We put together a number of theoretical and empirical results from the literature, and some new experimental results on <i>Drosophila</i> populations successfully subjected to selection for faster development, to argue for a broader interpretation of density-dependent selection. We show that incorporating notions of $\alpha$-selection, and the division of competitive ability into effectiveness and tolerance components, into the concept of density-dependent selection yields a formulation that allows for a better understanding of the empirical results. We also use this broader formulation to predict that selection for faster development in <i>Drosophila</i> should, in fact, lead to the correlated evolution of decreased competitive ability, even though it does lead to the evolution of greater efficiency and higher population growth rates at high density when in monotypic culture.</p>
+				</abstract>
+				<keywords>density-dependent selection;competition;development time;urea tolerance;feeding rate;<i>Drosophila melanogaster.</i></keywords>
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box No. 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+					<author>
+						<name first="N. G." last="Prasad">N. G. Prasad</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box No. 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mallikarjun" last="Shakarad">Mallikarjun Shakarad</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box No. 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<affiliation>Poornaprajna Institute of Scientific Research, 4 Sadashivanagar, Bangalore 560 080, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-06-18</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Body size and mating success in <i>Drosophila willistoni</i> are uncorrelated under laboratory conditions</title>
+				<feature></feature>
+				<page>0077-0081</page>
+				<abstract>
+					<p>Mating activity and wing length were investigated in the F$_{1}$ progeny of <i>Drosophila willistoni</i> females collected in the field to examine any possible relationship between body size and mating success. The flies were observed in a mating chamber under laboratory conditions. No significant differences in wing length were observed between copulating and noncopulating flies, and there was no significant correlation between wing length and copulation latency for both males and females. These results therefore suggest that the commonly accepted view that large body size is positively correlated with mating success in <i>Drosophila</i> does not always hold true. The results support the view that the extent of environmentally induced variation in body size may be an important factor in determining whether an association between body size and mating success is observed in <i>Drosophila</i> species.</p>
+				</abstract>
+				<keywords><i>Drosophila willistoni</i>;mating success;sexual behaviour;body size.</keywords>
+				<authors>
+					<author>
+						<name first="L. Basso Da" last="Silva">L. Basso Da Silva</name>
+						<affiliation>Departamento de Genética, Instituto de Biociências, Universidade Federal do Rio Grande do Sul, Caixa Postal 15053, 91501-970 Porto Alegre, RS, Brazil</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V. L. S." last="Valente">V. L. S. Valente</name>
+						<affiliation>Departamento de Genética, Instituto de Biociências, Universidade Federal do Rio Grande do Sul, Caixa Postal 15053, 91501-970 Porto Alegre, RS, Brazil</affiliation>
+						<email>vera.gaiesky@ufrgs.br</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-01-03</date>
+					<date type="R">2001-07-10</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of mutations at the <i>stambh A</i> locus of <i>Drosophila melanogaster</i></title>
+				<feature></feature>
+				<page>0083-0095</page>
+				<abstract>
+					<p>We report novel findings on the cytogenetic location, functional complexity and maternal and germline roles of the <i>stambh A</i> locus of <i>Drosophila melanogaster</i>. <i>stmA</i> is localized to polytene bands 44D1.2 on 2R. <i>stmA</i> mutations are of two types: temperature-sensitive (ts) adult and larval paralytic or unconditional embryonic or larval lethal. Twelve alleles reported in this study fall into two intragenic complementing groups suggesting that <i>stmA</i> is a complex locus with more than one functional domain. Some unconditional embryonic lethal alleles show a ‘neurogenic’ phenotype of cuticle loss accompanied by neural hypertrophy. It is shown that embryos of ts paralytic alleles also show mild neural hypertrophy at permissive temperatures while short exposure to heat induces severe cuticle loss in these embryos. <i>stmA</i> exerts a maternal influence over heat-induced cuticle loss. Unconditional embryonic lethal alleles of <i>stmA</i> are also germline lethal.</p>
+				</abstract>
+				<keywords>Drosophila melanogaster;stambh A;maternal effect;cuticle loss.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Kumar">M. Kumar</name>
+						<affiliation>Division of Genetics, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Minu" last="Joseph">Minu Joseph</name>
+						<affiliation>Division of Genetics, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shanti" last="Chandrashekaran">Shanti Chandrashekaran</name>
+						<affiliation>Division of Genetics, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<email>shantic@vsnl.net</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-05-23</date>
+					<date type="R">2001-08-31</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Male sterility associated with overexpression of the noncoding $hsr\omega$ gene in cyst cells of testis of <i>Drosophila melanogaster</i></title>
+				<feature></feature>
+				<page>0097-0110</page>
+				<abstract>
+					<p>Of the several noncoding transcripts produced by the $hsr\omega$ gene of <i>Drosophila melanogaster</i>, the nucleus-limited $\gt 10$-kb hsr$\omega$-n transcript colocalizes with heterogeneous nuclear RNA binding proteins (hnRNPs) to form fine nucleoplasmic omega speckles. Our earlier studies suggested that the noncoding hsr$\omega$-n transcripts dynamically regulate the distribution of hnRNPs in active (chromatin bound) and inactive (in omega speckles) compartments. Here we show that a P transposon insertion in this gene’s promoter (at – 130 bp) in the $hsr\omega^{05241}$ enhancer-trap line had no effect on viability or phenotype of males or females, but the insertion-homozygous males were sterile. Testes of $hsr\omega^{05241}$ homozygous flies contained nonmotile sperms while their seminal vesicles were empty. RNA : RNA <i>in situ</i> hybridization showed that the somatic cyst cells in testes of the mutant male flies contained significantly higher amounts of hsr$\omega$-n transcripts, and unlike the characteristic fine omega speckles in other cell types they displayed large clusters of omega speckles as typically seen after heat shock. Two of the hnRNPs, viz. HRB87F and Hrp57A, which are expressed in cyst cells, also formed large clusters in these cells in parallel with the hsr$\omega$-n transcripts. A complete excision of the P transposon insertion restored male fertility as well as the fine-speckled pattern of omega speckles in the cyst cells. The <i>in situ</i> distribution patterns of these two hnRNPs and several other RNA-binding proteins (Hrp40, Hrb57A, S5, Sxl, SRp55 and Rb97D) were not affected by $hsr\omega$ mutation in any of the meiotic stages in adult testes. The present studies, however, revealed an unexpected presence (in wild-type as well as mutant) of the functional form of Sxl in primary spermatocytes and an unusual distribution of HRB87F along the retracting spindle during anaphase-telophase of the first meiotic division. It appears that the P transposon insertion in the promoter region causes a misregulated overexpression of $hsr\omega$ in cyst cells, which in turn results in excessive sequestration of hnRNPs and formation of large clusters of omega speckles in these cell nuclei. The consequent limiting availability of hnRNPs is likely to <i>trans</i>-dominantly affect processing of other pre-mRNAs in cyst cells. We suggest that a compromise in the activity of cyst cells due to the aberrant hnRNP distribution is responsible for the failure of individualization of sperms in $hsr\omega^{05241}$ mutant testes. These results further support a significant role of the noncoding hsr$\omega$-n transcripts in basic cellular activities, namely regulation of the availability of hnRNPs in active (chromatin bound) and inactive (in omega speckles) compartments.</p>
+				</abstract>
+				<keywords>heat shock;93D;hnRNP;omega speckles;spermatogenesis;sperm individualization.</keywords>
+				<authors>
+					<author>
+						<name first="T. K." last="Rajendra">T. K. Rajendra</name>
+						<affiliation>Cytogenetics Laboratory, Department of Zoology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. V." last="Prasanth">K. V. Prasanth</name>
+						<affiliation>Cytogenetics Laboratory, Department of Zoology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. C." last="Lakhotia">S. C. Lakhotia</name>
+						<affiliation>Cytogenetics Laboratory, Department of Zoology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email>lakhotia@banaras.ernet.in;sclakhotia@yahoo.co.in.</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-01-27</date>
+					<date type="R">2001-05-08</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mutation analysis of codons 345 and 347 of rhodopsin gene in Indian retinitis pigmentosa patients</title>
+				<feature></feature>
+				<page>0111-0116</page>
+				<abstract>
+					<p>More than 100 mutations have been reported till date in the rhodopsin gene in patients with retinitis pigmentosa. The present study was undertaken to detect the reported rhodopsin gene point mutations in Indian retinitis pigmentosa patients. We looked for presence or absence of codon 345 and 347 mutations in exon 5 of the gene using the technique of allele-specific polymerase chain reaction by designing primers for each mutation. We have examined 100 patients from 76 families irrespective of genetic categories. Surprisingly, in our sample the very widely reported highly frequent mutations of codon 347 (P $\to$ S/A/R/Q/L/T) were absent while the codon 345 mutation V $\to$ M was seen in three cases in one family (autosomal dominant form) and in one sporadic case (total two families). This is the first report on codon 345 and 347 mutation in Indian retinitis pigmentosa subjects.</p>
+				</abstract>
+				<keywords>retinitis pigmentosa;rhodopsin gene;allele-specific polymerase chain reaction.</keywords>
+				<authors>
+					<author>
+						<name first="Madhurima" last="Dikshit">Madhurima Dikshit</name>
+						<affiliation>Division of Biochemistry, Department of Chemistry, University of Pune, Pune 411 007, India</affiliation>
+						<email>mdikshit@chem.unipune.ernet.in</email>
+					</author>
+					<author>
+						<name first="Rakhi" last="Agarwal">Rakhi Agarwal</name>
+						<affiliation>Division of Biochemistry, Department of Chemistry, University of Pune, Pune 411 007, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-01-20</date>
+					<date type="R">2001-05-22</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>1. Molecular epidemiology of bacterial infectious disease in an age of rapid DNA sequencing and the Internet &mdash; 2. Phage therapy: bacteriophage as natural, self-replicating and self-limiting antibiotics</title>
+				<feature>Book Review</feature>
+				<page>0117-0118</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J." last="Gowrishankar">J. Gowrishankar</name>
+						<affiliation>Centre for DNA Fingerprinting and Diagnostics, Nacharam, Hyderabad 500 076, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2001">
+			<entry hassup="0">
+				<title>Axial distortion as a sensor of supercoil changes: a molecular model for the homeostatic regulation of DNA gyrase</title>
+				<feature></feature>
+				<page>0119-0124</page>
+				<abstract>
+					<p>Negative supercoiling stimulates transcription of many genes. In contrast, transcription of the genes coding for DNA gyrase is subject to a novel mechanism of autoregulation, wherein relaxation of the template DNA stimulates their transcription. Since DNA gyrase is the sole supercoiling activity in the eubacterial cell, relaxation-stimulated transcription (RST) could reflect an autoregulatory mechanism to maintain supercoil levels within the cell. Extensive deletion and mutational analyses of <i>Escherichia coli gyrA</i> promoter have shown that the $-10$ region is essential for RST; however, a molecular model has proved to be elusive. We find a strong bend centre immediately downstream of the $-10$ region in the <i>gyrA</i> promoter. On the basis of analysis of various mutants in the $-10$ region, we propose a model where axial distortion acts as a sensor of topological changes in DNA. Our model is consistent with earlier data with <i>E. coli gyrA</i> and <i>gyrB</i> promoters. We also extrapolate the model to explain the phenomenon of RST of <i>gyr</i> promoters in other organisms and contrast it with promoters induced by supercoiling.</p>
+				</abstract>
+				<keywords>DNA curvature;supercoiling;DNA topology;gyrase;relaxation-stimulated transcription.</keywords>
+				<authors>
+					<author>
+						<name first="Shyam" last="Unniraman">Shyam Unniraman</name>
+						<affiliation>Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Valakunja" last="Nagaraja">Valakunja Nagaraja</name>
+						<affiliation>Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>vraj@mcbl.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-12-14</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>High-resolution analysis of Y-chromosomal polymorphisms reveals signatures of population movements from Central Asia and West Asia into India</title>
+				<feature></feature>
+				<page>0125-0135</page>
+				<abstract>
+					<p>Linguistic evidence suggests that West Asia and Central Asia have been the two major geographical sources of genes in the contemporary Indian gene pool. To test the nature and extent of similarities in the gene pools of these regions we have collected DNA samples from four ethnic populations of northern India, and have screened these samples for a set of 18 Y-chromosome polymorphic markers (12 unique event polymorphisms and six short tandem repeats). These data from Indian populations have been analysed in conjunction with published data from several West Asian and Central Asian populations. Our analyses have revealed traces of population movement from Central Asia and West Asia into India. Two haplogroups, HG-3 and HG-9, which are known to have arisen in the Central Asian region, are found in reasonably high frequencies (41.7\%\ and 14.3\%\ respectively) in the study populations. The ages estimated for these two haplogroups are less in the Indian populations than those estimated from data on Middle Eastern populations. A neighbour-joining tree based on Y-haplogroup frequencies shows that the North Indians are genetically placed between the West Asian and Central Asian populations. This is consistent with gene flow from West Asia and Central Asia into India.</p>
+				</abstract>
+				<keywords>unique event polymorphism;short tandem repeat;haplotype;haplogroup;genome diversity.</keywords>
+				<authors>
+					<author>
+						<name first="Namita" last="Mukherjee">Namita Mukherjee</name>
+						<affiliation>Anthropology and Human Genetics Unit, Indian Statistical Institute, B.T. Road, Kolkata 700 108, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Almut" last="Nebel">Almut Nebel</name>
+						<affiliation>Hebrew University–Hadassah Medical School, Jerusalem, Israel 91120</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ariella" last="Oppenheim">Ariella Oppenheim</name>
+						<affiliation>Hebrew University–Hadassah Medical School, Jerusalem, Israel 91120</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Partha P." last="Majumder">Partha P. Majumder</name>
+						<affiliation>Anthropology and Human Genetics Unit, Indian Statistical Institute, B.T. Road, Kolkata 700 108, India</affiliation>
+						<email>ppm@isical.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-12-12</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Distribution of HIV-1 resistance-conferring polymorphic alleles <i>SDF-1-3$'$A, CCR2-64I</i> and <i>CCR5-$\Delta$32</i> in diverse populations of Andhra Pradesh, South India</title>
+				<feature></feature>
+				<page>0137-0140</page>
+				<abstract>
+					<p>Polymorphic allelic variants of chemokine receptors CCR2 and CCR5, as well as of stromal-derived factor-1 SDF-1, the ligand for the chemokine receptor CXCR4, are known to have protective effects against HIV-1 infection and to be involved with delay in disease progression. We have studied the DNA polymorphisms at the loci that encode these proteins in 525 healthy individuals without any history of HIV-1 infection from 11 diverse populations of Andhra Pradesh, South India. The two protective alleles <i>SDF-1-3$'$A</i> and <i>CCR2-64I</i> at the SDF-1 and CCR2 loci, respectively, are present in all populations studied, although their frequencies differ considerably across populations (from 17\%\ to 35\%\ for the <i>SDF-1-3$'$A</i> allele, and from 3\%\ to 17\%\ for <i>CCR2-64I</i>). In contrast the <i>CCR5-$\Delta$32</i> allele is observed only in three populations (Yamani, Pathan and Kamma), all in low frequencies (i.e. 1\%\ to 3\%). The mean number of mutant alleles (for the three loci together) carried by each individual varies from 0.475 (in Vizag Brahmins) to 0.959 (in Bohra Muslims). The estimated relative hazard values for the populations, computed from the three-locus genotype data, are comparable to those from Africa and Southeast Asia, where AIDS is known to be widespread.</p>
+				</abstract>
+				<keywords>HIV-1 resistance polymorphism;chemokine receptor;stromal-derived factor-1;Andhra Pradesh;AIDS.</keywords>
+				<authors>
+					<author>
+						<name first="G. V." last="Ramana">G. V. Ramana</name>
+						<affiliation>Human Genetics Center, School of Public Health, University of Texas, P.O. Box 20186, Houston, TX 77225, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Vasanthi">A. Vasanthi</name>
+						<affiliation>Department of Genetics, Owaisi Medical and Research Centre, Deccan College of Medical Sciences and Allied Hospitals, Kanchan Bagh, Santosh Nagar, Hyderabad 500 058, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Khaja">M. Khaja</name>
+						<affiliation>Department of Genetics, Owaisi Medical and Research Centre, Deccan College of Medical Sciences and Allied Hospitals, Kanchan Bagh, Santosh Nagar, Hyderabad 500 058, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Su">B. Su</name>
+						<affiliation>Human Genetics Center, School of Public Health, University of Texas, P.O. Box 20186, Houston, TX 77225, USA</affiliation>
+						<affiliation>Center for Genome Information, Department of Environmental Health, University of Cincinnati, Cincinnati, OH 46267, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Govindaiah">V. Govindaiah</name>
+						<affiliation>Centre for DNA Fingerprinting and Diagnostics, 4-87/1 ECIL Road, Nacharam, Hyderabad 500 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L." last="Jin">L. Jin</name>
+						<affiliation>Human Genetics Center, School of Public Health, University of Texas, P.O. Box 20186, Houston, TX 77225, USA</affiliation>
+						<affiliation>Center for Genome Information, Department of Environmental Health, University of Cincinnati, Cincinnati, OH 46267, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L." last="Singh">L. Singh</name>
+						<affiliation>Centre for Cellular and Molecular Biology, Uppal Road, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Chakraborty"></name>
+						<affiliation>Human Genetics Center, School of Public Health, University of Texas, P.O. Box 20186, Houston, TX 77225, USA</affiliation>
+						<affiliation>Center for Genome Information, Department of Environmental Health, University of Cincinnati, Cincinnati, OH 46267, USA</affiliation>
+						<email>ranajit.chakraborty@uc.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-09-03</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic variation and population structure in <i>Oryza malampuzhaensis</i> Krish. <i>et</i> Chand. endemic to Western Ghats, South India</title>
+				<feature></feature>
+				<page>0141-0148</page>
+				<abstract>
+					<p><i>Oryza malampuzhaensis</i> Krish. <i>et</i> Chand. ($2n = 4x = 48$; Poaceae, <i>Oryza</i>) is endemic to Western Ghats, South India, and shows a highly localized distribution over a small geographical area in this region. This is the most poorly understood taxon in genus <i>Oryza</i> and is often misidentified as <i>O. officinalis</i> owing to their close morphology. We assessed the nature and distribution of genetic variation among 11 populations of <i>O. malampuzhaensis</i> using random amplified polymorphic DNA markers. The analysis revealed low genetic variation in <i>O. malampuzhaensis.</i> Cluster analysis of pairwise genetic distances of populations revealed three distinct clusters and the grouping of populations largely corresponded to their geographical proximity. Restricted gene flow and a geography-dependent differentiation were evident among populations. The altitude-influenced differences in ecological factors among the natural habitats of the populations seem to be the cause of the geography-dependent differentiation. Genetically isolated smaller populations and a narrow genetic base in <i>O. malampuzhaensis</i> point to its vulnerability to genetic drift and genetic depauperation. Thus <i>O. malampuzhaensis</i> appears to be under the threat of extinction and needs to be conserved by use of suitable methods. The present study also identified molecular markers diagnostic for <i>O. malampuzhaensis</i>.</p>
+				</abstract>
+				<keywords>Oryza malampuzhaensis;genetic diversity;population structure;RAPD.</keywords>
+				<authors>
+					<author>
+						<name first="George" last="Thomas">George Thomas</name>
+						<affiliation>Plant Genomics Group, Rajiv Gandhi Centre for Biotechnology, Thiruvananthapuram 695 014, India</affiliation>
+						<email>gtpulikunnel@yahoo.com.</email>
+					</author>
+					<author>
+						<name first="" last="Sreejayan">Sreejayan</name>
+						<affiliation>Plant Genomics Group, Rajiv Gandhi Centre for Biotechnology, Thiruvananthapuram 695 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Latha" last="Joseph">Latha Joseph</name>
+						<affiliation>Department of Botany, University of Kerala, Thiruvananthapuram 695 581, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Philomena" last="Kuriachan">Philomena Kuriachan</name>
+						<affiliation>Department of Botany, University of Kerala, Thiruvananthapuram 695 581, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-05-21</date>
+					<date type="R">2001-10-16</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evaluation of the genetic variability of 13 microsatellite markers in native Indian pigs</title>
+				<feature></feature>
+				<page>0149-0153</page>
+				<abstract>
+					<p>We analysed polymorphism of 13 microsatellites in two Indian domesticated pig types (North Indian and Northeast Indian). Heterozygosity, polymorphism information content, and probability of identity of two random individuals were calculated for all microsatellites in both types. The number of alleles observed at a locus varied between five and 12. The evaluated microsatellites exhibited a very high heterozygosity and polymorphism information content. The probability of identity of two random individuals from different populations taking into account all the 13 microsatellites was as low as $3.51 \times 10^{-19}$. On the basis of these results, we propose that these microsatellite markers may be used with reliability for studying the genetic diversity and for identification of individuals in Indian pig types.</p>
+				</abstract>
+				<keywords>microsatellite;genetic variability;Indian pig.</keywords>
+				<authors>
+					<author>
+						<name first="Rajeev" last="Kaul">Rajeev Kaul</name>
+						<affiliation>Animal Genetics Division, National Bureau of Animal Genetic Resources, P.O. Box 129, Karnal 132 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Atar" last="Singh">Atar Singh</name>
+						<affiliation>Animal Genetics Division, National Bureau of Animal Genetic Resources, P.O. Box 129, Karnal 132 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. K." last="Vijh">R. K. Vijh</name>
+						<affiliation>Animal Genetics Division, National Bureau of Animal Genetic Resources, P.O. Box 129, Karnal 132 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. S." last="Tantia">M. S. Tantia</name>
+						<affiliation>Animal Genetics Division, National Bureau of Animal Genetic Resources, P.O. Box 129, Karnal 132 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rahul" last="Behl">Rahul Behl</name>
+						<affiliation>Animal Genetics Division, National Bureau of Animal Genetic Resources, P.O. Box 129, Karnal 132 001, India</affiliation>
+						<email>rahul@nbagr.hry.nic.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-05-08</date>
+					<date type="R">2001-10-08</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The genetics of cattle</title>
+				<feature>Book Review</feature>
+				<page>0155-0158</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. H." last="Edwards">J. H. Edwards</name>
+						<affiliation>Emeritus Professor of Genetics, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The genetics of the horse</title>
+				<feature>Book Review</feature>
+				<page>0159-0161</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. H." last="Edwards">J. H. Edwards</name>
+						<affiliation>Emeritus Professor of Genetics, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0163-0168</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="081">
+		<issue inum="01" month="04" year="2002">
+			<entry hassup="0">
+				<title>Epigenetics comes of age in the twentyfirst century</title>
+				<feature>Perspectives</feature>
+				<page>0001-0004</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Robin" last="Holliday">Robin Holliday</name>
+						<affiliation>12 Roma Court, West Pennant Hills, N.S.W. 2125, Australia</affiliation>
+						<email>RandL.Holliday@bigpond.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cloning and characterization of an insecticidal crystal protein gene from <i>Bacillus thuringiensis</i> subspecies <i>kenyae</i></title>
+				<feature>Perspectives</feature>
+				<page>0005-0011</page>
+				<abstract>
+					<p>A sporulating culture of <i>Bacillus thuringiensis</i> subsp. <i>kenyae</i> strain HD549 is toxic to larvae of lepidopteran insect species such as <i>Spodoptera litura, Helicoverpa armigera</i> and <i>Phthorimaea operculella</i>, and a dipteran insect, <i>Culex fatigans</i>. A 1.9-kb DNA fragment, PCR-amplified from HD549 using <i>cryII</i>-gene-specific primers, was cloned and expressed in <i>E. coli</i>. The recombinant protein produced 92\%\ mortality in first-instar larvae of <i>Spodoptera litura</i> and 86\%\ inhibition of adult emergence in <i>Phthorimaea operculella</i>, but showed very low toxicity against <i>Helicoverpa armigera</i>, and lower mortality against third-instar larvae of dipteran insects <i>Culex fatigans, Anopheles stephensi</i> and <i>Aedes aegypti</i>. The sequence of the cloned crystal protein gene showed almost complete homology with a mosquitocidal toxin gene from <i>Bacillus thuringiensis</i> var. <i>kurstaki</i>, with only five mutations scattered in different regions. Amino acid alignment with different insecticidal crystal proteins using the MUTALIN program suggested presence of the conserved block 3 region in the sequence of this protein. A mutation in codon 409 of this gene that changes a highly conserved phenylalanine residue to serine lies in this block.</p>
+				</abstract>
+				<keywords>insecticidal protein;dipteran;Bacillus thuringiensis var. kenyae.</keywords>
+				<authors>
+					<author>
+						<name first="Hari S." last="Misra">Hari S. Misra</name>
+						<affiliation>Molecular Biology and Agriculture Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email>hsmisra@magnum.barc.ernet.in</email>
+					</author>
+					<author>
+						<name first="Nivedita P." last="Khairnar">Nivedita P. Khairnar</name>
+						<affiliation>Molecular Biology and Agriculture Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manjula" last="Mathur">Manjula Mathur</name>
+						<affiliation>Molecular Biology and Agriculture Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N." last="Vijayalakshmi">N. Vijayalakshmi</name>
+						<affiliation>Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ramesh S." last="Hire">Remesh S. Hire</name>
+						<affiliation>Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T. K." last="Dongre">T. K. Dongre</name>
+						<affiliation>Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Mahajan">S. K. Mahajan</name>
+						<affiliation>Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-10-29</date>
+					<date type="R">2002-03-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cloning, chromosome localization and features of a novel human gene, <i>MATH2</i></title>
+				<feature>Perspectives</feature>
+				<page>0013-0017</page>
+				<abstract>
+					<p>We report cloning and some features of a novel human gene, <i>MATH2</i>, which encodes a protein of 337 amino acid residues with a basic helix–loop–helix domain and exhibits 98\%\ similarity to mouse <i>Math2</i>. Results of Northern blot analysis revealed two transcripts of the <i>MATH2</i> gene of 1.7 kb and 2.4 kb in human brain. We localized <i>MATH2</i> to chromosome 7 at 7p14–15 by matching with the Human Genome Sequence Database. Human <i>MATH2</i> and mouse <i>Math2</i> may have the same functions in the nervous system.</p>
+				</abstract>
+				<keywords>MATH2;transcription factor;bHLH;novel human gene.</keywords>
+				<authors>
+					<author>
+						<name first="Lingchen" last="Guo">Lingchen Guo</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Min" last="Jiang">Min Jiang</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yushu" last="Ma">Yushu Ma</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haipeng" last="Cheng">Haipeng Cheng</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaohua" last="Ni">Xiaohua Ni</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yangsheng" last="Jin">Yangsheng Jin</name>
+						<affiliation>United Gene Holdings, Ltd, Shanghai 200092, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yi" last="Xie">Yi Xie</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email>ymmao@fudan.edu.cn</email>
+					</author>
+					<author>
+						<name first="Yumin" last="Mao">Yumin Mao</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email>ymmao@fudan.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2001-12-14</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title><i>RPE65</i> gene: multiplex PCR and mutation screening in patients from India with retinal degenerative diseases</title>
+				<feature>Perspectives</feature>
+				<page>0019-0023</page>
+				<abstract>
+					<p>We used multiplex PCR followed by sequencing to screen for mutations in the 14 exons of the <i>RPE65</i> gene in early-childhood-onset autosomal recessive retinitis pigmentosa (arRP) and Leber’s congenital amaurosis (LCA) patients. The RPE65 protein is believed to play an important role in the metabolism of vitamin A in the visual cycle and mutations identified in the gene could have implications for vitamin A-based therapeutic intervention. We were able to identify a homozygous mutation (AAT $\to$ AAG) in exon 9 in an arRP patient and a heterozygous missense transversion (AAT $\to$ AAG) also in exon 9 of an LCA patient. We also identified a polymorphism in exon 10 (GAG $\to$ GAA) in an arRP as well as an LCA patient. Mutation screening would be greatly facilitated by multiplex PCR which could cut down costs, labour and time involved. The nucleotide changes observed in this study could be <i>de novo</i>. Though a larger study has been undertaken, from the preliminary results it appears that in India the <i>RPE65</i> gene seems to be less involved in causation of LCA.</p>
+				</abstract>
+				<keywords><i>RPE65</i>;multiplex PCR;retinal degenerative disease.</keywords>
+				<authors>
+					<author>
+						<name first="Biju" last="Joseph">Biju Joseph</name>
+						<affiliation>Department of Genetics and Molecular Biology, Medical and Vision Research Foundations, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anuradha" last="Srinivasan">Anuradha Srinivasan</name>
+						<affiliation>Department of Genetics and Molecular Biology, Medical and Vision Research Foundations, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nagasamy" last="Soumittra">Nagasamy Soumittra</name>
+						<affiliation>Department of Genetics and Molecular Biology, Medical and Vision Research Foundations, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Authiappan" last="Vidhya">Authiappan Vidhya</name>
+						<affiliation>Department of Genetics and Molecular Biology, Medical and Vision Research Foundations, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nitin Shridhara" last="Shetty">Nitin Shridhara Shetty</name>
+						<affiliation>Department of Medical Retina, Medical and Vision Research Foundations, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Satagopan" last="Uthra">Satagopan Uthra</name>
+						<affiliation>Department of Genetics and Molecular Biology, Medical and Vision Research Foundations, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Govindasamy" last="Kumaramanickavel">Govindasamy Kumaramanickavel</name>
+						<affiliation>Department of Genetics and Molecular Biology, Medical and Vision Research Foundations, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email>drgkm@sankaranethralaya.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-03-26</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Annotation and BAC/PAC localization of nonredundant ESTs from drought-stressed seedlings of an <i>indica</i> rice</title>
+				<feature>Perspectives</feature>
+				<page>0025-0044</page>
+				<abstract>
+					<p>To decipher the genes associated with drought stress response and to identify novel genes in rice, we utilized 1540 high-quality expressed sequence tags (ESTs) for functional annotation and mapping to rice genomic sequences. These ESTs were generated earlier by $3'$-end single-pass sequencing of 2000 cDNA clones from normalized cDNA libraries constructed from drought-stressed seedlings of an <i>indica</i> rice. A rice UniGene set of 1025 transcripts was constructed from this collection through the BLASTN algorithm. Putative functions of 559 nonredundant ESTs were identified by BLAST similarity search against public databases. Putative functions were assigned at a stringency E value of $10^{-6}$ in BLASTN and BLASTX algorithms. To understand the gene structure and function further, we have utilized the publicly available finished and unfinished rice BAC/PAC (BAC, bacterial artificial chromosome; PAC, P1 artificial chromosome) sequences for similarity search using the BLASTN algorithm. Further, 603 nonredundant ESTs have been mapped to BAC/PAC clones. BAC clones were assigned by a homology of above 95\%\ identity along 90\%\ of EST sequence length in the aligned region. In all, 700 ESTs showed rice EST hits in GenBank. Of the 325 novel ESTs, 128 were localized to BAC clones. In addition, 127 ESTs with identified putative functions but with no homology in IRGSP (International Rice Genome Sequencing Program) BAC/PAC sequences were mapped to the Chinese WGS (whole genome shotgun contigs) draft sequence of the rice genome. Functional annotation uncovered about a hundred candidate ESTs associated with abiotic stress in rice and <i>Arabidopsis</i> that were previously reported based on microarray analysis and other studies. This study is a major effort in identifying genes associated with drought stress response and will serve as a resource to rice geneticists and molecular biologists.</p>
+				</abstract>
+				<keywords>ESTs;annotation;<i>Oryza sativa</i>;<i>indica</i> rice;cDNA libraries;rice genome;drought tolerance.</keywords>
+				<authors>
+					<author>
+						<name first="P. Ravindra" last="Babu">P. Ravindra Babu</name>
+						<affiliation>Plant Molecular Genetics and Functional Genomics Laboratory, Department of Plant Sciences, School of Life Sciences, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Chandra" last="Sekhar">A. Chandra Sekhar</name>
+						<affiliation>Plant Molecular Genetics and Functional Genomics Laboratory, Department of Plant Sciences, School of Life Sciences, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nagabhushana" last="Ithal">Nagabhushana Ithal</name>
+						<affiliation>Plant Molecular Genetics and Functional Genomics Laboratory, Department of Plant Sciences, School of Life Sciences, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Markandeya">G. Markandeya</name>
+						<affiliation>Plant Molecular Genetics and Functional Genomics Laboratory, Department of Plant Sciences, School of Life Sciences, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Arjula R." last="Reddy">Arjula R. Reddy</name>
+						<affiliation>Plant Molecular Genetics and Functional Genomics Laboratory, Department of Plant Sciences, School of Life Sciences, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email>arjulsl@uohyd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-04-25</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The genetics of the dog</title>
+				<feature>Book review</feature>
+				<page>0045-0047</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. H." last="Edwards">J. H. Edwards</name>
+						<affiliation>Emeritus Professor of Genetics, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="08" year="2002">
+			<entry hassup="0">
+				<title>William Bateson: a biologist ahead of his time</title>
+				<feature>Perspectives</feature>
+				<page>0049-0058</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Patrick" last="Bateson">Patrick Bateson</name>
+						<affiliation>Sub-Department of Animal Behaviour, University of Cambridge, Madingley, Cambridge CB3 8AA, UK</affiliation>
+						<affiliation>The Provost’s Lodge, King’s College, Cambridge CB2 1ST, UK.</affiliation>
+						<email>ppgb@cam.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Screening for homozygosity by descent in families with autosomal recessive retinitis pigmentosa</title>
+				<feature>Perspectives</feature>
+				<page>0059-0063</page>
+				<abstract>
+					<p>Retinitis pigmentosa (RP) is a genetically heterogeneous disease and an important cause of blindness in the state of Andhra Pradesh in India. In an attempt to identify the disease locus in families with the recessive form of the disease, we used the approach of screening for homozygosity by descent in offspring of consanguineous and nonconsanguineous families with RP. Microsatellite markers closely flanking 21 known candidate genes for RP were genotyped in parents and affected offspring to determine whether there was homozygosity at these loci that was shared by affected individuals of a family. This screening approach may be a rapid preliminary method to test known loci for possible cosegregation with disease.</p>
+				</abstract>
+				<keywords>retinitis pigmentosa;candidate gene;homozygosity screening.</keywords>
+				<authors>
+					<author>
+						<name first="Kota" last="Lalitha">Kota Lalitha</name>
+						<affiliation>Molecular Genetics, Prof. Brien Holden Eye Research Centre and Hyderabad Eye Research Foundation, L. V. Prasad Marg, Banjara Hills, Hyderabad 500 034, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subhadra" last="Jalali">Subhadra Jalali</name>
+						<affiliation>Smt. Kannuri Santhamma Retina-Vitreous Services, L. V. Prasad Eye Institute, L. V. Prasad Marg, Banjara Hills, Hyderabad 500 034, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tejas" last="Kadakia">Tejas Kadakia</name>
+						<affiliation>Molecular Genetics, Prof. Brien Holden Eye Research Centre and Hyderabad Eye Research Foundation, L. V. Prasad Marg, Banjara Hills, Hyderabad 500 034, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chitra" last="Kannabiran">Chitra Kannabiran</name>
+						<affiliation>Molecular Genetics, Prof. Brien Holden Eye Research Centre and Hyderabad Eye Research Foundation, L. V. Prasad Marg, Banjara Hills, Hyderabad 500 034, India</affiliation>
+						<email>chitra@lvpeye.stph.net</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-07-06</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Candidate gene polymorphisms among North Indians and their association with schizophrenia in a case–control study</title>
+				<feature>Perspectives</feature>
+				<page>0065-0071</page>
+				<abstract>
+					<p>Knowledge of candidate gene polymorphisms in a population is useful for a variety of gene–disease association studies, particularly for some complex traits. A number of candidate genes, a majority of them from the monoaminergic pathway in the brain, have been very popular in association studies with schizophrenia, a neuropsychiatric disorder. In this study diallelic/multiallelic polymorphisms in some dopaminergic, serotonergic and membrane-phospholipid-related genes have been evaluated in a control population recruited from North India. Association, if any, of these allelic variants with schizopherenia has been tested using a case–control approach. The case data have been taken from our published family-based association studies in schizophrenia. Of the eight genes tested in this study, association with schizophrenia was observed for only two gene polymorphisms, one in the promoter region of the serotonin 2A receptor gene and the other in the tryptophan hydroxylase gene. One new allele for the dopamine transporter gene (with eight repeats, 570-bp size), not reported in any population so far, has been identified in one individual in our sample. The data generated in this study, besides providing a normative background for various disease association studies, are a significant contribution to the population-specific genome database, a currently growing requirement.</p>
+				</abstract>
+				<keywords>candidate gene;gene polymorphism;allele frequency;schizophrenia;case–control study;North Indian population.</keywords>
+				<authors>
+					<author>
+						<name first="Prachi" last="Semwal">Prachi Semwal</name>
+						<affiliation>Department of Genetics, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Suman" last="Prasad">Suman Prasad</name>
+						<affiliation>Department of Genetics, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Panchami G." last="Varma">Panchami G. Varma</name>
+						<affiliation>Department of Genetics, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. M." last="Bhagwat">A. M. Bhagwat</name>
+						<affiliation>C. B. Patel Research Centre for Chemistry and Biological Sciences, 3rd floor, Bhaidas Hall Building, Vile Parle (West), Mumbai 400 056, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. N." last="Deshpande">S. N. Deshpande</name>
+						<affiliation>Department of Psychiatry, Dr Ram Manohar Lohia Hospital, New Delhi 110 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. K." last="Thelma">B. K. Thelma</name>
+						<affiliation>Department of Genetics, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email>humgen@del3.vsnl.net.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-08-03</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mobile genetic elements in protozoan parasites</title>
+				<feature>Review Article</feature>
+				<page>0073-0086</page>
+				<abstract>
+					<p>Mobile genetic elements, by virtue of their ability to move to new chromosomal locations, are considered important in shaping the evolutionary course of the genome. They are widespread in the biological kingdom. Among the protozoan parasites several types of transposable elements are encountered. The largest variety is seen in the trypanosomatids—<i>Trypanosoma brucei, Trypanosoma cruzi</i> and <i>Crithidia fasciculata</i>. They contain elements that insert site-specifically in the spliced-leader RNA genes, and others that are dispersed in a variety of genomic locations. <i>Giardia lamblia</i> contains three families of transposable elements. Two of these are subtelomeric in location while one is chromosome-internal. <i>Entamoeba histolytica</i> has an abundant retrotransposon dispersed in the genome. Nucleotide sequence analysis of all the elements shows that they are all retrotransposons, and, with the exception of one class of elements in <i>T. cruzi</i>, all of them are non-long-terminal-repeat retrotransposons. Although most copies have accumulated mutations, they can potentially encode reverse transcriptase, endonuclease and nucleic-acid-binding activities. Functionally and phylogenetically they do not belong to a single lineage, showing that retrotransposons were acquired early in the evolution of protozoan parasites. Many of the potentially autonomous elements that encode their own transposition functions have nonautonomous counterparts that probably utilize the functions in trans. In this respect these elements are similar to the mammalian LINEs and SINEs (long and short interspersed DNA elements), showing a common theme in the evolution of retrotransposons. So far there is no report of a DNA transposon in any protozoan parasite. The genome projects that are under way for most of these organisms will help understand the evolution and possible function of these genetic elements.</p>
+				</abstract>
+				<keywords>protozoan parasites;autonomous and nonautonomous mobile elements;non-LTR retrotransposons.</keywords>
+				<authors>
+					<author>
+						<name first="Sudha" last="Bhattacharya">Sudha Bhattacharya</name>
+						<affiliation>School of Environmental Sciences, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email>sb@mail.jnu.ac.in</email>
+					</author>
+					<author>
+						<name first="Abhijeet" last="Bakre">Abhijeet Bakre</name>
+						<affiliation>School of Environmental Sciences, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alok" last="Bhattacharya">Alok Bhattacharya</name>
+						<affiliation>School of Life Sciences, Jawaharlal Nehru University, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Thinking about evolution: historical, philosophical, and political perspectives</title>
+				<feature>Book Review</feature>
+				<page>0087-0089</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="N. V." last="Joshi">N. V. Joshi</name>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email>nvjoshi@ces.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="11" year="2002">
+			<entry hassup="0">
+				<title>Endogamy, consanguinity and community genetics</title>
+				<feature>Perspectives</feature>
+				<page>0091-0098</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="A. H." last="Bittles">A. H. Bittles</name>
+						<affiliation>Centre for Human Genetics, Edith Cowan University, 100 Joondalup Drive, Perth, WA 6027, Australia</affiliation>
+						<email>a.bittles@ecu.edu.au</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The power and statistical behaviour of allele-sharing statistics when applied to models with two disease loci</title>
+				<feature>Perspectives</feature>
+				<page>0099-0103</page>
+				<abstract>
+					<p>We have evaluated the power for detecting a common trait determined by two loci, using seven statistics, of which five are implemented in the computer program SimWalk2, and two are implemented in GENEHUNTER. Unlike most previous reports which involve evaluations of the power of allele-sharing statistics for a single disease locus, we have used a simulated data set of general pedigrees in which a two-locus disease is segregating and evaluated several non-parametric linkage statistics implemented in the two programs. We found that the power for detecting linkage using the $S_{\text{all}}$ statistic in GENEHUNTER (GH, version 2.1), implemented as statistic $E$ in SimWalk2 (version 2.82), is different in the two. The $P$ values associated with statistic $E$ output by SimWalk2 are consistently more conservative than those from GENEHUNTER except when the underlying model includes heterogeneity at a level of 50\%\ where the $P$ values output are very comparable. On the other hand, when the thresholds are determined empirically under the null hypothesis, $S_{\text{all}}$ in GENEHUNTER and statistic $E$ have similar power.</p>
+				</abstract>
+				<keywords>mapping complex traits;power calculation;allele-sharing statistics.</keywords>
+				<authors>
+					<author>
+						<name first="Yin Y." last="Shugart">Yin Y. Shugart</name>
+						<affiliation>Epidemiology Department, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205, USA</affiliation>
+						<affiliation>Center for Inherited Disease Research, Johns Hopkins University, Baltimore, MD 21205, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bing-Jian" last="Feng">Bing-Jian Feng</name>
+						<affiliation>Epidemiology Department, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Andrew" last="Collins">Andrew Collins</name>
+						<affiliation>Human Genetics Division, School of Medicine, University of Southampton, Southampton SO16 6YD, UK</affiliation>
+						<email>arc@soton.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-11-20</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An orphan <i>gyrB</i> in the <i>Mycobacterium smegmatis</i> genome uncovered by comparative genomics</title>
+				<feature>Perspectives</feature>
+				<page>0105-0110</page>
+				<abstract>
+					<p>DNA gyrase is an essential topoisomerase found in all bacteria. It is encoded by <i>gyrB</i> and <i>gyrA</i> genes. These genes are organized differently in different bacteria. Direct comparison of <i>Mycobacterium tuberculosis</i> and <i>Mycobacterium smegmatis</i> genomes reveals presence of an additional <i>gyrB</i> in <i>M. smegmatis</i> flanked by novel genes. Analysis of the amino acid sequence of GyrB from different organisms suggests that the orphan GyrB in <i>M. smegmatis</i> may have an important cellular role.</p>
+				</abstract>
+				<keywords><i>Mycobacterium smegmatis</i>;<i>gyr</i> genes;DNA gyrase;topoisomerase;comparative genomics.</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Jain">P. Jain</name>
+						<affiliation>Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Nagaraja">V. Nagaraja</name>
+						<affiliation>Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>vraj@mcbl.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-12-13</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The social biology of Ropalidia marginata: towards understanding the evolution of eusociality</title>
+				<feature>Book Review</feature>
+				<page>0111-0112</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Oliver" last="Mayo">Oliver Mayo</name>
+						<affiliation>CSIRO Livestock Industries, Kintore Avenue, Adelaide, SA 5000, Australia.</affiliation>
+						<email>oliver.mayo@csiro.au</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0113-0115</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0116-0117</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="082">
+		<issue inum="01-02" month="04-08" year="2003">
+			<entry hassup="0">
+				<title>Extreme nuclear disproportion and constancy of enzyme activity in a heterokaryon of <i>Neurospora crassa</i></title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<abstract>
+					<p>Heterokaryons of <i>Neurospora crassa</i> were generated by transformation of multinucleate conidia of a <i>histidine-3</i> auxotroph with <i>his-3$^{+}$</i> plasmid. In one of the transformants, propagated on a medium with histidine supplementation, a gradual but drastic reduction occurred in the proportion of prototrophic nuclei that contained an ectopically integrated <i>his-3$^{+}$</i> allele. This response was specific to histidine. The reduction in prototrophic nuclei was confirmed by several criteria: inoculum size test, hyphal tip analysis, genomic Southern analysis, and by visual change in colour of the transformant incorporating genetic colour markers. Construction and analyses of three-component heterokaryons revealed that the change in nuclear ratio resulted from interaction of auxotrophic nucleus with prototrophic nucleus that contained an ectopically integrated <i>his-3$^{+}$</i> gene, but not with prototrophic nucleus that contained <i>his-3$^{+}$</i> gene at the normal chromosomal location. The growth rate of heterokaryons and the activity of histidinol dehydrogenase—the protein encoded by the <i>his-3$^{+}$</i> gene—remained unchanged despite prototrophic nuclei becoming very scarce. The results suggest that not all nuclei in the coenocytic fungal mycelium may be active simultaneously, the rare active nuclei being sufficient to confer the wild-type phenotype.</p>
+				</abstract>
+				<keywords><i>Neurospora crassa</i>;heterokaryon;nuclear ratio;histidinol dehydrogenase;transformation.</keywords>
+				<authors>
+					<author>
+						<name first="Kandasamy" last="Pitchaimani">Kandasamy Pitchaimani</name>
+						<affiliation>Department of Biochemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ramesh" last="Maheshwari">Ramesh Maheshwari</name>
+						<affiliation>Department of Biochemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>fungi@biochem.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-07-28</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A comparison of two popular statistical methods for estimating the time to most recent common ancestor (TMRCA) from a sample of DNA sequences</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<abstract>
+					<p>We have compared two statistical methods of estimating the time to most recent common ancestor (TMRCA) from a sample of DNA sequences, which have been proposed by Templeton (1993) and Bandelt <i>et al.</i> (1995). Monte-Carlo simulations were used for generating DNA sequence data. Different evolutionary scenarios were simulated and the estimation procedures were evaluated. We have found that for both methods</p>
+					<ol type="roman">
+						<li>the estimates are insensitive to demographic parameters and</li>
+						<li>the standard deviations of the estimates are too high for these methods to be reliably used in practice.</li>
+					</ol>
+				</abstract>
+				<keywords>coalescence;Monte-Carlo simulation;evolution.</keywords>
+				<authors>
+					<author>
+						<name first="Analabha" last="Basu">Analabha Basu</name>
+						<affiliation>Anthropology &amp; Human Genetics Unit, Indian Statistical Institute, 203 B.T. Road, Kolkata 700 108, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Partha P." last="Majumder">Partha P. Majumder</name>
+						<affiliation>Anthropology &amp; Human Genetics Unit, Indian Statistical Institute, 203 B.T. Road, Kolkata 700 108, India</affiliation>
+						<email>ppm@isical.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-04-29</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The inactive X chromosome in the human female is enriched in 5-methylcytosine to an unusual degree and appears to contain more of this modified nucleotide than the remainder of the genome</title>
+				<feature></feature>
+				<page>0013-0016</page>
+				<abstract>
+					<p>By employing a procedure that combines ELISA and photoacoustic spectroscopy, we have examined the content of 5-methylcytosine (m$^{5}$C) in DNA of individuals who differed from one another in the number of X chromosomes in their genomes. The results show that the human inactive X chromosome (Xi) contains very high amounts of this modified nucleotide. We estimate that in the 46,XX female there is more m$^{5}$C in Xi ($\sim 3.6 \times 10^{7}$) than in all the remaining chromosomes put together ($\sim 2.1 \times 10^{7}$). Our results also suggest that nearly one-fifth of all cytosines in Xi are methylated and that, in addition to CpG methylation, there is extensive non-CpG methylation as well.</p>
+				</abstract>
+				<keywords>5-methylcytosine;X inactivation;human X chromosome;methylation;photoacoustic spectroscopy.</keywords>
+				<authors>
+					<author>
+						<name first="Deepti D." last="Deobagkar">Deepti D. Deobagkar</name>
+						<affiliation>Department of Zoology, University of Pune, Pune 411 007, India</affiliation>
+						<affiliation>Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>dddeo@unipune.ernet.in</email>
+					</author>
+					<author>
+						<name first="H. Sharat" last="Chandra">H. Sharat Chandra</name>
+						<affiliation>Centre for Human Genetics, G-04, ITPL, Whitefield, Bangalore 560 066, India</affiliation>
+						<affiliation>Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>sharat@mcbl.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-07-19</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Absence of <i>GABRA1</i> Ala322Asp mutation in juvenile myoclonic epilepsy families from India</title>
+				<feature></feature>
+				<page>0017-0021</page>
+				<abstract>
+					<p>An Ala322Asp mutation in the <i>GABRA1</i> gene was recently reported to be responsible for causing the autosomal dominant (AD) form of juvenile myoclonic epilepsy (JME) in a French-Canadian family. To study if JME families from India exhibiting the AD mode of inheritance carry the Ala322Asp mutation, we examined 35 unrelated JME-affected individuals from such families for the Ala322Asp mutation in <i>GABRA1</i>. Ala322Asp mutation was not observed in any of these JME-affected individuals, suggesting that this mutation is unlikely to be a predominant mutation involved in causation of epilepsy. To evaluate the possibility of other mutation(s) in and around <i>GABRA1</i> that may predispose to JME, we compared the allele frequencies at two marker loci, D5S2118 and D5S422, flanking <i>GABRA1</i>, in probands and 100 matched population controls. One of the allele frequencies at D5S422 shows a significant difference between the cases and controls ($\chi^{2} = 11.44$, d.f. = 1, $P = 0.0007$), suggesting genetic association between JME and genes located in the proximity of the DNA marker.</p>
+				</abstract>
+				<keywords><i>GABRA1</i>;juvenile myoclonic epilepsy;DNA sequencing;Indian families.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Kapoor">A. Kapoor</name>
+						<affiliation>Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Vijai">J. Vijai</name>
+						<affiliation>Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram 695 011, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. M." last="Ravishankar">H. M. Ravishankar</name>
+						<affiliation>Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Satishchandra">P. Satishchandra</name>
+						<affiliation>Department of Neurology, National Institute of Mental Health and Neurosciences, Hosur Road, Bangalore 560 029, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Radhakrishnan">K. Radhakrishnan</name>
+						<affiliation>Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram 695 011, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Anand">A. Anand</name>
+						<affiliation>Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>anand@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-03-29</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Assignment of human <i>sprouty 4</i> gene to chromosome segment 5q32$\sim$33 and analysis of its pattern of expression</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<abstract>
+					<p>The human <i>sprouty 4</i> (<i>SPYR4</i>) gene was localized to chromosome band 5q32$\sim$33 by screening the Stanford radiation hybrid G3 panel using a <i>SPRY4</i>-specific primer pair for PCR. Northern blot analysis revealed two different mRNAs (5 kb and 2 kb) in liver, skeletal muscle, heart, lung, kidney, spleen, placenta and small intestine. Reverse transcriptase-PCR analysis showed that <i>SPYR4</i> was expressed in all tested tissues to different levels.</p>
+				</abstract>
+				<keywords><i>SPRY4</i>;radioactive hybridization (RH);expression pattern.</keywords>
+				<authors>
+					<author>
+						<name first="Hua" last="Liu">Hua Liu</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jin-Zhong" last="Chen">Jin-Zhong Chen</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shao-Hua" last="Gu">Shao-Hua Gu</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jian-Liang" last="Dai">Jian-Liang Dai</name>
+						<affiliation>United Gene Holdings, Ltd., Shanghai 200092, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="En-Pang" last="Zhao">En-Pang Zhao</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Lu" last="Huang">Lu Huang</name>
+						<affiliation>United Gene Holdings, Ltd., Shanghai 200092, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wang-Xiang" last="Xu">Wang-Xiang Xu</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yi" last="Xie">Yi Xie</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email>ymmao@fudan.edu.cn</email>
+					</author>
+					<author>
+						<name first="Yu-Min" last="Mao">Yu-Min Mao</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email>ymmao@fudan.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-10-31</date>
+					<date type="R">2003-03-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Molecular cloning and characterization of a novel human kinase gene, <i>PDIK1L</i></title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<abstract>
+					<p>We isolated a 4301-bp cDNA from a human foetal brain cDNA library by high-throughput cDNA sequencing. It encodes a protein of 341 amino acids, which shows 69\%\ identity with the human kinase CLIK1 (AAL99353), which was suggested to be the CLP-36 interacting kinase. Bioinformatics analysis suggests that the putative kinase may interact with PDZ and LIM domain proteins. Therefore the protein and its cDNA were named ‘PDLIM1 interacting kinase 1 like’ (PDIK1L; nomenclature approved by the HUGO Gene Nomenclature Committee). Ensembl Genome Browser located <i>PDIK1L</i> to human chromosome 1p35.3. It spans about 13.7 kb and consists of four exons and three introns. Multiple-tissue cDNA panel PCR revealed that the gene is expressed widely in human tissues: liver, kidney, pancreas, spleen, thymus and prostate. The protein appears to be localized to the nucleus.</p>
+				</abstract>
+				<keywords><i>PDIK1L</i>;protein kinase;human;expression.</keywords>
+				<authors>
+					<author>
+						<name first="Lingchen" last="Guo">Lingchen Guo</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chaoneng" last="Ji">Chaoneng Ji</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shaohua" last="Gu">Shaohua Gu</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kang" last="Ying"></name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haipeng" last="Cheng">Haipeng Cheng</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaoghua" last="Ni">Xiaoghua Ni</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jianping" last="Liu">Jianping Liu</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yi" last="Xie">Yi Xie</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yumin" last="Mao">Yumin Mao</name>
+						<affiliation>State Key Laboratory of Genetic Engineering, Institute of Genetics, School of Life Sciences, Fudan University, Shanghai 200433, People’s Republic of China</affiliation>
+						<email>ymmao@fudan.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-01-13</date>
+					<date type="R">2003-05-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ethnic variations of a retinoblastoma susceptibility gene (<i>RB1</i>) polymorphism in eight Asian populations</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<abstract>
+					<p>An A $\to$ G single nucleotide polymorphism (SNP) at nucleotide 153,104 in the retinoblastoma susceptibility locus (<i>RB1</i>) at 13q14 was previously reported to be present only in Asians. In this study, we determined the distribution of this SNP in normal Southeast Asian populations (Chinese, Malay, Javanese, Thai, Filipino), in South Asian populations (Bangladeshi, Pakistani Pushtun and Indian) and in Chinese retinoblastoma cases and control subjects. The <i>RB1</i> SNP was present in all populations at an overall frequency of $\leq 0.18$. Heterozygosity was higher in the Southeast Asian groups (0.14–0.34) than in the South Asian groups (Bangladeshi and Indian) (0.04–0.06). Significant differences in allele frequencies were found between the two population groups. Interestingly, our Pakistani population comprised of ethnic Pushtuns from northwest Pakistan was significantly different from the neighbouring Bangladeshi and Indian populations. No significant difference was found between Chinese case patients and control subjects. This <i>RB1</i> SNP appears to be an ethnic variant prevalent in Southeast Asian populations and may be useful for studying <i>RB1</i> inheritance by pedigree analysis.</p>
+				</abstract>
+				<keywords>retinoblastoma susceptibility gene (<i>RB1</i>);single nucleotide polymorphism (SNP);allele frequency;Asian.</keywords>
+				<authors>
+					<author>
+						<name first="Priya" last="Kadam-Pai">Priya Kadam-Pai</name>
+						<affiliation>Department of Paediatrics, National University of Singapore, Lower Kent Ridge Road, Singapore 119074</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xin-Yi" last="Su">Xin-Yi Su</name>
+						<affiliation>Department of Paediatrics, National University of Singapore, Lower Kent Ridge Road, Singapore 119074</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jasmin Jiji" last="Miranda">Jasmin Jiji Miranda</name>
+						<affiliation>National Neuroscience Institute, Singapore 308433</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Agustinus" last="Soemantri">Agustinus Soemantri</name>
+						<affiliation>Department of Paediatrics, University Diponegoro, Indonesia 50241</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nilmani" last="Saha">Nilmani Saha</name>
+						<affiliation>Department of Human Genetics, University of Pittsburgh, Pittsburgh, PA 15261, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chew-Kiat" last="Heng">Chew-Kiat Heng</name>
+						<affiliation>Department of Paediatrics, National University of Singapore, Lower Kent Ridge Road, Singapore 119074</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Poh-San" last="Lai">Poh-San Lai</name>
+						<affiliation>Department of Paediatrics, National University of Singapore, Lower Kent Ridge Road, Singapore 119074</affiliation>
+						<email>paelaips@nus.edu.sg</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-12-11</date>
+					<date type="R">2003-05-27</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Molecular-genetic analysis of two cases with retinoblastoma: benefits for disease management</title>
+				<feature></feature>
+				<page>0039-0044</page>
+				<abstract>
+					<p>Effective counselling and management of retinoblastoma families using genetic information is presently practised in many parts of the world. We studied histopathological, chromosomal and molecular-genetic data of two retinoblastoma patients from India. The two patients, one with bilateral and the other with unilateral retinoblastoma, underwent complete ophthalmic examination, cytogenetic study, retinoblastoma gene (<i>RB1</i>) mutational analysis and <i>RB1</i> promoter region methylation screening. In the bilateral retinoblastoma patient deletion of chromosome region 13q14 in peripheral blood lymphocytes and a hemizygous novel 8-bp deletion in exon 4 of <i>RB1</i> in tumour sample were observed. In the unilaterally affected patient CGA to TGA transition protein truncation mutations were observed in exons 8 and 14 of <i>RB1</i>.</p>
+				</abstract>
+				<keywords>DNA sequencing;gene methylation;<i>RB1</i> gene;retinoblastoma.</keywords>
+				<authors>
+					<author>
+						<name first="Govindasamy" last="Kumaramanickavel">Govindasamy Kumaramanickavel</name>
+						<affiliation>Department of Genetics and Molecular Biology, Vision Research Foundation, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email>drgkm@sankaranethralaya.org</email>
+					</author>
+					<author>
+						<name first="Biju" last="Joseph">Biju Joseph</name>
+						<affiliation>Department of Genetics and Molecular Biology, Vision Research Foundation, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Komaravelly" last="Narayana">Komaravelly Narayana</name>
+						<affiliation>Department of Genetics and Molecular Biology, Vision Research Foundation, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sribhargava" last="Natesh">Sribhargava Natesh</name>
+						<affiliation>Department of Vitreo-Retinal Surgery, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gandra" last="Mamatha">Gandra Mamatha</name>
+						<affiliation>Department of Genetics and Molecular Biology, Vision Research Foundation, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mahesh P." last="Shanmugam">Mahesh P. Shanmugam</name>
+						<affiliation>Department of Vitreo-Retinal Surgery, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anuradha" last="Elamparathi">Anuradha Elamparathi</name>
+						<affiliation>Department of Genetics and Molecular Biology, Vision Research Foundation, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jyotirmay" last="Biswas">Jyotirmay Biswas</name>
+						<affiliation>Department of Pathology, Medical Research Foundation, Sankara Nethralaya, Chennai 600 006, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-02-07</date>
+					<date type="R">2003-03-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>What have two decades of laboratory life-history evolution studies on <i>Drosophila melanogaster</i> taught us?</title>
+				<feature>Review Article</feature>
+				<page>0045-0076</page>
+				<abstract>
+					<p>A series of laboratory selection experiments on <i>Drosophila melanogaster</i> over the past two decades has provided insights into the specifics of life-history tradeoffs in the species and greatly refined our understanding of how ecology and genetics interact in life-history evolution. Much of what has been learnt from these studies about the subtlety of the microevolutionary process also has significant implications for experimental design and inference in organismal biology beyond life-history evolution, as well as for studies of evolution in the wild. Here we review work on the ecology and evolution of life-histories in laboratory populations of <i>D. melanogaster</i>, emphasizing how environmental effects on life-history-related traits can influence evolutionary change. We discuss life-history tradeoffs—many unexpected—revealed by selection experiments, and also highlight recent work that underscores the importance to life-history evolution of cross-generation and cross-life-stage effects and interactions, sexual antagonism and sexual dimorphism, population dynamics, and the possible role of biological clocks in timing life-history events. Finally, we discuss some of the limitations of typical selection experiments, and how these limitations might be transcended in the future by a combination of more elaborate and realistic selection experiments, developmental evolutionary biology, and the emerging discipline of phenomics.</p>
+				</abstract>
+				<keywords>laboratory selection;experimental evolution;lifespan;development time;competitive ability;genetic architecture</keywords>
+				<authors>
+					<author>
+						<name first="N. G." last="Prasad">N. G. Prasad</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P. O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P. O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2003">%raghu
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
 				<page>0000-0000</page>
 				<abstract>
 					<p></p>
@@ -427,12 +2292,232 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-00-00</date>
+					<date type="M">2002-00-00</date>
 					<date type="R"></date>
-					<date type="A">2000-00-00</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0000-0000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-00-00</date>
+					<date type="R"></date>
+					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 	</volume>
-</journal> 
+</journal>
