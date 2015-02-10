@@ -2275,19 +2275,69 @@
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="03" month="12" year="2003">%raghu
+		<issue inum="03" month="12" year="2003">
 			<entry hassup="0">
-				<title></title>
+				<title>Preface : Evolutionary genetics: the <i>Drosophila</i> model</title>
 				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
+				<page>0077-0078</page>
+				<abstract />
+				<keywords />
 				<authors>
 					<author>
-						<name first="" last=""></name>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
 						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic variability of sexual size dimorphism in a natural population of <i>Drosophila melanogaster</i>: an isofemale-line approach</title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0079-0088</page>
+				<abstract>
+					<p>Most animal species exhibit sexual size dimorphism (SSD). SSD is a trait difficult to quantify for genetical purposes since it must be simultaneously measured on two kinds of individuals, and it is generally expressed either as a difference or as a ratio between sexes. Here we ask two related questions: What is the best way to describe SSD, and is it possible to conveniently demonstrate its genetic variability in a natural population? We show that a simple experimental design, the isofemale-line technique (full-sib families), may provide an estimate of genetic variability, using the coefficient of intraclass correlation. We consider two SSD indices, the female–male difference and the female/male ratio. For two size-related traits, wing and thorax length, we found that both SSD indices were normally distributed. Within each family, the variability of SSD was estimated by considering individual values in one sex (the female) with respect to the mean value in the other sex (the male). In a homogeneous sample of 30 lines of <i>Drosophila melanogaster</i>, both indices provided similar intraclass correlations, on average 0.21, significantly greater than zero but lower than those for the traits themselves: 0.50 and 0.36 for wing and thorax length respectively. Wing and thorax length were strongly positively correlated within each sex. SSD indices of wing and thorax length were also positively correlated, but to a lesser degree than for the traits themselves. For comparative evolutionary studies, the ratio between sexes seems a better index of SSD since it avoids scaling effects among populations or species, permits comparisons between different traits, and has an unambiguous biological significance. In the case of <i>D. melanogaster</i> grown at 25$^{\circ}$C, the average female/male ratios are very similar for the wing (1.16) and the thorax (1.15), and indicate that, on average, these size traits are 15–16\%\ longer in females.</p>
+				</abstract>
+				<keywords>sexual size dimorphism;female–male difference;female/male ratio;intraclass correlation;evolvability;isofemale lines.</keywords>
+				<authors>
+					<author>
+						<name first="Jean R." last="David">Jean R. David</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 – Gif sur Yvette Cedex, France</affiliation>
+						<email>david@pge.cnrs-gif.fr</email>
+					</author>
+					<author>
+						<name first="Patricia" last="Gibert">Patricia Gibert</name>
+						<affiliation>CNRS, Laboratoire Biométrie, Biologie Evolutive, Université de Lyon I 69622 – Villeurbanne Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sandrine" last="Mignon-Grasteau">Sandrine Mignon-Grasteau</name>
+						<affiliation>INRA, Station de Recherches Avicoles 37380 – Nouzilly, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hélène" last="Legout">Hélène Legout</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 – Gif sur Yvette Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Georges" last="Pétavy">Georges Pétavy</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 – Gif sur Yvette Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Catherine" last="Beaumont">Catherine Beaumont</name>
+						<affiliation>INRA, Station de Recherches Avicoles 37380 – Nouzilly, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Brigitte" last="Moreteau">Brigitte Moreteau</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 – Gif sur Yvette Cedex, France</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -2314,15 +2364,1953 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2002-00-00</date>
+					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Mild heat stress at a young age in <i>Drosophila melanogaster</i> leads to increased Hsp70 synthesis after stress exposure later in life</title>
 				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0089-0094</page>
+				<abstract>
+					<p>In a number of animal species it has been shown that exposure to low levels of stress at a young age has a positive effect on stress resistance later in life, and on longevity. The positive effects have been attributed to the activation of defence/cleaning systems (heat shock proteins (Hsps), antioxidases, DNA repair) or to effects of a changed metabolic rate, or both. We investigated the effect of mild stress exposures early in life on Hsp70 synthesis after a harder stress exposure later in life in five isofemale lines of <i>Drosophila melanogaster</i>. Female flies were either exposed to repeated bouts of mild heat stress (3 h at 34$^{\circ}$°C) at a young age (days 2, 4 and 6 post-eclosion) or held under standard laboratory conditions. At 16 and 32 days of adult age, respectively, flies were exposed to a high temperature treatment known to induce Hsp70 in the investigated species (1 h at 37$^{\circ}$ºC). Thereafter, the inducible Hsp70 levels were measured. Our data show a tendency towards increased Hsp70 synthesis with increased age for both ‘mild stress’ and ‘no stress’ flies. Moreover, the results show that flies exposed to mild stress at a young age synthesized more Hsp70 upon induction, compared to control flies, and that this difference was accentuated at 32 days compared to 16 days of age. Thus, bouts of mild heat stress at a young age impact on the physiological stress response system later in life. This may be caused by an increased ability to react to future stresses. Alternatively, the mild stress exposure at a young age may actually have caused cellular damages increasing the need for Hsp70 levels after stress exposure later in life. The importance of an Hsp70 upregulation (throughout life) in explaining the phenomenon of hormesis is discussed, together with alternative hypotheses, and suggestions for further studies.</p>
+				</abstract>
+				<keywords>ageing;<i>Drosophila melanogaster</i>;isofemale lines;hormesis;Hsp70;mild heat stress;molecular chaperones.</keywords>
+				<authors>
+					<author>
+						<name first="Torsten Nygaard" last="Kristensen">Torsten Nygaard Kristensen</name>
+						<affiliation>Aarhus Centre for Environmental Stress Research (ACES), Department of Ecology and Genetics, University of Aarhus, Building 540, Ny Munkegade, DK-8000 Aarhus C, Denmark</affiliation>
+						<affiliation>Department of Animal Breeding and Genetics, Danish Institute of Agricultural Sciences, P.O. Box 50, DK-8830 Tjele, Denmark</affiliation>
+						<email>torsten.kristensen@biology.au.dk</email>
+					</author>
+					<author>
+						<name first="Jesper Givskov" last="Sørensen">Jesper Givskov Sørensen</name>
+						<affiliation>Aarhus Centre for Environmental Stress Research (ACES), Department of Ecology and Genetics, University of Aarhus, Building 540, Ny Munkegade, DK-8000 Aarhus C, Denmark</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Volker" last="Loeschcke">Volker Loeschcke</name>
+						<affiliation>Aarhus Centre for Environmental Stress Research (ACES), Department of Ecology and Genetics, University of Aarhus, Building 540, Ny Munkegade, DK-8000 Aarhus C, Denmark</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantitative-genetic analysis of wing form and bilateral asymmetry in isochromosomal lines of <i>Drosophila subobscura</i> using Procrustes methods</title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0095-0113</page>
+				<abstract>
+					<p>Fluctuating asymmetry (FA) is often used as a measure of underlying developmental instability (DI), motivated by the idea that morphological variance is maladaptive. Whether or not DI has evolutionary potential is a highly disputed topic, marred by methodological problems and fuzzy prejudices. We report here some results from an ongoing study of the effects of karyotype, homozygosity and temperature on wing form and bilateral asymmetry using isochromosomal lines of <i>Drosophila subobscura</i>. Our approach uses the recently developed methodologies in geometric morphometrics to analyse shape configurations of landmarks within the standard statistical framework employed in studies of bilateral asymmetries, and we have extended these methods to partition the individual variation and the variation in asymmetries into genetic and environmental causal components. The analyses revealed temperature-dependent expression of genetic variation for wing size and wing shape, directional asymmetry (DA) of wing size, increased asymmetries at suboptimal temperature, and a transition from FA to DA in males as a result of increase in the rearing temperature. No genetic variation was generally detected for FA in our samples, but these are preliminary results because no crosses between lines were carried out and, therefore, the contribution of dominance was not taken into account. In addition, only a subset of the standing genetic variation was represented in the experiments.</p>
+				</abstract>
+				<keywords>directional asymmetry;<i>Drosophila subobscura</i>;fluctuating asymmetry;geometric morphometrics;isochromosomal lines;Procrustes analysis;wing shape; wing size.</keywords>
+				<authors>
+					<author>
+						<name first="Pedro Fernández" last="Iriarte">Pedro Fernández Iriarte</name>
+						<affiliation>Grup de Biologia Evolutiva (GBE), Departament de Genètica i de Microbiologia, Universitat Autònoma de Barcelona, 08193 Bellaterra (Barcelona), Spain</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Walkiria" last="Céspedes">Walkiria Céspedes</name>
+						<affiliation>Grup de Biologia Evolutiva (GBE), Departament de Genètica i de Microbiologia, Universitat Autònoma de Barcelona, 08193 Bellaterra (Barcelona), Spain</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mauro" last="Santos">Mauro Santos</name>
+						<affiliation>Grup de Biologia Evolutiva (GBE), Departament de Genètica i de Microbiologia, Universitat Autònoma de Barcelona, 08193 Bellaterra (Barcelona), Spain</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Molecular population genetics of the $\beta$-<i>esterase</i> gene cluster of <i>Drosophila melanogaster</i></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0115-0131</page>
+				<abstract>
+					<p>We have investigated nucleotide polymorphism at the $\beta$-<i>esterase</i> gene cluster including the <i>Est-6</i> gene and $\psi$<i>Est-6</i> putative pseudogene in four samples of <i>Drosophila melanogaster</i> derived from natural populations of southern Africa (Zimbabwe), Europe (Spain), North America (USA: California), and South America (Venezuela). A complex haplo-type structure is revealed in both <i>Est-6</i> and $\psi$<i>Est-6</i>. Total nucleotide diversity is twice in $\psi$<i>Est-6</i> as in <i>Est-6</i>; diversity is higher in the African sample than in the non-African ones. Strong linkage disequilibrium occurs within the $\beta$-<i>esterase</i> gene cluster in non-African samples, but not in the African one. Intragenic gene conversion events are detected within <i>Est-6</i> and, to a much greater extent, within $\psi$<i>Est-6</i>; intergenic gene conversion events are rare. Tests of neutrality with recombination are significant for the $\beta$-<i>esterase</i> gene cluster in the non-African samples but not significant in the African one. We suggest that the demographic history (bottleneck and admixture of genetically differentiated populations) is the major factor shaping the pattern of nucleotide polymorphism in the $\beta$-<i>esterase</i> gene cluster. However there are some ‘footprints’ of directional and balancing selection shaping specific distribution of nucleotide polymorphism within the cluster. Intergenic epistatic selection between <i>Est-6</i> and $\psi$<i>Est-6</i> may play an important role in the evolution of the $\beta$-<i>esterase</i> gene cluster preserving the putative pseudogene from degenerative destruction and reflecting possible functional interaction between the functional gene and the putative pseudogene. <i>Est-6</i> and $\psi$<i>Est-6</i> may represent an indivisible intergenic complex (‘intergene’) in which each single component (<i>Est-6</i> or $\psi$<i>Est-6</i>) cannot separately carry out the full functional role.</p>
+				</abstract>
+				<keywords>DNA polymorphism;<i>Drosophila melanogaster</i>;<i>Est-6</i>;$\psi$<i>Est-6</i>;<i>Drosophila</i> colonization;positive selection;epistatic selection;intergene;potogene.</keywords>
+				<authors>
+					<author>
+						<name first="Evgeniy S." last="Balakirev">Evgeniy S. Balakirev</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<affiliation>Institute of Marine Biology, Vladivostok 690041, Russia, and Academy of Ecology, Marine Biology, and Biotechnology, Far Eastern State University, Vladivostok 690600, Russia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Francisco J." last="Ayala">Francisco J. Ayala</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<email>fjayala@uci.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The devil in the details of life-history evolution: instability and reversal of genetic correlations during selection on <i>Drosophila</i> development</title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0133-0145</page>
+				<abstract>
+					<p>The evolutionary relationships between three major components of Darwinian fitness, development rate, growth rate and preadult survival, were estimated using a comparison of 55 distinct populations of <i>Drosophila melanogaster</i> variously selected for age-specific fertility, environmental-stress tolerance and accelerated development. Development rate displayed a strong net negative evolutionary correlation with weight at eclosion across all selection treatments, consistent with the existence of a size-versus-time tradeoff between these characters. However, within the data set, the magnitude of the evolutionary correlation depended upon the particular selection treatments contrasted. A previously proposed tradeoff between preadult viability and growth rate was apparent only under weak selection for juvenile fitness components. Direct selection for rapid development led to sharp reductions in both growth rates and viability. These data add to the mounting results from experimental evolution that illustrate the sensitivity of evolutionary correlations to</p>
+					<ol type="roman">
+						<li>genotype-by-environment (G $\times$ E) interaction,</li>
+						<li>complex functional-trait interactions, and</li>
+						<li>character definition.</li>
+					</ol>
+					<p>Instability, disappearance and reversal of patterns of genetic covariation often occur over short evolutionary time frames and as the direct product of selection, rather than some stochastic process. We suggest that the functional architecture of fitness is a rapidly evolving matrix with reticulate properties, a matrix that we understand only poorly.</p>
+				</abstract>
+				<keywords>evolution;life history;genetic correlation;experimental evolution;growth rate;<i>Drosophila melanogaster.</i></keywords>
+				<authors>
+					<author>
+						<name first="Adam K." last="Chippindale">Adam K. Chippindale</name>
+						<affiliation>Department of Biology, Queen’s University, Kingston, ON K7L 3N6, Canada</affiliation>
+						<email>chippind@biology.queensu.ca</email>
+					</author>
+					<author>
+						<name first="Anh L." last="Ngo">Anh L. Ngo</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Michael R." last="Rose">Michael R. Rose</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The contribution of ancestry, chance, and past and ongoing selection to adaptive evolution</title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0147-0162</page>
+				<abstract>
+					<p>The relative contributions of ancestry, chance, and past and ongoing selection to variation in one adaptive (larval feeding rate) and one seemingly nonadaptive (pupation height) trait were determined in populations of <i>Drosophila melanogaster</i> adapting to either low or high larval densities in the laboratory. Larval feeding rates increased rapidly in response to high density, and the effects of ancestry, past selection and chance were ameliorated by ongoing selection within 15–20 generations. Similarly, in populations previously kept at high larval density, and then switched to low larval density, the decline of larval feeding rate to ancestral levels was rapid (15–20 generations) and complete, providing support for a previously stated hypothesis regarding the costs of faster feeding in <i>Drosophila</i> larvae. Variation among individuals was the major contributor to variation in pupation height, a trait that would superficially appear to be nonadaptive in the environmental context of the populations used in this study because it did not diverge between sets of populations kept at low versus high larval density for many generations. However, the degree of divergence among populations ($F_{\text{ST}}$) for pupation height was significantly less than expected for a selectively neutral trait, and we integrate results from previous studies to suggest that the variation for pupation height among populations is constrained by stabilizing selection, with a flat, plateau-like fitness function that, consequently, allows for substantial phenotypic variation within populations. Our results support the view that the genetic imprints of history (ancestry and past selection) in outbreeding sexual populations are typically likely to be transient in the face of ongoing selection and recombination. The results also illustrate the heuristic point that different forms of selection—for example directional versus stabilizing selection—acting on a trait in different populations may often not be due to differently shaped fitness functions, but rather due to differences in how the fitness function maps onto the actual distribution of phenotypes in a given population. We discuss these results in the light of previous work on reverse evolution, and the role of ancestry, chance, and past and ongoing selection in adaptive evolution.</p>
+				</abstract>
+				<keywords>density-dependent selection;reverse evolution;larval feeding rate;pupation height;fitness functions;directional selection;stabilizing selection;<i>Drosophila melanogaster</i>.</keywords>
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+					<author>
+						<name first="Robinson B." last="Castillo">Robinson B. Castillo</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Laurence D." last="Mueller">Laurence D. Mueller</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hybridization, transgressive segregation and evolution of new genetic systems in <i>Drosophila</i></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0163-0177</page>
+				<abstract>
+					<p>Introgressive hybridization facilitates incorporation of genes from one species into the gene pool of another. Studies on long-term effects of introgressive hybridization in animal systems are sparse. <i>Drosophila nasuta</i> ($2n = 8$) and <i>D. albomicans</i> ($2n = 6$)—a pair of allopatric, morphologically almost identical, cross-fertile members of the <i>nasuta</i> subgroup of the <i>immigrans</i> species group—constitute an excellent system to analyse the impact of hybridization followed by transgressive segregation of parental characters in the hybrid progeny. Hybrid populations of <i>D. nasuta</i> and <i>D. albomicans</i> maintained for over 500 generations in the laboratory constitute new recombinant hybrid genomes, here termed cytoraces. The impact of hybridization, followed by introgression and transgressive segregation, on chromosomal constitution and karyotypes, some fitness parameters, isozymes, components of mating behaviour and mating preference reveals a complex pattern of interracial divergence among parental species and cytoraces. This assemblage of characters in different combinations in a laboratory hybrid zone allows us to study the emergence of new genetic systems. Here, we summarize results from our ongoing studies comparing these hybrid cytoraces with the parental species, and discuss the implications of these findings for our understanding of the evolution of new genetic systems.</p>
+				</abstract>
+				<keywords><i>Drosophila nasuta</i>;<i>Drosophila albomicans</i>;hybridization;cytoraces;new genetic systems.</keywords>
+				<authors>
+					<author>
+						<name first="H. A." last="Ranganath">H. A. Ranganath</name>
+						<affiliation>Drosophila Stock Centre, Department of Studies in Zoology, University of Mysore, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email>drosrang@sancharnet.in</email>
+					</author>
+					<author>
+						<name first="S." last="Aruna">S. Aruna</name>
+						<affiliation>Drosophila Stock Centre, Department of Studies in Zoology, University of Mysore, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Thermal adaptation in <i>Drosophila serrata</i> under conditions linked to its southern border: unexpected patterns from laboratory selection suggest limited evolutionary potential</title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0179-0189</page>
+				<abstract>
+					<p>To investigate the ability of <i>Drosophila serrata</i> to adapt to thermal conditions over winter at the species southern border, replicate lines from three source locations were held as discrete generations over three years at either 19$^{\circ}$C (40 generations) or temperatures fluctuating between 7$^{\circ}$C and 18$^{\circ}$C (20 generations). Populations in the fluctuating environment were maintained either with an adult 0$^{\circ}$C cold shock or without a shock. These conditions were expected to result in temperature-specific directional selection for increased viability and productivity under both temperature regimes, and reduced development time under the fluctuating-temperature regime. Selection responses of all lines were tested under both temperature regimes after controlling for carry-over effects by rearing lines in these environments for two generations. When tested in the 19$^{\circ}$C environment, lines evolving at 19$^{\circ}$C showed a faster development time and a lower productivity relative to the other lines, while cold shock reduced development time and productivity of all lines. When tested in the fluctuating environment, productivity of the 7–18$^{\circ}$C lines selected with a cold shock was relatively lower than that of lines selected without a shock, but this pattern was not observed in the other populations. Viability and body size as measured by wing length were not altered by selection or cold shock, although there were consistent effects of source population on wing length. These results provide little evidence for temperature-specific adaptation in <i>D. serrata</i>—although the lines had diverged for some traits, these changes were not consistent with a priori predictions. In particular, there was no evidence for life-history changes reflecting adaptation to winter conditions at the southern border. The potential for <i>D. serrata</i> to adapt to winter conditions may therefore be limited.</p>
+				</abstract>
+				<keywords>species borders;central and marginal populations;cold shock;selection;thermal adaptation.</keywords>
+				<authors>
+					<author>
+						<name first="Andréa" last="Magiafoglou">Andréa Magiafoglou</name>
+						<affiliation>Centre for Environmental Stress and Adaptation Research, La Trobe University, Bundoora, Victoria 3086, Australia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ary" last="Hoffmann">Ary Hoffmann</name>
+						<affiliation>Centre for Environmental Stress and Adaptation Research, La Trobe University, Bundoora, Victoria 3086, Australia</affiliation>
+						<email>a.hoffmann@latrobe.edu.au</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variation in adult life history and stress resistance across five species of <i>Drosophila</i></title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0191-0205</page>
+				<abstract>
+					<p>Dry weight at eclosion, adult lifespan, lifetime fecundity, lipid and carbohydrate content at eclosion, and starvation and desiccation resistance at eclosion were assayed on a long-term laboratory population of <i>Drosophila melanogaster</i>, and one recently wild-caught population each of four other species of <i>Drosophila</i>, two from the <i>melanogaster</i> and two from the <i>immigrans</i> species group. The relationships among trait means across the five species did not conform to expectations based on correlations among these traits inferred from selection studies on <i>D. melanogaster</i>. In particular, the expected positive relationships between fecundity and size/lipid content, lipid content and starvation resistance, carbohydrate (glycogen) content and desiccation resistance, and the expected negative relationship between lifespan and fecundity were not observed. Most traits were strongly positively correlated between sexes across species, except for fractional lipid content and starvation resistance per microgram lipid. For most traits, there was evidence for significant sexual dimorphism but the degree of dimorphism did not vary across species except in the case of adult lifespan, starvation resistance per microgram lipid, and desiccation resistance per microgram carbohydrate. Overall, <i>D. nasuta nasuta</i> and <i>D. sulfurigaster neonasuta</i> (<i>immigrans</i> group) were heavier at eclosion than the <i>melanogaster</i> group species, and tended to have somewhat higher absolute lipid content and starvation resistance. Yet, these two <i>immigrans</i> group species were shorter-lived and had lower average daily fecundity than the <i>melanogaster</i> group species. The smallest species, <i>D. malerkotliana</i> (<i>melanogaster</i> group), had relatively high daily fecundity, intermediate lifespan and high fractional lipid content, especially in females. <i>D. ananassae</i> (<i>melanogaster</i> group) had the highest absolute and fractional carbohydrate content, but its desiccation resistance per microgram carbohydrate was the lowest among the five species. In terms of overall performance, the laboratory population of <i>D. melanogaster</i> was clearly superior, under laboratory conditions, to the other four species if adult lifespan, lifetime fecundity, average daily fecundity, and absolute starvation and desiccation resistance are considered. This finding is contrary to several recent reports of substantially higher adult lifespan and stress resistance in recently wild-caught flies, relative to flies maintained for a long time in discrete-generation laboratory cultures. Possible explanations for these apparent anomalies are discussed in the context of the differing selection pressures likely to be experienced by <i>Drosophila</i> populations in laboratory versus wild environments.</p>
+				</abstract>
+				<keywords>life-history evolution;lifespan;fecundity;starvation;desiccation;lipid;glycogen;sexual dimorphism;laboratory adaptation;<i>Drosophila</i>.</keywords>
+				<authors>
+					<author>
+						<name first="N. Sharmila" last="Bharathi">N. Sharmila Bharathi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N. G." last="Prasad">N. G. Prasad</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<affiliation>Present address: Department of Biology, Queen’s University, Kingston ON K7L 3N6, Canada</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mallikarjun" last="Shakarad">Mallikarjun Shakarad</name>
+						<affiliation>Behaviour, Ecology and Evolution Laboratory, Department of Biology, Poornaprajna Institute of Scientific Research, 4, Sadashivanagar, Bangalore 560 080, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Latitudinal clines in <i>Drosophila melanogaster</i>: body size, allozyme frequencies, inversion frequencies, and the insulin-signalling pathway</title>
+				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<page>0207-0223</page>
+				<abstract>
+					<p>Many latitudinal clines exist in <i>Drosophila melanogaster</i>: in adult body size, in allele frequency at allozyme loci, and in frequencies of common cosmopolitan inversions. The question is raised whether these latitudinal clines are causally related. This review aims to connect data from two very different fields of study, evolutionary biology and cell biology, in explaining such natural genetic variation in <i>D. melanogaster</i> body size and development time. It is argued that adult body size clines, inversion frequency clines, and clines in allele frequency at loci involved in glycolysis and glycogen storage are part of the same adaptive strategy. Selection pressure is expected to differ at opposite ends of the clines. At high latitudes, selection on <i>D. melanogaster</i> would favour high larval growth rate at low temperatures, and resource storage in adults to survive winter. At low latitudes selection would favour lower larval critical size to survive crowding, and increased male activity leading to high male reproductive success. Studies of the insulin-signalling pathway in <i>D. melanogaster</i> point to the involvement of this pathway in metabolism and adult body size. The genes involved in the insulin-signalling pathway are associated with common cosmopolitan inversions that show latitudinal clines. Each chromosome region connected with a large common cosmopolitan inversion possesses a gene of the insulin transmembrane complex, a gene of the intermediate pathway and a gene of the TOR branch. The hypothesis is presented that temperate <i>D. melanogaster</i> populations have a higher frequency of a ‘thrifty’ genotype corresponding to high insulin level or high signal level, while tropical populations possess a more ‘spendthrift’ genotype corresponding to low insulin or low signal level.</p>
+				</abstract>
+				<keywords>Drosophila;insulin;body size;latitudinal cline;inversion polymorphism.</keywords>
+				<authors>
+					<author>
+						<name first="Gerdien" last="De Jong">Gerdien De Jong</name>
+						<affiliation>Evolutionary Population Biology, Utrecht University, Padualaan 8, NL-3584 CH Utrecht, Netherlands</affiliation>
+						<email>g.dejong@bio.uu.nl</email>
+					</author>
+					<author>
+						<name first="Zoltán" last="Bochdanovits">Zoltán Bochdanovits</name>
+						<affiliation>Evolutionary Population Biology, Utrecht University, Padualaan 8, NL-3584 CH Utrecht, Netherlands</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="083">
+		<issue inum="01" month="04" year="2004">
+			<entry hassup="0">
+				<title>Editorial</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="K. Vijay" last="Raghavan">K. Vijay Raghavan</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic correlations: transient truths of adaptive evolution</title>
+				<feature>Research commentary</feature>
+				<page>0003-0006</page>
+				<abstract />
+				<keywords>genetic architecture;life history;experimental evolution;genetic correlations;genotype $\times$ environment interaction;stress resistance;<i>Drosophila melanogaster.</i></keywords>
+				<authors>
+					<author>
+						<name first="N. G." last="Prasad">N. G. Prasad</name>
+						<affiliation>Department of Biology, Queen’s University, Kingston, Ontario K7L 3N6, Canada</affiliation>
+						<email>prasad@biology.queensu.ca</email>
+					</author>
+					<author>
+						<name first="Mallikarjun N." last="Shakarad">Mallikarjun N. Shakarad</name>
+						<affiliation>Behaviour, Ecology and Evolution Laboratory, Biology Department, Poornaprajna Institute of Scientific Research, 4, Sadashivanagar, Bangalore 560 080, India</affiliation>
+						<email>mallik99@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Immunocompetence in <i>Drosophila</i>: linking genetic to phenotypic variation</title>
+				<feature>Research commentary</feature>
+				<page>0007-0008</page>
+				<abstract />
+				<keywords><i>Drosophila</i> immunity;immunocompetence;polymorphism;genetic variation;phenotypic variation.</keywords>
+				<authors>
+					<author>
+						<name first="Shampa" last="Ghosh">Shampa Ghosh</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>shampa@jncasr.ac.in</email>
+					</author>
+					<author>
+						<name first="N. Sharmila" last="Bharathi">Sharmila Bharathi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>sharmila@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the genetic basis of temperature compensation of circadian clocks</title>
+				<feature>Hypothesis</feature>
+				<page>0009-0011</page>
+				<abstract />
+				<keywords>circadian;biological clocks;temperature compensation;<i>period</i> gene;<i>frequency</i> gene.</keywords>
+				<authors>
+					<author>
+						<name first="Vijay Kumar" last="Sharma">Vijay Kumar Sharma</name>
+						<affiliation>Chronobiology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>vsharma@jncasr.ac.in;vksharmas@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-03-26</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Are bigger flies always better: the role of genes and environment</title>
+				<feature>Commentary on <i>J. Genet.</i> classic</feature>
+				<page>0013-0015</page>
+				<abstract />
+				<keywords>life-history evolution;tradeoff;fecundity;development time;mating success;body size;stabilizing selection;<i>Drosophila melanogaster.</i></keywords>
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Studies in Quantitative Inheritance XI. Genetic and Environmental Correlation Between Body Size and Egg Production in <i>Drosophila Melanogaster</i></title>
+				<feature><i>J. Genet. classic</i></feature>
+				<page>0017-0032</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Forbes W." last="Robertson">Forbes W. Robertson</name>
+						<affiliation>Institute of Animal Genetics, Edinburgh</affiliation>
+						<affiliation>Member of the Scientific Staff of the Agricultural Research Council</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Engineered <i>Xcm</i>I cassette-containing vector for PCR-based phylogenetic analyses</title>
+				<feature>Research Note</feature>
+				<page>0033-0034</page>
+				<abstract />
+				<keywords>T-vector;direct cloning;<i>Xcm</i>I cassette;sequencing;PCR;marine population genetics.</keywords>
+				<authors>
+					<author>
+						<name first="Futoshi" last="Aranishi">Futoshi Aranishi</name>
+						<affiliation>Molecular Biology Division, National Institute of Fisheries Science, Yokohama 236-8648, Japan</affiliation>
+						<affiliation>Department of Biological and Environmental Sciences, Mirjazaki University, Mirjazaki 889-2192, Japan</affiliation>
+						<email>aranishi@affrc.go.jp</email>
+					</author>
+					<author>
+						<name first="Takane" last="Okimoto">Takane Okimoto</name>
+						<affiliation>Molecular Biology Division, National Institute of Fisheries Science, Yokohama 236-8648, Japan</affiliation>
+						<affiliation>Graduate School of Science and Technology, Nagasaki University, Nagasaki 852-8521, Japan</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-09-18</date>
+					<date type="M">2004-02-23</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Refinement of the locus for non-syndromic sensorineural deafness (DFN2)</title>
+				<feature>Research Note</feature>
+				<page>0035-0038</page>
+				<abstract>
+					<p>Non-syndromic X-linked deafness is a rare form of genetic deafness in humans accounting for a small proportion of all hereditary hearing loss. Different clinical forms of non-syndromic X-linked deafness have been described, and most of these have been mapped. Here, we report a Chinese family affected by a congenital profound sensorineural hearing loss. All phenotypes of this family are clinically compatible with non-syndromic sensorineural deafness (DFN2). A maximum two-point Lod score of 2.32 was obtained at marker <i>DXS6797</i> ($\theta = 0.00$). Recombinants define a region of 4.3 cm flanked by markers <i>DXS6799</i> and <i>GATA172D05</i>. This region overlaps the previously reported DFN2 region by 2.0 cm.</p>
+				</abstract>
+				<keywords>non-syndromic sensorineural deafness (DFN2);profound congenital sensorineural deafness;linkage;X chromosome.</keywords>
+				<authors>
+					<author>
+						<name first="Bin" last="Cui">Bin Cui</name>
+						<affiliation>Health Science Center, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and Shanghai Second Medical University, 225 South Chong Qing Road, Shanghai 200025, People’s Republic of China</affiliation>
+						<affiliation>Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haibing" last="Zhang">Haibing Zhang</name>
+						<affiliation>Health Science Center, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and Shanghai Second Medical University, 225 South Chong Qing Road, Shanghai 200025, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yongzhong" last="Lu">Yongzhong Lu</name>
+						<affiliation>Qingdao Obstetrics and Gynecology Hospital, Qingdao Medical College, Qingdao 266003, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wei" last="Zhong">Wei Zhong</name>
+						<affiliation>Health Science Center, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and Shanghai Second Medical University, 225 South Chong Qing Road, Shanghai 200025, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gang" last="Pei">Gang Pei</name>
+						<affiliation>Health Science Center, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and Shanghai Second Medical University, 225 South Chong Qing Road, Shanghai 200025, People’s Republic of China</affiliation>
+						<affiliation>Shenyang Pharmaceutical University, 103 Wenhua Road, Shenyang 110016, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiangyin" last="Kong">Xiangyin Kong</name>
+						<affiliation>Health Science Center, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and Shanghai Second Medical University, 225 South Chong Qing Road, Shanghai 200025, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Landian" last="Hu">Landian Hu</name>
+						<affiliation>Health Science Center, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and Shanghai Second Medical University, 225 South Chong Qing Road, Shanghai 200025, People’s Republic of China</affiliation>
+						<email>ldhu@sibs.ac.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-11-20</date>
+					<date type="R">2004-04-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mitochondrial DNA sequence variation in the Anatolian Peninsula (Turkey)</title>
+				<feature>Research Note</feature>
+				<page>0039-0047</page>
+				<abstract>
+					<p>Throughout human history, the region known today as the Anatolian peninsula (Turkey) has served as a junction connecting the Middle East, Europe and Central Asia, and, thus, has been subject to major population movements. The present study is undertaken to obtain information about the distribution of the existing mitochondrial D-loop sequence variations in the Turkish population of Anatolia. A few studies have previously reported mtDNA sequences in Turks. We attempted to extend these results by analysing a cohort that is not only larger, but also more representative of the Turkish population living in Anatolia. In order to obtain a descriptive picture for the phylogenetic distribution of the mitochondrial genome within Turkey, we analysed mitochondrial D-loop region sequence variations in 75 individuals from different parts of Anatolia by direct sequencing. Analysis of the two hypervariable segments within the noncoding region of the mitochondrial genome revealed the existence of 81 nucleotide mutations at 79 sites. The neighbour-joining tree of Kimura’s distance matrix has revealed the presence of six main clusters, of which H and U are the most common. The data obtained are also compared with several European and Turkic Central Asian populations.</p>
+				</abstract>
+				<keywords>mtDNA;Anatolian peninsula;sequence variation;hypervariable segments;Turkish population.</keywords>
+				<authors>
+					<author>
+						<name first="Hatice" last="Mergen">Hatice Mergen</name>
+						<affiliation>Department of Molecular Biology, Hacettepe University, 06532 Beytepe, Ankara, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Reyhan" last="Öner">Reyhan Öner</name>
+						<affiliation>Department of Biotechnology, Faculty of Science, Hacettepe University, 06532 Beytepe, Ankara, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Cihan" last="Öner">Cihan Öner</name>
+						<affiliation>Department of Molecular Biology, Hacettepe University, 06532 Beytepe, Ankara, Turkey</affiliation>
+						<email>coner@hacettepe.edu.tr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-06-24</date>
+					<date type="R">2003-11-04</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Deciphering diversity in populations of various linguistic and ethnic affiliations of different geographical regions of India: analysis based on 15 microsatellite markers</title>
+				<feature>Research Note</feature>
+				<page>0049-0063</page>
+				<abstract>
+					<p>The extent of genetic polymorphism at fifteen autosomal microsatellite markers in 54 ethnically, linguistically and geographically diverse human populations of India was studied to decipher intrapopulation diversity. The parameters used to quantify intrapopulation diversity were average allele diversity, average heterozygosity, allele range (base pairs), and number of alleles. Multilocus genotype frequencies calculated for selected populations were utilized for testing conformity with the assumption of Hardy–Weinberg equilibrium. The exact test values, after Bonferroni correction, showed significant deviation amongst Gowda (vWA, Penta E); Dhangar, Satnami and Gounder (D8S1179); Hmar (FGA); Kuki and Balti (vWA) groups. Relatively low number of alleles and allelic diversity (base-pairs size) had been observed in populations of central India as compared with southern and northern regions of the country. The communities of Indo-Caucasoid ethnic origin and Indo-European linguistic family (Kshatriya of Uttar Pradesh) showed highest allelic diversity, as well as rare alleles, not reported in any other Indian populations. Analysis based on average heterozygosity was also found to be lowest among the populations of central India (0.729) and highest among the populations from north (0.777) and west (0.784) regions of the country, having Indo-Caucasoid ethnic origin and Austro-Asiatic linguistic affiliation. The maximum power of discrimination (85\%–89\%) had been observed at loci FGA, Penta E, D18S51 and D21S11, suggested high intrapopulation diversity in India. Genetic diversity revealed by STR markers was consistent with the known demographic histories of populations. Thus, the present study clearly demonstrated that the intrapopulation diversity is not only present at the national level, but also within smaller geographical regions of the country. This is the first attempt to understand the extent of diversity within populations of India at such a large scale at genomic level.</p>
+				</abstract>
+				<keywords>microsatellites;Indian populations;heterozygosity;power of discrimination;Hardy–Weinberg equilibrium.</keywords>
+				<authors>
+					<author>
+						<name first="V. K." last="Kashyap">V. K. Kashyap</name>
+						<affiliation>DNA Typing Unit, Central Forensic Science Laboratory, 30 Gorachand Road, Kolkata 700 014, India</affiliation>
+						<email>vkk2k@hotmail.com;dtubprd@giascl01.vsnl.net.in</email>
+					</author>
+					<author>
+						<name first="Richa" last="Ashma">Richa Ashma</name>
+						<affiliation>DNA Typing Unit, Central Forensic Science Laboratory, 30 Gorachand Road, Kolkata 700 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sonali" last="Gaikwad">Sonali Gaikwad</name>
+						<affiliation>DNA Typing Unit, Central Forensic Science Laboratory, 30 Gorachand Road, Kolkata 700 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. N." last="Sarkar">B. N. Sarkar</name>
+						<affiliation>Anthropological Survey of India, 27 Jawaharlal Nehru Road, Kolkata 700 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Trivedi">R. Trivedi</name>
+						<affiliation>DNA Typing Unit, Central Forensic Science Laboratory, 30 Gorachand Road, Kolkata 700 014, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2002-10-22</date>
+					<date type="R">2003-11-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Allelic structure and distribution of 103 STR loci in a Southern Tunisian population</title>
+				<feature>Research Note</feature>
+				<page>0065-0071</page>
+				<abstract>
+					<p>Genotypes of 103 short tandem repeat (STR) markers distributed at an average of 40 cM intervals throughout the genome were determined for 40 individuals from the village of BirEl Hfai (BEH). This village of approximately 31.000 individuals is localized in the south-west of Tunisia. The allele frequency distributions in BEH were compared with those obtained for individuals in the CEPH (Centre d’Etude du Polymorphisme Humain) data using a Kolmogorov–Smirnov two-sample test. Fourteen out of the 103 markers (13.2%) showed significant differences ($P\lt 0.05$) in distribution between the two populations. Population heterogeneity in BEH was indicated by an excess of observed homozygosity deviations from Hardy–Weinberg equilibrium at 3 loci ($P\lt 0.0005$). No evidence for genotypic disequilibrium was found for any of the marker pairs. This demonstrated that in spite of a high inbreeding level in the population, few markers showed evidence for a different pattern of allelic distribution compared to CEPH.</p>
+				</abstract>
+				<keywords>microsatellite markers;polymorphism;allele frequency;population studies;disequilibrium.</keywords>
+				<authors>
+					<author>
+						<name first="Abdellatif" last="Maalej">Abdellatif Maalej</name>
+						<affiliation>Laboratoire de Génétique Moléculaire Humaine, Faculté de Médecine, Avenue Majida Boulila, 3029 Sfax, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ahmed" last="Rebai">Ahmed Rebai</name>
+						<affiliation>Unité de bio-informatique, Centre de Biotechnologie de Sfax, B.P. ‘K’, 3038 Sfax,Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Adnen" last="Ayadi">Adnen Ayadi</name>
+						<affiliation>Laboratoire de Génétique Moléculaire Humaine, Faculté de Médecine, Avenue Majida Boulila, 3029 Sfax, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jomaa" last="Jouida">Jomaa Jouida</name>
+						<affiliation>Dispensaire de Bir ElHfai, Sidi Bouzid, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hafedh" last="Makni">Hafedh Makni</name>
+						<affiliation>Laboratoire de Génétique Moléculaire Humaine, Faculté de Médecine, Avenue Majida Boulila, 3029 Sfax, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hammadi" last="Ayadi">Hammadi Ayadi</name>
+						<affiliation>Laboratoire de Génétique Moléculaire Humaine, Faculté de Médecine, Avenue Majida Boulila, 3029 Sfax, Tunisia</affiliation>
+						<email>hammadi.ayadi@fmsf.rnu.tn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-06-09</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Circadian clocks and life-history related traits: is pupation height affected by circadian organization in <i>Drosophila melanogaster</i>?</title>
+				<feature>Research Article</feature>
+				<page>0073-0077</page>
+				<abstract>
+					<p>In <i>D. melanogaster</i>, the observation of greater pupation height under constant darkness than under constant light has been explained by the hypothesis that light has an inhibitory effect on larval wandering behaviour, preventing larvae from crawling higher up the walls of culture vials prior to pupation. If this is the only role of light in affecting pupation height, then various light : dark regimes would be predicted to yield pupation heights intermediate between those seen in constant light and constant darkness. We tested this hypothesis by measuring pupation height under various light : dark regimes in four laboratory populations of <i>Drosophila melanogaster</i>. Pupation height was the greatest in constant darkness, intermediate in constant light, and the least in a light / dark regime of LD 14:14 h. The results clearly suggest that there is more to light regime effects on pupation height than mere behavioural inhibition of wandering larvae, and that circadian organization may play some role in determining pupation height, although the details of this role are not yet clear. We briefly discuss these results in the context of the possible involvement of circadian clocks in life-history evolution.</p>
+				</abstract>
+				<keywords>pupation height;pupariation;life-history evolution;circadian clocks;circadian organization;<i>Drosophila melanogaster.</i></keywords>
+				<authors>
+					<author>
+						<name first="Dhanashree A." last="Paranjpe">Dhanashree A. Paranjpe</name>
+						<affiliation>Chronobiology Laboratory, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Anitha">D. Anitha</name>
+						<affiliation>Chronobiology Laboratory, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vijay Kumar" last="Sharma">Vijay Kumar Sharma</name>
+						<affiliation>Chronobiology Laboratory, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-09-26</date>
+					<date type="R">2004-03-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structural and functional analysis of rice genome</title>
+				<feature>Review article</feature>
+				<page>0079-0099</page>
+				<abstract>
+					<p>Rice is an excellent system for plant genomics as it represents a modest size genome of 430 Mb. It feeds more than half the population of the world. Draft sequences of the rice genome, derived by whole-genome shotgun approach at relatively low coverage (4–6 X), were published and the International Rice Genome Sequencing Project (IRGSP) declared high quality ($\gt 10$ X), genetically anchored, phase 2 level sequence in 2002. In addition, phase 3 level finished sequence of chromosomes 1, 4 and 10 (out of 12 chromosomes of rice) has already been reported by scientists from IRGSP consortium. Various estimates of genes in rice place the number at $\gt 50,000$. Already, over 28,000 full-length cDNAs have been sequenced, most of which map to genetically anchored genome sequence. Such information is very useful in revealing novel features of macro- and micro-level synteny of rice genome with other cereals. Microarray analysis is unraveling the identity of rice genes expressing in temporal and spatial manner and should help target candidate genes useful for improving traits of agronomic importance. Simultaneously, functional analysis of rice genome has been initiated by marker-based characterization of useful genes and employing functional knock-outs created by mutation or gene tagging. Integration of this enormous information is expected to catalyze tremendous activity on basic and applied aspects of rice genomics.</p>
+				</abstract>
+				<keywords>annotation;comparative genomics;functional genomics;genetic mapping;genome sequencing;physical mapping;rice.</keywords>
+				<authors>
+					<author>
+						<name first="Akhilesh K." last="Tyagi">Akhilesh K. Tyagi</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email>akhilesh@genomeindia.org</email>
+					</author>
+					<author>
+						<name first="Jitendra P." last="Khurana">Jitendra P. Khurana</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Paramjit" last="Khurana">Paramjit Khurana</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Saurabh" last="Raghuvanshi">Saurabh Raghuvanshi</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anupama" last="Gaur">Anupama Gaur</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anita" last="Kapur">Anita Kapur</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vikrant" last="Gupta">Vikrant Gupta</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dibyendu" last="Kumar">Dibyendu Kumar</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Ravi">V. Ravi</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shubha" last="Vij">Shubha Vij</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Parul" last="Khurana">Parul Khurana</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sulabha" last="Sharma">Sulabha Sharma</name>
+						<affiliation>Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road, New Delhi 110 021, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>C. C. Li (1912–2003): his science and his spirit</title>
+				<feature>Obituary</feature>
+				<page>0101-0105</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Partha P." last="Majumder">Partha P. Majumder</name>
+						<affiliation>Anthropology and Human Genetics Unit, Indian Statistical Institute, 203 B.T. Road, Kolkata 700 108, India</affiliation>
+						<email>ppm@isical.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>John Maynard Smith (6 January 1920 – 19 April 2004)</title>
+				<feature>Obituary</feature>
+				<page>0107-0108</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary &amp; Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box. 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="08" year="2004">
+			<entry hassup="0">
+				<title>Genetically engineered monogamy in voles lends credence to the <i>modus operandi</i> of behavioural ecology</title>
+				<feature>Research Commentary</feature>
+				<page>0109-0111</page>
+				<abstract />
+				<keywords>voles;monogamy;behavioural ecology;genetics of behaviour;vasopressin;<p>Microtus.</p></keywords>
+				<authors>
+					<author>
+						<name first="Raghavendra" last="Gadagkar">Raghavendra Gadagkar</name>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, P.O. Box 6436, Bangalore 560 064, India</affiliation>
+						<email>ragh@ces.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Benefits of being biased!</title>
+				<feature>Research Commentary</feature>
+				<page>0113-0115</page>
+				<abstract />
+				<keywords>codon bias;alcohol dehydrogenase;Darwinian fitness;<i>Drosophila melanogaster.</i></keywords>
+				<authors>
+					<author>
+						<name first="Sutirth" last="Dey">Sutirth Dey</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary &amp; Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O. Box 6436, Bangalore 560 064, India</affiliation>
+						<email>dey@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chance in our strands?</title>
+				<feature>Perspectives</feature>
+				<page>0117-0119</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Quasar Saleem" last="Padiath">Quasar Saleem Padiath</name>
+						<affiliation>Dept. of Neurology, University of California, 505 Parnassus Ave., Box 0114, San Francisco, Ca., 94143-0114, USA</affiliation>
+						<email>qpadiath@itsa.ucsf.edu</email>
+					</author>
+					<author>
+						<name first="B. Jagadeeshwara" last="Rao">B. Jagadeeshwara Rao</name>
+						<affiliation>Department of Biological Sciences, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>bjrao@tifr.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Sex determining signal in <i>Drosophila melanogaster</i></title>
+				<feature>Commentary on <i>J. Genet.</i> Classic</feature>
+				<page>0121-0123</page>
+				<abstract />
+				<keywords><i>Drosophila</i>;sex determination;X/A ratio;Sex-lethal.</keywords>
+				<authors>
+					<author>
+						<name first="Anuranjan" last="Anand">Anuranjan Anand</name>
+						<affiliation>Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P.O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>anand@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Distribution of Sex-Factors in the X-Chromosome of <i>Drosophila Melanogaster</i></title>
+				<feature><i>J. Genet. classic</i></feature>
+				<page>0125-0162</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Th." last="Dobzhansky">Th. Dobzhansky</name>
+						<affiliation>W. G. Kerckhoff Laboratories of the Biological Sciences, California Institute of Technology, Pasadena</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jack" last="Schultz">Jack Schultz</name>
+						<affiliation>W. G. Kerckhoff Laboratories of the Biological Sciences, California Institute of Technology, Pasadena</affiliation>
+						<affiliation>Carnegie Institution of Washington</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>REML estimates of genetic parameters of sexual dimorphism for wing and thorax length in <i>Drosophila melanogaster</i></title>
+				<feature>Research Article</feature>
+				<page>0163-0170</page>
+				<abstract>
+					<p>Restricted maximum likelihood was used to estimate genetic parameters of male and female wing and thorax length in isofemale lines of <i>Drosophila melanogaster</i>, and results compared to estimates obtained earlier with the classical analysis of variance approach. As parents within an isofemale line were unknown, a total of 500 parental pedigrees were simulated and mean estimates computed. Full and half sibs were distinguished, in contrast to usual isofemale studies in which animals were all treated as half sibs and hence heritability was overestimated. Heritability was thus estimated at 0.33, 0.38, 0.30 and 0.33 for male and female wing length and male and female thorax length, respectively, whereas corresponding estimates obtained using analysis of variance were 0.46, 0.54, 0.35 and 0.38. Genetic correlations between male and female traits were 0.85 and 0.62 for wing and thorax length, respectively. Sexual dimorphism and the ratio of female to male traits were moderately heritable (0.30 and 0.23 for wing length, 0.38 and 0.23 for thorax length). Both were moderately and positively correlated with female traits, and weakly and negatively correlated with male traits. Such heritabilities confirmed that sexual dimorphism might be a fast evolving trait in <i>Drosophila.</i></p>
+				</abstract>
+				<keywords>sexual dimorphism;genetic parameters;body size;restricted maximum likelihood (REML);<i>Drosophila.</i></keywords>
+				<authors>
+					<author>
+						<name first="Sandrine" last="Mignon-Grasteau"></name>
+						<affiliation>Station de Recherches Avicoles, Institut National de la Recherche Agronomique, 37380 Nouzilly, France</affiliation>
+						<email>grasteau@tours.inra.fr</email>
+					</author>
+					<author>
+						<name first="Jean" last="David">Jean David</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 Gif-sur-Yvette Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Patricia" last="Gibert">Patricia Gibert</name>
+						<affiliation>CNRS, Laboratoire Biométrie, Biologie Evolutive, Université de Lyon I, 69622 Villeurbanne Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hélène" last="Legout">Hélène Legout</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 Gif-sur-Yvette Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Georges" last="Pétavy">Georges Pétavy</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 Gif-sur-Yvette Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Brigitte" last="Moreteau">Brigitte Moreteau</name>
+						<affiliation>CNRS, Laboratoire Populations, Génétique et Evolution, 91198 Gif-sur-Yvette Cedex, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Catherine" last="Beaumont">Catherine Beaumont</name>
+						<affiliation>Station de Recherches Avicoles, Institut National de la Recherche Agronomique, 37380 Nouzilly, France</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-02-10</date>
+					<date type="R">2004-06-25</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic and genotype $\times$ environment interaction effects for the content of seven essential amino acids in <i>indica</i> rice</title>
+				<feature>Research Article</feature>
+				<page>0171-0178</page>
+				<abstract>
+					<p>It is necessary for rice breeders to understand the genetic basis of nutrient quality traits of rice. Essential amino acids are most important in determining the nutrient quality of rice grain and can affect the health of people who depend on rice as a staple food. In view of the paucity of genetic information available on essential amino acids in <i>indica</i> rice, we estimated the genetic main effects and genotype $\times$ environment (G $\times$ E) interaction effects on the content of essential amino acids. Nine cytoplasmic male sterile lines as females and five restorer lines as males were introduced in a North Carolina II design across environments. Estimates of the content of the essential amino acids valine, methionine, leucine and phenylalanine showed that they were mainly controlled by genetic main effects, while the contents of threonine, cysteine and isoleucine were mainly affected by G $\times$ E effects. In the case of genetic main effects, both cytoplasmic and maternal genetic effects were predominant for all essential amino acids, indicating that selection for improving essential amino acid content based on maternal performance would be more effective than that based on seeds. The total narrow-sense heritabilities were high and ranged from 0.72 to 0.83. Since general heritabilities for these essential amino acids (except for cysteine) were found to be much larger than G $\times$ E interaction heritability, the improvement of content of most essential amino acids under selection would be expected under various environments. Rice varieties such as Zhenan 3, Yinchao 1, T49, 26715, 102 and 1391 should be selected as optimal parents for increasing the content of most essential amino acids, while the total genetic effects from Zhexie 2, Xieqingzao, Gangchao 1, V20, Zuo 5 and Zhenshan 97 were mainly negative and these parents could decrease the contents of most essential amino acids.</p>
+				</abstract>
+				<keywords>plant breeding;rice (<i>Oryza sativa</i> L.);nutrient quality;essential amino acid;genetic effect;genotype $\times$ environment interaction.</keywords>
+				<authors>
+					<author>
+						<name first="J. G." last="Wu">J. G. Wu</name>
+						<affiliation>Agronomy Department, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou 310029, People's Republic of China</affiliation>
+						<email>jgwu@zju.edu.cn</email>
+					</author>
+					<author>
+						<name first="C. H." last="Shi">C. H. Shi</name>
+						<affiliation>Agronomy Department, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou 310029, People's Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="X. M." last="Zhang">X. M. Zhang</name>
+						<affiliation>Agronomy Department, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou 310029, People's Republic of China</affiliation>
+						<affiliation>Crop Research and Atomic Energy Utilization Institute, Zhejiang Academy of Agricultural Science, Hangzhou 310021, People's Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Katsura">T. Katsura</name>
+						<affiliation>Fukui Agricultural Experiment Station, Fukui 918-8215, Japan</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-02-02</date>
+					<date type="R">2004-06-04</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variation in the relative magnitude of intraspecific and interspecific competitive effects in novel versus familiar environments in two <p>Drosophila</p> species</title>
+				<feature>Research Article</feature>
+				<page>0179-0188</page>
+				<abstract>
+					<p>Models of competitor coevolution, especially the genetic feedback hypothesis, suggest that a negative correlation between intraspecific and interspecific competitive effects may be important in sustaining competitor coexistence, and can give rise to oscillatory dynamics with repeated reversals of competitive superiority. I reanalyzed previously published census data from an experiment in which populations of <i>Drosophila melanogaster</i> and <i>D. simulans</i> underwent competitive coevolution in one familiar and two novel environments, to specifically look for any evidence of a negative relationship between intraspecific and interspecific competitive effects on population growth rates, and for any indication of short period cycling in the relative magnitude of intraspecific and interspecific competitive effects. While there was considerable variation in the relative magnitude of intraspecific and interspecific competitive effects over generations, among both populations and environments, there was no clear evidence supporting the genetic feedback hypothesis. Intraspecific and interspecific competitive effects on population growth rates were strongly positively correlated in novel environments, and uncorrelated in the familiar environment. Data from the familiar environment indicated that indices of competition of populations of the initially superior competitor, <i>D. melanogaster</i>, might be showing some cyclic behaviour, but I argue that this is likely to be transient, and not suggestive of sustained oscillatory dynamics predicted by the genetic feedback model. I discuss the results in the context of the importance of the genetic architecture of intraspecific and interspecific competitive abilities in determining the coevolutionary trajectory of competitive interactions.</p>
+				</abstract>
+				<keywords>intraspecific competition;interspecific competition;competitor coevolution;index of competition;competition coefficient;<i>Drosophila.</i></keywords>
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, P. O. Box 6436, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-07-04</date>
+					<date type="R">2004-07-26</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cytochrome P450c17$\alpha$ 5$'$-untranslated region *T/C polymorphism in endometriosis</title>
+				<feature>Research Article</feature>
+				<page>0189-0192</page>
+				<abstract>
+					<p>Estrogen plays a role in the pathogenesis of endometriosis. The CYP17 gene codes for the cytochrome P450c17$\alpha$ enzyme that is involved in the estrogen biosynthesis. We aimed to investigate if CYP17 polymorphism could be used as marker to predict the susceptibility of endometriosis. Women were divided into two groups:</p>
+					<ol type="arabic">
+						<li>severe endometriosis (n=119);</li>
+						<li>non-endometriosis groups (n=128).</li>
+					</lo>
+					<p>A 169-bp fragment encompassing the T/C polymorphic site in 5$'$-untranslated promoter region ($5'$-UTR) of the CYP17 was amplified by the polymerase chain reaction, treated with restriction enzyme MspA1I, and electrophoresis. The polymorphism was divided into restriction- enzyme indigestible (T homozygote), T/C heterozygote, and digestible (C homozygote). Genotypes and allelic frequencies for this polymorphism in both groups were compared. We observed a higher but non-significant percentage of T homozygote in the endometriosis women compared with the non-endometriosis women. Proportions of T homozygote/heterozygote/C homozygote for CYP17 in both groups were:</p>
+					<ol type="arabic">
+						<li>26.1/46.2/27.7\%\ and</li> 
+						<li>17.2/45.3/37.5\%\ (p- value=0.131).</li>
+					</ol>
+					<p>T allele was related with higher susceptibility of endometriosis. T and C allele frequencies in both groups were:</p>
+					<ol type="arabic">
+						<li>49.2/50.8\%;</li>
+						<li>39.8/60.2\% (p- value=0.046).</li>
+					</ol>
+					<p>Despite the CYP17* T allele appearing to be asscoiatd with a trend of increased risk of endometriosis, CYP17 $5'$-UTR gene polymorphism might not be a useful marker for prediction of endometriosis susceptibility.</p>
+				</abstract>
+				<keywords>cytochrome P450c17 CYP17;endometriosis;single nucleotide polymorphism.</keywords>
+				<authors>
+					<author>
+						<name first="Yao-Yuan" last="Hsieh">Yao-Yuan Hsieh</name>
+						<affiliation>Department of Obstetrics and Gynecology, China Medical University Hospital, No.2 Yuh-Der Road, Taichung, Taiwan</affiliation>
+						<affiliation>Department of Biological Science and Technology, National Chiao Tung University, Hsinchu, Taiwan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chi-Chen" last="Chang">Chi-Chen Chang</name>
+						<affiliation>Department of Obstetrics and Gynecology, China Medical University Hospital, No.2 Yuh-Der Road, Taichung, Taiwan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Fuu-Jen" last="Tsai">Fuu-Jen Tsai</name>
+						<affiliation>Department of Pediatrics and Medical Genetics, China Medical University Hospital, No.2 Yuh-Der Road, Taichung, Taiwan</affiliation>
+						<email>d0704@www.cmuh.org.tw</email>
+					</author>
+					<author>
+						<name first="Cheng-Chieh" last="Lin">Cheng-Chieh Lin</name>
+						<affiliation>Department of Family Medicine, China Medical University Hospital, Taichung, Taiwan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chang-Hai" last="Tsai">Chang-Hai Tsai</name>
+						<affiliation>Department of Pediatrics and Medical Genetics, China Medical University Hospital, No.2 Yuh-Der Road, Taichung, Taiwan</affiliation>
+						<affiliation>Taichung Health Care and Management University, Taichung, Taiwan</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-07-14</date>
+					<date type="R">2004-07-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>PCR-based detection of allergenic mackerel ingredients in seafood</title>
+				<feature>Research Note</feature>
+				<page>0193-0195</page>
+				<abstract />
+				<keywords>Scomber mackerel;allergy;seafood;PCR;genus identification.</keywords>
+				<authors>
+					<author>
+						<name first="Futoshi" last="Aranishi">Futoshi Aranishi</name>
+						<affiliation>Department of Biological and Environmental Sciences, Miyazaki University, Miyazaki 889-2192, Japan</affiliation>
+						<email>aranishi@cc.miyazaki-u.ac.jp</email>
+					</author>
+					<author>
+						<name first="Takane" last="Okimoto">Takane Okimoto</name>
+						<affiliation>Department of Biological and Environmental Sciences, Miyazaki University, Miyazaki 889-2192, Japan</affiliation>
+						<affiliation>Graduate School of Science and Technology, Nagasaki University, Nagasaki 852-8521, Japan</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-05-06</date>
+					<date type="R">2004-05-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Short tandem repeat (STR) polymorphisms in Turkish population</title>
+				<feature>Research Note</feature>
+				<page>0197-0199</page>
+				<abstract />
+				<keywords>forensic science;population genetics;short tandem repeat;polymorphism;human genetics;Turkey.</keywords>
+				<authors>
+					<author>
+						<name first="Üner" last="Ülküer">Üner Ülküer</name>
+						<affiliation>General Directory of Security, Criminal Police Laboratories, Biyoloji Bölümü, Aniteppe, Ankara, Turkey</affiliation>
+						<email>unerulkuer@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Melahat" last="Kurtuluş-Ülküer">Melahat Kurtuluş-Ülküer</name>
+						<affiliation>Gazi University, Kirşehir Education Faculty, Kirşehir, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Cüneyt" last="Elma">Cüneyt Elma</name>
+						<affiliation>General Directory of Security, Criminal Police Laboratories, Biyoloji Bölümü, Aniteppe, Ankara, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tahsin" last="Kesici">Tahsin Kesici</name>
+						<affiliation>Ankara University, Faculty of Agriculture, Biometry-Genetics Unit, Ankara, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sevda" last="Menevşe">Sevda Menevşe</name>
+						<affiliation>Gazi University, Faculty of Medicine, Department of Medical Biology and Genetics, Ankara, Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2003-06-26</date>
+					<date type="R">2004-04-30</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>From fruit flies to fallout: Ed Lewis and his science</title>
+				<feature>Special Feature</feature>
+				<page>0201-0218</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Howard D." last="Lipshitz">Howard D. Lipshitz</name>
+						<affiliation>Program in Developmental Biology, Research Institute, The Hospital for Sick Children, Department of Molecular and Medical Genetics, University of Toronto, 555 University Avenue, Toronto, Ontario M5G 1X8, Canada</affiliation>
+						<email>lipshitz@sickkids.ca</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Edward B Lewis (1918–2004)</title>
+				<feature>Obituary</feature>
+				<page>0219-0219</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="L. S." last="Shashidhara">L. S. Shashidhara</name>
+						<affiliation>Centre for Cellular and Molecular Biology, Hyderabad, 500 007, India</affiliation>
+						<email>shashi@ccmb.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Francis Crick (1916–2004)</title>
+				<feature>Obituary</feature>
+				<page>0221-0221</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Graeme" last="Mitchison">Graeme Mitchison</name>
+						<affiliation>MRC Laboratory of Molecular Biology, Hills Road, Cambridge, CB2 2QH, UK</affiliation>
+						<email>gjm@mrc-lmb.cam.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2004">
+			<entry hassup="0">
+				<title>Discrimination in partnership: compartment-specific interactions of Hox proteins</title>
+				<feature>Research Commentary</feature>
+				<page>0223-0226</page>
+				<abstract />
+				<keywords>Hox proteins;segmentation genes;<i>cis</i>-elements;binding domain;repressor;gene regulation.</keywords>
+				<authors>
+					<author>
+						<name first="K. G." last="Guruharsha">K. G. Guruharsha</name>
+						<affiliation>National Centre for Biological Sciences, Tata Institute of Fundamental Research, GKVK PO, Bangalore 560 065, India</affiliation>
+						<affiliation>Department of Studies in Zoology, University of Mysore, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email>gharsha@ncbs.res.in</email>
+					</author>
+					<author>
+						<name first="K." last="Vijayraghavan">K. Vijayraghavan</name>
+						<affiliation>National Centre for Biological Sciences, Tata Institute of Fundamental Research, GKVK PO, Bangalore 560 065, India</affiliation>
+						<email>vijay@ncbs.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Brain clocks for morning and evening behaviour</title>
+				<feature>Research Commentary</feature>
+				<page>0227-0230</page>
+				<abstract />
+				<keywords>circadian;locomotor activity;morning and evening oscillators;<i>Drosophila.</i></keywords>
+				<authors>
+					<author>
+						<name first="Vijay Kumar" last="Sharma">Vijay Kumar Sharma</name>
+						<affiliation>Chronobiology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>vsharma@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Haldane and the first estimates of the human mutation rate</title>
+				<feature>Commentary on <i>J. Genet.</i> Classic</feature>
+				<page>0231-0233</page>
+				<abstract />
+				<keywords>mutation;haemophilia;mutation–selection balance.</keywords>
+				<authors>
+					<author>
+						<name first="Michael W." last="Nachman">Michael W. Nachman</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, P.O. Box 210088, Biosciences West Bldg, University of Arizona, Tucson, AZ 85721, USA</affiliation>
+						<email>nachman@u.arizona.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Rate of Spontaneous Mutation of a Human Gene.</title>
+				<feature><i>J. Gent. classic</i></feature>
+				<page>0235-0244</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. B. S." last="Haldane">J. B. S. Haldane</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>DNA marker mining of ILSTS035 microsatellite locus on chromosome 6 of Hanwoo cattle</title>
+				<feature>Research Article</feature>
+				<page>0245-0250</page>
+				<abstract>
+					<p>We describe tests for detecting and locating quantitative trait loci (QTL) for traits in Hanwoo cattle. From results of a permutation test to detect QTL for marbling, we selected the microsatellite locus ILSTS035 on chromosome 6 for further analysis. $K$-means clustering analysis applied to five traits and nine DNA markers in ILSTS035 resulted in three cluster groups. Finally we employed the bootstrap test method to calculate confidence intervals using the resampling method to find major DNA markers. We conclude that the major markers of ILSTS035 locus on chromosome 6 of Hanwoo cattle are markers 235 bp and 266 bp.</p>
+				</abstract>
+				<keywords>LOD score;QTL;permutation test;$K$-means clustering;bootstrap method.</keywords>
+				<authors>
+					<author>
+						<name first="Jung-Sou" last="Yeo">Jung-Sou Yeo</name>
+						<affiliation>Department of Animal Science, Yeungnam University, Gyeongsan, Gyeongbuk 712-749, Korea</affiliation>
+						<affiliation>Institute of Biotechnology, Yeungnam University, Gyeongsan, Gyeongbuk 712-749, Korea</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jea-Young" last="Lee">Jea-Young Lee</name>
+						<affiliation>Department of Statistics, Yeungnam University, Gyeongsan, Gyeongbuk 712-749, Korea</affiliation>
+						<email>jlee@yu.ac.kr</email>
+					</author>
+					<author>
+						<name first="Jae-Woo" last="Kim">Jae-Woo Kim</name>
+						<affiliation>Institute of Biotechnology, Yeungnam University, Gyeongsan, Gyeongbuk 712-749, Korea</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-04-30</date>
+					<date type="R">2004-10-04</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Excess of counterclockwise scalp hair-whorl rotation in homosexual men</title>
+				<feature>Research Article</feature>
+				<page>0251-0255</page>
+				<abstract>
+					<p>While most men prefer women as their sexual partners, some are bisexual and others are homosexuals. It has been debated for a long time whether a person’s sexual preference is innate, learned, or due to a combination of both causes. It was recently discovered that the human right-versus-left-hand use preference and the direction of scalp hair-whorl rotation develop from a common genetic mechanism. Such a mechanism controls functional specialization of brain hemispheres. Whether the same mechanism specifying mental makeup influences sexual preference was determined here by comparing hair-whorl rotation in groups enriched with homosexual men with that in males at large. Only a minority of 8.2\%\ ($n = 207$) unselected ‘control’ group of males had counterclockwise rotation. In contrast, all three samples enriched with homosexual men exhibited highly significant ($P \lt 0.0001$), 3.6-fold excess (29.8\%, $n = 272$) counterclockwise rotation. These results suggest that sexual preference may be influenced in a significant proportion of homosexual men by a biological/genetic factor that also controls direction of hair-whorl rotation.</p>
+				</abstract>
+				<keywords>sexual orientation;homosexuality;human behaviour;hair-whorl orientation;behaviour biology.</keywords>
+				<authors>
+					<author>
+						<name first="Amar J. S." last="Klar">Amar J. S. Klar</name>
+						<affiliation>Ijamsville, MD 21754, USA</affiliation>
+						<email>amar.klar@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-08-02</date>
+					<date type="R">2004-09-30</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cloning of a novel gene, <i>Cymg1</i>, related to family 2 cystatins and expressed at specific stages of mouse testis development</title>
+				<feature>Research Article</feature>
+				<page>0257-0263</page>
+				<abstract>
+					<p>We have cloned a novel gene, <i>Cymg1</i> (GenBank accession number AY600990), from a mouse testis cDNA library. <i>Cymg1</i> is located in 2G3 of mouse chromosome 2. The cDNA includes an open reading frame that encodes 141 amino acid residues. The encoded polypeptide has a cysteine protease inhibitor domain found in the family 2 cystatins but lacks critical consensus sites important for cysteine protease inhibition. These characteristics are seen in the proteins of the CRES subfamily of the family 2 cystatins which are expressed specifically in the reproductive tract. CYMG1 protein shows 44\%\ identity with mouse CRES and 30\%\ identity with mouse cystatin C. Northern blot analysis showed that the <i>Cymg1</i> gene was specifically expressed in adult mouse testis. RT-PCR also showed that <i>Cymg1</i> was expressed in testis and spermatogonial cells. <i>Cymg1</i> expression level varied in the different developmental stages of mouse testis, and were coincidental with spermatogenesis and sex maturation. These results indicate that <i>Cymg1</i> may play important roles in mouse spermatogenesis and sex maturation</p>
+				</abstract>
+				<keywords>cystatins;gene cloning;testis;spermatogenesis;sex maturation.</keywords>
+				<authors>
+					<author>
+						<name first="Y." last="Xiang">Y. Xiang</name>
+						<affiliation>Human Reproductive and Stem Cell Engineering Institute, Central South University, Changsha 410078, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. S." last="Nie">D. S. Nie</name>
+						<affiliation>Human Reproductive and Stem Cell Engineering Institute, Central South University, Changsha 410078, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. X." last="Lu">G. X. Lu</name>
+						<affiliation>Human Reproductive and Stem Cell Engineering Institute, Central South University, Changsha 410078, People’s Republic of China</affiliation>
+						<email>lgxdirector@sina.com.cn;lgxdirector@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-08-27</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantitative genetics of functional characters in <i>Drosophila melanogaster</i> populations subjected to laboratory selection</title>
+				<feature>Research Article</feature>
+				<page>0265-0277</page>
+				<abstract>
+					<p>What are the genetics of phenotypes other than fitness, in outbred populations? To answer this question, the quantitative-genetic basis of divergence was characterized for outbred <i>Drosophila melanogaster</i> populations that had previously undergone selection to enhance characters related to fitness. Line-cross analysis using first-generation and second-generation hybrids from reciprocal crosses was conducted for two types of cross, each replicated fivefold. One type of cross was between representatives of the ancestral population, a set of five populations maintained for several hundred generations on a two-week discrete-generation life cycle and a set of five populations adapted to starvation stress. The other type of cross was between the same set of ancestral-representative populations and another set of five populations selected for accelerated development from egg to egg. Developmental time from egg to eclosion, starvation resistance, dry body weight and fecundity at day 14 from egg were fit to regression models estimating single-locus additive and dominant effects, maternal and paternal effects, and digenic additive and dominance epistatic effects. Additive genetic variation explained most of the differences between populations, with additive maternal and cytoplasmic effects also commonly found. Both within-locus and between-locus dominance effects were inferred in some cases, as well as one instance of additive epistasis. Some of these effects may have been caused by linkage disequilibrium. We conclude with a brief discussion concerning the relationship of the genetics of population differentiation to adaptation.</p>
+				</abstract>
+				<keywords>line-cross analysis;epistasis;dominance;adaptation;experimental evolution;reverse evolution;life-history evolution;quantitative genetics;<i>Drosophila.</i></keywords>
+				<authors>
+					<author>
+						<name first="Henrique" last="Teotónio">Henrique Teotónio</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<affiliation>Present address: Centro de Biologia do Desenvolvimento, Instituto Gulbenkian de Ciência, Rua da Quinta Grande 6, 2780-156 Oeiras, Portugal</affiliation>
+						<email>teotonio@igc.gulbenkian.pt</email>
+					</author>
+					<author>
+						<name first="Margarida" last="Matos">Margarida Matos</name>
+						<affiliation>Centro de Biologia Ambiental, Dep. Biologia Animal, Faculdade de Ciências da Universidade de Lisboa, 1749-016 Campo Grande Lisboa, Portugal</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Michael R." last="Rose">Michael R. Rose</name>
+						<affiliation>Department of Ecology and Evolutionary Biology, University of California, Irvine, CA 92697-2525, USA</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-10-11</date>
+					<date type="R">2004-11-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Abnormal pollen mitoses (PM I and PM II) in an interspecific hybrid of <i>Brachiaria ruziziensis</i> and <i>Brachiaria decumbens</i> (Gramineae)</title>
+				<feature>Research Note</feature>
+				<page>0279-0283</page>
+				<abstract />
+				<keywords><i>Brachiaria decumbens</i>;<i>Brachiaria ruziziensis</i>;interspecific hybrid;pollen mitosis;pollen sterility.</keywords>
+				<authors>
+					<author>
+						<name first="Andréa Beatriz" last="Mendes-Bonato">Andréa Beatriz Mendes-Bonato</name>
+						<affiliation>Department of Cell Biology and Genetics, State University of Maringá, 87020-900 Maringá PR, Brazil</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Maria Suely" last="Pagliarini">Maria Suely Pagliarini</name>
+						<affiliation>Department of Cell Biology and Genetics, State University of Maringá, 87020-900 Maringá PR, Brazil</affiliation>
+						<email>mspagliarini@uem.br</email>
+					</author>
+					<author>
+						<name first="Cacilda Borges Do" last="Valle">Cacilda Borges Do Valle</name>
+						<affiliation>Embrapa Beef Cattle, P.O. Box 154, 79002-970 Campo Grande MS, Brazil</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Liana" last="Jank">Liana Jank</name>
+						<affiliation>Embrapa Beef Cattle, P.O. Box 154, 79002-970 Campo Grande MS, Brazil</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-04-08</date>
+					<date type="R">2004-10-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Research Note</feature>
+				<page>0285-0289</page>
+				<abstract />
+				<keywords><p>Klebsiella</p>;$\beta$-glucosides;EMS mutagenesis;phenyl $\beta$-D-glucopyranoside.</keywords>
+				<authors>
+					<author>
+						<name first="Tirumalai R." last="Raghunand">Tirumalai R. Raghunand</name>
+						<affiliation>Department of Molecular Reproduction, Development and Genetics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Center for TB Research, Johns Hopkins University School of Medicine, 1503 E Jefferson Street, Baltimore, MD 21231-1001, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Mahadevan">S. Mahadevan</name>
+						<affiliation>Department of Molecular Reproduction, Development and Genetics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>mahi@mrdg.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-07-18</date>
+					<date type="R">2004-10-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic characterization of Indian Spiti horses</title>
+				<feature>Research Note</feature>
+				<page>0291-0295</page>
+				<abstract />
+				<keywords>microsatellite;genetic variability;Spiti horse.</keywords>
+				<authors>
+					<author>
+						<name first="Mamta" last="Chauhan">Mamta Chauhan</name>
+						<affiliation>National Research Centre on Equines, Sirsa Road, Hisar 125 001, India</affiliation>
+						<email>mamtachauhan@scientist.com</email>
+					</author>
+					<author>
+						<name first="A. K." last="Gupta">A. K. Gupta</name>
+						<affiliation>National Research Centre on Equines, Sirsa Road, Hisar 125 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Dhillon">S. Dhillon</name>
+						<affiliation>Department of Biotechnology, Chaudhary Charan Singh Haryana Agriculture University, Hisar 125 001, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-09-13</date>
+					<date type="R">2004-10-27</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="084">
+		<issue inum="01" month="04" year="2005">
+			<entry hassup="0">
+				<title>Editorial</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A family tree in every gene</title>
+				<feature>Invited Editorial</feature>
+				<page>0003-0006</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Armand Marie" last="Leroi">Armand Marie Leroi</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Strategic analysis in evolutionary genetics and the theory of games</title>
+				<feature>Perspectives</feature>
+				<page>0007-0012</page>
+				<abstract />
+				<keywords>John Maynard Smith;game theory;evolutionarily stable strategy;population genetics;genetic constraint;phenotypic evolution.</keywords>
+				<authors>
+					<author>
+						<name first="Peter" last="Hammerstein">Peter Hammerstein</name>
+						<affiliation>Institute for Theoretical Biology, Humboldt University Berlin, Invalidenstrasse 43, D-10115 Berlin, Germany</affiliation>
+						<email>p.hammerstein@biologie.hu-berlin.de</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Inbreeding and sex: canalization, plasticity and sexual selection</title>
+				<feature>Commentary on <i>J. Genet.</i> Classic</feature>
+				<page>0013-0015</page>
+				<abstract />
+				<keywords>canalization;adaptive plasticity;inbreeding;courtship;fertility;fecundity;mate choice;<i>Drosophila subobscura.</i></keywords>
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fertility, Mating Behaviour and Sexual Selection in <i>Drosophila Subobscura</i></title>
+				<feature><i>J. Genet. classic</i></feature>
+				<page>0017-0035</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. Maynard" last="Smith">J. Maynard Smith</name>
+						<affiliation>Department of Zoology, University College London</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Acclimatization to High Temperatures in Inbred and Outbred <i>Drosophila Subobscura</i></title>
+				<feature><i>J. Genet. classic</i></feature>
+				<page>0037-0045</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. Maynard" last="Smith"></name>
+						<affiliation>Department of Zoology, University College London</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Coincident natural selection of CCR5$\Delta$32 and C282Y in Europe: to be or not to be?</title>
+				<feature>Hypothesis</feature>
+				<page>0047-0048</page>
+				<abstract />
+				<keywords>CCR5$\Delta$32;C282Y;natural selection;Black Death;plague.</keywords>
+				<authors>
+					<author>
+						<name first="Marjan" last="Gharagozloo">Marjan Gharagozloo</name>
+						<affiliation>Department of Immunology, Shiraz University of Medical Sciences, P.O. Box 71345 1798, Shiraz, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abbas" last="Ghaderi">Abbas Ghaderi</name>
+						<affiliation>Department of Immunology, Shiraz University of Medical Sciences, P.O. Box 71345 1798, Shiraz, Iran</affiliation>
+						<email>gharagozlo@sums.ac.ir;ghaderia@sums.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-11-30</date>
+					<date type="R">2005-02-09</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Exact Tandem Repeats Analyzer (E-TRA): A new program for DNA sequence mining</title>
+				<feature>Research Article</feature>
+				<page>0049-0054</page>
+				<abstract>
+					<p>Exact Tandem Repeats Analyzer 1.0 (E-TRA) combines sequence motif searches with keywords such as ‘organs’, ‘tissues’, ‘cell lines’ and ‘development stages’ for finding simple exact tandem repeats as well as non-simple repeats. E-TRA has several advanced repeat search parameters/options compared to other repeat finder programs as it not only accepts GenBank, FASTA and expressed sequence tags (EST) sequence files, but also does analysis of multiple files with multiple sequences. The minimum and maximum tandem repeat motif lengths that E-TRA finds vary from one to one thousand. Advanced user defined parameters/options let the researchers use different minimum motif repeats search criteria for varying motif lengths simultaneously. One of the most interesting features of genomes is the presence of relatively short tandem repeats (TRs). These repeated DNA sequences are found in both prokaryotes and eukaryotes, distributed almost at random throughout the genome. Some of the tandem repeats play important roles in the regulation of gene expression whereas others do not have any known biological function as yet. Nevertheless, they have proven to be very beneficial in DNA profiling and genetic linkage analysis studies. To demonstrate the use of E-TRA, we used 5,465,605 human EST sequences derived from 18,814,550 GenBank EST sequences. Our results indicated that 12.44\%\ (679,800) of the human EST sequences contained simple and non-simple repeat string patterns varying from one to 126 nucleotides in length. The results also revealed that human organs, tissues, cell lines and different developmental stages differed in number of repeats as well as repeat composition, indicating that the distribution of expressed tandem repeats among tissues or organs are not random, thus differing from the un-transcribed repeats found in genomes.</p>
+				</abstract>
+				<keywords>expressed sequence tag (EST);motifs;simple sequence repeats (SSR);bioinformatics;Exact Tandem Repeats Analyzer.</keywords>
+				<authors>
+					<author>
+						<name first="Mehmet" last="Karaca">Mehmet Karaca</name>
+						<affiliation>Akdeniz University, Faculty of Agriculture, 07059 Antalya, Turkey</affiliation>
+						<email>mkaraca@akdeniz.edu.tr</email>
+					</author>
+					<author>
+						<name first="Mehmet" last="Bilgen">Mehmet Bilgen</name>
+						<affiliation>Akdeniz University, Faculty of Agriculture, 07059 Antalya, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Naci" last="Onus">A. Naci Onus</name>
+						<affiliation>Akdeniz University, Faculty of Agriculture, 07059 Antalya, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ayse Gul" last="Ince">Ayse Gul Ince</name>
+						<affiliation>Akdeniz University, Faculty of Agriculture, 07059 Antalya, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Safinaz Y." last="Elmasulu">Safinaz Y. Elmasulu</name>
+						<affiliation>Akdeniz University, Faculty of Agriculture, 07059 Antalya, Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-09-25</date>
+					<date type="R">2005-01-12</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Comparative studies on codon usage pattern of chloroplasts and their host nuclear genes in four plant species</title>
+				<feature>Research Article</feature>
+				<page>0055-0062</page>
+				<abstract>
+					<p>A detailed comparison was made of codon usage of chloroplast genes with their host (nuclear) genes in the four angiosperm species <i>Oryza sativa, Zea mays, Triticum aestivum</i> and <i>Arabidopsis thaliana</i>. The average GC content of the entire genes, and at the three codon positions individually, was higher in nuclear than in chloroplast genes, suggesting different genomic organization and mutation pressures in nuclear and chloroplast genes. The results of Nc-plots and neutrality plots suggested that nucleotide compositional constraint had a large contribution to codon usage bias of nuclear genes in <i>O. sativa, Z. mays,</i> and <i>T. aestivum</i>, whereas natural selection was likely to be playing a large role in codon usage bias in chloroplast genomes. Correspondence analysis and chi-test showed that regardless of the genomic environment (species) of the host, the codon usage pattern of chloroplast genes differed from nuclear genes of their host species by their AU-richness. All the chloroplast genomes have predominantly A- and/or U-ending codons, whereas nuclear genomes have G-, C- or U-ending codons as their optimal codons. These findings suggest that the chloroplast genome might display particular characteristics of codon usage that are different from its host nuclear genome. However, one feature common to both chloroplast and nuclear genomes in this study was that pyrimidines were found more frequently than purines at the synonymous codon position of optimal codons.</p>
+				</abstract>
+				<keywords>codon usage;bioinformatics;chloroplast;plant;genome.</keywords>
+				<authors>
+					<author>
+						<name first="Qingpo" last="Liu">Qingpo Liu</name>
+						<affiliation>Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, 310 029, Hangzhou, China</affiliation>
+						<email>liuqp@genomics.org.cn</email>
+					</author>
+					<author>
+						<name first="Qingzhong" last="Xue">Qingzhong Xue</name>
+						<affiliation>Department of Agronomy, College of Agriculture and Biotechnology, Zhejiang University, 310 029, Hangzhou, China</affiliation>
+						<email>qzhxue@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-09-06</date>
+					<date type="R">2005-01-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mutational analysis of the <i>BRCA1</i> gene in 30 Czech ovarian cancer patients</title>
+				<feature>Research Article</feature>
+				<page>0063-0067</page>
+				<abstract>
+					<p>Ovarian cancer is one of the most severe of oncological diseases. Inherited mutations in cancer susceptibility genes play a causal role in 5–10\%\ of newly diagnosed tumours. <i>BRCA1</i> and <i>BRCA2</i> gene alterations are found in the majority of these cases. The aim of this study was to analyse the <i>BRCA1</i> gene in the ovarian cancer risk group to characterize the spectrum of its mutations in the Czech Republic. Five overlapping fragments amplified on both genomic DNA and cDNA were used to screen for the whole protein-coding sequence of the <i>BRCA1</i> gene. These fragments were analysed by the protein truncation test (PTT) and direct sequencing. Three inactivating mutations were identified in the group of 30 Czech ovarian cancer patients: the 5382insC mutation in two unrelated patients and a deletion of exons 21 and 22 in another patient. In addition, we have found an alternatively spliced product lacking exon 5 in two other unrelated patients. The 5382insC is the most frequent alteration of the <i>BRCA1</i> gene in Central and Eastern Europe. The deletion of exons 21 and 22 affects the BRCT functional domain of the BRCA1 protein. Although large genomic rearragements are known to be relatively frequent in Western European populations, no analyses have been performed in our region yet.</p>
+				</abstract>
+				<keywords><i>BRCA1</i> gene;ovarian cancer;mutational analysis;protein truncation test;direct sequencing.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Zikan">M. Zikan</name>
+						<affiliation>Department of Biochemistry and Experimental Oncology, 1st Faculty of Medicine, Charles University, U Nemocnice 5, 12853 Prague 2, Czech Republic</affiliation>
+						<email>michal.zikan@lf1.cuni.cz</email>
+					</author>
+					<author>
+						<name first="P." last="Pohlreich">P. Pohlreich</name>
+						<affiliation>Department of Biochemistry and Experimental Oncology, 1st Faculty of Medicine, Charles University, U Nemocnice 5, 12853 Prague 2, Czech Republic</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Stribrna">J. Stribrna</name>
+						<affiliation>Department of Biochemistry and Experimental Oncology, 1st Faculty of Medicine, Charles University, U Nemocnice 5, 12853 Prague 2, Czech Republic</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-02-20</date>
+					<date type="R">2004-12-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title><i>JP-3</i> gene polymorphism in a healthy population of Serbia and Montenegro</title>
+				<feature>Research Article</feature>
+				<page>0069-0071</page>
+				<abstract />
+				<keywords>junctophilin-3;polymorphism;HD-like phenotype;DNA analyses.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Keckarević">M. Keckarević</name>
+						<affiliation>Faculty of Biology, University of Belgrade, Studentski trg 16, P.O. Box 52, Belgrade 11000, Serbia and Montenegro</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Savić">D. Savić</name>
+						<affiliation>Faculty of Biology, University of Belgrade, Studentski trg 16, P.O. Box 52, Belgrade 11000, Serbia and Montenegro</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Romac">S. Romac</name>
+						<affiliation>Faculty of Biology, University of Belgrade, Studentski trg 16, P.O. Box 52, Belgrade 11000, Serbia and Montenegro</affiliation>
+						<email>stanka@bf.bio.bg.ac.yu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-03-08</date>
+					<date type="R">2004-12-09</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chromosomal localization of autosomal mutations in <i>Drosophila nasuta nasuta</i> and <i>Drosophila nasuta albomicans</i></title>
+				<feature>Research Note</feature>
+				<page>0073-0076</page>
+				<abstract />
+				<keywords><i>Drosophila nasuta nasuta</i>;<i>D. n. albomicans</i>;autosomal mutations;chromosomal localization.</keywords>
+				<authors>
+					<author>
+						<name first="J. S." last="Ashadevi">J. S. Ashadevi</name>
+						<affiliation>Drosophila Stock Centre, Department of Studies in Zoology, University of Mysore, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. R." last="Ramesh">S. R. Ramesh</name>
+						<affiliation>Drosophila Stock Centre, Department of Studies in Zoology, University of Mysore, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email>srramesh2000@yahoo.com;srramesh54@rediffmail.com.</email>
+					</author>
+					<author>
+						<name first="W.-E." last="Kalisch">W.-E. Kalisch</name>
+						<affiliation>Institut für Genetik, Ruhr Universität Bochum, D-44780 Bochum 1, Germany</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-07-12</date>
+					<date type="R">2005-01-03</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic diversity analysis of five cattle breeds native to China using microsatellites</title>
+				<feature>Research Note</feature>
+				<page>0077-0080</page>
+				<abstract />
+				<keywords>China native cattle;genetic diversity;microsatellite markers;population genetics.</keywords>
+				<authors>
+					<author>
+						<name first="Guo Li" last="Zhou">Guo Li Zhou</name>
+						<affiliation>College of life Science, Liaocheng University, Liaocheng 252 059, People’s Republic of China</affiliation>
+						<email>glzhou@lctu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Hai Guo" last="Jin">Hai Guo Jin</name>
+						<affiliation>Branch of Animal Husbandry, Jilin Academy of Agricultural Sciences, Gongzhuling 136 100, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qi" last="Zhu">Qi Zhu</name>
+						<affiliation>College of life Science, Liaocheng University, Liaocheng 252 059, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shan Li" last="Guo">Shan Li Guo</name>
+						<affiliation>College of life Science, Liaocheng University, Liaocheng 252 059, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yu Hou" last="Wu">Yu Hou Wu</name>
+						<affiliation>College of life Science, Liaocheng University, Liaocheng 252 059, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-12-07</date>
+					<date type="R">2005-01-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Orchid flower evolution</title>
+				<feature>Research Note</feature>
+				<page>0081-0084</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="J. D." last="Rajkumari">J. D. Rajkumari</name>
+						<affiliation>AVRC, Manipur University, Canchipur 795 003, Manipur</affiliation>
+						<affiliation>Life Sciences Department, Manipur University, Canchipur 795 003, Manipur</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. S." last="Longjam">R. S. Longjam</name>
+						<affiliation>AVRC, Manipur University, Canchipur 795 003, Manipur</affiliation>
+						<email>rslongj@sancharnet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2004-10-20</date>
+					<date type="R">2004-12-29</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hampton Lawrence Carson (5 November 1914 – 13 December 2004)</title>
+				<feature>Obituary</feature>
+				<page>0085-0086</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Amitabh" last="Joshi">Amitabh Joshi</name>
+						<affiliation>Evolutionary Biology Laboratory, Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India.</affiliation>
+						<email>ajoshi@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ernst Mayr (1904–2005)</title>
+				<feature>Obituary</feature>
+				<page>0087-0089</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Raghavendra" last="Gadagkar">Raghavendra Gadagkar</name>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India</affiliation> 
+						<affiliation>Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India.</affiliation>
+						<email>ragh@ces.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>80 years of watching the evolutionary scenery</title>
+				<feature></feature>
+				<page>0091-0093</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Ernst" last="Mayr">Ernst Mayr</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Erratum</title>
+				<feature>Erratum</feature>
+				<page>0094-0094</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="08" year="2005">%raghu, vol 84
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
 				<page>0000-0000</page>
 				<abstract>
 					<p></p>
@@ -2336,15 +4324,17 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2002-00-00</date>
+					<date type="M">2000-00-00</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
+		</issue>
+		<issue inum="03" month="12" year="2005">
 			<entry hassup="0">
 				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<feature></feature>
 				<page>0000-0000</page>
 				<abstract>
 					<p></p>
@@ -2358,15 +4348,19 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2002-00-00</date>
+					<date type="M">2000-00-00</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
+		</issue>
+	</volume>
+	<volume vnum="085">
+		<issue inum="00" month="00" year="2000">
 			<entry hassup="0">
 				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
+				<feature></feature>
 				<page>0000-0000</page>
 				<abstract>
 					<p></p>
@@ -2380,139 +4374,7 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2002-00-00</date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2002-00-00</date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2002-00-00</date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2002-00-00</date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2002-00-00</date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2002-00-00</date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Special issue - Evolutionary genetics: the Drosophila model</feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2002-00-00</date>
+					<date type="M">2000-00-00</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
