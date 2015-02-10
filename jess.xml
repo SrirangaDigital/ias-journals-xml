@@ -9967,6 +9967,477 @@
 				</dates>
 			</entry>
 		</issue>
+		<issue inum="05" month="10" year="2007">
+			<entry hassup="0">
+				<title>Current status of multimodel superensemble and operational NWP forecast of the Indian summer monsoon</title>
+				<feature></feature>
+				<page>0369-0384</page>
+				<abstract>
+					<p>In the last thirty years great strides have been made by large-scale operational numerical weather prediction models towards improving skills for the medium range time-scale of 7 days.This paper illustrates the use of these current forecasts towards the construction of a consensus multimodel forecast product called the superensemble.This procedure utilizes 120 of the recent-past forecasts from these models to arrive at the training phase statistics.These statistics are described by roughly $10^7$ weights.Use of these weights provides the possibility for real-time medium range forecasts with the superensemble.We show the recent status of this procedure towards real-time forecasts for the Asian summer monsoon.The member models of our suite include ECMWF,NCEP/EMC, JMA,NOGAPS (US Navy),BMRC,RPN (Canada)and an FSU global spectral forecast model. We show in this paper the skill scores for day 1 through day 6 of forecasts from standard variables such as winds,temperature,500 hPa geopotential height,sea level pressure and precipitation.In all cases we noted that the superensemble carries a higher skill compared to each of the member models and their ensemble mean.The skill matrices we use include the RMS errors,the anomaly correlations and equitable threat scores.For many of these forecasts the improvements of skill for the superensemble over the best model was found to be quite substantial.This real-time product is being provided to many interested research groups.The FSU multimodel superensemble,in real- time,stands out for providing the least errors among all of the operational large scale models.</p>
+				</abstract>
+				<keywords>Monsoon forecast;ensemble modeling for monsoon;inspiring monsoon forecast beyond operational skills.</keywords>
+				<authors>
+					<author>
+						<name first="Akhilesh Kumar" last="Mishra">Akhilesh Kumar Mishra</name>
+						<affiliation>Department of Meteorology, Florida State University, Tallahassee, Florida 32306, USA.</affiliation>
+						<email>akhil@io.met.fsu.edu</email>
+					</author>
+					<author>
+						<name first="T. N." last="Krishnamurti">T. N. Krishnamurti</name>
+						<affiliation>Department of Meteorology, Florida State University, Tallahassee, Florida 32306, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-03-20</date>
+					<date type="R">2007-03-10</date>
+					<date type="A">2007-03-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Link between convection and meridional gradient of sea surface temperature in the Bay of Bengal</title>
+				<feature></feature>
+				<page>0385-0406</page>
+				<abstract>
+					<p>We use daily satellite estimates of sea surface temperature (SST)and rainfall during 1998 –2005 to show that onset of convection over the central Bay of Bengal ($88--92^\circ E,14--18^\circ N$)during the core summer monsoon (mid-May to September)is linked to the meridional gradient of SST in the bay.The SST gradient was computed between two boxes in the northern ($88--92^\circ E,18--22^\circ N$) and southern ($82--88^\circ E,4--8^\circ N$)bay;the latter is the area of the cold tongue in the bay linked to the Summer Monsoon Current.Convection over central bay followed the SST difference between the northern and southern bay ($\Delta \textit {T} $) exceeding $0.75^\circ C$ in 28 cases.There was no instance of $\Delta \textit {T}$ exceeding this threshold without a burst in convection.There were,however,ﬁve instances of convection occurring without this SST gradient.Long rainfall events (events lasting more than a week)were associated with an SST event ($\Delta \textit {T} \geq 0.75^\circ C$);rainfall events tended to be short when not associated with an SST event.The SST gradient was important for the onset of convection, but not for its persistence:convection often persisted for several days even after the SST gradient weakened.The lag between $\Delta \textit {T}$ exceeding $0.75^\circ C$ and the onset of convection was 0--18 days,but the lag histogram peaked at one week.In 75% of the 28 cases,convection occurred within a week of $\Delta \textit {T}$ exceeding the threshold of $0.75^\CIRC C$. The northern bay SST,\textit {T_N} contributed more to $\Delta \textit {T}$ but it was a weaker criterion for convection than the SST gradient.A sensitivity analysis showed that the corresponding threshold for \textit {T_N} was $29^\circ C$. We hypothesise that the excess heating ($\sim 1^\circ C$ above the threshold for deep convection)required in the northern bay to trigger convection is because this excess in SST is what is required to establish the critical SST gradient.</p>
+				</abstract>
+				<keywords>Southwest monsoon;Indian summer monsoon;sea surface temperature gradient;ITCZ;Summer Monsoon Current;Southwest Monsoon Current;Tropical Convergence Zone;Indian Ocean.</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Shankar">D. Shankar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+						<email>shankar@nio.org</email>
+					</author>
+					<author>
+						<name first="S. R." last="Shetye">S. R. Shetye</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. V." last="Joseph">P. V. Joseph</name>
+						<affiliation>Department of Atmospheric Sciences, Cochin University of Science & Technology, Kochi 682 016, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-08-25</date>
+					<date type="R">2007-04-10</date>
+					<date type="A">2007-05-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>GPS satellite and receiver instrumental biases estimation using least squares method for accurate ionosphere modelling</title>
+				<feature></feature>
+				<page>0407-0411</page>
+				<abstract>
+					<p>The positional accuracy of the Global Positioning System (GPS)is limited due to several error sources.The major error is ionosphere.By augmenting the GPS,the Category I (CAT  I)Precision Approach (PA)requirements can be achieved.The Space-Based Augmentation System (SBAS)in India is known as GPS Aided Geo Augmented Navigation (GAGAN).One of the prominent errors in GAGAN that limits the positional accuracy is instrumental biases.Calibration of these biases is particularly important in achieving the CAT I PA landings.In this paper,a new algorithm is proposed to estimate the instrumental biases by modelling the TEC using 4th order polynomial.The algorithm uses values corresponding to a single station for one month period and the results conﬁrm the validity of the algorithm.The experimental results indicate that the estimation precision of the satellite-plus-receiver instrumental bias is of the order of $\pm 0.17 nsec$.The observed mean bias error is of the order − 3.638 nsec and − 4.71 nsec for satellite 1 and 31 respectively.It is found that results are consistent over the period.</p>
+				</abstract>
+				<keywords>Instrumental biases;Global Positioning System;GPS Aided Geo Augmented Navigation;Space-Based Augmentation System.</keywords>
+				<authors>
+					<author>
+						<name first="G. Sasibhushana" last="Rao">G. Sasibhushana Rao</name>
+						<affiliation>University College of Engineering, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+						<email>sasi gps@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-12-28</date>
+					<date type="R">2007-05-16</date>
+					<date type="A">2007-05-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Strike slip faulting inferred from offsetting of drainages: Lower Narmada basin, western India</title>
+				<feature></feature>
+				<page>0413-0421</page>
+				<abstract>
+					<p>The detailed analysis of landforms,drainages and geology of the area between the rivers Amaravati and Karjan was carried out in order to understand the tectonic history of the lower Narmada basin. Movement along the various faults in the area was studied on the basis of the drainage offsetting. Horizontal offsetting of stream channels was found quite demonstrable along NNW –SSE trending transverse faults.Tectonic landforms including systematic de ﬂection of stream channels and ridges, alignment of fault scarp and saddles and displacement in the basement rocks and alluvial deposits show that the area is undergoing active deformation driven by the NSF system.</p>
+				</abstract>
+				<keywords>Strike slip faulting;drainage offsetting;active tectonism;lower Narmada basin.</keywords>
+				<authors>
+					<author>
+						<name first="Rachna" last="Raj">Rachna Raj</name>
+						<affiliation>Department of Geology, Faculty of Science, M. S. University of Baroda, Vadodara 390 002, India.</affiliation>
+						<email>naveenrachna@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-09-22</date>
+					<date type="R">2007-02-16</date>
+					<date type="A">2007-04-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Polyphase deformation and garnet growth in politic schists of Sausar Group in Ramtek area, Maharashtra, India: A study of porphyroblast–matrix relationship</title>
+				<feature></feature>
+				<page>0423-0432</page>
+				<abstract>
+					<p>Polyphase deformation and metamorphism of pelitic schists of Chorbaoli Formation of Sausar Group in and around Ramtek area,Nagpur district,Maharashtra,India has led to the development of garnet and staurolite porphyroblasts in a predominantly quartz –mica matrix.Microstructural study of oriented thin sections of these rocks shows that garnet and staurolite have different growth histories and these porphyroblasts share a complex relationship with the matrix.Garnet shows at least two phases of growth –ﬁrst intertectonic between $D_1$ and $D_2$ (pre-$D_2$ phase)and then syn-tectonic to post-tectonic with respect to $D_2$ deformation.Growth of later phase of garnet on the earlier (pre-$D_2$ garnet grains has led to the discordance of quartz inclusion trails between core and rim portion of the same garnet grain.Staurolite develops only syn-$D_2$ and shows close association with garnet of the later phase.The peak metamorphic temperature thus coincided with $D_2$ deformation,which developed the dominant crenulation schistosity ($S_2$ ,regionally persistent in the terrain.The metamorphic grade reached up to middle amphibolite facies in the study area, which is higher than the adjoining southern parts of Sausar Fold Belt.</p>
+				</abstract>
+				<keywords>Sausar Belt;porphyroblast–matrix relationship;crenulation cleavage;microstructural study.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Chattopadhyay">A. Chattopadhyay</name>
+						<affiliation>Department of Geology, University of Delhi, Delhi 110 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="N." last="Ghosh">N. Ghosh</name>
+						<affiliation>Department of Geology, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email>ng1704@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-11-02</date>
+					<date type="R">2007-05-09</date>
+					<date type="A">2007-05-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Advective heat transfer and fabric development in a shallow crustal intrusive granite – the case of Proterozoic Vellaturu granite, south India</title>
+				<feature></feature>
+				<page>0433-0450</page>
+				<abstract>
+					<p>Syntectonic plutons emplaced in shallow crust often contain intermediate-to low-temperature deformation microstructures but lack a high-temperature, subsolidus deformation fabric,although the relict magmatic fabric is preserved. The Proterozoic Vellaturu granite emplaced at the eastern margin of the northern Nallamalai fold belt,south India during the late phase of regional deformation has a common occurrence of intermediate-to low-temperature deformation fabric, superimposed over magmatic fabric with an internally complex pattern. But high-T subsolidus deformation microstructure and fabric are absent in this pluton.The main crystal plastic deformation and ﬂuid enhanced reaction softening was concentrated along the margin of the granite body. Resulting granite mylonites show Y-maximum c axis fabric in completely recrystallized quartz ribbons,dynamic recrystallization of perthites,and myrmekite indicative of fabric development under intermediate temperature ($\sim 500--400^\circ C$).The weakly-deformed interior shows myrmekite,feldspar microfracturing and limited bulging recrystallization of quartz.The abundance of prism subgrain boundaries is indicative of continuing deformation through low-temperature($\sim 300^\circ C$).The relative rates of cooling in ﬂuenced by advective heat transfer and deformation of the pluton seem to control the overall subsolidus fabric development.The rapid advective heat transfer from the interior in the early stages of subsolidus cooling was followed by slow cooling through intermediate temperature window as a well-developed phyllosilicate rich mylonitic skin around the granite body slowed down conductive heat loss.Low-T crystal plastic deformation of quartz was effected at a late stage of cooling and deformation of the shallow crustal granite body emplaced within the greenschist facies Nallamalai rocks.</p>
+				</abstract>
+				<keywords>Advective heat transfer;granite pluton;deformation microstructures;rate of cooling;quartz c-axis fabric;Nallamalai fold belt.</keywords>
+				<authors>
+					<author>
+						<name first="Dilip" last="Saha">Dilip Saha</name>
+						<affiliation>Indian Statistical Institute, Geological Studies Unit, 203 B. T. Road, Kolkata 700 108, India.</affiliation>
+						<email>dsaha@isical.ac.in</email>
+					</author>
+					<author>
+						<name first="Sukanya" last="Chakraborti">Sukanya Chakraborti</name>
+						<affiliation>Indian Statistical Institute, Geological Studies Unit, 203 B. T. Road, Kolkata 700 108, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-02-02</date>
+					<date type="R">2007-04-30</date>
+					<date type="A">2007-05-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Rainfall intensity characteristics at coastal and high altitude stations in Kerala</title>
+				<feature></feature>
+				<page>0451-0463</page>
+				<abstract>
+					<p>Rainfall intensities measured at a few stations in Kerala during 2001 –2005 using a disdrometer were found to be in reasonable agreement with the total rainfall measured using a manual rain gauge. The temporal distributions of rainfall intensity at different places and during different months show that rainfall is of low intensity (&mt; 10 mm/hr),65%to 90%of the time.This could be an indication of the relative prevalence of stratiform and cumuliform clouds.Rainfall was of intensity &mt; 5 mm/hr for more than 95%of the time in Kochi in July 2002,which was a month seriously deﬁcient in rainfall,indicating that the deﬁciency was probably due to the relative absence of cumuliform clouds.Cumulative distribution graphs are also plotted and ﬁtted with the Weibull distribution.The ﬁt parameters do not appear to have any consistent pattern. The higher intensities also contributed signi ﬁcantly to total rainfall most of the time,except in Munnar (a hill station). In this analysis also,the rainfall in Kochi in July 2002 was found to have less presence of high intensities. This supports the hypothesis that the rainfall de ﬁciency was probably caused by the absence of conditions that favoured the formation of cumuliform clouds.</p>
+				</abstract>
+				<keywords>Rainfall intensity;Kerala;cumulative distribution.</keywords>
+				<authors>
+					<author>
+						<name first="V. Sasi" last="Kumar">V. Sasi Kumar</name>
+						<affiliation>Atmospheric Sciences Division, Centre for Earth Science Studies, Thiruvananthapuram 695 031, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Sampath">S. Sampath</name>
+						<affiliation>Atmospheric Sciences Division, Centre for Earth Science Studies, Thiruvananthapuram 695 031, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. V. S. S. K." last="Vinayak">P. V. S. S. K. Vinayak</name>
+						<affiliation>Atmospheric Sciences Division, Centre for Earth Science Studies, Thiruvananthapuram 695 031, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Harikumar">R. Harikumar</name>
+						<affiliation>Atmospheric Sciences Division, Centre for Earth Science Studies, Thiruvananthapuram 695 031, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2006-09-15</date>
+					<date type="R">2007-06-23</date>
+					<date type="A">2007-06-23</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="06" month="12" year="2007">
+			<entry hassup="0">
+				<title>Editorial</title>
+				<feature></feature>
+				<page>0465-0467</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="T. N." last="Narasimhan">T. N. Narasimhan</name>
+						<affiliation>Professor Emeritus, University of California at Berkeley, USA.</affiliation>
+						<affiliation>Member, Editorial Board, ‘Journal of Earth System Science’.</affiliation>
+						<email>tnnarasimhan@lbl.gov</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Late Devonian and Triassic basalts from the southern continental margin of the East European Platform, tracers of a single heterogeneous lithospheric mantle source</title>
+				<feature></feature>
+				<page>0469-0495</page>
+				<abstract>
+					<p>In Late Devonian and Early-to-Late Triassic times, the southern continental margin of the Eastern European Platform was the site of a basaltic volcanism in the Donbas and Fore-Caucasus areas respectively. Both volcanic piles rest unconformably upon Paleoproterozoic and Late Paleozoic units respectively, and emplaced during continental rifting periods some 600 km away from expected locations of active oceanic subduction zones.</p>
+					<p>This paper reports a comparative geochemical study of the basaltic rocks, and views them as the best tracers of the involved mantle below the Eastern European Platform. The Late Devonian alkaline basic rocks differ from the calc-alkaline Triassic basic rocks by their higher alkali-silica ratio, their higher $TiO_{2}, K_{2}O, P_{2}O_{5}$ and FeO contents, their higher trace element contents, a higher degree of fractionation between the most and the least incompatible elements and the absence of Ta-Nb negative anomalies. These general features, clearly distinct from those of partial melting and fractional crystallization, are due to mantle source effects. With similar Nd and Sr isotopic signatures indicating mantle-crust mixing, both suites would originate from the melting of a same but heterogeneous continental mantle lithosphere (refertilized depleted mantle). Accordingly the Nd model ages, the youngest major event associated with mantle metasomatism occurred during Early Neoproterozoic times ($\sim 650Ma$).</p>
+				</abstract>
+				<keywords>Basalts;East European Platform;Late Devonian;Triassic;Donbas;Fore-Caucasus;geochemistry;geodynamics;geology.</keywords>
+				<authors>
+					<author>
+						<name first="Françoise" last="Chalot-Prat">Françoise Chalot-Prat</name>
+						<affiliation>Centre de Recherches Petrographiques et Geochimiques – Nancy University, BP20, 15 rue Notre Dame des Pauvres, F-54501 Vandoeuvre-les-Nancy Cedex, France.</affiliation>
+						<email>chalot@crpg.cnrs-nancy.fr</email>
+					</author>
+					<author>
+						<name first="Petr" last="Tikhomirov">Petr Tikhomirov</name>
+						<affiliation>Geological Faculty of Moscow State University; Vorobiovy Gory, 117311 Moscow, Russia.</affiliation>
+					</author>
+					<author>
+						<name first="Aline" last="Saintot">Aline Saintot</name>
+						<affiliation>Vrije Universiteit, Instituut voor Aardwetenschappen, Tektoniek afdeling, De Boelelaan 1085, 1081 HV Amsterdam, Netherlands.</affiliation>
+						<affiliation>Geological Survey of Norway, N-7491 Trondheim, Norway.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-02-13</date>
+					<date type="R">2007-06-18</date>
+					<date type="A">2007-06-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geology and geochemistry of giant quartz veins from the Bundelkhand Craton, central India and their implications</title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="J. K." last="Pati">J. K. Pati</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. C." last="Patel">S. C. Patel</name>
+						<affiliation></affiliation>
+					</author>
+					<author>
+						<name first="K. L." last="Pruseth">K. L. Pruseth</name>
+						<affiliation></affiliation>
+					</author>
+					<author>
+						<name first="V. P." last="Malviya">V. P. Malviya</name>
+						<affiliation></affiliation>
+					</author>
+					<author>
+						<name first="M." last="Arima">M. Arima</name>
+						<affiliation></affiliation>
+					</author>
+					<author>
+						<name first="S." last="Raju">S. Raju</name>
+						<affiliation></affiliation>
+					</author>
+					<author>
+						<name first="P." last="Pati">P. Pati</name>
+						<affiliation></affiliation>
+					</author>
+					<author>
+						<name first="K." last="Prakash">K. Prakash</name>
+						<affiliation></affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry><entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
 			
 		
 		
