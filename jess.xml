@@ -11632,11 +11632,11 @@
 			<entry hassup="0">
 				<title>Chemical characteristics of $PM_{10} aerosols and airmass trajectories over Bay of Bengal and Arabian Sea during ICARB</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0345-0352</page>
 				<abstract>
-					<p></p>
+					<p>For the first time, chemical characterization of $PM_{10}$ aerosols was attempted over the Bay of Bengal (BoB) and Arabian Sea (AS) during the ICARB campaign. Dominance of $SO^{2−}_{4}, NH^{+}_{4}$ and $NO^{−}_{3}$ was noticed over both the regions which indicated the presence of ammonium sulphate and ammonium nitrate as major water soluble particles playing a very important role in the radiation budget. It was observed that all the chemical constituents had higher concentrations over Bay of Bengal as compared to Arabian Sea. Higher concentrations were observed near the Indian coast showing influence of landmass indicating that gaseous pollutants like $SO_{2}, NH_{3}$ and $NO_{x}$ are transported over to the sea regions which consequently contribute to higher $SO^{2−}_{4} , NH^{+}_{4}$ and $NO{−}_{3}$ aerosols respectively. The most polluted region over BoB was $13^\circ –19^\circ N$ and $70^\circ –90^\circ E$ while it was near $11^\circ N$ and $75^\circ E$ over AS. Although the concentrations were higher over Bay of Bengal for all the chemical constituents of $PM_{10}$ aerosols, per cent non-sea salt (nss) fraction (with respect to Na) was higher over Arabian Sea. Very low $Ca^{2+}$ concentration was observed at Arabian Sea which led to higher atmospheric acidity as compared to BoB. Nss $SO^{2−}_{4}$ alone contributed 48% of total water soluble fraction over BoB as well as AS. Ratios $SO^{2−}_{4} /NO^{−}_{3}$ over both the regions (7.8 and 9 over BoB and AS respectively) were very high as compared to reported values at land sites like Allahabad (0.63) and Kanpur (0.66) which may be due to very low NO−3 over sea regions as compared to land sites. Air trajectory analysis showed four classes: (i) airmass passing through Indian land, (ii) from oceanic region, (iii) northern Arabian Sea and Middle East and (iv) African continent. The highest nss $SO^{2−}_{4}$ was observed during airmasses coming from the Indian land side while lowest concentrations were observed when the air was coming from oceanic regions. Moderate concentrations of nss $SO^{2−}_{4}$ were observed when air was seen moving from the Middle East and African continent. The pH of rainwater was observed to be in the range of 5.9–6.5 which is lower than the values reported over land sites. Similar feature was reported over the Indian Ocean during INDOEX indicating that marine atmosphere had more free acidity than land atmosphere.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>$PM_{10}$ aerosols;non-sea salt sulphate aerosols;anthropogenic influence over ocean;chemical composition of rain water;airmass trajectory analysis.</keywords>
 				<authors>
 					<author>
 						<name first="L. A. K." last="Reddy">L. A. K. Reddy</name>
@@ -11661,135 +11661,201 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-07-27</date>
+					<date type="R">2007-11-04</date>
+					<date type="A">2008-01-29</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Influence of circulation parameters on the AOD variations over the Bay of Bengal during ICARB</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0353-0360</page>
 				<abstract>
-					<p></p>
+					<p>MODIS (Moderate Resolution Imaging Spectroradiometer) level-3 aerosol data, NCEP (National Centers for Environmental Prediction) reanalysis winds and QuikSCAT ocean surface winds were made use of to examine the role of atmospheric circulation in governing aerosol variations over the Bay of Bengal (BoB) during the first phase of the ICARB (Integrated Campaign for Aerosols, gases and Radiation Budget) campaign (March 18–April 12, 2006). An inter-comparison between MODIS level-3 aerosol optical depth (AOD) data and ship-borne MICROTOPS measurements showed good agreement with correlation 0.92 (\textit {p} &mt; 0.0001) and a mean MODIS underestimation by 0.01. During the study period, the AOD over BoB showed high values in the northern/north western regions, which reduced towards the central and southern BoB. The wind patterns in lower atmospheric layers (&lt; 850 hPa)  indicated that direct transport of aerosols from central India was inhibited by the presence of a high pressure and a divergence over BoB in the lower altitudes. On the other hand, in the upper atmospheric levels, winds from central and northern India stretched south eastwards and converged over BoB with a negative vorticity indicative of a downdraft. These wind patterns pointed to the possibility of aerosol transport from central India to BoB by upper level winds. This mechanism was further confirmed by the significant correlations that AOD variations over BoB showed with aerosol flux convergence and flux vorticity at upper atmospheric levels (600–500 hPa). AOD in central and southern BoB away from continental influences displayed an exponential dependence on the QuikSCAT measured ocean surface wind speed. This study shows that particles transported from central and northern India by upper atmospheric circulations as well as the marine aerosols generated by ocean surface winds contributed to the AOD over the BoB during the first phase of ICARB.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Aerosols;climate;circulation variables;flux convergence;flux vorticity;ocean surface winds;remote sensing;data analysis.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Marina" last="Aloysius">Marina Aloysius</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Center, Thiruvananthapuram 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="Mannil" last="Mohan">Mannil Mohan</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Center, Thiruvananthapuram 695 022, India.</affiliation>
+						<email>mannil_mohan@vssc.gov.in</email>
+					</author>
+					<author>
+						<name first="S. Suresh" last="Babu">S. Suresh Babu</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Center, Thiruvananthapuram 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="Vijayakumar S." last="Nair">Vijayakumar S. Nair</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Center, Thiruvananthapuram 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="K." last="Parameswaran">K. Parameswaran</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Center, Thiruvananthapuram 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. Krishna" last="Moorthy">K. Krishna Moorthy</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Center, Thiruvananthapuram 695 022, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-07-31</date>
+					<date type="R">2007-11-07</date>
+					<date type="A">2007-11-29</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Analysis of marine aerosol optical depth retrieved from IRS-P4 OCM sensor and comparison with the aerosol derived from SeaWiFS and MODIS sensor</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0361-0373</page>
 				<abstract>
-					<p></p>
+					<p>Aerosol optical depth is regularly derived from SeaWiFS and MODIS sensor and used by the scientific community in various climatic studies. In the present study an attempt has been made to retrieve the aerosol optical depth using the IRS-P4 OCM sensor data and a comparison has been carried out using few representative datasets. The results show that the IRS-P4 OCM retrieved aerosol optical depth is in good agreement with the aerosols retrieved from SeaWiFS as well as MODIS. The RMSE are found to be $\pm 0.0522$ between OCM and SeaWIFS and $\pm 0.0638$ between OCM and MODIS respectively. However, IRS-P4 OCM sensor retrieved aerosol optical depth is closer to SeaWiFS (correlation = 0.88, slope = 0.96 and intercept = −0.013) compared to MODIS (correlation = 0.75, slope = 0.91 and intercept = 0.0198). The mean percentage difference indicates that OCM retrieved AOD is +12% higher compared to SeaWiFS and +8% higher compared to MODIS. The mean absolute percentage between OCM derived AOD and SeaWiFS is found to be less (16%) compared to OCM and MODIS (20%).</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Aerosol optical depth;IRS-P4 (OCM);SeaWiFS and MODIS sensor.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="A. K." last="Mishra">A. K. Mishra</name>
+						<affiliation>Indian Institute of Remote Sensing (NRSA), P.B. 135, 4 Kalidas Road, Dehradun, Uttarakhand, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. K." last="Dadhwal">V. K. Dadhwal</name>
+						<affiliation>Indian Institute of Remote Sensing (NRSA), P.B. 135, 4 Kalidas Road, Dehradun, Uttarakhand, India.</affiliation>
+					</author>
+					<author>
+						<name first="C. B. S." last="Dutt">C. B. S. Dutt</name>
+						<affiliation>Indian Space Research Organisation (ISRO), New BEL Road, Bangalore, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-07-25</date>
+					<date type="R">2008-02-13</date>
+					<date type="A">2008-02-18</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Latitudinal and longitudinal variation in aerosol characteristics from Sun photometer and MODIS over the Bay of Bengal and Arabian Sea during ICARB</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0375-0387</page>
 				<abstract>
-					<p></p>
+					<p>Spatial variations in aerosol optical properties as function of latitude and longitude are analysed over the Bay of Bengal and Arabian Sea during ICARB cruise period of March–May 2006 from \textit {in situ} sun photometer and MODIS (Terra, Aqua) satellite measurements. Monthly mean 550 nm aerosol optical depths (AODs) over the Bay of Bengal and Arabian Sea show an increase from March to May both in spatial extent and magnitude. AODs are found to increase with latitude from $4^\circ N to 20^\circ N$ over the Bay of Bengal while over Arabian Sea, variations are not significant. Sun photometer and MODIS AODs agree well within $\pm 1\sigma $ variation. Bay of Bengal AOD (0.28) is higher than the Arabian Sea (0.24) latitudinally. Aerosol fine mode fraction (FMF) is higher than 0.6 over Bay of Bengal, while FMF in the Arabian Sea is about 0.5. Bay of Bengal $\alpha (\sim 1)$ is higher than the Arabian Sea value of 0.7, suggesting the dominance of fine mode aerosols over Bay of Bengal which is corroborated by higher FMF values over Bay of Bengal. Air back trajectory analyses suggest that aerosols from different source regions contribute differently to the optical characteristics over the Bay of Bengal and Arabian Sea.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Aerosol optical characteristics;latitudinal and longitudinal variations;Bay of Bengal;Arabian Sea;premonsoonseason;\textit {in situ} and satellite measurements;remote sensing.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Sumita" last="Kedia">Sumita Kedia</name>
+						<affiliation>Space and Atmospheric Sciences Division, Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email>sumita@prl.res.in</email>
+					</author>
+					<author>
+						<name first="S." last="Ramachandran">S. Ramachandran</name>
+						<affiliation>Space and Atmospheric Sciences Division, Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email>ram@prl.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-07-27</date>
+					<date type="R">2007-12-02</date>
+					<date type="A">2007-12-13</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Aerosol characteristics at a remote island: Minicoy in southern Arabian Sea</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0389-0397</page>
 				<abstract>
-					<p></p>
+					<p>Extensive measurements of aerosol optical and microphysical properties made at a remote island, Minicoy in southern Arabian Sea for the period (February 2006–March 2007) are used to characterize their temporal variability and Black Carbon (BC) mass mixing ratio. Large decrease in aerosol BC (from $\sim 800 ng m^{−3} to \sim 100 ng m^{−3}$) was observed associated with change in airmass characteristics and monsoon rains. The total aerosol mass varied between $\sim 80$ and $20 \mu g m^{−3}$. Though the total mass fell drastically, a slight increase in super micron mass was observed during the June–August period associated with high winds. The mass fraction of Black Carbon aerosols during the prevalence of continental airmass is found to be $\sim 1.2%$ of the composite aerosols, which is much lower than the values reported earlier for this region.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Marine aerosols;sea-salt aerosols;remote island;black carbon.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="V." last="Vinoj">V. Vinoj</name>
+						<affiliation>Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Satheesh">S. K. Satheesh</name>
+						<affiliation>Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. Krishna" last="Moorthy">K. Krishna Moorthy</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-10-09</date>
+					<date type="R">2008-03-05</date>
+					<date type="A">2008-03-06</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Physical and optical characteristics of atmospheric aerosols during ICARB at Manora Peak, Nainital: A sparsely inhabited, high-altitude location in the Himalayas</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0399-0405</page>
 				<abstract>
-					<p></p>
+					<p>Collocated measurements of the optical and physical properties of columnar and near-surface aerosols were carried out from Manora Peak, Nainital (a sparsely inhabited, high altitude location, $\sim 2km$ above mean sea level, in the Himalayas), during the Integrated Campaign for Aerosols, gases and Radiation Budget (ICARB) under the Geosphere Biosphere Programme of the Indian Space Research Organization (ISRO-GBP). Under this, observational data of spectral aerosol optical depths (AOD), mass concentration of aerosol black carbon (\textit {M_B}), mass concentration (\textit {M_T} ) and number concentration (\textit {N_t}) of composite (total) aerosols near the surface and meteorological parameters were collected during the period February 15 to April 30, 2006. Though very low (&mt; 0.1 at 500 nm) AODs were observed during clear days, as much as a fourfold increase was seen on hazy days. The ˚Angstr$\ddot{o} $m exponent ($\alpha $), deduced from the spectral AODs, revealed high values during clear days, while on hazy days $\alpha $ was low; with an overall mean value of $0.69 \pm 0.06$ for the campaign period. BC mass concentration varied between 0.36 and $2.87 \mu g m^{−3}$ and contributed in the range 0.7 to 1.8% to the total aerosol mass. Total aerosol number concentration and BC mass concentration showed diurnal variation with a midnight and early morning minimum and a late afternoon maximum; a pattern quite opposite to that seen in low altitude stations. These are attributed to the dynamics of the atmospheric boundary layer.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Atmospheric aerosols;Himalayan aerosols;size distribution;BC aerosols.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="U. C." last="Dumka">U. C. Dumka</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences, Nainital, India.</affiliation>
+						<email>dumka@aries.ernet.in</email>
+					</author>
+					<author>
+						<name first="K. Krishna" last="Moorthy">K. Krishna Moorthy</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Center, Thiruvananthapuram 695 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Pant">P. Pant</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences, Nainital, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Hegde">P. Hegde</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences, Nainital, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ram" last="Sagar">Ram Sagar</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences, Nainital, India.</affiliation>
+					</author>
+					<author>
+						<name first="K." last="Pandey">K. Pandey</name>
+						<affiliation>Department of Physics, DSB College, Nainital, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-07-17</date>
+					<date type="R">2007-09-21</date>
+					<date type="A">2007-10-29</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Aerosol characteristics at Patiala during ICARB–2006</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0407-0411</page>
 				<abstract>
-					<p></p>
+					<p>The spectral AOD measurements have been made for the first time over Patiala during multiplatform field campaign ICARB–2006 using a Multi-Wavelength Radiometer (MWR) along with the suspended particulate matter measurements with a high volume sampler. Spectral AOD has higher values in May in comparison to March and April. The monthly mean AOD values at 500 nm are $0.26 \pm 0.08, 0.36 \pm 0.19$ and $0.58  0.20 for the months of March, April and May respectively. The mean AOD is more during afternoon in comparison to forenoon at all wavelengths. The atmospheric turbidity is higher in May and is attributed to dust transported by southerly winds prevailing during this month. The ˚Angstr¨om parameter α varies between zero and 0.68 while β ranges from 0.1 to 0.9. The columnar water vapour content ranges from 0.12 to 2.92 cm, having a mean value of 1.06 ± 0.648 cm. The mean total suspended particulate matter is 334.41 ± 97.56 μgm/m3, an indication of high aerosol loading over Patiala during the campaign period.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Aerosol optical depth;AOD;suspended particulate matter;columnar water content;˚Angstr$\ddot{o} m$ parameters;ICARB.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Manjit" last="Singh">Manjit Singh</name>
+						<affiliation>Physics Department, Punjabi University, Patiala 147 002, Punjab, India.</affiliation>
+					</author>
+					<author>
+						<name first="Darshan" last="Singh">Darshan Singh</name>
+						<affiliation>Physics Department, Punjabi University, Patiala 147 002, Punjab, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Pant">P. Pant</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences (ARIES), Manora Peak, Nainital 263 129, Uttaranchal, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-06-08</date>
+					<date type="R">2007-09-21</date>
+					<date type="A">2007-10-10</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
