@@ -11835,7 +11835,7 @@
 				<feature></feature>
 				<page>0407-0411</page>
 				<abstract>
-					<p>The spectral AOD measurements have been made for the first time over Patiala during multiplatform field campaign ICARB–2006 using a Multi-Wavelength Radiometer (MWR) along with the suspended particulate matter measurements with a high volume sampler. Spectral AOD has higher values in May in comparison to March and April. The monthly mean AOD values at 500 nm are $0.26 \pm 0.08, 0.36 \pm 0.19$ and $0.58  0.20 for the months of March, April and May respectively. The mean AOD is more during afternoon in comparison to forenoon at all wavelengths. The atmospheric turbidity is higher in May and is attributed to dust transported by southerly winds prevailing during this month. The ˚Angstr¨om parameter α varies between zero and 0.68 while β ranges from 0.1 to 0.9. The columnar water vapour content ranges from 0.12 to 2.92 cm, having a mean value of 1.06 ± 0.648 cm. The mean total suspended particulate matter is 334.41 ± 97.56 μgm/m3, an indication of high aerosol loading over Patiala during the campaign period.</p>
+					<p>The spectral AOD measurements have been made for the first time over Patiala during multiplatform field campaign ICARB–2006 using a Multi-Wavelength Radiometer (MWR) along with the suspended particulate matter measurements with a high volume sampler. Spectral AOD has higher values in May in comparison to March and April. The monthly mean AOD values at 500 nm are $0.26 \pm 0.08, 0.36 \pm 0.19$ and $0.58 \pm 0.20$ for the months of March, April and May respectively. The mean AOD is more during afternoon in comparison to forenoon at all wavelengths. The atmospheric turbidity is higher in May and is attributed to dust transported by southerly winds prevailing during this month. The ˚Angstr$\ddot{o} $m parameter $\alpha $ varies between zero and 0.68 while $\beta $ ranges from 0.1 to 0.9. The columnar water vapour content ranges from 0.12 to 2.92 cm, having a mean value of $1.06 \pm 0.648$ cm. The mean total suspended particulate matter is $334.41 \pm 97.56 \mu gm/m^{3}$, an indication of high aerosol loading over Patiala during the campaign period.</p>
 				</abstract>
 				<keywords>Aerosol optical depth;AOD;suspended particulate matter;columnar water content;˚Angstr$\ddot{o} m$ parameters;ICARB.</keywords>
 				<authors>
@@ -11859,47 +11859,305 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Studies on aerosol properties during ICARB–2006 campaign period at Hyderabad, India using ground-based measurements and satellite data</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0413-0420</page>
 				<abstract>
-					<p></p>
+					<p>Continuous and campaign-based aerosol field measurements are essential in understanding fundamental atmospheric aerosol processes and for evaluating their effect on global climate, environment and human life. Synchronous measurements of Aerosol Optical Depth (AOD), Black Carbon (BC) aerosol mass concentration and aerosol particle size distribution were carried out during the campaign period at tropical urban regions of Hyderabad, India. Daily satellite datasets of DMSP-OLS were processed for night-time forest fires over the Indian region in order to understand the additional sources (forest fires) of aerosol. The higher values in black carbon aerosol mass concentration and aerosol optical depth correlated well with forest fires occurring over the region. Ozone Monitoring Instrument (OMI) aerosol index (AI) variations showed absorbing aerosols over the region and correlated with ground measurements.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Aerosol optical depth;black carbon;forest fires;aerosol index;urban areas.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="K. V. S." last="Badarinath">K. V. S. Badarinath</name>
+						<affiliation>Atmospheric Science Section, Oceanography Division, National Remote Sensing Agency (Department of Space, Govt. of India) Balanagar, Hyderabad 500 037, India.</affiliation>
+						<email>badrinath_kvs@nrsa.gov.in</email>
+					</author>
+					<author>
+						<name first="Shailesh Kumar" last="Kharol">Shailesh Kumar Kharol</name>
+						<affiliation>Atmospheric Science Section, Oceanography Division, National Remote Sensing Agency (Department of Space, Govt. of India) Balanagar, Hyderabad 500 037, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-06-06</date>
+					<date type="R">2007-11-05</date>
+					<date type="A">2007-11-07</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Temporal characteristics of aerosol physical properties at Visakhapatnam on the east coast of India during ICARB – Signatures of transport onto Bay of Bengal</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0421-0427</page>
 				<abstract>
-					<p></p>
+					<p>Realizing the importance of aerosol physical properties at the adjoining continental and coastal locations in the airmass pathways onto the oceanic region, extensive measurements of aerosol physical properties were made at Visakhapatnam ($17.7^\circ N, 83.3^\circ E$), an eastern coastal location in peninsular India during the ICARB period. The temporal variations of aerosol optical depth, near surface aerosol mass size distributions and BC mass concentrations show significantly higher aerosol optical depth and near surface mass concentrations during the first and last weeks of April 2007. The mean BC mass fraction in the fine mode aerosol was around 11%. The aerosol back scatter profiles derived from Micro Pulse Lidar indicate a clear airmass subsidence on the days with higher aerosol optical depths and near surface mass fraction. A comparison of the temporal variation of the aerosol properties at Visakhapatnam with the MODIS derived aerosol optical depth along the cruise locations indicates a resemblance in the temporal variation suggesting that the aerosol transport from the eastern coastal regions of peninsular India could significantly affect the aerosol optical properties at the near coastal oceanic regions and that the affect significantly reduced at the farther regions.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Aerosols;atmospheric sciences;experiments;data analysis.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="K." last="Niranjan">K. Niranjan</name>
+						<affiliation>Department of Physics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+						<email>niranjankandula@hotmail.com</email>
+					</author>
+					<author>
+						<name first="V." last="Sreekanth">V. Sreekanth</name>
+						<affiliation>Department of Physics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="B. L." last="Madhavan">B. L. Madhavan</name>
+						<affiliation>Department of Physics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="T. Anjana" last="Devi">T. Anjana Devi</name>
+						<affiliation>Department of Physics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="B." last="Spandana">B. Spandana</name>
+						<affiliation>Department of Physics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2007-11-13</date>
+					<date type="R">2008-02-04</date>
+					<date type="A">2008-02-18</date>
 				</dates>
 			</entry>
+		</issue>
+		<issue inum="04" month="08" year="2008">
+			<entry hassup="0">
+				<title>Role of biology in the air–sea carbon flux in the Bay of Bengal and Arabian Sea</title>
+				<feature></feature>
+				<page>0429-0447</page>
+				<abstract>
+					<p>A physical-biological-chemical model (PBCM)is used for investigating the seasonal cycle of  air –sea carbon ﬂux and for assessing  the effect of the biological processes on seasonal time scale in the Arabian Sea (AS)and Bay of Bengal (BoB),where the surface waters are subjected to contrasting physical conditions.The formulation of PBCM is given in Swathi \textit {et al} (2000),and evaluation of several ammonium-inhibited nitrate uptake models is given in Sharada \textit {et al} (2005). The PBCM is here ﬁrst evaluated against JGOFS data on surface $pCO_2$ in AS, Bay of Bengal Process Studies (BoBPS)data on column integrated primary productivity in BoB,and WOCE I1 data on dissolved inorganic carbon (DIC)and alkalinity (ALK)in the upper 500 meters at $9^\circ N$ in AS and at $10^\circ N$ in BoB in September –October.There is good qualitative agreement with local quantitative discrepancies.</p>
+					<p>The net effect of biological processes on air –sea carbon ﬂux on seasonal time scale is determined with an auxiliary computational experiment,called the abiotic run,in which the biological processes are turned off.The difference between the biotic run and abiotic run is interpreted as the net effect of biological processes on the seasonal variability of chemical variables.The net biological effect on air –sea carbon ﬂux is found to be highest in southwest monsoon season in the northwest AS, where strong upwelling drives intense new production.The biological effect is larger in AS than in BoB,as seasonal upwelling and mixing are strong in AS,especially in the northeast,while coastal upwelling and mixing are weak in BoB.</p>
+				</abstract>
+				<keywords>Carbon flux;Bay of Bengal;Arabian Sea;biotic;abiotic;coupled model.</keywords>
+				<authors>
+					<author>
+						<name first="M. K." last="Sharada">M. K. Sharada</name>
+						<affiliation>CSIR Centre for Mathematical Modelling and Computer Simulation (C-MMACS), Wind Tunnel Road, Bangalore 560 037, India.</affiliation>
+						<email>sharada@cmmacs.ernet.in</email>
+					</author>
+					<author>
+						<name first="P. S." last="Swathi">P. S. Swathi</name>
+						<affiliation>CSIR Centre for Mathematical Modelling and Computer Simulation (C-MMACS), Wind Tunnel Road, Bangalore 560 037, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. S." last="Yajnik">K. S. Yajnik</name>
+						<affiliation>CSIR Centre for Mathematical Modelling and Computer Simulation (C-MMACS), Wind Tunnel Road, Bangalore 560 037, India.</affiliation>
+					</author>
+					<author>
+						<name first="C. Kalyani" last="Devasena">C. Kalyani Devasena</name>
+						<affiliation>CSIR Centre for Mathematical Modelling and Computer Simulation (C-MMACS), Wind Tunnel Road, Bangalore 560 037, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-02-19</date>
+					<date type="R">2008-04-16</date>
+					<date type="A">2008-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spatial distribution of atmospheric carbon monoxide over Bay of Bengal and Arabian Sea: Measurements during pre-monsoon period of 2006</title>
+				<feature></feature>
+				<page>0449-0455</page>
+				<abstract>
+					<p>Indian Space Research Organization (ISRO)conducted the ‘Integrated Campaign for Aerosols, gases and Radiation Budget (ICARB)’for a two-month pre-monsoon period in 2006 with the ocean segment covering Bay of Bengal and Arabian Sea.During this campaign,carbon monoxide (CO) was continuously monitored using a non-dispersive IR analyser. Quantifying CO in ambient air is vital in determining the air quality of a region.Being toxic,CO is a criteria pollutant,but it is a weak green house gas.Globally,very few measurements exist over marine atmospheres to study its temporal pattern;particularly \textit {in situ} CO measurements are few over the Bay of Bengal and Arabian Sea for comparison.Present measurements indicate:(i)predominant single peak in the diurnal pattern of CO over the marine atmosphere in contrast to the double peak over the continent, (ii)the mean diurnal CO over the marine atmosphere showing an increasing trend towards evening hours,(iii)the amplitude of the AN peaks over the marine atmosphere was $\sim 100$ ppbv,while at a remote island site in the Indian Ocean it was $\sim 5$ ppbv and (iv)high CO values were observed close to continent and the long range transport by wind also caused CO highs.</p>
+				</abstract>
+				<keywords>Carbon monoxide;pre-monsoon;marine atmosphere;Bay of Bengal;Arabian Sea.</keywords>
+				<authors>
+					<author>
+						<name first="V. R." last="Aneesh">V. R. Aneesh</name>
+						<affiliation>Atmospheric Sciences Division, Centre for Earth Science Studies, PB No. 7250, Akkulam, Thiruvananthapuram 695 031, India.</affiliation>
+					</author>
+					<author>
+						<name first="G." last="Mohankumar">G. Mohankumar</name>
+						<affiliation>Atmospheric Sciences Division, Centre for Earth Science Studies, PB No. 7250, Akkulam, Thiruvananthapuram 695 031, India.</affiliation>
+						<email>gmk4833@yahoo.com</email>
+					</author>
+					<author>
+						<name first="S." last="Sampath">S. Sampath</name>
+						<affiliation>Atmospheric Sciences Division, Centre for Earth Science Studies, PB No. 7250, Akkulam, Thiruvananthapuram 695 031, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-06-02</date>
+					<date type="R">2008-04-11</date>
+					<date type="A">2008-04-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Wind speed prediction using statistical regression and neural network</title>
+				<feature></feature>
+				<page>0457-0463</page>
+				<abstract>
+					<p>Prediction of wind speed in the atmospheric boundary layer is important for wind energy assess- ment,satellite launching and aviation,etc.There are a few techniques available for wind speed prediction,which require a minimum number of input parameters.Four different statistical techniques,viz.,curve ﬁtting,Auto Regressive Integrated Moving Average Model (ARIMA),extrapolation with periodic function and Artiﬁcial Neural Networks (ANN)are employed to predict wind speed.These methods require wind speeds of previous hours as input.It has been found that wind speed can be predicted with a reasonable degree of accuracy using two methods,viz.,extrapolation using periodic curve ﬁtting and ANN and the other two methods are not very useful.</p>
+				</abstract>
+				<keywords>Wind speed prediction;artificial neural network;curve fitting;ARIMA.</keywords>
+				<authors>
+					<author>
+						<name first="Makarand A." last="Kulkarni">Makarand A. Kulkarni</name>
+						<affiliation>Department of Atmospheric and Space Sciences, University of Pune, Pune 411 007, India.</affiliation>
+						<email>makarand_kulkarni@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Sunil" last="Patil">Sunil Patil</name>
+						<affiliation>Department of Physics, University of Pune, Pune 411 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="G. V." last="Rama">G. V. Rama</name>
+						<affiliation>Meteorological Facility, Sriharikota 524 124, Nellore (Dt), A.P., India.</affiliation>
+					</author>
+					<author>
+						<name first="P. N." last="Sen">P. N. Sen</name>
+						<affiliation>Department of Atmospheric and Space Sciences, University of Pune, Pune 411 007, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-09-27</date>
+					<date type="R">2008-04-24</date>
+					<date type="A">2008-05-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dependence of thermal conductivity of snow on microstructure</title>
+				<feature></feature>
+				<page>0465-0475</page>
+				<abstract>
+					<p>A geometrical model,including different geometrical shapes in ﬂuencing thermal conductivity of snow is proposed.The geometrical model has been assumed to comprise of unit cells having solid (ice)inclusion as an aggregation of spherical,cylindrical or cubical shapes with vertical connection, arranged in a cubic packing.From the geometrical model and one-dimensional heat transfer theory, the effective thermal conductivity has been computed.For this purpose,coupled one-dimensional heat transfer equations have been solved for steady-state condition to account for conduction in ice, conduction in air and latent heat transfer due to water vapour sublimation through air.The model demonstrates the dependency of thermal conductivity on density,grain-spacing,grain contact ratio and temperature.Spherical inclusions give highest conductivity while cubical inclusion estimates lowest value for the same density.Thermal conductivity has been found increasing sharply near to the packing density for all three shapes.Empirical model results and results obtained from existing microstructure based models have also been compared with the present model.</p>
+				</abstract>
+				<keywords>Thermal conductivity;heat transfer;snow;neck length;snow cover;firn;geophysics;hydrology;modelling;cryosphere.</keywords>
+				<authors>
+					<author>
+						<name first="P. K." last="Satyawali">P. K. Satyawali</name>
+						<affiliation>Snow and Avalanche Study Establishment, Him Parisar Sector 37A, Chandigarh, India.</affiliation>
+						<email>pramodsatyawali@hotmail.com</email>
+					</author>
+					<author>
+						<name first="A. K." last="Singh">A. K. Singh</name>
+						<affiliation>Defence Institute of Advanced Technology (Deemed University), Girinagar, Pune, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-01-31</date>
+					<date type="R">2008-04-17</date>
+					<date type="A">2008-04-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Simultaneous transport of water and solutes under transient unsaturated flow conditions – A case study</title>
+				<feature></feature>
+				<page>0477-0487</page>
+				<abstract>
+					<p>The imbalance between incoming and outgoing salt causes salinization of soils and sub-soils that result in increasing the salinity of stream-ﬂows and agriculture land.This salinization is a serious environmental hazard particularly in semi-arid and arid lands.In order to estimate the magnitude of the hazard posed by salinity,it is important to understand and identify the processes that control salt movement from the soil surface through the root zone to the ground water and stream ﬂows.In the present study,Malaprabha sub-basin (up to dam site)has been selected which has two distinct climatic zones,sub-humid (upstream of Khanapur)and semi-arid region (downstream of Khanapur).In the upstream,both surface and ground waters are used for irrigation,whereas in the downstream mostly groundwater is used.Both soils and ground waters are more saline in down- stream parts of the study area.In this study we characterized the soil salinity and groundwater quality in both areas.An attempt is also made to model the distribution of potassium concentration in the soil proﬁle in response to varying irrigation conditions using the SWIM (Soil –Water In ﬁltration and Movement)model.Fair agreement was obtained between predicted and measured results indicating the applicability of the model.</p>
+				</abstract>
+				<keywords>Hydraulic conductivity;infiltration;leaching;Malaprabha;modeling;permeability;salinity;solute transport;SWIM model;water flow.</keywords>
+				<authors>
+					<author>
+						<name first="B. K." last="Purandara">B. K. Purandara</name>
+						<affiliation>National Institute of Hydrology, Hard Rock Regional Center, Belgaum 590 001, Karnataka, India.</affiliation>
+						<email>purandarabk@yahoo.com</email>
+					</author>
+					<author>
+						<name first="N." last="Varadarajan">N. Varadarajan</name>
+						<affiliation>National Institute of Hydrology, Hard Rock Regional Center, Belgaum 590 001, Karnataka, India.</affiliation>
+					</author>
+					<author>
+						<name first="B." last="Venkatesh">B. Venkatesh</name>
+						<affiliation>National Institute of Hydrology, Hard Rock Regional Center, Belgaum 590 001, Karnataka, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-08-09</date>
+					<date type="R">2008-04-09</date>
+					<date type="A">2008-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Migration of the Ganga river and its implication on hydro-geological potential of Varanasi area, U.P., India</title>
+				<feature></feature>
+				<page>0489-0498</page>
+				<abstract>
+					<p>Borehole data reveals that during Late Quaternary,the Ganga river was non-existent in its present location near Varanasi.Instead,it was ﬂowing further south towards peripheral craton.Himalayan derived grey micaceous sands were being carried by southward ﬂowing rivers beyond the present day water divide of Ganga and mixed with pink arkosic sand brought by northward ﬂowing peninsular rivers.Subsequently,the Ganga shifted to its present position and got incised.Near Varanasi,the Ganga river is ﬂowing along a NW –SE tectonic lineament.The migration of Ganga river is believed to have been in response to basin expansion caused due to Himalayan tectonics during Middle Pleistocene times.</p>
+					<p>Multi-storied sand bodies generated as a result of channel migration provide excellent aquifers conﬁned by a thick zone of muddy sediments near the surface.Good quality potable water is available at various levels below about 70 m depth in sandy aquifers.Craton derived gravelly coarse- to-medium grained sand forms the main aquifer zones of tens of meter thickness with enormous yield.In contrast,the shallow aquifers made up of recycled inter ﬂuve silt and sandy silt occur under unconﬁned conditions and show water-level ﬂuctuation of a few meters during pre-and post-monsoon periods.</p>
+				</abstract>
+				<keywords>Gangetic Plain;Ganga river;Quaternary;channel migration;hydrological potential;Varanasi.</keywords>
+				<authors>
+					<author>
+						<name first="U. K." last="Shukla">U. K. Shukla</name>
+						<affiliation>Department of Geology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email>shukla_umakant@yahoo.com</email>
+					</author>
+					<author>
+						<name first="N. Janardhana" last="Raju">N. Janardhana Raju</name>
+						<affiliation>Department of Geology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-12-23</date>
+					<date type="R">2008-04-02</date>
+					<date type="A">2008-05-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Pattern of sedimentation during the Late Paleozoic, Gondwanaland glaciation: An example from the Talchir Formation, Satpura Gondwana basin, central India</title>
+				<feature></feature>
+				<page>0499-0519</page>
+				<abstract>
+					<p>The Talchir Formation of Permian age is the lowermost lithostratigraphic unit of the Indian Gondwana successions preserving a record of the Late Paleozoic glaciation that affected the whole Gondwanaland.The formation unconformably overlies the Precambrian basement in all the Gondwana basins of India,and marks initiation of sedimentation after a long hiatus since the Pro- terozoic.The Talchir Formation of the Satpura Gondwana basin of central India shows features diagnostic of deposition under glacial regime such as the presence of diamictites,boulder pavements, bedding plane striation,faceted/striated gravels,bullet-shaped clasts,dropstone,cryoturbation, etc.The Talchir strata of the Satpura basin,in addition to tidal signatures,contain marine bivalve and trace fossils.A proglacial marine environment is thus inferred for their deposition.The dominant lithologies are conglomerate,pebbly sandstone,sandstone and shale with little limestone, which can be classiﬁed into the following major facies:</p>
+					<ul>
+						<li>matrix-supported conglomerate,</li>
+						<li>clast-supported conglomerate,</li>
+						<li>cross-strati ﬁed,channel form pebbly sandstone,</li>
+						<li>hummocky,swaley or low-angle cross-strati ﬁed pebbly and non-pebbly sandstone,</li>
+						<li>turbidite/tempestite sheet sandstone,</li>
+						<li>massive to ﬁssile,green to black claystone with carbonate layers and nodules.</li>
+					</ul>
+					<p>The conglomerates are interpreted as deposits of a spectrum of sub-aqueous sediment gravity lows including debris flow, hyperconcentrated/concentrated density flow and grain flow. The crossstratified pebbly sandstone bodies, on the other hand, represent braidplain delta deposits of glacial outwash origin. Hummocky, swaley, low-angle cross-stratified sediment bodies were deposited by storm-generated combined flows in a shoreface setting. In contrast, the sheet sandstone bodies are products of turbidity currents and storm-induced density currents in an inner shelf setting below fair weather wave base. The claystone facies is interpreted as a product of suspension fallout from hypopycnal sediment plumes in the outer shelf domain below storm wave base. All the lithofacies described above occur repetitively in the succession. Three facies-associations have been recognized in the Talchir Formation, representing ice-contact fandelta, outwash braidplain delta and a virtually ice-free, non-deltaic open marine realm. The different marine facies of the Talchir Formation define a number of shallowing-upward packages, which are arranged in the succession with a retrogradational trend to result in an overall fining- and deepening-upward succession. The overlying coal-bearing Barakar Formation has been interpreted to have formed in a tide-wave influenced deltaic setting with a marine, prodeltaic part. The strata that are transitional between Talchir and Barakar Formations show preservation of abundant plant materials suggesting gradual warming. The three facies-associations of the Talchir Formation also point towards progressive decrease in the intensity of glacial activity, inducing changes in the paleogeography from ice-contact depositional environment to an eventually relatively ice-free, open marine condition.</p>
+				</abstract>
+				<keywords>Gondwana glaciation;glacio-marine sedimentation;Talchir Formation;Satpura basin.</keywords>
+				<authors>
+					<author>
+						<name first="Chandan" last="Chakraborty">Chandan Chakraborty</name>
+						<affiliation>Geological Studies Unit, Indian Statistical Institute, 203 B.T. Road, Kolkata 700 108, India.</affiliation>
+						<email>chandan@isical.ac.in</email>
+					</author>
+					<author>
+						<name first="Sanjoy Kumar" last="Ghosh">Sanjoy Kumar Ghosh</name>
+						<affiliation>Shell International Exploration and Production Inc. WCK# 6380, 200 North Dairy Ashford, Houston, Texas 77079, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-10-25</date>
+					<date type="R">2008-02-29</date>
+					<date type="A">2008-03-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Indicator minerals as guides to base metal sulphide mineralisation in Betul Belt, central India</title>
+				<feature></feature>
+				<page>0521-0536</page>
+				<abstract>
+					<p>Zn-bearing minerals that act as indicator minerals for base metal sulphide mineralization from the  Proterozoic Betul Belt,central India with special emphasis on their genetic signiﬁcance have been discussed.Sulphide mineralisation is hosted by the felsic volcanic rocks and has similarities with volcanic-hosted massive sulphide deposits in other parts of the world.Synvolcanic hydrothermal alteration is crudely zoned with an inner high Mg-Ca core and an outer wider envelop of Al-Fe rich mineral assemblage.Most of the prospects have strata bound,moderately to steeply dipping, multiple,sub-parallel sheet like ore bodies composed of disseminated and semi-massive to massive ores.Zn-bearing spinel,staurolite,biotite and ilmenite typically occur within the foot-wall altera- tion zones in close proximity to the sulphide mineralization.Zincian spinel is ubiquitous irrespective of the nature of alteration zone.Zincian staurolite is nearly absent in Mg-Ca alteration zones but commonly present in Al-Fe alteration zone along with zincian ilmenite.Zn-bearing biotite in intimate association with zincian spinel is generally found in Mg-Ca alteration zone and in the transition to Al-Fe alteration zone.Most of these indicator minerals can be considered as products of desulphidation of sphalerite during metamorphism.Mechanisms other than desulphidation like  formation of gahnite by overstepping of the zinc saturation limit of biotite during retrogression to chlorite and formation of zincian staurolite at the expense of gahnite is also recorded.Field presence of these minerals has immense signiﬁcance in exploration in Betul Belt as they occur in close spatial relationship with the sulphide rich zones and therefore act as direct vectors to ore.</p>
+				</abstract>
+				<keywords>Gahnite, zincian staurolite;ecandrewsite;hydrothermal alteration;Betul Belt;indicator minerals.</keywords>
+				<authors>
+					<author>
+						<name first="Biswajit" last="Ghosh">Biswajit Ghosh</name>
+						<affiliation>Geological Survey of India, Operation: WB-SK-AN, Bhu Bijnan Bhawan, DK-6, Sector-II, Salt Lake, Kolkata 700 091, India.</affiliation>
+						<email>bghosh_geol@hotmail.com</email>
+					</author>
+					<author>
+						<name first="M. N." last="Praveen">M. N. Praveen</name>
+						<affiliation>Geological Survey of India, Operation: TNPK, Kerala Unit, Dharani Bhawan, Manikanteshwaram, Thiruvananthapuram 695 013, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-10-20</date>
+					<date type="R">2008-02-04</date>
+					<date type="A">2008-04-20</date>
+				</dates>
+			</entry>
+		
 			
 			
 		
