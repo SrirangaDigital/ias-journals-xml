@@ -26561,104 +26561,2662 @@
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="00" month="00" year="">
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="">
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="">
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-		</issue>
-		<issue inum="00" month="00" year="">
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-		</issue>
 	</volume>
-	<volume vnum="0">
+	<volume vnum="124">
+		<issue inum="01" month="01" year="2012">
+			<entry hassup="0">
+				<title>Contents</title>
+				<feature></feature>
+				<page>0001-0009</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Foreword &#8212; Structure, Reactivity and Dynamics</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0011-0012</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Susanta" last="Mahapatra">Susanta Mahapatra</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email>smsc@uohyd.ernet.in</email>
+					</author>
+					<author>
+						<name first="Sanjay" last="Kumar">Sanjay Kumar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email>sanjay@iitm.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamics of atom tunnelling in a symmetric double well coupled to an asymmetric double well: The case of malonaldehyde</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0013-0019</page>
+				<abstract>
+					<p>The quantum dynamics of intramolecular H-atom transfer in malonaldehyde is investigated with a model two-dimensional Hamiltonian constructed with the help of available $\textit{ab initio}$ theoretical data on the relevant portion of the potential energy surface. At zero temperature, the H-atom transfer takes place by tunnelling leading to $\textit{cis-cis}$ isomerization while the $\textit{cis-trans}$ channel remains closed. Local excitation of the $\textit{cis-trans}$ mode by an external field is predicted to quench $\textit{cis-cis}$ tunnelling isomerization while excitation of the $\textit{cis-cis}$ mode is found to enhance the isomerization by tunnelling.</p>
+				</abstract>
+				<keywords>Intramolecular H-transfer; quenching of tunnelling; quantum phase space diagram; control of tunnelling; mean field dynamics.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Ghosh">S. Ghosh</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Calcutta 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. P." last="Bhattacharyya">S. P. Bhattacharyya</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Calcutta 700 032, India</affiliation>
+						<email>pcspb@iacs.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Shape change as entropic phase transition: A study using Jarzynski relation</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0021-0028</page>
+				<abstract>
+					<p>A Brownian particle in a confined space with varying cross-section, experiences an effective entropic potential in reduced dimension. We modulate the shape of the confinement and examine the nature of dynamical transition between two distinct thermalized entropic states corresponding to different shapes of the enclosure, using Jarzynski relation on the basis of work-distribution over non-equilibrium paths. Our analysis reveals that modulating the shape of the boundaries of the enclosure makes the resident Brownian particles feel an entropic phase transition.</p>
+				</abstract>
+				<keywords>Fick–Jacobs equation; entropic potental; Jarzynski equality; phase transition.</keywords>
+				<authors>
+					<author>
+						<name first="Moupriya" last="Das">Moupriya Das</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Debasish" last="Mondal">Debasish Mondal</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Deb Shankar" last="Ray">Deb Shankar Ray</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email>pcdsr@iacs.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fitness landscapes in natural rocks system evolution: A conceptual DFT treatment</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0029-0034</page>
+				<abstract>
+					<p>The chemical reactivity descriptors, such as electronegativity, hardness and electrophilicity of major oxides computed from density functional theory are reported in this paper. These parameters are plotted within a fitness landscape diagram, showing that the principles of minimum electrophilicity (MEP) and maximum hardness (MHP) act as guides towards the region of higher stability. The diagrams indicate the trends and the parameters that control the evolution of natural rocks. Application of the principle S-bearing copper compounds shows the possible and preferred combinations of elements, that give rise to compounds observed during ore formation.</p>
+				</abstract>
+				<keywords>Fitness landscape; maximum hardness principle; minimum electrophilicity principle; natural rocks evolution.</keywords>
+				<authors>
+					<author>
+						<name first="Soma" last="Duley">Soma Duley</name>
+						<affiliation>Department of Chemistry and Center for Theoretical Studies, Indian Institute of Technology Kharagpur, Kharagpur 721 302, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jean-Louis" last="Vigneresse">Jean-Louis Vigneresse</name>
+						<affiliation>Nancy-Université, UMR 7566 G2R, BP 23, 54501 Vandoeuvre cédex, France</affiliation>
+						<email>jean-louis.vigneresse@g2r.uhp-nancy.fr</email>
+					</author>
+					<author>
+						<name first="Pratim Kumar" last="Chattaraj">Pratim Kumar Chattaraj</name>
+						<affiliation>Department of Chemistry and Center for Theoretical Studies, Indian Institute of Technology Kharagpur, Kharagpur 721 302, India</affiliation>
+						<email>pkc@chem.iitkgp.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Hydrogen bonded networks in formamide [HCONH$_2$]$_n$ ($n = 1 − 10)$ clusters: A computational exploration of preferred aggregation patterns</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0035-0042</page>
+				<abstract>
+					<p>Application of quantum chemical calculations is vital in understanding hydrogen bonding observed in formamide clusters, a prototype model for motifs found in protein secondary structure. DFT calculations have been performed on four arrangements of formamide clusters [HCONH$_2$]$_n$, ($n = 1 − 10$) linear, circular, helical and stacked forms. These studies reveal the maximum cooperativity in the stacked arrangement followed by the circular, helical and linear arrangements and is based on interaction energy per monomer. In all these arrangements as we increase cluster size, an increasing trend in cooperativity of hydrogen bonding is observed. Atoms-in-molecule analysis establishes the nature of bonding between the formamide monomers on the basis of electron density values obtained at the bond critical point (BCP).</p>
+				</abstract>
+				<keywords>Cooperativity; hydrogen bonding; AIM analysis; N–H stretching frequency.</keywords>
+				<authors>
+					<author>
+						<name first="A. Subha" last="Mahadevi">A. Subha Mahadevi</name>
+						<affiliation>Molecular Modeling Group, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Y. Indra" last="Neela">Y. Indra Neela</name>
+						<affiliation>Molecular Modeling Group, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. Narahari" last="Sastry">G. Narahari Sastry</name>
+						<affiliation>Molecular Modeling Group, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 607, India</affiliation>
+						<email>gnsastry@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Use of an intense microwave laser to dissociate a diatomic molecule: Theoretical prediction of dissociation dynamics</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0043-0050</page>
+				<abstract>
+					<p>By employing an intense microwave laser of wavelength 116.65 $\mu$m with intensities $1 \times 10^{13}$ and $5 \times  10^{18}$Wcm$^{−2}$, respectively, the conclusion is reached theoretically and computationally that it is possible to dissociate the CO molecule, modelled as a Morse oscillator. It is predicted that for above-threshold dissociation (ATD), the molecule should absorb 1044 photons of the given wavelength in order to reach the lowest edge of the vibrational continuum. A consistent analysis of the predicted dissociation process is provided though the time-dependent probability density, dissociation probability, norm, potential function, HHG and ATD spectra, obtained by numerically solving the time-dependent vibrational Schödinger equation.</p>
+				</abstract>
+				<keywords>Above-threshold dissociation; microwave dissociation; high harmonics generation; time-dependent quantum mechanics; Morse oscillator.</keywords>
+				<authors>
+					<author>
+						<name first="Amita" last="Wadehra">Amita Wadehra</name>
+						<affiliation>Department of Chemistry, Panjab University, Chandigarh 160 014, India</affiliation>
+						<affiliation>Department of Physics, Ohio State University, Columbus, OH 43210, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. M." last="Deb">B. M. Deb</name>
+						<affiliation>Department of Chemical Sciences, Indian Institute of Science Education and Research-Kolkata, Mohanpur Campus, P.O. BCKV Main Campus, Mohanpur 741 252, India</affiliation>
+						<email>bmdeb@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>A quantum-classical simulation of a multi-surface multi-mode nuclear dynamics on C$_6$H$^+_6$ incorporating degeneracy among electronic states</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0051-0058</page>
+				<abstract>
+					<p>We have performed a nuclear dynamics simulation to calculate photoelectron spectra and population profiles of benzene radical cation (C$_6$H$^+_6$) employing the parallelized Time Dependent Discrete Variable Representation (TDDVR) approach. For this purpose, we have considered $\textit{two}$ multi-state multi-mode model Hamiltonians of C$_6$H$^+_6$ with degeneracy among the electronic states: (a) One consists of three states and eight modes, which in turn leads to a $\textit{five state thirteen mode Hamiltonian}$ ($X^2$E$_{1g}$-$B^2$E$_{2g}$-$C^2$A$_{2u}$) due to the degeneracy; and (b) The other is constituted of three states and thirteen modes which is basically a $\textit{five state twenty mode Hamiltonian}$ ($B^2$E$_{2g}$-$D^2$E$_{1u}$-$E^2$B$_{2u}$) for the same reason. Since these electronic states are interconnected by several conical intersections in the vicinity of the Franck Condon region, it will be $\textit{challenging}$ to pursue such large dynamical calculation in the presence of nonadiabaticity among the electronic states. The spectral as well as population profiles calculated with the advent of TDDVR approach show reasonably good agreement with the results obtained by the Multi Configuration Time Dependent Hartree (MCTDH) methodology.</p>
+				</abstract>
+				<keywords>Multi surface multi mode quantum dynamics; parallelized quantum classical approach; TDDVR method.</keywords>
+				<authors>
+					<author>
+						<name first="Subhankar" last="Sardar">Subhankar Sardar</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Satrajit" last="Adhikari">Satrajit Adhikari</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email>pcsa@iacs.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Understanding proton affinity of tyrosine sidechain in hydrophobic confinement</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0059-0063</page>
+				<abstract>
+					<p>Tyrosine is an important amino acid residue that plays a key role in several biochemical transformations such as, abstraction/donation of proton from/by its sidechain. We present here a density functional study on the proton affinity of tyrosine sidechain suspended inside the core of a single walled carbon nanotube that mimics the environment of protein structural pores and molecular channels. Tyrosine is found to exhibit a lower reactivity on confinement and unlike several other polar amino acid sidechains, its reactivity does not respond to hydrogen bonding with neighbouring hydroxyl groups.</p>
+				</abstract>
+				<keywords>Tyrosine; proton affinity; carbon nanotube.</keywords>
+				<authors>
+					<author>
+						<name first="T. G." last="Abi">T. G. Abi</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kharagpur, Kharagpur 721 302, India</affiliation>
+						<email>srabani@chem.iitkgp.ernet.in</email>
+					</author>
+					<author>
+						<name first="T." last="Karmakar">T. Karmakar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kharagpur, Kharagpur 721 302, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Taraphder">S. Taraphder</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kharagpur, Kharagpur 721 302, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Full dimensional quantum scattering study of the H$_2$ $+$ CN reaction</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0065-0073</page>
+				<abstract>
+					<p>Exact wave packet calculations are carried out to investigate the effect of vibrational excitation of the reagent bonds on the dynamics of the CN $+$ H$_2$ $\to$ HCN $+$ H process using the multiconfiguration time-dependent Hartree algorithm. The results are compared to the approximate theoretical and the available experimental results. The differences between the results of the theoretical studies are discussed from the point of view of an approximate or exact kinetic energy operator used in the quantum mechanical studies. Deviations between exact theoretical and experimental results points to the inaccuracies of the potential energy surface used.</p>
+				</abstract>
+				<keywords>Quantum reaction dynamics; wave packet; MCTDH.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Bhattacharya">S. Bhattacharya</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Guwahati, Guwahati 781 039, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Kirwai">A. Kirwai</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Guwahati, Guwahati 781 039, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Aditya N." last="Panda">Aditya N. Panda</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Guwahati, Guwahati 781 039, India</affiliation>
+						<affiliation>Department of Chemistry, École Normale Supérieure, Paris, 24 rue Lhomond, 75231 Paris CEDEX 05, France</affiliation>
+						<email>adi07@iitg.ernet.in</email>
+					</author>
+					<author>
+						<name first="H-D." last="Meyer">H-D. Meyer</name>
+						<affiliation>Theoretische Chemie, Universität Heidelberg, Im Neuenheimer Feld 229, 69120 Heidelberg, Germany</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamics of atomic clusters in intense optical fields of ultrashort duration</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0075-0081</page>
+				<abstract>
+					<p>Intense laser pulses have been generated that last for only 10 fs, long enough to accommodate only 3 optical cycles of 800 nm light. Upon focussing such pulses, intensities in the 10$^{15}$ W cm$^{−2}$ range are readily generated. At such intensities, the magnitude of the optical field begins to match intra-atomic Coulombic fields. Consequently, exposure of atoms and molecules to such intense pulses inevitably leads to single and multiple ionization. We report here results of experiments that we have conducted that involve irradiation of gas-phase Ar15,000 clusters by such intense, few-cycle laser pulses. The clusters become multiply ionized and undergo Coulomb explosion, giving rise to ejection of fast Ar-ions. Results show that the strong-field dynamics in the few-cycle domain differ significantly from those that occur in the longer pulse (&gt; 30 fs) regime. Manifestations of these differences are presented in the form of angle-dependent ion energy and ion yield functions.</p>
+				</abstract>
+				<keywords>Atomic clusters; Coulomb explosion; few-cycle laser pulses; strong fields; cluster dynamics.</keywords>
+				<authors>
+					<author>
+						<name first="Deepak" last="Mathur">Deepak Mathur</name>
+						<affiliation>Tata Institute of Fundamental Research, 1 Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>atmol1@tifr.res.in</email>
+					</author>
+					<author>
+						<name first="Firoz A." last="Rajgara">Firoz A. Rajgara</name>
+						<affiliation>Tata Institute of Fundamental Research, 1 Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>$\textit{Bhageerath}$—Targeting the near impossible: Pushing the frontiers of atomic models for protein tertiary structure prediction</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0083-0091</page>
+				<abstract>
+					<p>Protein folding, considered to be the holy grail of molecular biology, remains intractable even after six decades since the report of the first crystal structure. Over 70,000 X-ray and NMR structures are now available in protein structural repositories and no physico-chemical solution is in sight. Molecular simulation methodologies have evolved to a stage to provide a computational solution to the tertiary structures of small proteins. Knowledge base driven methodologies are maturing in predicting the tertiary structures of query sequences which share high similarities with sequences of known structures in the databases. The void region thus seems to be medium (&gt; 100 amino acid residues) to large proteins with no sequence homologs in the databases and hence which has become a fertile ground for the genesis of hybrid models which exploit local similarities together with $\textit{ab initio}$ models to arrive at reasonable predictions.We describe here the development of $\textit{Bhageerath}$ an $\textit{ab initio}$ model and $\textit{Bhageerath}$-H a hybrid model and present a critique on the current status of prediction of protein tertiary structures.</p>
+				</abstract>
+				<keywords>\textit{Ab initio}$; protein folding; molecular dynamics simulation; protein structure prediction; Bhageerath; critical assessment of protein structure prediction (CASP).</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Jayaram">B. Jayaram</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India</affiliation>
+						<affiliation>Supercomputing Facility for Bioinformatics and Computational Biology, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India</affiliation>
+						<affiliation>School of Biological Sciences, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India</affiliation>
+						<email>bjayaram@chemistry.iitd.ac.in</email>
+					</author>
+					<author>
+						<name first="Priyanka" last="Dhingra">Priyanka Dhingra</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India</affiliation>
+						<affiliation>Supercomputing Facility for Bioinformatics and Computational Biology, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bharat" last="Lakhani">Bharat Lakhani</name>
+						<affiliation>Supercomputing Facility for Bioinformatics and Computational Biology, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shashank" last="Shekhar">Shashank Shekhar</name>
+						<affiliation>Supercomputing Facility for Bioinformatics and Computational Biology, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quenching vibrations by collisions in cold traps: A quantum study for MgH$^+$(X$^1$$\sum^+$) with ${}^4$He(${}^1$S)</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0093-0097</page>
+				<abstract>
+					<p>Quantum dynamics of superelastic collisions involving vibrational levels of MgH$^+$(X$^1$$\sum^+$) ions in cold traps, interacting with ${}^4$He(${}^1$S) as a buffer gas at relative temperatures down to millikelvins, is discussed using an ab initio computed potential energy surface. The relative efficiency of collisional cooling with respect to collisional quenching of the internal vibrations is examined from the results of the relative sizes of the relevant cross sections in relation to predicting actual behaviour in cold traps. The present study indicates the feasibility of cooling vibrationally `hot’, trapped ions with the buffer gas.</p> 
+				</abstract>
+				<keywords>Scattering theory; ion-molecule collisions vibrational quenching.</keywords>
+				<authors>
+					<author>
+						<name first="Domenico" last="Caruso">Domenico Caruso</name>
+						<affiliation>Department of Chemistry, The University of Rome ‘Sapienza’ and P.le Aldo Moro 5, 00185 Rome, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mario" last="Tacconi">Mario Tacconi</name>
+						<affiliation>Department of Chemistry, The University of Rome ‘Sapienza’ and P.le Aldo Moro 5, 00185 Rome, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Franco A." last="Gianturco">Franco A. Gianturco</name>
+						<affiliation>Department of Chemistry, The University of Rome ‘Sapienza’ and P.le Aldo Moro 5, 00185 Rome, Italy</affiliation>
+						<email>fa.gianturco@caspur.it</email>
+					</author>
+					<author>
+						<name first="Ersin" last="Yurtsever">Ersin Yurtsever</name>
+						<affiliation>Department of Chemistry, Koc University, Rumelifeneriyalu and Sariyer, 34450 Istanbul, Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Design of optimal laser pulses to control molecular rovibrational excitation in a heteronuclear diatomic molecule</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0099-0104</page>
+				<abstract>
+					<p>Optimal control theory in combination with time-dependent quantum dynamics is employed to design laser pulses which can perform selective vibrational and rotational excitations in a heteronuclear diatomic system. We have applied the conjugate gradient method for the constrained optimization of a suitably designed functional incorporating the desired objectives and constraints. Laser pulses designed for several excitation processes of the $HF$ molecule were able to achieve predefined dynamical goals with almost 100&#37; yield.</p>
+				</abstract>
+				<keywords>Optimal control; conjugate gradient; heteronuclear; laser pulse design.</keywords>
+				<authors>
+					<author>
+						<name first="Sitansh" last="Sharma">Sitansh Sharma</name>
+						<affiliation>Center for Computational Natural Sciences and Bioinformatics, International Institute of Information Technology, Hyderabad 500 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gabriel G." last="Balint-Kurti">Gabriel G. Balint-Kurti</name>
+						<affiliation>Centre for Computational Chemistry, School of Chemistry, University of Bristol, Bristol BS8 1TS, UK</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Harjinder" last="Singh">Harjinder Singh</name>
+						<affiliation>Center for Computational Natural Sciences and Bioinformatics, International Institute of Information Technology, Hyderabad 500 032, India</affiliation>
+						<email>laltu@iiit.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Partition function of the two-dimensional nearest neighbour Ising models for finite lattices in a non-zero magnetic field</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0105-0113</page>
+				<abstract>
+					<p>The partition function for two-dimensional nearest neighbour Ising model in a non-zero magnetic field have been derived for a finite square lattice of 16, 25, 36 and 64 sites with the help of</p> 
+				</abstract>
+				<keywords>Two-dimensional Ising model; partition function; graph theory; transfer matrix; show-bit algorithm.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Vinothkumar">M. Vinothkumar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Nandhini">G. Nandhini</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. V." last="Sangaranarayanan">M. V. Sangaranarayanan</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email>sangara@iitm.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamics study of a three-fold pseudo-Jahn–Teller system using the extended Longuet–Higgins formalism</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0115-0120</page>
+				<abstract>
+					<p>An extended Longuet–Higgins formalism recently utilized to obtain generalized Born–Oppenheimer equations including the geometrical phase effect has been used to study a three-fold pseudo-Jahn–Teller type electronic degeneracy. The results of dynamics calculations carried out with the novel formalism are compared with Born–Oppenheimer (geometrical phase ignored), extended Born–Oppenheimer, and coupled three-state ones for the same system. The theory shows unprecedented simplicity while depicting all features.</p>
+				</abstract>
+				<keywords>Born–Oppenheimer approximation; geometrical phase effect; extended Longuet–Higgins theorem.</keywords>
+				<authors>
+					<author>
+						<name first="Biplab" last="Sarkar">Biplab Sarkar</name>
+						<affiliation>Departmento de Química, Universidade de Coimbra, 3004 535 Coimbra, Portugal</affiliation>
+						<affiliation>On study leave from the Department of Chemistry, North-Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. J. C." last="Varandas">A. J. C. Varandas</name>
+						<affiliation>Departmento de Química, Universidade de Coimbra, 3004 535 Coimbra, Portugal</affiliation>
+						<email>varandas@qtvs1.qui.uc.pt</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Optimal control of the initiation of a pericyclic reaction in the electronic ground state</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0121-0129</page>
+				<abstract>
+					<p>Pericyclic reactions in the electronic ground state may be initiated by down-chirped pump-dump sub-pulses of an optimal laser pulse, in the ultraviolet (UV) frequency and sub-10 femtosecond (fs) time domain. This is demonstrated by means of a quantum dynamics model simulation of the Cope rearrangement of Semibullvalene. The laser pulse is designed by means of optimal control theory, with detailed analysis of the mechanism. The theoretical results support the recent experimental initiation of a pericyclic reaction. The present approach provides an important step towards monitoring asynchronous electronic fluxes during synchronous nuclear pericyclic reaction dynamics, with femto-to-attosecond time resolution, as motivated by the recent prediction of our group.</p>
+				</abstract>
+				<keywords>Quantum dynamics; optimal control; pericyclic reaction; semibullvalene.</keywords>
+				<authors>
+					<author>
+						<name first="Timm" last="Bredtmann">Timm Bredtmann</name>
+						<affiliation>Institut für Chemie und Biochemie, Freie Universität Berlin, Takustr. 3, 14195 Berlin, Germany</affiliation>
+						<email>bredt@chemie.fu-berlin.de</email>
+					</author>
+					<author>
+						<name first="Jörn" last="Manz">Jörn Manz</name>
+						<affiliation>Institut für Chemie und Biochemie, Freie Universität Berlin, Takustr. 3, 14195 Berlin, Germany</affiliation>
+						<email>jmanz@chemie.fu-berlin.de</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structure and intermolecular vibrations of 7-azaindole-water 2:1 complex in a supersonic jet expansion: Laser-induced fluorescence spectroscopy and quantum chemistry calculation</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0131-0139</page>
+				<abstract>
+					<p>Laser-induced fluorescence spectra of a 2:1 complex between 7-azaindole and water, known as `non-reactive dimer’ of the molecule, have been measured in a supersonic jet expansion. The dispersed fluorescence spectrum of the electronic origin band of the complex shows a very large number of low-frequency vibrational features corresponding to different intermolecular modes of the complex in the ground electronic state. Geometries of several possible isomeric structures of the complex and their vibrational frequencies at harmonic approximation were calculated by electronic structure theory method at MP2/6-31G$^{\ast\ast}$ level. An excellent agreement is observed between the measured and calculated intermolecular vibrational mode frequencies for the energetically most favoured structure of the complex, where the water molecule is inserted within one of the two N$\cdots$H–N hydrogen bonds of the 7AI dimer.</p>
+				</abstract>
+				<keywords>LIF spectroscopy; supersonic jet expansion; hydrogen-bonded complex; 7-azaindole; intermolecular vibrational modes.</keywords>
+				<authors>
+					<author>
+						<name first="Montu K." last="Hazra">Montu K. Hazra</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<affiliation>Department of Chemistry and Biochemistry, University of California, San Diego, La Jolla, San Diego, CA 93093-0314, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Moitrayee" last="Mukherjee">Moitrayee Mukherjee</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Calcutta 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Ramanathan">V. Ramanathan</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<affiliation>3rd Institute of Physics, University of Stuttgart, Pfaffenwaldring 57, 70550 Stuttgart, Germany</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tapas" last="Chakraborty">Tapas Chakraborty</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Calcutta 700 032, India</affiliation>
+						<email>pctc@iacs.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Vibrational excitation resulting from electron capture in LUMO of F$_2$ and HCl – A treatment using the time-dependent wave packet approach</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0141-0148</page>
+				<abstract>
+					<p>Vibrational excitation cross-sections $\sigma_{v_f \leftarrow v_i}$($E$) in resonant e-F$_2$ and HCl scattering are calculated from transition matrix elements $T_{ν_f \leftarrow v_i}$($E$) obtained using Fourier transform of the cross correlation function $\langle \phi_{v_f} (R) | \Phi_{v_i} (R, t) \rangle$. where $\Psi_{v_i} (R,t) \approx e^{i \hbar H_{AB^-}(R)t} \phi_{v_i} (R)$. Time evolution under the influence of the resonance anionic Hamiltonian H$_{AB^-}$ (AB=F$_2$/HCl) is effected using Lanczos reduction technique followed by fast Fourier transform and the target (AB) vibrational eigenfunctions $\phi_{ν_i}$ ($R$) and $\phi_{v_f}$ ($R$) are calculated using Fourier grid Hamiltonian method applied to potential energy (PE) curve of the neutral target. The resulting vibrational excitation cross-sections provide reasonable agreement with experimental and other theoretical results.</p>
+				</abstract>
+				<keywords>Vibrational excitation; time-dependent wave packet approach; shape resonance; boomerang model; impulse model.</keywords>
+				<authors>
+					<author>
+						<name first="Bhavesh K." last="Shandilya">Bhavesh K. Shandilya</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manabendra" last="Sarma">Manabendra Sarma</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Guwahati, Guwahati 781 039, India</affiliation>
+						<email>msarma@iitg.ernet.in</email>
+					</author>
+					<author>
+						<name first="Satrajit" last="Adhikari">Satrajit Adhikari</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manoj K." last="Mishra">Manoj K. Mishra</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tailoring approach for obtaining molecular orbitals of large systems</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0149-0158</page>
+				<abstract>
+					<p>Molecular orbitals (MO’s) within Hartree-Fock (HF) theory are of vital importance as they provide preliminary information of bonding and features such as electron localization and chemical reactivity. The contemporary literature treats the Kohn–Sham orbitals within density functional theory (DFT) equivalently to the MO's obtained within HF framework. The high scaling order of $\textit{ab initio}$ methods is the main hurdle in obtaining the MO's for large molecular systems. With this view, an attempt is made in the present work to employ molecular tailoring approach (MTA) for obtaining the complete set of MO's including occupied and virtual orbitals, for large molecules at HF and B3LYP levels of theory. The energies of highest occupied and lowest unoccupied molecular orbitals, and hence the band gaps, are accurately estimated by MTA for most of the test cases benchmarked in this study, which include $\pi$-conjugated molecules. Typically, the root mean square errors of valence MO's are in range of 0.001 to 0.010 a.u. for all the test cases examined. MTA shows a time advantage factor of 2 to 3 over the corresponding actual calculation, for many of the systems reported.</p>
+				</abstract>
+				<keywords>Molecular orbitals; orbital energies; highest occupied molecular orbital (HOMO); lowest unoccupied molecular orbital (LUMO); band gap; molecular tailoring approach; Hartree-Fock (HF) theory; density functional theory (DFT).</keywords>
+				<authors>
+					<author>
+						<name first="Anuja P." last="Rahalkar">Anuja P. Rahalkar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<affiliation>Department of Chemistry, University of Pune, Ganeshkhind, Pune 411007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shridhar R." last="Gadre">Shridhar R. Gadre</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<email>gadre@iitk.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variation of diffusivity with the cation radii in molten salts of superionic conductors containing iodine anion: A molecular dynamics study</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0159-0166</page>
+				<abstract>
+					<p>A molecular dynamics study of the dependence of diffusivity of the cation on ionic radii in molten AgI is reported.We have employed modified Parinello-Rahman-Vashistha interionic pair potential proposed by Shimojo and Kobayashi. Our results suggest that the diffusivity of the cation exhibits an increase followed by a decrease as the ionic radius is increased. Several structural and dynamical properties are reported.</p>
+				</abstract>
+				<keywords>diffusion; superionic conductor; molten salt.</keywords>
+				<authors>
+					<author>
+						<name first="Srinivasa R." last="Varanasi">Srinivasa R. Varanasi</name>
+						<affiliation>Solid Sate and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S" last="Yashonath">S. Yashonath</name>
+						<affiliation>Solid Sate and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>yashonath@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evidence for the powerful catalytic ability of imidozirconocene complex from its epoxide ring cleavage reactions – A DFT mechanistic view</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0167-0176</page>
+				<abstract>
+					<p>Imidozirconocene complex is known for its bifunctional reactivity and catalytic ability and this complex mediates ring cleavage of epoxides. Cyclooctene oxide (${\bf 1}$) Norbornene oxide (${\bf 2}$) and 2,5-dimethyl cyclohexene oxide (${\bf 3}$) undergo ring cleavage in the presence of imidozirconocene complex. Epoxide ${\bf 1}$ has accessible $\beta$-hydrogens (type I) while epoxide ${\bf 2}$ and ${\bf 3}$ do not have them (type II). Normally type I epoxides undergo elimination while type II epoxides prefer insertion. All the insertion reactions lead to five-membered metallacycle formation and elimination results in thermodynamically stable allyl-alkoxy product. The insertion is a two-step process following either diradical or zwitterionic pathway, while elimination is a one-step concerted reaction. DFT (density functional theory) modelling of these reactions at B3LYP/LANL2DZ level show that epoxide ${\bf 1}$ undergoes elimination in agreement with experiment. However, calculations indicate that epoxide (${\bf 2}$) proceeds through diradical intermediate in contrast to experimental observations. Surprisingly, epoxide (${\bf 3}$) that has both the $\beta$ positions blocked by methyl groups undergoes elimination rather than insertion. AIM and EDA analyses offer further insights on the reaction mechanism and bifunctional reactivity of imidozirconozene complex.</p>
+				</abstract>
+				<keywords>Imidozirconocene complex; epoxide ring cleavage reaction; density functional theory; AIM analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Dhurairajan" last="Senthilnathan">Dhurairajan Senthilnathan</name>
+						<affiliation>School of Chemistry, Bharathidasan University, Tiruchirappalli 620 024, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajadurai Vijay" last="Solomon">Rajadurai Vijay Solomon</name>
+						<affiliation>School of Chemistry, Bharathidasan University, Tiruchirappalli 620 024, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ponnambalam" last="Venuvanalingam">Ponnambalam Venuvanalingam</name>
+						<affiliation>School of Chemistry, Bharathidasan University, Tiruchirappalli 620 024, India</affiliation>
+						<email>venuvanalingam@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Basic principles of ultrafast Raman loss spectroscopy</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0177-0186</page>
+				<abstract>
+					<p>When a light beam passes through any medium, the effects of interaction of light with the material depend on the field intensity. At low light intensities the response of materials remain linear to the amplitude of the applied electromagnetic field. But for sufficiently high intensities, the optical properties of materials are no longer linear to the amplitude of applied electromagnetic field. In such cases, the interaction of light waves with matter can result in the generation of new frequencies due to nonlinear processes such as higher harmonic generation and mixing of incident fields. One such nonlinear process, namely, the third order nonlinear spectroscopy has become a popular tool to study molecular structure. Thus, the spectroscopy based on the third order optical nonlinearity called stimulated Raman spectroscopy (SRS) is a tool to extract the structural and dynamical information about a molecular system. Ultrafast Raman loss spectroscopy (URLS) is analogous to SRS but is more sensitive than SRS. In this paper, we present the theoretical basis of SRS (URLS) techniques which have been developed in our laboratory.</p>
+				</abstract>
+				<keywords>Nonlinear spectroscopy; phase matching condition; third order nonlinear process; SRS; URLS.</keywords>
+				<authors>
+					<author>
+						<name first="N. K." last="Rai">N. K. Rai</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Y." last="Lakshmanna">A. Y. Lakshmanna</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V. V." last="Namboodiri">V. V. Namboodiri</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Umapathy">S. Umapathy</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>umapathy@ipc.iisc.ernet.in</email>
+						<email>siva.umapathy@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydrogenoid orbitals revisited: From Slater orbitals to Coulomb Sturmians</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0187-0192</page>
+				<abstract>
+					<p>The simple connection between the Slater orbitals, venerable in quantum chemistry, and the Coulomb Sturmian orbitals, more recently employed in atomic and molecular physics, is pointed out explicitly in view of the renewed interest in both as basis sets in applied quantum mechanics. Research in Slater orbitals mainly concerns multicentre, many-body integrals, whereas that on Sturmians exploits their orthonormality and completeness with no need of continuum states. An account of recent progress is outlined, also with reference to relationships between the two basis sets, and with the momentum space and hyperspherical harmonics representations.</p>
+				</abstract>
+				<keywords>Sturmians; hyperspherical harmonics; Slater orbitals.</keywords>
+				<authors>
+					<author>
+						<name first="Danilo" last="Calderini">Danilo Calderini</name>
+						<affiliation>Dipartimento di Chimica, Università di Perugia, I-06123 Perugia, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Simonetta" last="Cavalli">Simonetta Cavalli</name>
+						<affiliation>Dipartimento di Chimica, Università di Perugia, I-06123 Perugia, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Cecilia" last="Coletti">Cecilia Coletti</name>
+						<affiliation>Università G. D’Annunzio, Dipartimento di Scienze del Farmaco, I-66100 Chieti, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gaia" last="Grossi">Gaia Grossi</name>
+						<affiliation>Dipartimento di Chimica, Università di Perugia, I-06123 Perugia, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vincenzo" last="Qquilanti">Vincenzo Qquilanti</name>
+						<affiliation>Dipartimento di Chimica, Università di Perugia, I-06123 Perugia, Italy</affiliation>
+						<email>aquila@dyn.unipg.it</email>
+						<email>vincenzoaquilanti@yahoo.it</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The role of C–H$\ldots \pi$ interaction in the stabilization of benzene and adamantane clusters</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0193-0202</page>
+				<abstract>
+					<p>In this investigation, a systematic attempt has been made to understand the interaction between adamantane and benzene using both ab initio and density functional theory methods. C–H$\ldots \pi$ type of interaction between C–H groups of adamantane and $\pi$ cloud of benzene is found as the important attraction for complex formation. The study also reveals that the methylene (-CH$_2$) and methine (-CH) groups of adamantane interact with benzene resulting in different geometrical structures. And it is found that the former complex is stronger than the later. The diamondoid structure of adamantane enables it to interact with a maximum of four benzene molecules, each one along the four faces. The stability of the complex increases with increase in the number of benzene molecules. The energy decomposition analysis of adamantane-benzene complexes using DMA approach shows that the origin of the stability primarily arises from the dispersive interaction. The theory of atoms in molecules (AIM) supports the existence of weak interaction between the two systems. The electrostatic topography features provide clues for the mode of interaction of adamantane with benzene.</p> 
+				</abstract>
+				<keywords>Weak intermolecular interactions; adamantane-benzene clusters; C–H$\ldots \pi$ interaction; atoms in molecules.</keywords>
+				<authors>
+					<author>
+						<name first="R. Mahesh" last="Kumar">R. Mahesh Kumar</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Elango">M. Elango</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Parthasarathi">R. Parthasarathi</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dolly" last="Vijay">Dolly Vijay</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Subramanian">V. Subramanian</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
+						<email>subbu@clri.res.in</email>
+						<email>subuchem@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Density functional studies of endosulphan and its interaction with glycine and GABA</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0203-0207</page>
+				<abstract>
+					<p>Density functional theoretic (DFT) methods are employed to study the interactions between endosulphan and two amino acids, namely glycine and $\gamma$ -aminobutyric acid (GABA). Two conformers of each isomer $\alpha$- and $\beta$-endosulphan are considered in the study. The DFT methods B3LYP, M05, M05–2X, M06 and M06–2X in conjunction with the basis set 6–31++G$^{\ast\ast}$ are used. The complexes of $\alpha$- and $\beta$-endosulphan with amino acids are stabilized by a strong hydrogen bond. In addition, there are several weak C–H$\ldots$O interactions present between the two moieties. Among the DFT methods used, M06–2X method shows the highest stabilization energy for all the complexes. The M06–2X/6–31++G$^{\ast\ast}$ method predicts that among the four conformers of endosulphan, the $\alpha$ conformer in which the S=O points up, forms the most stable complex with both glycine and GABA, with stabilization energies −15.24 kcal/mol and −14.39 kcal/mol, respectively. The $\beta$ conformer in which the S=O points down, forms the least stable complex with both amino acids with stabilization energies −7.14 and −7.85 kcal/mol, respectively.</p> 
+				</abstract>
+				<keywords>Endosulphan; density functional; amino acid; glycine; $\gamma$-amino butyric acid; GABA.</keywords>
+				<authors>
+					<author>
+						<name first="C. N." last="Ramachandran">C. N. Ramachandran</name>
+						<affiliation>Department of Chemical and Biological Engineering, University at Buffalo, The State University of New York, Amherst, NY 14260, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Brijesh Kumar" last="Mishra">Brijesh Kumar Mishra</name>
+						<affiliation>Environmental Chemistry Modeling Laboratory, GR C2 544, Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ashwani Kumar" last="Tiwari">Ashwani Kumar Tiwari</name>
+						<affiliation>Department of Chemical Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, 741 252, India</affiliation>
+						<email>ashwani@iiserkol.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variation of kinetic isotope effect in multiple proton transfer reactions</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0209-0214</page>
+				<abstract>
+					<p>Recently, we had suggested that the motion along the promoter mode in the first part of the IRC of proton transfer reaction enhances the delocalization of $n_\sigma$ electrons on the acceptor atom into the $\sigma^\ast$ orbital of the donor-hydrogen covalent bond, and as a consequence weakens it. This leads to a reduction of the barrier to the proton transfer as well as the stretching frequency of donor-hydrogen bond. An extension of this to the concerted multiple proton transfer reactions implies that the kinetic isotope effect in such reaction depends exponentially on the number of protons that are being transferred. Computational evidence on three systems, (HF)$_3$, formic acid dimer, and (H$_2$O)$_n$ clusters is provided to support this assertion.</p>
+				</abstract>
+				<keywords>Proton transfer; promoter modes; kinetic isotope effect.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Saritha">B. Saritha</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Durga" last="Prasad">M. Durga Prasad</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email>mdpsc@uohyd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydrogen bond dynamics and vibrational spectral diffusion in aqueous solution of acetone: A first principles molecular dynamics study</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0215-0221</page>
+				<abstract>
+					<p>We present an $\textit{ab initio}$ molecular dynamics study of vibrational spectral diffusion and hydrogen bond dynamics in aqueous solution of acetone at room temperature. It is found that the frequencies of OD bonds in the acetone hydration shell have a higher stretch frequency than those in the bulk water. Also, on average, the frequencies of hydration shell OD modes are found to increase with increase in the acetone–water hydrogen bond distance. The vibrational spectral diffusion of the hydration shell water molecules reveals three time scales: A short-time relaxation ($\tilde$80 fs) corresponding to the dynamics of intact acetone–water hydrogen bonds, a slower relaxation ($\tilde$1.3 ps) corresponding to the lifetime of acetone–water hydrogen bonds and another longer time constant ($\tilde$12 ps) corresponding to the escape dynamics of water from the solute hydration shell. The present first principles results are compared with those of available experiments and classical simulations.</p>
+				</abstract>
+				<keywords>$\textit{Ab initio}$ molecular dynamics; spectral diffusion; acetone–water; hydrogen bond dynamics.</keywords>
+				<authors>
+					<author>
+						<name first="Bhabani S." last="Mallik">Bhabani S. Mallik</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208016, India</affiliation>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Hyderabad, Yeddumailaram 502205, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Amalendu" last="Chandra">Amalendu Chandra</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208016, India</affiliation>
+						<email>amalen@iitk.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fock-space multi-reference coupled-cluster response with the effect of triples on dipole moment of ClO and SF radicals</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0223-0232</page>
+				<abstract>
+					<p>Dipole moment calculations of SF and ClO radicals have been carried out using the recently developed partial triples correction to Fock-space multi-reference coupled cluster method. Theoretical calculation of the doublet SF and ClO radicals is useful due to their importance in atmospheric chemistry. The dipole moments of these radicals are extremely sensitive to correlation effects. A brief insight to the way the triples correction has been implemented is presented. We compare the results obtained from our analytic response treatment with that of restricted open Hartree-Fock (ROHF) calculations. Results are presented for both relaxed and non-relaxed approach in the ROHF method. Results suggest the importance of triples corrections. The effects of orbital relaxation are also analysed from the results.</p>
+				</abstract>
+				<keywords>Fock-space; Lagrangian; triples; dipole moment.</keywords>
+				<authors>
+					<author>
+						<name first="Lalitha" last="Ravichandran">Lalitha Ravichandran</name>
+						<affiliation>Physical Chemistry Division, National Chemical Laboratory (CSIR), Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Debarati" last="Bhattacharya">Debarati Bhattacharya</name>
+						<affiliation>Physical Chemistry Division, National Chemical Laboratory (CSIR), Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nayana" last="Vaval">Nayana Vaval</name>
+						<affiliation>Physical Chemistry Division, National Chemical Laboratory (CSIR), Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sourav" last="Pal">Sourav Pal</name>
+						<affiliation>Physical Chemistry Division, National Chemical Laboratory (CSIR), Pune 411 008, India</affiliation>
+						<email>s.pal@ncl.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Excitation energy transfer from dye molecules to doped graphene</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0233-0240</page>
+				<abstract>
+					<p>Recently, we have reported theoretical studies on the rate of energy transfer from an electronically excited molecule to graphene. It was found that graphene is a very efficient quencher of the electronically excited states and that the rate $\alpha z^{−4}$. The process was found to be effective up to 30 $nm$ which is well beyond the traditional FRET limit. In this report, we study the transfer of an amount of energy $\hbar \Omega$ from a dye molecule to doped graphene. We find a crossover of the distance dependence of the rate from $z^{−4}$ to exponential as the Fermi level is increasingly shifted into the conduction band, with the crossover occurring at a shift of the Fermi level by an amount $\hbar \Omega/2$.</p>
+				</abstract>
+				<keywords>FRET; graphene; quenching; doping; Dirac cone approximation; Fermi golden rule; K-Point; electron-hole pairs.</keywords>
+				<authors>
+					<author>
+						<name first="R. S." last="Swathi">R. S. Swathi</name>
+						<affiliation>School of Chemistry, Indian Institute of Science Education and Research, Thiruvananthapuram 695 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. L." last="Sebastian">K. L. Sebastian</name>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>kls@ipc.iisc.ernet.in</email>
+						<email>klsiisc@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Scaling properties of net information measures for bound states of spherical model potentials confined with finite barrier</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0241-0245</page>
+				<abstract>
+					<p>Using dimensional analyses, the scaling properties of the Heisenberg uncertainty relationship as well as the various information theoretical uncertainty-like relationships are derived for the bound states corresponding to the superposition of the power potential of the form $V(r) = Zr^n + \sum_i Z_ir^{n_i}$, where $Z$, $Zi$, $n$, $n_i$ are parameters, in the free state as well as in the additional presence of a spherical penetrable boundary wall located at radius $R$ The uncertainty product and all other net information measures are shown here to depend only on the parameters [$s_i$] defined by the ratios $Z_i/Z^{(n_i+2)/(n+2)}$. Introduction of a finite potential, $V_c$ at the radial distance $r \geq R$ results in a complete set of scaling parameters given by [$s_i$, $t_1$, $t_2$], where $t_1$ is given by $RZ^{1/(n+2)}$ and $t_2 = V_c/(Z)^{2/(n+2)}$.</p>
+				</abstract>
+				<keywords>Heisenberg uncertainty; information theory; confined potentials.</keywords>
+				<authors>
+					<author>
+						<name first="S. H." last="Patil">S. H. Patil</name>
+						<affiliation>Department of Physics, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. D." last="Sen">K. D. Sen</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email>sharad@phy.iitb.ac.in</email>
+						<email>sensc@uohyd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantum dynamical study of low-energy photoelectron bands of 2-phenylethyl-$N,N$-dimethylamine</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0247-0253</page>
+				<abstract>
+					<p>The first three photoelectron bands of 2-phenylethyl-$\textit{N,N}$-dimethylamine (PENNA) are investigated theoretically, paying particular attention to the vibrational structure and to possible nonadiabatic coupling effects. A substantial vibronic interaction is established between the first and second excited cationic states (corresponding to the second and third photoelectron bands). Their coupling to the cationic ground state is found to be rather weak. This is tentatively attributed to the well-known fact that the latter carries a hole at the amine site, while the former two have the electron removed from benzene-type orbitals. The interaction between the two excited cationic states is characterized by a `hidden’ or local symmetry at the phenyl moiety. Preliminary dynamic calculations with two interacting electronic states and four vibrational modes are reported. The computed spectra are compared to experimental results of Weinkauf $\textit{et al}$.</p>
+				</abstract>
+				<keywords>Potential energy surfaces; vibronic interactions; conical intersections; photoelectron spectra.</keywords>
+				<authors>
+					<author>
+						<name first="Susana" last="Gómez-Carrasco">Susana Gómez-Carrasco</name>
+						<affiliation>Theoretical Chemistry, University of Heidelberg, 69120 Heidelberg, Germany</affiliation>
+						<affiliation>Physical Chemistry Department, University of Salamanca, Salamanca, Spain</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Horst" last="Köppel">Horst Köppel</name>
+						<affiliation>Theoretical Chemistry, University of Heidelberg, 69120 Heidelberg, Germany</affiliation>
+						<email>horst.koeppel@pci.uni-heidelberg.de</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Computational investigation of hydrogen adsorption in silicon-lithium binary clusters</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0255-0260</page>
+				<abstract>
+					<p>Theoretical studies on hydrogen adsorption properties of silicon-lithium binary clusters are carried out. We have considered three different clusters viz., Si$_5$Li$^{−5}$, Si$_5$Li$^{6}$ and Si$_5$Li$^+_7$ and for each cluster, the geometries of different possible isomers are optimized. In all the minimum energy isomers of the three clusters considered, two of the lithium atoms are found to be situated in the axial positions and the remaining lithium atoms are in the equatorial position in the Si$_5$ plane. The lithium atoms which are in Si$_5$ plane are bonded to the Si-Si edge through a bridged bond instead of a corner in the Si5 ring. From the calculated atomic charges, it is found that there is a charge transfer from lithium to silicon leaving a partial positive charge on the Li atoms and the axial lithium atoms are more charged as compared to the remaining lithium atoms. In the case of Si$_5$Li$_6$ and Si$_5$Li$^+_7$, the Li sites can trap a total of 14 and 17 H$_2$ molecules, respectively, with each bridge bonded Li site adsorbing three H$_2$ molecules and each axial Li adsorbing one H$_2$ molecule which corresponds to a gravimetric density of 13.33 wt&#37; and 15.25 wt&#37;, respectively.</p>
+				</abstract>
+				<keywords>$\textit{Ab initio}$ calculation; hydrogen adsorption; silicon-lithium binary clusters.</keywords>
+				<authors>
+					<author>
+						<name first="Naresh K." last="Jena">Naresh K. Jena</name>
+						<affiliation>Theoretical Chemistry Section, Bhabha Atomic Research Centre and Homi Bhabha National Institute, Department of Atomic Energy, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Srinivasu">K. Srinivasu</name>
+						<affiliation>Theoretical Chemistry Section, Bhabha Atomic Research Centre and Homi Bhabha National Institute, Department of Atomic Energy, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Swapan K." last="Ghosh">Swapan K. Ghosh</name>
+						<affiliation>Theoretical Chemistry Section, Bhabha Atomic Research Centre and Homi Bhabha National Institute, Department of Atomic Energy, Mumbai 400 085, India</affiliation>
+						<email>skghosh@barc.gov.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structure and transport properties of LiF–BeF$_2$ mixtures: Comparison of rigid and polarizable ion potentials</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0261-0269</page>
+				<abstract>
+					<p>Molecular dynamics simulations are performed to study the structure and dynamics of the LiF–BeF$_2$ system over a range of compositions using the transferable rigid-ion model (TRIM). The densities obtained with the TRIM potential are approximately 17–20&#37; lower than the experimental values while polarizable ion models (PIM) give densities within 5&#37; of the experimental value. The TRIM and PIM potentials give essentially identical radial distribution functions (RDFs) for Li–F and Be–F ion pairs though the Be–Be pair correlations differ significantly and reflect the corresponding density differences. The variation in the radial distribution functions with concentration, particularly the anion–anion pair correlation function, reflects the reorganization of the fluoride ions as the addition of BeF$_2$ in the mixture promotes the formation of the tetrahedral fluoroberyllate network. Along the 67 mol&#37; LiF isopleth, diffusivities and Nernst–Einstein ionic conductivities from simulations using the PIM and TRIM potentials are in good agreement for temperatures up to 925 K. The viscosity data using the PIM model is also found to be in good agreement with the TRIM results presented here along the 873K isotherm for compositions ranging from 0 to 50 mol&#37; BeF$_2$. The main conclusion from this study is that the non-polarizable, TRIM provides reasonable results for the structural correlations and transport properties of the LiF–BeF$_2$ system in comparison with first-principles-based, PIM.</p> 
+				</abstract>
+				<keywords>Molten salts; ionic liquids; molecular dynamics; transport properties; ionic conductivity; viscosity.</keywords>
+				<authors>
+					<author>
+						<name first="B. Shadrack" last="Jabes">B. Shadrack Jabes</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Delhi, New Delhi 110 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manish" last="Agarwal">Manish Agarwal</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Delhi, New Delhi 110 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Charusita" last="Chakravarty">Charusita Chakravarty</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Delhi, New Delhi 110 016, India</affiliation>
+						<email>charus@chemistry.iitd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamics of the dissociative electron attachment in H$_2$O and D$_2$O: The A$_1$ resonance and axial recoil approximation</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0271-0279</page>
+				<abstract>
+					<p>The dynamics of the formation and decay of negative ion resonance of A$_1$ symmetry at 8.5 eV electron energy in the dissociative electron attachment (DEA) process in H$_2$O and D$_2$O are investigated using the velocity slice imaging technique. While the highest energy hydride ions formed by DEA show angular distributions characteristic to the A$_1$ symmetry, those formed with low-kinetic energy show considerably different angular distributions indicating changes in the orientation of the dissociating bond due to bending mode vibrations. Our observations are quite different from the recently reported measurements, but consistent with the fully quantum calculations.</p>
+				</abstract>
+				<keywords>Dissociative attachment; velocity slice imaging; A1 resonance in water.</keywords>
+				<authors>
+					<author>
+						<name first="N. Bhargava" last="Ram">N. Bhargava Ram</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai 400 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vaibhav S." last="Prabhudesai">Vaibhav S. Prabhudesai</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai 400 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="E." last="Krishnakumar">E. Krishnakumar</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai 400 005, India</affiliation>
+						<email>ekkumar@tifr.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Exploring control parameters of two photon processes in solutions</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0281-0289</page>
+				<abstract>
+					<p>Two-photon microscopy depends extensively on the two-photon absorption cross-sections of biologically relevant chromophores. High repetition rate (HRR) lasers are essential in multiphoton microscopy for generating satisfactory signal to noise at low average powers. However, HRR lasers generate thermal distortions in samples even with the slightest single photon absorption. We use an optical chopper with HRR lasers to intermittently `blank’ irradiation and effectively minimize thermal effects to result in a femtosecond z-scan setup that precisely measures the two-photon absorption (TPA) cross-sections of chromophores. Though several experimental factors impact such TPA measurements, a systematic effort to modulate and influence TPA characteristics is yet to evolve. Here, we present the effect of several control parameters on the TPA process that are independent of chromophore characteristics for femtosecond laser pulse based measurements; and demonstrate how the femtosecond laser pulse repetition rate, chromophore environment and incident laser polarization can become effective control parameters for such nonlinear optical properties.</p>
+				</abstract>
+				<keywords>Nonlinear optical control; two photon absorption; two photon absorption cross-section; polarization; pulse repetition rate; nonlinear index of refraction.</keywords>
+				<authors>
+					<author>
+						<name first="Debabrata" last="Goswami">Debabrata Goswami</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<email>dgoswami@iitk.ac.in</email>
+					</author>
+					<author>
+						<name first="Amit" last="Nag">Amit Nag</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<affiliation>Department Chemie und CeNS Ludwig-Maximilians-University, Munich, Butenandtstr.11, HausE, 81377 Munich, Germany</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the nature of highly vibrationally excited states of thiophosgene</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0291-0300</page>
+				<abstract>
+					<p>In this work an analysis of the highly vibrationally excited states of thiophosgene (SCCl$_2$) is made in order to gain insights into some of the experimental observations and spectral features. The states analysed here lie in a spectrally complex region where strong mode mixings are expected due to the overlap of several strong anharmonic Fermi resonances. Two recent techniques, a semiclassical angle space representation of the eigenstates and the parametric variation of the eigenvalues (level-velocities) are used to identify eigenstate sequences exhibiting common localization characteristics. Preliminary results on the influence of highly excited out-of-plane bending modes on the nature of the eigenstates suggest a possible bifurcation in the system.</p>
+				</abstract>
+				<keywords>Thiophosgene; IVR; resonances; assignment; semiclassical.</keywords>
+				<authors>
+					<author>
+						<name first="Srihari" last="Keshavamurthy">Srihari Keshavamurthy</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<email>srihari@iitk.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Adsorption of croconate dyes on TiO$_2$ anatase (101) surface: A periodic DFT study to understand the binding of diketo groups</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0301-0310</page>
+				<abstract>
+					<p>The adsorption of model croconate dyes on the stoichiometric TiO$_2$ anatase (101) surface has been studied by means of periodic density functional calculations to understand the adsorption of the diketo (-COCO-) groups. Past experimental and theoretical results have shown the strong binding ability of the acid group (-COOH) to the TiO$_2$ surface but here the theoretical studies predicts the binding strength of the diketo group to be also significant and comparable with that of the -COOH group. This may cause a competitive binding between the keto groups and the acid groups on the TiO$_2$ surface in the case of croconate dyes and cause a reduction in the efficiency of the DSSC.</p>
+				</abstract>
+				<keywords>DSSC; croconates; TiO$_2$; adsorption; periodic DFT.</keywords>
+				<authors>
+					<author>
+						<name first="Avinash L." last="Puyad">Avinash L. Puyad</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 007, India</affiliation>
+						<affiliation>School of Chemical Sciences, SRTMU, Nanded 431 606, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ch Ramesh" last="Kumar">Ch Ramesh Kumar</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Bhanuprakash">K. Bhanuprakash</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 007, India</affiliation>
+						<email>bhanu2505@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantum dynamics of the Cl+H$_2$ reaction at ultracold temperatures</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0311-0316</page>
+				<abstract>
+					<p>Quantum calculations are reported for the reaction between vibrationally excited H$_2$ molecules and Cl atoms at energies ranging from the ultracold to thermal regimes. It is found that chemical reaction leading to vibrationally excited HCl molecules dominates over non-reactive vibrational quenching. The product HCl molecule is found to be formed predominantly in the $v = 1$ vibrational level with appreciable rotational excitation. A spin-orbit uncorrected value of $1.86  \times  10^{−12}$ cm$^3$ molecule$^{−1}$ s$^{−1}$ is predicted for the rate coefficient in the zero-temperature limit, which is about two orders of magnitude larger than the thermal rate coefficient of the Cl+H$_2$ reaction at 300 K.</p>
+				</abstract>
+				<keywords>Ultracold molecules; ultracold chemistry; reactive scattering; quantum dynamics.</keywords>
+				<authors>
+					<author>
+						<name first="N." last="Balakrishnan">N. Balakrishnan</name>
+						<affiliation>Department of Chemistry, University of Nevada Las Vegas, 4505 Maryland Parkway, Las Vegas, NV 89154, USA</affiliation>
+						<email>naduvala@unlv.nevada.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydration dynamics of protein molecules in aqueous solution: Unity among diversity</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0317-0325</page>
+				<abstract>
+					<p>Dielectric dispersion and NMRD experiments have revealed that a significant fraction of water molecules in the hydration shell of various proteins do not exhibit any slowing down of dynamics. This is usually attributed to the presence of the hydrophobic residues (HBR) on the surface, although HBRs alone cannot account for the large amplitude of the fast component. Solvation dynamics experiments and also computer simulation studies, on the other hand, repeatedly observed the presence of a non-negligible slow component. Here we show, by considering three well-known proteins ($\textit{lysozyme, myoglobin}$ and $\textit{adelynate}$ kinase), that the fast component arises $\textit{partly}$ from the response of those water molecules that are hydrogen bonded with the backbone oxygen (BBO) atoms. These are structurally and energetically less stable than those with the side chain oxygen (SCO) atoms. In addition, the electrostatic interaction energy distribution (EIED) of individual water molecules (hydrogen bonded to SCO) with side chain oxygen atoms shows a $\textit{surprising}$ two $\textit{peak character}$ with the lower energy peak almost $\textit{coincident}$ with the energy distribution of water hydrogen bonded to backbone oxygen atoms (BBO). This two peak contribution appears to be quite general as we find it for lysozyme, myoglobin and adenylate kinase (ADK). $\textit{The sharp peak of EIED at small energy (at less than} 2 k_{B}T) \textit{for the BBO atoms, together with the first peak of EIED of SCO and the HBRs on the protein surface, explain why a large fraction (∼ 80&#37;) of water in the protein hydration layer remains almost as mobile as bulk water}$. Significant slowness arises only from the hydrogen bonds that populate the second peak of EIED at larger energy (at about 4 k$_B$T). Thus, if we consider hydrogen bond interaction alone, only 15–20&#37; of water molecules in the protein hydration layer can exhibit slow dynamics, resulting in an average relaxation time of about 5–10 ps. The latter estimate assumes a time constant of 20–100 ps for the slow component. Interestingly, relaxation of water molecules hydrogen bonded to back bone oxygen exhibit an initial component faster than the bulk, suggesting that hydrogen bonding of these water molecules remains frustrated. This explanation of the heterogeneous and non-exponential dynamics of water in the hydration layer is quantitatively consistent with all the available experimental results, and provides unification among diverse features.</p> 
+				</abstract>
+				<keywords>Protein–water hydrogen bond; electrostatic energy distribution; faster than bulk.</keywords>
+				<authors>
+					<author>
+						<name first="Biman" last="Jana">Biman Jana</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subrata" last="Pal">Subrata Pal</name>
+						<affiliation>Indian Institute of Technology, Gandhinagar, Ahmedabad 382 424, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biman" last="Bagchi">Biman Bagchi</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Jawaharlal Nehru Centre for Advanced Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>bbagchi@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Potentials of mean force for the $\textit{exo}$ and $\textit{endo}$ solvolysis of 2-norbornyl chloride in water and DMSO: A constrained molecular dynamics study</title>
+				<feature>Special Issue on Structure, Reactivity and Dynamics</feature>
+				<page>0327-0332</page>
+				<abstract>
+					<p>Constrained molecular dynamics is used to calculate the potentials of mean force for the $\textit{exo}$ and $\textit{endo}$ dissociation of 2-norbornyl chlorides in two solvents, namely water and dimethyl sulphoxide (DMSO). The gas phase potential energy curves for the 2-norbornyl chlorides are computed by $\textit{ab initio}$ methods and these curves are fitted into a 12–6–1 potential for use in classical molecular dynamics simulations. The gas phase potential energy curves indicate a greater barrier for the dissociation of the $\textit{endo}$ 2-norbornyl chloride (than the $\textit{exo}$). The potentials of mean force (PMF) in DMSO and water indicate the locations and the magnitudes of the activation barriers in these solutions and are sensitive functions of the fitted gas phase potentials.</p>
+				</abstract>
+				<keywords>Potentials of mean force (PMF); constrained molecular dynamics; $\textit{endo}$ and $\textit{exo}$ 2-norbornyl chloride dissociation.</keywords>
+				<authors>
+					<author>
+						<name first="Subodh C." last="Tiwari">Subodh C. Tiwari</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Timir" last="Hajari">Timir Hajari</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ashish" last="Sharma">Ashish Sharma</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. L." last="Tembe">B. L. Tembe</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email>bltembe@chem.iitb.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="03" year="2012">
+			<entry hassup="0">
+				<title>The relevance of metal organic frameworks (MOFs) in inorganic materials chemistry</title>
+				<feature></feature>
+				<page>0339-0353</page>
+				<abstract>
+					<p>The metal organic frameworks (MOFs) have evolved to be an important family and a corner stone for research in the area of inorganic chemistry. The progress made since 2000 has attracted researchers from other disciplines to actively engage themselves in this area. This cooperative synergy of different scientific believes have provided important edge and spread to the chemistry of metal-organic frameworks. The ease of synthesis coupled with the observation of properties in the areas of catalysis, sorption, separation, luminescence, bioactivity, magnetism, etc., are a proof of this synergism. In this article, we present the recent developments in this area.</p>
+				</abstract>
+				<keywords>Metal-organic framework; luminescence; catalysis; adsorption.</keywords>
+				<authors>
+					<author>
+						<name first="Srinivasan" last="Natarajan">Srinivasan Natarajan</name>
+						<affiliation>Framework solids Laboratory, Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>snatarajan@sscu.iisc.ernet.in</email>
+					</author>
+					<author>
+						<name first="Partha" last="Mahata">Partha Mahata</name>
+						<affiliation>Framework solids Laboratory, Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Debajit" last="Sarma">Debajit Sarma</name>
+						<affiliation>Framework solids Laboratory, Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Excited state intramolecular charge transfer reaction in non-aqueous reverse micelles: Effects of solvent confinement and electrolyte concentration</title>
+				<feature></feature>
+				<page>0355-0373</page>
+				<abstract>
+					<p>Steady state and time resolved fluorescence emission spectroscopy have been employed to investigate the effects of solvent confinement and electrolyte concentration on excited state intramolecular charge transfer (ICT) reaction in 4-(1-pyrrolidinyl) benzonitrile (P5C), 4-(1-piperidinyl) benzonitrile (P6C), and 4-(1-morpholenyl) benzonitrile (M6C) in AOT/n-heptane/acetonitrile and AOT/n-heptane/methanol reverse micelles. Dramatic confinement effects have been revealed via a huge reduction (factor ranging between 100 and 20) over bulk values of both equilibrium and reaction rate constants. A strong dependence on the size of the confinement ($W_s$) of these quantities has also been observed. $W_s$ dependent average static dielectric constant, viscosity and solvation time-scale have been determined. Estimated dielectric constants for confined methanol and acetonitrile show a decrease from the respective bulk values by a factor of 3–5 and viscosities increased by a factor of 2 at the highest $W_s$ considered. Addition of electrolyte at $W_s = 5$ for acetonitrile is found to produce a linear increase of confined solvent viscosity but leads to a non-monotonic electrolyte concentration dependence of average solvation time. Reaction rate constant is found to decrease linearly with electrolyte concentration for P5C and P6C but non-monotonically for M6C, the highest decrease for all the molecules being $\tilde$ 20&#37; over the value in the absence of added electrolyte in the solvent pool. The observed huge reduction in reaction rate constant is attributed to the effects of decreased solution polarity, enhanced viscosity and slowed-down solvent reorganization of the solvent under confinement in these non-aqueous reverse micelles.</p>
+				</abstract>
+				<keywords>Intramolecular charge transfer reaction; non-aqueous reverse micelles; confinement effects; static and dynamic solvent control.</keywords>
+				<authors>
+					<author>
+						<name first="Tuhin" last="Pradhan">Tuhin Pradhan</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, and Unit for Nanoscience and Technology, S. N. Bose National Centre for Basic Sciences, JD Block, Sector III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Harun Al Rasid" last="Gazi">Harun Al Rasid Gazi</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, and Unit for Nanoscience and Technology, S. N. Bose National Centre for Basic Sciences, JD Block, Sector III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biswajit" last="Guchhait">Biswajit Guchhait</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, and Unit for Nanoscience and Technology, S. N. Bose National Centre for Basic Sciences, JD Block, Sector III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ranjit" last="Biswas">Ranjit Biswas</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, and Unit for Nanoscience and Technology, S. N. Bose National Centre for Basic Sciences, JD Block, Sector III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email>ranjit@bose.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-02-10</date>
+					<date type="R">2011-05-31</date>
+					<date type="A">2011-06-06</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Formation of fractals by the self-assembly of interpolymer adducts of polymethacrylic acid with complementary polymers in aqueous solution</title>
+				<feature></feature>
+				<page>0375-0383</page>
+				<abstract>
+					<p>Interpolymer adducts of poly(methacrylic acid), (PMAA), with poly(vinylpyrrolidone) in presence of sodium chloride or potassium chloride form highly ordered fractal patterns in films on glass surface on drying at ambient temperature. The structure, morphology and the conditions under which the formation of fractal patterns occurs were investigated by SEM, EDX and confocal microscopic techniques. Self-organization of PMAA with complementary polymers such as poly(vinylpyrrolidone) is well-known and in the presence of sodium chloride formation of the fractals in films of the adducts is a novel observation. Fractal formation occurs due to the aggregation of interpolymer adducts. The composition of the fractals in the film is studied by EDX and confocal microscopic images of the fluorophores covalently bound to PMAA. In presence of salts, sodium chloride or potassium chloride, micellar like entities of 80 nm size were formed which further aggregate to form fractal patterns. It is suggested that the fractals result from the interpolymer adduct by Diffusion Limited Aggregation mechanism.</p>
+				</abstract>
+				<keywords>Fractal; polyelectrolytes; self-organization; thin films; SEM; confocal microscopy.</keywords>
+				<authors>
+					<author>
+						<name first="Kandhasamy Durai" last="Murugan">Kandhasamy Durai Murugan</name>
+						<affiliation>National Centre for Ultrafast Processes, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Arlin Jose" last="Amali">Arlin Jose Amali</name>
+						<affiliation>National Centre for Ultrafast Processes, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Paramasivam" last="Natarajan">Paramasivam Natarajan</name>
+						<affiliation>National Centre for Ultrafast Processes, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email>pnatrajan@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-11</date>
+					<date type="R">2011-08-18</date>
+					<date type="A">2011-08-18</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Transition metal oxide loaded MCM catalysts for photocatalytic degradation of dyes</title>
+				<feature></feature>
+				<page>0385-0393</page>
+				<abstract>
+					<p>Transition metal oxide (TiO$_2$, Fe$_2$O$_3$, CoO) loaded MCM-41 and MCM-48 were synthesized by a two-step surfactant-based process. Nanoporous, high surface area compounds were obtained after calcination of the compounds. The catalysts were characterized by SEM, XRD, XPS, UV-vis and BET surface area analysis. The catalysts showed high activity for the photocatalytic degradation of both anionic and cationic dyes. The degradation of the dyes was described using Langmuir–Hinshelwood kinetics and the associated rate parameters were determined.</p>
+				</abstract>
+				<keywords>Mesoporous materials; characterization; photocatalytic degradation; metal oxide doping.</keywords>
+				<authors>
+					<author>
+						<name first="Divya" last="Jyothi">Divya Jyothi</name>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Parag A." last="Deshpande">Parag A. Deshpande</name>
+						<affiliation>Department of Chemical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. R." last="Venugopal">B. R. Venugopal</name>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Srinivasan" last="Chandrasekaran">Srinivasan Chandrasekaran</name>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Giridhar" last="Madras">Giridhar Madras</name>
+						<affiliation>Department of Chemical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>giridhar@chemeng.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-22</date>
+					<date type="R">2011-05-26</date>
+					<date type="A">2011-06-16</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evaluation of microlithographic performance of `deep UV’ resists: Synthesis, and 2D NMR studies on alternating `high ortho’ novolak resins</title>
+				<feature></feature>
+				<page>0395-0401</page>
+				<abstract>
+					<p>Lithographic evaluation of a `deep UV’ negative photoresist is discussed along with the synthesis of an alternating `high-ortho’ novolak resin. 2-D NMR studies (COSY, NOESY, HSQC, HMBC) on this resin are also discussed.</p>
+				</abstract>
+				<keywords>Novolak resins; 2D-NMR; photoresist; lithography; microstructure.</keywords>
+				<authors>
+					<author>
+						<name first="Maneesh" last="Sharma">Maneesh Sharma</name>
+						<affiliation>St. Stephen’s College, University of Delhi, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anant A." last="Naik">Anant A. Naik</name>
+						<affiliation>Solid State Physics Laboratory, Lucknow Road, Delhi 110 054, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Raghunathan">P. Raghunathan</name>
+						<affiliation>National Brain Research Centre, Manesar 122 050, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. V." last="Eswaran">S. V. Eswaran</name>
+						<affiliation>St. Stephen’s College, University of Delhi, Delhi 110 007, India</affiliation>
+						<email>sv.eswaran@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-02-19</date>
+					<date type="R">2011-07-16</date>
+					<date type="A">2011-07-18</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structural, thermal behaviour and vibrational study of a new mixed cesium–ammonium tellurate</title>
+				<feature></feature>
+				<page>0403-0410</page>
+				<abstract>
+					<p>Synthesis, crystal structure, thermal characterization, FTIR and Raman measurements are given for a new mixed compound cesium–ammonium tellurate. X-ray study showed that the [Cs$_{0.92}$(NH$_4$)$_{0.08}$]$_2$TeCl$_4$Br$_2$ compound crystallizes in the tetragonal space group P4/mnc, with a = 7.452 (1) &#197;, c = 10.544 (3) &#197; and Z = 2. The refinement converged at room temperature to $R_p = 0.093$ and $R_{wp} = 0.076$. The structure is considered as isolated octahedral TeCl$_4$Br$^{2−}_2$. These anions show a 4$^\circ$ rotation around the fourfold axis against the cubic arrangement of the K$_2$PtCI$_6$ type structure. The monovalent cations (Cs$^+$/NH$^+_4$) are located between the octahedra ensuring the stability of the structure by ionic and hydrogen bonding contacts: Cs$\ldots$Cl/Br and N-H$\ldots\ldots$Cl/Br. A DTA/TGA experiment at high temperature reveals one endothermic peak at 780K for this compound. At low temperature a transition from phase I to phase II was detected at 213K by DSC. This transition, confirmed by Raman analysis, can be attributed to an order–disorder phase transition.</p> 
+				</abstract>
+				<keywords>Crystal growth; X-ray diffraction; crystal structure; Raman spectroscopy.</keywords>
+				<authors>
+					<author>
+						<name first="Wafa Ben" last="Aribia">Wafa Ben Aribia</name>
+						<affiliation>Laboratoire de Sciences des Matériaux et de l’environnement, Faculté des Sciences de Sfax, Université de Sfax, BP 1171, 3000 Sfax, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Makki" last="Abdelmouleh">Makki Abdelmouleh</name>
+						<affiliation>Laboratoire de Sciences des Matériaux et de l’environnement, Faculté des Sciences de Sfax, Université de Sfax, BP 1171, 3000 Sfax, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Van Der" last="Lee">Van Der Lee</name>
+						<affiliation>Institut Européen des Membranes (UMR 5635), Université de Montpellier II, cc 047, Place E. Montpellier, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ahlem" last="Kabadou">Ahlem Kabadou</name>
+						<affiliation>Laboratoire de Sciences des Matériaux et de l’environnement, Faculté des Sciences de Sfax, Université de Sfax, BP 1171, 3000 Sfax, Tunisia</affiliation>
+						<email>ahlemkabadou@yahoo.fr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-07</date>
+					<date type="R">2011-07-16</date>
+					<date type="A">2011-07-28</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>$\eta^5$ and $\eta^6$ - cyclic $\pi$-perimeter hydrocarbon platinum group metal complexes of 3-(2-pyridyl)pyrazole derived ligands with a pendant nitrile group: Syntheses, spectral and structural studies</title>
+				<feature></feature>
+				<page>0411-0419</page>
+				<abstract>
+					<p>Reaction of two equivalents 4-$\{$(3-(pyridine-2-yl) 1H-pyrazole-1-yl$\}$methyl benzonitrile (${\bf L1}$) and 3-$\{$(3-(pyridine-2-yl)1H-pyrazole-1-yl$\}$methyl benzonitrile (${\bf L2}$) with one equivalent of [($\eta^6$-arene)Ru($\mu$- Cl)Cl]$_2$ and [Cp$^\ast$M($\mu$-Cl)Cl]$_2$ in methanol yielded mononuclear complexes of the formulae [($\eta^6$-arene)Ru(${\bf L1/L2}$)Cl]BF$_4\{$arene =C$_6$H$_6$ (${\bf 1, 6}$); C$_{10}$H$_{14}$ (${\bf 2, 7}$); C$_6$Me$_6$ (${\bf 3, 8}$)$\}$ and [Cp$^\ast$M(${\bf L1/L2}$)Cl]PF$_6$/BF$_4$ $\{$Cp$^\ast$= $\eta^5$-C$_5$Me$_5$, M=Rh (${\bf 4, 8}$); Ir (${\bf 5, 10}$)$\}$. These complexes are characterized by IR, ${}^1$H NMR and identities of the structure are established by single crystal XRD studies of some of the representative complexes. It is confirmed from the spectral studies that the nitrile group is not taking part in complexation; instead it remains as a free pendant group only.</p>
+				</abstract>
+				<keywords>Arene; pentamethylcyclopentadienyl; ruthenium; rhodium; 3-(2-pyridyl)pyrazole.</keywords>
+				<authors>
+					<author>
+						<name first="Gloria" last="Sairem">Gloria Sairem</name>
+						<affiliation>Department of Chemistry, North Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Venkateswara Rao" last="Anna">Venkateswara Rao Anna</name>
+						<affiliation>Department of Chemistry, North Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Peng" last="Wang">Peng Wang</name>
+						<affiliation>Department of Chemistry, McMaster University, 1280 Main StreetWest, Hamilton, Ontario L8S 4M1, Canada</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bbulal" last="Das">Bbulal Das</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Guwahati 781 039, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mohan Rao" last="Kollipara">Mohan Rao Kollipara</name>
+						<affiliation>Department of Chemistry, North Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email>mohanrao59@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-15</date>
+					<date type="R">2011-19-16</date>
+					<date type="A">2011-19-28</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mechanistic aspects of Os(VIII) catalysed oxidation of loop diuretic drug furosemide by Ag(III) periodate complex in aqueous alkaline medium</title>
+				<feature></feature>
+				<page>0421-0430</page>
+				<abstract>
+					<p>The kinetics of oxidation of a loop diuretic drug furosemide (Fur) by diperiodatoargentate(III) (DPA) has been investigated in the presence of osmium(VIII) (Os(VIII)) used as homogeneous catalyst in alkaline medium at a constant ionic strength of 0.20mol dm$^{−3}$ spectrophotometrically attached with HI-TECH SFA-12 stopped flow accessory. The stoichiometry was 1:2 (Fur:DPA). The order of the reaction with respect to [DPA] was unity while the order with respect to [Fur] was less than unity over the concentration range studied. The rate increased with an increase in [OH−] and decreased with an increase in [IO$^−_4$]. The order with respect to [Os(VIII)] was unity. The oxidation products were identified as 2-(4-carboxy-2-oxo-but-3-enylamino)-4-chloro-5-sulfamoyl-benzoic acid and Ag(I). A suitable mechanism was proposed. The reaction constants involved in the different steps of the reaction mechanism were calculated. Kinetic experiments suggest that [Ag(H$_2$IO$_6$)(H$_2$O)$_2$] is the reactive silver(III) species and [OsO$_4$(OH)$_2$]$^{2−}$ is the reactive Os(VIII) species.</p>
+				</abstract>
+				<keywords>Kinetics; oxidation; diperiodatoargentate(III); furosemide; Os(VIII) catalysis; mechanism.</keywords>
+				<authors>
+					<author>
+						<name first="Shweta J." last="Malode">Shweta J. Malode</name>
+						<affiliation>Post-Graduate Department of Studies in Chemistry, Karnatak University, Dharwad 580 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nagaraj P." last="Shetti">Nagaraj P. Shetti</name>
+						<affiliation>Post-Graduate Department of Studies in Chemistry, Karnatak University, Dharwad 580 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sharanappa T." last="Nandibewoor">Sharanappa T. Nandibewoor</name>
+						<affiliation>Post-Graduate Department of Studies in Chemistry, Karnatak University, Dharwad 580 003, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-10</date>
+					<date type="R">2011-06-18</date>
+					<date type="A">2011-09-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis of novel precursors of Pfitzinger reaction: A facile one-pot strategy to the synthesis of quinoline carboxylic acid derivatives of pyrazolo-carbazoles and azacarbazoles</title>
+				<feature></feature>
+				<page>0431-0435</page>
+				<abstract>
+					<p>Interaction of 5-indazolyldiazonium chloride ${\bf 2}$ with 2-hydroxymethylidene cyclohexanone ${\bf 5}$ and $N$-benzyl-3-hydroxymethylidene-4-piperidone ${\bf 6}$ under the conditions of Japp–Klingemann reaction, followed by Fischer-indolization of the resulting hydrazones, formed the 5,7,8,9-tetrahydropyrazolo[4,3-b]carbazol- 6(1$H$)-one ${\bf 9}$ and 9-benzyl-5,7,8,9-tetrahydropyrido[2',3':4,5]pyrrolo[2,3-f]indazol-6(1$H$)-one ${\bf 10}$, respectively. Pfitzinger reaction of ${\bf 9}$ and ${\bf 10}$ with isatin in alkali afforded the corresponding quinoline carboxylic acid derivatives ${\bf 12}$ and ${\bf 13}$, respectively.</p>
+				</abstract>
+				<keywords>Japp–Klingemann reaction; tetrahydropyrazolo[4,3-b]carbazol-6(1$H$)-one; 9-benzyl-5,7,8,9-tetrahydropyrido[2',3':4,5]pyrrolo[2,3-f]indazol-6(1$H$)-one; Pfitzinger reaction; quinoline 4-carboxylic acid.</keywords>
+				<authors>
+					<author>
+						<name first="Ruchi" last="Tyagi">Ruchi Tyagi</name>
+						<affiliation>Department of Chemistry, Banasthali University, Banasthali (Rajasthan)-304022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bhawani" last="Singh">Bhawani Singh</name>
+						<affiliation>Department of Chemistry, Banasthali University, Banasthali (Rajasthan)-304022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Kishore">D. Kishore</name>
+						<affiliation>Department of Chemistry, Banasthali University, Banasthali (Rajasthan)-304022, India</affiliation>
+						<email>bsyadav2000@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-12-02</date>
+					<date type="R">2011-12-22</date>
+					<date type="A">2012-01-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ammonium derivatives of chromenones and quinolinones as lead antimicrobial agents</title>
+				<feature></feature>
+				<page>0437-0449</page>
+				<abstract>
+					<p>A series of novel ammonium derivatives were synthesized and examined for their antimicrobial efficacy. Comparison of antimicrobial spectrum revealed that compounds ${\bf 9}$, ${\bf 11}$, ${\bf 16}$ and ${\bf 23}$ had strong potential against pathogens $\textit{in vitro}. Cytotoxicity results showed compound ${\bf 9}$ to be least toxic, it is non-toxic to A549 and U87 cells in MTT assay and exhibits marginal toxicity (15–20&#37;) to human erythrocytes at a concentration of 1000 $\mu$g/ml as compared to 100&#37; lysis of cells by 31.25 $\mu$g/ml of the standard drug amphotericin B. This compound has MIC values in the range of 1.95–31.25 $\mu$g/disc in DDA against different pathogens and may considered to be an important lead antimicrobial molecule for further exploration.</p>
+				</abstract>
+				<keywords>Ammonium compounds; antimicrobial activity; chromenones; quinolinones.</keywords>
+				<authors>
+					<author>
+						<name first="Shilpi" last="Gupta">Shilpi Gupta</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Seema" last="Singh">Seema Singh</name>
+						<affiliation>Institute of Genomics and Integrative Biology, Delhi University Campus, Mall Road, Delhi 110 007, India</affiliation>
+						<affiliation>Department of Biotechnology, Pune University, Pune 411 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abha" last="Kathuria">Abha Kathuria</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manish" last="Kumar">Manish Kumar</name>
+						<affiliation>Institute of Genomics and Integrative Biology, Delhi University Campus, Mall Road, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sweta" last="Sharma">Sweta Sharma</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<affiliation>Katholieke Universiteit Leuven (K.U.Leuven), Celestijnenlaan 200F, 3001, Leuven, Belgium</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ram" last="Kumar">Ram Kumar</name>
+						<affiliation>Institute of Genomics and Integrative Biology, Delhi University Campus, Mall Road, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Virinder S." last="Parmar">Virinder S. Parmar</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bharat" last="Singh">Bharat Singh</name>
+						<affiliation>Institute of Genomics and Integrative Biology, Delhi University Campus, Mall Road, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anjali" last="Gupta">Anjali Gupta</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Erik Van Der" last="Eycken">Erik Van Der Eycken</name>
+						<affiliation>Katholieke Universiteit Leuven (K.U.Leuven), Celestijnenlaan 200F, 3001, Leuven, Belgium</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gainda L." last="Sharma">Gainda L. Sharma</name>
+						<affiliation>Institute of Genomics and Integrative Biology, Delhi University Campus, Mall Road, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sunil K." last="Sharma">Sunil K. Sharma</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-15</date>
+					<date type="R">2011-06-14</date>
+					<date type="A">2011-06-27</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Regioselective synthesis and evaluation of 3-alkylidene-1, 3-dihydroisobenzofurans as potential antidepressant agents</title>
+				<feature></feature>
+				<page>0451-0462</page>
+				<abstract>
+					<p>3-Alkylidene-1,3-dihydroisobenzofurans exhibited moderate antidepressant activity as evaluated by forced swim and tail suspension test methods. Virtual screening was carried out by docking the designed compounds into the serotonin binding sites of arabinase protein to predict the analogue binding mode of the compounds to the SSRIs.</p>
+				</abstract>
+				<keywords>Phthalans; regioselectivity; antidepressant; tail suspension test; forced swim test; molecular docking.</keywords>
+				<authors>
+					<author>
+						<name first="C." last="Praveen">C. Praveen</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C." last="Iyyappan">C. Iyyappan</name>
+						<affiliation>Department of Pharmaceutical Chemistry, Mother Theresa Post Graduate and Research Institute of Health Sciences, Puducherry 605 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Girija">K. Girija</name>
+						<affiliation>Department of Pharmaceutical Chemistry, Mother Theresa Post Graduate and Research Institute of Health Sciences, Puducherry 605 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. Suresh" last="Kumar">K. Suresh Kumar</name>
+						<affiliation>Bioinformatics Centre, Pondicherry University, Puducherry 605 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. T." last="Perumal">P. T. Perumal</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email>ptperumal@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-01-24</date>
+					<date type="R">2011-03-26</date>
+					<date type="A">2011-05-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and characterization of 5-heteroarylsulfanyl-4-aryl-1,2,3-selena/thiadiazoles</title>
+				<feature></feature>
+				<page>0463-0468</page>
+				<abstract>
+					<p>Synthesis and spectral characterization of 2-methyl-5-[(4-aryl-1,2,3-selenadiazol-5-yl)sulfanyl]-1,3,4-thiadiazoles, 5-[4-aryl-1,2,3-selenadiazol-5-yl]sulfanyl-1-phenyl-1$H$-1,2,3,4-tetraazoles, 4-aryl-5-[(5-methyl-1,3,4-thiadiazol-2-yl)sulfanyl]-1,2,3-thiadiazole and 5-[4-aryl-1,2,3-thiadiazol-5-yl]sulfanyl-1-phenyl-1$H$-1,2,3,4-tetraazole have been reported.</p>
+				</abstract>
+				<keywords>1,2,3-Selenadiazoles; 1,2,3-thiadiazoles; 5-methyl-1,3,4-thiadiazole; 1-phenyl-1$H$-tetrazole; diheteroaryl sulfide.</keywords>
+				<authors>
+					<author>
+						<name first="Ramaiyan" last="Manikannan">Ramaiyan Manikannan</name>
+						<affiliation>Department of Organic Chemistry, Madurai Kamaraj University, Madurai 625021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Masilamani" last="Shanmugaraja">Masilamani Shanmugaraja</name>
+						<affiliation>Department of Organic Chemistry, Madurai Kamaraj University, Madurai 625021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Seetharaman" last="Manojveer">Seetharaman Manojveer</name>
+						<affiliation>Department of Organic Chemistry, Madurai Kamaraj University, Madurai 625021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shanmugam" last="Muthusubramanian">Shanmugam Muthusubramanian</name>
+						<affiliation>Department of Organic Chemistry, Madurai Kamaraj University, Madurai 625021, India</affiliation>
+						<email>muthumanian2001@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-05-09</date>
+					<date type="R">2011-07-12</date>
+					<date type="A">2011-07-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, antioxidant and antimicrobial evaluation of thiazolidinone, azetidinone encompassing indolylthienopyrimidines</title>
+				<feature></feature>
+				<page>0469-0481</page>
+				<abstract>
+					<p>Various 2-amino-N'-$\{$3-(2',5'-disubstituted-1H-indol-3'-yl)methylene$\}$-4,5-dimethylthieno-3-carbohydrazides (${\bf 3}$) synthesized by condensation of 2-amino-4,5-dimethyl thiophene-3-carbohydrazide (${\bf 2}$) with 2,5- disubstituded indole-3-carboxaldehyde (1). The Schiff’s base (${\bf 3}$) on cyclocondensation with acetic anhydride and triethyl orthoformate afforded thienopyrimidine analogues (${\bf 4}$) and (${\bf 7}$), respectively. Compounds 4 or 7 on cyclization with thioglycolic acid and chloroacetyl chloride gave thiazolidin-4-ones (${\bf 5}$) or (${\bf 8}$) and azitidin-2-ones (${\bf 6}$) or (${\bf 9}$) respectively. The structures of these newly synthesized compounds have been established on the basis of their spectral data and elemental analysis. Some of the compounds exhibited promising antioxidant and antimicrobial activities.</p>
+				</abstract>
+				<keywords>Indole; thienopyrimidine; thiazolidin-4-one; azetidin-2-one; antioxidant; antimicrobial activities.</keywords>
+				<authors>
+					<author>
+						<name first="Anand Raghunath" last="Saundane">Anand Raghunath Saundane</name>
+						<affiliation>Department of Post-Graduate Studies and Research in Chemistry, Gulbarga University, Gulbarga-585 106, India</affiliation>
+						<email>arsaundane@rediff.com</email>
+					</author>
+					<author>
+						<name first="Manjunatha" last="Yarlakatti">Manjunatha Yarlakatti</name>
+						<affiliation>Department of Post-Graduate Studies and Research in Chemistry, Gulbarga University, Gulbarga-585 106, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Prabhaker" last="Walmik">Prabhaker Walmik</name>
+						<affiliation>Department of Post-Graduate Studies and Research in Chemistry, Gulbarga University, Gulbarga-585 106, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vijaykumar" last="Katkar">Vijaykumar Katkar</name>
+						<affiliation>Department of Post-Graduate Studies and Research in Chemistry, Gulbarga University, Gulbarga-585 106, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-26</date>
+					<date type="R">2011-07-22</date>
+					<date type="A">2011-08-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>$Bis$(imino)pyridine (BIMP) Fe(II) catalyses one-pot green condensation of resorcinol, malononitrile, aromatic aldehydes and cyclohexanone</title>
+				<feature></feature>
+				<page>0483-0486</page>
+				<abstract>
+					<p>A novel, efficient and green approach for the synthesis of pyranopyridine derivatives through one-pot, four-component reaction of resorcinol, malononitrile, aromatic aldehydes and cyclohexanone using $bis$(imino)pyridine (BIMP) Fe(II) catalyst under solvent-free and ultrasonic irradiation is described.</p>
+				</abstract>
+				<keywords>Pyranopyridine; four-component; one-pot; BIMP catalyst.</keywords>
+				<authors>
+					<author>
+						<name first="Saman" last="Damavandi">Saman Damavandi</name>
+						<affiliation>Department of Chemistry, Sarvestan Branch, Islamic Azad University, Sarvestan, Iran</affiliation>
+						<email>Saman_Damavandi@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Reza" last="Sandaroos">Reza Sandaroos</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Birjand University, Birjand, Iran</affiliation>
+						<email>R_Sandaroos@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-04-17</date>
+					<date type="R">2011-07-29</date>
+					<date type="A">2011-08-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis of pyrano[2,3-$c$]carbazoles, pyrano[3,2-$b$]carbazoles and furo[3,2-$b$]carbazole derivatives via iodocyclization</title>
+				<feature></feature>
+				<page>0487-0494</page>
+				<abstract>
+					<p>A simple and facile synthesis of pyranocarbazole derivatives starting from easily accessible $O$-propargylated carbazoles using iodocyclization in good yields is reported.</p>
+				</abstract>
+				<keywords>Carbazole; pyranocarbazole; furocarbazole; iodocyclization; $O$-propargylcarbazole.</keywords>
+				<authors>
+					<author>
+						<name first="Krishna Chaitanya" last="Talluri">Krishna Chaitanya Talluri</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajagopal" last="Nagarajan">Rajagopal Nagarajan</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500046, India</affiliation>
+						<email>rnsc@uohyd.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-03</date>
+					<date type="R">2011-09-13</date>
+					<date type="A">2011-09-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Trifluoromethanesulfonic acid promoted Dakin–West reaction: An efficient and convenient synthesis of $\beta$-acetamido ketones</title>
+				<feature></feature>
+				<page>0495-0500</page>
+				<abstract>
+					<p>Trifluoromethanesulfonic acid promoted efficient condensation of an aromatic aldehyde with an acetophenone and acetonitrile in the presence of acetylchloride as an activator producing $\beta$-acetamido carbonyl compounds is described.</p>
+				</abstract>
+				<keywords>$\beta$-Acetamido ketones; Dakin–West reaction; multicomponent synthesis; trifluoromethanesulfonic acid.</keywords>
+				<authors>
+					<author>
+						<name first="Ravindra M." last="Kumbhare">Ravindra M. Kumbhare</name>
+						<affiliation>Fluoroorganics Division, Indian Institute of Chemical Technology, Hyderabad 500607, India</affiliation>
+						<email>rakumbhare@yahoo.com</email>
+						<email>kumbhare@iict.res.in</email>
+					</author>
+					<author>
+						<name first="Madabhushi" last="Sridhar">Madabhushi Sridhar</name>
+						<affiliation>Fluoroorganics Division, Indian Institute of Chemical Technology, Hyderabad 500607, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-12-30</date>
+					<date type="R">2011-09-13</date>
+					<date type="A">2011-09-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="00" month="00" year="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="00" month="00" year="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
 		<issue inum="00" month="00" year="">
 			<entry hassup="0">
 				<title></title>
