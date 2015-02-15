@@ -27874,7 +27874,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Excited state intramolecular charge transfer reaction in non-aqueous reverse micelles: Effects of solvent confinement and electrolyte concentration</title>
 				<feature></feature>
 				<page>0355-0373</page>
@@ -27943,7 +27943,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Transition metal oxide loaded MCM catalysts for photocatalytic degradation of dyes</title>
 				<feature></feature>
 				<page>0385-0393</page>
@@ -27985,7 +27985,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Evaluation of microlithographic performance of `deep UV’ resists: Synthesis, and 2D NMR studies on alternating `high ortho’ novolak resins</title>
 				<feature></feature>
 				<page>0395-0401</page>
@@ -28101,7 +28101,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Mechanistic aspects of Os(VIII) catalysed oxidation of loop diuretic drug furosemide by Ag(III) periodate complex in aqueous alkaline medium</title>
 				<feature></feature>
 				<page>0421-0430</page>
@@ -28286,7 +28286,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Synthesis and characterization of 5-heteroarylsulfanyl-4-aryl-1,2,3-selena/thiadiazoles</title>
 				<feature></feature>
 				<page>0463-0468</page>
@@ -28387,7 +28387,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Synthesis of pyrano[2,3-$c$]carbazoles, pyrano[3,2-$b$]carbazoles and furo[3,2-$b$]carbazole derivatives via iodocyclization</title>
 				<feature></feature>
 				<page>0487-0494</page>
@@ -28442,753 +28442,1024 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
+			<entry hassup="1">
+				<title>Solid-supported sulfonic acid-containing catalysts efficiently promoted one-pot multi-component synthesis of $\beta$-acetamido carbonyl compounds</title>
 				<feature></feature>
-				<page>00-00</page>
+				<page>0501-0508</page>
 				<abstract>
-					<p></p>
+					<p>Silica-functionalized sulfonic acid (SFSA) and sulfuric acid-modified polyethylene glycol-6000 (PEG-OSO$_3$H) efficiently catalysed one-pot multi-component condensation of enolizable ketones or alkyl acetoacetates with arylaldehydes, acetonitrile and acetyl chloride to afford the corresponding $\beta$-acetamido ketone or ester derivatives in high to excellent yields and in relatively short reaction times. Moreover, in this work, some novel $\beta$-acetamido carbonyl compounds (i.e., one complex structure) are synthesized.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Solid-supported catalysts; silica-functionalized sulfonic acid (SFSA); sulfuric acid-modified polyethylene glycol-6000 (PEG-OSO$_3$H); enolizable ketone; $\beta$-acetamido ketone; $\beta$-acetamido ester.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Mohammad Ali" last="Zolfigol">Mohammad Ali Zolfigol</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, Hamedan, 6517838683, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ardeshir" last="Khazaei">Ardeshir Khazaei</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, Hamedan, 6517838683, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abdolkarim" last="Zare">Abdolkarim Zare</name>
+						<affiliation>Department of Chemistry, Payame Noor University, PO BOX 19395-3697 Tehran, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mohammad" last="Mokhlesi">Mohammad Mokhlesi</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, Hamedan, 6517838683, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tahereh" last="Hekmat-Zadeh">Tahereh Hekmat-Zadeh</name>
+						<affiliation>Department of Chemistry, Payame Noor University, PO BOX 19395-3697 Tehran, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alireza" last="Hasaninejad">Alireza Hasaninejad</name>
+						<affiliation>Department of Chemistry, Faculty of Sciences, Persian Gulf University, Bushehr 75169, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Fatemeh" last="Derakhshan-Panah">Fatemeh Derakhshan-Panah</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, Hamedan, 6517838683, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ahmad Reza" last="Moosavi-Zare">Ahmad Reza Moosavi-Zare</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, Hamedan, 6517838683, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hassan" last="Keypour">Hassan Keypour</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, Hamedan, 6517838683, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ahmad Ali" last="Dehghani-Firouzabadid">Ahmad Ali Dehghani-Firouzabadid</name>
+						<affiliation>Department of Chemistry, Yazd University, Yazd 89195741, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Maria" last="Merajoddin">Maria Merajoddin</name>
+						<affiliation>Department of Chemistry, Payame Noor University, PO BOX 19395-3697 Tehran, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2011-07-03</date>
+					<date type="R">2011-09-26</date>
+					<date type="A">2011-10-07</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>FeCl$_3$-catalysed Zn-mediated allylation of cyclic enol ethers in water</title>
 				<feature></feature>
-				<page>00-00</page>
+				<page>0509-0512</page>
 				<abstract>
-					<p></p>
+					<p>A mild and environment-friendly Zn-mediated allylation of dihydrofuran and dihydropyran catalysed by iron(III) chloride in water has been developed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Zn-mediated; Fe(III) chloride; catalysis; enolethers; diols.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="P." last="Chakraborty">P. Chakraborty</name>
+						<affiliation>Department of Organic Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. C." last="Roy">S. C. Roy</name>
+						<affiliation>Department of Organic Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email>ocscr@iacs.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-06-30</date>
+					<date type="R">2011-09-13</date>
+					<date type="A">2011-10-07</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Triphosgene mediated chlorination of Baylis–Hillman adducts</title>
+				<feature></feature>
+				<page>0513-0519</page>
+				<abstract>
+					<p>An efficient method for the preparation of allyl chlorides from Baylis–Hillman adducts has been developed using triphosgene/pyridine system. This method is best illustrated by its advantages like operational simplicity, excellent yields, short reaction time, simple procedure and stereoselectivity.</p>
+				</abstract>
+				<keywords>Baylis–Hillman adducts; triphosgene; chlorination; stereoselectivity; simple procedure.</keywords>
+				<authors>
+					<author>
+						<name first="Narender Reddy" last="Thatikonda">Narender Reddy Thatikonda</name>
+						<affiliation>Organic Chemistry Division II, Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Naga Sesha Sai Pavan Kumar" last="Chebolu">Naga Sesha Sai Pavan Kumar Chebolu</name>
+						<affiliation>Organic Chemistry Division II, Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mahendar" last="Budde">Mahendar Budde</name>
+						<affiliation>Organic Chemistry Division II, Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jayathirtha Rao" last="Vaidya">Jayathirtha Rao Vaidya</name>
+						<affiliation>Organic Chemistry Division II, Indian Institute of Chemical Technology, Uppal Road, Tarnaka, Hyderabad 500 607, India</affiliation>
+						<email>jrao@iict.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-22</date>
+					<date type="R">2011-11-19</date>
+					<date type="A">2011-11-25</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Controlled free radical polymerization of vinyl acetate with cobalt acetoacetonate</title>
+				<feature></feature>
+				<page>0521-0527</page>
+				<abstract>
+					<p>The polymerization of vinyl acetate with the complex catalyst of cobalt acetoacetonate [Co (acac)$_2$] and DMF ligand with benzoyl peroxide initiator has been successfully carried out in bulk and in solution. The bulk polymerization has been used in a new route consisting of a one-step polymer formation in a fine capillary tube. In this process, the high rate of propagation was used to carry out the reaction in a microcapillary tube. Under 60$^{\circ}$C, the colour-free reaction without solid catalyst impurity was 95&#37; complete within a few hours. The high molecular weight of polyvinyl acetate (PVAc) with its relatively low molecular distribution without unreacted monomer provided a new method in microprocessing of the controlled radical polymerization of vinyl acetate in a one-step polymerization process. PVAc polymerization systems showed induction time, which was reduced in this reaction with using complex of DMF/ Co(acac)$_2$. The kinetics of the reaction with a smaller degree of branching from this catalyst indicated that the electronegativity of the transition metal and diffusion of the homogeneous catalyst with DMF are important factors of fast polymerization in the bulk. Thermal properties of the polymer indicated a lower glass transition state. The easily reformed or stretched microsolid polymer demonstrated 20&#37; crystallinity.</p>
+				</abstract>
+				<keywords>Co(acac)$_2$ catalyst; DMF ligand; bulk polymerization of vinyl acetate; capillary tube; controlled free radical polymerization.</keywords>
+				<authors>
+					<author>
+						<name first="Mohammad Ali" last="Semsarzadeh">Mohammad Ali Semsarzadeh</name>
+						<affiliation>Chemical Engineering Department, Polymer Group, Tarbiat Modares University, P.O. Box: 14155/143, Tehran, Iran</affiliation>
+						<email>semsarzadeh@modares.ac.ir</email>
+					</author>
+					<author>
+						<name first="Sahar" last="Amiri">Sahar Amiri</name>
+						<affiliation>Chemical Engineering Department, Polymer Group, Tarbiat Modares University, P.O. Box: 14155/143, Tehran, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2011-06-28</date>
+					<date type="R">2011-09-23</date>
+					<date type="A">2011-10-28</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Endurance of Nafion-composite membranes in PEFCs operating at elevated temperature under low relative-humidity</title>
 				<feature></feature>
-				<page>00-00</page>
+				<page>0529-0536</page>
 				<abstract>
-					<p></p>
+					<p>PEFCs employing Nafion–silica (Nafion–SiO$_2$) and Nafion-mesoporous zirconium phosphate (Nafion–MZP) composite membranes are subjected to accelerated-durability test at 100$^{\circ}$C and 15&#37; relative humidity (RH) at open-circuit voltage (OCV) for 50 h and performance compared with the PEFC employing pristine Nafion-1135 membrane. PEFCs with composite membranes sustain the operating voltage better with fluoride-ion-emission rate at least an order of magnitude lower than PEFC with pristine Nafion-1135 membrane. Reduced gas-crossover, fast fuel-cell-reaction kinetics and superior performance of the PEFCs with Nafion-SiO$_2$ and Nafion-MZP composite membranes in relation to the PEFC with pristine Nafion-1135 membrane support the long-term operational usage of the former in PEFCs. An 8-cell PEFC stack employing Nafion–SiO$_2$ composite membrane is also assembled and successfully operated at 60$^{\circ}$C without external humidification.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Nafion–SiO$_2$ composite; nafion–MZP composite; nafion-1135; fluoride-ion-emission rate; gas-crossover; polymer electrolyte fuel cell.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A. K." last="Sahu">A. K. Sahu</name>
+						<affiliation>CSIR-Central Electrochemical Research Institute-Madras Unit, CSIR Madras Complex, Taramani, Chennai, 600 113, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Jalajakshi">A. Jalajakshi</name>
+						<affiliation>CSIR-Central Electrochemical Research Institute-Madras Unit, CSIR Madras Complex, Taramani, Chennai, 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Pitchumani">S. Pitchumani</name>
+						<affiliation>CSIR-Central Electrochemical Research Institute-Madras Unit, CSIR Madras Complex, Taramani, Chennai, 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Sridhar">P. Sridhar</name>
+						<affiliation>CSIR-Central Electrochemical Research Institute-Madras Unit, CSIR Madras Complex, Taramani, Chennai, 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="" last="">A. K. Shukla</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore, 560 012, India</affiliation>
+						<email>akshukla2006@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2011-07-11</date>
+					<date type="R">2011-09-12</date>
+					<date type="A">2011-10-19</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
+			<entry hassup="1">
+				<title>Voltammetric determination of dopamine and norepinphrine on a glassy carbon electrode modified with poly (L-aspartic acid)</title>
 				<feature></feature>
-				<page>00-00</page>
+				<page>0537-0544</page>
 				<abstract>
-					<p></p>
+					<p>A convenient and useful method for the voltammetric determination of dopamine (DA) and norepinphrine (NE) based on poly(L-aspartic acid) modified glassy carbon electrode (GCE) is reported in this paper. The modified electrode exhibits excellent electro-catalytic activities for the oxidation–reduction of DA and NE, as well as eliminating the interference of ascorbic acid (AA) and uric acid (UA). Factors influencing the detection processes are optimized and the kinetic parameters are calculated. Under the optimal conditions, the anodic peak currents of DA and NE are linear with their concentration and the detection limits (S/N = 3) are $1.0 \times 10^{−9}$ mol L$^{−1}$ for DA and $4.31 \times 10^{−9}$ mol L$^{−1}$ for NE, respectively. The practical application of this method is demonstrated by determining the concentration of NE and DA in injection which is commercially available with satisfactory results. Compared with other electrochemical methods, this method is simple, highly selective and sensitive.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>L-aspartic acid; modified electrode; dopamine; norepinephrine.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Zhangyu" last="Yu">Zhangyu Yu</name>
+						<affiliation>Department of Chemistry and Chemical Engineering, Heze University, Heze, 274015, People’s Republic of China</affiliation>
+						<affiliation>Department of Chemistry and Chemical Engineering, Qufu Normal University, Qufu, 273165, People’s Republic of China</affiliation>
+						<affiliation>College of Chemistry and Chemical Engineering, Shandong University, Jinan, 250010, People’s Republic of China</affiliation>
+						<email>yuzywxl@163.com</email>
+					</author>
+					<author>
+						<name first="Xiaochun" last="Li">Xiaochun Li</name>
+						<affiliation>Department of Chemistry and Chemical Engineering, Heze University, Heze, 274015, People’s Republic of China</affiliation>
+						<affiliation>Department of Chemistry and Chemical Engineering, Qufu Normal University, Qufu, 273165, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xueliang" last="Wang">Xueliang Wang</name>
+						<affiliation>Department of Chemistry and Chemical Engineering, Heze University, Heze, 274015, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xinying" last="Ma">Xinying Ma</name>
+						<affiliation>Department of Chemistry and Chemical Engineering, Heze University, Heze, 274015, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xia" last="Li">Xia Li</name>
+						<affiliation>Department of Chemistry and Chemical Engineering, Heze University, Heze, 274015, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kewei" last="Cao">Kewei Cao</name>
+						<affiliation>Department of Chemistry and Chemical Engineering, Heze University, Heze, 274015, People’s Republic of China</affiliation>
+						<affiliation>Department of Chemistry and Chemical Engineering, Qufu Normal University, Qufu, 273165, People’s Republic of China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2011-05-07</date>
+					<date type="R">2011-07-26</date>
+					<date type="A">2011-08-08</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="00" month="00" year="">
-			<entry hassup="0">
-				<title></title>
+		<issue inum="03" month="05" year="2012">
+			<entry hassup="1">
+				<title>Covalent crosslinking of carbon nanostructures</title>
 				<feature></feature>
-				<page>00-00</page>
+				<page>0551-0556</page>
 				<abstract>
-					<p></p>
+					<p>Covalent crosslinking of carbon nanostructures of different dimensionalities such as nanodiamond, single walled carbon nanotubes (SWNTs) and graphene can yield useful homo- and hetero-binary conjugates. Binary conjugation of the nanocarbons has been achieved by introducing symmetrical amide-linkages between acid (-COOH) functionalized nanocarbons and a diamine-linker. The binary conjugates have been characterized by using transmission electron microscopy as well as infrared, Raman and photoluminescence spectroscopies. Dispersions of covalently crosslinked binary conjugates of nanocarbons could be obtained in dimethyl formamide (DMF). Composites of the binary conjugates with polymer can be readily prepared by using the DMF suspensions.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Covalent crosslinking; carbon nanostructures; binary conjugates; nanocomposites; electron microscopy; optical properties.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Urmimala" last="Maitra">Urmimala Maitra</name>
+						<affiliation>New Chemistry Unit, Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Pandeeswar">M. Pandeeswar</name>
+						<affiliation>New Chemistry Unit, Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Govindaraju">T. Govindaraju</name>
+						<affiliation>New Chemistry Unit, Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email>tgraju@jncasr.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-29</date>
+					<date type="R">2011-12-16</date>
+					<date type="A">2011-12-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and characterization of nano silicon and titanium nitride powders using atmospheric microwave plasma technique</title>
+				<feature></feature>
+				<page>0557-0563</page>
+				<abstract>
+					<p>We have demonstrated a simple, scalable and inexpensive method based on microwave plasma for synthesizing 5 to 10 g/h of nanomaterials. Luminescent nano silicon particles were synthesized by homogenous nucleation of silicon vapour produced by the radial injection of silicon tetrachloride vapour and nano titanium nitride was synthesized by using liquid titanium tetrachloride as the precursor. The synthesized nano silicon and titanium nitride powders were characterized by XRD, XPS, TEM, SEM and BET. The characterization techniques indicated that the synthesized powders were indeed crystalline nanomaterials.</p>
+				</abstract>
+				<keywords>Scalable synthesis; microwave plasma; chemical synthesis; nanoparticles.</keywords>
+				<authors>
+					<author>
+						<name first="S. Mahendra" last="Kumar">S. Mahendra Kumar</name>
+						<affiliation>Department of Mechanical Engineering, R V College of Engineering, Mysore Road, Bangalore 560 059, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Murugan">K. Murugan</name>
+						<affiliation>Centre for Nanomaterials, International Advanced Research Centre for Powder Metallurgy and New Materials (ARCI), Hyderabad 500 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. B." last="Chandrasekhar">S. B. Chandrasekhar</name>
+						<affiliation>Centre for Nanomaterials, International Advanced Research Centre for Powder Metallurgy and New Materials (ARCI), Hyderabad 500 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Neha" last="Hebalkar">Neha Hebalkar</name>
+						<affiliation>Centre for Nanomaterials, International Advanced Research Centre for Powder Metallurgy and New Materials (ARCI), Hyderabad 500 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Krishna">M. Krishna</name>
+						<affiliation>Department of Mechanical Engineering, R V College of Engineering, Mysore Road, Bangalore 560 059, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. S." last="Satyanarayana">B. S. Satyanarayana</name>
+						<affiliation>Department of Mechanical Engineering, R V College of Engineering, Mysore Road, Bangalore 560 059, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Giridhar" last="Madras">Giridhar Madras</name>
+						<affiliation>Department of Chemical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>giridhar@chemeng.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-23</date>
+					<date type="R">2011-12-21</date>
+					<date type="A">2012-01-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Study of half-sandwich mono and dinuclear complexes of platinum group metals containing pyrazolyl pyridine analogues: Synthesis and spectral characterization</title>
+				<feature></feature>
+				<page>0565-0575</page>
+				<abstract>
+					<p>The chelating ligands 3-chloro-6-(3-pyridyl-1-pyrazolyl)pyridazine ($pp-Cl$) and 3,6-bis(3-pyridyl-1-pyrazolyl)pyridazine ($bppp$), were prepared by the condensation of pyridylpyrazole and 3,6-dichloropyridazine. The mononuclear complexes [($\eta^6$-arene)Ru($pp$-Cl)Cl]$^+$ $\{\eta^6$-arene = C$_6$H$_6$ (${\bf 1}$); $p$-${}^i$PrC$_6$H$_4$Me (${\bf 2}$)$\}$, [($\eta^5$-C$_5$Me$_5$)M($pp$-Cl)]$^+$ $\{$M = Rh (${\bf 3}$); Ir (${\bf 4}$)$\}$, [($\eta^6$-arene)Ru($bppp$)Cl]$^+$ $\{\eta^6$-arene = C$_6$H$_6$ (${\bf 5}$); $p$-${}^i$PrC$_6$H$_4$Me (${\bf 6}$)$\}$, [($\eta^5$-C$_5$Me$_5$)M($bppp$)]$^+$ $\{$M =Rh (${\bf 7}$); Ir (${\bf 8}$)$\}$ as well as the binuclear complexes [$\{$($\eta^6$-arene)RuCl$\}_2$(bppp)]$^{2+}$ $\{\eta^6$ -arene =C$_6$H$_6$ (${\bf 9}$); $p$-${}^i$PrC$_6$H$_4$Me (${\bf 10})$\}$ and [$\{$($\eta^5$-C$_5$Me$_5$)MCl$\}_2$($bppp$)]$^{2+}$ ${\$M = Rh (${\bf 11}$); Ir (${\bf 12}$)$\}$ have been synthesized from 3-chloro-6-(3-pyridyl-1-pyrazolyl)pyridazine ($pp-Cl$) or 3,6-bis(3-pyridyl-1-pyrazolyl)pyridazine ($bppp$) and the corresponding dimers [($\eta^6$-arene)Ru($\mu$-Cl)Cl]$_2$ and [Cp$^\ast$M($\mu$-Cl)Cl]$_2$, respectively. All complexes were isolated as their hexafluorophosphate salts and characterized by IR, NMR, mass spectrometry and UV-visible spectroscopy. The molecular structures of [${\bf 2}$]PF$_6$ and [${\bf 7}$]PF$_6$ have been established by single crystal X-ray structure analysis.</p> 
+				</abstract>
+				<keywords>N-donor ligands; mono and binuclear complexes; ruthenium; rhodium; iridium.</keywords>
+				<authors>
+					<author>
+						<name first="Venkateswara Rao" last="Anna">Venkateswara Rao Anna</name>
+						<affiliation>Department of Chemistry, North-Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kota Thirumala" last="Prasad">Kota Thirumala Prasad</name>
+						<affiliation>Department of Chemistry, North-Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Peng" last="Wang">Peng Wang</name>
+						<affiliation>Department of Chemistry, McMaster University, 1280 Main StreetWest, Hamilton, Ontario L8S 4M1, Canada</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kollipara Mohan" last="Rao">Kollipara Mohan Rao</name>
+						<affiliation>Department of Chemistry, North-Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email>mohanrao59@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-04</date>
+					<date type="R">2011-11-25</date>
+					<date type="A">2011-12-05</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis of cadmium complexes of 4'-chloro-terpyridine: From discrete dimer to 1D chain polymer, crystal structure and antibacterial activity</title>
+				<feature></feature>
+				<page>0577-0585</page>
+				<abstract>
+					<p>Two new Cd(II) complexes with the ligand 4'-chloro-2,2':6',2"-terpyridine (Cltpy), [Cd(Cltpy)(N$_3$)(CH$_3$COO)], ${\bf 1}$, and [Cd(Cltpy)(NCS)(CH$_3$COO)]$_n$, ${\bf 2}$, have been synthesized and characterized by CHN elemental analyses, ${}^1$HNMR-, ${}^{13}$C NMR-, IR spectroscopy and structurally analysed by X-ray singlecrystal diffraction. The single crystal X-ray analyses show that the coordination number in these complexes is seven with three terpyridine (Cltpy) N-donor atoms, two acetate oxygens and two anionic bridged ligands. The crystal structure of ${\bf 2}$ comprises a one-dimensional polymeric network bridged by NCS$^−$ anions. The antibacterial activities of Cltpy and its Cd(II) complexes are tested against different bacteria. Both complexes have shown good activity against all the tested bacteria. Against $\textit{Klebsiella pneumonia}$ and $\textit{Staphylococcus aureus}$, antibacterial activity of complexes is higher than Cltpy ligand. The higher activity of complexes may be explained on the basis of chelation theory.</p>
+				</abstract>
+				<keywords>Cd(II) Complexes; 4'-chloro-2,2':6',2"-terpyridine (Cltpy); synthesis; crystal structure; antibacterial properties.</keywords>
+				<authors>
+					<author>
+						<name first="Lotfali" last="Saghatforoush">Lotfali Saghatforoush</name>
+						<affiliation>Department of Chemistry, Payame Noor University, 19395-4697, Tehran, I.R. of Iran</affiliation>
+						<email>saghatforoush@gmail.com</email>
+					</author>
+					<author>
+						<name first="Laura Valencia" last="Matarranz">Laura Valencia Matarranz</name>
+						<affiliation>Departamento de Quimica Inorganica, Facultad de Quimica, Universidade de Vigo, 36310 Vigo Pontevedra, Spain</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Firoozeh" last="Chalabian">Firoozeh Chalabian</name>
+						<affiliation>Department of Biology, Tehran North Campus, Islamic Azad University, Tehran, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shahriare" last="Ghammamy">Shahriare Ghammamy</name>
+						<affiliation>Department of Chemistry, Imam Khomeini International University, Qazvin, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Fatemeh" last="Katouzian">Fatemeh Katouzian</name>
+						<affiliation>Department of Microbiology, Tehran North Campus, Islamic Azad University, Tehran, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2011-08-16</date>
+					<date type="R">2011-12-08</date>
+					<date type="A">2011-12-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mechanistic aspects of ligand substitution on [(H$_2$O)(tap)$_2$RuORu(tap)$_2$(H$_2$O)]$^{2+}$ $\{$tap=2-(m-tolylazo)pyridine$\}$ ion by three glycine-containing dipeptides in aqueous medium at physiological pH</title>
+				<feature></feature>
+				<page>0587-0596</page>
+				<abstract>
+					<p>The interaction of the title complex with selected glycine-containing dipeptides(L-L'H) such as glycyl-glycine(L-L$^1$H), glycyl-L-alanine (L-L$^2$H) and glycyl-L-leucine(L-L$^3$H) has been studied spectrophotometrically in aqueous medium as a function of [substrate complex], [ligand] and temperature. The reaction has been monitored at 600 nm where the spectral difference between the reactant and product is a maximum. At pH 7.4, the interaction with studied dipeptides shows two parallel steps. i.e., it shows a non-linear dependence on the concentration of dipeptides; both processes are ligand-dependent. The rate constants for the processes are: k$_1 \tilde 10^{−3}$ s$^{−1}$ and k$_2 \tilde 10^{−5}$ s$^{−1}$. The activation parameters were calculated from Eyring plots. Based on the kinetic and activation parameters an associative interchange mechanism is proposed for the interaction processes. From the temperature dependence of the outer sphere association equilibrium constant, the thermodynamic parameters were also calculated. The product of the reaction has been characterized by IR and ESI-mass spectroscopic analysis.</p>
+				</abstract>
+				<keywords>Ligand substitution; dipeptides; $cis$-diaqua-$bis$-$\{$2-(m-tolylazo)pyridine$\}$ ruthenium(II); kinetics.</keywords>
+				<authors>
+					<author>
+						<name first="Arup" last="Mandal">Arup Mandal</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subala" last="Mondal">Subala Mondal</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Parnajyoti" last="Karmakar">Parnajyoti Karmakar</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biplab K." last="Bera">Biplab K. Bera</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subhasis" last="Mallick">Subhasis Mallick</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alak K." last="Ghosh">Alak K. Ghosh</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email>alakghosh2002@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-24</date>
+					<date type="R">2011-10-21</date>
+					<date type="A">2011-10-31</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis of dehydrobenzoannulenes with pyrene core</title>
+				<feature></feature>
+				<page>0597-0607</page>
+				<abstract>
+					<p>Synthesis of dehydrobenzoannulenes (DBAs) with pyrene core from 1,8-diethynylpyrene and 1,3,6,8-tetraethynylpyrene as building blocks is reported. A sequence involving Sonogashira coupling, Corey– Fuchs reaction and oxidative coupling (Eglinton coupling) is used for the synthesis of pyrene-based dehydrobenzoannulenes. Due to the presence of pyrenechromophore these DBAs and their precursors are highly fluorescent and emit in the visible region, due to extended conjugation of the acetylenic units with the pyrene core.</p>
+				</abstract>
+				<keywords>Pyrene; dehydrobenzoannulene; acetylene; fluorescence.</keywords>
+				<authors>
+					<author>
+						<name first="Antony" last="Joseph">Antony Joseph</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gandikota" last="Venkataramana">Gandikota Venkataramana</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sethuraman" last="Sankararaman">Sethuraman Sankararaman</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email>sanka@iitm.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-01-09</date>
+					<date type="R">2012-02-11</date>
+					<date type="A">2012-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Microwave-assisted one-pot synthesis of benzothiazole and benzoxazole libraries as analgesic agents</title>
+				<feature></feature>
+				<page>0609-0624</page>
+				<abstract>
+					<p>Microwave-assisted synthesis of benzothiazole and benzoxazole libraries via PIFA promoted cyclocondensation of 2-aminothiophenols/2-aminophenols with aldehydes under one-pot condition in good to excellent yields was achieved. Twenty compounds have been investigated for their analgesic activity and showed moderate to good activity.</p>
+				</abstract>
+				<keywords>Microwave; one-pot synthesis; benzothiazoles; benzoxazoles; analgesic activity.</keywords>
+				<authors>
+					<author>
+						<name first="C." last="Praveen">C. Praveen</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute (CSIR), Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Nandakumar">A. Nandakumar</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute (CSIR), Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Dheenkumar">P. Dheenkumar</name>
+						<affiliation>Department of Pharmaceutical Chemistry, EGS Pillay College of Pharmacy, Nagapattinam 611 002, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Muralidharan">D. Muralidharan</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute (CSIR), Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. T." last="Perumal">P. T. Perumal</name>
+						<affiliation>Organic Chemistry Division, Central Leather Research Institute (CSIR), Adyar, Chennai 600 020, India</affiliation>
+						<email>ptperumal@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-28</date>
+					<date type="R">2011-11-19</date>
+					<date type="A">2011-12-02</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Synthesis of some new 2-oxo-1,4-disubstituted-1,2,5,6-tetrahydrobenzo[h]quinoline-3-carbonitriles and their biological evaluation as cytotoxic and antiviral agents</title>
+				<feature></feature>
+				<page>0625-0631</page>
+				<abstract>
+					<p>A series of new 2-oxo-1,4-disubstituted-1,2,5,6-tetrahydro-benzo[h]quinoline-3-carbonitriles supported with various pharmacophoric functionalities at position-1 is described. N-formyl, N-nitroso, Narylthiocarbamoyl, N-alkyl, N-sulfonyl, and N-acetyl derivatives, ${\bf 5–10}$ were prepared. A novel fused triazole series was also prepared. The $\textit{in vitro}$ anticancer activity of twenty synthesized compounds, $\textbf{4a}$, $\textbf{4b}$, $\textbf{7a2}$, $\textbf{7b2}$ and $\textbf{8b1}$ showed considerable cytotoxic activity against the three tested human tumor cell lines. Compounds $\textbf{7a2}$ and $\textbf{7b2}$ proved to be the most active with special effect against the human colon carcinoma HT29 and human breast cancer MCF 7 cell lines. Compounds $\textbf{7b2}$ and $\textbf{7f2}$ also exhibited significant antivirus activity against hepatitis-C virus.</p>
+				</abstract>
+				<keywords>Synthesis; tetrahydrobenzo[h]quinolines; [1,2,4]triazolo[4,3-a]quinolines; cytotoxic agents; antiviral agents.</keywords>
+				<authors>
+					<author>
+						<name first="Hassan M." last="Faidallah">Hassan M. Faidallah</name>
+						<affiliation>Department of Chemistry, Faculty of Science, King Abdulaziz University, P.O. Box 80203 Jeddah 21589, Saudi Arabia</affiliation>
+						<email>hfaidallahm@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Khalid A." last="Khan">Khalid A. Khan</name>
+						<affiliation>Department of Chemistry, Faculty of Science, King Abdulaziz University, P.O. Box 80203 Jeddah 21589, Saudi Arabia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abdullah M." last="Asiri">Abdullah M. Asiri</name>
+						<affiliation>Department of Chemistry, Faculty of Science, King Abdulaziz University, P.O. Box 80203 Jeddah 21589, Saudi Arabia</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-02-28</date>
+					<date type="R">2011-08-26</date>
+					<date type="A">2011-09-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Synthesis and pharmaceutical importance of 2-azetidinone derivatives of phenothiazine</title>
+				<feature></feature>
+				<page>0633-0637</page>
+				<abstract>
+					<p>A new series of $N$-[3-(10$H$-phenothiazin-1-yl)propyl]-4-(substituted phenyl)-3-chloro-2-oxo-1-azetidinecarboxamide ${\bf 4(a–m)}$ have been synthesized from phenothiazine in four steps. Phenothiazine on reaction with Cl(CH$_2$)$_3$Br at room temperature gave 1-(3-chlorophenyl)-10$H$-phenothiazine, ${\bf 1}$. The compound ${\bf 1}$ yielded the condensation product with urea at room temperature, $N$-[3-(10$H$-phenothiazin-1-yl)propyl]urea ${\bf 2}$. The compound ${\bf 2}$ on further reaction with several substituted aromatic aldehydes produced $N$-[3-(10$H$-phenothiazin-1-yl)propyl]-$N'$-[(substituted phenyl)methylidene]-urea ${\bf 3(a–m)}$. The compounds ${\bf 3(a–m)}$ on treatment with ClCH$_2$COCl in the presence of Et$_3$N furnished final products ${\bf 4(a–m)}$. The structures of all the newly synthesized compounds were confirmed by IR, ${}^1$H NMR, ${}^{13}$C NMR and FAB-Mass spectra and chemical methods. All the final synthesized compounds were evaluated for their antibacterial, antifungal and antitubercular activities which displayed acceptable activities.</p>
+				</abstract>
+				<keywords>Synthesis; 2-azetidinone; phenothiazine; antimicrobial.</keywords>
+				<authors>
+					<author>
+						<name first="Ritu" last="Sharma">Ritu Sharma</name>
+						<affiliation>Synthetic Organic Chemistry Laboratory, Department of Chemistry, Dr. H S Gour University (A Central University), Sagar 470 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pushkal" last="Samadhiya">Pushkal Samadhiya</name>
+						<affiliation>Synthetic Organic Chemistry Laboratory, Department of Chemistry, Dr. H S Gour University (A Central University), Sagar 470 003, India</affiliation>
+						<email>pushkalsamadhiya@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="S. D." last="Srivastava">S. D. Srivastava</name>
+						<affiliation>Synthetic Organic Chemistry Laboratory, Department of Chemistry, Dr. H S Gour University (A Central University), Sagar 470 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Srivastava">S. K. Srivastava</name>
+						<affiliation>Synthetic Organic Chemistry Laboratory, Department of Chemistry, Dr. H S Gour University (A Central University), Sagar 470 003, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-06-12</date>
+					<date type="R">2011-12-04</date>
+					<date type="A">2012-01-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nano copper ferrite: A reusable catalyst for the synthesis of $\beta$, $\gamma$-unsaturated ketones</title>
+				<feature></feature>
+				<page>0639-0645</page>
+				<abstract>
+					<p>Copper ferrite nano material as reusable heterogeneous initiator in the synthesis of $\beta$, $\gamma$-unsaturated ketones and allylation to acid chlorides are presented. The reaction of allylichalides with various acid chlorides is achieved in the presence of copper ferrite nano powders at room temperature in tetrahydrofuran (THF). The present method is first of its kind in the synthesis of title compounds without any additive/co-catalyst. The nano catalyst is easily recovered and its reusability is recorded.</p>
+				</abstract>
+				<keywords>Nano copper ferrite; heterogeneous initiator; allylation; $\beta$, $\gamma$-unsaturated ketones; reusability.</keywords>
+				<authors>
+					<author>
+						<name first="Y. L. N." last="Murthy">Y. L. N. Murthy</name>
+						<affiliation>Organic Research Labs, Department of Organic Chemistry, Andhra University, Visakhapatnam 530 003, India</affiliation>
+						<email>murthyyln@gmail.com</email>
+					</author>
+					<author>
+						<name first="B. S." last="Diwakar">B. S. Diwakar</name>
+						<affiliation>Organic Research Labs, Department of Organic Chemistry, Andhra University, Visakhapatnam 530 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Govindh">B. Govindh</name>
+						<affiliation>Organic Research Labs, Department of Organic Chemistry, Andhra University, Visakhapatnam 530 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Nagalakshmi">K. Nagalakshmi</name>
+						<affiliation>Organic Research Labs, Department of Organic Chemistry, Andhra University, Visakhapatnam 530 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="I. V. Kasi" last="Viswanath">I. V. Kasi Viswanath</name>
+						<affiliation>Department of Chemistry, K L University, Greenfields Vaddeswaram, Guntur 522 502, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajendra" last="Singh">Rajendra Singh</name>
+						<affiliation>Defence Research and Development Organization (ER&amp;IPR), Rajaji Marg, New Delhi 110 011, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-04-24</date>
+					<date type="R">2011-11-09</date>
+					<date type="A">2012-12-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Activated anilide in heterocyclic synthesis: Synthesis of new hydrazo, dihydropyridazine, tetrahydropyridine, dihydropyridine and pyranopyridine derivatives</title>
+				<feature></feature>
+				<page>0647-0655</page>
+				<abstract>
+					<p>A series of new hydrazo, dihydropyridazine, tetrahydropyridine, dihydropyridine and pyranopyridine derivatives with known biological activity have been prepared through the reactions of 3-oxo-3-phenyl-N- (pyridine-3-yl) propanamide ${\bf 3}$ and enaminonitrile ${\bf 17}$ with some electrophilic reagents, nucleophilic reagents, and aryl diazonium salts. The newly synthesized compounds were characterized by IR, ${}^1$H NMR and mass spectral studies.</p>
+				</abstract>
+				<keywords>Hydrazo; dihydropyridazine; tetrahydropyridine; dihydropyridine; pyranopyridine.</keywords>
+				<authors>
+					<author>
+						<name first="Ibrahim Saad Abdel" last="Hafiz">Ibrahim Saad Abdel Hafiz</name>
+						<affiliation>Department of Chemistry, Faculty of Education, Suez Canal University, Arish 45511, Egypt</affiliation>
+						<email>dr_ibrahim.saad@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Mahmoud Mohamed Mahfouz" last="Ramiz">Mahmoud Mohamed Mahfouz Ramiz</name>
+						<affiliation>Department of Physics and Mathematical Engineering, Faculty of Electronic Engineering, Minoufyia University, Menouf 32952, Egypt</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mohamed Ahmed" last="Elian">Mohamed Ahmed Elian</name>
+						<affiliation>Department of Chemistry, Faculty of Education, Suez Canal University, Arish 45511, Egypt</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-16</date>
+					<date type="R">2011-12-26</date>
+					<date type="A">2012-01-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, characterization of N-, S-, O-substituted naphthoand benzoquinones and a structural study</title>
+				<feature></feature>
+				<page>0657-0667</page>
+				<abstract>
+					<p>The new series of N-, S-, O-substituted 1,4-naphthoquinone and S-, O-substituted 1,4-benzoquinone compounds were synthesized via vinylic substitution. Compounds ${\bf 3}$ and ${\bf 4}$ were synthesized from the reaction of ${\bf 1}$ with ${\bf 2}$. Compounds ${\bf 6}$, ${\bf 7}$ and ${\bf 8}$ were synthesized from reaction of ${\bf 1}$ with ${\bf 5}$. Compounds ${\bf 10}$ and ${\bf 11}$ were obtained from the reaction of ${\bf 1}$ with ${\bf 9}$. Compounds ${\bf 13}$ and ${\bf 14}$ were synthesized from the reaction of ${\bf 1}$ with ${\bf 12}$. Compounds ${\bf 16}$ and ${\bf 17}$ were obtained from the reaction of ${\bf 15}$ with ${\bf 2}$. Photochemical and electrochemical properties of N-, S-, O-substituted quninone compounds were determined by using fluorescence spectroscopy and cyclic voltammetry. Crystal structure of 2-(7-sulphanyl-4-methyl-coumarinyl)-3-(1-ethoxy)-1,4-naphthoquinone ${\bf 13}$ was determined by X-ray diffraction method.</p>
+				</abstract>
+				<keywords>1,4-Naphthoquinone; $p$-chloranil; fluorescence spectroscopy; cyclic voltametry; X-ray diffraction.</keywords>
+				<authors>
+					<author>
+						<name first="Cemil" last="Ibis">Cemil Ibis</name>
+						<affiliation>Engineering Faculty, Department of Chemistry, Division of Organic Chemistry, Istanbul University, 34320, Avcilar Istanbul Turkey</affiliation>
+						<email>ibiscml@istanbul.edu.tr</email>
+					</author>
+					<author>
+						<name first="Nahide Gulsah" last="Deniz">Nahide Gulsah Deniz</name>
+						<affiliation>Engineering Faculty, Department of Chemistry, Division of Organic Chemistry, Istanbul University, 34320, Avcilar Istanbul Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-05-02</date>
+					<date type="R">2011-11-22</date>
+					<date type="A">2011-12-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis of a novel class of some biquinoline pyridine hybrids via one-pot, three-component reaction and their antimicrobial activity</title>
+				<feature></feature>
+				<page>0669-0677</page>
+				<abstract>
+					<p>A small library of novel class of biquinoline containing pyridine moiety were synthesized by a one-pot cyclocondensation of 2-chloro-3-formyl quinoline, active methylene compounds and 3-(pyridine-3- ylamino)cyclohex-2-enone in the presence of catalytic amount of sodium hydroxide. The protocol offers rapid synthesis of structurally diverse novel class of some biquinoline pyridine hybrids for antimicrobial screening. These compounds were screened for their antibacterial activity against Gram-positive bacteria ($\textit{Bacillus subtilis, Clostridium tetani, Streptococcus pneumoniae}$), Gram-negative bacteria ($\textit{Escherichia coli, Salmonella typhi, Vibrio cholerae}$) and antifungal activity against $\textit{Aspergillus fumigatus, Candida albicans}$. Some of the biquinoline compounds were found to be more potent or equipotent than the first line standard drugs. The compounds were evaluated for their $\textit{in vitro}$ antitubercular activity against $\textit{Mycobacterium tuberculosis}$ H37Rv strain using Lowenstein–Jensen medium. Compound ${\bf 4g}$ showed a compelling activity at 6.25 $\mu$g/mL with a 96&#37; inhibition and could be ideally suited for further modifications to obtain more efficacious compounds in the fight against tuberculosis.</p>
+				</abstract>
+				<keywords>Quinoline; MIC; antimycobacterial; antimicrobial activity.</keywords>
+				<authors>
+					<author>
+						<name first="Nimesh M." last="Shah">Nimesh M. Shah</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388120, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manish P." last="Patel">Manish P. Patel</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388120, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ranjan G." last="Patel">Ranjan G. Patel</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388120, India</affiliation>
+						<email>patelranjanben@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-14</date>
 					<date type="R"></date>
-					<date type="A"></date>
+					<date type="A">2011-12-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Solvent-free one-pot 1,3-dipolar cycloaddition reactions of dihydropyran derived nitrone</title>
+				<feature></feature>
+				<page>0679-0685</page>
+				<abstract>
+					<p>Microwave-induced 1,3-dipolar cycloaddition reactions of dihydropyran derived nitrone with various activated alkenes have been studied $\textit{in situ}$ and found to afford new isoxazolidine derivatives with moderate selectivity.</p>
+				</abstract>
+				<keywords>Solid phase; cycloaddition reaction; isoxazolidines and amino alcohols.</keywords>
+				<authors>
+					<author>
+						<name first="Bhaskar" last="Chakraborty">Bhaskar Chakraborty</name>
+						<affiliation>Organic Chemistry Laboratory, Sikkim Government College, Gangtok 737 102, India</affiliation>
+						<email>bhaskargtk@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Prawin Kumar" last="Sharma">Prawin Kumar Sharma</name>
+						<affiliation>Organic Chemistry Laboratory, Sikkim Government College, Gangtok 737 102, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Neelam" last="Rai">Neelam Rai</name>
+						<affiliation>Organic Chemistry Laboratory, Sikkim Government College, Gangtok 737 102, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chiran Devi" last="Sharma">Chiran Devi Sharma</name>
+						<affiliation>Organic Chemistry Laboratory, Sikkim Government College, Gangtok 737 102, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-05-04</date>
+					<date type="R">2011-10-19</date>
+					<date type="A">2011-10-31</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>A practical one-pot synthesis of azides directly from alcohols</title>
+				<feature></feature>
+				<page>0687-0691</page>
+				<abstract>
+					<p>Alkyl/benzyl azides can be readily synthesized in excellent yields from their corresponding alcohols by stirring a solution of sodium azide in DMSO with a thoroughly ground equimolecular mixture of triphenylphosphine, iodine and imidazole.</p>
+				</abstract>
+				<keywords>Alcohol; azide; triphenylphosphine; iodine; imidazole; chemoselective.</keywords>
+				<authors>
+					<author>
+						<name first="Lalthazuala" last="Rokhum">Lalthazuala Rokhum</name>
+						<affiliation>Department of Chemistry, North Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email>bez@nehu.ac.in</email>
+					</author>
+					<author>
+						<name first="Ghanashyam" last="Bez">Ghanashyam Bez</name>
+						<affiliation>Department of Chemistry, North Eastern Hill University, Shillong 793 022, India</affiliation>
+						<email>ghanashyambez@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-12</date>
+					<date type="R">2011-11-21</date>
+					<date type="A">2011-12-02</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cytotoxicity and anti-HIV evaluations of some new synthesized quinazoline and thioxopyrimidine derivatives using 4-(thiophen-2-yl)-3,4,5,6-tetrahydrobenzo[h]quinazoline-2(1H)-thione as synthon</title>
+				<feature></feature>
+				<page>0693-0702</page>
+				<abstract>
+					<p>A series of dihydrobenzo[h]quinazoline derivatives $\textbf{5–19}$ were synthesized using arylmethylene ${\bf 2}$, thiopyrimidine ${\bf 3}$ and 2-(4-(thiophen-2-yl)-5,6-dihydrobenzo[h]quinazolin-2-ylthio) acetic acid (${\bf 4}$) as a starting materials. The biological screening showed that many of these compounds have good anticancer and antiviral activities. The structure assignments of the new compounds based on chemical and spectroscopic evidence. The detailed synthesis, spectroscopic data, and pharmacological properties are reported.</p>
+				</abstract>
+				<keywords>Arylmethylene; thiopyrimidine; dihydrobenzo[h]quinazolin-2-ylthioacetic acid; anticancer; antiviral and cytotoxic evaluations.</keywords>
+				<authors>
+					<author>
+						<name first="Yahia A." last="Mohamed">Yahia A. Mohamed</name>
+						<affiliation>Chemistry Department, Faculty of Science, El-Azhar University, Cairo 11787, Egypt</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abd El-Galil E." last="Amr">Abd El-Galil E. Amr</name>
+						<affiliation>Drug Exploration and Development Chair (DEDC), College of Pharmacy, King Saud University, Riyadh 11451, Saudi Arabia</affiliation>
+						<affiliation>Applied Organic Chemistry Department, National Research Centre, Dokki, Cairo 12622, Egypt</affiliation>
+						<email>aamr1963@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Salwa F." last="Mohamed">Salwa F. Mohamed</name>
+						<affiliation>Applied Organic Chemistry Department, National Research Centre, Dokki, Cairo 12622, Egypt</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mohamed M." last="Abdalla">Mohamed M. Abdalla</name>
+						<affiliation>Research Unit, Saco Pharm. Co., 6th October City, Cairo 15324, Egypt</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mohamed A." last="Al-Omare">Mohamed A. Al-Omare</name>
+						<affiliation>Pharmaceutical Chemistry Department, College of Pharmacy, King Saud University, Riyadh 11451, Saudi Arabia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Samira H." last="Shfik">Samira H. Shfik</name>
+						<affiliation>Applied Organic Chemistry Department, National Research Centre, Dokki, Cairo 12622, Egypt</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-04-24</date>
+					<date type="R">2011-09-14</date>
+					<date type="A">2011-011-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and antimicrobial studies of new N,N'-[5,5'-$\{$2,2'-($bis$-alkoxy) $bis$(2,1-phenylene)]$bis$(4-acetyl-4,5-dihydro-1,3,4-thiadiazole-5, 2-diyl)]diacetamide</title>
+				<feature></feature>
+				<page>0703-0715</page>
+				<abstract>
+					<p>The bisthiadiazolines ${\bf 4a(a'-f')}$ and ${\bf 4b(a'-f')}$ built around the various rigid chains have been synthesized in good yields by refluxing bisthiosemicarbazones ${\bf 3a(a'-f')}$ and ${\bf 3b(a'-f')}$ in acetic anhydride medium. The reaction of bisaldehydes ${\bf 2a(a'-f')}$ and ${\bf 2b(a'-f')}$ with thiosemicarbazide under alcoholic medium yielded ${\bf 3a(a'-f')}$ and ${\bf 3b(a'-f')}$ and the former were obtained from the reaction of 2/4-hydroxybenzaldehyde with suitable alkylating agent in the presence of anhydrous K$_2$CO$_3$/dry acetone and Bu$_4$N$^+$I$^−$ (PTC). The intermediates and final compounds have been characterized from the rigorous analysis of their IR, ${}^1$H-NMR, ${}^{13}$C-NMR, ESI-Mass and elemental analysis. The antibacterial and antifungal activities of the prepared compounds were also evaluated against the $\textit{Klubsellia pneumoniae, Pseudomonas aeruginosa, Escherichia coli, Staphylococcus aureus, Bacillius subtilis}$ and $\textit{Aspergillius janus and Pencillium glabrum}$ strains, respectively. The formation and antimicrobial behaviour of the bisthiadiazolines ${\bf 4a(a'-f')}$ and ${\bf 4b(a'-f')}$ are found to be independent of nature of the internal spacer unit.</p>
+				</abstract>
+				<keywords>Cyclization; bisaldehydes; bisthiosemicarbazones; bisthiadiazolines and antimicrobial activity.</keywords>
+				<authors>
+					<author>
+						<name first="Mohamad" last="Yusuf">Mohamad Yusuf</name>
+						<affiliation>Department of Chemistry, Punjabi University, Patiala 147 002, India</affiliation>
+						<email>yusuf_sah04@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Indu" last="Solanki">Indu Solanki</name>
+						<affiliation>Department of Chemistry, Punjabi University, Patiala 147 002, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Payal" last="Jain">Payal Jain</name>
+						<affiliation>Department of Chemistry, Punjabi University, Patiala 147 002, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-23</date>
+					<date type="R">2011-11-25</date>
+					<date type="A">2011-12-14</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A novel polymeric catalyst for the one-pot synthesis of 2,4,5-triaryl-1H-imidazoles</title>
+				<feature></feature>
+				<page>0717-0722</page>
+				<abstract>
+					<p>An efficient synthesis of 2,4,5-trisubstituted imidazoles is achieved by three component cyclocondensation of benzil or benzoin, aldehyde and ammonium acetate by using novel polymeric catalyst [poly(AMPS-co-AA)] under solvent-free conditions. The key advantages of this process are high yields, shorter reaction times, easy work-up, purification of products by non-chromatographic method and the reusability of the catalyst.</p>
+				</abstract>
+				<keywords>2,4,5-Trisubstituted imidazoles; solvent-free synthesis; multicomponent reaction; poly(AMPS-co-AA); heterogeneous catalysts.</keywords>
+				<authors>
+					<author>
+						<name first="Ali" last="Mohammadi">Ali Mohammadi</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Ferdowsi University of Mashhad, P.O. Box 91775, Mashhad, Iran</affiliation>
+						<email>a.mohammady62@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Hossein" last="Keshvari">Hossein Keshvari</name>
+						<affiliation>Department of Chemistry, Tarbiat Moallem University of Sabzevar, P.O. Box 9617976487, Sabzevar, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Reza" last="Sandaroos">Reza Sandaroos</name>
+						<affiliation>Department of Chemistry, Faculty of Science, University of Birjand, P.O. Box 97175/615, Birjand, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hamed" last="Rouhi">Hamed Rouhi</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Ferdowsi University of Mashhad, P.O. Box 91775, Mashhad, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zeinalabedin" last="Sepehr">Zeinalabedin Sepehr</name>
+						<affiliation>Department of Chemistry, Tarbiat Moallem University of Sabzevar, P.O. Box 9617976487, Sabzevar, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-08</date>
+					<date type="R">2011-11-29</date>
+					<date type="A">2012-01-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and antibacterial activity of sulfonamide derivatives at C-8 alkyl chain of anacardic acid mixture isolated from a natural product cashew nut shell liquid (CNSL)</title>
+				<feature></feature>
+				<page>0723-0730</page>
+				<abstract>
+					<p>Synthesis and antibacterial activity of some novel biologically active sulfonamide derivatives at C-8 alkyl chain of anacardic acid (${\bf 7a–7l}$), prepared from commercially available anacardic acid mixture (${\bf 1a–d}$). These compounds were tested for Gram positive and Gram negative bacterial cultures; most of the compounds showed higher antibacterial activity compared with standard drug ampicillin.</p>
+				</abstract>
+				<keywords>Synthesis; sulfonamide derivatives; anacardic acid; antibacterial activity.</keywords>
+				<authors>
+					<author>
+						<name first="N. Subhakara" last="Reddy">N. Subhakara Reddy</name>
+						<affiliation>Medicinal chemistry Laboratory, GVK Biosciences Pvt Ltd, Plot No 5C, IDA, Uppal Road, Hyderabad 500 039, India</affiliation>
+						<affiliation>Centre for Environment, Institute of Science and Technology, JNT University, Kukatpally, Hyderabad 500 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Srinivas" last="Rao">A. Srinivas Rao</name>
+						<affiliation>Medicinal chemistry Laboratory, GVK Biosciences Pvt Ltd, Plot No 5C, IDA, Uppal Road, Hyderabad 500 039, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Adharvana" last="Chari">M. Adharvana Chari</name>
+						<affiliation>Dr. MACS Bio-Pharma Pvt. Ltd., Plot-32/A,Westren Hills, Kukatpally, Hyderabad 500 085, India</affiliation>
+						<affiliation>Department of Complexity Science and Engineering, School of Frontier Sciences, 5-1-5, Kashiwanoha, Kashiwa, University of Tokyo, Chiba 277 8561, Japan</affiliation>
+						<email>drmac_s@yahoo.com</email>
+					</author>
+					<author>
+						<name first="V. Ravi" last="Kumar">V. Ravi Kumar</name>
+						<affiliation>Medicinal chemistry Laboratory, GVK Biosciences Pvt Ltd, Plot No 5C, IDA, Uppal Road, Hyderabad 500 039, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Jyothy">V. Jyothy</name>
+						<affiliation>Dr. MACS Bio-Pharma Pvt. Ltd., Plot-32/A,Westren Hills, Kukatpally, Hyderabad 500 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Himabindu">V. Himabindu</name>
+						<affiliation>Centre for Environment, Institute of Science and Technology, JNT University, Kukatpally, Hyderabad 500 085, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-20</date>
+					<date type="R">2011-12-11</date>
+					<date type="A">2011-12-26</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Theoretical study on β-aminoacroleine; Density functional theory, atoms in molecules theory and natural bond orbitals studies</title>
+				<feature></feature>
+				<page>0731-0739</page>
+				<abstract>
+					<p>The characteristics of the intramolecular hydrogen bonding for a series of 19 different derivatives of $\beta$-aminoacroleine have been systematically analysed at the B3LYP/6-31G$^{\ast\ast}$ level of theory. The topological properties of the electron density distributions for N–H$\cdots$O intramolecular bridges have been analysed by the Bader theory of atoms in molecules. The electron density ($\rho$) and Laplacian ($\nabla^2 \rho$) properties at critical points of the relevant bonds, estimated by AIM calculations, showed that N–H$\cdots$O have low and positive character ($\nabla^2 \rho &gt; 0$), consistent with electrostatic character of the hydrogen bond. The vibrational study of the hydrogen bonded systems showed negative (red) shifts for the $\nu_{(N−H)}$ stretching mode. The $\pi$-electron delocalization parameter ($Q$) as a geometrical indicator of a local aromaticity and the geometry-based HOMA have also been calculated. Furthermore, the analysis of hydrogen bond in this molecule and its derivatives by natural bond orbital (NBO) methods support the DFT results. The results of AIM and NBO analysis as well as $\nu_{(N−H)}$ were further used for estimation of the hydrogen bonding interactions and the forces driving their formation. The various correlations were found between geometrical, energetic and topological parameters. The substituent effect was also analysed and it was found that the strongest hydrogen bonds exist for N$^+$(CH$_3$)$_3$ and Cl substituents while the weakest ones for COOCH$_3$.</p>
+				</abstract>
+				<keywords>$\beta$−Aminoacroleine; intramolecular hydrogen bond; NBO; AIM and harmonic oscillator model of aromaticity index (HOMA).</keywords>
+				<authors>
+					<author>
+						<name first="Heidar" last="Raissi">Heidar Raissi</name>
+						<affiliation>Chemistry Department, Birjand University, Birjand 97175-615, Iran</affiliation>
+						<email>hraissy@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Mehdi" last="Yoosefian">Mehdi Yoosefian</name>
+						<affiliation>Chemistry Department, Birjand University, Birjand 97175-615, Iran</affiliation>
+						<email>myoosefian@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Effat" last="Moshfeghi">Effat Moshfeghi</name>
+						<affiliation>Chemistry Department, Birjand University, Birjand 97175-615, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Farzaneh" last="Farzad">Farzaneh Farzad</name>
+						<affiliation>Chemistry Department, Birjand University, Birjand 97175-615, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-13</date>
+					<date type="R">2011-09-22</date>
+					<date type="A">2011-10-31</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
