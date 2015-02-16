@@ -29464,7 +29464,1682 @@
 				</dates>
 			</entry>
 		</issue>
-		<issue inum="00" month="00" year="">
+		<issue inum="04" month="07" year="2012">
+			<entry hassup="1">
+				<title>Substrate integrated Lead-Carbon hybrid ultracapacitor with flooded, absorbent glass mat and silica-gel electrolyte configurations</title>
+				<feature></feature>
+				<page>0747-0762</page>
+				<abstract>
+					<p>Lead-Carbon hybrid ultracapacitors (Pb-C HUCs) with flooded, absorbent-glass-mat (AGM) and silica-gel sulphuric acid electrolyte configurations are developed and performance tested. Pb-C HUCs comprise substrate-integrated PbO$_2$ (SI-PbO$_2$) as positive electrodes and high surface-area carbon with graphite-sheet substrate as negative electrodes. The electrode and silica-gel electrolyte materials are characterized by XRD, XPS, SEM, TEM, Rheometry, BET surface area, and FTIR spectroscopy in conjunction with electrochemistry. Electrochemical performance of SI-PbO$_2$ and carbon electrodes is studied using cyclic voltammetry with constant-current charge and discharge techniques by assembling symmetric electrical-double-layer capacitors and hybrid Pb-C HUCs with a dynamic Pb(porous)/PbSO$_4$ reference electrode. The specific capacitance values for 2 V Pb-C HUCs are found to be 166 F/g, 102 F/g and 152 F/g with a faradaic efficiency of 98&#37;, 92&#37; and 88&#37; for flooded, AGM and gel configurations, respectively.</p>
+				</abstract>
+				<keywords>Hybrid ultracapacitor; substrate-integrated PbO$_2$ electrode; silica-gel electrolyte.</keywords>
+				<authors>
+					<author>
+						<name first="" last="">A Banerjee</name>
+						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="" last="">M. K. Ravikumar</name>
+						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="" last="">A. Jalajakshi</name>
+						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="" last="">P. Suresh Kumar</name>
+						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="" last="">S. A. Gaffoor</name>
+						<affiliation>NED Energy Limited, 6-3-1109/1, Navbharat Chambers, Raj Bhavan Road, Hyderabad 500 082, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="" last="">A. K. Shukla</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>akshukla2006@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-15</date>
+					<date type="R">2012-02-21</date>
+					<date type="A">2012-03-12</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Does polar interaction influence medium viscosity? A computer simulation investigation using model liquids</title>
+				<feature></feature>
+				<page>0763-0771</page>
+				<abstract>
+					<p>Molecular dynamics simulations of model liquids interacting via Lennard–Jones (L–J) and Stockmayer (SM) interactions have been carried out to explore the effects of the longer-ranged dipole–dipole interaction on solvent viscosity and diffusion. Switching on of the dipolar interaction at a fixed density and temperature has been found to increase the viscosity over that of the LJ liquid, the extent of increase being a few percent to as large as $\tilde$60&#37; depending on the magnitude of the solvent dipole moment used in the SM potential. The simulated translational and rotational diffusion coefficients show strong dipole moment and temperature dependences, eventhough effects of these parameters on solvent–solvent radial distribution function are moderate. Interestingly, a partial solute–solvent decoupling is observed when the simulated translational and rotational diffusion coefficients are connected to the simulated viscosity coefficients via the Stokes–Einstein (SE) and Stokes–Einstein–Debye (SED) relations. In the limit of large dipole moment, simulated self-part of the van Hove correlation function at intermediate times reveals a departure from the Gaussian distribution with particle displacement. This suggests that dynamic heterogeneity is one of the reasons for the departure of centre-of-mass diffusion from the SE relation in these model systems.</p>
+				</abstract>
+				<keywords>Stockmayer fluids; dipolar interaction; viscosity; diffusion coefficients; decoupling.</keywords>
+				<authors>
+					<author>
+						<name first="Snehasis" last="Daschakraborty">Snehasis Daschakraborty</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, S. N. Bose National Centre for Basic Sciences, JD Block, Sector III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ranjit" last="Biswas">Ranjit Biswas</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, S. N. Bose National Centre for Basic Sciences, JD Block, Sector III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email>ranjit@bose.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-10-08</date>
+					<date type="R">2011-12-29</date>
+					<date type="A">2012-01-03</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Allyl functionalized phosphinite and phosphonite ligands: Synthesis, transition metal chemistry and orthopalladation reactions</title>
+				<feature></feature>
+				<page>0773-0779</page>
+				<abstract>
+					<p>Allyl functionalized phosphinite PPh$_2$(OAr) [Ar=C$_6$H$_4$($o$-C$_3$H$_5$)] (${\bf 1}$) and phosphonite PPh(OAr)$_2$ (${\bf 2}$) ligands were prepared by the reactions of 2-allylphenol with PPh$_2$Cl and PPhCl$_2$, respectively. The ruthenium(II) complexes, [Ru($\eta^6$-$p$-cymene)(PPh$_2$(OAr))Cl$_2$] (${\bf 3}$) and [Ru($\eta^6$-$p$-cymene)(PPh(OAr)$_2$Cl$_2$)] (${\bf 4}$) were obtained by reacting ${\bf 1}$ or ${\bf 2}$ with [Ru($\eta^6$-$p$-cymene)Cl$_2$]$_2$ in 2:1 molar ratios, respectively. Reactions of ${\bf 1}$ or ${\bf 2}$ with AuCl(SMe$_2$) gave [Au$\{$PPh$_2$(OAr)$\}$Cl] (${\bf 5}$) or [Au$\{$PPh(OAr)$_2\}$Cl] (${\bf 6}$) in good yield. The palladium complex, [Pd$\{$PPh(OAr)$_2\}_2$Cl$_2$] (${\bf 7}$) was prepared by reacting Pd(COD)Cl$_2$ with ${\bf 2}$ in 1:2 molar ratio. The reaction between Pd(COD)Cl$_2$ and ${\bf 1}$ yielded a mixture of orthopalladated $\textit{cis}$- and $\textit{trans}$-[Pd(Ph$_2$P(OAr))Cl]$_2$ (${\bf 8a}$ and ${\bf 8b}$). The treatment of ${\bf 8}$ with PPh$_3$ and Ph$_2$PCH$_2$PPh$_2$ resulted in the cleavage of chloro bridge to give respectively, [Ph$_2$(OAr)PPd(PPh$_3$)Cl] (${\bf 9}$) and [Ph$_2$(ArO)PPd($\eta^2$-dppm)]OTf (${\bf 10}$). Single crystal X-ray structure of the ruthenium complex ${\bf 3}$ is described.</p>
+				</abstract>
+				<keywords>Phosphonites; palladium(II); orthopalladation; orthometallation; metal complexes; gold(I) and ruthenium(II) complexes.</keywords>
+				<authors>
+					<author>
+						<name first="Singappagudem" last="Govindaraju">Singappagudem Govindaraju</name>
+						<affiliation>Phosphorus Laboratory, Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Guddekoppa S." last="Ananthnag">Guddekoppa S. Ananthnag</name>
+						<affiliation>Phosphorus Laboratory, Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Susmita" last="Naik">Susmita Naik</name>
+						<affiliation>Phosphorus Laboratory, Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shaikh M." last="Mobin">Shaikh M. Mobin</name>
+						<affiliation>National Single Crystal X-ray Diffraction Facility, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Maravanji S." last="Balakrishn">Maravanji S. Balakrishn</name>
+						<affiliation>Phosphorus Laboratory, Department of Chemistry, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email>krishna@chem.iitb.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-28</date>
+					<date type="R"></date>
+					<date type="A">2012-02-29</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Synthesis and structural characterization of a calcium coordination polymer based on a $\mu_3$-bridging tetradentate binding mode of glycine</title>
+				<feature></feature>
+				<page>0781-0790</page>
+				<abstract>
+					<p>A new coordination polymer namely [[Ca$_6$(H–gly)$_{12}$(H$_2$O)$_{18}$]Cl$_{12}$·6H$_2$O]$_n$ (${\bf 1}$) (H–gly = glycine) has been isolated from the calcium chloride–glycine–water system and structurally characterized. Each Ca(II) in ${\bf 1}$ is eight-coordinated and is bonded to eight oxygen atoms three of which are from terminal water molecules and five oxygen atoms from four symmetry related zwitterionic glycine ligands. The H–gly ligands exhibit two different binding modes viz. a monodentate carboxylate ligation and a $\mu_3$-tetradentate bridging carboxylate binding mode, which results in the formation of a one-dimensional coordination polymer. In the infinite chain the Ca(II) atoms are organized in a zigzag fashion. A comparative study reveals a rich and diverse structural chemistry of calcium halide–glycine compounds.</p>
+				</abstract>
+				<keywords>Coordination polymer; calcium; glycine; zwitter ion; eight coordination.</keywords>
+				<authors>
+					<author>
+						<name first="Subramanian" last="Natarajan">Subramanian Natarajan</name>
+						<affiliation>School of Physics, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email>s_natarajan50@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Bikshandarkoil R." last="Srinivasan">Bikshandarkoil R. Srinivasan</name>
+						<affiliation>Department of Chemistry, Goa University, Goa 403 206, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. Kalyana" last="Sundar">J. Kalyana Sundar</name>
+						<affiliation>School of Physics, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Ravikumar">K. Ravikumar</name>
+						<affiliation>Laboratory of X-ray Crystallography, Indian Institute of Chemical Technology, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. V." last="Krishnakumar">R. V. Krishnakumar</name>
+						<affiliation>Department of Physics, Thiagarajar College, Madurai 625 009, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Suresh">J. Suresh</name>
+						<affiliation>Department of Physics, The Madura College, Madurai 625 011, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-06-16</date>
+					<date type="R">2011-11-11</date>
+					<date type="A">2011-11-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Displacement of aqua ligands from the hydroxopentaaquarhodium(III) ion by 1-hydroxybenzotriazole (HOBt): A kinetic and mechanistic approach</title>
+				<feature></feature>
+				<page>0791-0799</page>
+				<abstract>
+					<p>The kinetics of the reaction of HOBt with [Rh(H$_2$O)$_5$(OH)]$^{2+}$ has been studied spectrophotometrically in aqueous medium as a function of [Rh(H$_2$O)$_5$OH$^{2+}$], [HOBt], pH and temperature. At pH 4.3, the reaction proceeds via a rapid outer sphere association complex formation step followed by two consecutive steps. The first of these involves ligand-assisted anation, while the second involves chelation as the second aqua ligand is displaced. The association equilibrium constant for the outer sphere complex formation has been evaluated together with the rate constants for the two subsequent steps. The activation parameters for both steps have been evaluated using Eyrings equation. Thermodynamic parameters calculated from the temperature dependence of the outer sphere association equilibrium constants are also consistent with an associative mode of activation. The product of the reaction has been characterized by IR and ESI-mass spectroscopic analysis.</p>
+				</abstract>
+				<keywords>Kinetics; hydroxopentaaquarhodium(III); HOBt; mechanism; activation parameters.</keywords>
+				<authors>
+					<author>
+						<name first="Biplab K." last="Bera">Biplab K. Bera</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Arup" last="Mandal">Arup Mandal</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biswarup" last="Maity">Biswarup Maity</name>
+						<affiliation>Department of Chemistry, Chemgen Pharma International Pvt. Ltd., Block GP, Sector-V, Salt Lake City, Kolkata 700091, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sumon" last="Ray">Sumon Ray</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Parnajyoti" last="Karmakar">Parnajyoti Karmakar</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subala" last="Mondal">Subala Mondal</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subhasis" last="Mallick">Subhasis Mallick</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alak K." last="Ghosh">Alak K. Ghosh</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713104, India</affiliation>
+						<email>alakghosh2002@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-28</date>
+					<date type="R">2012-03-27</date>
+					<date type="A">2012-04-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Kinetic studies on substitution of $cis$-diaqua-chloro-tris-(dimethyl sulphoxide)-ruthenium(II) complex with some dipeptides in aqueous medium</title>
+				<feature></feature>
+				<page>0801-0807</page>
+				<abstract>
+					<p>The kinetics of interaction between $cis$-[RuCl(Me$_2$SO)$_3$(H$_2$O)$_2$]$^+$ and some selected dipeptides such as glycyl glycine(gly gly), glycyl alanine(Gly-L-ala) and glycyl-L-leucine(gly leu) has been studied spectrophotometrically as a function of [RuCl(Me$_2$SO)$_3$(H$_2$O)$^+_2$], [dipeptide] and temperature at a particular pH(5.0), where the substrate complex exists predominantly as a diaqua species (in aqueous solution) and dipeptides as the zwitter ions. The reaction has been found to proceed via two distinct consecutive steps i.e., it shows a non-linear dependence on the concentration of dipeptide: first process is dependent and the second step is independent of ligand concentration respectively. The rate constants for the processes are: k$_1 \tilde 10^{−3}$s$^{−1}$ and k$_2 \tilde  10^{−5}$ s$^{−1}$. The activation parameters were calculated from Eyring plots suggests an associative mechanism for the interaction process. From the temperature dependence of the outer sphere association equilibrium constants, the thermodynamic parameters were also calculated, which gives a negative $\Delta$G$^0$ value at all temperatures studied, supporting the spontaneous formation of an outer sphere association complex.</p> 
+				</abstract>
+				<keywords>Ligand substitution; dipeptides; $cis$-[RuCl(Me$_2$SO)$_3$(H$_2$O)$_2$]$^+$; kinetics.</keywords>
+				<authors>
+					<author>
+						<name first="Arup" last="Mandal">Arup Mandal</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Parnajyoti" last="Karmakar">Parnajyoti Karmakar</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subhasis" last="Mallick">Subhasis Mallick</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Biplab K." last="Bera">Biplab K. Bera</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subala" last="Mondal">Subala Mondal</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sumon" last="Ray">Sumon Ray</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alak K." last="Ghosh">Alak K. Ghosh</name>
+						<affiliation>Department of Chemistry, The University of Burdwan, Burdwan 713 104, India</affiliation>
+						<email>alakghosh2002@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-29</date>
+					<date type="R">2012-01-21</date>
+					<date type="A">2012-02-07</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Kinetics and mechanism of oxidation of L-leucine by alkaline diperiodatocuprate(III)—A free radical intervention, deamination and decarboxylation</title>
+				<feature></feature>
+				<page>0809-0819</page>
+				<abstract>
+					<p>The kinetics of oxidation of L-leucine by diperiodatocuprate (III) (DPC) in aqueous alkaline medium at a constant ionic strength of 0.10mol dm$^{−3}$ was studied spectrophotometrically. The reaction between L-leucine and DPC in alkaline medium exhibits 1:4 stoichiometry (L-leucine: DPC). The reaction is of first order in [DPC] and has less than unit order in both [L-leucine] and [alkali]. However, the order in [Lleucine] and [alkali] changes from first order to zero order as their concentration increase. Intervention of free radicals was observed in the reaction. Increase in periodate concentration decreased the rate. The oxidation reaction in alkaline medium has been shown to proceed via a monoperiodatocuprate (III) – L-leucine complex, which decomposed slowly in a rate-determining step followed by other fast steps to give the products. The main oxidative products were identified by spot test and GC-MS. The reaction constants involved in the different steps of the mechanism were calculated.</p>
+				</abstract>
+				<keywords>L-leucine; diperiodatocuprate (III); oxidation; kinetics; mechanism.</keywords>
+				<authors>
+					<author>
+						<name first="Keerti M." last="Naik">Keerti M. Naik</name>
+						<affiliation>Post Graduate Department of Studies in Chemistry, Karnatak University, Dharwad 580003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sharanappa T." last="Nandibewoor">Sharanappa T. Nandibewoor</name>
+						<affiliation>Post Graduate Department of Studies in Chemistry, Karnatak University, Dharwad 580003, India</affiliation>
+						<email>stnandibewoor@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-29</date>
+					<date type="R">2012-01-05</date>
+					<date type="A">2012-01-16</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Selenium dioxide catalysed oxidation of acetic acid hydrazide by bromate in aqueous hydrochloric acid medium</title>
+				<feature></feature>
+				<page>0821-0826</page>
+				<abstract>
+					<p>Selenium dioxide catalysed acetic acid hydrazide oxidation by bromate was studied in hydrochloric acid medium. The order in oxidant concentration, substrate and catalyst were found to be unity. Increasing hydrogen ion concentration increases the rate of the reaction due to protonation equilibria of the oxidant. The mechanism of the reaction involves prior complex formation between the catalyst and substrate, hydrazide, followed by its oxidation by diprotonated bromate in a slow step. Acetic acid was found to be the oxidation product. Other kinetic data like effect of solvent polarity and ionic strength on the reaction support the proposed mechanism.</p>
+				</abstract>
+				<keywords>Acetic acid hydrazide; oxidation; bromate; kinetics; selenium dioxide; catalysis.</keywords>
+				<authors>
+					<author>
+						<name first="R. S." last="Yalgudre">R. S. Yalgudre</name>
+						<affiliation>Kinetics and Catalysis Laboratory, Department of Chemistry, Shivaji University Kolhapur 416 004, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. S." last="Gokavi">G. S. Gokavi</name>
+						<affiliation>Kinetics and Catalysis Laboratory, Department of Chemistry, Shivaji University Kolhapur 416 004, India</affiliation>
+						<email>gsgokavi@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-06-08</date>
+					<date type="R">2011-08-31</date>
+					<date type="A">2011-09-13</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, characterization and investigation of catalytic activity of Cu$_{1−x}$Co$_x$Fe$_2$O$_4$ nanocatalysts in $t$-butylation of $p$-cresol</title>
+				<feature></feature>
+				<page>0827-0834</page>
+				<abstract>
+					<p>In this work, tertiary butylation of $p$-cresol was carried out in the presence of Cu$_{1−x}$Co$_x$Fe$_2$O$_4$ (x = 0 to 1) nanocatalysts by employing methyl-$\textit{tert}$-butyl ether (MTBE) and $\textit{tert}$-butyl alcohol (TBA) as alkylation agents. Effects of temperature, mole ratio, type and catalyst composition, time and solvent in reaction conditions were investigated. These nanocatalysts were synthesized using hydrothermal method. The characterization of these catalysts was investigated by means of X-ray diffraction (XRD), Scanning Electron Microscopy (SEM) and Fourier Transform Infrared (FT-IR). These nanocatalysts can be recovered and recycled. A good correlation was found between the activity, in terms of $p$-cresol conversion and various product selectivities for this reaction, and also the acid–base properties of the catalysts. Nano-sized Cu$_{0.5}$Co$_{0.5}$Fe$_2$O$_4$, in comparison to the other nanocatalysts discussed in this report is the most active nanocatalyst. The only product of this reaction is $2-t$-butyl $p$-cresol with selectivity of 100&#37; and $p$-cresol conversion is 70&#37;. The possible mechanism for this reaction system was discussed based on the reaction results. The reaction mechanism proposed involves the interaction of phenoxide from phenol and the $\textit{tert}$-butyl cation from isobutene on Cu$_{1−x}$Co$_x$Fe$_2$O$_4$.</p>
+				</abstract>
+				<keywords>$\textit{Tert}$-butylation; Cu$_{1−x}$Co$_x$Fe$_2$O$_4$; spinel nanostructures; nanocatalysis; acidity.</keywords>
+				<authors>
+					<author>
+						<name first="Reza Fareghi" last="Alamdari">Reza Fareghi Alamdari</name>
+						<affiliation>Faculty of Material and Manufacturing Technologies, Malek Ashtar University of Technology, Tehran 15875-1774, Iran</affiliation>
+						<email>reza_fareghi@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Zahra" last="Hosseinabadi">Zahra Hosseinabadi</name>
+						<affiliation>Faculty of Material and Manufacturing Technologies, Malek Ashtar University of Technology, Tehran 15875-1774, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Masoud Farhadi" last="Khouzani">Masoud Farhadi Khouzani</name>
+						<affiliation>Institute of Nanoscience and Nanotechnology, University of Kashan, Kashan 87317-51167, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-04-23</date>
+					<date type="R">2011-12-18</date>
+					<date type="A">2011-12-26</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Solvent-free oxidation of aldehydes to acids by TBHP using environmental-friendly MnO$^{−1}_4$-exchanged Mg-Al hydrotalcite catalyst</title>
+				<feature></feature>
+				<page>0835-0839</page>
+				<abstract>
+					<p>A number of hydrotalcite (Mg–Al, Mn–Al, Co–Al, Ni–Al, Mg–Fe, Mg–Cr and Cu–Al) catalysts, with or without MnO$^{−1}_4$-exchange, were evaluated for their performance in the solvent-free oxidation of benzaldehyde to benzoic acid by tert-butyl hydroperoxide under reflux in the absence of any solvent. The MnO$^{−1}_4$-exchanged Mg–Al-hydrotalcite (Mg/Al = 10) showed high activity in the oxidation of different aromatic and aliphatic aldehydes to their corresponding acids and also showed excellent reusability in the oxidation process which is environmental-friendly.</p>
+				</abstract>
+				<keywords>Aldehyde; acid; oxidation; TBHP; MnO$^{−1}_4$ -exchanged Mg–Al–hydrotalcite catalyst.</keywords>
+				<authors>
+					<author>
+						<name first="Vasant R." last="Choudhary">Vasant R. Choudhary</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008, India</affiliation>
+						<email>vr.choudhary@ncl.res.in</email>
+						<email>vrc0001@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Deepa K." last="Dumbre">Deepa K. Dumbre</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vijay S." last="Narkhede">Vijay S. Narkhede</name>
+						<affiliation>Chemical Engineering and Process Development Division, National Chemical Laboratory, Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-11-22</date>
+					<date type="R">2011-11-11</date>
+					<date type="A">2011-11-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nonthermal plasma assisted photocatalytic oxidation of dilute benzene</title>
+				<feature></feature>
+				<page>0841-0845</page>
+				<abstract>
+					<p>Oxidative decomposition of low concentrations (50–1000 ppm) of diluted benzene in air was carried out in a nonthermal plasma (NTP) dielectric barrier discharge (DBD) reactor with the inner electrode made up of stainless steel fibres (SMF) modified with transition metal oxides in such a way to integrate the catalyst in discharge zone. Typical results indicate the better performance of MnO$_x$ and TiO$_2$/MnO$_x$ modified systems, which may be attributed to the $\textit{in situ}$ decomposition of ozone on the surface of MnO$_x$ that may lead to the formation of atomic oxygen; whereas ultraviolet light induced photocatalytic oxidation may be taking place with TiO$_2$ modified systems. Water vapour improved the selectivity to total oxidation.</p>
+				</abstract>
+				<keywords>Nonthermal plasma; sintered metal fibres; photocatalysis; ozone decomposition; VOC abatement.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Karuppiah">J. Karuppiah</name>
+						<affiliation>Department of Chemistry, National Institute of Technology, Tiruchirappalli 620 015, India</affiliation>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Hyderabad 502 205, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="E. Linga" last="Reddy">E. Linga Reddy</name>
+						<affiliation>Department of Chemistry, National Institute of Technology, Tiruchirappalli 620 015, India</affiliation>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Hyderabad 502 205, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L." last="Sivachandiran">L. Sivachandiran</name>
+						<affiliation>Department of Chemistry, National Institute of Technology, Tiruchirappalli 620 015, India</affiliation>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Hyderabad 502 205, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Karvembu">R. Karvembu</name>
+						<affiliation>Department of Chemistry, National Institute of Technology, Tiruchirappalli 620 015, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ch" last="Subrahmanyam">Ch Subrahmanyam</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology, Hyderabad 502 205, India</affiliation>
+						<email>csubbu@iith.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-01</date>
+					<date type="R">2012-02-17</date>
+					<date type="A">2012-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, characterization and biological evaluation of thiazolopyrimidine derivatives</title>
+				<feature></feature>
+				<page>0847-0855</page>
+				<abstract>
+					<p>Different substituted diesters of thiazolopyrimidine were prepared by the treatment of 3,4 dihydropyrimidine2-thione with $\alpha$-haloesters using ethanol under reflux condition affording 71–85&#37; yield. IR, ${}^1$HNMR, ${}^{13}$CNMR and elemental analyses were used for the characterization of these compounds. The crystal and molecular structure of one of the product, 5-phenyl-3,7-dimethyl-5H-thiazolo[3,2-a]pyrimidine-2,6-dicarboxylic acid diethyl ester (${\bf 3e}$) was verified by single crystal X-ray diffraction method. The antimicrobial activity was evaluated against four bacterial strains and one fungal species. Few of the derivatives exhibited antibacterial and antifungal activities.</p>
+				</abstract>
+				<keywords>3,4-Dihydropyrimidine 2-thione; thiazolopyrimidine; crystal structure; antibacterial and antifungal activity.</keywords>
+				<authors>
+					<author>
+						<name first="H." last="Nagarajaiah">H. Nagarajaiah</name>
+						<affiliation>Department of Chemistry, Bangalore University, Bangalore 560 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="I. M." last="Khazi">I. M. Khazi</name>
+						<affiliation>Department of Chemistry, Karnatak University, Dharwad 580 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Noor Shahina" last="Begum">Noor Shahina Begum</name>
+						<affiliation>Department of Chemistry, Bangalore University, Bangalore 560 001, India</affiliation>
+						<email>noorsb@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-21</date>
+					<date type="R">2012-02-09</date>
+					<date type="A">2012-03-26</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Potash alum [KAl(SO$_4$)$_2$.12H$_2$O] catalysed esterification of formylphenoxyaliphatic acids</title>
+				<feature></feature>
+				<page>0857-0863</page>
+				<abstract>
+					<p>A convenient and clean procedure for esterification is reported. Direct condensation of formylphenoxyaliphatic acids with low to high boiling alcohols catalysed by potash alum gave moderate to good yields. This catalyst could be recovered and reused without substantial loss in its catalytic activity and the methodology could be used for a range of closely related substrates.</p>
+				</abstract>
+				<keywords>Esterification; formylphenoxyaliphatic acids; potash alum; phenoxyaliphatic acid ester and catalyst reuse.</keywords>
+				<authors>
+					<author>
+						<name first="Ganesan Shunmugadhas Suresh" last="Kumar">Ganesan Shunmugadhas Suresh Kumar</name>
+						<affiliation>Department of Chemistry, Manonmaniam Sundaranar University, Tirunelveli 627 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sudalaiandi" last="Kumaresan">Sudalaiandi Kumaresan</name>
+						<affiliation>Department of Chemistry, Manonmaniam Sundaranar University, Tirunelveli 627 012, India</affiliation>
+						<email>skumarmsu@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-23</date>
+					<date type="R">2012-03-06</date>
+					<date type="A">2012-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Versatile three-component procedure for combinatorial synthesis of spiro-oxindoles with fused chromenes catalysed by L-proline</title>
+				<feature></feature>
+				<page>0865-0869</page>
+				<abstract>
+					<p>An efficient synthesis of spiro-oxindoles is accomplished by a one-pot three-component condensation of isatin, malononitrile or cyanoacetic ester and naphthol in the presence of L-proline as a catalyst. This method is of great value because of its shorter reaction times, high yield, and easy processing.</p>
+				</abstract>
+				<keywords>Spiro-oxindoles; naphthol; L-proline; isatin.</keywords>
+				<authors>
+					<author>
+						<name first="Majid M." last="Heravi">Majid M. Heravi</name>
+						<affiliation>Department of Chemistry, School of Sciences, Alzahra University, Vanak, Tehran 1993893973, Iran</affiliation>
+						<email>mmh1331@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Masoumeh" last="Zakeri">Masoumeh Zakeri</name>
+						<affiliation>Young Researchers Club, Tehran North Branch, Islamic Azad University, Tehran 1913674711, Iran</affiliation>
+						<email>ms.zakeri@gmail.com</email>
+					</author>
+					<author>
+						<name first="Arezoo" last="Moharami">Arezoo Moharami</name>
+						<affiliation>Department of Chemistry, School of Sciences, Alzahra University, Vanak, Tehran 1993893973, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-10-30</date>
+					<date type="R">2012-02-15</date>
+					<date type="A">2012-04-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Efficient asymmetric Baeyer–Villiger oxidation of prochiral cyclobutanones using new polymer-supported and unsupported chiral co(salen) complexes</title>
+				<feature></feature>
+				<page>0871-0876</page>
+				<abstract>
+					<p>Two heterogeneous catalysts ${\bf 4}$ and ${\bf 5}$ and three homogenous complexes ${\bf 1–3}$ were prepared and used for enantioselective Baeyer–Villiger (B–V) oxidation of prochiral cyclobutanones. Among the prepared catalysts, the supported ones showed better enantioselectivity, good thermal stability and negligible loss of activity over consecutive recycling offset by lower chemical yield.</p>
+				</abstract>
+				<keywords>Polymer-supported; enantioselective; Baeyer–Villiger oxidation; cyclobutanones; Co(Salen) Complexes.</keywords>
+				<authors>
+					<author>
+						<name first="Reza" last="Sandaroos">Reza Sandaroos</name>
+						<affiliation>Department of Chemistry, Faculty of Science, University of Birjand, Birjand, Iran</affiliation>
+						<email>R_Sandaroos@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Mohammad Taghi" last="Goldani">Mohammad Taghi Goldani</name>
+						<affiliation>Department of Chemistry, Islamic Azad University, Birjand Branch, Birjand, Iran</affiliation>
+						<email>MT.Goldani@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Saman" last="Damavandi">Saman Damavandi</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ali" last="Mohammadi">Ali Mohammadi</name>
+						<affiliation>Department of Chemistry, Sarvestan Branch, Islamic Azad University, Sarvestan, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-01-31</date>
+					<date type="R"></date>
+					<date type="A">2012-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An environmentally benign one pot synthesis of substituted quinolines catalysed by fluoroboric acid based ionic liquid</title>
+				<feature></feature>
+				<page>0877-0881</page>
+				<abstract>
+					<p>Organic synthesis generally required large amount of solvent, avoiding the use of organic solvents in synthesis is a paradigm shift directed at developing more benign chemistry, and with ionic liquids surprisingly can lead to access to new compounds. An elegant one-pot synthesis of quinoline derivatives has been achieved by reaction of substituted anilines with $\beta$-ketoester at 60$^\circ$C in ethanol using an ionic liquid [Et$_3$NH]$^+$[BF$_4$]$^−$as catalyst. All the reactions gave products with high degree of purity and excellent yield (78–93&#37;) within the shorter span of time (20–65 min) than those reactions with conventional methods. The screening of solvents as well as the reuse of ionic liquid has been evaluated. The structure of the products has been elucidated by spectral and analytical data. The present scope and potential economic impact of the reaction are demonstrated by the synthesis of substituted quinolines. Remaining challenges and future perspectives of the new transformation are discussed.</p>
+				</abstract>
+				<keywords>One-pot synthesis; benign synthesis; ionic liquids; fluoroboric acid; quinolines.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Rajendran">A. Rajendran</name>
+						<affiliation>Department of Chemistry, Sir Theagaraya College, Chennai 600 021, India</affiliation>
+						<email>annamalai_rajendran2000@yahoo.com</email>
+					</author>
+					<author>
+						<name first="C." last="Karthikeyan">C. Karthikeyan</name>
+						<affiliation>Research and Development Centre, Bharathiar University, Coimbatore 641 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Rajathi">K. Rajathi</name>
+						<affiliation>Research and Development Centre, Bharathiar University, Coimbatore 641 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Ragupathy">D. Ragupathy</name>
+						<affiliation>Department of Applied Chemistry, Kyungpook National University, 1370, Sangyuk 3 Dong, BUk GU, Daegu 701-702, South Korea</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-23</date>
+					<date type="R">2012-01-13</date>
+					<date type="A">2012-02-07</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Pentafluorophenylammonium triflate-CuCl$_2$: A mild, efficient and reusable heterogeneous catalyst system for facile synthesis of 4(3H)-quinazolinones under solvent-free conditions</title>
+				<feature></feature>
+				<page>0883-0887</page>
+				<abstract>
+					<p>Pentafluorophenylammonium triflate (PFPAT) was found to be highly efficient, and recyclable heterogeneous catalyst for the synthesis of 4(3H)-quinazolinones by cyclocondensation reaction of 2-aminobenzamide with aryl aldehydes in the presence of CuCl$_2$ as co-catalyst in good to excellent yields under solvent-free conditions. The present methodology offers several advantages, such as simple procedure with an easy work-up, high yields, short reaction times, and the absence of any volatile or hazardous organic solvents. Moreover, the catalyst can be easily recovered and reused at least three times with only slight reduction in its catalytic activity.</p>
+				</abstract>
+				<keywords>Pentafluorophenylammonium triflate; heterogeneous catalysis; 4(3H)-quinazolinones; solvent-free conditions.</keywords>
+				<authors>
+					<author>
+						<name first="Naser" last="Montazeri">Naser Montazeri</name>
+						<affiliation>Department of Chemistry, Tonekabon Branch, Islamic Azad University, Tonekabon 46819-89711, Iran</affiliation>
+						<email>montazer50@toniau.ac.ir</email>
+					</author>
+					<author>
+						<name first="Khalil" last="Pourshamsian">Khalil Pourshamsian</name>
+						<affiliation>Department of Chemistry, Tonekabon Branch, Islamic Azad University, Tonekabon 46819-89711, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Soghra" last="Yosefiyan">Soghra Yosefiyan</name>
+						<affiliation>Department of Chemistry, Tonekabon Branch, Islamic Azad University, Tonekabon 46819-89711, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Seydeh Samaneh" last="Momeni">Seydeh Samaneh Momeni</name>
+						<affiliation>Department of Chemistry, Tonekabon Branch, Islamic Azad University, Tonekabon 46819-89711, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-09</date>
+					<date type="R">2011-12-10</date>
+					<date type="A">2012-01-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Cellulose sulphuric acid as a biodegradable catalyst for conversion of aryl amines into azides at room temperature under mild conditions</title>
+				<feature></feature>
+				<page>0889-0892</page>
+				<abstract>
+					<p>This article describes simple and efficient method for the diazotization and azidation of different aromatic amines over cellulose sulphuric acid, sodium nitrite and sodium azide under mild conditions at room temperature. Various aryl amines possessing electron-withdrawing groups or electron-donating groups have been converted into the corresponding aryl azides with 71–99&#37; yields. The use of mild reaction conditions, avoids the use of harmful acids and toxic solvents and short reaction times are advantages of this methodology. The selected catalyst is found to be highly efficient and recyclable.</p>
+				</abstract>
+				<keywords>Cellulose sulphuric acid; aryl azides; diazotization; biodegradable.</keywords>
+				<authors>
+					<author>
+						<name first="Firouzeh" last="Nesmati">Firouzeh Nesmati</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Semnan University, Semnan 35131-19111, Iran</affiliation>
+						<email>fnemati_1350@yahoo.com</email>
+						<email>fnemati@semnan.ac.ir</email>
+					</author>
+					<author>
+						<name first="Ali" last="Elhampour">Ali Elhampour</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Semnan University, Semnan 35131-19111, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-07</date>
+					<date type="R">2011-12-03</date>
+					<date type="A">2012-01-16</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A novel and facile approach for synthesis of 5-amino-7-aryl-6-cyano-4$H$-pyrano[3,2-$b$]pyrroles</title>
+				<feature></feature>
+				<page>0893-0899</page>
+				<abstract>
+					<p>An efficient and iron-catalysed synthesis of 4$H$-pyrano[3,2-$b$]pyrrole is reported. The reactions proceed through a one-pot, three component cyclocondensation of 3-hydroxypyrrole, malononitrile and various aldehydes to afford 4$H$-pyrano[3,2-$b$]pyrrole derivatives in moderate to good yield using ferric hydrogensulphate, Fe(HSO$_4$)$_3$, as the catalyst.</p>
+				</abstract>
+				<keywords>Pyranopyrrole; one-pot; catalyst.</keywords>
+				<authors>
+					<author>
+						<name first="Reza" last="Sandaroos">Reza Sandaroos</name>
+						<affiliation>Department of Chemistry, Faculty of Science, University of Birjand, Birjand, Iran</affiliation>
+						<email>R_Sandaroos@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Saman" last="Damavandi">Saman Damavandi</name>
+						<affiliation>Department of Chemistry, Sarvestan Branch, Islamic Azad University, Sarvestan, Iran</affiliation>
+						<email>Saman_Damavandi@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-31</date>
+					<date type="R">2012-12-25</date>
+					<date type="A">2012-01-16</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Selectfluor$^{\text{TM}}$: A novel and efficient reagent for the rapid $\alpha$-thiocyanation of ketones</title>
+				<feature></feature>
+				<page>0901-0905</page>
+				<abstract>
+					<p>The direct α-thiocyanation of ketones with ammonium thiocyanate has been achieved using Selectfluor$^{\text{TM}}$ under mild and neutral conditions to produce $\alpha$-ketothiocyanates, in excellent yields and with high selectivity.</p>
+				</abstract>
+				<keywords>Thiocyanation; ketones; ammonium thiocyanate; Selectfluor$^{\text{TM}}$; synthesis</keywords>
+				<authors>
+					<author>
+						<name first="Dezhen" last="Wu">Dezhen Wu</name>
+						<affiliation>Department of Pharmacy, Xinxiang Central Hospital, Xinxiang, Henan 453000, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaojuan" last="Yang">Xiaojuan Yang</name>
+						<affiliation>College of Chemistry and Chemical Engineering, Xinxiang University, Xinxiang, Henan 453003, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Liqiang" last="Wu">Liqiang Wu</name>
+						<affiliation>School of Pharmacy, Xinxiang Medical University, Xinxiang, Henan 453003, China</affiliation>
+						<email>wliq870@163.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-01</date>
+					<date type="R">2011-10-16</date>
+					<date type="A">2011-12-02</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nickel nanoparticles: A highly efficient catalyst for one pot synthesis of tetraketones and biscoumarins</title>
+				<feature></feature>
+				<page>0907-0912</page>
+				<abstract>
+					<p>A novel and practically useful protocol has been designed wherein, polyvinyl pyrrolidone (PVP) stabilized nickel nanoparticles have been used as a catalyst for promoting the synthesis of 2,2'-aryl-methylene bis(3-hydroxy-5,5-dimethyl-2-cyclohexene-1-one), 2,2'-aryl-methylene bis(3-hydroxy-2-cyclohexene-1-one), also known as tetraketones, and biscoumarins via Knoevenagel condensation followed by rapid Michael addition.</p>
+				</abstract>
+				<keywords>PVP-stabilized Ni nanoparticles; ethylene glycol; tetraketones; biscoumarins; cyclo-condensation.</keywords>
+				<authors>
+					<author>
+						<name first="Jitender M." last="Khurana">Jitender M. Khurana</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<email>jmkhurana1@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Kanika" last="Vij">Kanika Vij</name>
+						<affiliation>Department of Chemistry, University of Delhi, Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-18</date>
+					<date type="R">2011-11-17</date>
+					<date type="A">2011-12-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Synthesis of cyclic nitrone and 1,2-oxazine from 1,2,4-triaryl-but-2-ene-1,4-dione and hydroxylamine</title>
+				<feature></feature>
+				<page>0913-0919</page>
+				<abstract>
+					<p>The reaction of hydroxylamine hydrochloride with differently substituted phenyldibenzoylethylene has been investigated. Both cyclic nitrone and 1,2-oxazine have been isolated and characterized by one- and two-dimensional NMR data and also by single crystal X-ray analysis.</p>
+				</abstract>
+				<keywords>1,2,-Oxazines; cyclic nitrones; 1,4-diketones; regioselectivity; two-dimensional NMR.</keywords>
+				<authors>
+					<author>
+						<name first="Muthupandi" last="Nagaraj">Muthupandi Nagaraj</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Murugan" last="Iniya">Murugan Iniya</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Muthusamy" last="Boominathan">Muthusamy Boominathan</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shanmugam" last="Muthusubramanian">Shanmugam Muthusubramanian</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email>muthumanian2001@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Nattamai" last="Bhuvanesh">Nattamai Bhuvanesh</name>
+						<affiliation>X-ray Diffraction Laboratory, Department of Chemistry, Texas A &amp; M University, College Station, TX 77842, USA</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-01</date>
+					<date type="R">2012-01-20</date>
+					<date type="A">2012-02-29</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A facile approach for the synthesis of 3,4-dihydropyrimidin-2-(1$H$)-ones using a microwave promoted Biginelli protocol in ionic liquid</title>
+				<feature></feature>
+				<page>0921-0926</page>
+				<abstract>
+					<p>Carboxy functionalized ionic liquid [cmmim][BF$_4$] has been demonstrated to be an efficient and green catalyst for the one pot synthesis of 3,4-dihydropyrimidin-2-(1$H$)-ones heterocycles under microwave irradiation. The ionic liquid-microwave strategy represents an easy access to Biginelli compounds with high yields and purity. The protocol was found to be compatible with different structurally diverse aldehydes. The ionic liquid was recycled and reused in at least six subsequent reactions with consistent activity.</p> 
+				</abstract>
+				<keywords>Ionic liquid; Biginelli reaction; microwave irradiation; recyclability.</keywords>
+				<authors>
+					<author>
+						<name first="Abhishek N." last="Dadhania">Abhishek N. Dadhania</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email>abhishekdadhania@gmail.com</email>
+					</author>
+					<author>
+						<name first="Vaibhav K." last="Patel">Vaibhav K. Patel</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dipak K." last="Raval">Dipak K. Raval</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-05</date>
+					<date type="R">2012-02-25</date>
+					<date type="A">2012-03-06</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Boric acid as a mild and efficient catalyst for one-pot synthesis of 1-amidoalkyl-2-naphthols under solvent-free conditions</title>
+				<feature></feature>
+				<page>0927-0931</page>
+				<abstract>
+					<p>An efficient green chemistry method has been developed for the synthesis of 1-amidoalkyl-2-naphthol derivatives via a one-pot three-component condensation of 2-naphthol, aldehydes and amide in the presence of boric acid as a mild catalyst.</p>
+				</abstract>
+				<keywords>Multicomponent reaction; amidoalkyl naphthol; boric acid; catalyst; solvent-free synthesis.</keywords>
+				<authors>
+					<author>
+						<name first="Aziz" last="Shahrisa">Aziz Shahrisa</name>
+						<affiliation>Department of Organic Chemistry and Biochemistry, Faculty of Chemistry, University of Tabriz, Tabriz 5166614766, Iran</affiliation>
+						<email>ashahrisa@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Somayeh" last="Esmati">Somayeh Esmati</name>
+						<affiliation>Department of Organic Chemistry and Biochemistry, Faculty of Chemistry, University of Tabriz, Tabriz 5166614766, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mahdi Gholamhosseini" last="Nazari">Mahdi Gholamhosseini Nazari</name>
+						<affiliation>Department of Organic Chemistry and Biochemistry, Faculty of Chemistry, University of Tabriz, Tabriz 5166614766, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-02</date>
+					<date type="R">2011-11-14</date>
+					<date type="A">2012-03-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Silica (NPs) supported Fe (III) as a reusable heterogeneous catalyst for the one-pot synthesis of 1, 4-dihydropyridines under mild conditions</title>
+				<feature></feature>
+				<page>0933-0939</page>
+				<abstract>
+					<p>A cheap and recyclable silica (NPs) supported Fe (III) was prepared as heterogeneous catalyst for the synthesis of various substituted 1,4-dihydropyridines via condensation of aldehydes with ethyl acetoacetate and ammonium acetate in ethanol. The products were separated from the catalyst simply by filtration and the catalyst could be recycled and reused for several times without noticeable decrease in the catalytic activity.</p>
+				</abstract>
+				<keywords>Heterogeneous catalyst; 1,4-dihydropyridine; multi-component; nano silica; Hantzsch reaction.</keywords>
+				<authors>
+					<author>
+						<name first="Javad" last="Safaei-Ghomi">Javad Safaei-Ghomi</name>
+						<affiliation>Department of Organic Chemistry, Faculty of Chemistry, University of Kashan, Kashan, 51167, I R Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abolfazl" last="Ziarati">Abolfazl Ziarati</name>
+						<affiliation>Department of Organic Chemistry, Faculty of Chemistry, University of Kashan, Kashan, 51167, I R Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Safura" last="Zahedi">Safura Zahedi</name>
+						<affiliation>Department of Organic Chemistry, Faculty of Chemistry, University of Kashan, Kashan, 51167, I R Iran</affiliation>
+						<email>safaei@kashanu.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-26</date>
+					<date type="R">2012-03-04</date>
+					<date type="A">2012-04-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>A facile synthesis of 1,2,3-triazolyl indole hybrids via SbCl$_3$-catalysed Michael addition of indoles to 1,2,3-triazolyl chalcones</title>
+				<feature></feature>
+				<page>0941-0950</page>
+				<abstract>
+					<p>An efficient, facile and environmentally benign synthesis of a library of 1,2,3-triazolyl chalcone hybrids (3a–u) has been accomplished by grinding the reactants at room temperature in excellent yields in very short reaction time. Subsequently, SbCl$_3$ catalysed Michael addition of indoles to the chalcones afford 1,2,3-triazolyl indole hybrids (5a–l) in excellent yields.</p>
+				</abstract>
+				<keywords>Environmentally benign; 1,2,3-triazolyl chalcone; Michael addition; SbCl$_3$ catalysed; 1,2,3-triazolyl indole.</keywords>
+				<authors>
+					<author>
+						<name first="Poovan" last="Shanmugavelan">Poovan Shanmugavelan</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Murugan" last="Sathishkumar">Murugan Sathishkumar</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sangaraiah" last="Nagarajan">Sangaraiah Nagarajan</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alagusundaram" last="Ponnuswamy">Alagusundaram Ponnuswamy</name>
+						<affiliation>Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<email>ramradkrish@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-17</date>
+					<date type="R">2012-02-29</date>
+					<date type="A">2012-03-06</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, structure, thermal and NLO characterization of 4-hydroxy tetramethylpiperazinium picrate crystals</title>
+				<feature></feature>
+				<page>0951-0961</page>
+				<abstract>
+					<p>Good quality single crystals of 4-hydroxy tetramethylpiperazinium picrate (TMPP) were grown by slow evaporation solution growth method at room temperature. The average dimensions of the grown crystals were $0.6 \times 0.2 \times 0.2$ cm$^3$. The solubility of the compound was estimated using methanol and acetone. The elemental analysis confirms the formation of the compound in the stoichiometric proportion. The UV-visible transmittance study indicates that the crystal possesses minimum transmittance at 370 nm and no absorption at 470–900 nm. The Bragg peaks obtained in the powder X-ray diffraction pattern confirm its crystallinity. The thermal behaviour of the crystal was investigated using thermogravimetric (TG) and differential thermal analysis (DTA) techniques. The structure of the compound was determined by using single crystal X-ray diffraction method. The compound was found to be crystallize in the monoclinic space group P2$_{(1)}$/c (a = 6.9513(8)&#197;, b = 11.8016(14)&#197;, c = 22.018(2)&#197;, $\alpha$ = 90.00$^\circ$, $\beta$ = 92.575(2)$^\circ$, $\gamma$ = 90.00$^\circ$). The thermal anomalies observed in the differential scanning calorimetry (DSC) heating and cooling cycles indicate the occurrence of first order phase transition. Fourier transform infrared (FTIR) and polarized Raman spectral analyses were used to confirm the presence of various functional groups in the compound. The nonlinear optical property (NLO) of the crystal was analysed by Kurtz-Perry powder technique and found that the compound has SHG efficiency 1.5 times greater that of potassium dihydrogen phosphate (KDP).</p>
+				</abstract>
+				<keywords>Crystal growth; thermal analysis; differential scanning calorimetry; nonlinear optical materials; single crystal X-ray diffraction; FTIR spectrum.</keywords>
+				<authors>
+					<author>
+						<name first="T." last="Dhanabal">T. Dhanabal</name>
+						<affiliation>Department of Chemistry, Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore 641 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Amirthaganesan">G. Amirthaganesan</name>
+						<affiliation>Department of Chemistry, Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore 641 020, India</affiliation>
+						<email>profga@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="M." last="Dhandapani">M. Dhandapani</name>
+						<affiliation>Department of Chemistry, Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore 641 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Samar K." last="Das">Samar K. Das</name>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-10-18</date>
+					<date type="R">2012-03-05</date>
+					<date type="A">2012-04-04</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="05" month="09" year="2012">
+			<entry hassup="1">
+				<title>Electrochemical sensing and photocatalysis using Ag–TiO$_2$ microwires</title>
+				<feature></feature>
+				<page>0969-0978</page>
+				<abstract>
+					<p>Anatase Ag–TiO$_2$ microwires with high sensitivity and photocatalytic activity were synthesized via polyol synthesis route followed by a simple surface modification and chemical reduction approach for attachment of silver. The superior performance of the Ag–TiO$_2$ composite microwires is attributed to improved surface reactivity, mass transport and catalytic property as a result of wiring the TiO$_2$ surface with Ag nanoparticles. Compared to the TiO$_2$ microwires, Ag–TiO$_2$ microwires exhibited three times higher sensitivity in the detection of cationic dye such as methylene blue. Photocatalytic degradation efficiency was also found to be significantly enhanced at constant illumination protocols and observation times. The improved performance is attributed to the formation of a Schottky barrier between TiO$_2$ and Ag nanoparticles leading to a fast transport of photogenerated electrons to the Ag nanoparticles.</p>
+				</abstract>
+				<keywords>Ag–TiO$_2$ microwires; textile dyes; electrochemical sensing; photocatalysis; Schottky barrier.</keywords>
+				<authors>
+					<author>
+						<name first="Soumit S." last="Mandal">Soumit S. Mandal</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Aninda J." last="Bhattacharyya">Aninda J. Bhattacharyya</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>aninda_jb@sscu.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-11</date>
+					<date type="R">2012-03-01</date>
+					<date type="A">2012-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Supported lipid bilayers as templates to design manganese oxide nanoparticles</title>
+				<feature></feature>
+				<page>0979-0984</page>
+				<abstract>
+					<p>This work reports on the preparation of nanoclusters of manganese oxide using biotemplating techniques. Supported lipid bilayers (SLBs) on quartz using cationic lipid [Dioctadecyldimethylammonium bromide (DOMA)] and mixed systems with neutral phospholipids dipalmitoyl phosphatidylcholine (DPPC) and dioleoyl phosphatidylcholine (DOPC) have been used as templates to synthesize these nanoparticles in a waterbased medium at room temperature. The Transmission electron microscopy (TEM) and Scanning electron microscopy (SEM) show manganese oxide nanostructures that are composed of crystals or small clusters in the size range of 20–50 nm in diameter. Small angle XRD showed that template removal through calcining process results in nanostructures of the manganese oxide in sizes from 30 to 50 nm. Using these organized assemblies it is possible to control the nano and mesoscopic morphologies of particles and both rod-like and spherical particles can be synthesized.</p>
+				</abstract>
+				<keywords>Manganese oxide; supported lipid bilayers; nanoparticles; organized assemblies.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Maheshkumar">J. Maheshkumar</name>
+						<affiliation>Chemical Laboratory, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Sreedhar">B. Sreedhar</name>
+						<affiliation>Inorganic and Physical Chemistry Division, CSIR-Indian Institute of Chemical Technology, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. U." last="Nair">B. U. Nair</name>
+						<affiliation>Chemical Laboratory, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Dhathathreyan">A. Dhathathreyan</name>
+						<affiliation>Chemical Laboratory, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email>aruna@clri.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-04-17</date>
+					<date type="R">2012-06-26</date>
+					<date type="A">2012-07-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Comparative study of spectroscopic properties of the low-lying electronic states of 2,4-pentadien-1-iminium cation and its N-substituted analogues</title>
+				<feature></feature>
+				<page>0985-0994</page>
+				<abstract>
+					<p>Semiempirical and $\textit{ab initio}$-based CI methods have been employed to study the low-lying electronic states of 2,4-pentadien-1-iminium cation and its N-substituted analogues with electron-donating (methyl, isopropyl) and electron-withdrawing (fluoromethyl) groups on nitrogen. Variations of the dihedral angles ($\Gamma_3$, $\Gamma_4$) of the ground state have given the global minima and global maxima at (180$^\circ$, 180$^\circ$) and (90$^\circ$, 0$^\circ$) conformations, respectively, with some exceptions in the case of fluoromethyl compound. Increase in the +I effect on nitrogen shifts the TICT conical intersection point away from the 90$^\circ$ ($\Gamma_3$ dihedral angle) value, when the $\Gamma_4$ value is kept fixed at 180$^\circ$. Transition moment values of the allowed S$_0$(1A$_g$ –like) $\to$ S$_1$ (2B$_u$–like) transitions are expectedly higher than the forbidden S0(1A$_g$ –like) $\to$ S$_2$(2A$_g$ –like) transitions by almost 5.6 D. Radiative lifetime values of the first excited states are calculated to be around 215 ps for all the four compounds. At (180$^\circ$, 180$^\circ$) conformation the vertical excitation energy (VEE) between the S$_0$ and S$_1$ states of the 2,4-pentadieniminium cation is found to be 3.3 eV, which corresponds to the absorption wavelength value of roughly 375 nm. The VEE value increases with substituents having +I effect on nitrogen, while for the fluoromethyl compound it is calculated to be around 2.85 eV. The energy gap between the first two excited singlet states is found to have the least value in the isopropyl-substituted compound, where the S$_2$ state contains a huge contribution from the HOMO$^2$$\to$LUMO$^2$ configuration.</p>
+				</abstract>
+				<keywords>Protonated Schiff base; configuration interaction; TICT conical intersection.</keywords>
+				<authors>
+					<author>
+						<name first="Anjan" last="Chattopadhyay">Anjan Chattopadhyay</name>
+						<affiliation>Department of Chemistry, Birla Institute of Technology and Science (BITS), Pilani –KK Birla Goa Campus, Goa 403 726, India</affiliation>
+						<email>anjan@bits-goa.ac.in</email>
+						<email>anjan_chattopadhyay@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-01-31</date>
+					<date type="R">2012-04-16</date>
+					<date type="A">2012-05-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Theoretical studies on a series of 1,2,4-triazoles derivatives as potential high energy density compounds</title>
+				<feature></feature>
+				<page>0995-1006</page>
+				<abstract>
+					<p>Density functional theory calculations at B3LYP/6-31G$^{\ast\ast}$ and B3P86/6-31G$^{\ast\ast}$ levels were performed to predict the densities ($\rho$), detonation velocities (D), pressures (P) and the thermal stabilities for a series of 1,2,4-triazole derivatives for looking high energy density compounds (HEDCs). The heats of formation (HOFs) are also calculated via designed isodesmic reactions. The calculations on the bond dissociation energies (BDEs) indicate that the position of the subsitutent group has great effect on the BDE and the BDEs of the initial scission step are between 31 and 65 kcal/mol. In addition, the condensed phase heats of formation are also calculated for the title compounds. These results would provide basic information for further studies of HEDCs.</p>
+				</abstract>
+				<keywords>Density functional theory; heat of formation; bond dissociation energy; isodesmic reactions; detonation performance.</keywords>
+				<authors>
+					<author>
+						<name first="Zhang" last="Rui-Zhou">Zhang Rui-Zhou</name>
+						<affiliation>College of Physics and Engineering, Henan University of Science and Technology, Luoyang 471023, China</affiliation>
+						<affiliation>Luoyang Key Laboratory of Photoelectric Functional Materials, Henan University of Science and Technology, Luoyang 471023, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Li" last="Xiao-Hong">Li Xiao-Hong</name>
+						<affiliation>College of Physics and Engineering, Henan University of Science and Technology, Luoyang 471023, China</affiliation>
+						<affiliation>Luoyang Key Laboratory of Photoelectric Functional Materials, Henan University of Science and Technology, Luoyang 471023, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhang" last="Xian-Zhou">Zhang Xian-Zhou</name>
+						<affiliation>College of Physics and Information Engineering, Henan Normal University, Xinxiang 453007, China</affiliation>
+						<email>lorna639@126.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-07</date>
+					<date type="R">2012-03-28</date>
+					<date type="A">2012-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A facile and expedient one-pot three-component reaction leading to multifunctionalized stabilized phosphorus ylides</title>
+				<feature></feature>
+				<page>1007-1012</page>
+				<abstract>
+					<p>A three-component reaction between triphenylphosphine, a dialkyl acetylenedicarboxylate and phthalazin-1(2H)-ones that affords novel organic phosphorane derivatives in good to excellent yields is reported. FTIR, ${}^1$H, ${}^{13}$C and ${}^{31}$P NMR and elemental analyses have been utilized to characterize the synthesized compounds.</p>
+				</abstract>
+				<keywords>Phosphoranes; acetylenic esters; heterocyclic compounds; phthalazin-1(2H)-one; three-component reaction.</keywords>
+				<authors>
+					<author>
+						<name first="Zahra" last="Hassani">Zahra Hassani</name>
+						<affiliation>Department of New Materials, International Center for Science, High Technology &amp; Environmental Sciences, Kerman, 7631133131, Iran</affiliation>
+						<email>hassani_za@icst.ac.ir</email>
+						<email>hassanizahra@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Zeinab" last="Esfandiarpour">Zeinab Esfandiarpour</name>
+						<affiliation>Department of New Materials, International Center for Science, High Technology &amp; Environmental Sciences, Kerman, 7631133131, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-14</date>
+					<date type="R">2012-03-17</date>
+					<date type="A">2012-04-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Highly efficient solvent-free synthesis of pyranopyrazoles by a Brønsted-acidic ionic liquid as a green and reusable catalyst</title>
+				<feature></feature>
+				<page>1013-1017</page>
+				<abstract>
+					<p>A simple, green and efficient protocol for synthesis of dihydropyrano[2,3-c]pyrazole derivatives is developed by a four component reaction of various benzaldehydes, ethyl acetoacetate, hydrazine hydrate and malononitrile in the presence of 3-methyl-1-(4-sulphonic acid)butylimidazolium hydrogen sulphate [(CH$_2$)$_4$SO$_3$HMIM][HSO$_4$], an acidic ionic liquid and as a catalyst, under solvent-free conditions. The key advantages of this process are high yields, shorter reaction times, easy work-up, purification of products by non-chromatographic method and the reusability of the catalyst.</p>
+				</abstract>
+				<keywords>Pyranopyrazoles; solvent-free synthesis; multicomponent reaction; ionic liquid; heterogeneous catalysts.</keywords>
+				<authors>
+					<author>
+						<name first="Javad" last="Ebrahimi">Javad Ebrahimi</name>
+						<affiliation>Young Researchers Club, Islamic Azad University, Mashhad Branch, P.O. Box 9187147578, Mashhad, Iran</affiliation>
+						<email>javad_ebrahimi@ymail.com</email>
+					</author>
+					<author>
+						<name first="Ali" last="Mohammadi">Ali Mohammadi</name>
+						<affiliation>Department of Chemistry, Faculty of Sciences, Ferdowsi University of Mashhad, P.O. Box 91775, Mashhad, Iran</affiliation>
+						<email>a.mohammdy62@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Vahid" last="Pakjoo">Vahid Pakjoo</name>
+						<affiliation>Department of Chemistry, Islamic Azad University, Mashhad Branch, P.O. Box 9187147578, Mashhad, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Esan" last="Bahramzade">Esan Bahramzade</name>
+						<affiliation>Department of Chemistry, Islamic Azad University, Mashhad Branch, P.O. Box 9187147578, Mashhad, Iranv</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Amir" last="Habibi">Amir Habibi</name>
+						<affiliation>Department of Chemistry, Islamic Azad University, Mashhad Branch, P.O. Box 9187147578, Mashhad, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-07</date>
+					<date type="R">2012-04-02</date>
+					<date type="A">2012-06-06</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis of novel 2-(4-(2-morpholinoethoxy)phenyl)-N-phenylacetamide analogues and their antimicrobial study</title>
+				<feature></feature>
+				<page>1019-1023</page>
+				<abstract>
+					<p>A new class of potential biologically active 2-(4-(2-morpholinoethoxy)phenyl)-N-phenylacetamides has been synthesized from hydroxyphenylacetic acid. The products were characterized through IR, ${}^1$H NMR, mass spectral studies and elemental analysis. The compounds were screened for antimicrobial activity by disc agar diffusion technique. The potency of compounds is tested against variety of fungal and bacterial strains in comparison to clotrimazole and streptomycin, respectively. Some of the synthesized compounds exhibit superior $\textit{in vitro}$ activity compared to the standard drugs.</p>
+				</abstract>
+				<keywords>2-(4-(2-Morpholinoethoxy)phenyl)-N-phenylacetamides; in vitro antimicrobial activity; heterocycles; clotrimazole.</keywords>
+				<authors>
+					<author>
+						<name first="H. P." last="Jayadevappa">H. P. Jayadevappa</name>
+						<affiliation>Department of Studies in Chemistry, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email>hpjayadevappa@yahoo.com</email>
+					</author>
+					<author>
+						<name first="G." last="Nagendrappa">G. Nagendrappa</name>
+						<affiliation>Department of Studies in Chemistry, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Umesh">S. Umesh</name>
+						<affiliation>Department of Studies in Applied Botany and Biotechnology, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Chandrashekar">S. Chandrashekar</name>
+						<affiliation>Department of Studies in Applied Botany and Biotechnology, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-02-27</date>
+					<date type="R">2012-05-17</date>
+					<date type="A">2012-05-25</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Preparation of different amides via Ritter reaction from alcohols and nitriles in the presence of silica-bonded N- propyl sulphamic acid (SBNPSA) under solvent-free conditions</title>
+				<feature></feature>
+				<page>1025-1032</page>
+				<abstract>
+					<p>A number of methods have been proposed for the modification of the Ritter reaction. However, many of these methods involve the use of strongly acidic conditions, stoichiometric amounts of reagents, harsh reaction conditions and extended reaction times. Therefore, the development of mild, efficient, convenient and benign reagents for the Ritter reaction is desirable. In this research, we have developed a clean and environmentally friendly protocol for the synthesis of amides by using different benzylic or tertiary alcohols and different nitriles in the presence of silica-bonded N- propyl sulphamic acid (SBNPSA) as catalyst under solvent-free conditions in high yields.</p>
+				</abstract>
+				<keywords>Ritter reaction; SBNPSA; alcohol; nitrile; amide.</keywords>
+				<authors>
+					<author>
+						<name first="Maryam-Sadat" last="Shakeri">Maryam-Sadat Shakeri</name>
+						<affiliation>Department of Chemistry, Faculty of Sciences, Persian Gulf University, Bushehr 75169, Iran</affiliation>
+						<email>shakery.maryam62@gmail.com</email>
+					</author>
+					<author>
+						<name first="Hassan" last="Tajik">Hassan Tajik</name>
+						<affiliation>Department of Chemistry, Faculty of Sciences, Persian Gulf University, Bushehr 75169, Iran</affiliation>
+						<affiliation>Department of Chemistry, Faculty of Sciences, Guilan University, Rasht, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Khodabakhsh" last="Niknam">Khodabakhsh Niknam</name>
+						<affiliation>Department of Chemistry, Faculty of Sciences, Persian Gulf University, Bushehr 75169, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-29</date>
+					<date type="R">2012-05-22</date>
+					<date type="A">2012-06-18</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Substituted quinolinones. Part 17: Some nucleophilic reactions with 4-hydroxy-1-methyl-3-[(2-oxo-2$H$-chromen-3-yl)carbonyl]quinolin-2(1$H$)-one</title>
+				<feature></feature>
+				<page>1033-1041</page>
+				<abstract>
+					<p>The reactivity of 4-hydroxy-1-methyl-3-[(2-oxo-2$H$-chromen-3-yl)carbonyl]-quinolin-2(1$H$)-one (${\bf 2}$), as a new asymmetric diheterocyclic ketone, towards different nucleophilic reagents, was examined. The reaction of the ketone ${\bf 2}$ with hydrazine led to pyrazolinone ${\bf 5}$, and excess of hydrazine pyrazolinopyrazole ${\bf 7}$ was obtained. Treatment of the ketone ${\bf 2}$ with 2,2-dimethoxyethanamine gave pyrrolocoumarin ${\bf 12}$, while cyanoguanidine afforded pyrimidinone ${\bf 15}$. Under PTC conditions, the ketone ${\bf 2}$ was reacted with chloroacetonitrile, diethyl malonate, ethyl cyanoacetate, malononitrile, and cyanoacetamide to give coumarinyl furoquinoline ${\bf 18}$, pyranoquinolines ${\bf 20a}$, ${\bf 20b}$, ${\bf 21}$, and benzonaphthyridine ${\bf 22}$, respectively.</p> 
+				</abstract>
+				<keywords>Quinolinone; coumarin; ketones; nucleophilic heterocyclization; PTC.</keywords>
+				<authors>
+					<author>
+						<name first="Mohamed" last="Abass">Mohamed Abass</name>
+						<affiliation>Department of Chemistry, Faculty of Education, Ain Shams University, Roxy, Heliopolis 11757, Cairo, Egypt</affiliation>
+						<email>m.abass@chemist.com</email>
+					</author>
+					<author>
+						<name first="El-Hussain A." last="Mohamed">El-Hussain A. Mohamed</name>
+						<affiliation>Department of Chemistry, Faculty of Education, Ain Shams University, Roxy, Heliopolis 11757, Cairo, Egypt</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Aisha S." last="Mayas">Aisha S. Mayas</name>
+						<affiliation>Department of Chemistry, Faculty of Education, Sana’a University, Sana’a, Yemen</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Akram H." last="Ibrahim">Akram H. Ibrahim</name>
+						<affiliation>Curriculum Development Center, Ministry of Education, Ramsis 13411 Cairo, Egypt</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-08</date>
+					<date type="R">2012-04-04</date>
+					<date type="A">2012-04-26</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and antimicrobial activities of new oxime carbamates of 3-aryl-2-thioquinazolin-4(3H)-one</title>
+				<feature></feature>
+				<page>1043-1048</page>
+				<abstract>
+					<p>S-alkylation of 3-aryl-2-thioquinazolin-4(3H)-one (${\bf 1}$) with chloroacetone gave 2-(propanonyl thio)-3-arylquinazol-4(3H)ones (${\bf 2}$). Further, the treatment of compound (${\bf 2}$) with hydroxylamine hydrochloride gave the corresponding oximes (${\bf 3}$) which on reaction with phenyl isocyanate in THF yielded corresponding oxime carbamates ${\bf 4}$. The synthesized compounds have been confirmed using IR and ${}^1$H NMR, mass spectral data together with elemental analysis. All newly synthesized compounds have been tested for their antibacterial and antifungal activities.</p>
+				</abstract>
+				<keywords>Thioquinazolinones; oximes; oxime carbamates; phenyl isocyanate; hydroxylamine hydrochloride.</keywords>
+				<authors>
+					<author>
+						<name first="Suresh S." last="Patil">Suresh S. Patil</name>
+						<affiliation>Organic Research Laboratory, Padmabhushan Dr. Vasantraodada Patil College, Tasgaon, Dist. Sangli 416 312, India</affiliation>
+						<email>sanyujapatil@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Swati D." last="Jadhav">Swati D. Jadhav</name>
+						<affiliation>Organic Research Laboratory, Padmabhushan Dr. Vasantraodada Patil College, Tasgaon, Dist. Sangli 416 312, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. B." last="Deshmukh">M. B. Deshmukh</name>
+						<affiliation>Department of Chemistry, Shivaji University, Kolhapur 416 004, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-04</date>
+					<date type="R">2012-04-24</date>
+					<date type="A">2012-05-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, docking and anticancer activity studies of D-proline-incorporated wainunuamide</title>
+				<feature></feature>
+				<page>1049-1055</page>
+				<abstract>
+					<p>D-proline-incorporated wainunuamide — a cyclic octapeptide was synthesized and characterized by FTIR, ${}^1$H and ${}^{13}$C NMR and Mass spectral analysis. Molecular docking studies were carried out for the designed cyclic octapeptide and the results showed greater affinity for HPV18-2IOI receptor (HeLa cancer cell line). The synthesized cyclic octapeptide exhibited potent anticancer activity against HeLa cancer cells.</p> 
+				</abstract>
+				<keywords>Cyclic octapeptide; molecular docking; solution phase synthesis; anticancer activity.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Himaja">M. Himaja</name>
+						<affiliation>School of Advanced Sciences, Pharmaceutical Chemistry Division, VIT University, Vellore 632 014, India</affiliation>
+						<email>dr_himaja@yahoo.com</email>
+					</author>
+					<author>
+						<name first="A." last="Ranjitha">A. Ranjitha</name>
+						<affiliation>School of Advanced Sciences, Pharmaceutical Chemistry Division, VIT University, Vellore 632 014, India</affiliation>
+						<email>jranji16@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Sunil V." last="Mali">Sunil V. Mali</name>
+						<affiliation>Medicinal Chemistry Division, Piramal Life Science Ltd., Mumbai 400 060, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-02-17</date>
+					<date type="R">2011-07-25</date>
+					<date type="A">2011-08-23</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tandem base-free synthesis of $\beta$-hydroxy sulphides under ultrasound irradiation</title>
+				<feature></feature>
+				<page>1057-1062</page>
+				<abstract>
+					<p>Rongalite&reg; promotes cleavage of diaryl disulphides generating the corresponding thiolate species in situ which then undergo facile ring-opening of epoxides in a regioselective manner under ultrasound irradiation, affording $\beta$-hydroxy sulphides in good to excellent yields. The important features of this methodology are base-free, odourless, high yield, reasonably rapid reaction rate, simple workup, high regioselectivity, costeffective and no requirement of transition metal catalysts. It is noteworthy that ring-opening reaction of 1,2-diphenyldiselane with 2-(phenoxymethyl)oxirane are also conducted smoothly to afford $\beta$-hydroxy selenide in excellent yield under the standard conditions.</p>
+				</abstract>
+				<keywords>Ultrasound irradiation; Rongalite&reg; $\beta$-hydroxy sulphides; epoxides; ring-opening reaction.</keywords>
+				<authors>
+					<author>
+						<name first="Guang-Shu" last="Lv">Guang-Shu Lv</name>
+						<affiliation>College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou 325035, P. R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Fu-Jun" last="Duan">Fu-Junduan</name>
+						<affiliation>College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou 325035, P. R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jin-Chang" last="Ding">Jin-Chang Ding</name>
+						<affiliation>College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou 325035, P. R. China</affiliation>
+						<affiliation>Wenzhou Vocational and Technical College, Wenzhou, 325035, P. R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tian-Xing" last="Cheng">Tian-Xing Cheng</name>
+						<affiliation>College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou 325035, P. R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wen-Xia" last="Gao">Wen-Xia Gao</name>
+						<affiliation>College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou 325035, P. R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jiu-Xi" last="Chen">Jiu-Xi Chen</name>
+						<affiliation>College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou 325035, P. R. China</affiliation>
+						<email>jiuxichen@gmail.com</email>
+					</author>
+					<author>
+						<name first="Hua-Yue" last="Wu">Hua-Yue Wu</name>
+						<affiliation>College of Chemistry and Materials Engineering, Wenzhou University, Wenzhou 325035, P. R. China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-04-08</date>
+					<date type="R">2011-07-11</date>
+					<date type="A">2011-08-23</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Heterocyclyl linked anilines and benzaldehydes as precursors for biologically significant new chemical entities</title>
+				<feature></feature>
+				<page>1063-1069</page>
+				<abstract>
+					<p>Benzylidene and benzyl thiazolidinediones, oxazolidinediones, isoxazolidinediones and their acyclic analogs like alpha alkylthio/alkoxy phenylpropanoic acids, beta-keto esters and tyrosine-based compounds possess broad therapeutic potential in general and as Peroxisome Proliferator Activated Receptors (PPARs) agonists in particular in the management of hyperglycemia and hyperlipidaemia for the treatment of Type 2 Diabetes (T2D). We have synthesised and characterized some novel and suitably substituted heterocyclyl linked benzaldehydes and anilines, which can be easily and very readily derivatized to all the above mentioned classes to generate new chemical entities of broader biological significance. Synthesis of their benzylidene thiazolidinedione and diethyl malonate and also benzyl diethyl malonate and alpha-bromoesters derivatives is reported in some of the cases in the present work.</p>
+				</abstract>
+				<keywords>Benzimidazole; indole; acridone; benzaldehyde; aniline.</keywords>
+				<authors>
+					<author>
+						<name first="Raman K." last="Verma">Raman K. Verma</name>
+						<affiliation>Synthetic Organic and Medicinal Chemistry Laboratory, Department of Chemistry, Punjabi University, Patiala 147 002, India</affiliation>
+						<email>raman_verma58@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Vijay" last="Kumar">Vijay Kumar</name>
+						<affiliation>Synthetic Organic and Medicinal Chemistry Laboratory, Department of Chemistry, Punjabi University, Patiala 147 002, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Prithwish" last="Ghosh">Prithwish Ghosh</name>
+						<affiliation>Synthetic Organic and Medicinal Chemistry Laboratory, Department of Chemistry, Punjabi University, Patiala 147 002, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Lalit K." last="Wadhwa">Lalit K. Wadhwa</name>
+						<affiliation>Ind-Swift Laboratories Limited (Research and Development Centre), Plot No. E-5, Industrial Area, Phase-2, SAS Nagar, Mohali 160 055, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-28</date>
+					<date type="R">2012-02-25</date>
+					<date type="A">2012-03-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cannizzaro reaction of 2-chloro-3-formylquinolines and its synthetic utility for 2-acetylfuro[2,3-$b$]quinolines: The alkaloid analogues</title>
+				<feature></feature>
+				<page>1071-1076</page>
+				<abstract>
+					<p>Cannizzaro reaction of 2-chloro-3-formylquinolines was investigated under two different conditions. Under both conditions, redox and methoxylation proceeded simultaneously and gave 2-methoxy- 3-formylquinolines, 2-methoxyquinolin-3-yl-methanols and 2-methoxyquinoline-3-carboxylic acids. The synthesized 2-methoxy-3-formylquinolines were then condensed with acetone in the presence of sulphuric acid to give 4-(2-methoxy-quinolin-3-yl)-but-3-en-2-ones which in turn were bromocyclized and dehydrobrominated to get 2-acetylfuro[2,3-$b$]quinolines.</p>
+				</abstract>
+				<keywords>Cannizzaro reaction; bromocyclisation; 2-methoxy-3-formylquinolines; furoquinolines; 2-chloro-3-formylquinolines.</keywords>
+				<authors>
+					<author>
+						<name first="Devadoss Karthik" last="Kumar">Devadoss Karthik Kumar</name>
+						<affiliation>Department of Chemistry, School of Chemical Sciences, Bharathiar University, Coimbatore 641 046, India</affiliation>
+						<email>dskarthik06@gmail.com</email>
+					</author>
+					<author>
+						<name first="Rajakandhan" last="Shankar">Rajakandhan Shankar</name>
+						<affiliation>Department of Chemistry, School of Chemical Sciences, Bharathiar University, Coimbatore 641 046, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subramaniam Parameswaran" last="Rajendran">Subramaniam Parameswaran Rajendran</name>
+						<affiliation>Department of Chemistry, School of Chemical Sciences, Bharathiar University, Coimbatore 641 046, India</affiliation>
+						<email>rajendransp@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-03</date>
+					<date type="R">2011-11-18</date>
+					<date type="A">2012-04-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An alternative approach to synthesis of 2-$n$-butyl-5-nitrobenzofuran derivative: A key starting material for dronedarone hydrochloride</title>
+				<feature></feature>
+				<page>1077-1085</page>
+				<abstract>
+					<p>A practical synthesis of (2-butyl-5-nitrobenzofuran-3-yl)(4-hydroxyphenyl)methanone, a key intermediate in the preparation of anti arrhythmic drug, is described. The commercially available 4-nitrophenol (${\bf 3}$) is converted in five steps to 2-butyl-5-nitrobenzofuran (${\bf 9}$) which upon Friedel–Crafts acylation with 4-methoxybenzoyl chloride followed by deprotection of methyl group gives (${\bf 2}$).</p> 
+				</abstract>
+				<keywords>Fries rearrangement; selective $\alpha$-bromination; cyclisation; Friedel–Crafts acylation.</keywords>
+				<authors>
+					<author>
+						<name first="P. Raja" last="Gopal">P. Raja Gopal</name>
+						<affiliation>Research and Development, Dr. Reddy’s Laboratories Ltd., Integrated Product Development Organization, Hyderabad 500 072, India</affiliation>
+						<affiliation>Department of Chemistry, Osmania University, Hyderabad 500 007, India</affiliation>
+						<email>rajagopal@drreddys.com</email>
+					</author>
+					<author>
+						<name first="E. R. R." last="Chandrashekar">E. R. R. Chandrashekar</name>
+						<affiliation>Research and Development, Dr. Reddy’s Laboratories Ltd., Integrated Product Development Organization, Hyderabad 500 072, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Saravanan">M. Saravanan</name>
+						<affiliation>Research and Development, Dr. Reddy’s Laboratories Ltd., Integrated Product Development Organization, Hyderabad 500 072, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. Vijaya" last="Bhaskar">B. Vijaya Bhaskar</name>
+						<affiliation>Research and Development, Dr. Reddy’s Laboratories Ltd., Integrated Product Development Organization, Hyderabad 500 072, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. Veera" last="Somaiah">P. Veera Somaiah</name>
+						<affiliation>Department of Chemistry, Osmania University, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-09-30</date>
+					<date type="R">2012-03-13</date>
+					<date type="A">2012-04-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Selective synthesis of thiodiglycol dicarboxylic acid esters via $p$-TsOH/C-catalysed direct esterification</title>
+				<feature></feature>
+				<page>1087-1090</page>
+				<abstract>
+					<p>The esterification of thiodiglycol and long alkyl-chain carboxylic acids is reported. Reaction of thiodiglycol with carboxylic acid via $p$-TsOH/C-catalysed direct esterification afforded thiodiglycol dicarboxylic acid esters in good yields and chemoselectivity. The use of immobilized $p$-TsOH on activated carbon as catalyst is crucial for the transformation.</p>
+				</abstract>
+				<keywords>Thiodiglycol dicarboxylic acid esters; catalytic esterification; $p$-TsOH on activated carbon; antioxidant.</keywords>
+				<authors>
+					<author>
+						<name first="Dahong" last="Jiang">Dahong Jiang</name>
+						<affiliation>Department of Chemistry and Life Science, Guangdong University of Petrochemical Technology, Maoming 525000, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Min" last="Huang">Min Huang</name>
+						<affiliation>Department of Chemistry and Life Science, Guangdong University of Petrochemical Technology, Maoming 525000, China</affiliation>
+						<email>min_huang@163.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-10</date>
+					<date type="R"></date>
+					<date type="A">2012-04-10</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>1-Methylimidazolium trifluoroacetate [Hmim]Tfa: Mild and efficient Brønsted acidic ionic liquid for Hantzsch reaction under microwave irradiation</title>
+				<feature></feature>
+				<page>1091-1096</page>
+				<abstract>
+					<p>One pot synthesis of 1,4-dihydropyridine derivatives was achieved via condensation of various $\beta$-ketoesters with aromatic/aliphatic aldehydes and ammonium acetate. The reaction was catalysed by a stable and reusable Brønsted acidic ionic liquid (IL), 1-methyl-imidazolium trifluoroacetate ([Hmim]Tfa), under microwave (MW) irradiation. The synergistic combination ofMWwith IL can potentially go a long way tomeet the increasing demand for chemical processes. This homogeneous catalytic procedure is simple and efficient. The catalyst can be reused at least four times with almost complete retention in its activity.</p> 
+				</abstract>
+				<keywords>1,4-Dihydropyridine; Hantzsch synthesis; [Hmim]Tfa; homogeneous catalyst; microwave; multicomponent reaction.</keywords>
+				<authors>
+					<author>
+						<name first="Jemin R." last="">Jemin R. Avalani</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Devji S." last="Patel">Devji S. Patel</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dipak K." last="Raval">Dipak K. Raval</name>
+						<affiliation>Department of Chemistry, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email>dipanalka@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-02-25</date>
+					<date type="R">2012-04-17</date>
+					<date type="A">2012-04-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A practical one pot synthesis of novel 2-hydroxy-4-chromanone derivatives from 3-formylchromone</title>
+				<feature></feature>
+				<page>1097-1105</page>
+				<abstract>
+					<p>A one pot synthesis of 4-chromanone derivatives (${\bf 5a–j}$) is described using Zn[(L)(proline)]2 as catalyst in aqueous media. The compounds have been characterized on the basis of elemental and spectral data (IR, ${}^1$H NMR and mass). The advantages of this protocol include high yields, mild reaction conditions, environmentally benign and simple operational procedure. The use of water as solvent and Zn[(L)proline]2 as recyclable, non-toxic catalyst make such synthesis a truly green process.</p>
+				</abstract>
+				<keywords>3-Formylchromone; Zn[(L)proline]$_2$; 4-chromanone; water; green synthesis.</keywords>
+				<authors>
+					<author>
+						<name first="Zeba N." last="Siddiqui">Zeba N. Siddiqui</name>
+						<affiliation>Department of Chemistry, Aligarh Muslim University, Aligarh 202 002, India</affiliation>
+						<email>siddiqui_zeba@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Farheen" last="Farooq">Farheen Farooq</name>
+						<affiliation>Department of Chemistry, Aligarh Muslim University, Aligarh 202 002, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-08-30</date>
+					<date type="R">2012-03-19</date>
+					<date type="A">2012-04-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Selective oxidation of benzyl alcohol with tert-butylhydroperoxide catalysed via Mn (II) 2, 2-bipyridine complexes immobilized over the mesoporous hexagonal molecular sieves (HMS)</title>
+				<feature></feature>
+				<page>1107-1115</page>
+				<abstract>
+					<p>A series ofMn(II)bipy complexes with different loading of Mn$^{2+}$ supported on HMS was prepared. These samples were characterized by Brunauer-Emmett-Teller (BET), X-ray diffraction (XRD), Thermogravimetric and Differential Scanning Calorimetry (TG-DSC), Ultraviolet and Visible spectra (UV-Vis) and Fourier transforms Infrared (FT-IR). The catalytic activity of the supportedMn(II)bipy complexes, [Mn(bipy)$_2$]$^{2+}$/HMS was evaluated in the oxidation of benzyl alcohol in the liquid phase using tert-butylhydroperoxide (TBHP) as an oxidant. The effects of Mn$^{2+}$ loading and various solvents on the conversion and selectivity were studied. A second order function for the variation in catalytic activity with respect to the loading of Mn$^{2+}$ ions in different catalyst samples was observed. The activity of the [Mn(bipy)$_2$]$^{2+}$/HMS catalyst differs with the type of the solvent and in this case, acetonitrile gives the best conversion results. The kinetic of benzyl alcohol oxidation was investigated at temperatures of 27, 46, 60, 75 and 90$^\circ$C using [Mn(bipy)$_2$]$^{2+}$/HMS and excess TBHP. The order of reaction with respect to benzyl alcohol was determined to be pseudo-first order. The value of the apparent activation energy was also determined.</p>
+				</abstract>
+				<keywords>[Mn(bipy)$_2$]$^{2+}$/HMS; benzyl alcohol oxidation; solvent effect; liquid phase oxidation; kinetic study.</keywords>
+				<authors>
+					<author>
+						<name first="Vahid" last="Mahdavi">Vahid Mahdavi</name>
+						<affiliation>Department of Chemistry, Surface Chemistry and Catalysis Division, Faculty of Sciences, Arak University, Arak 38156–8–8349, Iran</affiliation>
+						<email>v-mahdavi@araku.ac.ir</email>
+					</author>
+					<author>
+						<name first="Mahdieh" last="Mardani">Mahdieh Mardani</name>
+						<affiliation>Department of Chemistry, Surface Chemistry and Catalysis Division, Faculty of Sciences, Arak University, Arak 38156–8–8349, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-21</date>
+					<date type="R">2012-05-14</date>
+					<date type="A">2012-06-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Characterization of novel Cs and K substituted phosphotungstic acid modified MCM-41 catalyst and its catalytic activity towards acetylation of aromatic alcohols</title>
+				<feature></feature>
+				<page>1117-1125</page>
+				<abstract>
+					<p>TheMCM-41 supported Cs$_{2.5}$H$_{0.5}$PW$_{12}$O$_{40}$ and K$_{2.5}$H$_{0.5}$PW$_{12}$O$_{40}$ salts were synthesized by incipient wetness impregnation method. The solids were characterized by N$_2$ adsorption–desorption isotherms, FTIR, XRD, and temperature programmed desorption, etc. This catalyst has been found to exhibit excellent activity for acetylation of phenolic compounds. The catalyst is stable and reusable giving 96&#37; conversion with 100&#37; selectivity towards acetate products.</p>
+				</abstract>
+				<keywords>Acetylation; MCM-41; phenol; Cs and K salt of phosphotungstic acid.</keywords>
+				<authors>
+					<author>
+						<name first="Surjyakanta" last="Rana">Surjyakanta Rana</name>
+						<affiliation>Colloids and Materials Chemistry Department, Institute of Minerals and Materials Technology, Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sujata" last="Mallick">Sujata Mallick</name>
+						<affiliation>Colloids and Materials Chemistry Department, Institute of Minerals and Materials Technology, Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dharitri" last="Rath">Dharitri Rath</name>
+						<affiliation>Colloids and Materials Chemistry Department, Institute of Minerals and Materials Technology, Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. M." last="Parida">K. M. Parida</name>
+						<affiliation>Colloids and Materials Chemistry Department, Institute of Minerals and Materials Technology, Bhubaneswar 751 013, India</affiliation>
+						<email>kmparida@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-18</date>
+					<date type="R">2012-03-21</date>
+					<date type="A">2012-04-19</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Functionalization of oxidized single-walled carbon nanotubes with 4-benzo-9-crown-3 ether</title>
+				<feature></feature>
+				<page>1127-1135</page>
+				<abstract>
+					<p>Functionalization of oxidized single-walled carbon nanotubes (SWCNTs) by a zwitterionic interaction (COO−NH$^+_3$) between protonated amine on crown ether and an oxyanion from a carboxylic acid group on SWCNT has been described. This ionic interaction has led to a considerable increase in the solubility of SWCNTs in both organic and aqueous solvents such as ethanol, dimethyl sulphoxide, dimethylformamide, and H$_2$O. The highest solubility was attained in DMF and DMSO. The ionic bonded 4-benzo-9-crown-3 ether allowed the hosting of Li$^+$. The ionic bond of crown ether (4-(benzo-9-crown-3)) to SWCNT was identified and confirmed by infrared spectroscopy, transmission electron-microscopy, atomic force microscopy and thermogravimetric analysis methods.</p>
+				</abstract>
+				<keywords>Zwitterionic interaction; carbon nanotubes; 4-benzo-9-crown-3-ether; phase transfer catalyst.</keywords>
+				<authors>
+					<author>
+						<name first="Ardeshir" last="Khazaei">Ardeshir Khazaei</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, P.O. Box 651783868, Hamedan, Iran</affiliation>
+						<email>khazaei_1326@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Maryam Kiani" last="Borazjani">Maryam Kiani Borazjani</name>
+						<affiliation>Faculty of Science, Department of Chemistry, Bushehr Payame Noor University (PNU), P.O. Box 1698, Bushehr, Iran</affiliation>
+						<email>maryamkiani.b@gmail.com</email>
+					</author>
+					<author>
+						<name first="Khadijeh Mansouri" last="Moradian">Khadijeh Mansouri Moradian</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, P.O. Box 651783868, Hamedan, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-10-17</date>
+					<date type="R">2012-04-15</date>
+					<date type="A">2012-04-26</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -29487,8 +31162,336 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-		</issue>
-		<issue inum="00" month="00" year="">
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>00-00</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
