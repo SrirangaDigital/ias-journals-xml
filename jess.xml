@@ -13110,7 +13110,417 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Comments on ‘A comparative study of ANN and neuro-fuzzy for the prediction of dynamic constant of rockmass’ by T N Singh, R Kanchan, A K Verma and K Saigal</title>
+				<feature></feature>
+				<page>0973-0974</page>
+				<abstract>
+					<p>Singh \textit {et al} (2005)examined the potential of the ANN and neuro-fuzzy systems application for the prediction of dynamic constant of rockmass. However,the model proposed by them has some drawbacks according to fuzzy logic principles.This discussion will focus on the main fuzzy logic principles which authors and potential readers should take into consideration.</p>
+				</abstract>
+				<keywords>\textit {p}-wave velocity;neuro-fuzzy;artificial neural network;compressive strength;density;hardness.</keywords>
+				<authors>
+					<author>
+						<name first="Tarkan" last="Erdik">Tarkan Erdik</name>
+						<affiliation>Istanbul Technical University, Faculty of Civil Engineering, Hydraulics and Water Resources Division, Maslak 34469, Istanbul, Turkey.</affiliation>
+					</author>
+					<author>
+						<name first="Zekai" last="Şen">Zekai Şen</name>
+						<affiliation>Istanbul Technical University, Faculty of Civil Engineering, Hydraulics and Water Resources Division, Maslak 34469, Istanbul, Turkey.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-02-06</date>
+					<date type="R">2008-09-26</date>
+					<date type="A">2008-10-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Reply to the comments by Tarkan Erdik and Zekai Şen on ‘A comparative study of ANN and neuro-fuzzy for the prediction of dynamic constant of rockmass’</title>
+				<feature></feature>
+				<page>0975-0977</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Transfer function;Gaussian membership functions;Gaussion distributions.</keywords>
+				<authors>
+					<author>
+						<name first="T. N." last="Singh">T. N. Singh</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology, Powai, Mumbai 400 076, India.</affiliation>
+						<email>tnsingh@iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="R." last="Kanchan">R. Kanchan</name>
+						<affiliation>Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Verma">A. K. Verma</name>
+						<affiliation>Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first=K." last="Saigal">K. Saigal</name>
+						<affiliation>Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-02-06</date>
+					<date type="R">2008-09-26</date>
+					<date type="A">2008-10-10</date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="118">
+		<issue inum="01" month="02" year="2009">
+			<entry hassup="0">
+				<title>Model-based remote sensing algorithms for particulate organic carbon (POC) in the Northeastern Gulf of Mexico</title>
+				<feature></feature>
+				<page>0001-0010</page>
+				<abstract>
+					<p>Hydrographic data, including particulate organic carbon (POC) from the Northeastern Gulf of Mexico (NEGOM) study, were combined with remotely-sensed SeaWiFS data to estimate POC concentration using principal component analysis (PCA). The spectral radiance was extracted at each NEGOM station, digitized, and averaged. The mean value and spurious trends were removed from each spectrum. De-trended data included six wavelengths at 58 stations. The correlation between the weighting factors of the first six eigenvectors and POC concentration were applied using multiple linear regression. PCA algorithms based on the first three, four, and five modes accounted for 90, 95, and 98% of total variance and yielded significant correlations with POC with \textit {R}^{2} = 0.89, 0.92, and 0.93. These full waveband approaches provided robust estimates of POC in various water types.</p>
+					<p>Three different analyses (root mean square error, mean ratio and standard deviation) showed similar error estimates, and suggest that spectral variations in the modes defined by just the first four characteristic vectors are closely correlated with POC concentration, resulting in only negligible loss of spectral information from additional modes. The use of POC algorithms greatly increases the spatial and temporal resolution for interpreting POC cycling and can be extrapolated throughout and perhaps beyond the area of shipboard sampling.</p>
+				</abstract>
+				<keywords>Particulate organic carbon;principal component analysis;remote sensing algorithm.</keywords>
+				<authors>
+					<author>
+						<name first="Young Baek" last="Son">Young Baek Son</name>
+						<affiliation>Department of Fisheries, Nagasaki University, 1-14 Bunkyo, Nagasaki, Nagasaki 852-8521, Japan.</affiliation>
+						<affiliation>Department of Oceanography, Texas A&M University, College Station, Texas 77843-3146, USA.</affiliation>
+						<email>sonyb@nagasaki-u.ac.jp</email>
+					</author>
+					<author>
+						<name first="Wilford D." last="Gardner">Wilford D. Gardner</name>
+						<affiliation>Department of Fisheries, Nagasaki University, 1-14 Bunkyo, Nagasaki, Nagasaki 852-8521, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Alexey V." last="Mishonov">Alexey V. Mishonov</name>
+						<affiliation>National Oceanographic Data Center, 1315 East West Highway, Silver Spring, MD 20910-3282, USA.</affiliation>
+					</author>
+					<author>
+						<name first="Mary Jo" last="Richardson">Mary Jo Richardson</name>
+						<affiliation>Department of Oceanography, Texas A&M University, College Station, Texas 77843-3146, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-04-07</date>
+					<date type="R">2008-09-01</date>
+					<date type="A">2008-09-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Assessment of different topographic corrections in AWiFS satellite imagery of Himalaya terrain</title>
+				<feature></feature>
+				<page>0011-0026</page>
+				<abstract>
+					<p>The inﬂuence of topographic effects in optical satellite imagery is not investigated very extensively in the Himalayan terrain.The topographic variability causes a problem of differential illumination due to steep and varying slopes in rugged Himalayan terrain. Therefore,topographic corrections are essential for qualitative and quantitative analysis of snow cover applications.The present paper discusses the implementation of different topographic correction models on AWiFS sensor onboard IRS P6 satellite images and the qualitative and quantitative comparative analysis in detail.Both the Lambertian and non-Lambertian assumptions have been considered in the present analysis with the aim to explore best suitable empirical model for rugged terrain.The main topographic methods implemented are:</p>
+					<ul>
+						<li>C-correction</li>
+						<li>Minneart corrections</li>
+						<li>Civco ’s modi ﬁed version of cosine correction</li>
+						<li>two-stage normalization and</li>
+						<li>slope matching technique.</li>
+					</ul>
+					<p>Lambertian assumptions are found to be very unrealistic over Himalayan terrain as these lead to either underestimation or overestimation of physical parameters signiﬁcantly both on sunlit slopes as well as the slopes away from the Sun.This problem is overcome by considering non-Lambertian assumption.Minneart constant and C-correction coefficients for all AWiFS satellite bands are estimated using regression analysis.All the results due to topographic effects are investigated qualitatively and quantitatively using four criteria namely visual analysis,validation with ﬁeld measurements (\textit {in-situ} observations),spectral re ﬂectance of training samples of snow on the south and north aspects and graphically.The visual analysis conﬁrms the minimization of three dimensional relief effects in two-stage normalization and slope matching methods and retrieves some of the information under mountain shadow.Due to the very bright surface of snow ﬁelds there is likely to be more diffuse reﬂected light in these areas than over darker vegetated surfaces.The qualitative analysis in other methods does not extract any information on shady slopes.The quantitative validation of topographic results in satellite imagery with \textit {in-situ} observations shows underestimation of spectral reﬂectance of snow signiﬁcantly except for slope matching technique. It is also apparent that although all the topographic methods correct the reﬂectance of training snow samples on the south and north aspects but most acceptable values are achieved using slope matching.The results obtained from graphical analysis reveal that mean reﬂectance after all topo- graphic corrections are  independent of illumination.This study also suggests that the suitability of topographic models can not be concluded as successful based on single criterion.Slope matching technique is the only technique which satisﬁes all the four criteria successfully and produces the best result for Himalayan terrain.</p>
+				</abstract>
+				<keywords>Topographic normalization;C-corrections;Minneart constant;slope match.</keywords>
+				<authors>
+					<author>
+						<name first="V. D." last="Mishra">V. D. Mishra</name>
+						<affiliation>Snow and Avalanche Study Establishment, Defence Research and Development Organisation, Chandigarh 160 036, India.</affiliation>
+						<email>vd_mishra@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="J. K." last="Sharma">J. K. Sharma</name>
+						<affiliation>Rayat Institute of Engineering & Information Technology, Nawanshahr, Punjab 144 533, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. K." last="Singh">K. K. Singh</name>
+						<affiliation>Snow and Avalanche Study Establishment, Defence Research and Development Organisation, Chandigarh 160 036, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. K." last="Thakur">N. K. Thakur</name>
+						<affiliation>Snow and Avalanche Study Establishment, Defence Research and Development Organisation, Chandigarh 160 036, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Kumar">M. Kumar</name>
+						<affiliation>Snow and Avalanche Study Establishment, Defence Research and Development Organisation, Chandigarh 160 036, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-01-28</date>
+					<date type="R">2008-10-14</date>
+					<date type="A">2008-10-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Western disturbances seen with AMSU-B and infrared sensors</title>
+				<feature></feature>
+				<page>0027-0039</page>
+				<abstract>
+					<p>Western disturbances (WD) of winter and pre-monsoon seasons are the important sources of rainfall in the Indo-Gangetic plains. WDs are troughs or circulations in the westerly winds modified by the Himalayas. Operationally, WDs are monitored using infrared (IR) and water vapour (WV) images. Advanced Microwave Sounding Unit-B (AMSU-B), flying onboard the NOAA satellites, also allows WDs to be monitored in five microwave frequencies. Two are in water vapour window (89, 150 GHz) and three are absorption channels (centred at 183.31 GHz). Unlike the top of cloud view in IR or WV, AMSU-B radiances show the effect of moisture and hydrometeors in different layers.</p>
+					<p>Two cases of WD (17 April 2001 and 18–19 February 2003) are discussed using the microwave data from AMSU-B and the IR and WV data from Meteosat-5. The aim here is to demonstrate the skill of AMSU-B in delineating structure of WDs. In particular, the cold intrusion and the moist conveyor belts are examined. It was found that the multi-channel view of the AMSU-B permits a better understanding of the moist structures seen in the conveyor belts.</p>
+					<p>The \textit {\acute{a} trous} wavelet transform is used to clearly bring out mesoscale features in WDs. AMSU-B brings out intense convection as a large depression of BTs (&lt; 50K) at 150/176 GHz, cirrus and moist bands at 180/182 GHz.  Mesoscale convection lines within WDs that last short time are shown here for the first time only in the AMSU-B images. Large-scale cirrus features are separated using the \textit {\acute{a} trous} wavelet transform.</p>
+					<p> Lastly, it is shown that there is a good likeness in the rain contours in the 3-h rain 3B42 (computed from TRMM and other data) to AMSU-B depressions in BT. Overall, AMSU-B shows better skill in delineating the structure of clouds and rain in WDs.</p>
+				</abstract>
+				<keywords>Western disturbances;microwaves;infrared;AMSU-B;atmospheric sciences;remote sensing.</keywords>
+				<authors>
+					<author>
+						<name first="Dileep M." last="Puranik">Dileep M. Puranik</name>
+						<affiliation>Department of Atmospheric and Space Sciences, University of Pune, Pune 411 007, India.</affiliation>
+						<email>dileepmp@unipune.ernet.in</email>
+					</author>
+					<author>
+						<name first="R. N." last="Kareker">R. N. Kareker</name>
+						<affiliation>Department of Atmospheric and Space Sciences, University of Pune, Pune 411 007, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-04-01</date>
+					<date type="R">2008-10-07</date>
+					<date type="A">2008-11-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Aerosol optical depths at Mohal-Kullu in the northwestern Indian Himalayan high altitude station during ICARB</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<abstract>
+					<p>First time observations of spectral aerosol optical depths (AODs) at Mohal ($31.9^\circ N, 77.11^\circ E$; altitude 1154m amsl) in the Kullu valley, located in the northwestern Indian Himalayan region, have been carried out during Integrated Campaign for Aerosols, gases and Radiation Budget (ICARB), as a part of the Indian Space Research Organisation–Geosphere Biosphere Program (ISRO–GBP). AODs at six wavelengths are obtained using Microtops-II Sunphotometer and Ozonometer. The monthly mean values of AOD at 500 nm are found to be $0.27 \pm 0.04$ and $0.24 \pm 0.02$ during March and April, 2006 respectively. However, their monthly mean values are $0.33 \pm 0.04$ at 380 nm and $0.20 \pm 0.03$ nm at 870 nm during March 2006 and $0.31 \pm 0.3$ at 380 nm and $0.17 \pm 0.2$ at 870 nm during April 2006, showing a gradual decrease in AOD with wavelength. The ˚Angstrom wavelength exponent $'\alpha '$ had a mean value of $0.72 \pm 0.05$, implying reduced dominance of fine particles. Further, the afternoon AOD values are higher as compared to forenoon values by $\sim 33.0%$ during March and by $\sim 9.0%$ during April 2006 and are attributed to the pollutant lifted up from the valley by the evolving boundary layer. Besides the long-range transportation of aerosol particles by airmass from the Great Sahara and the Thar Desert regions to the observing site, the high values of AODs have also been influenced by biomass burning and frequent incidents of forest fire at local levels.</p>
+				</abstract>
+				<keywords>Aerosol optical depth;˚Angstrom parameters;meteorological parameters;airmass back trajectories.</keywords>
+				<authors>
+					<author>
+						<name first="Jagdish C." last="Kuniyal">Jagdish C. Kuniyal</name>
+						<affiliation>G.B. Pant Institute of Himalayan Environment and Development, Himachal Unit, Mohal-Kullu 175 126, India.</affiliation>
+						<email>kuniyaljc@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Alpana" last="Thakur">Alpana Thakur</name>
+						<affiliation>G.B. Pant Institute of Himalayan Environment and Development, Himachal Unit, Mohal-Kullu 175 126, India.</affiliation>
+					</author>
+					<author>
+						<name first="Harinder K." last="Thakur">Harinder K. Thakur</name>
+						<affiliation>G.B. Pant Institute of Himalayan Environment and Development, Himachal Unit, Mohal-Kullu 175 126, India.</affiliation>
+					</author>
+					<author>
+						<name first="Sanjeev" last="Sharma">Sanjeev Sharma</name>
+						<affiliation>G.B. Pant Institute of Himalayan Environment and Development, Himachal Unit, Mohal-Kullu 175 126, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Pant">P. Pant</name>
+						<affiliation>Aryabhatta Research Institute of Observational Sciences, Manora Peak, Nainital 263 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="Pan S." last="Rawat">Pan S. Rawat</name>
+						<affiliation>Department of Physics, D.S.B. Campus, Kumaun University, Nainital, Uttarakhand, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. Krishna" last="Moorthy">K. Krishna Moorthy</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Thiruvananthapuram 659 022, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-06-08</date>
+					<date type="R">2008-10-03</date>
+					<date type="A">2008-10-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Atmospheric phenomena deduced from radiosonde and GPS occultation measurements for various application related studies</title>
+				<feature></feature>
+				<page>0049-0059</page>
+				<abstract>
+					<p>The tropopause height and tropopause temperature are sensitive to temperature changes in troposphere and stratosphere. These are the measures of global climatic variability. Atmospheric profiles of temperature, refractivity and water vapour are always needed for communication, navigation and atmospheric modeling studies. The tropopause characteristics over the Indian region have been studied using radio occultation measurements (CHAMP) on the basis of cold point criterion. Tropopause height shows large variation in the latitude range $\sim 30^\circ –40^\circ N$ during winter. Tropopause temperature less than $−82^\circ C$, assumed to facilitate troposphere to stratosphere air transport, is observed at a number of tropical Indian locations and no seasonal pattern is observed in its occurrence. The bias in temperature and refractivity deduced from radiosonde and radio occultation measurements is also presented.</p>
+				</abstract>
+				<keywords>Cold point tropopause;cold tropopause;tropospheric stratospheric exchange;radio occultation, subtropics;atmospheric sciences;climate;upper atmosphere.</keywords>
+				<authors>
+					<author>
+						<name first="C. J." last="Johny">C. J. Johny</name>
+						<affiliation>Radio & Atmospheric Sciences Division, National Physical Laboratory, Dr. K S Krishnan Marg, New Delhi 110 012, India.</affiliation>
+						<email>johnycj@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="S. K." last="Sarkar">S. K. Sarkar</name>
+						<affiliation>Radio & Atmospheric Sciences Division, National Physical Laboratory, Dr. K S Krishnan Marg, New Delhi 110 012, India.</affiliation>
+						<email>sksarkar@mail.nplindia.ernet.in</email>
+					</author>
+					<author>
+						<name first="D." last="Punyasesudu">D. Punyasesudu</name>
+						<affiliation>Department of Physics, Post Graduate Study Centre, Sri Krishnadevaraya University, Kurnool 518 002, A.P., India.</affiliation>
+						<email>dupadu@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-04-17</date>
+					<date type="R">2008-10-29</date>
+					<date type="A">2008-11-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the influence of spatial heterogeneity on an internal boundary layer at a short fetch</title>
+				<feature></feature>
+				<page>0061-0070</page>
+				<abstract>
+					<p>Surface layer meteorological data collected at a coastal site, at Vasco-Da-Gama ($15^\circ 21^\prime N, 73^\circ 51^\prime E, 58.5m MSL$) (13–18 July, 2002) with prevailing southwesterly surface winds are analyzed to study the characteristics of internal boundary layer at a short fetch using an instrumented tower (9 m). The spectral and turbulence characteristics of wind are compared with earlier measurements made at a comparatively homogeneous terrain and the standards available in literature. The study show the smaller eddies in the vertical velocity spectrum attains equilibrium with the underlying surface at a short fetch itself and follows spectral similarity. However, this is not followed by longitudinal and transverse velocity spectra under unstable as well as stable conditions.</p>
+				</abstract>
+				<keywords>Wind spectra;heterogeneity;sea–land interface;IBL.</keywords>
+				<authors>
+					<author>
+						<name first="B. S." last="Murthy">B. S. Murthy</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr Homi Bhabha Road, NCL Post, Pune 411 008, India.</affiliation>
+						<email>murthy@tropmet.res.in</email>
+					</author>
+					<author>
+						<name first="R." last="Latha">R. Latha</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr Homi Bhabha Road, NCL Post, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="Cini" last="Sukumaran">Cini Sukumaran</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr Homi Bhabha Road, NCL Post, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Shivaji">A. Shivaji</name>
+						<affiliation>National Centre for Antarctic and Ocean Research, Vasco-Da-Gama, Goa, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Sivaramakrishnan">S. Sivaramakrishnan</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr Homi Bhabha Road, NCL Post, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-12-31</date>
+					<date type="R">2008-08-20</date>
+					<date type="A">2008-09-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Shear wave splitting in the Isparta Angle, southwestern Turkey: Anisotropic complexity in the mantle</title>
+				<feature></feature>
+				<page>0071-0080</page>
+				<abstract>
+					<p>This study presents shear wave splitting analysis results observed at ISP (Isparta)broadband station in the Isparta Angle,southwestern Turkey.We selected 21 good quality seismic events out of nearly 357 earthquakes and calculated splitting parameters (polarization direction of fast wave, $\phi $ and delay time between fast and slow waves,$\delta t$ )from mainly SKS and a few SKKS phases of the selected 21 seismic events.Then,we compared calculated splitting parameters at ISP station ($56^\circ \leq \phi \leq 205^\circ ;0 .37s \leq \delta t \leq 4s$) with those previously calculated at ANTO (Ankara) and ISK (˙Istanbul)stations ($27^\circ \leq \phi \leq 59^\circ ;0.6s \leq \delta t \leq 2.4s$ and $26^\circ \leq \phi \leq 54^\circ ;0.6s \leq \delta t \leq 1.5s$) which are located at 230 and 379 km away from ISP station in central and northwestern Turkey, respectively.The backazimuthal variations of the splitting parameters at ISP station indicate a different and complex mantle polarization anisotropy for the Isparta Angle in southwestern Turkey compared to those obtained for Ankara and $\dot{I} stanbul$ stations.</p>
+				</abstract>
+				<keywords>Shear wave splitting;polarization direction;mantle polarization anisotropy;SKS and SKKS phases;Isparta Angle.</keywords>
+				<authors>
+					<author>
+						<name first="Aslihan" last="Şapaş">Aslihan Şapaş</name>
+						<affiliation>Department of Geophysical Engineering, Faculty of Mines, \dot{I}stanbul Technical University of \dot{I}stanbul 34390, Maslak, Turkey.</affiliation>
+						<email>sapasa@itu.edu.tr</email>
+					</author>
+					<author>
+						<name first="Aysun" last="Boztepe-G\ddot{u}ney">Aysun Boztepe-G\ddot{u}ney</name>
+						<affiliation>Department of Geophysical Engineering, Faculty of Mines, \dot{I}stanbul Technical University of \dot{I}stanbul 34390, Maslak, Turkey.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-08-28</date>
+					<date type="R">2008-01-10</date>
+					<date type="A">2008-05-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Magnetic anomalies across Bastar craton and Pranhita–Godavari basin in south of central India</title>
+				<feature></feature>
+				<page>0081-0087</page>
+				<abstract>
+					<p>Aeromagnetic anomalies over Bastar craton and Pranhita –Godavari (P –G)basin in the south of  central India could be attributed to NW –SE striking maﬁc intrusives in both the areas at variable depths.Such intrusions can be explained considering the collision of the Bastar and Dharwar cratons by the end of the Archaean and the development of tensile regimes that followed in the Paleoproterozoic,facilitating intrusions of maﬁc dykes into the continental crust.The P –G basin  area,being a zone of crustal weakness along the contact of the Bastar and Dharwar cratons, also experienced extensional tectonics.The inferred remanent magnetization of these dykes dips upwards and it is such that the dykes are oriented towards the east of the magnetic north at the time of their formation compared to their present NW –SE strike.Assuming that there was no imprint of magnetization of a later date,it is concluded that the Indian plate was located in the southern hemisphere,either independently or as part of a supercontinent,for some span of time during Paleoproterozoic and was involved in complex path of movement and rotation subsequently.  The paper presents a case study of the utility of aeromagnetic anomalies in qualitatively deducing the palaeopositions of the landmasses from the interpreted remanent magnetism of buried intrusive bodies.</p>
+				</abstract>
+				<keywords>Aeromagnetic anomalies;Bastar craton;Pranhita–Godavari basin;mafic dykes;Gondwana land.</keywords>
+				<authors>
+					<author>
+						<name first="I. V. Radhakrishna" last="Murthy">I. V. Radhakrishna Murthy</name>
+						<affiliation>Department of Geophysics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+						<email>ivr_murthy@yahoo.com</email>
+					</author>
+					<author>
+						<name first="S. Bangaru" last="Babu">S. Bangaru Babu</name>
+						<affiliation>Department of Geophysics, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-12-06</date>
+					<date type="R">2008-09-18</date>
+					<date type="A">2008-10-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Trace fossils from the Talchir carbonate concretions, Giridih Basin, Jharkhand</title>
+				<feature></feature>
+				<page>0089-0100</page>
+				<abstract>
+					<p>The carbonate concretions occurring at the bottom of Talchir ﬁssile shale facies preserved signatures of various trace fossils along with a cast of doubtful organisms and cyanobacterial mat structures. The host shale deposited under glacial melt water fed lacustrine condition.The concretions,formed in poorly oxygenated conditions,are either of syndepositional origin and/or deposited a little below the sediment water interface and were later exhumed to the depositional surface due to erosion of soft mud overlying them.</p>
+					<p>The trace fossils are both megascopic and microscopic in nature.The megascopic trace fossils are identiﬁed on the basis of their morphology as \textit {Monocraterion} and \textit {Rhizocorallium}. Some of the megascopic structures described remain problematic at present.The microscopic trace fossils are formed due to the activity of marine meiofauna (possibly by nematodes),which,although produced morphologically show similar traces of known larger ichnogeneras but much smaller than them. The discovery of these trace fossils apparently indicate the in ﬂux of saline water into a lacustrine domain during the Talchir sedimentation at Giridih basin.Moreover, presence of the above two megascopic trace fossils in the marine lacustrine carbonate concretions may lead researchers to consider their much wider environmental signiﬁcance than hitherto believed.</p>
+				</abstract>
+				<keywords>Trace fossils;Talchir Group;concretions;Giridih basin;environment.</keywords>
+				<authors>
+					<author>
+						<name first="S. S." last="Das">S. S. Das</name>
+						<affiliation>Department of Earth and Planetary Sciences, Nehru Science Centre, University of Allahabad, Allahabad 211 002, India.</affiliation>
+						<email>siddharthasankar_das@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Mahesh Kumar" last="Tripathi">Mahesh Kumar Tripathi</name>
+						<affiliation>Department of Earth and Planetary Sciences, Nehru Science Centre, University of Allahabad, Allahabad 211 002, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-03-20</date>
+					<date type="R">2008-07-12</date>
+					<date type="A">2008-08-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Calculation of the CIPW norm: New formulas</title>
+				<feature></feature>
+				<page>0101-0113</page>
+				<abstract>
+					<p>A completely new set of formulas,based on matrix algebra,has been suggested for the calculation of  the CIPW norm for igneous rocks to achieve highly consistent and accurate norms.The suggested sequence of derivation of the normative minerals greatly deviates from the sequence followed in the classical scheme.The formulas are presented in a form convenient for error-free implementation in computer programs.Accurate formulas along with the use of variable molecular weights for CaO and FeO;corrected formula weights for apatite,pyrite and ﬂuorite;and suggested measures to avoid signiﬁcant rounding off errors to achieve absolute match between the sum of the input weights of the oxides and the sum of the weights of the estimated normative minerals.Using an analogous procedure for determining the oxidation ratios of igneous rocks as used in the SINCLAS system of Ver ma \textit {et al} (2002,2003),the suggested calculation scheme exactly reproduces their results except for apatite for reasons explained in the text,but with a superior match between the totals for about 11,200 analyses representing rocks of a wide range of composition.</p>
+				</abstract>
+				<keywords>CIPW norm;igneous rock classification;oxidation ratio;standard igneous norm;normative minerals.</keywords>
+				<authors>
+					<author>
+						<name first="Kamal L." last="Pruseth">Kamal L. Pruseth</name>
+						<affiliation>Institute Instrumentation Centre, Indian Institute of Technology Roorkee, Roorkee 247 667, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-05-27</date>
+					<date type="R">2008-11-10</date>
+					<date type="A">2008-11-14</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="04" year="2009">
+			<entry hassup="0">
+				<title>Energetics of lower tropospheric ultra-long waves: A key to intra-seasonal variability of Indian monsoon</title>
+				<feature></feature>
+				<page>0115-0121</page>
+				<abstract>
+					<p>Analysis of ﬁfty four (1951--2004)years of daily energetics of zonal waves derived from NCEP/ NCAR wind (\textit {u} and \textit {v} data and daily rainfall received over the Indian landmass (real time data) during southwest monsoon season (1 June--30 September)indicate that energetics (momentum transport and kinetic energy)of lower tropospheric ultra-long waves (waves 1 and 2)of low latitudes hold a key to intra-seasonal variability of monsoon rainfall over India.</p>
+					<p>Correlation coefficient between climatology of daily (122 days)energetics of ultra-long waves and climatology of daily rainfall over Indian landmass is 0.9.The relation is not only signiﬁcant but also has a predictive potential.The normalised plot of both the series clearly indicates that the response period of rainfall to the energetics is of 5--10 days during the onset phase and 4--7 days during the withdrawal phase of monsoon over India.During the established phase of monsoon, both the series move hand-in-hand.Normalised plot of energetics of ultra-long waves and rainfall for individual year do not show marked deviation with respect to climatology.These results are ﬁrst of its kind and are useful for the short range forecast of rainfall over India.</p>
+				</abstract>
+				<keywords>Energetics;ultra-long waves;momentum transport;kinetic energy;Indian summer monsoon rainfall.</keywords>
+				<authors>
+					<author>
+						<name first="S. M." last="Bawiskar">S. M. Bawiskar</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008, India.</affiliation>
+						<email>bawiskar@hotmail.com</email>
+					</author>
+					<author>
+						<name first="M. D." last="Chipade">M. D. Chipade</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. V." last="Puranik">P. V. Puranik</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-09-25</date>
+					<date type="R">2008-12-23</date>
+					<date type="A">2009-01-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Summer monsoon onset over Kerala: New definition and prediction</title>
 				<feature></feature>
 				<page>000-000</page>
 				<abstract>
@@ -13119,7 +13529,12 @@
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
+						<name first="D. S." last="Pai">D. S. Pai</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajeevan M." last="Nair">Rajeevan M. Nair</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -13213,8 +13628,7 @@
 					<date type="R">2014-09-30</date>
 					<date type="A">2014-09-30</date>
 				</dates>
-			</entry>
-			<entry hassup="0">
+			</entry><entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page>000-000</page>
