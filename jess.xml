@@ -13522,21 +13522,721 @@
 			<entry hassup="0">
 				<title>Summer monsoon onset over Kerala: New definition and prediction</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0123-0135</page>
 				<abstract>
-					<p></p>
+					<p>The summer monsoon onset over Kerala (MOK)marks the beginning of the rainy season for the country.Associated with the MOK,signiﬁcant transitions of large scale atmospheric and oceanic circulation patterns are observed over the Asia –Paciﬁc region.In this study,a new method for the objective identiﬁcation of MOK,based on large scale circulation features and rainfall over Kerala,is discussed.Further,a set of empirical models based on the principal component regression (PCR)technique was developed for the prediction of the date of MOK by keeping in mind the IMD ’s operational forecasting service requirements.Predictors for the models were derived using correlation analysis from the thermal,convective and circulation patterns.Only ﬁve predictors pertaining to the second half of April were used in the ﬁrst model (Model-1)so that the prediction of MOK can be prepared by the end of April itself.The second model (Model-2)used four additional predictors pertaining up to the ﬁrst half of May along with two predictors used in the Model-1 for update prediction at the end of the ﬁrst half of May.To develop each of the PCR models, Principal Components Analysis (PCA)of the respective predictor data was carried out followed by regression analysis of ﬁrst two principal components (PCs)with the date of MOK.Both these models showed good skill in predicting the date of MOK during the independent test period of 1997 –2007.The root mean square error (RMSE)of the predictions from both the models during the independent test period was about four days which was nearly half the RMSE of the predictions based on climatology.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Statistical prediction;Indian summer monsoon;monsoon onset over Kerala;principal component analysis;multiple linear regression.</keywords>
 				<authors>
 					<author>
 						<name first="D. S." last="Pai">D. S. Pai</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>National Climate Centre, Pune 411 005, Maharashtra, India.</affiliation>
+						<email>sivapai@hotmail.com</email>
 					</author>
 					<author>
 						<name first="Rajeevan M." last="Nair">Rajeevan M. Nair</name>
-						<affiliation></affiliation>
+						<affiliation>National Climate Centre, Pune 411 005, Maharashtra, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-05-01</date>
+					<date type="R">2008-11-24</date>
+					<date type="A">2008-11-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Linear genetic programming for time-series modelling of daily flow rate</title>
+				<feature></feature>
+				<page>0137-0146</page>
+				<abstract>
+					<p>In this study linear genetic programming (LGP),which is a variant of Genetic Programming,and two versions of Neural Networks (NNs)are used in predicting time-series of daily ﬂow rates at a station on Schuylkill River at Berne,PA,USA.Daily ﬂow rate at present is being predicted based on different time-series scenarios.For this purpose,various LGP and NN models are calibrated with training sets and validated by testing sets.Additionally,the robustness of the proposed LGP and NN models are evaluated by application data,which are used neither in training nor at testing stage.The results showed that both techniques predicted the ﬂow rate data in quite good agreement with the observed ones,and the predictions of LGP and NN are challenging.The performance of LGP,which was moderately better than NN,is very promising and hence supports the use of LGP in predicting of river ﬂow data.</p>
+				</abstract>
+				<keywords>Genetic programming;neural networks;daily flows;flow forecasting.</keywords>
+				<authors>
+					<author>
+						<name first="Aytac" last="Guven">Aytac Guven</name>
+						<affiliation>Civil Engineering Department, Gaziantep University, 27310 Gaziantep, Turkey.</affiliation>
+						<email>aguven@gantep.edu.tr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-10-16</date>
+					<date type="R">2009-02-04</date>
+					<date type="A">2009-02-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Distribution of particulate carbohydrate species in the Bay of Bengal</title>
+				<feature></feature>
+				<page>0147-0156</page>
+				<abstract>
+					<p>Suspended particulate matter (SPM)of surface seawaters was collected during December 2003 to October 2004 at 10 stations in the Bay of Bengal,and analyzed for particulate organic carbon (POC),total particulate nitrogen (TPN),total particulate carbohydrate (TPCHO)and total particulate uronic acids (TPURA).The concentrations of POC,TPCHO and TPURA varied from 4.80 to 29.12,0.85 to 4.24,0.09 to 0.91 $\mu $ C,respectively.The TPCHO-C and TPURA-C accounted for 6.6 –32.5%and 0.87 –3.65%of POC.The trends observed for the distribution of these compounds were generally similar to those recorded for the distribution of chlorophyll \textit {a} (Chl \textit {a}) .The C/N ratios varied from 3.2 to 22.3 with most of the values being &mt; 10.This suggests that the organic matter was mostly derived from phytoplankton and bacteria.Relatively low C/N ratios and high TPCHO yield imply that freshly derived organic matter was present during SWM and FIM.Our data suggest that the quality and quantity of organic matter varied spatially and seasonally.</p>
+				</abstract>
+				<keywords>Suspended particulate matter;chlorophyll a;particulate organic carbon;C/N ratio;particulate carbohydrates;particulate uronic acids;organic matter, Bay of Bengal.</keywords>
+				<authors>
+					<author>
+						<name first="Vishwas B." last="Khodse">Vishwas B. Khodse</name>
+						<affiliation>Council of Scientific and Industrial Research, Marine Corrosion and Material Research Division, National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+						<email>vkhodse@nio.org</email>
+					</author>
+					<author>
+						<name first="Narayan B." last="Bhosle">Narayan B. Bhosle</name>
+						<affiliation>Council of Scientific and Industrial Research, Marine Corrosion and Material Research Division, National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. V." last="Gopalkrishna">V. V. Gopalkrishna</name>
+						<affiliation>Council of Scientific and Industrial Research, Marine Corrosion and Material Research Division, National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-06-02</date>
+					<date type="R">2008-12-22</date>
+					<date type="A">2009-01-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Coral microatoll as geodetic tool in North Andaman and Little Andaman, India</title>
+				<feature></feature>
+				<page>0157-0162</page>
+				<abstract>
+					<p>Coral microatolls were examined from North Andaman and Little Andaman to understand the relative sea level change due to vertical tectonic deformation above the subduction interface.The highest level of survival of coral microatoll before the 26 December,2004 earthquake at eastern coast of North Andaman has been determined by Global Ocean Tide Model.The present position of recently dead ﬂat top microatoll with preserved internal structure at the eastern coast of North Andaman mainland indicates 31.21 cm uplift due to the 26 December,2004 earthquake.Comparatively old cup shaped microatoll at the eastern fringe of North Andaman group of islands and highly bioeroded fossil microatolls at the intertidal zone of Little Andaman bear the signature of permanent vertical deformation in the past.</p>
+				</abstract>
+				<keywords>Andaman;coral microatoll;geodesy.</keywords>
+				<authors>
+					<author>
+						<name first="S. K." last="Som">S. K. Som</name>
+						<affiliation>Earthquake Geology Division, Geological Survey of India, Eastern Region, DK-Block, Sector-II, Salt Lake City, Kolkata 700 091, India.</affiliation>
+						<email>sksom@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Vijay" last="Shivgotra">Vijay Shivgotra</name>
+						<affiliation>Earthquake Geology Division, Geological Survey of India, Eastern Region, DK-Block, Sector-II, Salt Lake City, Kolkata 700 091, India.</affiliation>
+					<author>
+						<name first="Ashim" last="Saha">Ashim Saha</name>
+						<affiliation>Earthquake Geology Division, Geological Survey of India, Eastern Region, DK-Block, Sector-II, Salt Lake City, Kolkata 700 091, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-06-10</date>
+					<date type="R">2008-10-31</date>
+					<date type="A">2009-01-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Some observations from radiometric ‘8 bit’ data of sediment thin sections based on alternative petrographic image analysis method</title>
+				<feature></feature>
+				<page>0163-0173</page>
+				<abstract>
+					<p>This paper deals with the experiment of sediment microstructure analysis especially microfabric mapping by digital imaging.For that purpose the greyscale images (Red band from RGB combination)of the thin sections have been prepared from the selected 12 samples.The basis of this mapping is the reﬂectance capacity of different sediments which is inﬂuenced by the physical parameters like grain size and colour.The reﬂectances of different sediments are represented in digital format by different DN values from 0 –255 within the radiometric ranges of ‘8 bit ’data. Density slicing has been chosen as the method of microstructure mapping in this research.This study shows that lower DN values normally present dark coloured coarser sand and clay while higher DN values present light coloured ﬁner sediment samples.In the selected samples for this study the maximum DN value has been found from micaceous materials.Another remarkable thing observed from the microfabric mapping is that the presence of coarser sediments forms complex microfabric pattern than the ﬁner sediments in the study area.Though this method have some demerits,still its simple technique can be very useful for accurate microstructure analysis.</p>
+				</abstract>
+				<keywords>Microstructure;sediment layers;digital number;reflectance;coverage analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Sudip" last="Dey">Sudip Dey</name>
+						<affiliation>Department of Geography and Disaster Management, Tripura University, Suryamaninagar 799 130, Tripura, India.</affiliation>
+						<email>sudip_geo@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Suvendu" last="Ghosh">Suvendu Ghosh</name>
+						<affiliation>Department of Geography and Disaster Management, Tripura University, Suryamaninagar 799 130, Tripura, India.</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Chandrani" last="Debbarma">Chandrani Debbarma</name>
+						<affiliation>Department of Geography and Disaster Management, Tripura University, Suryamaninagar 799 130, Tripura, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Prasamita" last="Sarkar">Prasamita Sarkar</name>
+						<affiliation>Department of Geography and Disaster Management, Tripura University, Suryamaninagar 799 130, Tripura, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mhu Aris" last="Marfai">Mhu Aris Marfai</name>
+						<affiliation>Institute of Geography, Justus-Liebig-University, 35390 Giessen, Germany</affiliation>
+						<affiliation>Geography Faculty, Gadjah Mada University, 55281 Yogyakarta, Indonesia.</affiliation>
+						<email>Muh.Marfai@geogr.uni-giessen.de</email>
+					</author>
+					<author>
+						<name first="Sabyasachi" last="Maiti">Sabyasachi Maiti</name>
+						<affiliation>Department of Geology and Geophysics, Indian Institute of Technology, Kharagpur, India.</affiliation>
+						<email>maiti@gg.iitkgp.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-05-15</date>
+					<date type="R">2009-02-02</date>
+					<date type="A">2009-02-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Comments on ‘Volatile displacement of Meghalaya coals – A pointer to explore low sulphur coals’ by P Behera</title>
+				<feature></feature>
+				<page>0175-0177</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Rabindra Nath" last="Hota">Rabindra Nath Hota</name>
+						<affiliation>P.G. Department of Geology, Utkal University, Vani Vihar, Bhubaneswar 751 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-11-04</date>
+					<date type="R">2008-11-25</date>
+					<date type="A">2008-12-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Reply to the comments by Rabindra Nath Hota on ‘Volatile displacement of Meghalaya coals – A pointer to explore low sulphur coals’</title>
+				<feature></feature>
+				<page>0179-0180</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords>Volatile displacement;coal;Meghalaya.</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Behera">P. Behera</name>
+						<affiliation>P.G. Department of Geology, Utkal University, Vani Vihar, Bhubaneswar 751 004, India.</affiliation>
+						<email>pn_behera@indiatimes.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-11-04</date>
+					<date type="R">2008-11-25</date>
+					<date type="A">2008-12-15</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03" month="06" year="2009">
+			<entry hassup="0">
+				<title>Equatorial modes observed in atmospheric variables</title>
+				<feature></feature>
+				<page>0181-0192</page>
+				<abstract>
+					<p>Wavenumber –frequency spectral analysis of different atmospheric variables has been carried out using 25 years of data.The area considered is the tropical belt $25^\circ S –25^\circ N$. A combined FFT- wavelet analysis method has been used for this purpose.Variables considered are outgoing long- wave radiation (OLR),850 hPa divergence,zonal and meridional winds at 850,500 and 200 hPa levels,sea level pressure and 850 hPa geopotential height.It is shown that the spectra of different variables have some common properties,but each variable also has few features different from the rest. While Kelvin mode is prominent in OLR and zonal winds,it is not clearly observed in pressure and geopotential height ﬁelds;the latter two have a dominant wavenumber zero mode not seen in other variables except in meridional wind at 200 hPa and 850 hPa divergences.Different dominant modes in the tropics show signiﬁcant variations on sub-seasonal time scales.</p>
+				</abstract>
+				<keywords>Tropical intraseasonal oscillation;equatorial modes;MJO;equatorial wave theory.</keywords>
+				<authors>
+					<author>
+						<name first="L." last="Kiranmayi">L. Kiranmayi</name>
+						<affiliation>Center for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="G. S." last="Bhat">G. S. Bhat</name>
+						<affiliation>Center for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email>bhat@caos.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-01-01</date>
+					<date type="R">2009-03-05</date>
+					<date type="A">2009-03-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A diagnosis of rainfall over South America during 1997/98 El Ni$\tilde{n} $o and 1998/99 La Ni$\tilde{n} $a events: Comparison between TRMM PR and GPCP rainfall estimates</title>
+				<feature></feature>
+				<page>0193-0207</page>
+				<abstract>
+					<p>A comparison between TRMM PR rainfall estimates and rain gauge data from ANEEL and combined gauge/satellite data from GPCP over South America (SA)is made.In general,the annual and seasonal regional characteristics of rainfall over SA are qualitatively well reproduced by TRMM PR and GPCP.It is found that over most of SA GPCP exceeds TRMM PR rainfall.The largest positive differences between GPCP and TRMM PR data occur in the north SA,northwestern and central Amazonia.However,there are regions where GPCP rainfall is lower than TRMM PR,particularly in the Paciﬁc coastal regions and in southern Brazil.We suggest that the cause for the positive differences GPCP minus TRMM PR rainfall are related to the fact that satellite observations based on infrared radiation and outgoing longwave radiance sensors overestimate convective rainfall in GPCP and the cause for the negative differences are due to the random errors in TRMM PR.Rainfall differences in the latter phases of the 1997/98 El Ni ˜no and 1998/99 La Ni ˜na are analyzed.The results showed that the rainfall anomalies are generally higher in GPCP than in TRMM PR,however,as in the mean annual case,there are regions where the rainfall in GPCP is lower than in TRMM PR.The higher positive (negative)differences between the rainfall anomalies in GPCP and TRMM PR,which occur in the central Amazonia (southern Brazil),are reduced (increased) in the El Ni ˜no event.This is due to the fact that during the El Ni ˜no episode the rainfall decreases in the central Amazonia and increases in the southern Brazil.Consequently,the overestimation of the convective rainfall by GPCP is reduced and the overestimation of the rainfall by TRMM PR is increased in these two regions,respectively.</p>
+				</abstract>
+				<keywords>TRMM PR data;GPCP data;rainfall estimates over South America.</keywords>
+				<authors>
+					<author>
+						<name first="Sergio H." last="Franchito">Sergio H. Franchito</name>
+						<affiliation>Centro de Previs˜ao de Tempo e Estudos Clim´aticos, CPTEC Instituto Nacional de Pesquisas Espaciais, INPE CP 515, 12245-970, S˜ao Jos´e dos Campos, SP, Brazil.</affiliation>
+						<email>sergio.franchito@cptec.inpe.br</email>
+					</author>
+					<author>
+						<name first="V. Brahmananda" last="Rao">V. Brahmananda Rao</name>
+						<affiliation>Centro de Previs˜ao de Tempo e Estudos Clim´aticos, CPTEC Instituto Nacional de Pesquisas Espaciais, INPE CP 515, 12245-970, S˜ao Jos´e dos Campos, SP, Brazil.</affiliation>
+					</author>
+					<author>
+						<name first="Ana C." last="Vasques">Ana C. Vasques</name>
+						<affiliation>Centro de Previs˜ao de Tempo e Estudos Clim´aticos, CPTEC Instituto Nacional de Pesquisas Espaciais, INPE CP 515, 12245-970, S˜ao Jos´e dos Campos, SP, Brazil.</affiliation>
+					</author>
+					<author>
+						<name first="Clovis M. E." last="Santo">Clovis M. E. Santo</name>
+						<affiliation>Centro de Previs˜ao de Tempo e Estudos Clim´aticos, CPTEC Instituto Nacional de Pesquisas Espaciais, INPE CP 515, 12245-970, S˜ao Jos´e dos Campos, SP, Brazil.</affiliation>
+					</author>
+					<author>
+						<name first="Jorge C." last="Conforte">Jorge C. Conforte</name>
+						<affiliation>Centro de Previs˜ao de Tempo e Estudos Clim´aticos, CPTEC Instituto Nacional de Pesquisas Espaciais, INPE CP 515, 12245-970, S˜ao Jos´e dos Campos, SP, Brazil.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-11-27</date>
+					<date type="R">2009-02-09</date>
+					<date type="A">2009-03-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quasi-periodic VLF emissions observed during daytime at a low latitude Indian ground station Jammu</title>
+				<feature></feature>
+				<page>0209-0216</page>
+				<abstract>
+					<p>This paper reports quasi-periodic pulsing hiss emissions recorded during daytime in the frequency range of 50 Hz –15 kHz at low latitude station Jammu (geomag.lat.=$22^\circ 26^\prime N$; \textit {L} =1.17). It is noted that pulsing VLF emissions are a rare phenomena at low latitudes.The various spectrograms of pulsing VLF hiss emissions presented in this paper clearly show band limited spectrums regularly pulsing with almost equal period of the order of few seconds in the frequency range of $\sim 3--8$ kHz. Generation and propagation mechanism of these emissions are brieﬂy discussed.</p>
+				</abstract>
+				<keywords>Quasi-periodic pulsing hiss;VLF hiss;waveguide mode.</keywords>
+				<authors>
+					<author>
+						<name first="K. K." last="Singh">K. K. Singh</name>
+						<affiliation>Atmospheric Research Laboratory, Department of Physics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="J." last="Singh">J. Singh</name>
+						<affiliation>Department of Physics, G.G.M. Science College, Canal Road, Jammu 180 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. P." last="Patel">R. P. Patel</name>
+						<affiliation>Department of Physics, M.M.H.P.G. College, Ghaziabad, India.</affiliation>
+						<email>rppatel12@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="A. K." last="Singh">A. K. Singh</name>
+						<affiliation>Atmospheric Research Laboratory, Department of Physics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email>abhay_s@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="R. P." last="Singh">R. P. Singh</name>
+						<affiliation>V.K.S. University, Ara 802 301, Bihar, India.</affiliation>
+					</author>
+					<author>
+						<name first="Rejesh" last="Singh">Rejesh Singh</name>
+						<affiliation>Indian Institute of Geomagnetism, New Panvel, Navi Mumbai 410 218, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. A." last="Ganai">P. A. Ganai</name>
+						<affiliation>Department of Physics, National Institute of Technology, Srinagar 190 006, Kashmir, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-03-19</date>
+					<date type="R">2009-01-25</date>
+					<date type="A">2009-02-18</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Appraisal of groundwater resources in an island condition</title>
+				<feature></feature>
+				<page>0217-0229</page>
+				<abstract>
+					<p>A group of 36 coral islands is being scattered in the Arabian Sea of the western coast of India. On such islands,groundwater is the only source of fresh water for the islanders.The demand for groundwater is increasing every year due to growing population and urbanization.On the other side the peculiar hydrologic,geologic and geomorphic features restrict the availability of groundwater. Thus a proper understanding of the groundwater condition is important in order to meet this increasing demand and also to formulate future development and management strategies.Detailed hydrogeological,geophysical and hydrochemical studies had been carried out to identify potential fresh groundwater resources and quantify vulnerable parts of Andrott Island,Union Territory of Lakshadweep.Systematic collection and analysis of hydrological,geophysical and hydrochemical data gives an early signal of deterioration in groundwater quality in the peripheral parts of eastern and western coasts of this island and it suggests immediate measures for arresting the deterioration in groundwater quality as well as augmentation for restoration of aquifer in some parts of the island.</p>
+				</abstract>
+				<keywords>Coral island;groundwater resources;seawater intrusion;Lakshadweep;India.</keywords>
+				<authors>
+					<author>
+						<name first="N. C." last="Mondal">N. C. Mondal</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research) Uppal Road, Hyderabad 500 606, India.</affiliation>
+						<affiliation>Present Address: 321E Scoates Hall, Department of Biological & Agricultural Engineering, Texas A & M University, 2117 TAMU, College Station, Texas 77843-2117, USA.</affiliation>
+						<email>ncmngri@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="V. S." last="Singh">V. S. Singh</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research) Uppal Road, Hyderabad 500 606, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. V." last="Sarwade">D. V. Sarwade</name>
+						<affiliation>Central Soil & Materials Research Station, New Delhi 110 016, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. V." last="Nandakumar">M. V. Nandakumar</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research) Uppal Road, Hyderabad 500 606, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-06-23</date>
+					<date type="R">2008-11-04</date>
+					<date type="A">2009-01-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Aquifer characteristics and its modeling around an industrial complex, Tuticorin, Tamil Nadu, India: A case study</title>
+				<feature></feature>
+				<page>0231-0244</page>
+				<abstract>
+					<p>Anthropogenic pollution of shallow groundwater resources due to industrial activities is becoming a cause of concern in the east coastal belt of the state of Tamil Nadu,India.Integrated hydrogeological,geophysical and tracer studies were carried out in the coastal region encompassing an industrial complex.The objective has been to gain knowledge of aquifer characteristics,ascertaining groundwater movement and its ﬂow direction,which would in turn reveal the possibility of contamination of groundwater regime and its better management.The results of multi-parameters and model study indicate that the velocity of groundwater ﬂow ranges from 0.013 m/d to 0.22 m/d in and around the industrial complex in upstream western part of the catchment and 0.026 m/d to 0.054 m/d in the downstream eastern part,near the coast.These parameters are vital for the development of groundwater management scheme.</p>
+				</abstract>
+				<keywords>Groundwater pollution;resistivity;tracer;modeling;groundwater velocity;coastal belt.</keywords>
+				<authors>
+					<author>
+						<name first="N. C." last="Mondal">N. C. Mondal</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research), Uppal Road, Hyderabad 500 606, India.</affiliation>
+						<affiliation>Present Address: 321E Scoates Hall, Department of Biological & Agricultural Engineering, Texas A & M University, 2117 TAMU, College Station, Texas 77843-2117, USA.</affiliation>
+						<email>ncmngri@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="V. S." last="Singh">V. S. Singh</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research), Uppal Road, Hyderabad 500 606, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Rangarajan">R. Rangarajan</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research), Uppal Road, Hyderabad 500 606, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-06-17</date>
+					<date type="R">2008-11-24</date>
+					<date type="A">2008-11-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tectonic controls on the geomorphic evolution of alluvial fans in the Piedmont Zone of Ganga Plain, Uttarakhand, India</title>
+				<feature></feature>
+				<page>0245-0259</page>
+				<abstract>
+					<p>The Piedmont Zone is the least studied part of the Ganga Plain.The northern limit of the Piedmont Zone is deﬁned by the Himalayan Frontal Thrust (HFT)along which the Himalaya is being thrust over the alluvium of the Ganga Plain.Interpretation of satellite imagery,Digital Terrain Models (DTMs)and ﬁeld data has helped in the identiﬁcation and mapping of various morpho-tectonic features in the densely forested and cultivated Piedmont Zone in the Kumaun region of the Uttarakhand state of India.The Piedmont Zone has formed as a result of coalescing alluvial fans,alluvial aprons and talus deposits.The fans have differential morphologies and aggradation processes within a common climatic zone and similar litho-tectonic setting of the catchment area. Morphotectonic analysis reveals that the fan morphologies and aggradation processes in the area are mainly controlled by the ongoing tectonic activities.Such activities along the HFT and transverse faults have controlled the accommodation space by causing differential subsidence of the basin,and aggradation processes by causing channel migration,channel incision and shifting of depocentres.The active tectonic movements have further modiﬁed the landscape of the area in the form of tilted alluvial fan,gravel ridges,terraces and uplifted gravels.</p>
+				</abstract>
+				<keywords>Piedmont Zone;Ganga Plain;geomorphology;active tectonics;alluvial fans.</keywords>
+				<authors>
+					<author>
+						<name first="Pradeep K." last="Goswami">Pradeep K. Goswami</name>
+						<affiliation>Department of Geology, Kumaun University, Nainital 263 002, Uttarakhand, India.</affiliation>
+						<email>drpgoswami@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Charu C." last="Pant">Charu C. Pant</name>
+						<affiliation>Department of Geology, Kumaun University, Nainital 263 002, Uttarakhand, India.</affiliation>
+					</author>
+					<author>
+						<name first="Shefali" last="Pandey">Shefali Pandey</name>
+						<affiliation>Department of Geology, Kumaun University, Nainital 263 002, Uttarakhand, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-09-30</date>
+					<date type="R">2009-01-10</date>
+					<date type="A">2009-03-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tectonomagnetic study in the seismoactive area of Narmada–Son lineament, central India: Preliminary results on repeat field observations</title>
+				<feature></feature>
+				<page>0261-0272</page>
+				<abstract>
+					<p>Repeated measurements of the total geomagnetic ﬁeld on the ﬁve proﬁles have revealed a picture of stress-induced tectonomagnetic effect in the form of secular variation of the total geomagnetic ﬁeld in the tectonically and seismically active area of Jabalpur and adjoining areas of the Narmada--Son lineament (NSL),central India.For this experiment,a reference base station was established within the study area at Jabalpur.Using proton precession magnetometers with a sensitivity of 0.1 nT, simultaneous measurements of total geomagnetic ﬁeld were made annually at the base and all ﬁeld stations.Five cycles of repeated observations have been performed between 2003 and 2007.For data analysis,a difference method has been applied and the residuals have been calculated as secular variations of the total geomagnetic ﬁeld with values ranging from $\pm 0 .1nT$ to about &mt; $\pm 14.6nT/yr$ over the different stations.The anomalies in secular variation of the total geomagnetic ﬁeld may be related to anomalous accumulation of tectonic stresses and tensions on the deep fault zones and crustal blocks due to recent geodynamic processes and active geological inhomogeneities in the NSL.</p>
+				</abstract>
+				<keywords>Tectonomagnetism;geomagnetic secular variation;stress;piezomagnetic;electrokinetic;geomagnetic repeat survey.</keywords>
+				<authors>
+					<author>
+						<name first="S. Y." last="Waghmare">S. Y. Waghmare</name>
+						<affiliation>Indian Institute of Geomagnetism, New Panvel (W), Navi Mumbai 410 218, India.</affiliation>
+						<email>waghmare@iigs.iigm.res.in</email>
+					</author>
+					<author>
+						<name first="S. D." last="Pimprikar">S. D. Pimprikar</name>
+						<affiliation>Geological Survey of India, Sanjeevani Nagar, Jabalpur 482 003 (M.P.), India.</affiliation>
+					</author>
+					<author>
+						<name first="P. B." last="Gawali">P. B. Gawali</name>
+						<affiliation>Indian Institute of Geomagnetism, New Panvel (W), Navi Mumbai 410 218, India.</affiliation>
+					</author>
+					<author>
+						<name first="L." last="Carlo">L. Carlo</name>
+						<affiliation>Indian Institute of Geomagnetism, New Panvel (W), Navi Mumbai 410 218, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. G." last="Patil">A. G. Patil</name>
+						<affiliation>Indian Institute of Geomagnetism, New Panvel (W), Navi Mumbai 410 218, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2007-12-24</date>
+					<date type="R">2009-02-25</date>
+					<date type="A">2009-03-18</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="08" year="2009">
+			<entry hassup="0">
+				<title>Weakening of lower tropospheric temperature gradient between Indian landmass and neighbouring oceans and its impact on Indian monsoon</title>
+				<feature></feature>
+				<page>0273-0280</page>
+				<abstract>
+					<p>The study shows that in the scenario of global warming temperature gradient (TG) between Indian landmass and Arabian Sea/Bay of Bengal is significantly decreasing in the lower troposphere with maxima around 850 hPa. TG during pre-monsoon (March to May) is reducing at a significant rate of $0.036^\circ /year$ (Arabian Sea) and 0.030^\circ /year$ (Bay of Bengal). The above alarming results are based on sixty years (1948–2007) of daily temperature and wind data extracted from CDAS-NCEP/NCAR reanalysis datasets. TG based on ERA-40 data also indicates a decreasing trend of $0.0229^\circ /year$ and $0.0397^\circ /year$ for Arabian Sea and Bay of Bengal respectively. As TG is not governed by any type of significant oscillation, there is a possibility of TG tending to zero. It is further observed that the rate of warming over the oceans is more than that over the land which has resulted into the weakening of TG. Pre-monsoon TG has significant correlations with</p>
+					<ul>
+						<li>All India Seasonal Monsoon Rainfall (AISMR),</li>
+						<li>kinetic energy of waves 1 and 2 at 850 hPa,</li>
+						<li>kinetic energy, and</li>
+						<li>stream function at 850 hPa over Indian landmass during monsoon season.</li>
+					</ul>
+					<p>Except AISMR, the decreasing trends observed in all the above parameters are significant. All India rainfall for July and August together shows a significant decreasing trend of 0.995mm/year. Reducing number of depressions and cyclonic storms and increasing number of break days during monsoon over India are the reflections of the weakening of TG.</p>
+				</abstract>
+				<keywords>Weakening;temperature gradient;pre-monsoon;monsoon.</keywords>
+				<authors>
+					<author>
+						<name first="S. M." last="Bawiskar">S. M. Bawiskar</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008, India.</affiliation>
+						<email>bawiskar@hotmail.com</email>
+						<email>bawiskar@tropmet.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-01-21</date>
+					<date type="R">2009-04-16</date>
+					<date type="A">2009-04-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A case study of atmospheric boundary layer features during winter over a tropical inland station – Kharagpur ($22.32^\circ N, 87.32^\circ E$)</title>
+				<feature></feature>
+				<page>0281-0293</page>
+				<abstract>
+					<p>The local weather and air quality over a region are greatly influenced by the atmospheric boundary layer (ABL) structure and dynamics. ABL characteristics were measured using a tethered balloon-sonde system over Kharagpur ($22.32^\circ N, 87.32^\circ E$, 40m above MSL), India, for the period 7 December 2004 to 30 December 2004, as a part of the Indian Space Research Organization– Geosphere Biosphere Program (ISRO–GBP) Aerosol Land Campaign II. High-resolution data of pressure, temperature, humidity, wind speed and wind direction were archived along with surface layer measurements using an automatic weather station. This paper presents the features of ABL, like ABL depth and nocturnal boundary layer (NBL) depth. The sea surface winds from Quikscat over the oceanic regions near the experiment site were analyzed along with the NCEP/NCAR reanalysis winds over Kharagpur to estimate the convergence of wind, moisture and vorticity to understand the observed variations in wind speed and relative humidity, and also the increased aerosol concentrations. The variation of ventilation coefficient (\textit {VC}), a factor determining the air pollution potential over a region, is also discussed in detail.</p>
+				</abstract>
+				<keywords>Atmospheric boundary layer;nocturnal boundary layer;virtual potential temperature;ventilation coefficient.</keywords>
+				<authors>
+					<author>
+						<name first="Denny P." last="Alappattu">Denny P. Alappattu</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+						<email>dennyalp@gmail.com</email>
+					</author>
+					<author>
+						<name first="P. K." last="Kunhikrishnan">P. K. Kunhikrishnan</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="Marina" last="Aloysius">Marina Aloysius</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Mohan">M. Mohan</name>
+						<affiliation>Space Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum 695 022, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-12-12</date>
+					<date type="R">2009-02-14</date>
+					<date type="A">2009-04-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mesoscale model simulation of low level equatorial winds over Borneo during the haze episode of September 1997</title>
+				<feature></feature>
+				<page>0295-0307</page>
+				<abstract>
+					<p>The large-scale vegetation fires instigated by the local farmers during the dry period of the major El Ni˜no event in 1997 can be considered as one of the worst environmental disasters that have occurred in southeast Asia in recent history. This study investigated the local meteorology characteristics of an equatorial environment within a domain that includes the northwestern part of Borneo from the 17 to 27 September 1997 during the height of the haze episode by utilizing a limited area three-dimensional meteorological and dispersion model, The Air Pollution Model (TAPM).</p>
+					<P>Daily land and sea breeze conditions near the northwestern coast of Borneo in the state ofSarawak, Malaysia were predicted with moderate success by the index of agreement of less than one between the observed and simulated values for wind speed and a slight overprediction of 2.3 of the skill indicator that evaluates the standard deviation to the observed values. The innermost domain of study comprises an area of 24,193 $km^2$, from approximately $109^\circ E to 111^\circ E$, and from $1^\circ N to 2.3^\circ N$, which includes a part of the South China Sea. Tracer analysis of air particles that were sourced in the state of Sarawak on the island of Borneo verified the existence of the landward and shoreward movements of the air during the simulation of the low level wind field. Polluted air particles were transported seawards during night-time, and landwards during daytime, highlighting the recirculation features of aged and newer air particles during the length of eleven days throughout the model simulation. Near calm conditions at low levels were simulated by the trajectory analysis from midnight to mid-day on the 22 of September 1997. Low-level turbulence within the planetary boundary layer in terms of the total kinetic energy was weak, congruent with the weak strength of low level winds that reduced the ability of the air to transport the pollutants.</P>
+					<P>Statistical evaluation showed that parameters such as the systematic RMSE and unsystematic RMSE between the observed and simulated values indicated the modest skill of the model in simulating the low level winds. Otherwise, the equatorial meteorological parameters such as wind speed and temperature were successfully simulated by the model with comparatively high correlation coefficients, lower RMSEs and moderately high indices of agreement with observed values.</P>
+				</abstract>
+				<keywords>Equatorial region;low-level meteorological parameters;biomass burning;haze;southeast Asia;Sarawak.</keywords>
+				<authors>
+					<author>
+						<name first="Mastura" last="Mahmud">Mastura Mahmud</name>
+						<affiliation>Earth Observation Centre, Faculty of Social Sciences and Humanities, Universiti Kebangsaan Malaysia, Bangi 43600, Selangor, Malaysia.</affiliation>
+						<email>mastura@pkrisc.cc.ukm.my</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-08-29</date>
+					<date type="R">2009-04-21</date>
+					<date type="A">2009-04-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Track prediction of very severe cyclone ‘Nargis’ using high resolution weather research forecasting (WRF) model</title>
+				<feature></feature>
+				<page>0309-0329</page>
+				<abstract>
+					<p>The recent very severe cyclonic storm (VSCS) ‘Nargis’ over the Bay of Bengal caused widespread destruction over Myanmar after hitting the coast on 2 May 2008. The real time forecasting of the VSCS ‘Nargis’ was a very difficult task as it did not follow the normal westerly/northwesterly track. In the present study, a detailed diagnostic analysis of the system ‘Nargis’ is carried out initially to investigate the features associated with this unusual movement and subsequently the real time forecast of VSCS ‘Nargis’ using high resolution advanced version weather research forecasting (WRF) model is presented. The advanced research WRF model was run for 72 h at 27 km and 20 km resolutions with 28, 29, 30 April and 1 May as the initial conditions. The diagnostic study indicates that the recurvature of the system ‘Nargis’ was mainly associated with:</p>
+					<ul>
+						<li>upper level southerly/southwesterly steering wind at 200 hPa level associated with anticyclonic circulation over southeastern sector of the centre of the system,</li>
+						<li>higher SST ($29^\circ C$ or more) with higher positive anomalies over the region to the northeast of the cyclone centre, and</li>
+						<li>large negative 24 h pressure changes and large vorticity maximum to the east of the system.</li>
+					</ul>
+					<p>The real time track forecast using theWRF model run at 27 km and 20 km resolution based on the initial conditions of 28 April (when the system was only 550 km away from the Indian coast) indicated that the system had a northeasterly forecast track and was not expected to cross the Indian coast. Similarly, based on 29 April initial condition the system showed east/east-northeasterly movement towards the Myanmar coast. The east/east-northeasterly movement of the ‘Nargis’ was persisting in the forecast based on 30 April and 1 May initial conditions with respective landfall errors of 85 km and 50 km with 27 km resolution, which reduces to 30 km and 40 km respectively with  20 km resolution, however, with a landfall time delay of about 10 h. Improvement of mean forecast errors at different forecast hours is noticed in WRF model run at higher resolution compared to that run at lower resolution. Thus, it is very clear that the advanced version WRF model had captured movement of the system reasonably well almost 3 days in advance. Consistence with the diagnostic analysis the WRF model forecast also indicates southerly/southwesterly strong steering wind at 200 hPa level and maximum pressure fall to the east of the system.</p>
+				</abstract>
+				<keywords>Cyclone Nargis;WRF model;track forecast;Bay of Bengal;forecast error.</keywords>
+				<authors>
+					<author>
+						<name first="D. R." last="Pattanaik">D. R. Pattanaik</name>
+						<affiliation>India Meteorological Department, Lodhi Road, Mausam Bhawan, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="Y. V. Rama" last="Rao">Y. V. Rama Rao</name>
+						<affiliation>India Meteorological Department, Lodhi Road, Mausam Bhawan, New Delhi 110 003, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-06-04</date>
+					<date type="R">2008-12-15</date>
+					<date type="A">2008-12-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Polarized microwave forward model simulations for tropical storm Fanoos</title>
+				<feature></feature>
+				<page>0331-0343</page>
+				<abstract>
+					<p>In the present study, forward radiative transfer simulations are carried out for the tropical cyclone \textit {Fanoos} that hit the coast off south India in December 2005. The in-house radiative transfer package used for this study employs the doubling and adding method to calculate radiances leaving the top of the one dimensional precipitating atmosphere. The particle drop size distribution is assumed to follow a modified gamma distribution in respect of the cloud liquid water and cloud ice water content. For precipitation, the Marshall–Palmer particle size distribution is used. All the hydrometeor particles are assumed to be spherical and Lorentz Mie theory is used to evaluate the interaction parameters like absorption, scattering coefficients and polarized scattering matrix. In order to validate the drop size distributions and interaction parameter calculations, the simulated brightness temperatures are compared with the TMI measured brightness temperatures for all the channels. For carrying out this exercise, vertical hydrometeors retrieved by TMI are used as input. The differences between simulated and measured brightness temperatures are found to be within $\pm 10%$. The maximum difference in the brightness temperatures between the present work and the Eddington model which the TRMM algorithm employs is about 4.5K. This may become significant when retrieval of precipitation is attempted by combining the forward model with a suitable retrieval strategy, under tropical conditions.</p>
+				</abstract>
+				<keywords>Megha tropiques;microwave;radiative transfer;simulations;polarized;tropical storm;Fanoos.</keywords>
+				<authors>
+					<author>
+						<name first="C." last="Balaji">C. Balaji</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai 600 036, India.</affiliation>
+						<email>balaji@iitm.ac.in</email>
+					</author>
+					<author>
+						<name first="M." last="Deiveegan">M. Deiveegan</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai 600 036, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. P." last="Venkateshan">S. P. Venkateshan</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai 600 036, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. M." last="Gairola">R. M. Gairola</name>
+						<affiliation>Meteorology and Oceanography Group, Space Applications Centre, ISRO, Ahmedabad, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Sarkar">A. Sarkar</name>
+						<affiliation>Meteorology and Oceanography Group, Space Applications Centre, ISRO, Ahmedabad, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. K." last="Agarwal">V. K. Agarwal</name>
+						<affiliation>Meteorology and Oceanography Group, Space Applications Centre, ISRO, Ahmedabad, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-03-31</date>
+					<date type="R">2009-04-19</date>
+					<date type="A">2009-04-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Comparison of two split-window methods for retrieving land surface temperature from MODIS data</title>
+				<feature></feature>
+				<page>0345-0353</page>
+				<abstract>
+					<p>Land surface temperature (LST) is a key parameter in environment and earth science study, especially for monitoring drought. The objective of this work is a comparison of two split-window methods: Mao method and Sobrino method, for retrieving LST using MODIS (Moderate-resolution Imaging Spectroradiometer) data in North China Plain. The results show that the max, min and mean errors of Mao method are 1.33K, 1.54K and 0.13K lower than the standard LST product respectively; while those of Sobrino method are 0.73K, 1.46K and 1.50K higher than the standard respectively. Validation of the two methods using LST product based on weather stations shows a good agreement between the standard and Sobrino method, with RMSE of 1.17K, whereas RMSE of Mao method is 1.85K. Finally, the study introduces the Sobmao method, which is based on Sobrino method but simplifies the estimation of atmospheric water vapour content using Mao method. The Sobmao method has almost the same accuracy with Sobrino method. With high accuracy and simplification of water vapour content estimation, the Sobmao method is recommendable in LST inversion for good application in Ningxia region, the northwest China, with mean error of 0.33K and the RMSE value of 0.91K.</p>
+				</abstract>
+				<keywords>Transmittance;emissivity;water vapour content.</keywords>
+				<authors>
+					<author>
+						<name first="Shaohua" last="Zhao">Shaohua Zhao</name>
+						<affiliation>Institute of Remote Sensing and Geographic Information System, Peking University, Beijing 100 871, China.</affiliation>
+						<affiliation>Center for Agricultural Resources Research, Institute of Genetic and Developmental Biology, Chinese Academy of Sciences, Shijiazhuang 050 021, China.</affiliation>
+						<affiliation>State Key Laboratory of Earth Surface Processes and Resource Ecology, College of Resources Science and Technology, Beijing Normal University, Beijing 100 875, China.</affiliation>
+						<email>zshyytt@126.com</email>
+					</author>
+					<author>
+						<name first="Qiming" last="Qin">Qiming Qin</name>
+						<affiliation>Institute of Remote Sensing and Geographic Information System, Peking University, Beijing 100 871, China.</affiliation>
+					</author>
+					<author>
+						<name first="Yonghui" last="Yang">Yonghui Yang</name>
+						<affiliation>Center for Agricultural Resources Research, Institute of Genetic and Developmental Biology, Chinese Academy of Sciences, Shijiazhuang 050 021, China.</affiliation>
+					</author>
+					<author>
+						<name first="Yujiu" last="Xiong">Yujiu Xiong</name>
+						<affiliation>State Key Laboratory of Earth Surface Processes and Resource Ecology, College of Resources Science and Technology, Beijing Normal University, Beijing 100 875, China.</affiliation>
+					</author>
+					<author>
+						<name first="Guoyu" last="Qiu">Guoyu Qiu</name>
+						<affiliation>State Key Laboratory of Earth Surface Processes and Resource Ecology, College of Resources Science and Technology, Beijing Normal University, Beijing 100 875, China.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-11-18</date>
+					<date type="R">2009-03-13</date>
+					<date type="A">2009-04-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>SCS-CN and GIS-based approach for identifying potential water harvesting sites in the Kali Watershed, Mahi River Basin, India</title>
+				<feature></feature>
+				<page>0355-0368</page>
+				<abstract>
+					<p>The Kali sub-watershed is situated in the semi-arid region of Gujarat, India and forms a part of the Mahi River Watershed. This watershed receives an average annual rainfall of 900mm mainly between July and September. Due to high runoff potential, evapo-transpiration and poor infiltration, drought like situation prevails in this area from December to June almost every year. In this paper, augmentation of water resource is proposed by construction of runoff harvesting structures like check dam, percolation pond, farm pond, well and subsurface dyke. The site suitability for different water harvesting structures is determined by considering spatially varying parameters like runoff potential, slope, fracture pattern and micro-watershed area. GIS is utilised as a tool to store, analyse and integrate spatial and attribute information pertaining to runoff, slope, drainage and fracture. The runoff derived by SCS-CN method is a function of runoff potential which can be expressed in terms of runoff coefficient (ratio between the runoff and rainfall) which can be classified into three classes, viz., high (&lt; 40%), moderate (20–40%) and low (&mt; 20%). In addition to IMSD, FAO specifications for water harvesting/recharging structures, parameters such as effective storage, rock mass permeability are herein considered to augment effective storage. Using the overlay and decision tree concepts in GIS, potential water harvesting sites are identified. The derived sites are field investigated for suitability and implementation. In all, the accuracy of the site selection at implementation level varies from 80–100%.</p>
+				</abstract>
+				<keywords>GIS;runoff potential;water harvesting;site suitability.</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Ramakrishnan">D. Ramakrishnan</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology (IIT), Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Bandyopadhyay">A. Bandyopadhyay</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology (IIT), Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. N." last="Kusuma">K. N. Kusuma</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology (IIT), Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-05-30</date>
+					<date type="R">2009-03-03</date>
+					<date type="A">2009-04-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Wind-driven estuarine turbidity maxima in Mandovi Estuary, central west coast of India</title>
+				<feature></feature>
+				<page>0369-0377</page>
+				<abstract>
+					<p>Systematic studies on the suspended particulate matter (SPM) measured on a seasonal cycle in the Mandovi Estuary, Goa indicate that the average concentrations of SPM at the regular station are $\sim $20mg/l, 5mg/l, 19mg/l and 5mg/l for June–September, October–January, February–April and May, respectively. SPM exhibits low-to-moderate correlation with rainfall indicating that SPM is also influenced by other processes. Transect stations reveal that the SPM at sea-end stations of the estuary are at least two orders of magnitude greater than those at the river-end during the monsoon. Estuarine turbidity maximum (ETM) of nearly similar magnitude occurs at the same location in two periods, interrupted by a period with very low SPM concentrations. The ETM occurring in June–September is associated with low salinities; its formation is attributed to the interactions between strong southwesterly winds ($5.1–5.6ms^{−1}$) and wind-induced waves and tidal currents and, dominant easterly river flow at the mouth of the estuary. The ETM occurring in February–April is associated with high salinity and is conspicuous. The strong NW and SW winds ($3.2–3.7ms^{−1}$) and wind-driven waves and currents seem to have acted effectively at the mouth of the estuary in developing turbidity maximum. The impact of sea breeze appears nearly same as that of trade winds and cannot be underestimated in sediment resuspension and deposition.</p>
+				</abstract>
+				<keywords>Suspended particulate matter;monsoons;turbidity maximum;winds;estuarine sedimentation.</keywords>
+				<authors>
+					<author>
+						<name first="Pratima M." last="Kessarkar">Pratima M. Kessarkar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. Purnachandra" last="Rao">V. Purnachandra Rao</name>
+						<affiliation>National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+						<email>vprao@nio.org</email>
+					</author>
+					<author>
+						<name first="R." last="Shynu">R. Shynu</name>
+						<affiliation>National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ishfaq Mir" last="Ahmad">Ishfaq Mir Ahmad</name>
+						<affiliation>National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+					<author>
+						<name first="Prakash" last="Mehra">Prakash Mehra</name>
+						<affiliation>National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+					<author>
+						<name first="G. S." last="Michael">G. S. Michael</name>
+						<affiliation>National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Sundar">D. Sundar</name>
+						<affiliation>National Institute of Oceanography, Dona Paula 403 004, Goa, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-09-02</date>
+					<date type="R">2009-04-12</date>
+					<date type="A">2009-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Deformation mechanisms in the frontal Lesser Himalayan Duplex in Sikkim Himalaya, India</title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Abdul" last="Matin">Abdul Matin</name>
+						<affiliation>Department of Geology, University of Calcutta, 35 Ballygunge Circular Road, Kolkata 700 019, India.</affiliation>
+					</author>
+					<author>
+						<name first="Sweety" last="Mazumdar">Sweety Mazumdar</name>
+						<affiliation>Department of Geology, Presidency College, Kolkata 700 073, India.</affiliation>
+						<email>amatinindia@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
@@ -13587,89 +14287,25 @@
 					<date type="A">2014-09-30</date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>000-000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>000-000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-				</dates>
-			</entry><entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>000-000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>000-000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
-				</dates>
-			</entry>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 			
 			
 		
