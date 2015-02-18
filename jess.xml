@@ -14501,7 +14501,7 @@
 				<feature></feature>
 				<page>0507-0523</page>
 				<abstract>
-					<p>Groundwater is a major source of water for agricultural and domestic requirements in western Uttar Pradesh.Due to increasing agricultural requirements the abstraction of groundwater has increased manifold in the last two-to-three decades.The quaternary alluvium hosts the aquifer in the region.The study area forms a part of Yamuna –Krishni inter ﬂuve.Although the area hosts potential aquifers these have been adversely affected by poor management.For effective ground water management of a basin it is essential that a careful water balance study should be carried out. Keeping this in mind groundwater ﬂow modelling was attempted to simulate the behaviour of the  ﬂow system and evaluate the water balance.The groundwater ﬂow modelling was carried out.The horizontal ﬂows,seepage losses from unlined canals,recharge from rainfall and irrigation return ﬂows were applied using different boundary packages available in Visual MODFLOW,Pro 4.1. The river aquifer interaction was simulated using the river boundary package.Hydraulic conductivity values were applied to speciﬁc zones and these ranged from 9.8 to 26.6 m/day.Recharge due to rainfall and irrigation returns were assigned to respective zones.Pumping rates of 500 m 3 / 1000 m 3 /1500 m 3 /2000 m 3 / and 2500 m 3 / were applied to appropriate areas of the  model to simulate areas of stress.The zone budget shows a water balance de ﬁcit for the period June 2006 to June 2007.The total recharge to the study area is 160.21 million m 3 (Mcum).The groundwater draft through pumping is of the order of 233.56 Mcum,thus leaving a de ﬁcit balance of − 73 . Mcum.The sensitivity of the model to input parameters was tested by varying the para- meters of interest over a range of values,monitoring the response of the model and determining the root mean square error of the simulated groundwater heads to the measured heads.These analyses showed that the model is most sensitive to hydraulic conductivity and recharge parameters.Three scenarios were considered to predict  aquifer responses under varied conditions of groundwater bstraction.</p>
+					<p>Groundwater is a major source of water for agricultural and domestic requirements in western Uttar Pradesh.Due to increasing agricultural requirements the abstraction of groundwater has increased manifold in the last two-to-three decades.The quaternary alluvium hosts the aquifer in the region.The study area forms a part of Yamuna –Krishni inter ﬂuve.Although the area hosts potential aquifers these have been adversely affected by poor management.For effective ground water management of a basin it is essential that a careful water balance study should be carried out. Keeping this in mind groundwater ﬂow modelling was attempted to simulate the behaviour of the  ﬂow system and evaluate the water balance.The groundwater ﬂow modelling was carried out.The horizontal ﬂows,seepage losses from unlined canals,recharge from rainfall and irrigation return ﬂows were applied using different boundary packages available in Visual MODFLOW,Pro 4.1. The river aquifer interaction was simulated using the river boundary package.Hydraulic conductivity values were applied to speciﬁc zones and these ranged from 9.8 to 26.6 m/day.Recharge due to rainfall and irrigation returns were assigned to respective zones.Pumping rates of $500 m^{3}/day$, $1000 m^{3}/day$, $1500 m^{3}/day$, $2000 m^{3}/day$ and $2500 m^{3}/day$ were applied to appropriate areas of the  model to simulate areas of stress.The zone budget shows a water balance de ﬁcit for the period June 2006 to June 2007.The total recharge to the study area is 160.21 million $m^3$ (Mcum).The groundwater draft through pumping is of the order of 233.56 Mcum,thus leaving a deﬁcit balance of − 73.35 Mcum. The sensitivity of the model to input parameters was tested by varying the parameters of interest over a range of values,monitoring the response of the model and determining the root mean square error of the simulated groundwater heads to the measured heads.These analyses showed that the model is most sensitive to hydraulic conductivity and recharge parameters.Three scenarios were considered to predict aquifer responses under varied conditions of groundwater bstraction.</p>
 				</abstract>
 				<keywords>Groundwater flow model;river–aquifer interaction;prediction scenario;Yamuna–Krishni;Muzaffarnagar.</keywords>
 				<authors>
@@ -14519,6 +14519,558 @@
 					<date type="M">2008-10-14</date>
 					<date type="R">2009-05-18</date>
 					<date type="A">2009-05-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Estimation of snow cover distribution in Beas basin, Indian Himalaya using satellite data and ground measurements</title>
+				<feature></feature>
+				<page>0525-0538</page>
+				<abstract>
+					<p>In the present paper,a methodology has been developed for the mapping of snow cover in Beas basin,Indian Himalaya using AWiFS (IRS-P6)satellite data.The complexities in the mapping of snow cover in the study area are snow under vegetation,contaminated snow and patchy snow. To overcome these problems,ﬁeld measurements using spectroradiometer were carried out and reﬂectance/snow indices trend were studied.By evaluation and validation of different topographic correction models,it was observed that,the normalized difference snow index (NDSI)values remain constant with the variations in slope and aspect and thus NDSI can take care of topography effects.Different snow cover mapping methods using snow indices are compared to ﬁnd the suitable mapping technique.The proposed methodology for snow cover mapping uses the NDSI (estimated using planetary re ﬂectance),NIR band reﬂectance and forest/vegetation cover information.The satellite estimated snow or non-snow pixel information using proposed methodology was validated with the snow cover information collected at three observatory locations and it was found that the algorithm classify all the sample points correctly,once that pixel is cloud free.The snow cover distribution was estimated using one year (2004 –05)cloud free satellite data and good correlation was observed between increase/decrease areal extent of seasonal snow cover and ground observed fresh snowfall and standing snow data.</p>
+				</abstract>
+				<keywords>Snow cover monitoring;NDSI;AWiFS;reflectance;topographic corrections.</keywords>
+				<authors>
+					<author>
+						<name first="H. S." last="Negi">H. S. Negi</name>
+						<affiliation>Snow & Avalanche Study Establishment, Chandigarh 160 036, India.</affiliation>
+						<email>negi_hs@yahoo.com</email>
+					</author>
+					<author>
+						<name first="A. V." last="Kulkarni">A. V. Kulkarni</name>
+						<affiliation>Space Applications Centre, Ahmedabad, 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="B. S." last="Semwal">B. S. Semwal</name>
+						<affiliation>H N B Garhwal University, Srinagar Garhwal, 246 174, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-08-14</date>
+					<date type="R">2009-06-26</date>
+					<date type="A">2009-06-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analytical solutions of one-dimensional advection–diffusion equation with variable coefficients in a finite domain</title>
+				<feature></feature>
+				<page>0539-0549</page>
+				<abstract>
+					<p>Analytical solutions are obtained for one-dimensional advection –diffusion equation with variable coefficients in a longitudinal ﬁnite initially solute free domain,for two dispersion problems.In the ﬁrst one,temporally dependent solute dispersion along uniform ﬂow in homogeneous domain is studied.In the second problem the velocity is considered spatially dependent due to the inhomogeneity of the domain and the dispersion is considered proportional to the square of the velocity. The velocity is linearly interpolated to represent small increase in it along the ﬁnite domain.This analytical solution is compared with the numerical solution in case the dispersion is proportional to the same linearly interpolated velocity.The input condition is considered continuous of uniform and of increasing nature both.The analytical solutions are obtained by using Laplace transformation technique.In that process new independent space and time variables have been introduced. The effects of the dependency of dispersion with time and the inhomogeneity of the domain on the solute transport are studied separately with the help of graphs.</p>
+				</abstract>
+				<keywords>Advection;diffusion;dispersion;aquifer;groundwater.</keywords>
+				<authors>
+					<author>
+						<name first="Atul" last="Kumar">Atul Kumar</name>
+						<affiliation>Department of Mathematics, Faculty of Science, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="Dilip Kumar" last="Jaiswal">Dilip Kumar Jaiswal</name>
+						<affiliation>Department of Mathematics, Faculty of Science, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="Naveen" last="Kumar">Naveen Kumar</name>
+						<affiliation>Department of Mathematics, Faculty of Science, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email>naveen@bhu.ac.in</email>
+						<email>nks_1953@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-09-23</date>
+					<date type="R">2009-06-16</date>
+					<date type="A">2009-06-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Detection of sub-basaltic sediments by a multi-parametric joint inversion approach</title>
+				<feature></feature>
+				<page>0551-0562</page>
+				<abstract>
+					<p>In many parts of the world sedimentary horizons with potential for hydrocarbon are located below ﬂood basalt provinces.However,the presence of high velocity basaltic overburden makes delineation of sediments difficult due to the low velocity layer problem.Electrical and electromagnetic methods have been used in such scenarios because of the good electrical conductivity contrast between basalts and underlying sediments.However,mapping of the target sediments becomes difficult when the layer is thin as the data errors due to inherent noise lead to equivalent solutions.To tackle such difficult situations,a joint inversion scheme incorporating seismic reﬂection and refraction, magnetotelluric and deep electrical resistivity datasets is presented. Efficacy of the scheme is tested for a model comprising a thin sedimentary layer sandwiched between a thick basalt cover and a granitic basement.The results indicate that the parameters of the target sedimentary layer are either poorly resolved or equivalent solutions are obtained by the inversion of individual datasets. Joint inversions of seismic reﬂection (RFLS)and refraction (RFRS),or DC and  MT dataset pairs provide improved results and the range of equivalent solutions is narrowed down.Combination of any three of the above datasets leads to further narrowing of this range and improvements in mean model estimates.Joint inversion incorporating all the datasets is found to yield good estimates of the structure.Resolution analysis is carried out to appraise estimates of various model parameters obtained by jointly inverting different combinations of datasets.</p>
+				</abstract>
+				<keywords>Joint inversion;magnetotellurics;seismics;DC resistivity;exploration;geophysics;modelling;structure of the earth.</keywords>
+				<authors>
+					<author>
+						<name first="Ajay" last="Manglik">Ajay Manglik</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research), Hyderabad 500 606, India.</affiliation>
+						<email>ajay@ngri.res.in</email>
+					</author>
+					<author>
+						<name first="Saurabh K." last="Verma">Saurabh K. Verma</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research), Hyderabad 500 606, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. H." last="Singh">K. H. Singh</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific & Industrial Research), Hyderabad 500 606, India.</affiliation>
+						<affiliation>Present Address: GEST UMBC @ Planetary Geodynamics Laboratory, NASA Goddard Space Flight Center, Greenbelt, Maryland, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-05-14</date>
+					<date type="R">2009-05-04</date>
+					<date type="A">2009-05-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Consolidation of a poroelastic half-space with anisotropic permeability and compressible constituents by axisymmetric surface loading</title>
+				<feature></feature>
+				<page>0563-0574</page>
+				<abstract>
+					<p>The fully coupled Biot quasi-static theory of linear poroelasticity is used to study the consolidation of a poroelastic half-space caused by axisymmetric surface loads.The ﬂuid and solid constituents of the poroelastic medium are compressible and its permeability in the vertical direction is different from its permeability in the horizontal direction.An analytical solution of the governing equations is obtained by taking the displacements and the pore pressure as the  basic state variables and using a combination of the Laplace and Hankel transforms.The problem of an axisymmetric normal load is discussed in detail.An explicit analytical solution is obtained for normal disc loading.Detailed  numerical computations reveal that the anisotropy in permeability as well as the com-pressibilities of the ﬂuid and solid constituents of the poroelastic medium have signiﬁcant effects on the consolidation of the half-space.The anisotropy in permeability may accelerate the consolidation process and may lead to a dilution in the theoretical prediction of the Mandel –Cryer effect. The compressibility of the solid constituents may also accelerate the consolidation process.</p>
+				</abstract>
+				<keywords>Anisotropic permeability;compressible constituents;poroelastic half-space;quasi-static deformation;surface loading.</keywords>
+				<authors>
+					<author>
+						<name first="Sarva Jit" last="Singh">Sarva Jit Singh</name>
+						<affiliation>Department of Mathematics, University of Delhi, South Campus, New Delhi 110 021, India.</affiliation>
+						<email>s_j_singh@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Raman" last="Kumar">Raman Kumar</name>
+						<affiliation>Department of Mathematics, Guru Jambheshwar University of Science and Technology, Hisar 125 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="Sunita" last="Rani">Sunita Rani</name>
+						<affiliation>Department of Mathematics, Guru Jambheshwar University of Science and Technology, Hisar 125 001, India.</affiliation>
+						<email>s_b_rani@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-02-16</date>
+					<date type="R">2009-05-12</date>
+					<date type="A">2009-06-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>\textit {Trachyhystrichosphaera}: An age-marker acanthomorph from the Bhander group, upper Vindhyan, Rajasthan</title>
+				<feature></feature>
+				<page>0575-0582</page>
+				<abstract>
+					<p>A highly diversiﬁed, advanced and exceptionally well preserved microfossil assemblage, dominated by a planktic community,has been recorded from petrographic thin sections of chert belonging to the Sirbu Shale Formation,Bhander group,upper Vindhyans,Rajasthan.Recently, it was noticed that the assemblage also contains well preserved,large-sized acanthomorphic acritarchs, \textit {Trachyhystrichosphaera} considered to be an age-marker microfossil of the Cryogenian (850 –630 Ma).It is reported for the ﬁrst time from any Indian microfossil assemblage of Proterozoic succession.The other microfossils of the Sirbu Shale Formation are:well preserved simple,small and large-sized sphaeromorphs;complex acanthomorphs,cyanobacterial community;especially a very small-sized but exceptionally well preserved \textit {Obruchevella} ,a form resembling \textit {Volvox} colonies; cf.vase-shaped microfossils and morphologies,possibly inclining towards fungal affinity,or lichen- like symbiotic associations of algae and fungi.Till date, \textit {Trachyhystrichosphaera} has so far not been reported from successions older than the Tonian (1000 –850 Ma).It is believed that acanthomorphs attained maximum size in Ediacaran (630 –542 Ma),and further decreased in size in the Cambrian.The global paleontological literature indicates that \textit {Trachyhystrichosphaera} ranges in age from Tonian –Ediacaran (1000 –542 Ma).</p>
+					<p>The present record of \textit {Trachyhystrichosphaera} as well as the earlier studies of micro and megascopic life of the Bhander Group in general and the Sirbu Shale in particular (aided by the absence of any  Cambrian fossil record)indicate that in all possibilities,age of the Sirbu Shale should lie near Cryogenian (850 –630 Ma)and the uppermost Bhander group,may incline towards the Ediacaran (630 –542 Ma).</p>
+				</abstract>
+				<keywords>Acanthomorph; Bhander group; age-marker; upper Vindhyans; Rajasthan; Trachyhystrichosphaera.</keywords>
+				<authors>
+					<author>
+						<name first="Purnima" last="Srivastava">Purnima Srivastava</name>
+						<affiliation>Centre of Advanced Study in Geology, Lucknow University, Lucknow 226 020, India.</affiliation>
+						<email>purnimasrivastava_51@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-12-08</date>
+					<date type="R">2009-03-25</date>
+					<date type="A">2009-04-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Application of Markov chain and entropy analysis to lithologic succession – an example from the early Permian Barakar Formation, Bellampalli coalfield, Andhra Pradesh, India</title>
+				<feature></feature>
+				<page>0583-0596</page>
+				<abstract>
+					<p>A statistical approach by a modiﬁed Markov process model and entropy function is used to prove that the early Permian Barakar Formation of the Bellampalli coal ﬁeld developed distinct cyclicities during deposition.From results,the transition path of lithological states typical for the Bellampalli basin is as:coarse to medium-grained sandstone $\longrightarrow $ interbedded ﬁne-grained sandstone/shale $\longrightarrow $ shale $\longrightarrow $ coal and again shale.The majority of cycles are symmetrical but asymmetrical cycles are present as well.The chi-square stationarity test implies that these cycles are stationary in space and time.The cycles are interpreted in terms of in-channel,point bar and overbank facies association in a ﬂuvial system.The randomness in the occurrence of facies within a cycle is evaluated in terms of entropy,which can be calculated from the Markov matrices.Two types of entropies are calculated for every facies state;entropy after deposition \textit {E} (post)and entropy before deposition \textit {E}(pre),which together form entropy set;the entropy for the whole system is also calculated.These values are plotted and compared with Hattori ’s idealized plots,which indicate that the sequence is essentially  a symmetrical cycle (type-B of Hattroi).</p>
+					<p>The symmetrical cyclical deposition of early Permian Barakar Formation is explained by the lateral migration of stream channels in response to varying discharge and rate of deposition across the alluvial plain.In addition,the ﬁning upward cycles in the upper part enclosing thick beds of  ﬁne clastics,as well as coal may represent differential subsidence of depositional basin.</p>
+				</abstract>
+				<keywords>Barakar coal measures;entropy functions;Markov chain;cyclicity.</keywords>
+				<authors>
+					<author>
+						<name first="Ram Chandra" last="Tewari">Ram Chandra Tewari</name>
+						<affiliation>Department of Geology, Sri J.N.P.G. College, Lucknow 226 001, India.</affiliation>
+						<email>ram_tewari@yahoo.com</email>
+					</author>
+					<author>
+						<name first="D. P." last="Singh">D. P. Singh</name>
+						<affiliation>SMEC India Pvt. Ltd., 5th Floor, Tower C, DLF Building 8, Cyber City, Phase II, Gurgaon 122 002, Haryana, India.</affiliation>
+						<email>dp.singh@smecindia.com</email>
+					</author>
+					<author>
+						<name first="Z. A." last="Khan">Z. A. Khan</name>
+						<affiliation>Directorate of Geology & Mining, Khanij Bhawan, Lucknow 226 001, India.</affiliation>
+						<email>zahid26aug@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-06-16</date>
+					<date type="R">2009-02-14</date>
+					<date type="A">2009-04-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Eco-restoration of a high-sulphur coal mine overburden dumping site in northeast India: A case study</title>
+				<feature></feature>
+				<page>0597-0608</page>
+				<abstract>
+					<p>Eco-restoration of mine overburden (OB)or abandoned mine sites is a major environmental concern.In the present investigation,an integrated approach was used to rejuvenate a high-sulphur mine OB dumping site in the Tirap Collieries,Assam,India,which is situated in the Indo-Burma mega-biodiversity hotspot.A mine OB is devoid of true soil character with poor macro and micronutrient content and contains elevated concentrations of trace and heavy metals.Planting of herbs, shrubs,cover crops and tree species at close proximity leads to primary and secondary sere state succession within a period of 3 to 5 years.A variety of plant species were screened for potential use in restoration:herbs,including \textit {Sccharum spontaneum, Cymbopogon winterianus} Jowitt (citronella), and \textit {Cymbopogon flexuosus} (lemon grass)cover plants,including \textit {Mimosa strigillosa M. striata} and \textit {M. pigra}; shrubs,including \textit {Sesbania rostrata} (dhaincha)and \textit {Cassia streata} (cassia);and tree species,including \textit {Gmelina arborea} (gomari)and \textit {Dalbergia sissoo} (sissoo).Amendment with unmined soil and bio-organic matter was required for primary establishment of some plant species. Management of these plant species at the site will ensure long term sustainable eco-restoration of the coal mine-degraded land.</p>
+				</abstract>
+				<keywords>Mine overburden;environment degradation;ecology;eco-restoration;primary, secondary ecological succession.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Dowarah">J. Dowarah</name>
+						<affiliation>Biotechnology Division, North-East Institute of Science & Technology, CSIR, Jorhat 785 006, Assam, India.</affiliation>
+					</author>
+					<author>
+						<name first="H. P. Deka" last="Boruah">H. P. Deka Boruah</name>
+						<affiliation>Biotechnology Division, North-East Institute of Science & Technology, CSIR, Jorhat 785 006, Assam, India.</affiliation>
+						<email>dekaboruah@yahoo.com</email>
+						<email>hpdekaboruah@yahoo.com</email>
+					</author>
+					<author>
+						<name first="J." last="Gogoi">J. Gogoi</name>
+						<affiliation>Biotechnology Division, North-East Institute of Science & Technology, CSIR, Jorhat 785 006, Assam, India.</affiliation>
+					</author>
+					<author>
+						<name first="N." last="Pathak">N. Pathak</name>
+						<affiliation>Biotechnology Division, North-East Institute of Science & Technology, CSIR, Jorhat 785 006, Assam, India.</affiliation>
+					</author>
+					<author>
+						<name first="N." last="Saikia">N. Saikia</name>
+						<affiliation>Biotechnology Division, North-East Institute of Science & Technology, CSIR, Jorhat 785 006, Assam, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Handique">A. K. Handique</name>
+						<affiliation>Biotechnology Department, Gauhati University, Guwahati 781 014, Assam, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-02-10</date>
+					<date type="R">2009-06-10</date>
+					<date type="A">2009-06-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>High-resolution satellite image segmentation using H$\ddot{o} $lder exponents</title>
+				<feature></feature>
+				<page>0609-0617</page>
+				<abstract>
+					<p>Texture in high-resolution satellite images requires substantial amendment in the conventional segmentation algorithms. A measure is proposed to compute the H$\ddot{o} $lder exponent (HE) to assess the roughness or smoothness around each pixel of the image. The localized singularity information is incorporated in computing the HE. An optimum window size is evaluated so that HE reacts to localized singularity. A two-step iterative procedure for clustering the transformed HE image is adapted to identify the range of HE, densely occupied in the kernel and to partition H$\ddot{o} $lder exponents into a cluster that matches with the range. H$\ddot{o} $lder exponent values (noise or not associated with the other cluster) are clubbed to a nearest possible cluster using the local maximum likelihood analysis.</p>
+				</abstract>
+				<keywords>High resolution image;texture analysis;segmentation;IKONOS;H$\ddot{o} $lder exponent;cluster.</keywords>
+				<authors>
+					<author>
+						<name first="Debasish" last="Chakraborty">Debasish Chakraborty</name>
+						<affiliation>Regional Remote Sensing Service Centre, Indian Space Research Organization, IIT Campus, Kharagpur 721 302, India.</affiliation>
+						<email>deba.isro@gmail.com</email>
+						<email>deba1964@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Gautam Kumar" last="Sen">Gautam Kumar Sen</name>
+						<affiliation>School of Oceanographic Studies, Jadavpur University, Kolkata 700 032, India.</affiliation>
+						<email>gksju@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Sugata" last="Hazra">Sugata Hazra</name>
+						<affiliation>School of Oceanographic Studies, Jadavpur University, Kolkata 700 032, India.</affiliation>
+						<email>shazra@geology.jdvu.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-07-04</date>
+					<date type="R">2009-06-02</date>
+					<date type="A">2009-06-06</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="06" month="12" year="2009">
+			<entry hassup="0">
+				<title>Mineralogy and geochemistry of banded iron formation and iron ores from eastern India with implications on their genesis</title>
+				<feature></feature>
+				<page>0619-0641</page>
+				<abstract>
+					<p>The geological complexities of banded iron formation (BIF) and associated iron ores of Jilling–Langalata iron ore deposits, Singhbhum–North Orissa Craton, belonging to Iron Ore Group (IOG) eastern India have been studied in detail along with the geochemical evaluation of different iron ores. The geochemical and mineralogical characterization suggests that the massive, hard laminated, soft laminated ore and blue dust had a genetic lineage from BIFs aided with certain input from hydrothermal activity. The PAAS normalized REE pattern of Jilling BIF striking positive Eu anomaly, resembling those of modern hydrothermal solutions from mid-oceanic ridge (MOR). Major part of the iron could have been added to the bottom sea water by hydrothermal solutions derived from hydrothermally active anoxic marine environments. The ubiquitous presence of intercalated tuffaceous shales indicates the volcanic signature in BIF.</p>
+					<p>Mineralogical studies reveal that magnetite was the principal iron oxide mineral, whose depositional history is preserved in BHJ, where it remains in the form of martite and the platy hematite is mainly the product of martite. The different types of iron ores are intricately related with the BHJ. Removal of silica from BIF and successive precipitation of iron by hydrothermal fluids of possible meteoric origin resulted in the formation of martite-goethite ore. The hard laminated ore has been formed in the second phase of supergene processes, where the deep burial upgrades the hydrous iron oxides to hematite. The massive ore is syngenetic in origin with BHJ. Soft laminated ores and biscuity ores were formed where further precipitation of iron was partial or absent.</p>
+				</abstract>
+				<keywords>Banded iron formation;hematite;blue dust;mineralogical characterization;archean iron ore group;India.</keywords>
+				<authors>
+					<author>
+						<name first="Subrata" last="Roy">Subrata Roy</name>
+						<affiliation>MNP Division, National Metallurgical Laboratory, Jamshedpur, India.</affiliation>
+						<email>roy.subrata11@yahoo.com</email>
+					</author>
+					<author>
+						<name first="A. S." last="Venkatesh">A. S. Venkatesh</name>
+						<affiliation>Department of Applied Geology, Indian School of Mines University, Dhanbad, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-07-31</date>
+					<date type="R">2009-07-03</date>
+					<date type="A">2009-07-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Petrography, geochemistry and geodynamic environment of potassic alkaline rocks in Eslamy peninsula, northwest of Iran</title>
+				<feature></feature>
+				<page>0643-0657</page>
+				<abstract>
+					<p>Eslamy peninsula, 360 $km^2$ in area, is located in the eastern coast of Urmieh lake in the northwest of Iran. This peninsula is a complex stratovolcano with a collapsed center, which is elevated due to later intrusions of sub-volcanic masses with trachytic to microsyenitic composition. The composite cone consists of a sequence of leucite tephrite, tephrite, leucite basanite, basanite and related pyroclastic rocks. Magmatic activities in the Eslamy peninsula begin with potassic alkaline to ultrapotassic and basic, silica-undersaturated shoshonitic rocks and they are followed by intrusions of lamprophyric dykes and end with acidic magmatism including trachytic, microsyenitic, syenitic and phonolitic domes. The original magma of the Eslamy peninsula rocks has a potassic alkaline nature (Roman type) rich in LREE and LILE and depleted of HREE. These characteristics suggest that the origin of magma can be from deep mantle with a garnet lherzolite composition, a low partial melting rate which has been contaminated by crustal materials in its way up. Fractional crystallization of olivine, diopsidic clinopyroxene and leucite played an important role in the evolution of magmas. Scrutinizing the geodynamic environment of Eslamy peninsula rocks in discrimination diagrams indicates that these rocks must have been formed in a post-collision magmatic arc setting.</p>
+				</abstract>
+				<keywords>Mineralogy;petrology;geochemistry;volcanology;geodynamics;Eslamy peninsula;Iran.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Hajalilou">B. Hajalilou</name>
+						<affiliation>Department of Geology, Payame Noor University, Tabriz, Iran.</affiliation>
+						<email>hajalilou@pnu.ac.ir</email>
+						<email>bhshnaha@yahoo.com</email>
+					</author>
+					<author>
+						<name first="M." last="Moayyed">M. Moayyed</name>
+						<affiliation>Department of Geology, University of Tabriz, Tabriz, Iran.</affiliation>
+						<email>m.moayyed@tabrziu.ac.ir</email>
+					</author>
+					<author>
+						<name first="Gh" last="Hosseinzadeh">Gh Hosseinzadeh</name>
+						<affiliation>Department of Geology, University of Tabriz, Tabriz, Iran.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-09-11</date>
+					<date type="R">2009-07-06</date>
+					<date type="A">2009-07-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydrothermal alteration studies of gabbros from Northern Central Indian Ridge and their geodynamic implications</title>
+				<feature></feature>
+				<page>0659-0676</page>
+				<abstract>
+					<p>Mylonitic gabbro and altered gabbro were recovered from off-axis high and corner high locations at ridge-transform intersection, adjacent to Vityaz transform fault of the slow spreading (32–35mm/yr, full spreading) Northern Central Indian Ridge. Both the varieties show signatures of extensive alteration caused due to interaction with sea water. Mylonitic gabbro represents high temperature metamorphism ($\sim 700–800^\circ C$) and comprised of hornblende mineral which exhibits well defined foliation/gneissic appearance along with dynamically recrystallised plagioclase grains frequently intercalated with magnetite-ilmenite. Altered gabbro from corner high generally includes low temperature greenschist grade ($\sim 300^\circ C$) mineralogical assemblages: chlorite, albite, quartz and locally magnesio hornblende. Crystal plastic deformation resulted in mylonite formation and often porphyroclasts of plagioclase and clinopyroxene grains, while altered gabbro locally exhibits cataclastic texture. Presence of Vityaz transform fault and adjacent megamullion at the weakly magmatic ridge-transform intersection and off-axis high locations prompted the present scenario very much conducive for hydrothermal circulation and further facilitate the exhumation of present suite of gabbro.</p>
+				</abstract>
+				<keywords>Mylonitic gabbro;altered gabbro;hydrothermal alteration;Northern Central Indian Ridge.</keywords>
+				<authors>
+					<author>
+						<name first="Dwijesh" last="Ray">Dwijesh Ray</name>
+						<affiliation>National Centre for Antarctic & Ocean Research, Goa 403 804, India.</affiliation>
+						<email>dwijesh@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Catherine" last="Mevel">Catherine Mevel</name>
+						<affiliation>Geosciences Marines, CNRS, IPGP, 4 Place Jussieu, F-75252 Paris Cedex 5, France.</affiliation>
+					</author>
+					<author>
+						<name first="Ranadip" last="Banerjee">Ranadip Banerjee</name>
+						<affiliation>National Institute of Oceanography, Goa 403 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-06-25</date>
+					<date type="R">2009-06-13</date>
+					<date type="A">2009-07-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Existence of longitudinal waves in pre-stressed anisotropic elastic medium</title>
+				<feature></feature>
+				<page>0677-0687</page>
+				<abstract>
+					<p>In a pre-stressed anisotropic elastic medium, three types of quasi-waves propagate along an arbitrary direction. In general, none of the waves is truly longitudinal. The present study finds the specific directions in a pre-stressed anisotropic elastic medium along which longitudinal waves may propagate. This paper demonstrates how the propagation of longitudinal waves is affected by various pre-stresses present in the medium. The study establishes the explicit expressions defining the existence and propagation of longitudinal waves in pre-stressed anisotropic elastic medium. These expressions involve not only the direction and elastic stiffness of the medium, but also the prestresses present in the medium. Changes in conditions for the existence of longitudinal waves in orthotropic, monoclinic and triclinic anisotropies are discussed in detail. The most important part of the paper is a practical aspect suggested to calculate the specific directions for the existence of longitudinal waves in pre-stressed anisotropic elastic medium. In this approach, only those parameters are used that can be observed by the receiver in a geophysical experiment of wave propagation. The existence of longitudinal waves has been shown graphically using a numerical example for three types of anisotropic symmetries in elastic medium.</p>
+				</abstract>
+				<keywords>General anisotropy;elastic stiffness;pre-stress;group velocity;ray direction;longitudinal waves;polarization.</keywords>
+				<authors>
+					<author>
+						<name first="Neetu" last="Garg">Neetu Garg</name>
+						<affiliation>Department of Applied Mathematics, University Institute of Engineering & Technology, Kurukshetra University, Kurukshetra 136 119, India.</affiliation>
+						<email>ng_99@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-08-01</date>
+					<date type="R">2009-02-01</date>
+					<date type="A">2009-06-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Composition of macrobenthos from the Central Indian Ocean Basin</title>
+				<feature></feature>
+				<page>0689-0700</page>
+				<abstract>
+					<p>The deep sea is well known for its high faunal diversity. But the current interest in its abundant polymetallic nodules, poses a threat to the little known benthic organisms surviving in this unique environment. The present study is the first attempt to document the Indian Ocean abyssal benthic diversity of macroinvertebrates and to investigate its relation to the surface primary production (chl-\textit {a}), sediment labile organic matter, organic carbon and texture. The present study is based on 87 individuals. Altogether 39 macroinvertebrate genera were obtained from water depths of 4500–5500m from 23 box cores. Reduction in macrobenthic density was seen towards the southern latitudes. The area was dominated by deposit feeding macrobenthos. Vertically, the fauna was distributed down to 30 cm depth, with the highest faunal density in the top 2–5 cm sediment section. The values for population density were strongly correlated with surface water chl-\textit {a} and sediment protein, indicating supply of fresh organic matter as a critical factor for maintaining the deep sea benthic diversity and abundance.</p>
+				</abstract>
+				<keywords>Abyssal;macrobenthos;diversity;latitudinal distribution;Central Indian Ocean.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Pavithran">S. Pavithran</name>
+						<affiliation>National Institute of Oceanography (CSIR), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="B. S." last="Ingole">B. S. Ingole</name>
+						<affiliation>National Institute of Oceanography (CSIR), Dona Paula, Goa 403 004, India.</affiliation>
+						<email>baban@nio.org</email>
+					</author>
+					<author>
+						<name first="M." last="Nanajkar">M. Nanajkar</name>
+						<affiliation>National Institute of Oceanography (CSIR), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="C." last="Raghukumar">C. Raghukumar</name>
+						<affiliation>National Institute of Oceanography (CSIR), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="B. N." last="Nath">B. N. Nath</name>
+						<affiliation>National Institute of Oceanography (CSIR), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. B." last="Valsangkar">A. B. Valsangkar</name>
+						<affiliation>National Institute of Oceanography (CSIR), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-01-21</date>
+					<date type="R">2009-09-07</date>
+					<date type="A">2009-09-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mineral composite assessment of Kelkit River Basin in Turkey by means of remote sensing</title>
+				<feature></feature>
+				<page>0701-0710</page>
+				<abstract>
+					<p>Utilizing remote sensing (RS) and geographic information systems (GIS) tools, mineral composite characteristics (ferrous minerals (FM), iron oxide (IO), and clay minerals (CM)) of the Kelkit River Basin (15913.07 $km^2$) in Turkey were investigated and mapped. Mineral composite (MC) index maps were produced from three LANDSAT-ETM+ satellite images taken in 2000. Resulting MC index maps were summarized in nine classes by using ‘natural breaks’ classification method in GIS. Employing bi-variety correlation analysis, relationships among index maps were investigated. According to the results, FM and IO index maps showed positive correlation, while CM index map is negatively correlated with FM and IO index maps. Negative correlations between iron and clay variables suggested that the dominant clay minerals of the study area might be smectite, illite, kaolinite, and chlorite, which have little or no iron content. Using field data for which their geographic coordinates had been determined by global positioning system (GPS), developed MC maps were verified, and found dependable for environmental and ecological modeling studies.</p>
+				</abstract>
+				<keywords>Remote sensing;image analysis;mineral composite;GIS;LANDSAT;mineralogy and petrology.</keywords>
+				<authors>
+					<author>
+						<name first="Hakan Mete" last="Dogan">Hakan Mete Dogan</name>
+						<affiliation>Faculty of Agriculture, Department of Soil Science, GIS&RS Unit, Gaziosmanpa¸sa University, Tasliciftlik 60240, Tokat/Turkey.</affiliation>
+						<email>hmdogan@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-02-26</date>
+					<date type="R">2009-07-24</date>
+					<date type="A">2009-08-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Monitoring and evaluation of seasonal snow cover in Kashmir valley using remote sensing, GIS and ancillary data</title>
+				<feature></feature>
+				<page>0711-0720</page>
+				<abstract>
+					<p>Seasonal snow cover is a vital natural resource in the Himalaya. Monitoring of the areal extent of seasonal snow cover is important for both climatological studies as well as hydrological applications. In the present paper, snow cover monitoring was carried out to evaluate the region-wise accumulation and ablation pattern of snow cover in Pir Panjal and Shamshawari ranges of Kashmir valley. The study was carried out for the winter period between November and April of 2004–05, 2005–06 and 2006–07, using multi-temporal WiFS sensor data of IRS-1C/1D satellites. The study shows reduction in the areal extent of seasonal snow cover and rising trend of maximum temperature in three winters for the entire Kashmir valley. This has been validated with 20 years (1988– 89 to 2007–08) climatic conditions prevailed in both ranges of Kashmir valley. Region-wise study shows the spatial and temporal variability in seasonal snow cover within Kashmir valley. Advance melting was observed in Banihal and Naugam/Tangdhar regions than Gurez and Machhal regions. Different geographical parameters of these regions were studied to evaluate the influence on snow cover and it was observed that altitude and position of region with respect to mountain range are the deciding factors for retaining the seasonal snow cover for longer duration. Such region-wise study of snow cover monitoring, can provide vital inputs for planning the hydropower projects, development in habitat areas, recreational and strategic planning in the region.</p>
+				</abstract>
+				<keywords>Snow cover monitoring;accumulation;ablation;WiFS;GIS.</keywords>
+				<authors>
+					<author>
+						<name first="H. S." last="Negi">H. S. Negi</name>
+						<affiliation>Snow and Avalanche Study Establishment, Him Parisar, Sector-37A, Chandigarh 160 036, India.</affiliation>
+						<email>negi_hs@yahoo.com</email>
+					</author>
+					<author>
+						<name first="N. K." last="Thakur">N. K. Thakur</name>
+						<affiliation>Snow and Avalanche Study Establishment, Him Parisar, Sector-37A, Chandigarh 160 036, India.</affiliation>
+					</author>
+					<author>
+						<name first="Rajeev" last="Kumar">Rajeev Kumar</name>
+						<affiliation>Snow and Avalanche Study Establishment, Him Parisar, Sector-37A, Chandigarh 160 036, India.</affiliation>
+					</author>
+					<author>
+						<name first="Manoj" last="Kumar">Manoj Kumar</name>
+						<affiliation>Snow and Avalanche Study Establishment, Him Parisar, Sector-37A, Chandigarh 160 036, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-12-18</date>
+					<date type="R">2009-08-27</date>
+					<date type="A">2009-09-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Characteristics of low latitude ionospheric E-region irregularities linked with daytime VHF scintillations measured from Varanasi</title>
+				<feature></feature>
+				<page>0721-0732</page>
+				<abstract>
+					<p>VHF amplitude scintillations recorded during the daytime period from January 1991 to December 1993, April 1998 to December 1999 and January 2008 to December 2008 at low latitude station Varanasi (geographic lat. = $25^\circ 15^\prime N$; long. = $82^\circ 59^\prime E$; geomagnetic lat. = $14^\circ 55^\prime N$, long. = $154^\circ E$, dip angle = $37.3^\circ $, sub-ionospheric dip = $34^\circ $) have been analyzed to study the behaviour of ionospheric E-region irregularities during the active solar and magnetic periods. The autocorrelation functions, power spectral densities, signal de-correlation times are computed to study the temporal features of ionospheric E-region irregularities linked with daytime scintillations. Derived spectral index ranges between −2 and −9. Assuming velocity of irregularities, the characteristic lengths of the E-region irregularities are estimated. We have estimated the minimum and maximum range of scale length of sporadic-E (\textit {E_s}) irregularities to be observed over Varanasi. These results are in close agreement with those reported from this latitude region.</p>
+				</abstract>
+				<keywords>Daytime scintillations;ionospheric E-region irregularities;ionospheric propagation;wave propagation.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Patel">K. Patel</name>
+						<affiliation>Atmospheric Research Laboratory, Department of Physics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Singh">A. K. Singh</name>
+						<affiliation>Atmospheric Research Laboratory, Department of Physics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email>abhay_s@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="R. P." last="Patel">R. P. Patel</name>
+						<affiliation>Department of Physics, M.M.H. P.G. College, Ghaziabad, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. P." last="Singh">R. P. Singh</name>
+						<affiliation>Atmospheric Research Laboratory, Department of Physics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<affiliation>Veer Kunwar Singh University, Ara, Bihar, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-06-05</date>
+					<date type="R">2009-09-15</date>
+					<date type="A">2009-09-16</date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="119">
+		<issue inum="01" month="02" year="2010">
+			<entry hassup="0">
+				<title>87Sr/86Sr anomalies in Late Cretaceous–Early Tertiary strata of the Cauvery basin, south India: Constraints on nature and rate of environmental changes across K–T boundary</title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
