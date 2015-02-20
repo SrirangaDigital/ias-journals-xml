@@ -24812,28 +24812,2402 @@
 					<date type="E">2013-12-09</date>
 				</dates>
 			</entry>
-			<entry hassup="0">%raghu, Volume 092 - 03, page 523.pdf
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
+			<entry hassup="1">
+				<title>Molecular analysis of intragenic recombination at the tryptophan synthetase locus in <i>Neurospora crassa</i></title>
+				<feature>Research Article</feature>
+				<page>0523-0528</page>
 				<abstract>
-					<p></p>
+					<p>Fifteen different classically generated and mapped mutations at the tryptophan synthetase locus in <i>Neurospora crassa</i> have been characterized to the level of the primary sequence of the gene. This sequence analysis has demonstrated that intragenic recombination is accurate to order mutations within one open reading frame. While classic genetic analysis correctly ordered the mutations, the position of mutations characterized by gene sequence analysis was more accurate. A leaky mutation was found to have a wild-type primary sequence. The presence of unique polymorphisms in the primary sequence of the <i>trp-3</i> gene from strain 861 confirms that it has a unique history relative to the other strains studied. Most strains that were previously shown to be immunologically nonreactive with antibody preparations raised against tryptophan synthetase protein were shown to have nonsense mutations. This work defines 14 alleles of the <i>N. crassa trp-3</i> gene.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>mutation;recombination;DNA sequence;primary metabolism;trp-3.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A." last="Wiest">A. Wiest</name>
+						<affiliation>Fungal Genetics Stock Center, University of Missouri, Kansas City, MO 64110, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Barchers">D. Barchers</name>
+						<affiliation>Fungal Genetics Stock Center, University of Missouri, Kansas City, MO 64110, USA</affiliation>
+						<affiliation>Truman High School, 3301 S. Noland Road, Independence, MO 64055, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Eaton">M. Eaton</name>
+						<affiliation>Fungal Genetics Stock Center, University of Missouri, Kansas City, MO 64110, USA</affiliation>
+						<affiliation>Blue Valley North High School, 12200 Lamar Avenue, Overland Park, KS 66209, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Henderson">R. Henderson</name>
+						<affiliation>Fungal Genetics Stock Center, University of Missouri, Kansas City, MO 64110, USA</affiliation>
+						<affiliation>Blue Springs North High School, 2000 NW Ashton Drive, Blue Springs, MO 64015, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Schnittker">R. Schnittker</name>
+						<affiliation>Fungal Genetics Stock Center, University of Missouri, Kansas City, MO 64110, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Mccluskey">K. Mccluskey</name>
+						<affiliation>Fungal Genetics Stock Center, University of Missouri, Kansas City, MO 64110, USA</affiliation>
+						<email>mccluskeyk@umkc.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-16</date>
+					<date type="R"></date>
+					<date type="A">2013-08-06</date>
+					<date type="E">2013-12-12</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>QTL mapping for combining ability in different population-based NCII designs: a simulation study</title>
+				<feature>Research Article</feature>
+				<page>0529-0543</page>
+				<abstract>
+					<p>The NCII design (North Carolina mating design II) has been widely applied in studies of combining ability and heterosis. The objective of our research was to estimate how different base populations, sample sizes, testcross numbers and heritability influence QTL analyses of combining ability and heterosis. A series of Monte Carlo simulation experiments with QTL mapping were then conducted for the base population performance, testcross population phenotypic values and the general combining ability (GCA), specific combining ability (SCA) and Hmp (midparental heterosis) datasets. The results indicated that:</p>
+					<ol type="roman">
+						<li>increasing the number of testers did not necessarily enhance the QTL detection power for GCA, but it was significantly related to the QTL effect.</li>
+						<li>The QTLs identified in the base population may be different from those from GCA dataset. Similar phenomena can be seen from QTL detected in SCA and Hmp datasets.</li>
+						<li>The QTL detection power for GCA ranked in the order of DH(RIL) based $\gt$ F$_{2}$ based $\gt$ BC based NCII design, when the heritability was low.</li>
+					</ol>
+					<p>The recombinant inbred lines (RILs) (or DHs) allows more recombination and offers higher mapping resolution than other populations. Further, their testcross progeny can be repeatedly generated and phenotyped. Thus, RIL based (or DH based) NCII design was highly recommend for combining ability QTL analysis. Our results expect to facilitate selecting elite parental lines with high combining ability and for geneticists to research the genetic basis of combining ability.</p>
+				</abstract>
+				<keywords>combining ability;NCII design;QTL analysis;digenic;multiple alleles.</keywords>
+				<authors>
+					<author>
+						<name first="Lanzhi" last="Li">Lanzhi Li</name>
+						<affiliation>Hunan Provincial Key Laboratory for Biology and Control of Plant Disease and Insect Pests, College of Bio-Safety Science and Technology, Hunan Agricultural University, 410128 Changsha, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Congwei" last="Sun">Congwei Sun</name>
+						<affiliation>Hunan Provincial Key Laboratory for Biology and Control of Plant Disease and Insect Pests, College of Bio-Safety Science and Technology, Hunan Agricultural University, 410128 Changsha, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuan" last="Chen">Yuan Chen</name>
+						<affiliation>Hunan Provincial Key Laboratory for Biology and Control of Plant Disease and Insect Pests, College of Bio-Safety Science and Technology, Hunan Agricultural University, 410128 Changsha, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhijun" last="Dai">Zhijun Dai</name>
+						<affiliation>Hunan Provincial Key Laboratory for Biology and Control of Plant Disease and Insect Pests, College of Bio-Safety Science and Technology, Hunan Agricultural University, 410128 Changsha, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhen" last="Qu">Zhen Qu</name>
+						<affiliation>State Key Laboratory of Hybrid Rice, College of Life Science, Wuhan University, 430072 Wuhan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xingfei" last="Zheng">Xingfei Zheng</name>
+						<affiliation>State Key Laboratory of Hybrid Rice, College of Life Science, Wuhan University, 430072 Wuhan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sibin" last="Yu">Sibin Yu</name>
+						<affiliation>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, 430070 Wuhan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tongmin" last="Mou">Tongmin Mou</name>
+						<affiliation>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, 430070 Wuhan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chenwu" last="Xu">Chenwu Xu</name>
+						<affiliation>Division of Biostatistics and Quantitative Genetics, College of Agricultural Science, Yangzhou University, 225009 Yangzhou, People’s Republic of China</affiliation>
+						<email>qtls@yzu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Zhongli" last="Hu">Xhongli Hu</name>
+						<affiliation>State Key Laboratory of Hybrid Rice, College of Life Science, Wuhan University, 430072 Wuhan, People’s Republic of China</affiliation>
+						<email>huzhongli@whu.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-08</date>
+					<date type="R">2013-07-22</date>
+					<date type="A">2013-08-06</date>
+					<date type="E">2013-12-13</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Assessment of genetic diversity in Indian rice germplasm (<i>Oryza sativa</i> L.): use of random versus trait-linked microsatellite markers</title>
+				<feature>Research Article</feature>
+				<page>0545-0557</page>
+				<abstract>
+					<p>Assessment of genetic diversity in a crop germplasm is a vital part of plant breeding. DNA markers such as microsatellite or simple sequence repeat markers have been widely used to estimate the genetic diversity in rice. The present study was carried out to decipher the pattern of genetic diversity in terms of both phenotypic and genotypic variability, and to assess the efficiency of random vis-à-vis QTL linked/gene based simple sequence repeat markers in diversity estimation. A set of 88 rice accessions that included landraces, farmer’s varieties and popular Basmati lines were evaluated for agronomic traits and molecular diversity. The random set of SSR markers included 50 diversity panel markers developed under IRRI’s Generation Challenge Programme (GCP) and the trait-linked/gene based markers comprised of 50 SSR markers reportedly linked to yield and related components. For agronomic traits, significant variability was observed, ranging between the maximum for grains/panicle and the minimum for panicle length. The molecular diversity based grouping indicated that varieties from a common centre were genetically similar, with few exceptions. The trait-linked markers gave an average genetic dissimilarity of 0.45 as against that of 0.37 by random markers, along with an average polymorphic information constant value of 0.48 and 0.41 respectively. The correlation between the kinship matrix generated by trait-linked markers and the phenotype based distance matrix (0.29) was higher than that of random markers (0.19). This establishes the robustness of trait-linked markers over random markers in estimating genetic diversity of rice germplasm.</p>
+				</abstract>
+				<keywords>germplasm;genetic diversity;microsatellite markers;principal component analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Sheel" last="Yadav"></name>
+						<affiliation>Division of Genetics, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<affiliation>Division of Genomic Resources, National Bureau of Plant Genetic Resources, New Delhi 110 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ashutosh" last="Singh">Ashutosh Singh</name>
+						<affiliation>Division of Genetics, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. R." last="Singh">M. R. Singh</name>
+						<affiliation>Post Graduate College, Ghazipur 233 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Nitika" last="Goel">Nitika Goel</name>
+						<affiliation>Division of Genetics, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. K." last="Vinod">K. K. Vinod</name>
+						<affiliation>Indian Agricultural Research Institute, Rice Breeding and Genetics Research Centre, Aduthurai 612 101, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Mohapatra">T. Mohapatra</name>
+						<affiliation>Central Rice Research Institute, Cuttack 753 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Singh">A. K. Singh</name>
+						<affiliation>Division of Genetics, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<email>aks_gene@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-08</date>
+					<date type="R">2013-08-08</date>
+					<date type="A">2013-08-19</date>
+					<date type="E">2013-12-11</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title><i>Neurospora crassa ncs-1, mid-1</i> and <i>nca-2</i> double-mutant phenotypes suggest diverse interaction among three Ca$^{2+}$-regulating gene products</title>
+				<feature>Research Note</feature>
+				<page>0559-0563</page>
+				<abstract />
+				<keywords>Ca$^{2+}$ signalling;circadian-regulated conidiation;neuronal calcium sensor-1;mechanosensitive channel MID-1;Ca$^{2+}$-ATPase NCA-2;ultraviolet survival.</keywords>
+				<authors>
+					<author>
+						<name first="Rekha" last="Deka">Rekha Deka</name>
+						<affiliation>Department of Biotechnology, Indian Institute of Technology Guwahati, Guwahati 781 039, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ranjan" last="Tamuli">Ranjan Tamuli</name>
+						<affiliation>Department of Biotechnology, Indian Institute of Technology Guwahati, Guwahati 781 039, India</affiliation>
+						<email>ranjantamuli@iitg.ernet.in;ranjan.tam@gmail.com.</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-20</date>
+					<date type="R">2013-05-12</date>
+					<date type="A">2013-05-13</date>
+					<date type="E">2013-10-10</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title><i>SCAP</i> gene polymorphisms decrease the risk of nonalcoholic fatty liver disease in females with metabolic syndrome</title>
+				<feature>Research Note</feature>
+				<page>0565-0570</page>
+				<abstract />
+				<keywords>genetic polymorphism;nonalcoholic fatty liver disease;metabolic syndrome;<i>SCAP</i>;<i>SREBF-1</i>;<i>SREBF-2.</i></keywords>
+				<authors>
+					<author>
+						<name first="Shanshan" last="Sun">Shanshan Sun</name>
+						<affiliation>Institute of Digestive Diseases, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Miao" last="Wang">Miao Wang</name>
+						<affiliation>Institute of Digestive Diseases, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<affiliation>Department of Internal Medicine of Traditional Chinese Medicine, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haiyan" last="Song">Haiyan Song</name>
+						<affiliation>Institute of Digestive Diseases, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tao" last="Wu">Tao Wu</name>
+						<affiliation>Institute of Digestive Diseases, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<affiliation>Center of Chinese Medicine Therapy and Systems Biology, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Huafeng" last="Wei">Huafeng Wei</name>
+						<affiliation>Institute of Digestive Diseases, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<affiliation>Department of Internal Medicine of Traditional Chinese Medicine, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Songhua" last="He">Songhua He</name>
+						<affiliation>Department of Internal Medicine of Traditional Chinese Medicine, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhaoguo" last="Ding">Zhaoguo Ding</name>
+						<affiliation>Department of Statistics, Uppsala University, Box 256 SE-751 05, Uppsala, Sweden</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Guang" last="Ji">Guang Ji</name>
+						<affiliation>Institute of Digestive Diseases, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, People’s Republic of China</affiliation>
+						<affiliation>E-institute of Shanghai Municipal Education Commission, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, People’s Republic of China</affiliation>
+						<email>jiliver@vip.sina.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-09-16</date>
+					<date type="R">2013-05-23</date>
+					<date type="A">2013-06-03</date>
+					<date type="E">2013-11-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>K121Q <i>ENPP1/PC-1</i> gene polymorphism is associated with insulin resistance in a north Indian population</title>
+				<feature>Research Note</feature>
+				<page>0571-0576</page>
+				<abstract />
+				<keywords>obesity;HOMA-IR;insulin;polymorphism.</keywords>
+				<authors>
+					<author>
+						<name first="Jai" last="Prakash">Jai Prakash</name>
+						<affiliation>Department of Physiology, King George’s Medical University, Lucknow 226 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Balraj" last="Mittal">Balraj Mittal</name>
+						<affiliation>Department of Genetics, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow 226 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shally" last="Awasthi">Shally Awasthi</name>
+						<affiliation>Department of Pediatrics, King George’s Medical University, Lucknow 226 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. G." last="Agarwal">C. G. Agarwal</name>
+						<affiliation>Department of Medicine, King George’s Medical University, Lucknow 226 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Neena" last="Srivastava">Neena Srivastava</name>
+						<affiliation>Department of Physiology, King George’s Medical University, Lucknow 226 003, India</affiliation>
+						<email>neenasrivastavakgmc@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-05-28</date>
+					<date type="R">2013-06-19</date>
+					<date type="A">2013-06-24</date>
+					<date type="E">2013-12-04</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Novel and known nephrin gene (<i>NPHS1</i>) mutations in two Greek cases with congenital nephrotic syndrome including a complex genotype</title>
+				<feature>Research Note</feature>
+				<page>0577-0581</page>
+				<abstract />
+				<keywords>congenital nephrotic syndrome;genetic disease;kidney;nephrin;nephrotic syndrome;<i>NPHS1.</i></keywords>
+				<authors>
+					<author>
+						<name first="Irene" last="Fylaktou"></name>
+						<affiliation>Medical Genetics, Athens University, “Aghia Sofia” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
+						<email>efylaktou@med.uoa.gr</email>
+					</author>
+					<author>
+						<name first="Spyridon" last="Megremis"></name>
+						<affiliation>Medical Genetics, Athens University, “Aghia Sofia” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Andromachi" last="Mitsioni">Andromachi Mitsioni</name>
+						<affiliation>Departement of Pediatric Nephrology, “P. and A. Kyriakou” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sofia" last="Kitsiou-Tzeli">Sofia Kitsiou-Tzeli</name>
+						<affiliation>Medical Genetics, Athens University, “Aghia Sofia” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Konstantina" last="Kosma">Konstantina Kosma</name>
+						<affiliation>Medical Genetics, Athens University, “Aghia Sofia” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Maria" last="Bitsori">Maria Bitsori</name>
+						<affiliation>Department of Paediatrics, University Hospital of Heraklion, P.O. Box 1352 Heraklion 71110, Greece</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Constantinos J." last="Stefanidis">Constantinos J. Stefanidis</name>
+						<affiliation>Departement of Pediatric Nephrology, “P. and A. Kyriakou” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Emmanuel" last="Kanavakis">Emmanuel Kanavakis</name>
+						<affiliation>Medical Genetics, Athens University, “Aghia Sofia” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Joanne Traeger" last="Synodinos">Joanne Traeger Synodinos</name>
+						<affiliation>Medical Genetics, Athens University, “Aghia Sofia” Children’s Hospital, Thivon and Levadeias, Ampelokipoi 11527, Athens, Greece</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2000-00-00</date>
+					<date type="M">2013-03-27</date>
+					<date type="R">2013-06-28</date>
+					<date type="A">2013-07-03</date>
+					<date type="E">2013-11-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Polymorphism of the simple sequence repeat (AAC)5 in the nucleolar chromosomes of Old Portuguese wheat cultivars</title>
+				<feature>Research Note</feature>
+				<page>0583-0586</page>
+				<abstract />
+				<keywords>fluorescence <i>in situ</i> hybridization;simple sequence repeats;<i>Triticum sp.</i></keywords>
+				<authors>
+					<author>
+						<name first="Ana" last="Carvalho">Ana Carvalho</name>
+						<affiliation>Institute of Biotechnology and Bioengineering (IBB), Centre of Genomics and Biotechnology (CGB), University of Tras-os-Montes and Alto Douro (UTAD), P.O. Box 1013, 5001-801 VilaReal, Portugal</affiliation>
+						<email>anacarvalho@mail.com</email>
+					</author>
+					<author>
+						<name first="Henrique" last="Guedes-Pinto">Henrique Guedes-Pinto</name>
+						<affiliation>Institute of Biotechnology and Bioengineering (IBB), Centre of Genomics and Biotechnology (CGB), University of Tras-os-Montes and Alto Douro (UTAD), P.O. Box 1013, 5001-801 VilaReal, Portugal</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="José" last="Lima-Brito">José Lima-Brito</name>
+						<affiliation>Institute of Biotechnology and Bioengineering (IBB), Centre of Genomics and Biotechnology (CGB), University of Tras-os-Montes and Alto Douro (UTAD), P.O. Box 1013, 5001-801 VilaReal, Portugal</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-23</date>
+					<date type="R">2013-07-03</date>
+					<date type="A">2013-07-08</date>
+					<date type="E">2013-12-04</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>An integrative bioinformatics pipeline for the genomewide identification of novel porcine microRNA genes</title>
+				<feature>Research Note</feature>
+				<page>0587-0593</page>
+				<abstract />
+				<keywords>integrated approach;homology search;<i>ab initio</i> identification;<i>Sus scrofa.</i></keywords>
+				<authors>
+					<author>
+						<name first="Wei" last="Fang">Wei Fang</name>
+						<affiliation>Center for Bioinformation, College of Life Science, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Na" last="Zhou">Na Zhou</name>
+						<affiliation>Center for Bioinformation, College of Life Science, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dengyun" last="Li">Dengyun Li</name>
+						<affiliation>Department of Preventive Veterinary Medicine, College of Veterinary Medicine, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhigang" last="Chen">Zhigang Chen</name>
+						<affiliation>Center for Bioinformation, College of Life Science, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pengfei" last="Jiang">Pengfei Jiang</name>
+						<affiliation>Department of Preventive Veterinary Medicine, College of Veterinary Medicine, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<affiliation>Institute of Veterinary Immunology, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Deli" last="Zhang">Deli Zhang</name>
+						<affiliation>Department of Preventive Veterinary Medicine, College of Veterinary Medicine, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<affiliation>Institute of Veterinary Immunology, Northwest A and F University, Yangling 712100, Shaanxi, People’s Republic of China</affiliation>
+						<email>zhangdeli@tsinghua.org.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-08</date>
+					<date type="R">2013-06-30</date>
+					<date type="A">2013-07-08</date>
+					<date type="E">2013-12-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Comparative FISH mapping of <i>BMPR1B, BMP15</i> and <i>GDF9</i> fecundity genes on cattle, river buffalo, sheep and goat chromosomes</title>
+				<feature>Research Note</feature>
+				<page>0595-0597</page>
+				<abstract />
+				<keywords>FISH mapping;fecundity genes;cattle;river buffalo;sheep;goat.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Farhadi">A. Farhadi</name>
+						<affiliation>Laboratory for Molecular Genetics and Animal Biotechnology, Department of Animal Science, Faculty of Animal Science and Fisheries, Sari Agricultural Sciences and Natural Resources University, P.O. Box 578, Sari, Iran</affiliation>
+						<affiliation>National Research Council (CNR), Institute for Animal Production System in Mediterranean Environment, Laboratory of Animal Cytogenetic and Gene Mapping, Via Argine. 1085, 80147 Napoli, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Genualdo">V. Genualdo</name>
+						<affiliation>National Research Council (CNR), Institute for Animal Production System in Mediterranean Environment, Laboratory of Animal Cytogenetic and Gene Mapping, Via Argine. 1085, 80147 Napoli, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Perucatti">A. Perucatti</name>
+						<affiliation>National Research Council (CNR), Institute for Animal Production System in Mediterranean Environment, Laboratory of Animal Cytogenetic and Gene Mapping, Via Argine. 1085, 80147 Napoli, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. H." last="Hafezian">S. H. Hafezian</name>
+						<affiliation>Laboratory for Molecular Genetics and Animal Biotechnology, Department of Animal Science, Faculty of Animal Science and Fisheries, Sari Agricultural Sciences and Natural Resources University, P.O. Box 578, Sari, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Rahimi-Mianji">G. Rahimi-Mianji</name>
+						<affiliation>Laboratory for Molecular Genetics and Animal Biotechnology, Department of Animal Science, Faculty of Animal Science and Fisheries, Sari Agricultural Sciences and Natural Resources University, P.O. Box 578, Sari, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L. De" last="Lorenzi">L. De Lorenzi</name>
+						<affiliation>Department of Agricultural and Environmental Sciences, University of Milan, Via Celoria 2, 20133 Milan, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Parma">P. Parma</name>
+						<affiliation>Department of Agricultural and Environmental Sciences, University of Milan, Via Celoria 2, 20133 Milan, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L." last="Iannuzzi">L. Iannuzzi</name>
+						<affiliation>National Research Council (CNR), Institute for Animal Production System in Mediterranean Environment, Laboratory of Animal Cytogenetic and Gene Mapping, Via Argine. 1085, 80147 Napoli, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Iannuzzi">A. Iannuzzi</name>
+						<affiliation>National Research Council (CNR), Institute for Animal Production System in Mediterranean Environment, Laboratory of Animal Cytogenetic and Gene Mapping, Via Argine. 1085, 80147 Napoli, Italy</affiliation>
+						<email>alessandra.iannuzzi@ispaam.cnr.it</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-19</date>
+					<date type="R">2013-07-18</date>
+					<date type="A">2013-07-24</date>
+					<date type="E">2013-12-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Discordant results between biochemical and molecular transthyretin assays: lessons learned from a unique testing algorithm at the Mayo Clinic</title>
+				<feature>Research Note</feature>
+				<page>0599-0604</page>
+				<abstract />
+				<keywords>transthyretin;discordant results;genetic testing;domino transplant;senile systemic amyloidosis.</keywords>
+				<authors>
+					<author>
+						<name first="Honey V." last="Reddi">Honey V. Reddi</name>
+						<affiliation>Molecular Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email>honeyreddi@gmail.com</email>
+					</author>
+					<author>
+						<name first="Brittany C." last="Thomas">Brittany C. Thomas</name>
+						<affiliation>Molecular Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kurt S." last="Willkomm">Kurt S. Willkomm</name>
+						<affiliation>Molecular Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Matthew J." last="Ferber">Matthew J. Ferber</name>
+						<affiliation>Molecular Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kandelaria M." last="Rumilla">Kandelaria M. Rumilla</name>
+						<affiliation>Molecular Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kimiyo M." last="Raymong">Kimiyo M. Raymond</name>
+						<affiliation>Biochemical Genetics Laboratories, Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="John F." last="O'Brien">John F. O'Brien</name>
+						<affiliation>Biochemical Genetics Laboratories, Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="W. Edward" last="Highsmith">W. Edward Highsmith</name>
+						<affiliation>Molecular Department of Laboratory Medicine and Pathology, Mayo Clinic School of Medicine, Rochester, MN 55905, USA</affiliation>
+						<email>highsmith.w@mayo.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-28</date>
+					<date type="R">2013-05-04</date>
+					<date type="A">2013-07-25</date>
+					<date type="E">2013-12-06</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Genomewide association study identifies no major founder variant in Caucasian moyamoya disease</title>
+				<feature>Research Note</feature>
+				<page>0605-0609</page>
+				<abstract />
+				<keywords>Caucasian;founder variant;genomewide association study;moyamoya disease;suggestive association.</keywords>
+				<authors>
+					<author>
+						<name first="Wanyang" last="Liu">Wanyang Liu</name>
+						<affiliation>Department of Health and Environmental Sciences, Kyoto University Graduate School of Medicine, Kyoto 606-8501, Japan</affiliation>
+						<affiliation>Department of Nutrition and Food Hygiene, School of Public Health, China Medical University, Shenyang 110001, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. T. M. L. D." last="Senevirathna">S. T. M. L. D. Senevirathna</name>
+						<affiliation>Department of Health and Environmental Sciences, Kyoto University Graduate School of Medicine, Kyoto 606-8501, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Toshiaki" last="Hitomi">Toshiaki Hitomi</name>
+						<affiliation>Department of Health and Environmental Sciences, Kyoto University Graduate School of Medicine, Kyoto 606-8501, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hatasu" last="Kobayashi">Hatasu Kobayashi</name>
+						<affiliation>Department of Health and Environmental Sciences, Kyoto University Graduate School of Medicine, Kyoto 606-8501, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Constantin" last="Roder">Constantin Roder</name>
+						<affiliation>Department of Neurosurgery, University of Tübingen, Tübingen D-72076, Germany</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Roman" last="Herzig">Roman Herzig</name>
+						<affiliation>Stroke Comprehensive Center, Department of Neurology, Faculty of Medicine and Dentistry, Palacký University and University Hospital, Olomouc 77900, Czech Republic</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Markus" last="Kraemer">Markus Kraemer</name>
+						<affiliation>Department of Neurology, Alfried-Krupp-von Bohlen und Halbach Hospital, Essen 45117, Germany</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Maurits H. J." last="Voormolen">Maurits H. J. Voormolen</name>
+						<affiliation>Department of Radiology, Antwerp University Hospital and University of Antwerp, Edegem BE-2000, Belgium</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pavlína" last="Cahová">Pavlína Cahová</name>
+						<affiliation>Department of Child Neurology, University Hospital, Brno 62500, Czech Republic</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Boris" last="Krischek">Boris Krischek</name>
+						<affiliation>Department of Neurosurgery, University of Tübingen, Tübingen D-72076, Germany</affiliation>
+						<email>krischek@gmail.com</email>
+					</author>
+					<author>
+						<name first="Akio" last="Koizumi">Akio Koizumi</name>
+						<affiliation>Department of Health and Environmental Sciences, Kyoto University Graduate School of Medicine, Kyoto 606-8501, Japan</affiliation>
+						<email>koizumi.akio.5v@kyoto-u.ac.jp</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-02-16</date>
+					<date type="R">2013-06-15</date>
+					<date type="A">2013-07-25</date>
+					<date type="E">2013-12-10</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>A study of a rare chromosomal disorder: mosaic 46,XX,del(18)(p11.2)/46,XX,i(18q)</title>
+				<feature>Research Note</feature>
+				<page>0611-0615</page>
+				<abstract />
+				<keywords>chromosome 18;mosaicism;monosomy;trisomy;isochromosome.</keywords>
+				<authors>
+					<author>
+						<name first="Dan" last="Peng">Dan Peng</name>
+						<affiliation>Genetic Counseling Unit, Department of Centralab, The First People’s Hospital of Changde City, Changde 415000, Hunan, People’s Republic of China</affiliation>
+						<email>dasan0988@126.com</email>
+					</author>
+					<author>
+						<name first="Pan-Pan" last="Long">Pan-Pan Long</name>
+						<affiliation>Genetic Counseling Unit, Department of Centralab, The First People’s Hospital of Changde City, Changde 415000, Hunan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bo" last="Wen">Bo Wen</name>
+						<affiliation>Genetic Counseling Unit, Department of Centralab, The First People’s Hospital of Changde City, Changde 415000, Hunan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rong-Hui" last="Yu">Rong-Hui Yu</name>
+						<affiliation>Genetic Counseling Unit, Department of Centralab, The First People’s Hospital of Changde City, Changde 415000, Hunan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-11</date>
+					<date type="R">2013-07-28</date>
+					<date type="A">2013-08-06</date>
+					<date type="E">2013-12-04</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Tumour necrosis factor alpha (<i>TNF</i>-$\alpha$) genetic polymorphisms and the risk of autoimmune liver disease: a meta-analysis</title>
+				<feature>Review Article</feature>
+				<page>0617-0628</page>
+				<abstract>
+					<p>Epidemiological studies have evaluated the association between tumour necrosis factor alpha (<i>TNF</i>-$\alpha$)-308G/A and (<i>TNF</i>-$\alpha$)-238G/A polymorphisms, and the risk of autoimmune liver disease (AILD), yet the results are conflicting. To derive a more precise estimation of the relationship, we performed this meta-analysis. A systematic review was conducted to identify all eligible studies of <i>TNF</i>-$\alpha$ polymorphisms and AILD risk. We used odds ratios (ORs) with 95\%\ confidence intervals (CIs) to assess the strength of the association between the two <i>TNF</i>-$\alpha$ polymorphisms and AILD risk. A total of 15 eligible studies were identified. Overall, positive associations of -308G/A polymorphism with AILD risk were found (A vs G allele: OR = 1.45, 95\%\,CI = 1.13–1.86; AA vs GG: OR = 2.74, 95\%\,CI = 1.51–4.96; GA vs GG: OR = 1.46, 95\%\,CI = 1.11–1.92; dominant model: OR = 1.57, 95\%\,CI = 1.18–2.10; recessive model: OR = 2.22, 95\%\,CI = 1.31–3.76). In subgroup analysis by ethnicity, a significantly higher risk was found in Caucasians. In subgroup analysis by AILD category, significant association was observed in autoimmune hepatitis and primary sclerosing cholangitis, especially in Caucasians. Patients carrying <i>TNF</i>-$\alpha$-238A allele had a slightly decreased risk of developing AILD (OR = 0.65, 95\%\,CI = 0.48–0.87). However, we found both <i>TNF</i>-$\alpha$ polymorphisms were not associated with primary biliary cirrhosis risk, even in subgroup analysis. Our metaanalysis suggests that the <i>TNF</i>-$\alpha$-308G/A and -238G/A polymorphisms may contribute to AILD susceptibility in Caucasians, especially for autoimmune hepatitis and primary sclerosing cholangitis. Nevertheless, we found both <i>TNF</i>-$\alpha$ polymorphisms were unlikely to be associated with the risk of primary biliary cirrhosis.</p>
+				</abstract>
+				<keywords>polymorphism;tumour necrosis factor alpha;autoimmune liver disease;meta-analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Shan" last="Li">Shan Li</name>
+						<affiliation>Department of Clinical Laboratory, First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi 530021, People’s Republic of China</affiliation>
+						<email>lis8858@126.com</email>
+					</author>
+					<author>
+						<name first="Xiamei" last="Huang">Xiamei Huang</name>
+						<affiliation>Department of Clinical Laboratory, First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi 530021, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Huizhi" last="Zhong">Huizhi Zhong</name>
+						<affiliation>Department of Clinical Laboratory, First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi 530021, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhiping" last="Chen">Zhiping Chen</name>
+						<affiliation>Department of Occupational Health and Environmental Health, School of Public Health at Guangxi Medical University, Nanning, Guangxi 530021, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qiliu" last="Peng">Qiliu Peng</name>
+						<affiliation>Department of Clinical Laboratory, First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi 530021, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yan" last="Deng">Yan Deng</name>
+						<affiliation>Department of Clinical Laboratory, First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi 530021, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xue" last="Qin">Xue Qin</name>
+						<affiliation>Department of Clinical Laboratory, First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi 530021, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-06</date>
+					<date type="R"></date>
+					<date type="A">2013-05-10</date>
+					<date type="E">2013-10-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Roles, and establishment, maintenance and erasing of the epigenetic cytosine methylation marks in plants</title>
+				<feature>Review Article</feature>
+				<page>0629-0666</page>
+				<abstract>
+					<p>Heritable information in plants consists of genomic information in DNA sequence and epigenetic information superimposed on DNA sequence. The latter is in the form of cytosine methylation at CG, CHG and CHH elements (where H = A, T or C) and a variety of histone modifications in nucleosomes. The epialleles arising from cytosine methylation marks on the nuclear genomic loci have better heritability than the epiallelic variation due to chromatin marks. Phenotypic variation is increased manifold by epiallele comprised methylomes. Plants (angiosperms) have highly conserved genetic mechanisms to establish, maintain or erase cytosine methylation from epialleles. The methylation marks in plants fluctuate according to the cell/tissue/organ in the vegetative and reproductive phases of plant life cycle. They also change according to environment. Epialleles arise by gain or loss of cytosine methylation marks on genes. The changes occur due to the imperfection of the processes that establish and maintain the marks and on account of spontaneous and stress imposed removal of marks. Cytosine methylation pattern acquired in response to abiotic or biotic stress is often inherited over one to several subsequent generations. Cytosine methylation marks affect physiological functions of plants via their effect(s) on gene expression levels. They also repress transposable elements that are abundantly present in plant genomes. The density of their distribution along chromosome lengths affects meiotic recombination rate, while their removal increases mutation rate. Transposon activation due to loss of methylation causes rearrangements such that new gene regulatory networks arise and genes for microRNAs may originate. Cytosine methylation dynamics contribute to evolutionary changes. This review presents and discusses the available evidence on origin, removal and roles of cytosine methylation and on related processes, such as RNA directed DNA methylation, imprinting, paramutation and transgenerational memory in plants.</p>
+				</abstract>
+				<keywords>cytosine methylation;DNA methylation mechanisms;DNA demethylation mechanisms;Darwinian-cum-Lamarckian evolution;epialleles;epigenetic modifications;genetic recombination;heritable induced defence;mutational hotspots;transgenerational inheritance.</keywords>
+				<authors>
+					<author>
+						<name first="Sushil" last="Kumar">Sushil Kumar</name>
+						<affiliation>National Institute of Plant Genome Research (NIPGR), Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<affiliation>SKA Institution for Research, Education and Development (SKAIRED), 4/11 Sarv Priya Vihar, New Delhi 110 016, India</affiliation>
+						<email>sushil2000_01@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Renu" last="Kumari">Renu Kumari</name>
+						<affiliation>National Institute of Plant Genome Research (NIPGR), Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<affiliation>Banasthali University, P. O. Banasthali Vidhyapeeth, Banasthali 304 022, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vishakha" last="Sharma">Vishakha Sharma</name>
+						<affiliation>National Institute of Plant Genome Research (NIPGR), Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<affiliation>SKA Institution for Research, Education and Development (SKAIRED), 4/11 Sarv Priya Vihar, New Delhi 110 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vinay" last="Sharma">Vinay Sharma</name>
+						<affiliation>Banasthali University, P. O. Banasthali Vidhyapeeth, Banasthali 304 022, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-10-25</date>
+					<date type="R">2013-04-07</date>
+					<date type="A">2013-05-14</date>
+					<date type="E">2013-10-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Role of Notch signalling pathway in cancer and its association with DNA methylation</title>
+				<feature>Review Article</feature>
+				<page>0667-0675</page>
+				<abstract>
+					<p>The Notch signalling pathway is an evolutionarily conserved cell signalling pathway involved in the development of organisms as diverse as humans and fruit flies. It plays a pivotal role in cell fate determination. Dysregulated Notch signalling is oncogenic, inhibits apoptosis and promotes cell survival. Abnormal Notch signalling is seen in many cancers like T-cell acute lymphoblastic leukaemia, acute myeloid leukaemia and cancers of the breast, cervix, colon, pancreas, skin and brain. Inhibition of Notch signalling leads to growth arrest and differentiation in those cells in which Notch pathway is activated and this represents a new target for cancer therapy. Cancer develops from genome defects, including both genetic and epigenetic alterations. Epigenetics deals with heritable changes in gene function that occur without a change in the DNA sequence. Among various epigenetic alterations such as acetylation, phosphorylation, ubiquitylation and sumoylation, promoter region methylation is considered as an important component in cancer development. Epigenetic alterations can be used as biomarkers in screening, detection, diagnosis, staging and risk stratification of various cancers. DNA methylation can be therapeutically reversed and demethylating drugs have proven to be promising in cancer treatment. This review focusses on the methylation status of genes in Notch signalling pathway from various cancers and how this epigenetic alteration can be used as a biomarker for cancer diagnosis and subsequent treatment.</p>
+				</abstract>
+				<keywords>Notch signalling pathway;cancer;epigenetics;methylation;biomarker.</keywords>
+				<authors>
+					<author>
+						<name first="Madhuri G. S." last="Aithal">Madhuri G. S. Aithal</name>
+						<affiliation>Department of Biotechnology, Dayananda Sagar College of Engineering, Bangalore 560 078, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Narayanappa" last="Rajeswari">Narayanappa Rajeswari</name>
+						<affiliation>Department of Biotechnology, Dayananda Sagar College of Engineering, Bangalore 560 078, India</affiliation>
+						<email>nraja7@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-05</date>
+					<date type="R">2013-06-14</date>
+					<date type="A">2013-06-17</date>
+					<date type="E">2013-11-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Human genetics of diabetic vascular complications</title>
+				<feature>Review Article</feature>
+				<page>0677-0694</page>
+				<abstract>
+					<p>Diabetic vascular complications (DVC) affecting several important organ systems of human body such as the cardiovascular system constitute a major public health problem. There is evidence demonstrating that genetic factors contribute to the risk of DVC genetic variants, structural variants, and epigenetic changes play important roles in the development of DVC. Genetic linkage studies have uncovered a number of genetic loci that may shape the risk of DVC. Genetic association studies have identified many common genetic variants for susceptibility to DVC. Structural variants such as copy number variation and interactions of gene $\times$ environment have also been detected by association analysis. Apart from the nuclear genome, mitochondrial DNA plays a critical role in regulation of development of DVC. Epigenetic studies have indicated epigenetic changes in chromatin affecting gene transcription in response to environmental stimuli, which provided a large body of evidence of regulating development of diabetes mellitus. Recently, a new window has opened on identifying rare and common genetic loci through next generation sequencing technologies. This review focusses on the current knowledge of the genetic and epigenetic basis of DVC. Ultimately, identification of genes or genetic loci, structural variants and epigenetic changes contributing to risk of or protection from DVC will help uncover the complex mechanism(s) underlying DVC, with crucial implications for the development of personalized medicine for diabetes mellitus and its complications.</p>
+				</abstract>
+				<keywords>diabetic vascular complications;genetics;epigenetic;mitochondrial DNA;interactions of gene $\times$ environment.</keywords>
+				<authors>
+					<author>
+						<name first="Zi-Hui" last="Tang">Zi-Hui Tang</name>
+						<affiliation>Department of Endocrinology and Metabolism, Fudan University Huashan Hospital, Shanghai 200040, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhou" last="Fang">Zhou Fang</name>
+						<affiliation>Department of Endocrinology and Metabolism, Fudan University Huashan Hospital, Shanghai 200040, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Linuo" last="Zhou">Linuo Zhou</name>
+						<affiliation>Department of Endocrinology and Metabolism, Fudan University Huashan Hospital, Shanghai 200040, People’s Republic of China</affiliation>
+						<email>dr.zhoulinuo@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-01-30</date>
+					<date type="R">2013-05-01</date>
+					<date type="A">2013-06-24</date>
+					<date type="E">2013-11-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Time for the zebrafish ENCODE</title>
+				<feature>Perspectives</feature>
+				<page>0695-0701</page>
+				<abstract />
+				<keywords>DNA elements;regulation;collaboration;zebrafish;genomics.</keywords>
+				<authors>
+					<author>
+						<name first="Sridhar" last="Sivasubbu">Sridhar Sivasubbu</name>
+						<affiliation>Genomics and Molecular Medicine, CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB), Mall Road, New Delhi 110 007, India</affiliation>
+						<email>s.sivasubbu@igib.res.in</email>
+					</author>
+					<author>
+						<name first="Chetana" last="Sachidanandan">Chetana Sachidanandan</name>
+						<affiliation>Chemical and Systems Biology, CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB), Mall Road, New Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vinod" last="Scaria">Vinod Scaria</name>
+						<affiliation>G. N. Ramachandran Knowledge Centre for Genome Informatics, CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB), Mall Road, New Delhi 110 007, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-23</date>
+					<date type="R">2013-07-22</date>
+					<date type="A">2013-07-25</date>
+					<date type="E">2013-12-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>To network or not to network, that is the question</title>
+				<feature>Viewpoint</feature>
+				<page>0703-0705</page>
+				<abstract />
+				<keywords>reticulate evolution;phylogenetic networks;split graphs;hybridization;polyploidy.</keywords>
+				<authors>
+					<author>
+						<name first="Péter" last="Poczai">Péter Poczai</name>
+						<affiliation>Department of Biological and Environmental Sciences, University of Helsinki, FIN-00014, PO Box 65, Helsinki, Finland</affiliation>
+						<email>peter.poczai@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-09</date>
+					<date type="R">2013-07-03</date>
+					<date type="A">2013-07-08</date>
+					<date type="E">2013-11-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Journal of Genetics Online Resources, September &#8212; December 2013</title>
+				<feature></feature>
+				<page>0707-0707</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0708-0722</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0723-0733</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="092">
+		<issue inum="01" month="04" year="2014">
+			<entry hassup="0">
+				<title>General editorial on publication ethics</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Association studies of dormancy and cooking quality traits in direct-seeded <i>indica</i> rice</title>
+				<feature>Research Article</feature>
+				<page>0003-0012</page>
+				<abstract>
+					<p>Association analysis was applied to a panel of accessions of Assam rice (<i>indica</i>) using 98 SSR markers for dormancy-related traits and cooking quality. Analysis of population structure revealed 10 subgroups in the population. The mean $r^2$ and $D'$ value for all intrachromosomal loci pairs was 0.24 and 0.51, respectively. Linkage disequilibrium between linked markers decreased with distance. Marker-trait associations were investigated using the unified mixed-model approach, considering both population structure (Q) and kinship (K). Genome-wide scanning, detected a total of seven significant marker-trait associations $(P \lt 0.01)$, with the $R^2$ values ranging from 12.0 to 18.0\%. The significant marker associations were for grain dormancy (RM27 on chromosome 2), $\alpha$-amylase activity (RM27 and RM234 on chromosomes 2 and 7, respectively), germination (RM27 and RM106 on chromosome 2), amylose (RM282 on chromosome 3) and grain length elongation ratio (RM142 on chromosome 4). The present study revealed the association of marker RM27 with traits like dormancy, α-amylase activity and germination. Simple correlation analysis of these traits revealed that these traits were positively correlated with each other and this marker may be useful for simultaneous improvement of these traits. The study indicates the presence of novel QTLs for a few traits under consideration. The study reveals association of traits like dormancy, $\alpha$-amylase activity, germination, amylose content, grain length elongation ratio with SSR markers indicating the feasibility of undertaking association analysis in conjunction with germplasm characterization.</p>
+				</abstract>
+				<keywords>Assam rice;$\alpha$-amylase;dormancy;cooking quality;association mapping.</keywords>
+				<authors>
+					<author>
+						<name first="Sunayana" last="Rathi">Sunayana Rathi</name>
+						<affiliation>Centre for Studies in Biotechnology, Dibrugarh University, Dibrugarh 786 004, India</affiliation>
+						<email>rathisunayana@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="K." last="Pathak">K. Pathak</name>
+						<affiliation>Department of Plant Breeding and Genetics, Assam Agricultural University, Jorhat 785 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. N. S." last="Yadav">R. N. S. Yadav</name>
+						<affiliation>Centre for Studies in Biotechnology, Dibrugarh University, Dibrugarh 786 004, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Kumar">B. Kumar</name>
+						<affiliation>Directorate of Maize Research, Indian Agricultural Research Institute, New Delhi 110 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. N." last="Sarma">R. N. Sarma</name>
+						<affiliation>Department of Plant Breeding and Genetics, Assam Agricultural University, Jorhat 785 013, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-01-04</date>
+					<date type="R">2013-08-14</date>
+					<date type="A">2013-08-26</date>
+					<date type="E">2014-03-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The first genetic linkage map of <i>Eucommia ulmoides</i></title>
+				<feature>Research Article</feature>
+				<page>0013-0020</page>
+				<abstract>
+					<p>In accordance with pseudo-testcross strategy, the first genetic linkage map of <i>Eucommia ulmoides</i> Oliv. was constructed by an F$_{1}$ population of 122 plants using amplified fragment length polymorphism (AFLP) markers. A total of 22 AFLP primer combinations generated 363 polymorphic markers. We selected 289 markers segregating as $1:1$ and used them for constructing the parent-specific linkage maps. Among the candidate markers, 127 markers were placed on the maternal map LF and 108 markers on the paternal map Q1. The maternal map LF spanned 1116.1 cM in 14 linkage groups with a mean map distance of 8.78 cM; the paternal map Q1 spanned 929.6 cM in 12 linkage groups with an average spacing of 8.61 cM. The estimated coverage of the genome through two methods was 78.5 and 73.9\%\ for LF, and 76.8 and 71.2\%\ for Q1, respectively. This map is the first linkage map of <i>E. ulmoides</i> and provides a basis for mapping quantitative-trait loci and breeding applications.</p>
+				</abstract>
+				<keywords>linkage map;AFLP;pseudo-testcross;<i>Eucommia ulmoides.</i></keywords>
+				<authors>
+					<author>
+						<name first="Dawei" last="Wang"></name>
+						<affiliation>College of Forestry, Northwest A &amp; F University, Yangling, Shaanxi 712100, People’s Republic of China</affiliation>
+						<affiliation>College of Forestry, Southwest Forestry University, Bailongsi, Kunming, Yunnan 650224, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yu" last="Li">Yu Li</name>
+						<affiliation>College of Forestry, Northwest A &amp; F University, Yangling, Shaanxi 712100, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Long" last="Li">Long Li</name>
+						<affiliation>College of Forestry, Northwest A &amp; F University, Yangling, Shaanxi 712100, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yongcheng" last="Wei">Yongcheng Wei</name>
+						<affiliation>College of Forestry, Northwest A &amp; F University, Yangling, Shaanxi 712100, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhouqi" last="Li">Zhouqi Li</name>
+						<affiliation>College of Forestry, Northwest A &amp; F University, Yangling, Shaanxi 712100, People’s Republic of China</affiliation>
+						<email>lizhouqi@nwsuaf.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-20</date>
+					<date type="R"></date>
+					<date type="A">2013-09-03</date>
+					<date type="E">2014-02-26</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Identification of a human <i>ABCC10</i> orthologue in <i>Catharanthus roseus</i> reveals a U12-type intron determinant for the N-terminal domain feature</title>
+				<feature>Research Article</feature>
+				<page>0021-0033</page>
+				<abstract>
+					<p>ABC (ATP-binding cassette) transporters are members of a large superfamily of proteins that utilize ATP hydrolysis to translocate a wide range of substrates across biological membranes. In general, members of C subfamily (ABCC) are structurally characterized by an additional (N-terminal) transmembrane domain (TMD0). Phylogenetic analysis of plant ABCCs separates their protein sequences into three distinct clusters: I and II are plant specific whereas cluster III contains both human and plant ABCCs. Screening of the Plant Medicinal Genomics Resource database allowed us to identify 16 ABCCs partial sequences in <i>Catharanthus roseus</i>; two of which belong to the unique <i>CrABCC1</i> transcript that we identified in cluster III. Genomic organization of <i>CrABCC1</i> TMD0 coding sequence displays an AT-AC U12-type intron that is conserved in higher plant orthologues. We showed that <i>CrABCC1</i>, like its human orthologue <i>ABCC10</i>, produces alternative transcripts that encode protein sequences with a truncated form of TMD0 without the first transmembrane span (TM1). Subcellular localization of CrABCC1 TMD0 variants using yellow fluorescent protein fusions reveals that the TM1 is required for a correct routing of the TMD0 to the tonoplast. Finally, the specific repartition of <i>CrABCC1</i> orthologues in some species suggests that this gene was lost several times during evolution and that its physiological function may, rely on a common feature of multicellular eukaryotes.</p>
+				</abstract>
+				<keywords>ABC transporter;orthologues;AT-AC U12-intron;MRP/ABCC topology;ABCC10;<i>Catharanthus roseus.</i></keywords>
+				<authors>
+					<author>
+						<name first="Taissir" last="El-Guizani">Taissir El-Guizani</name>
+						<affiliation>EA2106, Biomolécules et Biotechnologies Végétales, Université François Rabelais de Tours, UFR Sciences et Techniques, Parc Grandmont 31, Avenue Monge, 37200 Tours, France</affiliation>
+						<affiliation>Laboratoire de Biochimie, Département de Biologia, Faculté des Sciences de Tunis, Université Tunis El-Manar, 2092 Tunis, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Clotilde" last="Guibert">Clotilde Guibert</name>
+						<affiliation>EA2106, Biomolécules et Biotechnologies Végétales, Université François Rabelais de Tours, UFR Sciences et Techniques, Parc Grandmont 31, Avenue Monge, 37200 Tours, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Saïda" last="Triki">Saïda Triki</name>
+						<affiliation>Laboratoire de Biochimie, Département de Biologia, Faculté des Sciences de Tunis, Université Tunis El-Manar, 2092 Tunis, Tunisia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Benoit" last="St-Pierre">Benoit St-Pierre</name>
+						<affiliation>EA2106, Biomolécules et Biotechnologies Végétales, Université François Rabelais de Tours, UFR Sciences et Techniques, Parc Grandmont 31, Avenue Monge, 37200 Tours, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Eric" last="Ducos">Eric Ducos</name>
+						<affiliation>EA2106, Biomolécules et Biotechnologies Végétales, Université François Rabelais de Tours, UFR Sciences et Techniques, Parc Grandmont 31, Avenue Monge, 37200 Tours, France</affiliation>
+						<email>eric.ducos@univ-tours.fr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-19</date>
+					<date type="R">2013-07-30</date>
+					<date type="A">2013-09-10</date>
+					<date type="E">2014-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>The $\gamma$-gliadin-like $\gamma$-prolamin genes in the tribe Triticeae</title>
+				<feature>Research Article</feature>
+				<page>0035-0041</page>
+				<abstract>
+					<p>The $\gamma$-prolamins are important components of seed storage proteins in wheat and other Triticeae species. Here, the $\gamma$-prolamin genes from the diploid Triticeae species were systemically characterized. Most of the $\gamma$-prolamins (except 75 K $\gamma$-secalins) characterized were defined as $\gamma$-gliadin-like $\gamma$-prolamins, since they shared same characteristic model structure with $\gamma$-gliadins. Over one-third of these putatively functional $\gamma$-prolamin peptides contained different number of cysteine residues as compared to the eight residues present in $\gamma$-gliadins. Sequence polymorphism and linkage disequilibrium analyses showed the conservation of $\gamma$-prolamin genes in Triticeae species under evolutionary selection. Phylogenetic analyses indicated that these $\gamma$-prolamin genes can not be clearly separated according to their genomic origins, reflecting the conservation of $\gamma$-gliadin-like $\gamma$-prolamin genes after the divergence of Triticeae species. A screening of coeliac disease (CD) toxic epitopes shows that the $\gamma$-prolamins from some other genomes contain much fewer epitopes than those from the A, S (B) and D genomes of wheat. These findings contribute to better understanding of $\gamma$-prolamin family in Triticeae and build a ground for breeding less CD-toxic wheat cultivars.</p>
+				</abstract>
+				<keywords>gluten;cysteine;coeliac disease;evolution;$\gamma$-prolamin;Triticeae.</keywords>
+				<authors>
+					<author>
+						<name first="Peng-Fei" last="Qi">Peng-Fei Qi</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email>pengfeiqi@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Cheng-Xing" last="Le">Cheng-Xing Le</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhao" last="Wang">Zhao Wang</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yu-Bin" last="Liu">Yu-Bin Liu</name>
+						<affiliation>Agricultural Science Research Institute, Xichang, Sichuan 615000, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qing" last="Chen">Qing Chen</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhen-Zhen" last="Wei">Zhen-Zhen Wei</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bin-Jie" last="Xu">Bin-Jie Xu</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zheng-Yuan" last="Wei">Zheng-Yuan Wei</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shou-Fen" last="Dai">Shou-Fen Dai</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yu-Ming" last="Wei">Yu-Ming Wei</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="You-Liang" last="Zheng">You-Liang Zheng</name>
+						<affiliation>Triticeae Research Institute, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<affiliation>Ministry of Education Key Laboratory for Crop Genetic Resources and Improvement in Southwest China, Sichuan Agricultural University, Wenjiang, Chengdu, Sichuan 611130, People’s Republic of China</affiliation>
+						<email>ylzheng@sicau.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-20</date>
+					<date type="R">2013-09-11</date>
+					<date type="A">2013-09-19</date>
+					<date type="E">2014-04-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Identification of photoperiod-regulated gene in soybean and functional analysis in <i>Nicotiana benthamiana</i></title>
+				<feature>Research Article</feature>
+				<page>0043-0051</page>
+				<abstract>
+					<p>Soybean (<i>Glycine max</i>) is a short-day crop and the photoperiod is a crucial factor regulating its flowering time. To investigate the molecular mechanism controlling the flowering time by photoperiod in soybean, cDNA-amplified fragment length polymorphism (cDNA-AFLP) was used to identify photoperiod-regulated genes in leaves of soybean growing under short-day length, neutral photoperiod and long-day length. A total of 36 transcript-derived fragments (TDFs) were identified to be regulated by photoperiod. Among them, 26 TDFs were homologues of genes with known function. These genes are involved in secondary metabolism, cellular metabolism, cell wall components metabolism, ion transport and hormone signalling. Silencing of the homologue genes in <i>Nicotiana benthamiana</i> for 14 TDFs was conducted by virus-induced gene silencing. The flowering time was delayed by silencing of the genes encoding rhodanese and 40S ribosomal protein S4 (RPS4). The results indicated that rhodanese and RPS4 probably play important roles in regulating flowering time.</p>
+				</abstract>
+				<keywords>cDNA-AFLP;flowering time;photoperiod;soybean;virus-induced gene silence (VIGS);<i>Nicotiana benthamiana.</i></keywords>
+				<authors>
+					<author>
+						<name first="Sha" last="Ai-Hua">Sha Ai-Hua</name>
+						<affiliation>Oil Crops Research Institute of the Chinese Academy of Agricultural Sciences, Wuhan 430062, People’s Republic of China</affiliation>
+						<affiliation>Key Laboratory of Oil Crop Biology of the Ministry of Agriculture, Wuhan 430062, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chen" last="Yin-Hua">Chen Yin-Hua</name>
+						<affiliation>Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresource, Hainan University, Haikou 570228, People’s Republic of China</affiliation>
+						<email>yhchen@hainu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Shan" last="Zhi-Hui">Shan Zhi-Hui</name>
+						<affiliation>Oil Crops Research Institute of the Chinese Academy of Agricultural Sciences, Wuhan 430062, People’s Republic of China</affiliation>
+						<affiliation>Key Laboratory of Oil Crop Biology of the Ministry of Agriculture, Wuhan 430062, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhang" last="Xiao-Juan">Zhang Xiao-Juan</name>
+						<affiliation>Oil Crops Research Institute of the Chinese Academy of Agricultural Sciences, Wuhan 430062, People’s Republic of China</affiliation>
+						<affiliation>Key Laboratory of Oil Crop Biology of the Ministry of Agriculture, Wuhan 430062, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wu" last="Xue-Jun">Wu Xue-Jun</name>
+						<affiliation>Oil Crops Research Institute of the Chinese Academy of Agricultural Sciences, Wuhan 430062, People’s Republic of China</affiliation>
+						<affiliation>Key Laboratory of Oil Crop Biology of the Ministry of Agriculture, Wuhan 430062, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qiu" last="De-Zheng">Qiu De-Zheng</name>
+						<affiliation>Oil Crops Research Institute of the Chinese Academy of Agricultural Sciences, Wuhan 430062, People’s Republic of China</affiliation>
+						<affiliation>Key Laboratory of Oil Crop Biology of the Ministry of Agriculture, Wuhan 430062, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhou" last="Xin-An">Zhou Xin-An</name>
+						<affiliation>Oil Crops Research Institute of the Chinese Academy of Agricultural Sciences, Wuhan 430062, People’s Republic of China</affiliation>
+						<affiliation>Key Laboratory of Oil Crop Biology of the Ministry of Agriculture, Wuhan 430062, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-28</date>
+					<date type="R">2013-09-22</date>
+					<date type="A">2013-10-01</date>
+					<date type="E">2014-04-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Molecular characterization and differential expression of two duplicated odorant receptor genes, <i>AcerOr1</i> and <i>AcerOr3</i>, in <i>Apis cerana cerana</i></title>
+				<feature>Research Article</feature>
+				<page>0053-0061</page>
+				<abstract>
+					<p>Insects use olfaction to recognize a wide range of volatile cues, to locate food sources, mates, hosts and oviposition sites. These chemical volatiles are perceived by odorant receptors (ORs) expressed on the dendritic membrane of olfactory neurons, most of which are housed within the chemosensilla of antennae. Most insect ORs are tandemly arrayed on chromosomes and some of them are formed by gene duplication. Here, we identified a pair of duplicated <i>Or</i> genes, <i>AcerOr1</i> and <i>AcerOr3</i>, from the antennae of the Asian honeybee, <i>Apis cerana cerana</i>, and reported their molecular characterization and temporal expression profiles. The results showed that these two genes shared high similarity both in sequence and the gene structure. Quantitative real-time PCR analysis of temporal expression pattern indicated that in drones the expression pattern of these two genes were very similar. The transcripts expressed weakly in larvae and pupae, then increased gradually in adults. In workers, the expression level of <i>AcerOr1</i> changed more drastically and expressed higher than that of <i>AcerOr3</i>. However, both reached their highest expression level in one-day-old adults. In addition, the expression profiles between different sexes revealed that <i>AcerOr3</i> appear to be expressed biased in male antennae. These results suggest that AcerOr1 may perceive odours of floral scents, while <i>AcerOr3</i> may detect odours critical to male behaviour, such as the queen substance cues.</p>
+				</abstract>
+				<keywords>odorant receptor;duplicated genes;sequence;<i>Apis cerana cerana.</i></keywords>
+				<authors>
+					<author>
+						<name first="Huiting" last="Zhao">Huiting Zhao</name>
+						<affiliation>College of Animal Science and Technology, Shanxi Agricultural University, Taigu Shanxi 030801, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pengfei" last="Gao">Pengfei Gao</name>
+						<affiliation>College of Animal Science and Technology, Shanxi Agricultural University, Taigu Shanxi 030801, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haiyan" last="Du">Haiyan Du</name>
+						<affiliation>College of Animal Science and Technology, Shanxi Agricultural University, Taigu Shanxi 030801, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Weihua" last="Ma">Weihua Ma</name>
+						<affiliation>College of Animal Science and Technology, Shanxi Agricultural University, Taigu Shanxi 030801, People’s Republic of China</affiliation>
+						<affiliation>Institute of Horticulture, Shanxi Academy of Agricultural Science, Taiyuan Shanxi 030031, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Songhao" last="Tian">Songhao Tian</name>
+						<affiliation>College of Animal Science and Technology, Shanxi Agricultural University, Taigu Shanxi 030801, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yusuo" last="Jiang">Yusuo Jiang</name>
+						<affiliation>College of Animal Science and Technology, Shanxi Agricultural University, Taigu Shanxi 030801, People’s Republic of China</affiliation>
+						<email>jiangys-001@163.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-25</date>
+					<date type="R">2013-09-25</date>
+					<date type="A">2013-10-01</date>
+					<date type="E">2014-03-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamic QTL and epistasis analysis on seedling root traits in upland cotton</title>
+				<feature>Research Article</feature>
+				<page>0063-0078</page>
+				<abstract>
+					<p>Roots are involved in acquisition of water and nutrients, as well as in providing structural support to plant. The root system provides a dynamic model for developmental analysis. Here, we investigated quantitative trait loci (QTL), dynamic conditional QTL and epistatic interactions for seedling root traits using an upland cotton F$_{2}$ population and a constructed genetic map. Totally, 37 QTLs for root traits, 35 dynamic conditional QTLs based on the net increased amount of root traits (root tips, forks, length, surface area and volume)</p>
+					<ol type="roman">
+						<li>after transplanting 10 days compared to 5 days, and</li>
+						<li>after transplanting 15 days to 10 days were detected. Obvious dynamic characteristic of QTL and dynamic conditional QTL existed at different developmental stages of root because QTL and dynamic conditional QTL had not been detected simultaneously.</li>
+					</ol>
+					<p>We further confirmed that additive and dominance effects of QTL <i>qRSA-chr1-1</i> in interval time 5 to 10 DAT (days after transplant) offset the effects in 10 to 15 DAT. Lots of two-locus interactions for root traits were identified unconditionally or dynamically, and a few epistatic interactions were only detected simultaneously in interval time of 5–10 DAT and 10–15 DAT, suggesting different interactive genetic mechanisms on root development at different stages. Dynamic conditional QTL and epistasis effects provide new attempts to understand the dynamics of roots and provide clues for root architecture selection in upland cotton.</p>
+				</abstract>
+				<keywords>root development;QTLs;upland cotton.</keywords>
+				<authors>
+					<author>
+						<name first="Qingzhi" last="Liang">Qingzhi Liang</name>
+						<affiliation>College of Agronomy and Biotechnology, Key Laboratory of Crop Heterosis and Utilization of Ministry of Education, Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing 100193, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pengbo" last="Li">Pengbo Li</name>
+						<affiliation>College of Agronomy and Biotechnology, Key Laboratory of Crop Heterosis and Utilization of Ministry of Education, Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing 100193, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Cheng" last="Hu">Cheng Hu</name>
+						<affiliation>College of Agronomy and Biotechnology, Key Laboratory of Crop Heterosis and Utilization of Ministry of Education, Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing 100193, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hua" last="Hua">Hua Hua</name>
+						<affiliation>College of Agronomy and Biotechnology, Key Laboratory of Crop Heterosis and Utilization of Ministry of Education, Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing 100193, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhaohu" last="Li">Zhaohu Li</name>
+						<affiliation>College of Agronomy and Biotechnology, Key Laboratory of Crop Heterosis and Utilization of Ministry of Education, Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing 100193, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yihua" last="Rong">Yihua Rong</name>
+						<affiliation>Xiangyang Academy of Agricultural Sciences, Xiangyang, Hubei 441057, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kunbo" last="Wang">Kunbo Wang</name>
+						<affiliation>Cotton Research Institute, Chinese Academy of Agricultural Science, Anyang, Henan 455112, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jinping" last="Hua">Jinping Hua</name>
+						<affiliation>College of Agronomy and Biotechnology, Key Laboratory of Crop Heterosis and Utilization of Ministry of Education, Beijing Key Laboratory of Crop Genetic Improvement, China Agricultural University, Beijing 100193, People’s Republic of China</affiliation>
+						<email>jinping_hua@cau.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-04</date>
+					<date type="R">2013-08-14</date>
+					<date type="A">2013-10-07</date>
+					<date type="E">2014-04-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genomewide analysis of LATERAL ORGAN BOUNDARIES Domain gene family in <i>Zea mays</i></title>
+				<feature>Research Article</feature>
+				<page>0079-0091</page>
+				<abstract>
+					<p>The investigation of transcription factor (TF) families is a major focus of postgenomic research. The plant-specific ASYMMETRIC LEAVES2-LIKE (ASL) / LATERAL ORGAN BOUNDARIES Domain (LBD) proteins constitute a major zincfinger-like-domain transcription factor family, and regulate diverse biological processes in plants. However, little is known about LBD genes in maize (<i>Zea mays</i>). In this study, a total of 44 LBD genes were identified in maize genome and were phylogenetically clustered into two groups (I and II), together with LBDs from <i>Arabidopsis</i>. The predicted maize <i>LBD</i>s were distributed across all the 10 chromosomes with different densities. In addition, the gene structures of maize <i>LBD</i>s were analysed. The expression profiles of the maize <i>LBD</i> genes under normal growth conditions were analysed by microarray data and qRT-PCR. The results indicated that <i>LBD</i>s might be involved in various aspects of physiological and developmental processes in maize. To our knowledge, this is the first report of a genomewide analysis of the maize <i>LBD</i> gene family, which would provide valuable information for understanding the classification and putative functions of the gene family.</p>
+				</abstract>
+				<keywords>genomewide analysis;LBD;LOB;gene family;<i>Zea mays</i></keywords>
+				<authors>
+					<author>
+						<name first="Yue-Min" last="Zhang">Yue-Min Zhang</name>
+						<affiliation>State Key Laboratory of Crop Biology, Shandong Agricultural University, Taian, Shandong 271018, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shi-Zhong" last="Zhang">Shi-Zhong Zhang</name>
+						<affiliation>State Key Laboratory of Crop Biology, Shandong Agricultural University, Taian, Shandong 271018, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Cheng-Chao" last="Zheng">Cheng-Chao Zheng</name>
+						<affiliation>State Key Laboratory of Crop Biology, Shandong Agricultural University, Taian, Shandong 271018, People’s Republic of China</affiliation>
+						<email>cczheng@sdau.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-01</date>
+					<date type="R">2013-10-10</date>
+					<date type="A">2013-10-30</date>
+					<date type="E">2014-04-23</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Genomewide survey and characterization of metacaspase gene family in rice (<i>Oryza sativa</i>)</title>
+				<feature>Research Article</feature>
+				<page>0093-0102</page>
+				<abstract>
+					<p>Metacaspases (MCs), which are cysteine-dependent proteases found in plants, fungi, and protozoa, may be involved in programmed cell death processes, being distant relatives of metazoan caspases. In this study, we analysed the structures, phylogenetic relationship, genome localizations, expression patterns and domestic selections of eight <i>MC</i> genes identified in rice (<i>OsMC</i>). Alignment analysis of the corresponding protein sequences suggested OsMC proteins can be classified into two sub-types. The expression profiles of eight <i>OsMC</i> genes were analysed in 27 tissues covering the whole life cycle of rice. There are four <i>OsMC</i> genes uniquely expressed in mature tissues, indicating that these genes might play certain roles in senescence. Under abiotic and biotic stresses, four <i>OsMC</i> genes were expressed with treatments of one or more of <i>Magnaporthe oryzae</i> (<i>M. oryzae</i>) infected, pest damaged, cold stress and drought stress, indicating they might be involved in plant defense. In addition, gene trees and genetic diversity $(\pi)$ were performed to measure whether candidate genes were selected during rice domestication. The results suggested that all the type I genes could not be domestication genes. However, two of five type II <i>OsMC</i> genes showed strong evidence for selective sweep, suggesting that these genes might be involved in cultivated rice domestication. These results provide a foundation for future functional genomic studies of this family in rice.</p>
+				</abstract>
+				<keywords>metacaspases;<i>OsMC</i> gene family;expression profiles;domestication;rice;<i>Oryza sativa.</i></keywords>
+				<authors>
+					<author>
+						<name first="Likai" last="Wang">Likai Wang</name>
+						<affiliation>National Key Laboratory of Crop Genetic Improvement, National Centre of Plant Gene Research (Wuhan), Huazhong Agricultural University, 430070 Wuhan, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hua" last="Zhang">Hua Zhang</name>
+						<affiliation>National Key Laboratory of Crop Genetic Improvement, National Centre of Plant Gene Research (Wuhan), Huazhong Agricultural University, 430070 Wuhan, People’s Republic of China</affiliation>
+						<email>huazhang1206@163.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-06</date>
+					<date type="R">2013-10-04</date>
+					<date type="A">2013-11-06</date>
+					<date type="E">2014-04-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of body-size variation on flight-related traits in latitudinal populations of <i>Drosophila melanogaster</i></title>
+				<feature>Research Article</feature>
+				<page>0103-0112</page>
+				<abstract>
+					<p>In the present study, we tested the hypothesis whether flight-related traits such as wing area, flight-muscle ratio, wing loading and dispersal yield evidence of geographical variation in nine wild-collected as well as laboratory-reared (at 21$^{\circ}$C) latitudinal populations of <i>Drosophila melanogaster</i> from the Indian subcontinent. We observed positive clinal variation in the wing–thorax ratio, wing aspect ratio and wing area, along a latitudinal gradient for both the sexes. In contrast, geographical changes in three parameters of flight ability, i.e. flight-muscle ratio, wing loading and dispersal, showed negative correlation with latitude. On the basis of isofemale line variability, we observed positive correlation of wing loading with flight-muscle ratio as well as dispersal behaviour in both the sexes. We also found positive correlation between duration of development and wing area. Interestingly, southern populations of <i>D. melanogaster</i> from warm and humid habitats exhibited higher flight-muscle ratio as well as the higher wing loading than northern populations which occur in cooler and drier climatic conditions. Laboratory tests for dispersal-related walking behaviour showed significantly higher values for southern populations compared with northern populations of <i>D. melanogaster</i>. Multiple regression analysis of geographical changes in flight-muscle ratio, wing loading as well as walking behaviour as a function of average temperature and relative humidity of the origin of populations in wild-collected flies have suggested adaptive changes in flight-related traits in response to steeper gradients of climatic factors in the Indian subcontinent. Finally, adaptive latitudinal variations in flight-related traits in <i>D. melanogaster</i> are consistent with results of other studies from different continents despite differences due to specific climatic conditions in the Indian subcontinent.</p>
+				</abstract>
+				<keywords>wing area;flight-muscle ratio;wing loading;dispersal;walking behaviour;duration of development;flight adaptation.</keywords>
+				<authors>
+					<author>
+						<name first="Veer" last="Bhan">Veer Bhan</name>
+						<affiliation>Department of Biotechnology, University Institute of Engineering and Technology, Maharashi Dayanand University, Rohtak 124 001, India</affiliation>
+						<email>veerbhan79@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Ravi" last="Parkash">Ravi Parkash</name>
+						<affiliation>Department of Genetics, Maharashi Dayanand University, Rohtak 124 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dau Dayal" last="Aggarwal">Dau Dayal Aggarwal</name>
+						<affiliation>Department of Genetics, Maharashi Dayanand University, Rohtak 124 001, India</affiliation>
+						<affiliation>Institute of Evolution, Department of Environmental and Evolutionary Biology, University of Haifa, Haifa 3498838, Israel</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-17</date>
+					<date type="R">2013-10-16</date>
+					<date type="A">2013-11-06</date>
+					<date type="E">2014-04-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Study of inheritance of feeding potential in natural populations of predatory coccinellid <i>Cryptolaemus montrouzieri</i> Mulsant using isofemale strains</title>
+				<feature>Research Article</feature>
+				<page>0113-0122</page>
+				<abstract>
+					<p>The ability to feed on the prey is of great concern for the predatory insects, especially with regard to predatory coccinellid, <i>Cryptolaemus montrouzieri</i> Mulsant, which is mass reared and released into the field in large numbers to control the target pests. The variability associated with feeding potential is partly influenced by the genetic background of the insects and partly due to the environment, but the genetic basis of this trait is not yet fully understood in <i>C. montrouzieri</i>. The aim of this study was to identify the genetic basis of variation and heritability of this quantitative trait in natural populations of <i>C. montrouzieri</i> through isofemale heritability and parent–offspring regression. The regression analyses indicated that there was a significant linear relationship between progeny and their mothers for feeding potential.</p>
+				</abstract>
+				<keywords>feeding potential;heritability;isofemale lines;predatory coccinellid;quantitative trait;<i>Cryptolaemus montrouzieri.</i></keywords>
+				<authors>
+					<author>
+						<name first="P. D. Kamala" last="Jayanthi">P. D. Kamala Jayanthi</name>
+						<affiliation>Department of Entomology and Nematology, Indian Institute of Horticultural Research, Hessaraghatta, Bangalore 560 089, India</affiliation>
+						<email>jaiinsect@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="P." last="Sangeetha">P. Sangeetha</name>
+						<affiliation>Department of Entomology and Nematology, Indian Institute of Horticultural Research, Hessaraghatta, Bangalore 560 089, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Abraham" last="Verghese">Abraham Verghese</name>
+						<affiliation>Department of Entomology and Nematology, Indian Institute of Horticultural Research, Hessaraghatta, Bangalore 560 089, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-07-30</date>
+					<date type="R">2013-05-08</date>
+					<date type="A">2013-11-06</date>
+					<date type="E">2014-04-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A unifying study of phenotypic and molecular genetic variability in natural populations of <i>Anadenanthera colubrina</i> var. <i>cebil</i> from Yungas and Paranaense biogeographic provinces in Argentina</title>
+				<feature>Research Article</feature>
+				<page>0123-0132</page>
+				<abstract>
+					<p><i>Anadenanthera</i> colubrina var. <i>cebil</i> is a discontinuously distributed native tree species in South American subtropical forests. Thirteen quantitative traits and eight nuclear microsatellite loci were examined in individuals from two biogeographic provinces of Argentina to determine the number and composition of genetically distinguishable groups of individuals and explore possible spatial patterns of the phenotypic and genetic variability. Means of reproductive traits were higher in the Yungas than in the Paranaense biogeographic province, whereas five out of eight nonreproductive quantitative traits showed higher mean values in the latter. Variance coefficients were moderate, and there were significant differences between and within provinces. Three clusters were defined based on spatial model for cluster membership for quantitative traits. One cluster grouped the individuals from the Paranaense biogeographic province whereas the individuals from the Yungas biogeographic province grouped regarding its population of origin. Parameters of molecular genetic variability showed higher values in the Yungas than in the Paranaense biogeographic province. Observed heterozygosity was lower than expected heterozygosity in both biogeographic provinces, indicating an excess of homozygosity. The homozygosity test by Watterson and the exact test by Slatkin suggested diversifying selection for locus <i>Ac41.1</i>. Bayesian clustering spatial model for microsatellites loci data were performed for both all loci and for all loci excluding locus <i>Ac41.1</i>. In both analyses two clusters were inferred. Analysis of molecular variance revealed similar results for all genotypes and for all genotypes defined excluding locus <i>Ac41.1</i>. Most of the total variance is attributable to genetic variation within clusters. The presence of homogeneous clusters was detected for both the phenotypic and molecular genetic variability. Two Bayesian clustering analyses were performed according to molecular genetic data, and two clusters were inferred. Individuals were assigned to their provinces of origin. Genetic molecular variation was higher in the populations of the Yungas biogeographic province which translates into highly qualified populations for conservation. Populations from the Paranaense biogeographic province showed the highest mean value of number of seeds per fruit making them valuable as well with regard to the exploitation of management strategies as a means to recover the impacted areas where these populations are located.</p>
+				</abstract>
+				<keywords>phenotypic variability;genetic variability;Yungas;Paranaense biogeographic province;<i>Anadenanthera colubrina</i> var. <i>cebil.</i></keywords>
+				<authors>
+					<author>
+						<name first="María Victoria" last="García">María Victoria García</name>
+						<affiliation>Facultad de Ciencias Exactas, Departamento de Genética, Químicas y Naturales, Universidad Nacional de Misiones, Posadas 3300, Argentina</affiliation>
+						<affiliation>Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Posadas 3300, Argentina</affiliation>
+						<affiliation>Instituto de Biología Subtropical (UNaM – CONICET) Posadas 3300, Argentina</affiliation>
+						<email>vgarcia@fceqyn.unam.edu.ar</email>
+					</author>
+					<author>
+						<name first="Kathleen" last="Prinz">Kathleen Prinz</name>
+						<affiliation>Forest Genetics and Forest Tree Breeding, Georg-August-University Göttingen D-37077 Göttingen, Germany</affiliation>
+						<affiliation>Institute for Systematic Botany with Herbarium Haussknecht and Botanical Gardens, Friedrich-Schiller-University Jena, D-07743 Jena, Germany</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="María Eugenia" last="Barrandeguy">María Eugenia Barrandeguy</name>
+						<affiliation>Facultad de Ciencias Exactas, Departamento de Genética, Químicas y Naturales, Universidad Nacional de Misiones, Posadas 3300, Argentina</affiliation>
+						<affiliation>Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Posadas 3300, Argentina</affiliation>
+						<affiliation>Instituto de Biología Subtropical (UNaM – CONICET) Posadas 3300, Argentina</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Marcos" last="Miretti">Marcos Miretti</name>
+						<affiliation>Facultad de Ciencias Exactas, Departamento de Genética, Químicas y Naturales, Universidad Nacional de Misiones, Posadas 3300, Argentina</affiliation>
+						<affiliation>Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Posadas 3300, Argentina</affiliation>
+						<affiliation>Instituto de Biología Subtropical (UNaM – CONICET) Posadas 3300, Argentina</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Reiner" last="Finkeldey">Reiner Finkeldey</name>
+						<affiliation>Forest Genetics and Forest Tree Breeding, Georg-August-University Göttingen D-37077 Göttingen, Germany</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-01</date>
+					<date type="R">2013-11-01</date>
+					<date type="A">2013-11-12</date>
+					<date type="E">2014-04-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Intraspecific chromosomal and genetic polymorphism in <i>Brassica napus</i> L. detected by cytogenetic and molecular markers</title>
+				<feature>Research Article</feature>
+				<page>0133-0143</page>
+				<abstract>
+					<p>The application of DNA intercalator 9-aminoacridine allowed us to increase the resolution of chromosome C-banding and DAPI-banding patterns and to investigate chromosomal polymorphism in karyotypes of seven spring and six winter rape varieties. It was shown that the pericentromeric and intercalary C-bands of most of the chromosomes in spring rape were smaller in size and less polymorphic than those of winter rape. More 26S and 5S rDNA sites were found in the winter rape karyotypes than the spring varieties. Separate or colocalized 26S and 5S rDNA sites were revealed on chromosomes 4, 5, 6, 8, 10, 14, 15, 16 and 18. Intervarietal and intravarietal polymorphism of the number and chromosomal localization of rDNA sites were detected. The generalized idiogram of chromosomes of 13 <i>Brassica napus</i> varieties with account of all possibilities of C-banding patterns as well as localization of 26S and 5S rDNA sites were constructed. Polymorphism of the examined molecular and cytogenetic markers as well as the heterozygosis level of <i>FAE1.1</i> gene controlling erucic acid synthesis in rapeseed was higher in the winter varieties than in the spring ones. The obtained data were in a satisfactory agreement with increased tolerance to environmental stress conditions of winter rape.</p>
+				</abstract>
+				<keywords>C-banding;fluorescence <i>in situ</i> hybridization;<i>FAE1.1</i> gene;idiogram;rDNA sites;<i>Brassica napus.</i></keywords>
+				<authors>
+					<author>
+						<name first="Alexandra V." last="Amosova">Alexandra V. Amosova</name>
+						<affiliation>Engelgardt Institute of Molecular Biology of RAS, Vavilov Str. 32, Moscow 119991, Russia</affiliation>
+						<email>amomar@mail.ru</email>
+					</author>
+					<author>
+						<name first="Lyudmila V." last="Zemtsova">Lyudmila V. Zemtsova</name>
+						<affiliation>Engelgardt Institute of Molecular Biology of RAS, Vavilov Str. 32, Moscow 119991, Russia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zoya E." last="Grushetskaya">Zoya E. Grushetskaya</name>
+						<affiliation>Institute of Genetics and Cytology of NAS of Belarus, Academichnaya Str. 27, Minsk 220072, Belarus</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tatiana E." last="Samatadze">Tatiana E. Samatadze</name>
+						<affiliation>Engelgardt Institute of Molecular Biology of RAS, Vavilov Str. 32, Moscow 119991, Russia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Galina V." last="Mozgova">Galina V. Mozgova</name>
+						<affiliation>Institute of Genetics and Cytology of NAS of Belarus, Academichnaya Str. 27, Minsk 220072, Belarus</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yadviga E." last="Pilyuk">Yadviga E. Pilyuk</name>
+						<affiliation>Scientific and Practical Centre of NAS of Belarus for Arable Farming, Timiryazev Str. 1, Zhodino 222160, Belarus</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Valentina T." last="Volovik">Valentina T. Volovik</name>
+						<affiliation>All-Russian Williams Fodder Research Institute of RAAS, Lobnya Moscow region 141005, Russia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Natalia V." last="Melnikova">Natalia V. Melnikova</name>
+						<affiliation>Engelgardt Institute of Molecular Biology of RAS, Vavilov Str. 32, Moscow 119991, Russia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alexandr V." last="Zelenin">Alexandr V. Zelenin</name>
+						<affiliation>Engelgardt Institute of Molecular Biology of RAS, Vavilov Str. 32, Moscow 119991, Russia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Valentina A." last="Lemesh">Valentina A. Lemesh</name>
+						<affiliation>Institute of Genetics and Cytology of NAS of Belarus, Academichnaya Str. 27, Minsk 220072, Belarus</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Olga V." last="Muravenko">Olga V. Muravenko</name>
+						<affiliation>Engelgardt Institute of Molecular Biology of RAS, Vavilov Str. 32, Moscow 119991, Russia</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-03</date>
+					<date type="R">2013-10-23</date>
+					<date type="A">2013-11-20</date>
+					<date type="E">2014-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cloning and <i>in silico</i> analysis of a cinnamyl alcohol dehydrogenase gene in <i>Pennisetum purpureum</i></title>
+				<feature>Research Article</feature>
+				<page>0145-0158</page>
+				<abstract>
+					<p>Lignin is a major constituent of plant cell walls and indispensable to the normal growth of a plant. However, the presence of lignin complicates the structure of the plant cell walls and negatively influences pulping industry, lignocellulose utilization as well as forage properties. Cinnamyl alcohol dehydrogenase (CAD), a key enzyme involved in lignin biosynthesis, catalyses the last step in monolignol synthesis and has a major role in genetic regulation of lignin production. In the present study, a 1 342-bp cDNA fragment of <i>CAD</i> gene, named <i>PpCAD</i>, was isolated from <i>Pennisetum purpureum</i> using strategies of homologous clone and rapid amplification of cDNA end. It was translated into an intact protein sequence including 366 amino acid residues by ORF Finder. The genomic full-length DNA of <i>PpCAD</i> was a 3 738-bp sequence containing four exons and three introns, among which the 114-bp exon was considered to be a conserved region compared with other <i>CADs</i>. Basic bioinformatic analysis presumed that the PpCAD was a nonsecretory and hydrophobic protein with five possible transmembrane helices. The phylogenetic analysis indicated that the PpCAD belonged to the class of bona fide CADs involved in lignin synthesis and it showed a high similarity (nearly 90\%) with CAD protein sequences of <i>Sorghum bicolor, Panicum virgatum</i> and <i>Zea mays</i> in Gramineae. Furthere, PpCAD amino acid sequence was demonstrated to have some conserved motifs such as Zn-binding site, Zn-catalytic centre and NADP(H) binding domain after aligning with other bona fide CADs. Three-dimensional homology modelling of PpCAD showed that the protein had some exclusive features of bona fide CADs.</p>
+				</abstract>
+				<keywords>lignin biosynthesis;cinnamyl alcohol dehydrogenase;clone;<i>in silico</i> analysis;<i>Pennisetum purpureum.</i></keywords>
+				<authors>
+					<author>
+						<name first="Ran" last="Tang">Ran Tang</name>
+						<affiliation>College of Agriculture, South China Agricultural University, Guangzhou 510642, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiang-Qian" last="Zhang">Xiang-Qian Zhang</name>
+						<affiliation>College of Agriculture, South China Agricultural University, Guangzhou 510642, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="You-Han" last="Li">You-Han Li</name>
+						<affiliation>College of Agriculture, South China Agricultural University, Guangzhou 510642, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xin-Ming" last="Xie">Xin-Ming Xie</name>
+						<affiliation>College of Agriculture, South China Agricultural University, Guangzhou 510642, People’s Republic of China</affiliation>
+						<email>xiexmbs@scau.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-06</date>
+					<date type="R">2013-09-26</date>
+					<date type="A">2013-11-25</date>
+					<date type="E">2014-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A novel 5p15.33-14.1 deletion and 4q34.24-35.2 duplication in a patient with mental retardation, dysmorphic features and severe speech delay</title>
+				<feature>Research Note</feature>
+				<page>0159-0162</page>
+				<abstract />
+				<keywords>mental retardation;speech delay;microcephaly;copy number variation;microdeletion;microduplication.</keywords>
+				<authors>
+					<author>
+						<name first="Qinying" last="Cao">Qinying Cao</name>
+						<affiliation>Prenatal Diagnosis Center, Shijiazhuang Obstetrics and Gynecology Hospital, Shijiazhuang, Hebei 050011, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuanyuan" last="Peng">Yuanyuan Peng</name>
+						<affiliation>Prenatal Diagnosis Center, Shijiazhuang Obstetrics and Gynecology Hospital, Shijiazhuang, Hebei 050011, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jun" last="Ge">Jun Ge</name>
+						<affiliation>Prenatal Diagnosis Center, Shijiazhuang Obstetrics and Gynecology Hospital, Shijiazhuang, Hebei 050011, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yanhua" last="Zhang">Yanhua Zhang</name>
+						<affiliation>Prenatal Diagnosis Center, Shijiazhuang Obstetrics and Gynecology Hospital, Shijiazhuang, Hebei 050011, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Junzhen" last="Zhu">Junzhen Zhu</name>
+						<affiliation>San-You Center, The People’s Hospital of Hebei Province, Shijiazhuang, Hebei 050011, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Lijuan" last="Zhao">Lijuan Zhao</name>
+						<affiliation>Prenatal Diagnosis Center, Shijiazhuang Obstetrics and Gynecology Hospital, Shijiazhuang, Hebei 050011, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-12-22</date>
+					<date type="R">2013-06-30</date>
+					<date type="A">2013-07-01</date>
+					<date type="E">2014-01-30</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Phylogeny of endemic skinks of the genus <i>Lygosoma</i> (Squamata: Scincidae) from India suggests an <i>in situ</i> radiation</title>
+				<feature>Research Note</feature>
+				<page>0163-0167</page>
+				<abstract />
+				<keywords>biogeography;dispersal;endemic;systematics;<i>Lygosoma.</i></keywords>
+				<authors>
+					<author>
+						<name first="Aniruddha" last="Datta-Roy"></name>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>datta.roy82@gmail.com</email>
+					</author>
+					<author>
+						<name first="Mewa" last="Singh">Mewa Singh</name>
+						<affiliation>Department of Psychology, University of Mysore, Mysore 570 006, India</affiliation>
+						<affiliation>Evolutionary and Organismal Biology Unit,Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. Praveen" last="Karanth">K. Praveen karanth</name>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-30</date>
+					<date type="R">2013-08-21</date>
+					<date type="A">2013-08-22</date>
+					<date type="E">2014-02-14</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>A novel <i>TSC2</i> mutation in a Chinese family with tuberous sclerosis complex</title>
+				<feature>Research Note</feature>
+				<page>0169-0172</page>
+				<abstract />
+				<keywords>tuberous sclerosis complex;mutation;<i>TSC2</i>;family.</keywords>
+				<authors>
+					<author>
+						<name first="Zheng" last="Yu">Zheng Yu</name>
+						<affiliation>Department of Medical Genetics, College of Basic Medical Science, Third Military Medical University, Chongqing 400038, People’s Republic of China</affiliation>
+						<affiliation>Undergraduate Student Brigade, Third Military Medical University, Chongqing 400038, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xin" last="Zhang">Xin Zhang</name>
+						<affiliation>Department of Medical Genetics, College of Basic Medical Science, Third Military Medical University, Chongqing 400038, People’s Republic of China</affiliation>
+						<affiliation>Undergraduate Student Brigade, Third Military Medical University, Chongqing 400038, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hong" last="Guo">Hong Guo</name>
+						<affiliation>Department of Medical Genetics, College of Basic Medical Science, Third Military Medical University, Chongqing 400038, People’s Republic of China</affiliation>
+						<email>guohong02@gmail.com</email>
+					</author>
+					<author>
+						<name first="Yun" last="Bai">Yun Bai</name>
+						<affiliation>Department of Medical Genetics, College of Basic Medical Science, Third Military Medical University, Chongqing 400038, People’s Republic of China</affiliation>
+						<email>geneticsby@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-16</date>
+					<date type="R">2013-08-13</date>
+					<date type="A">2013-08-27</date>
+					<date type="E">2014-02-04</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Compound mitochondrial DNA mutations in a neurological patient with ataxia, myoclonus and deafness</title>
+				<feature>Research Note</feature>
+				<page>0173-0177</page>
+				<abstract />
+				<keywords>ataxia;myoclonus;deafness;heteroplasmy;mtDNA;polyneuropathy.</keywords>
+				<authors>
+					<author>
+						<name first="Ji Hoon" last="Part">Ji Hoon Park</name>
+						<affiliation>Department of Biological Science, Kongju National University, 182 sinkwan-dong, Gongju, Chungnam 314-701, Republic of Korea</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bo Ram" last="Yoon">Bo Ram Yoon</name>
+						<affiliation>Department of Biological Science, Kongju National University, 182 sinkwan-dong, Gongju, Chungnam 314-701, Republic of Korea</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hye Jin" last="Kim">Hye Jin Kim</name>
+						<affiliation>Department of Biological Science, Kongju National University, 182 sinkwan-dong, Gongju, Chungnam 314-701, Republic of Korea</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Phil Hyu" last="Lee">Phil Hyu Lee</name>
+						<affiliation>Department of Neurology and Brain Research Institute, Yonsei University College of Medicine, Seoul 120-752, Republic of Korea</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Byung-Ok" last="Choi">Byung-Ok Choi</name>
+						<affiliation>Department of Neurology, Samsung Medical Center, Sungkyunkwan University School of Medicine, 50 Irwon-dong, Gangnam-gu, Seoul 135-710, Republic of Korea</affiliation>
+						<email>bochoi@skku.edu</email>
+					</author>
+					<author>
+						<name first="Ki Wha" last="Chung">Ki Wha Chung</name>
+						<affiliation>Department of Biological Science, Kongju National University, 182 sinkwan-dong, Gongju, Chungnam 314-701, Republic of Korea</affiliation>
+						<email>kwchung@kongju.ac.kr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-23</date>
+					<date type="R">2013-07-04</date>
+					<date type="A">2013-09-04</date>
+					<date type="E">2014-02-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Carrier screening for spinal muscular atrophy in Italian population</title>
+				<feature>Research Note</feature>
+				<page>0179-0181</page>
+				<abstract />
+				<keywords>survival motor neuron gene (<i>SMN1</i>);spinal muscular atrophy;carrier screening;MLPA.</keywords>
+				<authors>
+					<author>
+						<name first="Francesco" last="Calì">Francesco Calì</name>
+						<affiliation>Laboratorio di Genetica Molecolare, UOC di Genetica Medica, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Giuseppa" last="Ruggeri">Giuseppa Ruggeri</name>
+						<affiliation>Laboratorio di Genetica Molecolare, UOC di Genetica Medica, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Valeria" last="Chiavetta">Valeria Chiavetta</name>
+						<affiliation>Laboratorio di Genetica Molecolare, UOC di Genetica Medica, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Carmela" last="Scuderi">Carmela Scuderi</name>
+						<affiliation>Unità Operativa di Malattie Neuromuscolari, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sebastiano" last="Bianca">Sebastiano Bianca</name>
+						<affiliation>Genetica Medica ARNAS Garibaldi Nesima, 95122 Catania, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chiara" last="Barone">Chiara Barone</name>
+						<affiliation>Genetica Medica ARNAS Garibaldi Nesima, 95122 Catania, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alda" last="Ragalmuto">Alda Ragalmuto</name>
+						<affiliation>Laboratorio di Genetica Molecolare, UOC di Genetica Medica, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pietro" last="Schinocca">Pietro Schinocca</name>
+						<affiliation>Laboratorio di Genetica Molecolare, UOC di Genetica Medica, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Girolamo Aurelio" last="Vitello">Girolamo Aurelio Vitello</name>
+						<affiliation>Unità Operativa di Neurologia per il Ritardo Mentale, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Valentino" last="Romano">Valentino Romano</name>
+						<affiliation>Laboratorio di Genetica Molecolare, UOC di Genetica Medica, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<affiliation>Dipartimento di Fisica e Chimica, Università degli Studi di Palermo, 90128 Palermo, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sebastiano" last="Musumeci">Sebastiano Musumeci</name>
+						<affiliation>Unità Operativa di Neurologia per il Ritardo Mentale, Associazione Oasi Maria SS. (I.R.C.C.S.), 94018 Troina (EN), Italy</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-06-10</date>
+					<date type="R">2013-08-29</date>
+					<date type="A">2013-09-10</date>
+					<date type="E">2014-02-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Structural rearrangements detected in newly-formed hexaploid tritordeum after three sequential FISH experiments with repetitive DNA sequences</title>
+				<feature>Research Note</feature>
+				<page>0183-0188</page>
+				<abstract />
+				<keywords>fluorescence <i>in situ</i> hybridization;nondenaturing FISH;simple sequence repeats;structural rearrangements;tritordeum;wheat;multicolour FISH.</keywords>
+				<authors>
+					<author>
+						<name first="Sandra" last="Cabo">Sandra Cabo</name>
+						<affiliation>Institute of Biotechnology and Bioengineering (IBB), Centre of Genomics and Biotechnology (CGB), University of Tras-os-Montes and Alto Douro (UTAD), P.O. Box 1013, 5001-801 VilaReal, Portugal</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ana" last="Carvalho">Ana Carvalho</name>
+						<affiliation>Institute of Biotechnology and Bioengineering (IBB), Centre of Genomics and Biotechnology (CGB), University of Tras-os-Montes and Alto Douro (UTAD), P.O. Box 1013, 5001-801 VilaReal, Portugal</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="António" last="Martín">António Martín</name>
+						<affiliation>Instituto de Agricultura Sostenible (IAS), Consejo Superior de Investigaciones Científicas (CSIC), Apartado 4084, 14080 Córdoba, España</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="José" last="Lima-Brito">José Lima-Brito</name>
+						<affiliation>Institute of Biotechnology and Bioengineering (IBB), Centre of Genomics and Biotechnology (CGB), University of Tras-os-Montes and Alto Douro (UTAD), P.O. Box 1013, 5001-801 VilaReal, Portugal</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-10</date>
+					<date type="R">2013-09-11</date>
+					<date type="A">2013-09-13</date>
+					<date type="E">2014-03-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Concurrent psu dic(21)(q22.3) and t(13;17)(q14.1;p12) in a mosaic Down’s syndrome patient: review of thirty-one similar dicentrics</title>
+				<feature>Research Note</feature>
+				<page>0189-0192</page>
+				<abstract />
+				<keywords>human chromosomes;Down’s syndrome;pseudodicentric 21;centromere inactivation;translocation (13;17).</keywords>
+				<authors>
+					<author>
+						<name first="Horacio" last="Rivera">Horacio Rivera</name>
+						<affiliation>División de Genética, CIBO, Instituto Mexicano del Seguro Social, Guadalajara, CP 44340, México</affiliation>
+						<affiliation>Doctorado en Genética Humana, CUCS, Universidad de Guadalajara, Sierra Mojada 800, Col. Independencia, 44340, Guadalajara, México</affiliation>
+						<email>hrivera@cencar.udg.mx</email>
+					</author>
+					<author>
+						<name first="Ana I." last="Vásquez-Velásquez"></name>
+						<affiliation>División de Genética, CIBO, Instituto Mexicano del Seguro Social, Guadalajara, CP 44340, México</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-09</date>
+					<date type="R">2013-08-26</date>
+					<date type="A">2013-09-13</date>
+					<date type="E">2014-03-11</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>Association of the <i>GRM4</i> gene variants with juvenile myoclonic epilepsy in an Indian population</title>
+				<feature>Research Note</feature>
+				<page>0193-0197</page>
+				<abstract />
+				<keywords>genetic risk factor;idiopathic generalized epilepsy;juvenile myoclonic epilepsy;metabotropic glutamate receptor;polygenic disorder;population genetics.</keywords>
+				<authors>
+					<author>
+						<name first="Rashmi" last="Parihar">Pashmi Parihar</name>
+						<affiliation>Department of Biological Sciences and Bioengineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<affiliation>Department of Biochemistry, G. R. Medical College, Gwalior 474 009, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rohit" last="Mishra">Rohit Mishra</name>
+						<affiliation>Department of Biological Sciences and Bioengineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sanjeev Kumar" last="Singh">Sanjeev Kumar Singh</name>
+						<affiliation>Department of Biochemistry, G. R. Medical College, Gwalior 474 009, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sita" last="Jayalakshmi">Sita Jayalakshmi</name>
+						<affiliation>Nizam’s Institute of Medical Sciences, Banjara Hills, Punjagutta, Hyderabad 500 034, India</affiliation>
+						<affiliation>Krishna Institute of Medical Science, Secunderabad 500 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Man Mohan" last="Mehndiratta">Man Mohan Mehndiratta</name>
+						<affiliation>Department of Neurology, Govind Ballabh Pant Hospital, Jawaharlal Nehru Marg, New Delhi 110 002, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Subramaniam" last="Ganesh">Subramaniam Ganesh</name>
+						<affiliation>Department of Biological Sciences and Bioengineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-18</date>
+					<date type="R">2013-09-04</date>
+					<date type="A">2013-10-01</date>
+					<date type="E">2014-04-04</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>P chromosomes involved in intergenomic rearrangements of <i>Kengyilia thoroldiana</i> affected by the environment</title>
+				<feature>Research Note</feature>
+				<page>0199-0202</page>
+				<abstract />
+				<keywords>Triticeae;P chromosomes;intergenomic rearrangements;environment.</keywords>
+				<authors>
+					<author>
+						<name first="Qiuxia" last="Wang">Qiuxia Wang</name>
+						<affiliation>The National Key Facilities for Crop Gene Resources and Genetic Improvement, The National Key Facilities for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, People’s Republic of China</affiliation>
+						<affiliation>Institute of Special Wild Economic Animals and Plants, Chinese Academy of Agricultural Sciences, Changchun, Jilin, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haiming" last="Han">Haiming Han</name>
+						<affiliation>The National Key Facilities for Crop Gene Resources and Genetic Improvement, The National Key Facilities for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ainong" last="Gao">Ainong Gao</name>
+						<affiliation>The National Key Facilities for Crop Gene Resources and Genetic Improvement, The National Key Facilities for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xinming" last="Yang">Xinming Yang</name>
+						<affiliation>The National Key Facilities for Crop Gene Resources and Genetic Improvement, The National Key Facilities for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Lihui" last="Li">Lihui Li</name>
+						<affiliation>The National Key Facilities for Crop Gene Resources and Genetic Improvement, The National Key Facilities for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, People’s Republic of China</affiliation>
+						<email>lilihui@caas.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-12</date>
+					<date type="R">2013-10-09</date>
+					<date type="A">2013-10-17</date>
+					<date type="E">2014-04-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetics of growth habit and photoperiodic response to flowering time in dolichos bean (<i>Lablab purpureus</i> (L.) Sweet)</title>
+				<feature>Research Note</feature>
+				<page>0203-0206</page>
+				<abstract />
+				<keywords>determinacy;PS;PIS;linkage;dolichos bean.</keywords>
+				<authors>
+					<author>
+						<name first="C. M." last="Keerthi">C. M. Keerthi</name>
+						<affiliation>Department of Genetics and Plant Breeding, University of Agricultural Sciences, Gandhi Krishi Vignana Kendra, Bangalore 560 065, India</affiliation>
+						<email>keerthi4786@gmail.com</email>
+					</author>
+					<author>
+						<name first="S." last="Ramesh">S. Ramesh</name>
+						<affiliation>Department of Genetics and Plant Breeding, University of Agricultural Sciences, Gandhi Krishi Vignana Kendra, Bangalore 560 065, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Byregowda">M. Byregowda</name>
+						<affiliation>All India Coordinated Research Project on Pigeonpea, University of Agricultural Sciences, Gandhi Krishi Vignana Kendra, Bangalore 560 065, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Mohan" last="Rao">A. Mohan Rao</name>
+						<affiliation>Department of Genetics and Plant Breeding, University of Agricultural Sciences, Gandhi Krishi Vignana Kendra, Bangalore 560 065, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. S. Rajendra" last="Prasad">B. S. Rajendra Prasad</name>
+						<affiliation>Department of Agricultural Entomology, University of Agricultural Sciences, Gandhi Krishi Vignana Kendra, Bangalore 560 065, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. V." last="Vaijayanthi">P. V. Vaijayanthi</name>
+						<affiliation>Department of Genetics and Plant Breeding, University of Agricultural Sciences, Gandhi Krishi Vignana Kendra, Bangalore 560 065, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-09</date>
+					<date type="R"></date>
+					<date type="A">2013-10-18</date>
+					<date type="E">2014-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="1">
+				<title>High incidence of <i>GJB2</i> gene mutations among assortatively mating hearing impaired families in Kerala: future implications</title>
+				<feature>Research Note</feature>
+				<page>0207-0213</page>
+				<abstract />
+				<keywords><i>GJB2</i> mutations;connexin 26 protein;assortative mating;hearing impairment;noncomplementary mating;Kerala.</keywords>
+				<authors>
+					<author>
+						<name first="Amritkumar" last="Pavithra">Amritkumar Pavithra</name>
+						<affiliation>Department of Genetics, Dr ALM Post Graduate Institute of Basic Medical Sciences, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Justin Margret" last="Jeffrey">Justin Margret Jeffrey</name>
+						<affiliation>Department of Genetics, Dr ALM Post Graduate Institute of Basic Medical Sciences, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jayasankaran" last="Chandru">Jayasankaran Chandru</name>
+						<affiliation>Department of Genetics, Dr ALM Post Graduate Institute of Basic Medical Sciences, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Arabandi" last="Ramesh">Arabandi Ramesh</name>
+						<affiliation>Department of Genetics, Dr ALM Post Graduate Institute of Basic Medical Sciences, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C. R. Srikumari" last="Srisailapathy">C. R. Srikumari Srisailapathy</name>
+						<affiliation>Department of Genetics, Dr ALM Post Graduate Institute of Basic Medical Sciences, University of Madras, Taramani Campus, Chennai 600 113, India</affiliation>
+						<email>crsrikumari@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-02</date>
+					<date type="R">2013-10-17</date>
+					<date type="A">2013-10-21</date>
+					<date type="E">2014-04-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Association between <i>HLA-DQA1</i> gene copy number polymorphisms and susceptibility to rheumatoid arthritis in Chinese Han population</title>
+				<feature>Research Note</feature>
+				<page>0215-0218</page>
+				<abstract />
+				<keywords><i>HLA-DQA1</i> gene;copy number polymorphism;rheumatoid arthritis.</keywords>
+				<authors>
+					<author>
+						<name first="Xinqiang" last="Song">Xinqiang Song</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<affiliation>Xinyang Normal University, Henan 464000, People’s Republic of China</affiliation>
+						<email>xqsong2012@gmail.com</email>
+					</author>
+					<author>
+						<name first="Shicheng" last="Guo">Shicheng Guo</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yulin" last="Chen">Yulin Chen</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chengde" last="Yang">Chengde Yang</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hengdong" last="Ji">Hengdong Ji</name>
+						<affiliation>Division of Rheumatology, The First People’s Hospital of Taizhou, Jiangsu 225300, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Feng" last="Zhang">Feng Zhang</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhengwen" last="Jiang">Zhengwen Jiang</name>
+						<affiliation>Center for Genetic and Genomic Analysis, Genesky Biotechnologies Inc., Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yangyun" last="Ma">Yangyun Ma</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuan" last="Li">Yuan Li</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Li" last="Jin">Li Jin</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hejian" last="Zou">Hejian Zou</name>
+						<affiliation>Division of Rheumatology, Huashan Hospital, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<affiliation>Institute of Rheumatology, Immunology and Allergy, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaodong" last="Zhou">Xiaodong Zhou</name>
+						<affiliation>The University of Texas Medical School at Houston, Houston, TX 77030, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jiucun" last="Wang">Jiucun Wang</name>
+						<affiliation>State Key Laboratory of Genetic Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary Anthropology, School of Life Sciences, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<affiliation>Institute of Rheumatology, Immunology and Allergy, Fudan University, Shanghai 2000080, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-01</date>
+					<date type="R"></date>
+					<date type="A">2013-10-30</date>
+					<date type="E">2014-04-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chromosome variant 1qh− and its influence on the 3D organization of chromosome 1 heterochromatin in interphase nucleus of patients with endometriosis</title>
+				<feature>Research Note</feature>
+				<page>0219-0223</page>
+				<abstract />
+				<keywords>3D-FISH;endometriosis;heterochromatin;human chromosome,pair 1;interphase.</keywords>
+				<authors>
+					<author>
+						<name first="Ruth" last="Mikelsaar">Ruth Mikelsaar</name>
+						<affiliation>Department of Human Biology and Genetics, Institute of Biomedicine and Translational Medicine, University of Tartu, Ravila Street 19, Tartu 50411, Estonia</affiliation>
+						<email>ruth.mikelsaar@ut.ee</email>
+					</author>
+					<author>
+						<name first="Heiti" last="Paves">Heiti Paves</name>
+						<affiliation>Department of Gene Technology, Tallinn University of Technology, Akadeemia tee 15, Tallinn 12618, Estonia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Katrin" last="Org">Katrin Org</name>
+						<affiliation>South Estonian Hospital Ltd., Meegomae 65526, Estonia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Aavo-Valdur" last="Mikelsaar">Aavo-Valdur Mikelsaar</name>
+						<affiliation>Department of Human Biology and Genetics, Institute of Biomedicine and Translational Medicine, University of Tartu, Ravila Street 19, Tartu 50411, Estonia</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-06-05</date>
+					<date type="R">2013-10-17</date>
+					<date type="A">2013-10-30</date>
+					<date type="E">2014-04-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A novel noncontiguous duplication in the <i>DMD</i> gene escapes the ‘reading-frame rule’</title>
+				<feature>Research Note</feature>
+				<page>0225-0229</page>
+				<abstract />
+				<keywords>noncontiguous duplications;<i>DMD</i> gene;reading frame.</keywords>
+				<authors>
+					<author>
+						<name first="Luz Berenice" last="López-Hernández">Luz Berenice López-Hernández</name>
+						<affiliation>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Subdirección de Enseñanza e Investigación, Centro Médico Nacional 20 de Noviembre, México, C. P. 03100, D.F., México</affiliation>
+						<email>lblhmedgen@gmail.com</email>
+					</author>
+					<author>
+						<name first="Benjamín" last="Gómez-Díaz">Benjamín Gómez-Díaz</name>
+						<affiliation>Instituto Nacional de Rehabilitación, Secretaría de Salud, México, C. P. 14389, D.F., México</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Eliganty" last="Bahena-Martínez">Eliganty Bahena-Martínez</name>
+						<affiliation>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Subdirección de Enseñanza e Investigación, Centro Médico Nacional 20 de Noviembre, México, C. P. 03100, D.F., México</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Teresa" last="Neri-Gómez">Teresa Neri-Gómez</name>
+						<affiliation>Instituto Politécnico Nacional, Escuela Superior de Medicina, México, C. P. 11340, D.F., México</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alejandra" last="Camacho-Molina">Alejandra Camacho-Molina</name>
+						<affiliation>Programa de Medicina Genómica, Dirección Médica, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, México, C. P. 14050, D.F., México</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Luis A." last="Ruano-Calderón">Luis A. Ruano-Calderón</name>
+						<affiliation>Hospital General de Durango, C. P. 34217, Durango, México</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Silvia" last="García">Silvia García</name>
+						<affiliation>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Subdirección de Enseñanza e Investigación, Centro Médico Nacional 20 de Noviembre, México, C. P. 03100, D.F., México</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ramón M." last="Coral-Vázquez">Ramón M. Coral-Vázquez</name>
+						<affiliation>Instituto Politécnico Nacional, Escuela Superior de Medicina, México, C. P. 11340, D.F., México</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-11-28</date>
+					<date type="R">2013-10-31</date>
+					<date type="A">2013-11-06</date>
+					<date type="E">2014-04-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The $G$ allele at the <i>g.70014208A$\gt$G</i> in the <i>MYBPC1</i> gene associated with high marbling in Japanese Black cattle is at a low frequency in breeds not selected for marbling</title>
+				<feature>Research Note</feature>
+				<page>0231-0233</page>
+				<abstract />
+				<keywords>allele frequency;cattle breed;marbling;<i>MYBPC1</i>;SNP.</keywords>
+				<authors>
+					<author>
+						<name first="Bin" last="Tong">Bin Tong</name>
+						<affiliation>Faculty of Agriculture, Department of Agrobiology, Niigata University, Nishi-ku, Niigata 950-2181, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Seiki" last="Sasaki">Seiki Sasaki</name>
+						<affiliation>Faculty of Agriculture, Department of Agrobiology, Niigata University, Nishi-ku, Niigata 950-2181, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Youji" last="Muramatsu">Youji Muramatsu</name>
+						<affiliation>Faculty of Health Sciences for Welfare, Department of Nutritional Sciences for Well-being, Kansai University of Welfare Sciences, Kashiwara, Osaka 582-0026, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Takeshi" last="Ohta">Takeshi Ohta</name>
+						<affiliation>Central Pharmaceutical Research Institute, Japan Tobacco Inc., Takatsuki, Osaka 569-1125, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Hiroyuki" last="Kose">Hiroyuki Kose</name>
+						<affiliation>Department of Life Science, Division of Natural Sciences, International Christian University, Mitaka, Tokyo 181-8585, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tatsuo" last="Fujita">Tatsuo Fujita</name>
+						<affiliation>Oita Prefectural Institute of Animal Industry, Takeda, Oita 878-0201, Japan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Takahisa" last="Yamada">Takahisa Yamada</name>
+						<affiliation>Faculty of Agriculture, Department of Agrobiology, Niigata University, Nishi-ku, Niigata 950-2181, Japan</affiliation>
+						<email>tyamada@agr.niigata-u.ac.jp</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-18</date>
+					<date type="R">2013-11-25</date>
+					<date type="A">2013-11-26</date>
+					<date type="E">2014-04-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Association between the IFN-$\gamma$ and IL-1 genetic polymorphisms and colorectal cancer in the Chinese Han population</title>
+				<feature>Research Note</feature>
+				<page>0235-0239</page>
+				<abstract />
+				<keywords>IFN-$\gamma$;IL-1;polymorphism;colorectal cancer.</keywords>
+				<authors>
+					<author>
+						<name first="Bao-Ying" last="Fei">Bao-Ying Fei</name>
+						<affiliation>Department of Gastroenterology, Zhejiang Province People’s Hospital, Hangzhou 310014, Zhejiang Province, People’s Republic of China</affiliation>
+						<email>feibaoying@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Huo-Xiang" last="Lv">Huo-Xiang Lv</name>
+						<affiliation>Department of Clinical laboratory, Zhejiang Province People’s Hospital, Hangzhou 310014, Zhejiang Province, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yong-Wei" last="Cheng">Yong-Wei Cheng</name>
+						<affiliation>Department of Coloproctology, Zhejiang Province People’s Hospital, Hangzhou 310014, Zhejiang Province, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jiang-Ming" last="Yang">Jiang-Ming Yang</name>
+						<affiliation>Department of Gastroenterology, Zhejiang Province People’s Hospital, Hangzhou 310014, Zhejiang Province, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-31</date>
+					<date type="R">2013-09-09</date>
+					<date type="A">2013-11-26</date>
+					<date type="E">2014-04-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetics of dioecy and causal sex chromosomes in plants</title>
+				<feature>Review Article</feature>
+				<page>0241-0277</page>
+				<abstract>
+					<p>Dioecy (separate male and female individuals) ensures outcrossing and is more prevalent in animals than in plants. Although it is common in bryophytes and gymnosperms, only 5\%\ of angiosperms are dioecious. In dioecious higher plants, flowers borne on male and female individuals are, respectively deficient in functional gynoecium and androecium. Dioecy is inherited via three sex chromosome systems: XX/XY, XX/X0 and WZ/ZZ, such that XX or WZ is female and XY, X0 or ZZ are males. The XX/XY system generates the rarer XX/X0 andWZ/ZZ systems. An autosome pair begets XY chromosomes. A recessive loss-of-androecium mutation (<i>ana</i>) creates X chromosome and a dominant gynoecium-suppressing (<i>GYS</i>) mutation creates Y chromosome. The <i>ana/ANA</i> and <i>gys/GYS</i> loci are in the sex-determining region (SDR) of the XY pair. Accumulation of inversions, deleterious mutations and repeat elements, especially transposons, in the SDR of Y suppresses recombination between X and Y in SDR, making Y labile and increasingly degenerate and heteromorphic from X. Continued recombination between X and Y in their pseudoautosomal region located at the ends of chromosomal arms allows survival of the degenerated Y and of the species. Dioecy is presumably a component of the evolutionary cycle for the origin of new species. Inbred hermaphrodite species assume dioecy. Later they suffer degenerate-Y-led population regression. Cross-hybridization between such extinguishing species and heterologous species, followed by genome duplication of segregants from hybrids, give rise to new species.</p>
+				</abstract>
+				<keywords>dioecy-mediated species evolution;plant unisexuality;sex-chromosome evolution;sex-ratio variation;XY–WZ transition;Y-chromosome degeneration.</keywords>
+				<authors>
+					<author>
+						<name first="Sushil" last="Kumar">Sushil Kumar</name>
+						<affiliation>SKA Institution of Research, Education and Development (SKAIRED), 4/11 SarvPriya Vihar, New Delhi 110 016, India</affiliation>
+						<affiliation>National Institute of Plant Genome Research, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email>sushil2000_01@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Renu" last="Kumari">Renu Kumari</name>
+						<affiliation>SKA Institution of Research, Education and Development (SKAIRED), 4/11 SarvPriya Vihar, New Delhi 110 016, India</affiliation>
+						<affiliation>National Institute of Plant Genome Research, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Vishakha" last="Sharma">Vishakha Sharma</name>
+						<affiliation>SKA Institution of Research, Education and Development (SKAIRED), 4/11 SarvPriya Vihar, New Delhi 110 016, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-06-16</date>
+					<date type="R">2013-08-31</date>
+					<date type="A">2013-09-05</date>
+					<date type="E">2014-04-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Genetic controls on starch amylose content in wheat and rice grains</title>
+				<feature>Review Article</feature>
+				<page>0279-0292</page>
+				<abstract>
+					<p>Starch accumulates in plants as granules in chloroplasts of source organs such as leaves (transitory starch) or in amyloplasts of sink organs such as seeds, tubers and roots (storage starch). Starch is composed of two types of glucose polymers: the essentially linear polymer amylose and highly branched amylopectin. The amylose content of wheat and rice seeds is an important quality trait, affecting the nutritional and sensory quality of two of the world’s most important crops. In this review, we focus on the relationship between amylose biosynthesis and the structure, physical behaviour and functionality of wheat and rice grains. We briefly describe the structure and composition of starch and then in more detail describe what is known about the mechanism of amylose synthesis and how the amount of amylose in starch might be controlled. This more specifically includes analysis of GBSS alleles, the relationship between waxy allelic forms and amylose, and related quantitative trait loci. Finally, different methods for increasing or lowering amylose content are evaluated.</p>
+				</abstract>
+				<keywords>amylose content;biosynthesis;composition;rice;wheat.</keywords>
+				<authors>
+					<author>
+						<name first="Parviz" last="Fasahat">Parviz Fasahat</name>
+						<affiliation>School of Environmental and Natural Resource Sciences, National University of Malaysia, 43600 Bangi, Selangor, Malaysia</affiliation>
+						<email>parviz.fasahat@gmail.com</email>
+					</author>
+					<author>
+						<name first="Sadequr" last="Rahman">Sadequr Rahman</name>
+						<affiliation>School of Science, Monash University, Sunway Campus, Jalan Lagoon Selatan, 46150 Bandar Sunway, Malaysia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wickneswari" last="Ratnam">Wickneswari Ratnam</name>
+						<affiliation>School of Environmental and Natural Resource Sciences, National University of Malaysia, 43600 Bangi, Selangor, Malaysia</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-04-23</date>
+					<date type="R">2013-07-27</date>
+					<date type="A">2013-09-05</date>
+					<date type="E">2014-04-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The birth and development of the DNA theory of inheritance: sixty years since the discovery of the structure of DNA</title>
+				<feature>Review Article</feature>
+				<page>0293-0302</page>
+				<abstract>
+					<p>The development of the DNA theory of inheritance culminated in the publication of the molecular structure of DNA 60 years ago. This paper describes this development, beginning with the discovery of DNA as a chemical substance by Friedrich Miescher in 1869, followed by its basic chemical analysis and demonstration of its participation in the structure of chromosomes. Subsequently it was discovered by Oswald Avery in 1944 that DNA was the genetic material, and then Erwin Chargaff showed that the proportions of the bases included in the structure of DNA followed a certain law. These findings, in association with the biophysical studies of Maurice Wilkins and Rosalind Franklin with Raymond Gosling, led James Watson and Francis Crick to the discovery of the double-helical structure of DNA in 1953. The paper ends with a short description of the development of the DNA theory of inheritance after the discovery of the double helix.</p>
+				</abstract>
+				<keywords>heredity;chromosome;nucleus;genetic material;history of genetics.</keywords>
+				<authors>
+					<author>
+						<name first="Petter" last="Portin">Petter Portin</name>
+						<affiliation>Laboratory of Genetics, Department of Biology, University of Turku, FI-20014 Turku, Finland</affiliation>
+						<email>petter.portin@utu.fi</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-28</date>
+					<date type="R">2013-10-15</date>
+					<date type="A">2013-10-18</date>
+					<date type="E">2014-04-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Journal of Genetics Online Resources, January &#8212; April 2014</title>
+				<feature></feature>
+				<page>0303-0303</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="08" year="2014">%raghu, vol-93, issue - 2
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -24857,9 +27231,7 @@
 				</dates>
 			</entry>
 		</issue>
-	</volume>
-	<volume vnum="092">
-		<issue inum="01" month="04" year="2011">
+		<issue inum="03" month="04" year="2014">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
