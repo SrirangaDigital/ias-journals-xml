@@ -17016,7 +17016,7 @@
 				<feature></feature>
 				<page>0861-0878</page>
 				<abstract>
-					<p>A critical study of 311 published WR chemical analyses,isotopic and mineral chemistry of anorthosites and associated rocks from eight Proterozoic massif anorthosite complexes of India, North America and Norway indicates marked similarities in mineralogy and chemistry among similar rock types.The anorthosite and ma ﬁc-leucoma ﬁc rocks (e.g.,leuconorite,leucogabbro, leucotroctolite,anorthositic gabbro,gabbroic anorthosite,etc.)constituting the major part of the massifs are characterized by higher Na 2 +K 2 Al 2 3 SiO 2 Mg#and Sr contents,low in plagioclase incompatible elements and REE with positive Eu anomalies.Their δ 18 O%0 (5.7 –7.5), initial 87 Sr/86 Sr (0.7034 –0.7066)and ε Nd values (+1 .14 to +5.5)suggest a depleted mantle origin. The Fe-rich dioritic rocks occurring at the margin of massifs have isotopic,chemical and mineral composition more close to anorthosite –ma ﬁc-leucoma ﬁc rocks.However,there is a gradual decrease in plagioclase content,An content of plagioclase and X Mg of orthopyroxene,and an increase in ma ﬁc silicates,oxide minerals content,plagioclase incompatible elements and REE from anorthosite – ma ﬁc-leucoma ﬁc rocks to Fe-rich dioritic rocks.The Fe-rich dioritic rocks are interpreted as residual melt from mantle derived high-Al gabbro melt,which produced the anorthosite and ma ﬁc-leucoma ﬁc rocks.Mineralogically and chemically,the K-rich felsic rocks are distinct from anorthosite –ma ﬁc-leucoma ﬁc-Fe-rich dioritic suite.They have higher δ 18 O values (6.8 –10.8%) and initial 87 Sr/86 Sr (0.7067 –0.7104).By contrast,the  K-rich felsic suites are products of melting of crustal precursors.</p>
+					<p>A critical study of 311 published WR chemical analyses,isotopic and mineral chemistry of anorthosites and associated rocks from eight Proterozoic massif anorthosite complexes of India, North America and Norway indicates marked similarities in mineralogy and chemistry among similar rock types.The anorthosite and maﬁc-leucomaﬁc rocks (e.g.,leuconorite,leucogabbro, leucotroctolite,anorthositic gabbro,gabbroic anorthosite,etc.)constituting the major part of the massifs are characterized by higher $Na_{2}O + K_{2}O, Al_{2}O_{3}, SiO_{2}$ Mg# and Sr contents,low in plagioclase incompatible elements and REE with positive Eu anomalies.Their $\delta^{18}$ O%0 (5.7 –7.5), initial $^{87}Sr/^{86}Sr$ (0.7034 –0.7066)and $\varepsilon _{Nd}$ values (+1.14 to +5.5)suggest a depleted mantle origin. The Fe-rich dioritic rocks occurring at the margin of massifs have isotopic,chemical and mineral composition more close to anorthosite –maﬁc-leucomaﬁc rocks.However,there is a gradual decrease in plagioclase content,An content of plagioclase and $X_{Mg}$ of orthopyroxene,and an increase in maﬁc silicates,oxide minerals content,plagioclase incompatible elements and REE from anorthosite – maﬁc-leucomaﬁc rocks to Fe-rich dioritic rocks.The Fe-rich dioritic rocks are interpreted as residual melt from mantle derived high-Al gabbro melt,which produced the anorthosite and maﬁc-leucomaﬁc rocks.Mineralogically and chemically,the K-rich felsic rocks are distinct from anorthosite –maﬁc-leucomaﬁc-Fe-rich dioritic suite.They have higher $\delta^{18}O$ values (6.8 –10.8%) and initial $^{87}Sr/^{86}Sr$ (0.7067--0.7104). By contrast,the  K-rich felsic suites are products of melting of crustal precursors.</p>
 				</abstract>
 				<keywords>Massif anorthosite complexes;overview;geochemistry;high-Al gabbro.</keywords>
 				<authors>
@@ -17038,6 +17038,685 @@
 					<date type="M">2009-10-03</date>
 					<date type="R">2010-04-24</date>
 					<date type="A">2010-07-12</date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="120">
+		<issue inum="01" month="02" year="2011">
+			<entry hassup="0">
+				<title>Radiative transfer simulations for the MADRAS imager of Megha-Tropiques</title>
+				<feature></feature>
+				<page>0001-0017</page>
+				<abstract>
+					<p>This paper reports the radiative transfer simulations for the passive microwave radiometer onboard the proposed Indian climate research satellite Megha-Tropiques due to be launched in 2011. These simulations have been performed by employing an in-house polarized radiative transfer code for raining systems ranging from depression and tropical cyclones to the Indian monsoon. For the sake of validation and completeness, simulations have also been done for the Tropical Rainfall Measuring Mission (TRMM)’s Microwave Imager (TMI) of the highly successful TRMM mission of NASA and JAXA. The paper is essentially divided into two parts: (a) Radiometer response with specific focus on high frequency channels in both the radiometers is discussed in detail with a parametric study of the effect of four hydrometeors (cloud liquid water, cloud ice, precipitating water and precipitating ice) on the brightness temperatures. The results are compared with TMI measurements wherever possible. (b) Development of a neural network-based fast radiative transfer model is elucidated here. The goal is to speed up the computational time involved in the simulation of brightness temperatures, necessitated by the need for quick and online retrieval strategies. The neural network model uses hydrometeor profiles as inputs and simulates spectral microwave brightness temperature at multiple frequencies as output. A huge database is generated by executing the in-house radiative transfer code for seven different cyclones occurred in North Indian Ocean region during the period 2001–2006. A part of the dataset is used to train the network while the remainder is used for testing purposes. For the purpose of testing, a typical scene from the Southwest monsoon rain is also considered. The results obtained are very encouraging and show that the neural network is able to mimic the underlying physics of the radiative transfer simulations with a correlation coefficient of over 99%.</p>
+				</abstract>
+				<keywords>Radiative transfer;artificial neural network;Megha-Tropiques;TRMM mission;inverse problem.</keywords>
+				<authors>
+					<author>
+						<name first="K. Srinivasa" last="Ramanujam">K. Srinivasa Ramanujam</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai 600 036, India.</affiliation>
+					</author>
+					<author>
+						<name first="C." last="Balaji">C. Balaji</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai 600 036, India.</affiliation>
+						<email>balaji@iitm.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-02-24</date>
+					<date type="R">2010-08-25</date>
+					<date type="A">2010-08-26</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Simulation of at-sensor radiance over land for proposed thermal channels of Imager payload onboard INSAT-3D satellite using MODTRAN model</title>
+				<feature></feature>
+				<page>0019-0025</page>
+				<abstract>
+					<p>INSAT-3D is the new generation Indian satellite designed for improved Earth observations through two payloads – \textit {Imager} and \textit {Sounder}. Study was conducted with an aim of simulating satellite level signal over land in the infrared channels of the Imager payload using a radiative transfer model MODTRAN. Satellite level at-sensor radiance corresponding to all four infrared channels of INSAT-3D Imager payload is obtained using MODTRAN and sensitivity of at-sensor radiance was inferred as a function of input parameters namely, surface temperature, emissivity, view angle and atmospheric water vapour, which is helpful in understanding the signal simulation scheme needed for retrieving a very critical parameter namely, land surface temperature.</p>
+				</abstract>
+				<keywords>Earth observation;imager;INSAT-3D;land surface;MODTRAN;simulation;thermal infrared.</keywords>
+				<authors>
+					<author>
+						<name first="M. R." last="Pandya">M. R. Pandya</name>
+						<affiliation>Space Applications Centre, Indian Space Research Organisation, Ahmedabad 380 015, India.</affiliation>
+						<email>mrpandya@sac.isro.gov.in</email>
+					</author>
+					<author>
+						<name first="D. B." last="Shah">D. B. Shah</name>
+						<affiliation>N. V. Patel College of Pure and Applied Sciences, Vallabh Vidyanagar, India.</affiliation>
+					</author>
+					<author>
+						<name first="H. J." last="Trivedi">H. J. Trivedi</name>
+						<affiliation>N. V. Patel College of Pure and Applied Sciences, Vallabh Vidyanagar, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Panigrahy">S. Panigrahy</name>
+						<affiliation>Space Applications Centre, Indian Space Research Organisation, Ahmedabad 380 015, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-02-24</date>
+					<date type="R">2010-08-21</date>
+					<date type="A">2010-10-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Experimental real-time multi-model ensemble (MME) prediction of rainfall during Monsoon 2008: Large-scale medium-range aspects</title>
+				<feature></feature>
+				<page>0027-0052</page>
+				<abstract>
+					<p>Realistic simulation/prediction of the Asian summer monsoon rainfall on various space–time scales is a challenging scientific task. Compared to mid-latitudes, a proportional skill improvement in the prediction of monsoon rainfall in the medium range has not happened in recent years. Global models and data assimilation techniques are being improved for monsoon/tropics. However, multi-model ensemble (MME) forecasting is gaining popularity, as it has the potential to provide more information for practical forecasting in terms of making a consensus forecast and handling model uncertainties. As major centers are exchanging model output in near real-time, MME is a viable inexpensive way of enhancing the forecasting skill and information content. During monsoon 2008, on an experimental basis, an MME forecasting of large-scale monsoon precipitation in the medium range was carried out in real-time at National Centre for Medium Range Weather Forecasting (NCMRWF), India. Simple ensemble mean (EMN) giving equal weight to member models, bias-corrected ensemble mean (BCEMn) and MME forecast, where different weights are given to member models, are the products of the algorithm tested here. In general, the aforementioned products from the multi-model ensemble forecast system have a higher skill than individual model forecasts. The skill score for the Indian domain and other sub-regions indicates that the BCEMn produces the best result, compared to EMN and MME. Giving weights to different models to obtain an MME product helps to improve individual member models only marginally. It is noted that for higher rainfall values, the skill of the global model rainfall forecast decreases rapidly beyond day-3, and hence for day-4 and day-5, the MME products could not bring much improvement over member models. However, up to day-3, the MME products were always better than individual member models.</p>
+				</abstract>
+				<keywords>India monsoon;rainfall forecast;global-models;multi-model ensemble (MME).</keywords>
+				<authors>
+					<author>
+						<name first="A. K." last="Mitra">A. K. Mitra</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting (NCMRWF), Ministry of Earth Sciences, Noida 201 307, India.</affiliation>
+						<email>ashis.mitra@nic.in</email>
+					</author>
+					<author>
+						<name first="G. R." last="Iyengar">G. R. Iyengar</name>
+						<affiliation>National Centre for Medium Range Weather Forecasting (NCMRWF), Ministry of Earth Sciences, Noida 201 307, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. R." last="Durai">V. R. Durai</name>
+						<affiliation>India Meteorological Department, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="J." last="Sanjay">J. Sanjay</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="T. N." last="Krishnamurti">T. N. Krishnamurti</name>
+						<affiliation>Department of Meteorology, Florida State University, Tallahassee, USA.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Mishra">A. Mishra</name>
+						<affiliation>Department of Meteorology, Florida State University, Tallahassee, USA.</affiliation>
+					</author>
+					<author>
+						<name first="D. R." last="Sikka">D. R. Sikka</name>
+						<affiliation>40 Mausam Vihar, New Delhi 110 051, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-03-10</date>
+					<date type="R">2010-09-15</date>
+					<date type="A">2010-09-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Impact of additional surface observation network on short range weather forecast during summer monsoon 2008 over Indian subcontinent</title>
+				<feature></feature>
+				<page>0053-0064</page>
+				<abstract>
+					<p>The three dimensional variational data assimilation scheme (3D-Var) is employed in the recently developed Weather Research and Forecasting (WRF) model. Assimilation experiments have been conducted to assess the impact of Indian Space Research Organisation’s (ISRO) Automatic Weather Stations (AWS) surface observations (temperature and moisture) on the short range forecast over the Indian region. In this study, two experiments, CNT (without AWS observations) and EXP (with AWS observations) were made for 24-h forecast starting daily at 0000 UTC during July 2008. The impact of assimilation of AWS surface observations were assessed in comparison to the CNT experiment. The spatial distribution of the improvement parameter for temperature, relative humidity and wind speed from one month assimilation experiments demonstrated that for 24-h forecast, AWS observations provide valuable information. Assimilation of AWS observed temperature and relative humidity improved the analysis as well as 24-h forecast. The rainfall prediction has been improved due to the assimilation of AWS data, with the largest improvement seen over the Western Ghat and eastern India.</p>
+				</abstract>
+				<keywords>WRF model and 3D-Var;ISRO AWS;rainfall;threat score.</keywords>
+				<authors>
+					<author>
+						<name first="Prashant" last="Kumar">Prashant Kumar</name>
+						<affiliation>Meteorology and Oceanography Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+						<email>kam3545@gmail.com</email>
+						<email>prashant22@sac.isro.gov.in</email>
+					</author>
+					<author>
+						<name first="Randhir" last="Singh">Randhir Singh</name>
+						<affiliation>Meteorology and Oceanography Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. C." last="Joshi">P. C. Joshi</name>
+						<affiliation>Meteorology and Oceanography Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. K." last="Pal">P. K. Pal</name>
+						<affiliation>Meteorology and Oceanography Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-04-23</date>
+					<date type="R">2010-10-01</date>
+					<date type="A">2010-10-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Doppler SODAR observations of the temperature structure parameter during monsoon season over a tropical rural station, Gadanki</title>
+				<feature></feature>
+				<page>0065-0072</page>
+				<abstract>
+					<p>Doppler SODAR (Sound Detection and Ranging) measurements over a tropical Indian station at National Atmospheric Research Laboratory (NARL), Gadanki ($13.5^\circ N, 79.2^\circ E$) during two consecutive monsoon seasons, 2007 and 2008, are investigated to study the influence of mechanically generated turbulence on temperature structure parameter ($C^{2}_{T}$) in the convective boundary layer. Increase in the $C^{2}_{T}$ is observed after the arrival of monsoon for both seasons. Contribution of vertical wind shear in horizontal wind component to $C^{2}_{T}$ due to zonal winds is responsible for the increase observed in the temperature structure parameter which is inferred from the results obtained. $C^{2}_{T}$ is found to be increased by an order of 2 in both the lower and upper altitudes, respectively. Magnitude of wind speed is reported to be doubled with the arrival of monsoon. It is also observed that, southwest monsoon wind modulates the day-to-day variations of wind pattern over this station during the onset phase of monsoon season. The lower variability observed at lower height is attributed to the complex topography surrounding this region.</p>
+				</abstract>
+				<keywords>Temperature structure parameter;turbulence;Doppler SODAR;winds and monsoon;atmospheric science;remote sensing and monsoons.</keywords>
+				<authors>
+					<author>
+						<name first="M. Shravan" last="Kumar">M. Shravan Kumar</name>
+						<affiliation>National Atmospheric Research Laboratory, Gadanki 517 112, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. K." last="Anandan">V. K. Anandan</name>
+						<affiliation>RDA, ISTRAC, Indian Space Research Organisation, Bangalore 560 058, India.</affiliation>
+						<email>anandanvk@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Amit" last="Kesarkar">Amit Kesarkar</name>
+						<affiliation>National Atmospheric Research Laboratory, Gadanki 517 112, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. Narasimha" last="Reddy">P. Narasimha Reddy</name>
+						<affiliation>Department of Physics, Sri Venkateswara University, Tirupati 517 502, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-10-09</date>
+					<date type="R">2010-09-07</date>
+					<date type="A">2010-09-26</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Variability in surface inversion characteristics over India in winter during the recent decades</title>
+				<feature></feature>
+				<page>0073-0084</page>
+				<abstract>
+					<p>The variation in surface inversions during the recent decades over 20 stations in the Indian region is documented. Radiosonde data at 00UTC for the period 1971–2000 has been used to compute the inversion frequency. The depth and strength of the inversions as well as the wind speed through the inversion layer have also been computed. The frequency of inversions at stations north of $20^\circ N$ is $\sim 20–60%$ higher than stations located south of $20^\circ N$. Moreover, all the stations show frequencies increasing from the 1st to the 3rd decade. Most of the stations show decreasing depth and increasing strength significant at 99% level. With the exception of Nagpur and Hyderabad which show high frequency of very deep inversions increasing from the 1st to the 3rd decade, the decadal variations of inversion depth at most of the other stations show that shallow and moderate inversions occur more frequently than deep or very deep inversions. Decadal variations in inversion strength show weak inversion frequencies decreasing from the 1st to the 3rd decade while moderate/strong inversions occur more frequently at most stations. Frequencies of very strong inversions are low or absent. Wind speeds are either weak or moderate with frequencies increasing from the 1st to the 3rd decade. Low frequency of strong winds and negligible frequency of very strong winds are observed.</p>
+				</abstract>
+				<keywords>Surface inversion;frequency of inversion;inversion depth;inversion strength.</keywords>
+				<authors> 
+					<author>
+						<name first="U. S." last="Iyer">U. S. Iyer</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pashan, Pune 411 008, India.</affiliation>
+						<email>usha@tropmet.res.in</email>
+					</author>
+					<author>
+						<name first="S. G." last="Nagar">S. G. Nagar</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pashan, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-02-08</date>
+					<date type="R">2010-05-08</date>
+					<date type="A">2010-08-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydrogeochemical analysis and evaluation of groundwater quality in the Gadilam river basin, Tamil Nadu, India</title>
+				<feature></feature>
+				<page>0085-0098</page>
+				<abstract>
+					<p>Water samples were collected from different formations of Gadilam river basin and analyzed to assess the major ion chemistry and suitability of water for domestic and drinking purposes. Chemical parameters of groundwater such as pH, electrical conductivity (EC), total dissolved solids (TDS), Sodium ($Na^+$), Potassium ($K^+$), Calcium ($Ca^+$), Magnesium ($Mg^+$), Bicarbonate ($HCO_{3}^-$), Sulphate ($SO_{4}^-$), Phosphate ($PO_{4}^-$) and Silica ($H_{4}SiO_{4}$) were determined. The geochemical study of the aquatic systems of the Gadilam river basin show that the groundwater is near-acidic to alkaline and mostly oxidizing in nature. Higher concentration of Sodium and Chloride indicates leaching of secondary salts and anthropogenic impact by industry and salt water intrusion. Spatial distribution of EC indicates anthropogenic impact in the downstream side of the basin. The concentration levels of trace metals such as Iron (Fe), Lead (Pb), Nickel (Ni), Bromide (Br), Iodide (I) and Aluminium (Al) have been compared with the world standard. Interpretation of data shows that some trace metals such as Al, Ni and Pb exceed the acceptable limit of world standard. Geophysical study was carried out to identify the weathered zone in the hard rock and contaminated zone by anthropogenic impact in the downstream of river Gadilam. A few of the groundwater samples in the study area were found to be unsuitable for domestic and drinking purposes.</p>
+				</abstract>
+				<keywords>Groundwater;major ions;hydrogeochemistry;trace metals;resistivity.</keywords>
+				<authors>
+					<author>
+						<name first="M. V." last="Prasanna">M. V. Prasanna</name>
+						<affiliation>School of Engineering and Science, Department of Applied Geology, Curtin University, Sarawak Campus, CDT 250, 98009 Miri, Sarawak, Malaysia.</affiliation>
+						<email>geoprasanna@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="S." last="Chidambaram">S. Chidambaram</name>
+						<affiliation>Department of Earth Sciences, Annamalai University, Annamalainagar 608 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. Shahul" last="Hameed">A. Shahul Hameed</name>
+						<affiliation>Centre for Water Resources Development and Management, Kozhikode, Kerala, India.</affiliation>
+					</author>
+					<author>
+						<name first="K." last="Srinivasamoorthy">K. Srinivasamoorthy</name>
+						<affiliation>Department of Earth Sciences, Annamalai University, Annamalainagar 608 002, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-01-31</date>
+					<date type="R">2010-10-07</date>
+					<date type="A">2010-10-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Measurement of marine productivity using $^{15}N$ and $^{13}C$ tracers: Some methodological aspects</title>
+				<feature></feature>
+				<page>0099-0111</page>
+				<abstract>
+					<p>Various experiments involving the measurement of new, regenerated and total productivity using $^{15}N$ and $^{13}C$ tracers were carried out in the Bay of Bengal (BOB) and in the Arabian Sea. Results from $^{15}N$ tracer experiments indicate that nitrate uptake can be underestimated by experiments with incubation time &mt; 4 hours. Indirect evidence suggests pico- and nano-phytoplankton, on their dominance over microphytoplankton, can also influence the f-ratios. Difference in energy requirement for assimilation of different nitrogen compounds decides the preferred nitrogen source during the early hours of incubation. Variation in light intensity during incubation also plays a significant role in the assimilation of nitrogen. Results from time course experiments with both $^{15}N$ and $^{13}C$ tracers suggest that photoinhibition appears significant in BOB and the Arabian Sea during noon. A significant correlation has been found in the productivity values obtained using $^{15}N$ and $^{13}C$ tracers.</p>
+				</abstract>
+				<keywords>$^{15}N$;$^{13}C$;nitrate;ammonium;urea;carbon.</keywords>
+				<authors>
+					<author>
+						<name first="Naveen" last="Gandhi">Naveen Gandhi</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email>naveen@prl.res.in</email>
+					</author>
+					<author>
+						<name first="Sanjeev" last="Kumar">Sanjeev Kumar</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<affiliation>Faculty of Natural Resources Management, Lakehead University, Thunder Bay, ON, Canada P7B 5E1.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Prakash">S. Prakash</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<affiliation>Present address: Indian National Centre for Ocean Information Services, Hyderabad 500 055, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Ramesh">R. Ramesh</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. S." last="Sheshshayee">M. S. Sheshshayee</name>
+						<affiliation>Department of Crop Physiology, University of Agricultural Sciences, GKVK Campus, Bangalore 560 065, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-07-09</date>
+					<date type="R">2010-09-21</date>
+					<date type="A">2010-09-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Late Quaternary changes in surface productivity and oxygen minimum zone (OMZ) in the northwestern Arabian Sea: Micropaleontologic and sedimentary record at ODP site 728A</title>
+				<feature></feature>
+				<page>0113-0121</page>
+				<abstract>
+					<p>Changes in the abundance of selected planktic foraminiferal species and some sedimentological parameters at ODP site 728A were examined to understand the fluctuations in the surface productivity and deep sea oxygenation in the NW Arabian Sea during last $\sim 540$ kyr. The increased relative abundances of high fertility taxa, i.e., \textit {Globigerinita glutinata} and \textit {Globigerina bulloides} mainly during interglacial intervals indicate intense upwelling. Strong SW summer monsoon probably increased the upwelling in the western Arabian Sea during interglacial intervals and caused high surface productivities due to the lateral transport of eutrophic waters. Most of the glacial periods (i.e., MIS 2, 4, 6, 8 and 12) are characterized by higher relative abundances of \textit {Neogloboquadrina pachyderma} and \textit {Neogloboquadrina dutertrei} associated with \textit {Globigerinoides ruber}. The more stratified condition and deep mixed layer due to increased NE winter monsoon are mainly responsible for the higher relative abundances of \textit {N. pachyderma} during glacial periods. Some of the glacial intervals (i.e., MIS 6 and 8) are also characterized by pteropod spikes reflecting deepening of aragonite compensation depth (ACD) and relatively less intense oxygen minimum zone (OMZ) in this region due to deep sea mixing and thermocline ventilation, and relatively less intense surface productivity during winter monsoon. The interglacial periods are largely devoid of pteropod shells indicating more aragonite dissolution due to increased intensity of OMZ in the northwestern Arabian Sea.</p>
+					<p>In general, the interglacial periods are characterized by low sediment accumulation rates than the glacial intervals. On an average, the total biogenic carbonate percentages were higher during interglacial and during periods of higher surface productivity. Most terrigenous material was trapped on shelf during intervals of high sea level stands of interglacial, whereas more erosion of shelf increased the sedimentation rates during glacial periods. In addition, the fragmentation record may be the result of changes in intensity and vertical distribution of the OMZ with time. During glacial intervals, the lower boundary of the OMZ probably was in a shallower position than during interglacial periods, when dissolution increased as a result of higher organic production. The higher rates of sinking organic matter result into a stronger OMZ as oxygen is used to disintegrate the organic matter. This process lowers the $p^H$ of water which results into increased dissolution of calcium carbonate.</p>
+				</abstract>
+				<keywords>Arabian Sea;Quaternary;productivity;oxygen minimum zone;planktic foraminifera;pteropod.</keywords>
+				<authors>
+					<author>
+						<name first="Ajai K." last="Rai">Ajai K. Rai</name>
+						<affiliation>Department of Earth & Planetary Sciences, Nehru Science Centre, University of Allahabad, Allahabad 211 002, India.</affiliation>
+						<email>raikajai@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. S." last="Das">S. S. Das</name>
+						<affiliation>Department of Earth & Planetary Sciences, Nehru Science Centre, University of Allahabad, Allahabad 211 002, India.</affiliation>
+						<email>siddharthasankardas.alld@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-02-13</date>
+					<date type="R">2010-09-08</date>
+					<date type="A">2010-09-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Sand and clay mineralogy of sal forest soils of the Doon Siwalik Himalayas</title>
+				<feature></feature>
+				<page>0123-0144</page>
+				<abstract>
+					<p>The peteromineralogical characterization of the soil was carried out for the 12 soil profiles exposed in the \textit {Shorea robusta} dominated forests of the Siwalik forest division, Dehradun. The quartz was observed as the dominating light mineral fraction (64–80%) in all the profiles studied. Biotite, hornblende, zircon, tourmaline, rutile and opaques comprising of iron minerals constituted the heavy mineral fraction (20%). The mineralogy of both the sand and clay fractions revealed a mixed mineralogy. The clay minerals in the order of their dominance were vermiculite, illite, kaolinite and mixed layer minerals. The presence of vermiculite and illite in appreciable quantities indicates that these were synthesized from the K-rich soil solution, as orthoclase and micas were present in significant quantities in the sand minerals. The mineral suites identified in the study shows that the geological, climatological and topographical factors of the region collectively played a dominant role in their formation and transformation. After critical appraisal of the results, it may be deduced that the mineralogical composition, physicochemical properties and total elemental analysis of the soils do not show any deficiency of the bases and other plant nutrients in general. The inherent fertility of the soil is good as indicated by the sand and clay mineralogy of the soil and the biotite and feldspar together with the mica is an important source of nutrients for the vegetation in the soils of the Doon valley.</p>
+				</abstract>
+				<keywords>Sand and clay mineralogy;quartz;vermiculite;Shorea robusta (sal);Doon valley;mineralogy and petrology;geochemistry.</keywords>
+				<authors>
+					<author>
+						<name first="" last="Mukesh">Mukesh</name>
+						<affiliation>Earth and Environmental Science, Korea Basic Science Institute, 804-1 Yangcheong, Ochang, Cheongwon-gun, Chungbuk 363-883, Republic of Korea.</affiliation>
+						<email>mukeshcric@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="R. K." last="Manhas">R. K. Manhas</name>
+						<affiliation>Department of Botany, S.P. College, Srinagar 190 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Tripathi">A. K. Tripathi</name>
+						<affiliation>Earth and Environmental Science, Korea Basic Science Institute, 804-1 Yangcheong, Ochang, Cheongwon-gun, Chungbuk 363-883, Republic of Korea.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Raina">A. K. Raina</name>
+						<affiliation>Forest Soil & Land Reclamation Division, Forest Research Institute, Dehradun 248 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. K." last="Gupta">M. K. Gupta</name>
+						<affiliation>Forest Soil & Land Reclamation Division, Forest Research Institute, Dehradun 248 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Kamboj">S. K. Kamboj</name>
+						<affiliation>Forest Soil & Land Reclamation Division, Forest Research Institute, Dehradun 248 006, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-12-23</date>
+					<date type="R">2010-09-19</date>
+					<date type="A">2010-09-21</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Microtextural and mineral chemical analyses of andesite–dacite from Barren and Narcondam islands: Evidences for magma mixing and petrological implications</title>
+				<feature></feature>
+				<page>0145-0155</page>
+				<abstract>
+					<p>Andesite and dacite from Barren and Narcondam volcanic islands of Andaman subduction zone are composed of plagioclase, orthopyroxene, clinopyroxene, olivine, titanomagnetite, magnesio-hornblende and rare quartz grains. In this study, we use the results of mineral chemical analyses of the calc-alkaline rock suite of rocks as proxies for magma mixing and mingling processes. Plagioclase, the most dominant mineral, shows zoning which includes oscillatory, patchy, multiple and repetitive zonation and ‘fritted’ or ‘sieve’ textures. Zoning patterns in plagioclase phenocrysts and abrupt fluctuations in An content record different melt conditions in a dynamic magma chamber. ‘Fritted’ zones ($An_{55}$) are frequently overgrown by thin calcic ($An_{72}$) plagioclase rims over well-developed dissolution surfaces. These features have probably resulted from mixing of a more silicic magma with the host andesite. Olivine and orthopyroxene with reaction and overgrowth rims (corona) suggest magma mixing processes. We conclude that hybrid magma formed from the mixing of mafic and felsic magma by two-stage processes initial intrusion of hotter mafic melt (andesitic) followed by cooler acidic melt at later stage.</p>
+				</abstract>
+				<keywords>Andesite;dacite;Barren island;Narcondam island;magma mixing.</keywords>
+				<authors>
+					<author>
+						<name first="Dwijesh" last="Ray">Dwijesh Ray</name>
+						<affiliation>National Centre for Antarctic and Ocean Research, Goa 403 804, India.</affiliation>
+						<email>dwijesh@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="S." last="Rajan">S. Rajan</name>
+						<affiliation>National Centre for Antarctic and Ocean Research, Goa 403 804, India.</affiliation>
+					</author>
+					<author>
+						<name first="Rasik" last="Ravindra">Rasik Ravindra</name>
+						<affiliation>National Centre for Antarctic and Ocean Research, Goa 403 804, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ashim" last="Jana">Ashim Jana</name>
+						<affiliation>National Centre for Antarctic and Ocean Research, Goa 403 804, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-12-14</date>
+					<date type="R">2010-08-25</date>
+					<date type="A">2010-08-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evaluation of the role of rock properties in the development of potholes: A case study of the Indrayani knickpoint, Maharashtra</title>
+				<feature></feature>
+				<page>0157-0165</page>
+				<abstract>
+					<p>The most conspicuous erosional features associated with constricted bedrock channel reaches and knickpoints are potholes. The presence and morphology of potholes have been attributed to a number of factors by earlier researchers. Amongst these factors, the role of substrate rock properties has received very little quantitative attention. The main objective of this study is to quantitatively evaluate the physical properties of bedrock in order to test the possible influences of rock properties on the occurrence and morphology of potholes. The area selected for this study is a large scabland area developed by the Indrayani river at Shelarwadi near Pune. This site is ideally suited for the study since it is featured by wide straths, multiple inner channels and several hundred potholes. A transect-based quadrat method was used in this study. Within each quadrat, the pothole dimensions, the joint length, joint direction, the rock mass strength and the distance from active channel were measured. The analysis reveals a weak correlation between pothole size and rock properties. The distance from the active channel emerges as the most significant factor, suggesting that the hydraulics of flows is the key factor and substrate characteristics play only a secondary role.</p>
+				</abstract>
+				<keywords>Pothole;knickpoint;joint density;rock mass strength;Schmidt rock hammer.</keywords>
+				<authors>
+					<author>
+						<name first="Somasis" last="Sengupta">Somasis Sengupta</name>
+						<affiliation>Department of Geography, University of Pune, Pune 41107, India.</affiliation>
+						<email>somasis_22@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Vishwas S." last="Kale">Vishwas S. Kale</name>
+						<affiliation>Department of Geography, University of Pune, Pune 41107, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-12-08</date>
+					<date type="R">2010-08-30</date>
+					<date type="A">2010-09-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Palaeoseismicity in relation to basin tectonics as revealed from soft-sediment deformation structures of the Lower Triassic Panchet formation, Raniganj basin (Damodar valley), eastern India</title>
+				<feature></feature>
+				<page>0167-0181</page>
+				<abstract>
+					<p>The Raniganj basin in the Damodar valley of eastern India is located within the riftogenic Gondwana Master-Basin. The fluvio-lacustrine deposits of the Lower Triassic Panchet Formation of the Damodar valley in the study area preserve various soft-sediment deformation structures such as slump folds, convolute laminae, flame structures, dish-and-pillar structures, sandstone dykes, pseudonodules and syn-sedimentary faults. Although such soft-sediment deformation structures maybe formed by various processes, in the present area the association of these structures, their relation to the adjacent sedimentary rocks and the tectonic and depositional setting of the formation suggest that these structures are seismogenic. Movements along the basin margin and the intra-basinal faults and resultant seismicity with moderate magnitude (2–5 on Richter scale) are thought to have been responsible for the soft-sediment deformations.</p>
+				</abstract>
+				<keywords>Soft-sediment deformation structures;seismites;Panchet formation;Lower Triassic.</keywords>
+				<authors>
+					<author>
+						<name first="Abhik" last="Kundu">Abhik Kundu</name>
+						<affiliation>Department of Geology, Asutosh College, 92, S.P. Mukherjee Road, Kolkata 700 026, India.</affiliation>
+						<email>kundu.abhik@gmail.com</email>
+					</author>
+					<author>
+						<name first="Bapi" last="Goswami">Bapi Goswami</name>
+						<affiliation>Department of Geology, University of Calcutta, 35, Ballygunge Circular Road, Kolkata 700 029, India.</affiliation>
+						<email>bapigoswami69@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Patrick G." last="Eriksson">Patrick G. Eriksson</name>
+						<affiliation>Department of Geology, University of Pretoria, Pretoria 0002, South Africa.</affiliation>
+						<email>pat.eriksson@up.ac.za</email>
+					</author>
+					<author>
+						<name first="Abhijit" last="Chakraborty">Abhijit Chakraborty</name>
+						<affiliation>Department of Geology, Jogamaya Devi College, 92, S.P. Mukherjee Road, Kolkata 700 026, India.</affiliation>
+						<email>chakra bhiji@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-11-05</date>
+					<date type="R">2010-05-05</date>
+					<date type="A">2010-09-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Influence of shear velocity on frictional characteristics of rock surface</title>
+				<feature></feature>
+				<page>0183-0191</page>
+				<abstract>
+					<p>Understanding the fundamental issues related with the effect of shear velocity on frictional characteristics at the interface of rock surfaces is an important issue. In this paper, strain-rate dependence on friction is investigated in relation to sliding behaviour under normal load. The phenomenon of stick-slip of granite and shaly sandstone with a tribometer at constant rate of strain under normal loads was observed.</p>
+					<p>Friction at the interface of the rock samples was developed by increasing shear strain at a constant rate by applying constant velocity using the tribometer. For shaly sandstone, state parameters (\textit {a} and \textit {b}) played a major role in determining the friction values and roughness of the contact surfaces as well. Higher values of \textit {b} for shaly sandstone may be attributed to the fact that its surface had a greater number of pronounced asperities. Rubbing between the surfaces does not mean that surface becomes smoother. This is because of variation of friction between surfaces.</p>
+				</abstract>
+				<keywords>Tribometer;granite;shaly sandstone;state variable;stick-slip friction.</keywords>
+				<authors> 
+					<author>
+						<name first="T. N." last="Singh">T. N. Singh</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology, Powai, Mumbai 400 056, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Verma">A. K. Verma</name>
+						<affiliation>CeRES, The Energy and Resources Institute, Darbari Seth Block, IHC Complex, Lodhi Road, New Delhi 110 003, India.</affiliation>
+						<email>amverma@iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="Tanmay" last="Kumar">Tanmay Kumar</name>
+						<affiliation>Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="Avi" last="Dutt">Avi Dutt</name>
+						<affiliation>Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-12-15</date>
+					<date type="R">2010-09-04</date>
+					<date type="A">2010-09-09</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="04" year="2011">
+			<entry hassup="0">
+				<title>Slab detachment of subducted Indo-Australian plate beneath Sunda arc, Indonesia</title>
+				<feature></feature>
+				<page>0193-0204</page>
+				<abstract>
+					<p>Necking, tearing, slab detachment and subsequently slab loss complicate the subduction zone processes and slab architecture. Based on evidences which include patterns of seismicity, seismic tomography and geochemistry of arc volcanoes, we have identified a horizontal slab tear in the subducted Indo-Australian slab beneath the Sunda arc. It strongly reflects on trench migration, and causes along-strike variations in vertical motion and geochemically distinct subduction-related arc magmatism. We also propose a model for the geodynamic evolution of slab detachment.</p>
+				</abstract>
+				<keywords>Slab detachment;subduction zone;Sunda arc;Indo-Australian slab;trench migration.</keywords>
+				<authors>  
+					<author>
+						<name first="Bhaskar" last="Kundu">Bhaskar Kundu</name>
+						<affiliation>National Geophysical Research Institute, Council of Scientific and Industrial Research, Uppal Road, Hyderabad 500 007, India.</affiliation>
+						<email>rilbhaskar@gmail.com</email>
+					</author>
+					<author>
+						<name first="V. K." last="Gahalaut">V. K. Gahalaut</name>
+						<affiliation>National Geophysical Research Institute, Council of Scientific and Industrial Research, Uppal Road, Hyderabad 500 007, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-08-09</date>
+					<date type="R">2010-10-29</date>
+					<date type="A">2010-12-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>One-dimensional unsteady solute transport along unsteady flow through inhomogeneous medium</title>
+				<feature></feature>
+				<page>0205-0213</page>
+				<abstract>
+					<p>The one-dimensional linear advection–diffusion equation is solved analytically by using the Laplace integral transform. The solute transport as well as the flow field is considered to be unsteady, both of independent patterns. The solute dispersion occurs through an inhomogeneous semi-infinite medium. Hence, velocity is considered to be an increasing function of the space variable, linearly interpolated in a finite domain in which solute dispersion behaviour is studied. Dispersion is considered to be proportional to the square of the spatial linear function. Thus, the coefficients of the advection–diffusion equation are functions of both the independent variables, but the expression for each coefficient is considered in degenerate form. These coefficients are reduced into constant coefficients with the help of a new space variable, introduced in our earlier works, and new time variables. The source of the solute is considered to be a stationary uniform point source of pulse type.</p>
+				</abstract>
+				<keywords>Advection;diffusion;inhomogeneous medium;degenerate form;variable coefficients.</keywords>
+				<authors>
+					<author>
+						<name first="Sanjay K." last="Yadav">Sanjay K. Yadav</name>
+						<affiliation>Department of Mathematics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="Atul" last="Kumar">Atul Kumar</name>
+						<affiliation>Department of Mathematics, Lucknow University, Lucknow 226 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="Dilip K." last="Jaiswal">Dilip K. Jaiswal</name>
+						<affiliation>Department of Mathematics, Lucknow University, Lucknow 226 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="Naveen" last="Kumar">Naveen Kumar</name>
+						<affiliation>Department of Mathematics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email>nks_1953@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-04-27</date>
+					<date type="R">2010-10-30</date>
+					<date type="A">2010-11-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evaluation of RTK-GPS and Total Station for applications in land surveying</title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>U. Kizil and L. Tisor  
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page>000-000</page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
