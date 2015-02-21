@@ -37130,7 +37130,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Structure and properties of SmCu$_{6−x}$In$_{6+x}$ ($x$ = 0, 1, 2)</title>
 				<feature>Regular Articles</feature>
 				<page>1315-1323</page>
@@ -37184,7 +37184,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Synthesis of substituted guanidines using Zn–Al hydrotalcite catalyst</title>
 				<feature>Regular Articles</feature>
 				<page>1339-1345</page>
@@ -37221,7 +37221,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>A selective nanocatalyst for an efficient Ugi reaction: Magnetically recoverable Cu(acac)$_2$/NH$_2$-T/SiO$_2$&#64;Fe$_3$O$_4$ nanoparticles</title>
 				<feature>Regular Articles</feature>
 				<page>1347-1357</page>
@@ -37253,7 +37253,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Mesostructured SBA-15-Pr-SO$_3$H: An efficient solid acid catalyst for one-pot and solvent-free synthesis of 3,4-dihydro-2-pyridone derivatives</title>
 				<feature>Regular Articles</feature>
 				<page>1359-1364</page>
@@ -37436,7 +37436,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Reactivity of allenylphosphonates and allenylphosphine oxides toward 9-chloroacridines and acridone– A facile route to new $N$-substituted acridones</title>
 				<feature>Regular Articles</feature>
 				<page>1405-1417</page>
@@ -37560,7 +37560,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Synthesis, structural characterization and biological activity of a trinuclear zinc(II) complex: DNA interaction study and antimicrobial activity</title>
 				<feature>Regular Articles</feature>
 				<page>1445-1453</page>
@@ -37634,7 +37634,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Two expedient ‘one-pot’ methods for synthesis of $\beta$-aryl-$\beta$-mercaptoketones over anhydrous potassium carbonate or amberlyst-15 catalyst</title>
 				<feature>Regular Articles</feature>
 				<page>1463-1470</page>
@@ -37671,7 +37671,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Efficient one-pot four-component synthesis of fused thiazolopyridin-2-ones in ionic liquid</title>
 				<feature>Regular Articles</feature>
 				<page>1471-1480</page>
@@ -37837,7 +37837,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Synthesis of new 4,6-disubstituted-1,3-oxazinan-2-one analogues</title>
 				<feature>Regular Articles</feature>
 				<page>1503-1510</page>
@@ -37935,7 +37935,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Recyclable L-proline organocatalyst forWieland–Miescher ketone synthesis</title>
 				<feature>Regular Articles</feature>
 				<page>1523-1527</page>
@@ -38016,7 +38016,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Zn(OTf)$_2$-catalysed indolylation and pyrrolylation of isatins: Efficient synthesis and biochemical assay of 3,3-di(heteroaryl)oxindoles</title>
 				<feature>Regular Articles</feature>
 				<page>1543-1553</page>
@@ -38091,7 +38091,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="1">
 				<title>Facile green synthesis and potent antimicrobial efficacy of $\beta$-aminoheteronapthol via tailored Betti’s protocol and their $bis$-aryl hydrazone click products</title>
 				<feature>Regular Articles</feature>
 				<page>1573-1594</page>
@@ -38184,86 +38184,112 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Stochastic optimization-based study of dimerization kinetics</title>
 				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<page>1619-1627</page>
 				<abstract>
-					<p></p>
+					<p>We investigate the potential of numerical algorithms to decipher the kinetic parameters involved in multi-step chemical reactions. To this end, we study dimerization kinetics of protein as a model system. We follow the dimerization kinetics using a stochastic simulation algorithm and combine it with three different optimization techniques (genetic algorithm, simulated annealing and parallel tempering) to obtain the rate constants involved in each reaction step. We find good convergence of the numerical scheme to the rate constants of the process. We also perform a sensitivity test on the reaction kinetic parameters to see the relative effects of the parameters for the associated profile of the monomer/dimer distribution.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Stochastic optimization; dimerization kinetics; sensitivity analysis; stochastic simulation algorithm; probability distribution function.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Srijeeta" last="Talukder">Srijeeta Talukder</name>
+						<affiliation>Department of Chemistry, University of Calcutta, 92 A P C Road, Kolkata 700 009, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shrabani" last="Sen">Shrabani Sen</name>
+						<affiliation>Department of Chemistry, University of Calcutta, 92 A P C Road, Kolkata 700 009, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Ralf" last="Metzler">Ralf Metzler</name>
+						<affiliation>Institute for Physics and Astronomy, University of Potsdam, D-14476 Potsdam-Golm, Germany</affiliation>
+						<affiliation>Physics Department, Tampere University of Technology, FI-33101 Tampere, Finland</affiliation>
+						<email>rmetzler@uni-potsdam.de</email>
+					</author>
+					<author>
+						<name first="Suman K." last="Banik">Suman K. Banik</name>
+						<affiliation>Department of Chemistry, Bose Institute, 93/1 A P C Road, Kolkata 700 009, India</affiliation>
+						<email>skbanik@bic.boseinst.ernet.in</email>
+					</author>
+					<author>
+						<name first="Pinaki" last="Chaudhury">Pinaki Chaudhury</name>
+						<affiliation>Department of Chemistry, University of Calcutta, 92 A P C Road, Kolkata 700 009, India</affiliation>
+						<email>pinakc@rediffmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-03-08</date>
+					<date type="R">2013-07-02</date>
+					<date type="A">2013-08-12</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
+			<entry hassup="1">
+				<title>First principle study of the interaction of elemental Hg with small neutral, anionic and cationic Pd$_n$ ($n = 1–6$) clusters</title>
 				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<page>1629-1637</page>
 				<abstract>
-					<p></p>
+					<p>Density functional theory (DFT)-based calculations have been performed so as to study the interaction of elemental mercury (Hg) with small neutral, cationic and anionic palladium clusters (Pd$_n$, $n = 1–6$). Results of these calculations clearly indicate that frontier molecular orbital (FMO) theory is a useful method to predict the selectivity of Hg adsorption. Binding energies of Hg on cationic Pd$_n$ clusters are generally found to be greater than those on neutral and anionic clusters. Results of natural bond orbital (NBO) analysis show that the flow of electrons in the neutral and charged complexes is mainly due to s orbitals of Hg. NBO analysis also indicates that, in most of the cases, the binding energies of Hg with Pdn clusters are directly proportional to charge transfer, i.e., greater the charge transfer, higher is the binding energy.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Detection of elemental mercury; frontier molecular orbital (FMO) theory; density functional theory (DFT).</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Shamoon Ahmad" last="Siddiqui">Shamoon Ahmad Siddiqui</name>
+						<affiliation>Department of Physics, College of Arts and Science, Najran University, Najran P.O. Box 1988, Kingdom of Saudi Arabia</affiliation>
+						<affiliation>Promising Centre for Sensors and Electronic Devices, Najran University, Najran P.O. Box 1988, Kingdom of Saudi Arabia</affiliation>
+						<email>shamoonasiddiqui@gmail.com</email>
+					</author>
+					<author>
+						<name first="Nadir" last="Bouarissa">Nadir Bouarissa</name>
+						<affiliation>Department of Physics, College of Arts and Science, Najran University, Najran P.O. Box 1988, Kingdom of Saudi Arabia</affiliation>
+						<affiliation>Promising Centre for Sensors and Electronic Devices, Najran University, Najran P.O. Box 1988, Kingdom of Saudi Arabia</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-03-09</date>
+					<date type="R">2013-06-08</date>
+					<date type="A">2013-08-12</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Hydrogen binding effect on charged P$_{2n}$ ($n = 1–7$) clusters</title>
 				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<page>1639-1647</page>
 				<abstract>
-					<p></p>
+					<p>An all-electron (AE) calculation of the hydrogen binding effect on charged phosphorus clusters has been performed under the framework of density functional theory (DFT). Compared with the P$^{\pm}_{2n}$ ($n = 1–7$) clusters, the HP$^{\pm}_{2n}$ ($n = 1–7$), cluster has shorter average P–P bond length, larger binding energy and HOMOLUMO gap (HLG), higher chemical hardness and frequency of P–P mode. After binding with one hydrogen atom, the electronic structure is changed from open electronic shell to closed electronic shell. Geometrical stability, chemical stability and electronic stability are strengthened. These stability enhancements may be simply understood considering the electron pairing effect.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Charged phosphorus clusters; hydrogen binding effect; electron pairing effect.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Zhicong" last="Fang">Zhicong Fang</name>
+						<affiliation>School of Automotive and Electronic Engineering, Xichang College, Xichang, Sichuan, 615013, China</affiliation>
+						<email>fangzc@sohu.com</email>
+					</author>
+					<author>
+						<name first="Xiangjun" last="Kuang">Xiangjun Kuang</name>
+						<affiliation>School of Science, Southwest University of Science and Technology, Mianyang, Sichuan, 621010, China</affiliation>
+						<affiliation>College of Physics, Chongqing University, Chongqing, 400044, China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2013-04-25</date>
 					<date type="R"></date>
-					<date type="A"></date>
+					<date type="A">2013-07-14</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>1649-1676</page>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -38272,20 +38298,12 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<title>Author Index</title>
+				<feature></feature>
+				<page>1677-1690</page>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -38293,21 +38311,17 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
+		</issue>
+	</volume>
+	<volume vnum="126">
+		<issue inum="01" month="01" year="2014"> 
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<title>Contents</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -38316,20 +38330,12 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<title>General Editorial on Publication Ethics</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors /> 
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -38338,1538 +38344,1189 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Signal amplification of dopamine using lanthanum hexacyanoferrate-modified electrode</title>
+				<feature></feature>
+				<page>0011-0016</page>
 				<abstract>
-					<p></p>
+					<p>A sensitive and selective electrochemical sensor has been developed using an electroactive polynuclear lanthanum hexacyanoferrate (LaHCF) complex with counter alkali cation (Na$^+$) deposited on the glassy carbon (GC) electrode (GC/LaHCF). The GC/LaHCF-modified electrode is found to be an excellent transducer in mediating the oxidation of neurotransmitter molecule such as dopamine (DA) at physiological pH 7.2. Interestingly, the GC/LaHCF-modified electrode amplifies a 50-fold enhancement in the oxidation of DA signal compared to the bare GC electrode. Besides, the GC/LaHCF-modified electrode shows excellent selectivity in the voltammetric oxidation of DA in the presence of ascorbic acid (AA). Under optimal conditions, the GC/LaHCF modified electrode shows a linear relationship in DA oxidation between $0.1 \times 10^{−6}$ and $1.0 \times 10^{−6}$M with the detection limit of $1 \times 10^{−8}$M (10 nM). Importantly, practical utility of the modified electrode is good in studying the real sample analysis such as dopamine hydrochloride injection assay.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Lanthanum hexacyanoferrate-modified electrode; dopamine; ascorbic acid; signal amplification; real sample analysis.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="T." last="Selvaraju">T. Selvaraju</name>
+						<affiliation>Centre for Photoelectrochemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
+						<affiliation>Department of Chemistry, Karunya University, Coimbatore 641 114, India</affiliation>
+						<email>selvaraju@karunya.edu</email>
+					</author>
+					<author>
+						<name first="R." last="Ramaraj">R. Ramaraj</name>
+						<affiliation>Centre for Photoelectrochemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2012-01-31</date>
+					<date type="R">2013-09-12</date>
+					<date type="A">2013-10-14</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Improved electrochemical performance of Ag-modified Li$_4$Ti$_5$O$_{12}$ anode material in a broad voltage window</title>
+				<feature></feature>
+				<page>0017-0023</page>
 				<abstract>
-					<p></p>
+					<p>Li$_4$Ti$_5$O$_{12}$/Ag composites were synthesized by a solid-state method. The effect of Ag modification on the physical and electrochemical properties is discussed by the characterizations of X-ray diffraction, scanning electron microscopy, cyclic voltammetry, electrochemical impedance spectroscopy, cycling and rate tests. The lattice parameter of Li$_4$Ti$_5$O$_{12}$ with a low Ag content is almost not changed, but the lattice parameter becomes larger due to the high content of Ag. Li$_4$Ti$_5$O$_{12}$/Ag material has a uniform particle size which is about 1 $\mu$m. Modification of appropriate Ag is beneficial to the reversible intercalation and deintercalation of Li$^+$. Modification of Ag not only decreases the charge transfer resistance of Li$_4$Ti$_5$O$_{12}$ material, but also improves the diffusion coefficient of lithium ion. Li$_4$Ti$_5$O$_{12}$/Ag (3 mass&#37;) material has the lowest charge transfer resistance, the highest diffusion coefficient of lithium ion and the best rate cycling performance.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Lithium-ion battery; anode material; Li$_4$Ti$_5$O$_{12}$/Ag; electrochemical performance.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Yan-Rong" last="Zhu">Yan-Rong Zhu</name>
+						<affiliation>School of Chemistry and Chemical Engineering, Anhui University of Technology, Maanshan, Anhui 243002, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ting-Feng" last="Yi">Ting-Feng Yi</name>
+						<affiliation>School of Chemistry and Chemical Engineering, Anhui University of Technology, Maanshan, Anhui 243002, People’s Republic of China</affiliation>
+						<affiliation>Postdoctoral Research Station of Chemical Engineering &amp; Technology, Harbin Institute of Technology, 150001 Harbin, China</affiliation>
+						<affiliation>Chilwee Power Co. Ltd., Changxing, Zhejiang 313100, People’s Republic of China</affiliation>
+						<email>tfyihit@163.com</email>
+					</author>
+					<author>
+						<name first="Hong-Tao" last="Ma">Hong-Tao Ma</name>
+						<affiliation>Chilwee Power Co. Ltd., Changxing, Zhejiang 313100, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yong-Quan" last="Ma">Yong-Quan Ma</name>
+						<affiliation>Chilwee Power Co. Ltd., Changxing, Zhejiang 313100, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Li-Juan" last="Jiang">Li-Juan Jiang</name>
+						<affiliation>School of Chemistry and Chemical Engineering, Anhui University of Technology, Maanshan, Anhui 243002, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rong-Sun" last="Zhu">Rong-Sun Zhu</name>
+						<affiliation>School of Chemistry and Chemical Engineering, Anhui University of Technology, Maanshan, Anhui 243002, People’s Republic of China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-18</date>
+					<date type="R">2013-09-12</date>
+					<date type="A">2013-09-17</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Electrocatalytic activity of Cu$_2$O nanocubes-based electrode for glucose oxidation</title>
+				<feature></feature>
+				<page>0025-0032</page>
 				<abstract>
-					<p></p>
+					<p>A direct electrocatalytic activity of glucose oxidation on cuprous oxide modified glassy carbon electrode is reported. Cu$_2$O nanocubes were synthesized by a simple wet chemical route in the absence of surfactants. Purity, shape and morphology of Cu$_2$O are characterized by XRD, SEM, XPS and DRS-UV. The Cu$_2$O nanocubes-modified glassy carbon electrode (GCE) exhibited high electrocatalytic activity towards glucose oxidation compared with bare GCE electrode. At an applied potential of $+$0.60V, the Cu$_2$O electrode presented a high sensitivity of 121.7 $\mu$A/mM. A linear response was obtained from 0 to 500 $\mu$M, a response time less than 5 s and a detection limit of 38 $\mu$M (signal/noise=3). The Cu$_2$O nanocubes-modified electrode was stable towards interfering molecules like uric acid (UA), ascorbic acid (AA) and dopamine (DA). In short, a facile chemical preparation process of cuprous oxide nanocubes, and the fabricated modified electrode allow highly sensitive, selective, and fast amperometric sensing of glucose, which is promising for the future development of non-enzymatic glucose sensors.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cuprous oxide nanocubes; electrocatalysis; non-enzymatic glucose sensor; amperometric sensing.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Sathiyanathan" last="Felix">Sathiyanathan Felix</name>
+						<affiliation>Centre for Nanotechnology Research, VIT University, Vellore 632 014, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Pratap" last="Kollu">Pratap Kollu</name>
+						<affiliation>Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay, Mumbai 400076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Bala P. C." last="Raghupathy">Bala P. C. Raghupathy</name>
+						<affiliation>Centre for Nanotechnology Research, VIT University, Vellore 632 014, India</affiliation>
+						<affiliation>Research &amp; Advanced Engineering Division (Materials), Renault Nissan Technology &amp; Business Center India (P) Ltd., Chennai 603002, India</affiliation>
+						<email>balapraveen2000@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Soon Kwan" last="Jeong">Soon Kwan Jeong</name>
+						<affiliation>Climate Change Technology Research Division, Korea Institute of Energy Research, Yuseong-gu, Daejeon 305-343, South Korea</affiliation>
+						<email>jeongsk@kier.re.kr</email>
+					</author>
+					<author>
+						<name first="Andrews Nirmala" last="Grace">Andrews Nirmala Grace</name>
+						<affiliation>Centre for Nanotechnology Research, VIT University, Vellore 632 014, India</affiliation>
+						<affiliation>Climate Change Technology Research Division, Korea Institute of Energy Research, Yuseong-gu, Daejeon 305-343, South Korea</affiliation>
+						<email>anirmalagrace@vit.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-08</date>
+					<date type="R">2013-10-14</date>
+					<date type="A">2013-11-13</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>N$'$, N$''$, N$'''$-tris(2-pyridyloxymethyl) ethane as ionophore in potentiometric sensor for Pb(II) ions</title>
+				<feature></feature>
+				<page>0033-0040</page>
 				<abstract>
-					<p></p>
+					<p>N$'$,N$''$,N$'''$ tris(2-pyridyloxymethyl) ethane (TPOME) has been used as an ionophore in a polyvinylchloride (PVC)-based membrane. Membrane electrode with a composition 30:5:62:3 (PVC:TPOME: o-NPOE:NaTPB) exhibits Nernstian response towards Pb(II) ions with a slope of 30mV/decade, over a concentration range of $1 \times 10^{−5}$ M to $1  \times 10^{−1}$ M. Potential response remains almost unchanged over pH range of 3.7–6.4. The electrode shows fast response time of $15 \pm 2$ s and a lifetime of four months. It shows good selectivity for Pb(II) ions over other mono-, di- and trivalent cations. Electrode response is satisfactory in mixed solvent media up to 30&#37; (v/v) non-aqueous contents. Selectivity of the ionophore for Pb(II) ions was determined by spectrophotometric method. The electrode can also be used as an indicator electrode in potentiometric titration of Pb(II) ions with standard chromate solution and its determination in real-life samples. Surface morphology of membrane electrode at different stages of its development and use is also discussed.</p>
 				</abstract>
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Pawan" last="Kumar">Pawan Kumar</name>
+						<affiliation>School of Chemistry and Biochemistry, Thapar University, Patiala 147 004, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ashok Kumar" last="S. K.">Ashok Kumar S. K.</name>
+						<affiliation>Materials Chemistry Division, School of Advanced Sciences, VIT University, Vellore 632 014, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Susheel K." last="Mittal">Susheel K. Mittal</name>
+						<affiliation>School of Chemistry and Biochemistry, Thapar University, Patiala 147 004, India</affiliation>
+						<email>smittal@thapar.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2012-11-29</date>
+					<date type="R">2013-08-26</date>
+					<date type="A">2013-08-30</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>The behaviour of polyaniline-coated PVC membrane based on 7, 16-didecyl-1, 4, 10, 13-tetraoxa-7, 16-diazacyclooctadecane for pH measurements in highly acidic media</title>
+				<feature></feature>
+				<page>0041-0048</page>
 				<abstract>
-					<p></p>
+					<p>Polyaniline(PANI) chemically coated on poly(vinyl chloride) (PVC) membrane based on a neutral carrier 7,16-didecyl-1,4,10,13-tetraoxa-7,16-diazacyclooctadecane (kryptofix 22 DD) as the active component has been developed for determination of pH values ranging from pH 0.1–1. The effect of experimental parameters such as membrane composition, nature and amount of plasticizer, lipophilic additives and thickness of PANI film on the potential response of the pH electrode was investigated. The electrode has an apparent Nernstian response slope of 54.5 $\pm$ 0.4 mV pH$^{−1}$ (at 20$^\circ$C). The equilibrium water content of the electrode was determined in pure water and NaCl solution (I = 0.1 mol Kg$^{−1}$). The electrode had low electric resistance, good potential stability and reproducibility ($\pm$1.5 mV, $n = 10$). It has a rapid potential response to changes of pH (15 s). The excellent performance in terms of linearity, stability and fast response makes this device suitable for pH measurements in highly acidic media.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Polyaniline; 7,16-didecyl-1,4,10,13-tetraoxa-7,16-diazacyclooctadecane; poly(vinyl chloride) membrane; hydrogen ion-selective electrode.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R." last="Ansari">R. Ansari</name>
+						<affiliation>Department of Chemistry, Faculty of Science, University of Guilan, P O Box: 41635-1914, Namjoo Street, Rasht, Iran</affiliation>
+						<email>ransari271@guilan.ac.ir</email>
+					</author>
+					<author>
+						<name first="M." last="Arvand">M. Arvand</name>
+						<affiliation>Department of Chemistry, Faculty of Science, University of Guilan, P O Box: 41635-1914, Namjoo Street, Rasht, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L." last="Heydari">L. Heydari</name>
+						<affiliation>Department of Chemistry, Faculty of Science, University of Guilan, P O Box: 41635-1914, Namjoo Street, Rasht, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-31</date>
+					<date type="R">2013-10-07</date>
+					<date type="A">2013-11-05</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Anthraquinone-based demultiplexer and other multiple operations at the molecular level</title>
+				<feature></feature>
+				<page>0049-0054</page>
 				<abstract>
-					<p></p>
+					<p>Anthraquinone-based chemosensor ${\bf L}$ with pyridine units as additional functional groups has been found to show pH-dependent multiple coordinationmodes towards differentmetal ions (Co$^{2+}$, Ni$^{2+}$ and Cu$^{2+}$). Based on these different absorption changes, this differential colorimetric chemosensor ${\bf L}$ has found promising applications as a multiple-mode molecular logic system, i.e., OR, three – input NOR, three – input INHIBIT, TRANSFER and 1:2 DEMUX.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Anthraquinone; chemosensors; molecular logic gates; demultiplexer.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Navneet" last="Kaur">Navneet Kaur</name>
+						<affiliation>Department of Chemistry, Panjab University, Chandigarh 160 014, India</affiliation>
+						<email>neet_chem@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Subodh" last="Kumar">Subodh Kumar</name>
+						<affiliation>Department of Chemistry, Guru Nanak Dev University, Amritsar 143 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-06-17</date>
+					<date type="R">2013-09-02</date>
+					<date type="A">2013-10-22</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Effects of acid concentration on intramolecular charge transfer reaction of 4-(azetidinyl) benzonitrile in solution</title>
+				<feature></feature>
+				<page>0055-0063</page>
 				<abstract>
-					<p></p>
+					<p>Effects of acid concentration on excited state intramolecular charge transfer reaction of 4-(azetidinyl) benzonitrile (P4C) in aprotic (acetonitrile and ethyl acetate) and protic (ethanol) solvents have been studied by means of steady state absorption and fluorescence, and time resolved fluorescence spectroscopic techniques. While absorption and fluorescence bands of P4C have been found to be shifted towards higher energy with increasing acid concentration in acetonitrile and ethyl acetate, no significant dependence has been observed in ethanolic solutions. Reaction rate becomes increasingly slower with acid concentration in acetonitrile and ethyl acetate. In contrast, acid in ethanolic solutions does not produce such an effect on reaction rate. Time-dependent density functional theory calculations have been performed to understand the observed spectroscopic results.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Intramolecular charge transfer; absorption and fluorescence; time resolved fluorescence measurements; acid concentration dependence; time-dependent density functional theory.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Biswajit" last="Guchhait">Biswajit Guchhait</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, SN Bose National Centre for Basic Sciences, Block-JD, Sector-III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tuhin" last="Pradhan">Tuhin Pradhan</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, SN Bose National Centre for Basic Sciences, Block-JD, Sector-III, Salt Lake, Kolkata 700 098, India</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Ranjit" last="Biswas">Ranjit Biswas</name>
+						<affiliation>Department of Chemical, Biological and Macromolecular Sciences, SN Bose National Centre for Basic Sciences, Block-JD, Sector-III, Salt Lake, Kolkata 700 098, India</affiliation>
+						<email>ranjit@bose.res.in</email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-01</date>
+					<date type="R">2013-10-16</date>
+					<date type="A">2013-10-18</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Effective synthesis route for red-brown pigments based on Ce – Pr – Fe – O and their potential application for near infrared reflective surface coating</title>
+				<feature></feature>
+				<page>0065-0073</page>
 				<abstract>
-					<p></p>
+					<p>New cerium-based ceramic pigments, displaying Ce$_2$Pr$_{0.2}$Fe$_x$O$_{4.3+y}$ stoichiometry, were obtained at low temperature using a sol–gel method. The powder precursor dissolved in 80&#37; ethylene glycol was precipitated using ammonia and the obtained gel calcined at 800$^\circ$C for 2 h to yield homogeneous and crystalline particles with a diameter of around 150 nm. The oxide was composed of cerium in its $+$4 oxidation state and Pr in its $+$3 oxidation state. The oxides with varying Fe content had an intense red-brown colour, with bandgap energy of around 2.2 eV at 0.1 mol&#37; Fe doping. The near infra red reflectance from these pigments, a measure of their ability to reflect rather than absorb heat waves from sunlight was found to be 82.7&#37;, even in the absence of a white reflective base. Such high near infra red reflectance from these pigments qualify them for being ideal cool pigments for surface coating applications.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Sol–gel route; calcination; rare earth pigments; benign colorants; red hue; bandgap energy; spectroscopy; NIR reflectance; cool colorants; magnetic coating.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Sriparasara" last="Radhika">Sriparasara Radhika</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Kalarical Janardhanan" last="Sreeram">Kalarical Janardhanan Sreeram</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
+						<email>kjsreeram@clri.res.in</email>
+					</author>
+					<author>
+						<name first="Balachandran Unni" last="Nair">Balachandran Unni Nair</name>
+						<affiliation>Chemical Laboratory, Central Leather Research Institute, Council of Scientific and Industrial Research, Adyar, Chennai 600 020, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-23</date>
+					<date type="R">2013-10-15</date>
+					<date type="A">2013-11-07</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Synthesis, characterization and photoluminescence properties of graphene oxide functionalized with azo molecules</title>
+				<feature></feature>
+				<page>0075-0083</page>
 				<abstract>
-					<p></p>
+					<p>Two different azo molecules functionalized graphene oxide (GO) through an ester linkage have been synthesized for the first time. Chemical structure of the azo-GO hybrids was confirmed by Fourier transform infrared spectroscopy and UV-visible spectroscopy. The GO functionalized with 5-((4-methoxyphenyl)azo)-salicylaldehyde was further characterized by scanning electron microscopy (SEM), transmission electron microscopy (TEM), and atomic force microscopy (AFM). The SEM studies demonstrated that the morphology of the azo-GO hybrid was found to be similar to the GO sheets but slightly more wrinkled. Further, TEM image of azo-GO indicates some dark spots on the GO sheets due to azo functionalization. AFM results also reveal that the azo functionalization increases the thickness of GO sheet to 4–5 nm from 1.2–1.8 nm. Both the azo-hybrids show absorption band around 379 nm due to the $\pi-\pi^\ast$ transition of the trans azo units. Photoluminescence spectra of azo-GO hybrids show a strong quenching compared with azo molecules due to the photoinduced electron or energy transfer from the azo chromophore to the GO sheets. It also reveals strong electronic interaction between azo and GO sheets.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Azo benzene functionalized graphene oxide; photo switching; azo/GO hybrid; covalent functionalization; photochromic molecules.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R." last="Devi">R. Devi</name>
+						<affiliation>Department of Sciences, Chemistry and Materials Research Laboratory, Amrita Vishwa Vidhyapeetham, Coimbatore 641 112, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G." last="Prabhavathi">G. Prabhavathi</name>
+						<affiliation>Research and Development Centre, Bharathiyar University, Coimbatore 641 112, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Yamuna">R. Yamuna</name>
+						<affiliation>Department of Sciences, Chemistry and Materials Research Laboratory, Amrita Vishwa Vidhyapeetham, Coimbatore 641 112, India</affiliation>
+						<email>r_yamuna@cb.amrita.edu</email>
+					</author>
+					<author>
+						<name first="S." last="Ramakrishnan">S. Ramakrishnan</name>
+						<affiliation>Department of Chemical Engineering and Material Science, Chemistry and Materials Research Laboratory, Amrita Vishwa Vidhyapeetham, Coimbatore 641 112, India</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Nikhil K." last="Kothurkar">Nikhil K. Kothurkar</name>
+						<affiliation>Department of Chemical Engineering and Material Science, Chemistry and Materials Research Laboratory, Amrita Vishwa Vidhyapeetham, Coimbatore 641 112, India</affiliation>
+						<email></email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-05-01</date>
+					<date type="R">2013-09-19</date>
+					<date type="A">2013-09-19</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Silica-acac-supported palladium nanoparticles as an efficient and reusable heterogeneous catalyst in the Suzuki–Miyaura cross-coupling reaction in water</title>
+				<feature></feature>
+				<page>0085-0093</page>
 				<abstract>
-					<p></p>
+					<p>Supported Pd nanoparticles on acetyl acetone modified silica gel was prepared and its catalytic application in the Suzuki–Miyaura reaction of various aryl halides with phenylboronic acid was investigated. The reaction was carried out in water as solvent under green conditions in the presence of NaHCO$_3$ as the base. The catalyst was characterized by a combination of powder XRD, XPS, TEM and SEM. The catalyst is not sensitive to air and moisture, so reactions were carried out without using inert atmosphere. The catalyst can be reused up to six times without significant loss of catalyst activity. The cumulative turnover number (TON) over six runs is 13525.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Supported palladium nanoparticles; Suzuki–Miyaura reaction; aryl halide; phenylboronic acid; heterogeneous catalyst.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Abdol Reza" last="Hajipour">Abdol Reza Hajipour</name>
+						<affiliation>Pharmaceutical Research Laboratory, Department of Chemistry, Isfahan University of Technology, Isfahan 84156, IR Iran</affiliation>
+						<affiliation>Department of Neuroscience, University of Wisconsin, Medical School, 1300 University Avenue, Madison, WI 53706-1532, USA</affiliation>
+						<email>haji@cc.iut.ac.ir</email>
+					</author>
+					<author>
+						<name first="Zohre" last="Shirdashtzade">Zohre Shirdashtzade</name>
+						<affiliation>Pharmaceutical Research Laboratory, Department of Chemistry, Isfahan University of Technology, Isfahan 84156, IR Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ghobad" last="Azizi">Ghobad Azizi</name>
+						<affiliation>Pharmaceutical Research Laboratory, Department of Chemistry, Isfahan University of Technology, Isfahan 84156, IR Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-08-09</date>
+					<date type="R">2013-10-21</date>
+					<date type="A">2013-10-25</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Nano-titania-supported Preyssler-type heteropolyacid: An efficient and reusable catalyst in ultrasound-promoted synthesis of 4$H$-chromenes and 4$H$-pyrano[2,3-c]pyrazoles</title>
+				<feature></feature>
+				<page>0095-0101</page>
 				<abstract>
-					<p></p>
+					<p>An efficient and convenient procedure has been described for one-pot multi-component synthesis of tetrahydrobenzo[b]pyrans known as 4$H$-chromenes and 1,4-dihydropyrano[2,3-c]pyrazole derivatives in the presence of nano-titania-supported Preyssler-type heteropolyacid, n-TiO$_2$/H$_{14}$[NaP$_5$W$_{30}$O$_{110}$], as a heterogeneous catalyst. The reactions proceeded smoothly under ultrasound irradiation condition to afford the corresponding products in quantitative yields. The catalyst can be easily recovered and reused for several successive fresh runs with no significant loss of catalytic activity.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Preyssler-type heteropolyacid; nano-titania; 4$H$-chromene; 4$H$-pyrano[2,3-c]pyrazole; multicomponent reaction; ultrasound irradiation.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Davood" last="Azarifar">Davood Azarifar</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, 65178, Hamedan, Iran</affiliation>
+						<email>azarifardavood@gmail.com</email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Seyed-Mola" last="Khatami">Seyed-Mola Khatami</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, 65178, Hamedan, Iran</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Razieh" last="Nejat-Yami">Razieh Nejat-Yami</name>
+						<affiliation>Faculty of Chemistry, Bu-Ali Sina University, 65178, Hamedan, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-21</date>
+					<date type="R">2013-09-30</date>
+					<date type="A">2013-10-09</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Supported $L$-pyrrolidine-2-carboxylic acid-4-hydrogen sulphate on silica gel as an economical and efficient catalyst for the one-pot preparation of $\beta$-acetamido ketones $via$ a four-component condensation reaction</title>
+				<feature></feature>
+				<page>0103-0109</page>
 				<abstract>
-					<p></p>
+					<p>An efficient, one-pot, four-component condensation of aldehydes, acetophenone (or propiophenone), acetyl chloride and acetonitrile in the presence of catalytic amounts of $L$-pyrrolidine-2-carboxylic acid-4-hydrogen sulphate (supported on silica gel), a green and non-toxic catalyst, is described for the preparation of $\beta$-acetamido ketones in good to excellent yields.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>$\beta$-Acetamido ketones; $L$-pyrrolidine-2-carboxylic acid-4-hydrogen sulphate; one-pot; four-component; catalyst.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Arash" last="Ghorbani-Choghamarani">Arash Ghorbani-Choghamarani</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Ilam University, P.O. Box 69315516, Ilam, Iran</affiliation>
+						<email>arashghch58@yahoo.com</email>
+						<email>a.ghorbani@mail.ilam.ac.ir</email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Parisa" last="Zamani">Parisa Zamani</name>
+						<affiliation>Department of Chemistry, Faculty of Science, Ilam University, P.O. Box 69315516, Ilam, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-04-18</date>
+					<date type="R">2013-09-09</date>
+					<date type="A">2013-09-18</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Cobalt(II) supported on ethylenediamine-functionalized nanocellulose as an efficient catalyst for room temperature aerobic oxidation of alcohols</title>
+				<feature></feature>
+				<page>0111-0115</page>
 				<abstract>
-					<p></p>
+					<p>Ethylenediamine-functionalized nanocellulose complexed with cobalt(II) was found to be a highly efficient heterogeneous catalyst for the room temperature aerobic oxidation of various types of primary and secondary benzylic alcohols into their corresponding aldehydes and ketones, respectively. The catalyst showed no significant loss of efficiency after five reaction cycles.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Heterogeneous catalyst; aerobic oxidation; alcohols; modified-nanocellulose; cobalt.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Ahmad" last="Shaabani">Ahmad Shaabani</name>
+						<affiliation>Faculty of Chemistry, Shahid Beheshti University, G. C., P. O. Box 19396-4716, Tehran, Iran</affiliation>
+						<email>a-shaabani@sbu.ac.ir</email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Sajjad" last="Keshipour">Sajjad Keshipour</name>
+						<affiliation>Faculty of Chemistry, Shahid Beheshti University, G. C., P. O. Box 19396-4716, Tehran, Iran</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Mona" last="Hamidzad">Mona Hamidzad</name>
+						<affiliation>Faculty of Chemistry, Shahid Beheshti University, G. C., P. O. Box 19396-4716, Tehran, Iran</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Mozhdeh" last="Seyyedhamzeh">Mozhdeh Seyyedhamzeh</name>
+						<affiliation>Faculty of Chemistry, Shahid Beheshti University, G. C., P. O. Box 19396-4716, Tehran, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-06-18</date>
+					<date type="R">2013-09-22</date>
+					<date type="A">2013-09-25</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>LaCl$_3$.7H$_2$O: An efficient catalyst for the synthesis of phosphinates (Michaelis–Arbuzov reaction) under neat conditions and their potential antimicrobial activity</title>
+				<feature></feature>
+				<page>0117-0125</page>
 				<abstract>
-					<p></p>
+					<p>An expeditious neat procedure was developed for the synthesis of a series of new methyl phenyl heterocyclic phosphinates (${\bf 3a–l}$) through Michaelis–Arbuzov reaction by the reaction of various heterocyclic halides (Cl or Br) (${\bf 1a–l}$) with dimethyl phenylphosphonite (${\bf 2}$) under N$_2$ atmosphere using a heterogeneous catalyst, LaCl$_3$.7H$_2$O. The advantages of the developed procedure are good yields (80–89&#37;) of the products, less reaction time (2–3 h), avoiding toxic catalysts and harmful solvents and easy work-up procedure. Further, antimicrobial activity of the synthesized compounds was evaluated at different concentrations 50, 100 and 150 $\mu$g/mL. Biological data revealed that compounds ${\bf 3i}$, ${\bf 3j}$ and ${\bf 3h}$, ${\bf 3j}$ exhibited potential antibacterial and antifungal activities, respectively, while the rest of the compounds showed moderate antimicrobial activity.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Michaelis–Arbuzov reaction; neat reaction; LaCl$_3$.7H$_2$O catalyst; antimicrobial activity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Madhava" last="Golla">Madhava Golla</name>
+						<affiliation>Department of Chemistry, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Rasheed" last="Syed">Rasheed Syed</name>
+						<affiliation>Department of Chemistry, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Venkata Ramana" last="Katla">Venkata Ramana Katla</name>
+						<affiliation>Department of Chemistry, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Subba Rao" last="Devineni">Subba Rao Devineni</name>
+						<affiliation>Department of Chemistry, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Naresh" last="Kondapalli">Naresh Kondapalli</name>
+						<affiliation>Department of Biochemistry, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Naga Raju" last="Chamarthi">Naga Raju Chamarthi</name>
+						<affiliation>Department of Chemistry, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
+						<email>rajuchamarthi10@gmail.com</email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-06-12</date>
+					<date type="R">2013-10-24</date>
+					<date type="A">2013-10-31</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Could glutaric acid (GA) replace glutaraldehyde in the preparation of biocompatible biopolymers with high mechanical and thermal properties?</title>
+				<feature></feature>
+				<page>0127-0140</page>
 				<abstract>
-					<p></p>
+					<p>In the field of natural and/or synthetic polymer preparation and stabilization, glutaraldehyde is the most commonly used cross-linker. Glutaraldehyde is focused by several scientists due its ease of cross-linking ability through the formation of Schiff base type of compound. Though glutaraldehyde cross-linked product has several advantages, the main drawback lies with the toxicity and poor mechanical stability. The poor mechanical strength of glutaraldehyde cross-linked product is due to the bonding pattern (–C=N–) between glutaraldehyde and amine group containing compound, where, there is a large energy barrier to rotation associated with groups joined by double bond. This is the time to search for an alternative cross-linker which will provide a non-toxic and mechanically stable biopolymer material. In order to achieve the requisite property, in the present study, we have chosen glutaric acid (oxidized form of glutaraldehyde) and studied its interaction with chitosan and type-I collagen. The chemistry behind the interaction and the characteristics of the biopolymer material obtained upon cross-linking suggests that non-covalent interactions play a major role in deciding the property of the said materials and its suitability for biomedical applications.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Ionic cross-linking; glutaric acid; glutaraldehyde; collagen; chitosan.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Tapas" last="Mitra">Tapas Mitra</name>
+						<affiliation>Microbiology Division, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
 						<email></email>
 					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="G." last="Sailakshmi">G. Sailakshmi</name>
+						<affiliation>Microbiology Division, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Gnanamani">A. Gnanamani</name>
+						<affiliation>Microbiology Division, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email>gnanamani3@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2012-04-20</date>
+					<date type="R">2013-07-02</date>
+					<date type="A">2013-09-29</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Selective hydrogenation of maleic anhydride over Pd/Al$_2$O$_3$ catalysts prepared via colloid deposition</title>
+				<feature></feature>
+				<page>0141-0145</page>
 				<abstract>
-					<p></p>
+					<p>Pd/Al$_2$O$_3$ catalysts were prepared via colloid deposition and the performance of the catalysts was examined in the selective hydrogenation of maleic anhydride to succinic anhydride. When the reaction was carried on in a batch system with 1,4-dioxane as the solvent (353K and 1.0MPa), high conversion of maleic anhydride (&gt;98&#37;) and high selectivity (&gt;99&#37;) for succinic anhydride were observed after 5 h. The as-prepared Pd/Al$_2$O$_3$ catalyst also showed excellent performance in solvent-free system and fixed-bed systems. The maleic anhydride (MA) conversion was greater than 98&#37;, and high selectivity (&gt;99&#37;) for succinic anhydride was obtained after 1600 h in a fixed bed reacter. The results showed that the activity of the Pd/Al$_2$O$_3$ catalysts was excellent due to its high active surface area.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Pd/Al2O3 catalyst; maleic anhydride; selective hydrogenation; succinic anhydride.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Hongjing" last="Yuan">Hongjing Yuan</name>
+						<affiliation>Key Laboratory of Surface and Interface Chemistry of Jilin Province, College of Chemistry, Jilin University, Qianjin Road 2699, Changchun 130012, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chunlei" last="Zhang">Chunlei Zhang</name>
+						<affiliation>Shanghai Huayi (Group) Company Technology Research Institute, Longwu Road 4600, Shanghai 200241, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Weitao" last="Huo">Weitao Huo</name>
+						<affiliation>Key Laboratory of Surface and Interface Chemistry of Jilin Province, College of Chemistry, Jilin University, Qianjin Road 2699, Changchun 130012, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chunli" last="Ning">Chunli Ning</name>
+						<affiliation>Shanghai Huayi (Group) Company Technology Research Institute, Longwu Road 4600, Shanghai 200241, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yong" last="Tang">Yong Tang</name>
+						<affiliation>Shanghai Huayi (Group) Company Technology Research Institute, Longwu Road 4600, Shanghai 200241, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yi" last="Zhang">Yi Zhang</name>
+						<affiliation>Shanghai Huayi (Group) Company Technology Research Institute, Longwu Road 4600, Shanghai 200241, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dequan" last="Cong">Dequan Cong</name>
+						<affiliation>Key Laboratory of Surface and Interface Chemistry of Jilin Province, College of Chemistry, Jilin University, Qianjin Road 2699, Changchun 130012, PR China</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Wenxiang" last="Zhang">Wenxiang Zhang</name>
+						<affiliation>Key Laboratory of Surface and Interface Chemistry of Jilin Province, College of Chemistry, Jilin University, Qianjin Road 2699, Changchun 130012, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jiahuan" last="Luo">Jiahuan Luo</name>
+						<affiliation>State Key Laboratory of Inorganic Synthesis and Preparative Chemistry, College of Chemistry, Jilin University, Qianjin Road 2699, Changchun 130012, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Su" last="Li">Su Li</name>
+						<affiliation>Key Laboratory of Surface and Interface Chemistry of Jilin Province, College of Chemistry, Jilin University, Qianjin Road 2699, Changchun 130012, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhenlu" last="Wang">Zhenlu Wang</name>
+						<affiliation>Key Laboratory of Surface and Interface Chemistry of Jilin Province, College of Chemistry, Jilin University, Qianjin Road 2699, Changchun 130012, PR China</affiliation>
+						<email>wzl@jlu.edu.cn</email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-09-21</date>
+					<date type="R">2013-10-23</date>
+					<date type="A">2013-10-24</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Click synthesis of 1,4-disubstituted-1,2,3-triazoles catalysed by CuO–CeO$_2$ nanocomposite in the presence of amberlite-supported azide</title>
+				<feature></feature>
+				<page>0147-0150</page>
 				<abstract>
-					<p></p>
+					<p>A CuO–CeO$_2$ nanocomposite in the presence of amberlite-supported azide has been used for the click synthesis of 1,4-disubstituted-1,2,3-triazoles in good yields. This catalyst can be reused several times without any significant decrease in the catalytic activity.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Click chemistry; CuO–CeO$_2$ nanocomposite; amberlite-supported azide; 1,4-disubstituted-1,2,3-triazoles.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Jalal" last="Albadi">Jalal Albadi</name>
+						<affiliation>Behbahan Khatam Alanbia University of Technology, Behbahan 6361647189, Iran</affiliation>
+						<email>Chemalbadi@gmail.com</email>
+					</author>
+					<author>
+						<name first="Jafar Abbasi" last="Shiran">Jafar Abbasi Shiran</name>
+						<affiliation>Faculty of Science, Department of Chemistry, Guilan University, Rasht 413351914, Iran</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Azam" last="Mansournezhad">Azam Mansournezhad</name>
+						<affiliation>Department of Chemistry, Gachsaran Branch, Islamic Azad University, Gachsaran 7581863886, Iran</affiliation>
+						<email></email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-06-26</date>
+					<date type="R">2013-09-17</date>
+					<date type="A">2013-09-19</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Chiral amide from (1$S$, 2$R$)-(+)-norephedrine and furoic acid: An efficient catalyst for asymmetric Reformatsky reaction</title>
+				<feature></feature>
+				<page>0151-0158</page>
 				<abstract>
-					<p></p>
+					<p>Chiral amide derived from (1$S$, 2$R$)-($+$)-norephedrine and 2-furoic acid was found to catalyse the asymmetric Reformatsky reaction between prochiral aldehydes and α-bromo ethylacetate with diethylzinc as zinc source. The corresponding chiral $\beta$-hydroxy esters were formed in 99&#37; yield with over 80&#37; enantiomeric excess. The presence of air was found to be essential for the effective C-C bond formation. The mechanism for the catalytic reaction was proposed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Asymmetric Reformatsky reaction; (1$S$, 2$R$)-($+$)-norephedrine; 2-furoic acid; chiral amide; diethylzinc.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Nallamuthu" last="Ananthi">Nallamuthu Ananthi</name>
+						<affiliation>Organic and Polymer Synthesis Laboratory, Department of Chemistry, National Institute of Technology, Tiruchirappalli 620 015, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Sivan" last="Velmathi">Sivan Velmathi</name>
+						<affiliation>Organic and Polymer Synthesis Laboratory, Department of Chemistry, National Institute of Technology, Tiruchirappalli 620 015, India</affiliation>
+						<email>velmathis@nitt.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-04-03</date>
+					<date type="R">2013-09-26</date>
+					<date type="A">2013-09-29</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>The family of N$^9$-adenine: New entry for adenine–benzamide conjugates linked via versatile spacers</title>
+				<feature></feature>
+				<page>0159-0167</page>
 				<abstract>
-					<p></p>
+					<p>We have prepared 4-nitrobenzamide-adenine conjugates (${\bf 8}$, ${\bf 13}$ and ${\bf 14}$) linked with versatile spacer such as triethylene glycol (TEG), aminocaproic acid and ethyl chains which were eventually reduced to obtain the corresponding 4-aminobenzamide-adenine conjugates (${\bf 1–3}$) in good yields. These conjugates bear a nucleobase for DNA recognition or self-assembly through base-pair complementarity, a biocompatible linker for interfacing with biological system, and a p-aminobenzamide moiety for pharmacological applications. The use of hydrophilic or lipophilic linkers may tune the dispersibility of these conjugates in different solvents, as well as impart different properties. In the preliminary experiments the versatility and application of these linkers has been tested for functionalization of SWCNTs.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Nucleobase; substituted benzamide; adenine; triethyleneglycol; aminocaproic acid.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Prabhpreet" last="Singh">Prabhpreet Singh</name>
+						<affiliation>Department of Chemistry, UGC Sponsored Centre for Advanced Studies, Guru Nanak Dev University, Amritsar 143 005, India</affiliation>
+						<email>prabhpreet.chem@gndu.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-09-06</date>
+					<date type="R">2013-10-31</date>
+					<date type="A">2013-11-10</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Synthesis of spiro[benzo[$h$]quinoline-7,3'- indolines] via a three-component condensation reaction</title>
+				<feature></feature>
+				<page>0169-0176</page>
 				<abstract>
-					<p></p>
+					<p>An efficient one-pot synthesis of a new series of spiro[benzo[$h$]quinoline-7,3'-indoline] was accomplished simply by the reaction of an isatin, naphthalen-1-amine and a CH-acid ($N$,$N$-dimethylbarbituric acid, barbituric acid, dimedone or 1,3-indandion) in acetic acid. During this process, the effects of solvent and temperature have been investigated on the yield of reactions.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Oxindole; three-component reaction; condensation reaction; spiro compounds.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Abbas" last="Rahmati">Abbas Rahmati</name>
+						<affiliation>Department of Chemistry, University of Isfahan, P O Box 81746 73441, Isfahan, Iran</affiliation>
+						<email>a.rahmati@sci.ui.ac.ir</email>
+					</author>
+					<author>
+						<name first="Miranda" last="Eskandari-Vashareh">Miranda Eskandari-Vashareh</name>
+						<affiliation>Department of Chemistry, University of Isfahan, P O Box 81746 73441, Isfahan, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-28</date>
+					<date type="R">2013-10-16</date>
+					<date type="A">2013-11-05</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>An easy protocol for the domino synthesis of diversely functionalized spirocarbocycles and their biological evaluation</title>
+				<feature></feature>
+				<page>0177-0185</page>
 				<abstract>
-					<p></p>
+					<p>A base-catalysed domino reaction for the synthesis of spirocarbocycles in excellent yields using chalcones and vinyl malononitriles is reported. This consists of a series of steps including Knoevenagel condensation followed by intermolecular vinylogous Michael addition and intramolecular cyclization. The synthesized compounds were evaluated for their antimicrobial activity and the compounds exhibited moderate to excellent activities.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Spirocarbocycles; L-proline; vinyl malononitriles; chalcones; antimicrobial activity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Selvarangam E." last="Kiruthika">Selvarangam E. Kiruthika</name>
+						<affiliation>Organic Chemistry Division, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Paramasivan T." last="Perumal">Paramasivan T. Perumal</name>
+						<affiliation>Organic Chemistry Division, CSIR-Central Leather Research Institute, Adyar, Chennai 600 020, India</affiliation>
+						<email>ptperumal@gmail.com</email>
+					</author>
+					<author>
+						<name first="C." last="Balachandran">C. Balachandran</name>
+						<affiliation>Division of Microbiology, Entomology Research Institute, Loyola College, Chennai 600 034, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Ignacimuthu">S. Ignacimuthu</name>
+						<affiliation>Division of Microbiology, Entomology Research Institute, Loyola College, Chennai 600 034, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-06-16</date>
+					<date type="R">2013-10-17</date>
+					<date type="A">2013-10-18</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Facile eco-friendly synthesis of novel chromeno[4,3-b]pyridine-2,5-diones and evaluation of their antimicrobial and antioxidant properties</title>
+				<feature></feature>
+				<page>0187-0195</page>
 				<abstract>
-					<p></p>
+					<p>Rapid and facileaccess to novel chromeno[4,3-b]pyridine-2,5-dione derivatives was achieved by a mild base catalysed reaction of 4-chloro-3-formylcoumarin and acetoacetamides in PEG-300 as recyclable solvent. The compounds were evaluated for their antimicrobial activities against 3 Gram-positive and 3 Gram-negative bacteria ($\textit{Staphylococcus epidermis, Vibrio parahaemolyticus, Bacillus subtilis, Escherichia coli, Staphylococcus aureus and Klebsiella pneumonia}$) with Cefotaxime control. They were further subjected to antioxidant studies using DPPH test with ascorbic acid control. While compounds ${\bf 5d}$ and ${\bf 5k}$ showed promising broad spectrum antibacterial properties against all the evaluated bacteria, compound ${\bf 5g}$ exhibited good antioxidant properties.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Chromeno[4,3-b]pyridine-2,5-diones; acetoacetamide; PEG-300; antimicrobial; antioxidant.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Satyanarayana Reddy" last="Jaggavarapu">Satyanarayana Reddy Jaggavarapu</name>
+						<affiliation>Department of Chemistry, Sankar Foundation Research Institute, Naiduthota, Vishakapatnam 530 047, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anand Solomon" last="Kamalakaran">Anand Solomon Kamalakaran</name>
+						<affiliation>Department of Chemistry, Sankar Foundation Research Institute, Naiduthota, Vishakapatnam 530 047, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ventkata Prasad" last="Jalli">Ventkata Prasad Jalli</name>
+						<affiliation>Department of Chemistry, Sankar Foundation Research Institute, Naiduthota, Vishakapatnam 530 047, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sravan Kumar" last="Gangisetty">Sravan Kumar Gangisetty</name>
+						<affiliation>Department of Chemistry, Sankar Foundation Research Institute, Naiduthota, Vishakapatnam 530 047, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Munusswamy Ramanujam" last="Ganesh">Munusswamy Ramanujam Ganesh</name>
+						<affiliation>ISISM, SRM university, Kattangulathur, 603 203, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Gopikrishna" last="Gaddamanugu">Gopikrishna Gaddamanugu</name>
+						<affiliation>Department of Chemistry, Sankar Foundation Research Institute, Naiduthota, Vishakapatnam 530 047, India</affiliation>
+						<email>gkrishnagps@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2013-06-05</date>
 					<date type="R"></date>
-					<date type="A"></date>
+					<date type="A">2013-11-13</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Synthesis and evaluation of antimicrobial and anthelmintic activity of novel fluorinated 7-ethyl-10$H$-phenothiazines, their sulphones and ribofuranosides</title>
+				<feature></feature>
+				<page>0197-0204</page>
 				<abstract>
-					<p></p>
+					<p>A series of novel fluorinated 10$H$-phenothiazines were synthesized via Smiles rearrangement. 10$H$-phenothiazines on refluxing with 30&#37; hydrogen peroxide in glacial acetic acid gave 10$H$-phenothiazines-5, 5-dioxides (sulphones). These synthesized 10$H$-phenothiazines were then used as base to prepare ribofuranosides by treating them with sugar ($\beta$-D-ribofuranosyl- 1-acetate-2, 3, 5-tribenzoate). The synthesized compounds were screened for antimicrobial activity and anthelmintic activity. The structural assignments of compounds were made on the basis of spectroscopic data and elemental analysis.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>10$H$-phenothiazines; Smiles rearrangement; sulphones; ribofuranosides; antimicrobial activity; anthelmintic activity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Naveen" last="Gautam">Naveen Gautam</name>
+						<affiliation>LBS Government PG College, Kotputli, Jaipur 303 108, India</affiliation>
+						<email>ngautam70@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Abhilasha" last="Yadav">Abhilasha Yadav</name>
+						<affiliation>Department of Chemistry, University of Rajasthan, JLN Marg, Jaipur 302 004, India</affiliation>
+						<email>abhilashasuraj@gmail.com</email>
+					</author>
+					<author>
+						<name first="Nishidha" last="Khandelwal">Nishidha Khandelwal</name>
+						<affiliation>Department of Chemistry, University of Rajasthan, JLN Marg, Jaipur 302 004, India</affiliation>
+						<email>nishidha.khandelwal@gmail.com</email>
+					</author>
+					<author>
+						<name first="D. C." last="Gautam">D. C. Gautam</name>
+						<affiliation>Department of Chemistry, University of Rajasthan, JLN Marg, Jaipur 302 004, India</affiliation>
+						<email>drdcgautam@yahoo.co.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2012-11-09</date>
+					<date type="R">2013-09-30</date>
+					<date type="A">2013-10-04</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Synthesis of new biphenyl-substituted quinoline derivatives, preliminary screening and docking studies</title>
+				<feature></feature>
+				<page>0205-0212</page>
 				<abstract>
-					<p></p>
+					<p>New quinoline derivatives containing biphenyl ring were synthesized and characterized by IR, 1H NMR and mass spectral studies. The synthesized compounds were screened for antimicrobial, anthelmintic activities as well as free radical scavenging property against the DPPH radical. The minimum inhibition concentration values showed promising inhibiting activity and are potent biological agents. The compounds showed minimum binding energy towards $\beta$-tubulin. The compounds ${\bf 11a}$, ${\bf 11c}$, ${\bf 13c}$ and ${\bf 13d}$ have good affinity towards the active pocket and may be considered as a good inhibitor of $\beta$-tubulin.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Quinoline biphenyl; antioxidant; anthelmintic; docking; β-tubulin.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Nellisara D." last="Shashikumar">Nellisara D. Shashikumar</name>
+						<affiliation>Department of Chemistry, Sahyadri Science College, Shimoga 577 451, India</affiliation>
+						<email>shashikumarnd@gmail.com</email>
+					</author>
+					<author>
+						<name first="Ganganaika" last="Krishnamurthy">Ganganaika Krishnamurthy</name>
+						<affiliation>Department of Chemistry, Sahyadri Science College, Shimoga 577 451, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Halehatti S." last="Bhojyanaik">Halehatti S. Bhojyanaik</name>
+						<affiliation>Department of PG Studies and Research in Industrial Chemistry, School of Chemical Sciences, Kuvempu University, Shankaraghatta 577 451, Shimoga, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mayasandra R." last="Lokesh">Mayasandra R. Lokesh</name>
+						<affiliation>Department of Chemistry, Sahyadri Science College, Shimoga 577 451, India</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Kaginalli S." last="Jithendrakumara">Kaginalli S. Jithendrakumara</name>
+						<affiliation>Department of Chemistry, Sahyadri Science College, Shimoga 577 451, India</affiliation>
+						<email></email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-04-06</date>
+					<date type="R">2013-09-10</date>
+					<date type="A">2013-09-18</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Separation and isolation of tautomers of 2-hydroxy-4-naphthoquinone-1-oxime derivatives by liquid chromatography: Antiproliferative activity and DFT studies</title>
+				<feature></feature>
+				<page>0213-0225</page>
 				<abstract>
-					<p></p>
+					<p>Reversed phase HPLC separation and isolation of isomers of 2-hydroxy-4-naphthoquinone-1-oxime (Lwox) and 3-methyl-2-hydroxy-4-naphthoquinone-1-oxime (Phox) have been investigated. Two distinct peaks are observed in the chromatogram of Lwox and are assigned to `para’ tautomer; 2-hydroxy-4-naphthoquinone-1-oxime (${\bf 3}$) and `ortho’ tautomer; 4-hydroxy-2-naphthoquinone-1-oxime (${\bf 4}$). The tautomeric equilibrium of ${\bf 3}$ and ${\bf 4}$ has been manipulated by incrementally increasing the pH of the mobile phase from 2.5 to 10.5, and altering the solvent polarity. At pH &gt; 6.8 the tautomers are well-separated from each other. There is no separation of Phox isomers between pH 2.5 and 10.5. Isolation of the tautomers has been carried out by preparative HPLC, with ${\bf 3}$ and ${\bf 4}$ obtained as ammonium bicarbonate adducts and characterized by LC-MS, FTIR, and UV-visible spectroscopy. Red-orange ${\bf 3}$ is characterized by a paranaphthoquinone stretch at 1287 cm$^{−1}$ and a charge transfer band at 420 nm; yellow ${\bf 4}$ exhibits, a similar stretch at 1246 cm$^{−1}$ and absorption band at 406 nm. Compounds ${\bf 3}$ and ${\bf 4}$ were screened for selective antiproliferative activity in three cancer cell lines of different tissue types (COLO 205 (human colorectal adenocarcinoma),U87 MG (glioblastoma astrocytoma) and MIAPaCa-2 (human pancreatic carcinoma). Geometry-optimized structures for tautomers ${\bf 3}$ and ${\bf 4}$ (${\bf 3'}$ and ${\bf 4'}$ in Phox) were computed using the B3LYP method. Structures, ${\bf 3}$ and ${\bf 3'}$ are 4.7 and 5.8 kcal mol$^{−1}$ more stabilized than ${\bf 4}$ and ${\bf 4'}$, respectively, as a result of a hydrogen bond interaction between the 2-hydroxyl group and the nitrogen of the oxime.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Naphthoquinoneoximes; tautomer; reversed phase separation; DFT; naphthoquinone; HPLC.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Yogesh" last="Shinde">Yogesh Shinde</name>
+						<affiliation>Department of Chemistry, University of Pune, Pune 411 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Stephen" last="Sproules">Stephen Sproules</name>
+						<affiliation>WestCHEM, School of Chemistry, University of Glasgow, Glasgow G12 8QQ, UK</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Laxmi" last="Kathawate">Laxmi Kathawate</name>
+						<affiliation>Department of Chemistry, University of Pune, Pune 411 007, India</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Sanjima" last="Pal">Sanjima Pal</name>
+						<affiliation>School of Biological Sciences, National Institute of Science Education and Research (NISER), Bhubaneswar 751 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V. Badireenath" last="Konkimalla">V. Badireenath Konkimalla</name>
+						<affiliation>School of Biological Sciences, National Institute of Science Education and Research (NISER), Bhubaneswar 751 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sunita" last="Salunke-Gawali">Sunita Salunke-Gawali</name>
+						<affiliation>Department of Chemistry, University of Pune, Pune 411 007, India</affiliation>
+						<email>sunitas@chem.unipune.ac.in</email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-05-21</date>
+					<date type="R">2013-10-21</date>
+					<date type="A">2013-10-31</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Some new IIB group complexes of an imidazolidine ligand: Synthesis, spectral characterization, electrochemical, thermal and antimicrobial propert</title>
+				<feature></feature>
+				<page>0227-0238</page>
 				<abstract>
-					<p></p>
+					<p>An imidazolidine Schiff base ligand, (E)-N-(4-nitrobenzylidene)-2-(2-(4-nitrophenyl) imidazolidine-1-yl) ethaneamine (L) has been synthesized by a condensation reaction between N'-(2-aminoethyl)-ethane-1,2-diamine and 4-nitrobenzaldehyde in 1:2 ratio and then characterized by physical and spectral data. Some new complexes with general formula of MLX$_2$(wherein M is Zn(II),Cd(II) and Hg(II) and X is chloride, bromide and/or iodide) have been prepared and characterized by physical and spectroscopic studies such as elemental analysis, molar conductance measurements, FT-IR, ${}^1$H and ${}^{13}$C NMR and UV–Visible electronic spectra. The spectral data indicate that the ligand is coordinated to zinc(II) as a bidentate ligand in imidazolidine form but it binds to other metal salts as bis-imine tridentate ligand. Furthermore, cyclic voltammetry technique was applied for recording the electrochemical behaviour of the ligand and its complexes. Cyclic voltamogram of the ligand showed that it is reduced at four cathodic potentials and then oxidized only in two anodic potentials in reverse direction. The electrochemical behaviour of ligand is affected by coordination. Thermal analysis of ligand and its complexes revealed that they are decomposed via 3-4 thermal steps. Moreover, some activation thermodynamic parameters such as A, E$^\ast$, $\Delta$H$^\ast$, $\Delta$S$^\ast$ and $\Delta$G$^\ast$ were calculated based on TG/DTA plots using Coats–Redfern relation. The Schiff base ligand and its complexes have also been tested $\textit{in vitro}$ to evaluate their antimicrobial activities.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Schiff base; spectroscopic; cyclic voltammetry; antibacterial; antifungal; thermogravimetry.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Morteza" last="Montazerozohori">Morteza Montazerozohori</name>
+						<affiliation>Department of Chemistry, Yasouj University, Yasouj 75918-74831, Iran</affiliation>
+						<email>mmzohori@mail.yu.ac.ir</email>
+						<email>mmzohory@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Sayed Alireza" last="Musavi">Sayed Alireza Musavi</name>
+						<affiliation>Department of Chemistry, Yasouj University, Yasouj 75918-74831, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Asghar" last="Naghiha">Asghar Naghiha</name>
+						<affiliation>Department of Animal Sciences, Faculty of Agriculture, Yasouj University, Yasouj 75918-74831, Iran</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Somayeh" last="Veyseh">Somayeh Veyseh</name>
+						<affiliation>Applied Geological Research Center of Iran, No 7, Sarbazane Gomnam Blvd, Samad Naghdi 31746-74841, Iran</affiliation>
+						<email></email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-06-24</date>
+					<date type="R">2013-10-28</date>
+					<date type="A">2013-11-05</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Cu(II), Zn(II) andMn(II) complexes of poly(methyl vinyl ether-$alt$-maleic anhydride). Synthesis, characterization and thermodynamic parameters</title>
+				<feature></feature>
+				<page>0239-0245</page>
 				<abstract>
-					<p></p>
+					<p>The complexes of poly(methyl vinyl ether-$alt$-maleic anhydride) (poly(MVE-$alt$-MA)) with Zn(II), Mn(II) and Cu(II) ions were synthesized from the reaction of the aqueous solution of copolymer and metal(II) chlorides at different temperatures ranging from 25$^\circ$ to 40$^\circ$C. Elemental analysis of themetal–polymer complexes suggests that the metal to ligand ratio is 1:1. The formation constants of each complex were determined by the mol-ratio method. UV–Vis studies showed that the complex formation tendency increased in the following order: Zn(II) &gt; Cu(II) &gt; Mn(II). This order was confirmed by the Irving–William series and Pearson’s classification. The IR spectral data indicated the metal ions to be coordinated through the hydroxyl groups of the hydrolysed maleic anhydride. The intrinsic viscosity and thermal properties of the copolymer and metal–polymer complexes and their thermal stability are discussed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Complex/maleic anhydride; polymer; UV-visible; viscosity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Hidayet" last="Mazi">Hidayet Mazi</name>
+						<affiliation>Department of Chemistry, Faculty of Science and Arts, University of Gaziantep, Gaziantep, Turkey</affiliation>
+						<email>mazi@gantep.edu.tr</email>
+					</author>
+					<author>
+						<name first="Ali" last="Gulpinar">Ali Gulpinar</name>
+						<affiliation>Department of Chemistry, Faculty of Science and Arts, University of Gaziantep, Gaziantep, Turkey</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-09</date>
+					<date type="R">2013-09-24</date>
+					<date type="A">2013-09-27</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Mesogenic copper(II) complexes with [1,2,3]-triazole-based bidentate Schiff bases</title>
+				<feature></feature>
+				<page>0247-0254</page>
 				<abstract>
-					<p></p>
+					<p>The first mesogenic Cu(II) complex with [1,2,3]-triazole-based bidentate Schiff bases with flexible terminal alkyl chain, C$_n$H$_{2n+1}$ (even parity of n = 10–18) has been successfully synthesized. The heterocyclic triazole core was introduced into the target compound through the click reaction between azidoalkane and propargyl aldehyde. All the uncoordinated ligands and target complexes were characterized by elemental analysis, FT-IR, ${}^1$H-NMR and UV-visible spectroscopic techniques. The observation under the polarized light and differential scanning calometry (DSC) shows that the triazole-based ligands exhibit unstable SmA phase which are not reproducible upon subsequent heating and cooling. Interestingly, the whole homologues of Cu(II) complexes show exclusively stable focal conic fan-shaped texture characteristic of SmA phase. This can be ascribed to the presence of Cu–N and Cu–O coordination modes which enhance the collinearity and molecular anisotropy. On the other hand, the Cu(II) complexes are thermally more stable as compared to their corresponding ligands.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cu(II) complexes; smectic A; click reaction; triazole; Schiff bases.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Guan-Yeow" last="Yeap">Guan-Yeow Yeap</name>
+						<affiliation>Liquid Crystal Research Laboratory, School of Chemical Sciences, Universiti Sains Malaysia, 11800 Minden, Penang, Malaysia</affiliation>
+						<email>gyyeap@usm.my</email>
+					</author>
+					<author>
+						<name first="Boon-Teck" last="Heng">Boon-Teck Heng</name>
+						<affiliation>Liquid Crystal Research Laboratory, School of Chemical Sciences, Universiti Sains Malaysia, 11800 Minden, Penang, Malaysia</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-05-25</date>
+					<date type="R">2013-09-26</date>
+					<date type="A">2013-09-29</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+			<entry hassup="1">
+				<title>Electron paramagnetic resonance study of ternary Cu$^{\text{II}}$ compounds with glycine and phenanthroline</title>
+				<feature></feature>
+				<page>0255-0264</page>
 				<abstract>
-					<p></p>
+					<p>We report here electron paramagnetic resonance (EPR) measurements at 9 and 34 GHz, and room temperature ($T$), in powder and single crystal samples of the ternary compounds of copper nitrate or copper chloride with glycine and 1,10-phenanthroline [Cu(Gly)(phen)(H$_2$O)]·NO$_3$·1.5H$_2$O (${\bf 1}$) and [Cu(Gly)(phen)Cl]$_2$·7H$_2$O (${\bf 2}$). In compound ${\bf 1}$, the copper ions are arranged in 1-D chains along one of the crystal axes connected by $\textit{syn–anti}$ carboxylate ligands, while in ${\bf 2}$ the array is nearly 3-D and the connections involve $H$-bonds and stacking interactions. The angular variation of the squared g-factor and the line width were measured as a function of orientation of the magnetic field ($B_0$) in three orthogonal crystal planes. In both compounds we observed one resonance without hyperfine structure for any magnetic field orientation which we attribute to the collapse of the hyperfine coupling and of the resonances of two chemically identical but rotated coppers in the unit cell, produced by exchange interactions. We analyse the results in terms of the structures of the compounds and chemical paths connecting neighbour copper ions which support the exchange interactions between neighbour spins in the lattice. Considering the collapse of the EPR signals of rotated sites in the lattices we are able to set lower limits to the exchange interactions, which are supported by weak equatorial–apical carboxylate bridges in ${\bf 1}$, and by paths containing hydrogen bonds and aromatic $\pi-\pi$ interactions in ${\bf 2}$. Broadening due to dipole-dipole couplings and hyperfine interactions are strongly reduced by these exchange couplings and their role in the EPR line width is more difficult to recognize.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Ternary copper compounds; glycine; phenanthroline; EPR; magnetic interactions.</keywords>
 				<authors>
+					<author>
+						<name first="Ricardo C." last="Santana">Ricardo C. Santana</name>
+						<affiliation>Instituto de Física, Universidade Federal de Goiás, Campus Samambaia, CP 131, 74001-970, Goiânia (GO), Brazil</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anderson B. C." last="Araújo">Anderson B. C. Araújo</name>
+						<affiliation>Instituto de Física, Universidade Federal de Goiás, Campus Samambaia, CP 131, 74001-970, Goiânia (GO), Brazil</affiliation>
+						<email></email>
+					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Jesiel F." last="Carvalho">Jesiel F. Carvalho</name>
+						<affiliation>Instituto de Física, Universidade Federal de Goiás, Campus Samambaia, CP 131, 74001-970, Goiânia (GO), Brazil</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Rafael" last="Calvo">Rafael Calvo</name>
+						<affiliation>Departamento de Física, Facultad de Bioquímica y Ciencias Biológicas, Universidad Nacional del Litoral, and Instituto de Física del Litoral (CONICET-UNL), Güemes 3450, 3000 Santa Fe, Argentina</affiliation>
+						<email>santana@ufg.br</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-08-14</date>
+					<date type="R">2013-10-31</date>
+					<date type="A">2013-11-05</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Theoretical studies on the mechanism of palladium(II)-catalysed $ortho$-carboxylation of acetanilide with CO</title>
+				<feature></feature>
+				<page>0265-0272</page>
 				<abstract>
-					<p></p>
+					<p>The mechanism of palladium(II)-catalysed carboxylation of acetanilide with CO has been investigated using density functional theory calculation done at the B3LYP/6-31G(d, p)(SDD for Pd) level of theory. Solvent effects on these reactions have been explored by calculation that included a polarizable continuum model (PCM) for the solvent. Two plausible pathways which led to the formation of anhydride or benzoxazinone intermediate structure were proposed. Our calculated results suggested that the steps of forming the anhydride or benzoxazinone intermediate became the rate-determining one in the whole catalytic cycle. The process of forming benzoxazinone is more favoured kinetically with a barrier of 16.6 kcal/mol versus 22.9 kcal/mol for the pathway of forming anhydride structure. Subsequent hydrolysis process of these intermediates then provide the corresponding product $ortho$-acetaminobenzoic acid. The computational results are consistent with the experimental observations of Yu $\textit{et al}$. for palladium(II)-catalysed synthesis of acetanilide based on carbon monoxide.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Carboxylation; palladium(II)-catalysed; acetanilide; C-H activation; density functional theory.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Xing Hui" last="Zhang">Xing Hui Zhang</name>
+						<affiliation>College of Chemical Engineering, Lanzhou University of Arts and Science, Lanzhou, Gansu 730010, People’s Republic of China</affiliation>
+						<email>zhxh135@126.com</email>
+					</author>
+					<author>
+						<name first="Zhi Yuan" last="Geng">Zhi Yuan Geng</name>
+						<affiliation>Gansu Key Laboratory of Polymer Materials, College of Chemistry and Chemical Engineering, Northwest Normal University, Lanzhou, Gansu 730070, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ke Tai" last="Wang">Ke Tai Wang</name>
+						<affiliation>College of Chemical Engineering, Lanzhou University of Arts and Science, Lanzhou, Gansu 730010, People’s Republic of China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-28</date>
+					<date type="R">2013-09-23</date>
+					<date type="A">2013-09-25</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Theoretical studies on proton transfer reaction of 3(5)-substituted pyrazoles</title>
+				<feature></feature>
+				<page>0273-0281</page>
 				<abstract>
-					<p></p>
+					<p>The inter and intra molecular proton transfer reactions of a series of pyrazole derivatives have been studied by using density functional theory (DFT) andMP2 methods implementing 6-311++G(d,p) atomic basis set. The substituents have been selected to cover a wide range of electronic effects. Proton transfer process was studied for mechanisms including single proton transfer, double proton transfer and proton transfer assisted by a water or ammonia molecule. The results showed single proton transfer reactions for interconversion pyrazole derivatives need highest activation energies in the range of 45.7−51.59 and 49.4−53.96 kcal/mol at B3LYP and MP2 levels, respectively. It was found that for the 3–substituted pyrazoles, electron withdrawing groups form stronger dimers but in the 5-substituted tautomers electron donating groups form stronger hydrogen bond. The double proton transfer reactions between dimers were studied and transition states calculated. The ranges of activation energies were found to be 17.51−19.36 and 17.02−17.80 kcal/mol for the ${\bf C}\to{\bf E}$ and ${\bf D}\to{\bf D}$ reactions respectively. In addition, the activation energies for the proton transfer reaction assisted by water or ammonia molecules were found to be in the range of 26.62−31.78 and 17.25−22.46 kcal/mol, respectively, calculated at MP2/6-311++G(d,p) level of theory.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Pyrazoles; substituent effect; solvent assisted proton transfer; double proton transfer.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Alireza Najafi" last="Chermahini">Alireza Najafi Chermahini</name>
+						<affiliation>Department of Chemistry, Isfahan University of Technology, 8415483111 Isfahan, Iran</affiliation>
+						<email>anajafi@cc.iut.ac.ir</email>
+						<email>najafy@gmail.com</email>
+					</author>
+					<author>
+						<name first="Abbas" last="Teimouri">Abbas Teimouri</name>
+						<affiliation>Chemistry Department, Payame Noor University, 19395-4697, Tehran, Islamic Republic of Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-28</date>
+					<date type="R">2013-09-28</date>
+					<date type="A">2013-11-10</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>DFT study of the mechanism and stereoselectivity of the 1,3-dipolar cycloaddition between pyrroline-1-oxide and methyl crotonate</title>
+				<feature></feature>
+				<page>0283-0292</page>
 				<abstract>
-					<p></p>
+					<p>A theoretical study of the regio- and stereoselectivities of the 1,3-dipolar cycloaddition reaction between methyl crotonate and pyrroline-1-oxide has been carried out using density functional theory (DFT) at the B3LYP/6-31G(d) level of theory. The reaction has been followed by performing transition state optimization, calculations of intrinsic reaction coordinate and activation energies; the molecular mechanism of the reactions is concerted and asynchronous. The regio- and exo/endo-selectivity have been explained in terms of frontier molecular orbital interactions, local and global electrophilicity and nucleophilicity indices and an analysis of theWiberg bond indices in the transition state. The FMO analysis and DFT-based reactivity indices showed that the regioselectivity of this reaction is controlled by the HOMO$_{\text{dipole}}$–LUMO$_{\text{dipolarophile}}$ interaction. The activation parameters indicated favoured endo approach along the meta-pathway in agreement with the experimental results.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Pyrroline-1-oxide; dipolar cycloaddition; optimized structures; stereoselectivity; DFT-based reactivity indices.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Khadija" last="Marakchi">Khadija Marakchi</name>
+						<affiliation>Laboratoire de Spectroscopie, Modélisation Moléculaire, Matériaux et Environnement (LS3ME) Université Mohammed V-Agdal Faculté des Sciences, BP 1014 Rabat, Maroc</affiliation>
+						<email>marakchi_k@yahoo.fr</email>
+					</author>
+					<author>
+						<name first="Rachida" last="Ghailane">Rachida Ghailane</name>
+						<affiliation>Laboratoire de Synthèse Organique, Organomtallique et Théorique. Faculté des Sciences, Université Ibn Tofail, BP 13314 Kénitra, Maroc</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Oum Kaltoum" last="Kabbaj">Oum Kaltoum Kabbaj</name>
+						<affiliation>Laboratoire de Spectroscopie, Modélisation Moléculaire, Matériaux et Environnement (LS3ME) Université Mohammed V-Agdal Faculté des Sciences, BP 1014 Rabat, Maroc</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Najia" last="Komiha">Najia Komiha</name>
+						<affiliation>Laboratoire de Spectroscopie, Modélisation Moléculaire, Matériaux et Environnement (LS3ME) Université Mohammed V-Agdal Faculté des Sciences, BP 1014 Rabat, Maroc</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-05-22</date>
+					<date type="R">2013-10-08</date>
+					<date type="A">2013-10-23</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Mechanism and regioselectivity of 1,3-dipolar cycloaddition reactions of sulphur-centred dipoles with furan-2,3-dione: A theoretical study using DFT</title>
+				<feature></feature>
+				<page>0293-0302</page>
 				<abstract>
-					<p></p>
+					<p>The mechanism and regioselectivity of 1,3-dipolar cycloaddition reactions of sulphur-centred 1,3-dipoles including thiocarbonyl S-imide (D1), thiocarbonyl S-oxide (D2) and thiocarbonyl S-sulphide (D3) with an electron-deficient dipolarophile, furan-2,3-dione (DPh), were studied in the light of some theoretical approaches, namely, activation energy, density functional theory (DFT) reactivity indices and Houk’s rule based on the frontier molecular orbital (FMO) theory at the B3LYP/6-311++G$^{\ast\ast}$ level. The present analysis reveals that the cycloaddition reactions under study can be classified in the normal electron demand category. An excellent agreement was observed between the kinetic results and the electronic approaches; in fact, maximum hardness principle (MHP), Chattaraj’s polar model, Houk’s rule and the Gazquez–Mendez rule confirm the resultant regioselectivity based on the calculated activation energies.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>1,3-Dipolar cycloaddition; sulphur-centred 1,3-dipoles; regioselectivity; DFT reactivity indices; FMO theory.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Saeed Reza" last="Emamian">Saeed Reza Emamian</name>
+						<affiliation>Chemistry Department, Shahrood Branch, Islamic Azad University, Shahrood 36199-43189, Iran</affiliation>
+						<email>s_emamian@iau-shahrood.ac.ir</email>
+					</author>
+					<author>
+						<name first="Safa" last="Ali-Asgari">Safa Ali-Asgari</name>
+						<affiliation>Chemistry Department, Shahrood Branch, Islamic Azad University, Shahrood 36199-43189, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ehsan" last="Zahedi">Ehsan Zahedi</name>
+						<affiliation>Chemistry Department, Shahrood Branch, Islamic Azad University, Shahrood 36199-43189, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
+				<dates>
+					<date type="M">2013-07-21</date>
+					<date type="R">2013-09-08</date>
+					<date type="A">2013-09-17</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="03" year="2014">
+			<entry hassup="0">
+				<title>Contents</title>
+				<feature></feature>
+				<page>0303-0307</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -39878,19 +39535,22 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<title>Foreword &#8212; Catalysis for Sustainable Development</title>
+				<feature></feature>
+				<page>0309-0309</page>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="M. Lakshmi" last="Kantam">M. Lakshmi Kantam</name>
+						<affiliation>CSIR-Indian Institute of Chemical Technology, Hyderabad 500007, India</affiliation>
+						<email>mlakshmi@iict.res.in</email>
 					</author>
+					<author>
+						<name first="K. S." last="Rama Rao">K. S. Rama Rao</name>
+						<affiliation>CSIR-Indian Institute of Chemical Technology, Hyderabad 500007, India</affiliation>
+						<email>ksramarao@iict.res.in</email>
+					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
@@ -39900,184 +39560,302 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Concept and progress in coupling of dehydrogenation and hydrogenation reactions through catalysts</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0311-0317</page>
 				<abstract>
-					<p></p>
+					<p>This review focuses on the importance of coupling of catalytic reactions which involves dehydrogenation and hydrogenation simultaneously and the study of catalytic materials that are designed, adopted and/or modified for these reactions. The special features of these reactions are minimization of H$_2$ utilization and reduction in production cost. Structural and textural properties also play a decisive role in this kind of coupled reactions. This particular review although not comprehensive discusses the significant progress made in the area of coupled reactions and also helps future researchers or engineers to find out the improvements required in areas such as advancements in catalytic material preparation, design of the new reactors and the application of new technologies.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Coupling; hydrogenation; dehydrogenation; catalyst.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="C. V." last="Pramod">C. V. Pramod</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="C." last="Raghavendra">C. Raghavendra</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. Hari Prasad" last="Reddy">K. Hari Prasad Reddy</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="G. V. Ramesh" last="Babu">G. V. Ramesh Babu</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 607, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. S. Rama" last="Rao">K. S. Rama Rao</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 607, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="B. David" last="Raju">B. David Raju</name>
+						<affiliation>Inorganic and Physical Chemistry Division, Indian Institute of Chemical Technology, Hyderabad 500 607, India</affiliation>
+						<email>david@iict.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-10-06</date>
+					<date type="R">2013-12-06</date>
+					<date type="A">2013-12-12</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Pd(OAc)$_2$/DPPF-catalysed microwave-assisted cyanide-free synthesis of aryl nitriles</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0319-0324</page>
 				<abstract>
-					<p></p>
+					<p>This study reports microwave-assisted cyanide-free synthesis of aryl nitriles from aryl halides using palladium acetate/1,1-bis(diphenylphosphino)ferrocene as a new catalyst system. Reported protocol is a rapid, cyanide-free, single step reaction, wherein formamide acts as a solvent as well as a source of cyanide. The use of microwave increases the rate of reaction substantially and it was observed that aryl nitriles can be synthesised in 50 min of microwave irradiation compared to conventional thermal heating protocol which requires 48 h.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cyanation; benzonitrile; palladium; cyanide-free; C-C coupling; 1,3-diketones; amines; ionic liquids.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Dinesh N." last="Sawant">Dinesh N. Sawant</name>
+						<affiliation>Department of Chemistry, Institute of Chemical Technology, Matunga, Mumbai 400 019, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Bhalchandra M." last="Bhanage">Bhalchandra M. Bhanage</name>
+						<affiliation>Department of Chemistry, Institute of Chemical Technology, Matunga, Mumbai 400 019, India</affiliation>
+						<email>bhalchandra_bhanage@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-04-13</date>
+					<date type="R">2013-08-27</date>
+					<date type="A">2013-09-10</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>DIFLUORPHOS and SYNPHOS in asymmetric catalysis: Synthetic applications</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0325-0340</page>
 				<abstract>
-					<p></p>
+					<p>Enantiomerically pure diphosphines play an important role in various homogeneous metalcatalyzed asymmetric reactions. Over the last few years, our group has been involved in the design and synthesis of atropisomeric ligands named SYNPHOS and DIFLUORPHOS with complementary stereoelectronic properties. This paper shows the high catalytic performances of DIFLUORPHOS, SYNPHOS and SYNPHOS analogues for some C–H and C–C bond forming processes as well as for the synthesis of biorelevant targets.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Hydrogenation; asymmetric catalysis; total synthesis; atropisomeric phosphines.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Sebastien" last="Prevost">Sebastien Prevost</name>
+						<affiliation>Institut de Recherche de Chimie Paris, CNRS – Chimie ParisTech, 11 rue Pierre et Marie Curie, 75231 Paris Cedex 05, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tahar" last="Ayad">Tahar Ayad</name>
+						<affiliation>Institut de Recherche de Chimie Paris, CNRS – Chimie ParisTech, 11 rue Pierre et Marie Curie, 75231 Paris Cedex 05, France</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Jean-Pierre" last="Genet">Jean-Pierre Genet</name>
+						<affiliation>Institut de Recherche de Chimie Paris, CNRS – Chimie ParisTech, 11 rue Pierre et Marie Curie, 75231 Paris Cedex 05, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Phannarath" last="Phansavath">Phannarath Phansavath</name>
+						<affiliation>Institut de Recherche de Chimie Paris, CNRS – Chimie ParisTech, 11 rue Pierre et Marie Curie, 75231 Paris Cedex 05, France</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Virginie" last="Ratovelomanana-Vidal">Virginie Ratovelomanana-Vidal</name>
+						<affiliation>Institut de Recherche de Chimie Paris, CNRS – Chimie ParisTech, 11 rue Pierre et Marie Curie, 75231 Paris Cedex 05, France</affiliation>
+						<email>virginie.vidal@chimie-paristech.fr</email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2013-07-02</date>
 					<date type="R"></date>
-					<date type="A"></date>
+					<date type="A">2014-01-07</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Engineering reactors for catalytic reactions</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0341-0351</page>
 				<abstract>
-					<p></p>
+					<p>Catalytic reactions are ubiquitous in chemical and allied industries. A homogeneous or heterogeneous catalyst which provides an alternative route of reaction with lower activation energy and better control on selectivity can make substantial impact on process viability and economics. Extensive studies have been conducted to establish sound basis for design and engineering of reactors for practising such catalytic reactions and for realizing improvements in reactor performance. In this article, application of recent (and not so recent) developments in engineering reactors for catalytic reactions is discussed. Some examples where performance enhancement was realized by catalyst design, appropriate choice of reactor, better injection and dispersion strategies and recent advances in process intensification/ multifunctional reactors are discussed to illustrate the approach.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Catalyst; reactors; effectiveness; hydrodynamics; engineering.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Vivek V." last="Ranade">Vivek V. Ranade</name>
+						<affiliation>Chemical Engineering and Process Development Division, CSIR - National Chemical Laboratory, Pune 411 008, India</affiliation>
+						<email>vv.ranade@ncl.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-02</date>
+					<date type="R">2013-12-26</date>
+					<date type="A">2013-12-30</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Development of new deactivation method for simulation of fluid catalytic cracking equilibrium catalyst</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0353-0360</page>
 				<abstract>
-					<p></p>
+					<p>Selection of a good catalyst is the easiest way to increase profitability of a fluid catalytic cracking (FCC) unit. During operation, these catalysts get deactivated due to operation at high temperatures, steam and deposition of metals on the catalyst. Developing a proper catalyst deactivation method is crucial for optimization of a good catalyst for FCC. Conventional laboratory deactivation procedures include direct metal impregnation method, cyclic deactivation method (CDM) and cyclic propylene steaming (CPS). Direct metal impregnation method gives higher coke and gas yields. CDM and CPS methods implementation is very difficult and time-consuming and there is a deviation in coke and gas yield. New rapid deactivation method has been developed to simulate plant equilibrium catalyst (E-Cat) by modifying metal impregnation, steaming and oxidation/reduction procedures. The E-Cat generated through a new deactivation method was characterized for physico-chemical properties using X ray diffraction (XRD), temperature-programmed reduction (TPR), and SEM-EDX and activity studies. XRD studies show that metals are dispersed well on catalyst samples. SEMEDX studies reveal that the morphology of simulated E-Cat and plant E-Cat catalyst particles appear to be same. E-Cat obtained by new deactivationmethod gives better coke and gas yields. Two E-Cats were also generated through CDM and direct metal impregnation method for comparing with the one generated through new method. New deactivation method also significantly reduces the evaluation time.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Fluid catalytic cracking (FCC); steam deactivation; metal deactivation; catalyst selection; FCC additives.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="T." last="Chiranjeevi">T. Chiranjeevi</name>
+						<affiliation>Corporate R&amp;D Centre, Bharat Petroleum Corporation Ltd., Greater Noida 201 301, India</affiliation>
+						<email>chiranjeevit@bharatpetroleum.in</email>
+						<email>chiranjeevi13@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="D. T." last="Gokak">D. T. Gokak</name>
+						<affiliation>Corporate R&amp;D Centre, Bharat Petroleum Corporation Ltd., Greater Noida 201 301, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V." last="Ravikumar">V. Ravikumar</name>
+						<affiliation>Corporate R&amp;D Centre, Bharat Petroleum Corporation Ltd., Greater Noida 201 301, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. S." last="Viswanathan">P. S. Viswanathan</name>
+						<affiliation>Corporate R&amp;D Centre, Bharat Petroleum Corporation Ltd., Greater Noida 201 301, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-02</date>
+					<date type="R">2013-12-21</date>
+					<date type="A">2013-12-23</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Novel nanostructured CeO$_2$ as efficient catalyst for energy and environmental applications</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0361-0372</page>
 				<abstract>
-					<p></p>
+					<p>We report here versatile methods to engineer the microstructure and understand the fundamental physicochemical properties of CeO$_2$ to improve its catalytic viability for practical applications. In this context, different morphologies of CeO$_2$ are synthesized using tailored homogeneous precipitation methods and characterized by XRD, BET, SEM and TPR methods. The shuttle-shaped CeO$_2$ prepared under hydrothermal condition shows higher surface area and low-temperature reducibility. The 0.5 wt&#37; Pt-impregnated shuttle-shaped CeO$_2$ shows lower-temperature CO oxidation behaviour as compared to its bulk-like CeO$_2$ (with 0.5 wt&#37; Pt) counterpart, synthesized by conventional-reflux method. Further, nanorod morphology of CeO2 prepared with Cl−as counter ion shows lower-temperature oxidation of soot as compared to the mesoflower morphology of CeO$_2$, prepared with NO$^−_3$ as counter ion in the reaction medium. Further, linear sweep voltammetry, chronopotentiometry and CO-stripping voltammetry studies are performed to evaluate the promoting activity of CeO$_2$ to Pt/C for ethanol electro-oxidation reaction in acidic media. Results show that CeO$_2$ provides active triple-phase-interfacial sites for suitable adsorption of OH species which effectively oxidize the CO$_{\text{ads}}$ on Pt/C. The results presented here are significant in the context of understanding the physicochemical fine prints of CeO$_2$ and CeO$_2$ based hetero-nanocomposites for their suitability to important catalytic and energy-related applications.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>CeO$_2$; morphology; catalysis; soot oxidation; CO oxidation; ethanol electro-oxidation.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Sumanta Kumar" last="Meher">Sumanta Kumar Meher</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<affiliation>Department of Chemistry, Malaviya National Institute of Technology Jaipur, Rajasthan 302 017, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="G. Ranga" last="Rao">G. Ranga Rao</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email>grrao@iitm.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-04</date>
+					<date type="R">2013-10-22</date>
+					<date type="A">2013-10-26</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Value addition to lignocellulosics and biomass-derived sugars: An insight into solid acid-based catalytic methods</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0373-0385</page>
 				<abstract>
-					<p></p>
+					<p>For the synthesis of important platform chemicals such as sugars (xylose and arabinose) and furans (furfural and 5-hydroxymethylfurfural (HMF)) from carbohydrates (hemicellulose and fructose) solid acid catalysts are employed. Similarly, over solid acid catalysts, conversion of lignin into aromatic monomers is performed. It is observed that in the dehydration of fructose, because of higher hydrothermal stability, silicoaluminophosphate (SAPO) catalysts give better activity (78&#37; HMF yield) compared with other solid acid catalysts (&lt;63&#37; HMF yield) at 175$^\circ$C. Particularly, SAPO-44 catalyst can be reused at least 5 times with marginal decrease in the activity. Zeolite, HUSY (Si/Al = 15) is active in the conversion of isolated (pure) hemicellulose to produce 41&#37; C$_5$ sugars in water. The catalyst is also active in the selective conversion of hemicellulose from bagasse to yield 59&#37; C$_5$ sugars. It is possible to obtain high yields of furfural (54&#37;) directly from bagasse if instead of water, water+toluene solvent system is used. Depolymerization of lignin using HUSY catalyst produced aromatic monomers with 60&#37; yield at 250$^\circ$C. A detailed catalyst characterization study is performed to understand the correlation between catalyst activity and morphology. To understand the effect of impurities present in the substrate over solid acid catalysts, metal-exchange study is carried out.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Aromatic monomers; biomass; furans; hemicellulose; lignin; solid acid catalyst.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Prasenjit" last="Bhaumik">Prasenjit Bhaumik</name>
+						<affiliation>Catalysis and Inorganic Chemistry Division, CSIR- National Chemical Laboratory, Dr. Homi Bhabha Road, Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Deepa">A. K. Deepa</name>
+						<affiliation>Catalysis and Inorganic Chemistry Division, CSIR- National Chemical Laboratory, Dr. Homi Bhabha Road, Pune 411 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tanushree" last="Kane">Tanushree Kane</name>
+						<affiliation>Catalysis and Inorganic Chemistry Division, CSIR- National Chemical Laboratory, Dr. Homi Bhabha Road, Pune 411 008, India</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="Paresh Laxmikant" last="Dhepe">Paresh Laxmikant Dhepe</name>
+						<affiliation>Catalysis and Inorganic Chemistry Division, CSIR- National Chemical Laboratory, Dr. Homi Bhabha Road, Pune 411 008, India</affiliation>
+						<email>pl.dhepe@ncl.res.in</email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-04</date>
+					<date type="R">2013-12-11</date>
+					<date type="A">2013-12-12</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature>Regular Articles</feature>
-				<page>00-00</page>
+				<title>Effective utilization of glycerol for the synthesis of 2-methylpyrazine over ZnO-ZnCr$_2$O$_4$ catalyst</title>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
+				<page>0387-0393</page>
 				<abstract>
-					<p></p>
+					<p>Bioglycerol an inevitable by-product in the production of biodiesel was effectively utilized for the synthesis of 2-methylpyrazine (2-MP) by vapour phase dehydrocyclization with ethylenediamine over ZnOZnCr$_2$O$_4$(Zn-Cr-O) mixed oxides. These Zn-Cr-O samples were obtained from hydrotalcite precursors synthesized by precipitation method at different pH ($\tilde$7 and 9) and calcination in air at 450$^\circ$C. X-ray diffraction (XRD) and Fourier transform infrared (FT-IR) analysis confirmed the presence of ZnCr$_2$O$_4$ species. Transmission electron microscopy (TEM) images indicated spherical particles with mean diameter of 35.8 and 24 nm for the Zn-Cr-O prepared at pH $\tilde$ 7 and $\tilde$9, respectively. Surface Zn enrichment was observed in the near-surface region of Zn-Cr-Oprepared at pH$\tilde$9. Differences in dehydrocyclization activity of Zn-Cr-Omixed oxideswere established based on spectroscopic data that emphasized changes in structural properties of Zn-Cr-O obtained at different pH.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Bio-glycerol; 2-methylpyrazine; TEM; FT-IR; ESR; ZnO-ZnCr$_2$O$_4$.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A." last="Venugopal">A. Venugopal</name> 
+						<affiliation>Inorganic and Physical Chemistry Division, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Sarkari">R. Sarkari</name> 
+						<affiliation>Inorganic and Physical Chemistry Division, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. Naveen" last="Kumar">S. Naveen Kumar</name> 
+						<affiliation>Inorganic and Physical Chemistry Division, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Kotesh" last="Kumar">M. Kotesh Kumar</name> 
+						<affiliation>Inorganic and Physical Chemistry Division, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. Syed" last="John">S. Syed John</name> 
+						<affiliation>Inorganic and Physical Chemistry Division, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 007, India</affiliation>
 						<email></email>
 					</author>
+					<author>
+						<name first="J. Krishna" last="Reddy">J. Krishna Reddy</name> 
+						<affiliation>Inorganic and Physical Chemistry Division, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Hari" last="Padmasri">A. Hari Padmasri</name> 
+						<affiliation>Department of Chemistry, University College forWomen, Osmania University, Koti, Hyderabad 500 095, India</affiliation>
+						<email>akula@iict.res.in</email>
+						<email>ahpadmasri@gmail.com</email>
+					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
+					<date type="M">2013-07-05</date>
+					<date type="R">2014-01-01</date>
+					<date type="A">2014-01-02</date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="0">%%%%%%%%%%%%%
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40099,7 +39877,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40121,7 +39899,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40143,7 +39921,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40165,7 +39943,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40187,7 +39965,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40209,7 +39987,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40231,7 +40009,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40253,7 +40031,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40275,7 +40053,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40297,7 +40075,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40319,7 +40097,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40341,7 +40119,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40363,7 +40141,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40385,7 +40163,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40407,7 +40185,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40429,7 +40207,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40451,7 +40229,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40473,7 +40251,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40495,7 +40273,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40517,7 +40295,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40539,7 +40317,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40561,7 +40339,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40583,7 +40361,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40605,7 +40383,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40627,7 +40405,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40649,7 +40427,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40671,7 +40449,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40693,7 +40471,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40715,7 +40493,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40737,7 +40515,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40759,7 +40537,7 @@
 			</entry>
 			<entry hassup="0">
 				<title></title>
-				<feature>Regular Articles</feature>
+				<feature>Special Issue :  Catalysis for Sustainable Development</feature>
 				<page>00-00</page>
 				<abstract>
 					<p></p>
@@ -40779,6 +40557,8 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
+		</issue>
+		<issue inum="00" month="00" year="">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -40801,6 +40581,8 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
+		</issue>
+		<issue inum="00" month="00" year="">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -40823,6 +40605,8 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
+		</issue>
+		<issue inum="00" month="00" year="">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
@@ -40845,1326 +40629,8 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>00-00</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
+		</issue>
+		<issue inum="00" month="00" year="">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
