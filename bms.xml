@@ -49072,7 +49072,7 @@
 				<feature></feature>
 				<page>1313-1317</page>
 				<abstract>
-					<p>Nanometer-sized $\alpha$-Fe$_{2}$O$_${3} particles have been prepared by a simple solvothermal method using ferric acetylacetonate as a precursor. The products were characterized by X-ray diffraction (XRD), energy dispersive X-ray microanalysis (EDAX), X-ray photoelectron spectroscopy (XPS), scanning electron microscopy (SEM), transition electron microscopy (TEM), infrared spectroscopy (IR) and thermal analysis (TG–DTA). XRD indicates that the product is single-phase $\alpha$-Fe$_{2}$O$_{3}$ with rhombohedral structure. Bundles of acicular shaped nanoparticles are seen in TEM images with an aspect ratio $\sim$ 12; typically 8–12 nm wide and over 150 nm long. The $\alpha$-Fe$_{2}$O$_{3}$ nanoparticles posses a high thermal stability, as observed on thermal analysis traces.</p>
+					<p>Nanometer-sized $\alpha$-Fe$_{2}$O$_{3}$ particles have been prepared by a simple solvothermal method using ferric acetylacetonate as a precursor. The products were characterized by X-ray diffraction (XRD), energy dispersive X-ray microanalysis (EDAX), X-ray photoelectron spectroscopy (XPS), scanning electron microscopy (SEM), transition electron microscopy (TEM), infrared spectroscopy (IR) and thermal analysis (TG–DTA). XRD indicates that the product is single-phase $\alpha$-Fe$_{2}$O$_{3}$ with rhombohedral structure. Bundles of acicular shaped nanoparticles are seen in TEM images with an aspect ratio $\sim$ 12; typically 8–12 nm wide and over 150 nm long. The $\alpha$-Fe$_{2}$O$_{3}$ nanoparticles posses a high thermal stability, as observed on thermal analysis traces.</p>
 				</abstract>
 				<keywords>$\alpha$-Fe$_{2}$O$_{3}$;solvothermal;transmission electron microscope;X-ray diffraction.</keywords>
 				<authors>
@@ -49546,1053 +49546,2276 @@
 				<feature></feature>
 				<page>1385-1391</page>
 				<abstract>
-					<p>The electrical properties and d.c. accelerated ageing behaviour of ZVM (Zn–V–Mn) ceramics were investigated with different valences and contents of Mn. The incorporation of Mn into the ZV ceramics was found to restrict the abnormal grain growth of ZnO. The nonlinear properties and stability against the d.c. accelerated ageing stress are significantly affected by different valences and contents of Mn. The high valence of Mn (Mn4+) in the ZVM ceramics resulted in better nonlinear properties than low valence of Mn (Mn2⋅66+). Furthermore, an increase in doping level of MnO2 greatly improved its nonlinear properties. The ZVM ceramics doped with 2 mol% MnO2 exhibited not only a high nonlinearity, in which the nonlinear coefficient is 27 and the leakage current density is 0⋅042 mA/cm2, but also a good stability, in which %ΔE1 mA = –2⋅1%, %Δα = –25⋅9% for the d.c. accelerated ageing stress of 0⋅85 E1 mA/85°C/24 h.</p>
+					<p>The electrical properties and d.c. accelerated ageing behaviour of ZVM (Zn–V–Mn) ceramics were investigated with different valences and contents of Mn. The incorporation of Mn into the ZV ceramics was found to restrict the abnormal grain growth of ZnO. The nonlinear properties and stability against the d.c. accelerated ageing stress are significantly affected by different valences and contents of Mn. The high valence of Mn (Mn$^{4+}$) in the ZVM ceramics resulted in better nonlinear properties than low valence of Mn (Mn$^{2⋅66+}$). Furthermore, an increase in doping level of MnO$_{2}$ greatly improved its nonlinear properties. The ZVM ceramics doped with 2 mol% MnO$_{2}$ exhibited not only a high nonlinearity, in which the nonlinear coefficient is 27 and the leakage current density is 0⋅042 mA/cm$^{2}$, but also a good stability, in which %$\Delta E_{1\ \text{mA}}$ = –2⋅1%, %$\Delta \alpha$ = –25⋅9% for the d.c. accelerated ageing stress of 0⋅85 $E_{1\ \text{mA}}$/85$^\circ $C/24 h.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Mn-valence;microstructure;electrical properties;stability;Zn–V–Mn-based varistors.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="C-W" last="Nahm">C-W Nahm</name>
+						<affiliation>Semiconductor Ceramics Laboratory, Department of Electrical Engineering, Dongeui University, Busan 614-714, Republic of Korea</affiliation>
+						<email>cwnahm@deu.ac.kr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-06-20</date>
+					<date type="R">2011-01-22</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dielectric and impedance spectroscopic studies of (Sr$_{1–x}$Pb$_{x}$)TiO$_{2}$ glass ceramics with addition of Nb$_{2}$O$_{5}$</title>
+				<feature></feature>
+				<page>1393-1399</page>
+				<abstract>
+					<p>Glasses were made by melt-quench method in the system [(Sr$_{1–x}$Pb$_{x}$)O⋅TiO$_{2}$]–[2SiO$_{2}$⋅B$_{2}$O$_{3}$]–5[K$_{2}$O–BaO] (0⋅0 $\leq x \leq$ 0⋅4) with addition of 1 mol% Nb$_{2}$O$_{5}$. Perovskite strontium lead titanate in solid solution phase has been crystallized in borosilicate glassy matrix with suitable choice of composition and heat treatment schedule. Addition of 1 mol% of Nb$_{2}$O$_{5}$ enhances the crystallization of lead strontium titanate phase in the glassy matrix. Scanning electron microscopy (SEM) is performed to study the surface morphology of the crystallites and crystalline interface to the glass. Dielectric properties of these glass ceramics were studied by measuring capacitance and dissipation factor as a function of temperature at a few selected frequencies. Nb$_{2}$O$_{5}$ doped strontium lead titanate glass ceramic shows a high value of dielectric constant. It is of the order of 10,000 while the dielectric constant of undoped glass ceramic sample is of the order of 500. Complex impedance and modulus spectroscopic techniques were used to find out the contributions of polarization of crystallites and glass crystal interfaces to the resulting dielectric behaviour.</p>
+				</abstract>
+				<keywords>Perovskite lead strontium titanate;dielectric properties;impedance spectroscopy.</keywords>
+				<authors>
+					<author>
+						<name first="C. R." last="Gautam">C. R. Gautam</name>
+						<affiliation>Department of Physics, University of Lucknow, Lucknow 226 007, India</affiliation>
+						<email>gautam_ceramic@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Devendra" last="Kumar">Devendra Kumar</name>
+						<affiliation>Department of Ceramic Engineering, Institute of Technology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Om" last="Parkash">Om Parkash</name>
+						<affiliation>Department of Ceramic Engineering, Institute of Technology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-07-31</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Dielectric behaviour of Pb-substituted BZT ceramics</title>
 				<feature></feature>
-				<page></page>
+				<page>1401-1405</page>
 				<abstract>
-					<p></p>
+					<p>Material series with compositional formula Ba$_{1⋅0–x}$Pb$_{x}$Ti$_{0⋅90}$Zr$_{0⋅10}$O$_{3}$ (0 $\leq x \leq$ 0⋅20, in steps of 0⋅05) were prepared by conventional solid state method. All the samples were subjected to X-ray diffraction (XRD) studies and found to be single phase with perovskite structure. SEM measurements were done in order to collect micro-structural information. Different transition temperatures were found to depend on the Pb content. Tetragonality ($c/a$) and Curie temperature ($T_{c}$) increase with increase in lead content $x$. Dielectric properties were studied as a function of temperature and frequencies.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>BZT;dielectric properties;XRD;transition temperature;tetragonality.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Parveen" last="Kumar">Parveen Kumar</name>
+						<affiliation>Electroceramics Research Laboratory, G.V.M. Girls College, Sonepat 131 001, India</affiliation>
+						<affiliation>School of Physics and Material Science, Thapar University, Patiala 147 004, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Sangeeta" last="Singh">Sangeeta Singh</name>
+						<affiliation>Department of Physics, G.V.M. Girls College, Sonepat 131 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J. K." last="Juneja">J. K. Juneja</name>
+						<affiliation>Department of Physics, Hindu College, Sonepat 131 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. K." last="Raina">K. K. Raina</name>
+						<affiliation>School of Physics and Material Science, Thapar University, Patiala 147 004, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chandra" last="Prakash">Chandra Prakash</name>
+						<affiliation>Directorate of ER&amp;IPR, DRDO, DRDO Bhawan, New Delhi 110 105, India</affiliation>
+						<email>cprakash@hqr.drdo.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-04-11</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>High performance of low cost soft magnetic materials</title>
 				<feature></feature>
-				<page></page>
+				<page>1407-1413</page>
 				<abstract>
-					<p></p>
+					<p>The consistent interest in supporting research and development of magnetic materials during the last century is revealed in their steadily increasing market. In this work, the soft magnetic nanocrystalline FINEMET alloy was prepared with commercial purity raw materials and compared for the first time with the generally studied high purity one. The exhaustive characterization covers several diverse techniques: X-ray diffraction, Mössbauer spectroscopy, differential scanning calorimetry, differential thermal analysis and magnetic properties. In addition, a brief economic analysis is presented. For the alloys annealed at 813 K, the value of the grain size was 16 nm with 19⋅5% of Si, the coercivity was 0⋅30 A m$^{-1}$ while the saturation was 1⋅2 T. These results prove that structural, magnetic and thermal properties of this material are very close to the expensive high purity FINEMET alloy, while a cost reduction of almost 98% seems highly attractive for laboratories and industry. The analysis should be useful not only for the production of FINEMETs, but for other type of systems with similar constitutive elements as well, including soft and hard magnetic materials.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Soft magnetic materials;FINEMET;raw materials;product technology;structural and magnetic properties.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Josefina M." last="Silveyra">Josefina M. Silveyra</name>
+						<affiliation>Lab. de Sólidos Amorfos, INTECIN, FIUBA-CONICET, Paseo Colón 850, (C1063ACV) Buenos Aires, Argentina</affiliation>
+						<email>jsilveyra@fi.uba.ar</email>
+					</author>
+					<author>
+						<name first="Emília" last="Illeková">Emília Illeková</name>
+						<affiliation>Institute of Physics SAS, Dúbravská cesta 9, 845 11 Bratislava, Slovak Republic</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Marco" last="Coïsson">Marco Coïsson</name>
+						<affiliation>Istituto Nazionale di Ricerca Metrologica, Strada delle Cacce 91, I-10135 Torino, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Federica" last="Celegato">Federica Celegato</name>
+						<affiliation>Istituto Nazionale di Ricerca Metrologica, Strada delle Cacce 91, I-10135 Torino, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Franco" last="Vinai">Franco Vinai</name>
+						<affiliation>Istituto Nazionale di Ricerca Metrologica, Strada delle Cacce 91, I-10135 Torino, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Paola" last="Tiberto">Paola Tiberto</name>
+						<affiliation>Istituto Nazionale di Ricerca Metrologica, Strada delle Cacce 91, I-10135 Torino, Italy</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Javier A." last="Moya">Javier A. Moya</name>
+						<affiliation>Lab. de Sólidos Amorfos, INTECIN, FIUBA-CONICET, Paseo Colón 850, (C1063ACV) Buenos Aires, Argentina</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Victoria J." last="Cremaschi">Victoria J. Cremaschi</name>
+						<affiliation>Lab. de Sólidos Amorfos, INTECIN, FIUBA-CONICET, Paseo Colón 850, (C1063ACV) Buenos Aires, Argentina</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-05-17</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Influence of temperature on structural and magnetic properties of Co$_{0⋅5}$Mn$_{0⋅5}$Fe$_{2}$O$_{4}$ ferrites</title>
 				<feature></feature>
-				<page></page>
+				<page>1415-1419</page>
 				<abstract>
-					<p></p>
+					<p>Co$_{0⋅5}$Mn$_{0⋅5}$Fe$_{2}$O$_{4}$ ferrites have been synthesized using a single-step sol–gel auto-combustion method in which the metal nitrate (MN)-to-citric acid (CA) ratio was adjusted to 0⋅5 : 1 and pH to 7, respectively. The structural and magnetic properties of as-burnt and annealed samples were studied as a function of temperature. The inverse spinel structure was confirmed by X-ray diffraction (XRD) and crystallite size was estimated by the most intense peak (311) using Scherrer’s formula. Contrary to earlier studies reported in the literature, both as-burnt and annealed samples exhibit crystalline behaviour. Room temperature magnetic properties were studied using vibrating sample magnetometer (VSM) with field strengths up to $\pm$ 10 kOe. Lattice constant and crystallite size increased as the annealing temperature was increased. However, the coercivity ($H_{c}$) initially increased and then decreased with the increase of crystallite size. The variation in coercivity is ascribed to the transition from a multi-domain to a single-domain configuration.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Sol–gel preparation;ferrites;crystallite size;coercivity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S. M." last="Ramay">S. M. Ramay</name>
+						<affiliation>School of Science and Engineering, Lahore University of Management Sciences (LUMS), Opposite Sector U, DHA, Lahore 54792, Pakistan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Murtaza" last="Saleem">Murtaza Saleem</name>
+						<affiliation>Centre of Excellence in Solid State Physics, University of the Punjab, Lahore 54590, Pakistan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Atiq">S. Atiq</name>
+						<affiliation>Centre of Excellence in Solid State Physics, University of the Punjab, Lahore 54590, Pakistan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Saadat A." last="Siddiqi">Saadat A. Siddiqi</name>
+						<affiliation>Interdisciplinary Research Centre in Biomedical Materials, COMSATS IIT, Off Raiwind Road, Lahore, Pakistan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Naseem">S. Naseem</name>
+						<affiliation>Centre of Excellence in Solid State Physics, University of the Punjab, Lahore 54590, Pakistan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Sabieh" last="Anwar">M. Sabieh Anwar</name>
+						<affiliation>School of Science and Engineering, Lahore University of Management Sciences (LUMS), Opposite Sector U, DHA, Lahore 54792, Pakistan</affiliation>
+						<email>sabieh@lums.edu.pk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-05-24</date>
+					<date type="R">2010-10-27</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of thermomechanical processing on evolution of various phases in Ti–Nb alloys</title>
+				<feature></feature>
+				<page>1421-1434</page>
+				<abstract>
+					<p>This paper deals with the effect of thermomechanical processing on microstructural evolution of three alloys, viz. Ti–8Nb, Ti–12Nb and Ti–16Nb. The alloys were hot rolled at 800$^\circ $C and then subjected to various heat treatments. Samples from hot-rolled alloys were given solution-treatment in $\beta$ and $\alpha + \beta$ phase fields, respectively followed by water quenching and furnace cooling. The solution-treated alloys were subsequently aged at different temperatures for 24 h. Phases evolved after various heat treatments were studied using X-ray diffractometer, optical, scanning and transmission electron microscopes. The alloy Ti–8Nb exhibits $\alpha$ and $\beta$ phases while the alloys Ti–12Nb and Ti–16Nb show the presence of $\alpha'', \beta$ and $\omega$ phases in the as-cast and hot-rolled conditions. The $\beta$ solution treated and water quenched specimen of the alloy Ti–8Nb displays $\alpha''$ phase while the alloys Ti–12Nb and Ti–16Nb exhibit $\alpha'', \beta$ and $\omega$ phases. The alloy Ti–8Nb shows the presence of $\alpha, \beta$ and $\omega$ phases while those of Ti–12Nb and Ti–16Nb display the presence of $\alpha, \alpha'', \beta$ and $\omega$ in $\alpha + \beta$ solution treated and water quenched condition. The observation of $\omega$ phase in solution treated condition depends on the cooling rate and the Nb content while in the aged specimens, it is governed by aging temperature as well as the Nb content.</p>
+				</abstract>
+				<keywords>Heat treatment;Ti–Nb alloys;thermomechanical processing;microstructure;X-ray diffraction.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Banumathy">S. Banumathy</name>
+						<affiliation>Defence Metallurgical Research Laboratory, Kanchanbagh P.O., Hyderabad 500 058, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. S." last="Prasad">K. S. Prasad</name>
+						<affiliation>Defence Metallurgical Research Laboratory, Kanchanbagh P.O., Hyderabad 500 058, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. K." last="Mandal">R. K. Mandal</name>
+						<affiliation>Department of Metallurgical Engineering, Institute of Technology, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Singh">A. K. Singh</name>
+						<affiliation>Defence Metallurgical Research Laboratory, Kanchanbagh P.O., Hyderabad 500 058, India</affiliation>
+						<email>singh_ashok3@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-04-28</date>
+					<date type="R">2010-11-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Annealing twins in a multifunctional beta Ti–Nb–Ta–Zr–O alloy</title>
+				<feature></feature>
+				<page>1435-1438</page>
+				<abstract>
+					<p>The grain boundary character distribution and annealing twins in a multifunctional $\beta$-type Ti–23Nb–0⋅7Ta–2Zr–O alloy having a stable $bcc$ phase structure are investigated by electron backscattering diffraction (EBSD). The results show that the coincident site lattice (CSL) boundaries, including $\Sigma 3$ and $\Sigma 11$ twin boundaries mainly form at the early stage of recrystallization. {112}$\langle$111$\rangle$ and {332} $\langle$113$\rangle$ annealing twins are observed to occur in the completely recrystallized Ti–23Nb–0⋅7Ta–2Zr–O alloy.</p>
+				</abstract>
+				<keywords>Titanium alloy;annealing;EBSD;CSL;twinning.</keywords>
+				<authors>
+					<author>
+						<name first="W. Y." last="Guo">W. Y. Guo</name>
+						<affiliation>Shanghai Baosteel Packaging Co. Ltd, Shanghai 201908, P.R. China</affiliation>
+						<email>guowenyuan2@yahoo.com</email>
+					</author>
+					<author>
+						<name first="J." last="Sun">J. Sun</name>
+						<affiliation>School of Materials Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, P.R. China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-01-10</date>
+					<date type="R">2011-02-09</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Heat treatment and effects of Cr and Ni in low alloy steel</title>
+				<feature></feature>
+				<page>1439-1445</page>
+				<abstract>
+					<p>The effects of Cr and Ni on low carbon steel was observed. Undissolved carbide particles refine the austenite grain size. In the presence of nickel, chromium carbide is less effective in austenite grain refinement than chromium carbide in absence of nickel at temperature below 975$^\circ $C. Nickel does not produce any austenite grain refinement but presence of nickel promotes the formation of acicular ferrites. It was also found that Ni and Cr as chromium carbide also refines the ferrite grain size and morphology. Cr as chromium carbide is more effective in refining ferrite grain size than nickel.</p>
+				</abstract>
+				<keywords>Low alloy steel;Cr;Ni.</keywords>
+				<authors>
+					<author>
+						<name first="Mohammad Abdur" last="Razzak">Mohammad Abdur Razzak</name>
+						<affiliation>Materials and Metallurgical Engineering Department, Bangladesh University of Engineering and Technology (BUET), Bangladesh</affiliation>
+						<email>mohammad.razzak@insa-lyon.fr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-03-01</date>
+					<date type="R">2011-02-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Low temperature enhanced ductility of friction stir processed 5083 aluminum alloy</title>
+				<feature></feature>
+				<page>1447-1453</page>
+				<abstract>
+					<p>Commercial 5083 Al rolled plates were subjected to friction stir processing (FSP) with two different processing parameters, having 430 and 850 rpm tool rotational speed with a single traverse feed rate of 90 mm/min. These FSP conditions resulted in two fine grained microstructures of 0⋅95 $\mu$m (430 rpm) and 2⋅6 $\mu$m (850 rpm). Tensile elongations were measured at a relatively low temperature of 250$^\circ $C at three strain rates, and demonstrated that a decrease in grain size resulted in significantly enhanced ductility and lower forming loads. The occurrence of a relatively high value of strain rate sensitivity, $m$ of 0⋅45 for a grain size of 0⋅95 $\mu$m, suggests the operation of superplastic deformation under these present experimental conditions.</p>
+				</abstract>
+				<keywords>AA5083;friction stir processing;ductility;superplasticity.</keywords>
+				<authors>
+					<author>
+						<name first="Ehab A." last="El-Danaf">Ehab A. El-Danaf</name>
+						<affiliation>Mechanical Engineering Department, Centre of Excellence for Research in Engineering Materials (CEREM), College of Engineering, King Saud University, P.O. Box 800, Riyadh 11421</affiliation>
+						<email>edanaf@ksu.edu.sa</email>
+					</author>
+					<author>
+						<name first="Magdy M." last="El-Rayes">Magdy M. El-Rayes</name>
+						<affiliation>Mechanical Engineering Department, Centre of Excellence for Research in Engineering Materials (CEREM), College of Engineering, King Saud University, P.O. Box 800, Riyadh 11421</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mahmoud S." last="Soliman">Mahmoud S. Soliman</name>
+						<affiliation>Mechanical Engineering Department, Centre of Excellence for Research in Engineering Materials (CEREM), College of Engineering, King Saud University, P.O. Box 800, Riyadh 11421</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-04-10</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Small-angle scattering from GP zones in Al–Cu alloy</title>
 				<feature></feature>
-				<page></page>
+				<page>1455-1458</page>
 				<abstract>
-					<p></p>
+					<p>It is well known that Guinier Preston (GP) zones form in Al–Cu alloys upon solutionizing and artificial aging, which are extensively used in commercial practice. It is well established that GP zones are discshaped precipitates, i.e. disks of clusters of copper atoms in the FCC aluminium matrix. These disks have coherency strain fields in aluminium that give the alloy its high yield strength. The formation of GP zones in the supersaturated aluminium matrix is thought to be heterogeneous nucleation and growth. Some authors have believed that the formation of GP zones is by spinodal decomposition of the supersaturated Al–Cu solid solution. The main objective of the present work is to test whether spinodal decomposition is responsible for the formation of GP zones in Al–Cu alloy. The experimental alloy AA2219 was selected for its high copper content (Al–6%Cu–0⋅2%Zr). After solutionizing and artificial aging, the aging curve was plotted and smallangle scattering experiments were carried on the powdered samples as a function of time during artificial aging. Small-angle scattering data were analysed, and evidence has been obtained for the occurrence of spinodal decomposition as the mechanism responsible in the early stages of formation of GP zones.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>GP zones;nucleation and growth;spinodal decomposition;Al–Cu alloy.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="K. T." last="Kashyap">K. T. Kashyap</name>
+						<affiliation>Department of Mechanical Engineering, PES Institute of Technology, Bangalore 560 050, India</affiliation>
+						<email>ktkashyap@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Praveennath G." last="Koppad">Praveennath G. Koppad</name>
+						<affiliation>Department of Mechanical Engineering, PES Institute of Technology, Bangalore 560 050, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-07-30</date>
+					<date type="R">2011-02-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Calorimetric studies of non-isothermal crystallization in amorphous Cu$_{x}$Ti$_{100–x}$ alloys</title>
+				<feature></feature>
+				<page>1459-1463</page>
+				<abstract>
+					<p>The present paper reports the composition dependence of pre-exponential factor and activation energy of non-isothermal crystallization in amorphous alloys of Cu$_{x}$Ti$_{100–x}$ system using differential scanning calorimeter (DSC) technique. The applicability of Meyer–Neldel relation between the pre-exponential factor and activation energy of non-isothermal crystallization for amorphous alloys of Cu–Ti system was verified.</p>
+				</abstract>
+				<keywords>Amorphous materials;differential scanning calorimetry (DSC);phase transitions.</keywords>
+				<authors>
+					<author>
+						<name first="N." last="Mehta">N. Mehta</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi, India</affiliation>
+						<email>dr_neeraj_mehta@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="K." last="Singh">K. Singh</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N. S." last="Saxena">N. S. Saxena</name>
+						<affiliation>Semi-conductor and Polymer Science Laboratory, 5-6, Vigyan Bhawan, University of Rajasthan, Jaipur, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-12-19</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Effect of ageing treatment on wear properties and electrical conductivity of Cu–Cr–Zr alloy</title>
 				<feature></feature>
-				<page></page>
+				<page>1465-1470</page>
 				<abstract>
-					<p></p>
+					<p>In this study, the effect of ageing processes on the wear behaviour and electrical conductivity was investigated. Prior to solid solution heat treatment at 920$^\circ $C and ageing at 470$^\circ $C, 500$^\circ $C and 530$^\circ $C for 1 h, 2 h and 3 h, respectively, the prepared samples were homogenized at 920$^\circ $C for 1 h. After the ageing processes, all samples were characterized in terms of electrical conductivity, scanning electron microscope (with energy dispersive X-ray spectrum (EDS)) and hardness (HV5). In wear tests, pin-on-disc type standard wearing unit was used. As a result, starting from 1 h aged specimens, orderly increase of electrical conductivity was defined. From EDS analyses it was observed that Cr rate increases as precipitates grow. With increase of Cr rate there was also a defined rise of electrical conductivity. From the wear tests, it was observed that the least wear loss was in Cu–Cr–Zr alloy aged at 500$^\circ $C for 2 h and the most wear loss was in specimens aged at 530$^\circ $C for 2 h. Furthermore, it was observed that the friction coefficient values resulting from wear rate were overlapped with hardness results and there is a decrease tendency of friction coefficient as wear distance increases.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cu–Cr–Zr;wear;ageing treatment;electrical conductivity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Ibrahim" last="Sağlam">Ibrahim Sağlam</name>
+						<affiliation>Technical Education Faculty, Department of Machine Education, Karabuk University, Karabük 078100, Turkey</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dursun" last="Özyürek">Dursun Özyürek</name>
+						<affiliation>Department of Metal Education, Karabuk University, Karabük 078100, Turkey</affiliation>
+						<email>dozyurek@karabuk.edu.tr</email>
+					</author>
+					<author>
+						<name first="Kerim" last="Çetinkaya">Kerim Çetinkaya</name>
+						<affiliation>Technical Education Faculty, Department of Machine Education, Karabuk University, Karabük 078100, Turkey</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-12-05</date>
+					<date type="R">2010-09-07</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of grain boundary misorientation on discontinuous precipitation in an AZ91 alloy</title>
+				<feature></feature>
+				<page>1471-1476</page>
+				<abstract>
+					<p>A scanning electron microscopy (SEM)-based electron backscatter diffraction (EBSD) analysis showed that the discontinuous precipitation (DP) reaction rate was dependent on the geometry of the grain boundary in Mg–9Al–1Zn (wt.%) alloys. DP converted a supersaturated solid solution, $\delta_{0}$ (magnesium (Mg)-rich solid solution), into a two-phase $\delta + \gamma$ aggregate, with $\delta$ being a precipitated Mg$_{17}$Al$_{12}$ (intermetallic phase) behind a migrating reaction front. The near-special grain boundary was rather inactive, whereas most of the random high-angle boundaries promoted the reaction. Prior deformation (hot rolling to achieve up to 80% thickness reduction) had no effect on the frequency of special-grain boundaries.</p>
+				</abstract>
+				<keywords>AZ91 alloy;precipitation;kinetics;GBCD;EBSD.</keywords>
+				<authors>
+					<author>
+						<name first="H." last="Azzeddine">H. Azzeddine</name>
+						<affiliation>Faculty of Physics, University of Sciences and Technology Houari Boumediene, BP 32 El-Alia, Bab-Ezzouar, Algiers, Algeria</affiliation>
+						<email>azehibou@yahoo.fr</email>
+					</author>
+					<author>
+						<name first="S." last="Abdessameud">S. Abdessameud</name>
+						<affiliation>Faculty of Physics, University of Sciences and Technology Houari Boumediene, BP 32 El-Alia, Bab-Ezzouar, Algiers, Algeria</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Alili">B. Alili</name>
+						<affiliation>Faculty of Physics, University of Sciences and Technology Houari Boumediene, BP 32 El-Alia, Bab-Ezzouar, Algiers, Algeria</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z." last="Boumerzoug">Z. Boumerzoug</name>
+						<affiliation>Department of Metallurgy, University of Biskra, B.P. 145, 07000, Algeria</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Bradai">D. Bradai</name>
+						<affiliation>Faculty of Physics, University of Sciences and Technology Houari Boumediene, BP 32 El-Alia, Bab-Ezzouar, Algiers, Algeria</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-08-04</date>
+					<date type="R">2011-02-01</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Rapid heating effects on grain-size, texture and magnetic properties of 3% Si non-oriented electrical steel</title>
+				<feature></feature>
+				<page>1477-1482</page>
+				<abstract>
+					<p>The rapid heating effects on the microstructure, texture and magnetic properties of 3% Si nonoriented electrical steel has been investigated through optical microscopy, X-ray diffraction and Epstein frame. The results show that recrystallized grains were refined with increased heating rate, caused by the nucleation rate increase, which is faster than the growth rate due to rapid hearting. With the heating rate increase, the characteristic {111} recrystallization fibre of cold-rolled steel was depressed, but the beneficial $\langle$001$\rangle$//RD and $\langle$001$\rangle$//ND fibres were significantly strengthened. Although the grain-size decreases with heating rate increasing, the optimal magnetic properties can also be obtained through the recrystallized grain-size and texture optimization by rapid heating. In this research, we find the magnetic properties optimization can be obtained when annealed with 100$^\circ $C/s heating rate: the core loss ($P_{1⋅5/50}$) decrease 13% and the magnetic induction ($B_{50}$) increase 3%.</p>
+				</abstract>
+				<keywords>Non-oriented electrical steel;rapid heating;recrystallized grain-size;recrystallization texture;orientation distribution function (ODF);magnetic properties.</keywords>
+				<authors>
+					<author>
+						<name first="Jian" last="Wang">Jian Wang</name>
+						<affiliation>Baoshan Iron and Steel Co. Ltd., Shanghai 201900, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jun" last="Li">Jun Li</name>
+						<affiliation>Baoshan Iron and Steel Co. Ltd., Shanghai 201900, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xinfeng" last="Wang">Xinfeng Wang</name>
+						<affiliation>Beijing Electronic Science Vocational College, Beijing 100026, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaochuan" last="Mi">Xiaochuan Mi</name>
+						<affiliation>Baoshan Iron and Steel Co. Ltd., Shanghai 201900, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shengen" last="Zhang">Shengen Zhang</name>
+						<affiliation>School of Materials Science and Engineering, University of Science and Technology Beijing, Beijing 100083, China</affiliation>
+						<email>zhangshengen@mater.ustb.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-01-14</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Effect of Zr on dielectric, ferroelectric and impedance properties of BaTiO$_{3}$ ceramic</title>
 				<feature></feature>
-				<page></page>
+				<page>1483-1489</page>
 				<abstract>
-					<p></p>
+					<p>A polycrystalline sample of Zr-doped barium titanate (BaTiO$_{3}$) was prepared by conventional solid state reaction method. The effect of Zr (0⋅15) on the structural and microstructural properties of BaTiO$_{3}$ was investigated by XRD and SEM. The electrical properties (dielectric, ferroelectric and impedance spectroscopy) were measured in wide range of frequency and temperature. With substitutions of Zr, the structure of BaTiO$_{3}$ changes from tetragonal to rhombohedral. Lattice parameters were found to increase with substitution. The room temperature dielectric constant increases from $\sim$ 1675 to $\sim$ 10586 and peak dielectric constant value increases from $\sim$ 13626 to $\sim$ 21023 with diffuse phase transition. Impedance spectroscopy reveals the formation of grain and grain boundary in the material and found to decrease with increase in temperature.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>BZT;dielectric;impedance;diffuse phase transitions.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Sandeep" last="Mahajan">Sandeep Mahajan</name>
+						<affiliation>Electroceramics Group, Solid State Physics Laboratory, Lucknow Road, Delhi 110 054, India</affiliation>
+						<affiliation>Department of Physics, Indian Institute of Technology, Delhi 110 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="O. P." last="Thakur">O. P. Thakur</name>
+						<affiliation>Electroceramics Group, Solid State Physics Laboratory, Lucknow Road, Delhi 110 054, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chandra" last="Prakash">Chandra Prakash</name>
+						<affiliation>Directorate of Extramural Research &amp; Intellectual Property Rights (ER&amp;IPR), DRDO Bhawan, New Delhi 110 105, India</affiliation>
+						<email>cprakash@hqr.drdo.in</email>
+					</author>
+					<author>
+						<name first="K." last="Sreenivas">K. Sreenivas</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-04-11</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Effect of substitution of titanium by magnesium and niobium on structure and piezoelectric properties in (Bi$_{1/2}$Na$_{1/2}$)TiO$_{3}$ ceramics</title>
 				<feature></feature>
-				<page></page>
+				<page>1491-1494</page>
 				<abstract>
-					<p></p>
+					<p>To develop new (Bi$_{1/2}$Na$_{1/2}$)TiO$_{3}$-based ceramics with excellent piezoelectric properties, the similarities and the differences between PZT and (Bi$_{1/2}$Na$_{1/2}$)TiO$_{3}$ ceramics were analysed. Based on the analysis, a new (Bi$_{1/2}$Na$_{1/2}$)TiO$_{3}$-based piezoelectric ceramic of B-site substitution of complex ions (Mg$_{1/3}$Nb$_{2/3}$)$^{4+}$ for Ti$^{4+}$ was prepared by a conventional ceramic technique, and the effect of complex ions (Mg$_{1/3}$Nb$_{2/3}$)$^{4+}$ addition on the microstructure, dielectric and piezoelectric properties was investigated. The research results show that all compositions are mono-perovskite phase and the grain size increases with increasing content of (Mg$_{1/3}$Nb$_{2/3}$)$^{4+}$. The piezoelectric constant $d_{33}$ first increases and then decreases, and electromechanical coupling factor $k_{p}$ varies insignificantly with increasing content of (Mg$_{1/3}$Nb$_{2/3}$)$^{4+}$.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Lead-free piezoelectric ceramics;perovskite structure;substitution.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Zhou" last="Chang-Rong">Zhou Chang-Rong</name>
+						<affiliation>Department of Information Material Science and Engineering, Guilin University of Electronic Technology, Guilin, Guangxi 541004, P.R. China</affiliation>
+						<email>zcr750320@yahoo.com.cn</email>
+					</author>
+					<author>
+						<name first="Liu" last="Xin-Yu">Liu Xin-Yu</name>
+						<affiliation>Department of Information Material Science and Engineering, Guilin University of Electronic Technology, Guilin, Guangxi 541004, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Li" last="Wei-Zhou">Li Wei-Zhou</name>
+						<affiliation>School of Materials Science and Engineering, Guangxi University, Nanning, Guangxi 530004, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuan" last="Chang-Lai">Yuan Chang-Lai</name>
+						<affiliation>Department of Information Material Science and Engineering, Guilin University of Electronic Technology, Guilin, Guangxi 541004, P.R. China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2007-11-08</date>
+					<date type="R">2008-10-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mathematical aspects of Rietveld refinement and crystal structure studies on PbTiO$_{3}$ ceramics</title>
+				<feature></feature>
+				<page>1495-1500</page>
+				<abstract>
+					<p>The core mathematics, goodness-of-fit parameters of Rietveld refinement technique is introduced for structural analysis of crystalline materials not available as single crystals. X-ray diffraction (XRD) patterns of PbTiO$_{3}$ compound prepared by following solid-state route, suggests it to be in single crystal form. All the observed peaks could be indexed to $P4mm$ space group with tetragonal symmetry. XRD pattern is analysed by employing Rietveld method. The unit cell parameters are found to be $a$ = $b$ = 3⋅8987 (0.0008) Å and $c$ = 4⋅1380 (0⋅0009) Å. The axial ratio $c/a$ and unit cell volume are found to be 1⋅0614 and 62⋅896 (0.023) Å${}^{3}$. Bond lengths and angles are calculated using the cell parameters. Using the Rietveld refinement parameters a stable PbTiO$_{3}$ structure is suggested.</p>
+				</abstract>
+				<keywords>Rietveld;PbTiO$_{3}$;XRD;oxides.</keywords>
+				<authors>
+					<author>
+						<name first="Niranjan" last="Sahu">Niranjan Sahu</name>
+						<affiliation>Department of Physics, National Institute of Technology, Rourkela 769 008, India</affiliation>
+						<email>nsahu76@gmail.com</email>
+					</author>
+					<author>
+						<name first="S." last="Panigrahi">S. Panigrahi</name>
+						<affiliation>Department of Physics, National Institute of Technology, Rourkela 769 008, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-01-12</date>
+					<date type="R">2010-10-29</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ce-doped LCMO CMR manganites: a consequence of enhanced $T_{c}$ and $T_{\text{IM}}$</title>
+				<feature></feature>
+				<page>1501-1506</page>
+				<abstract>
+					<p>A series of Ce-doped (1–20 mol%) La$_{0⋅67}$Ca$_{0⋅33}$MnO$_{3}$ (LCMO) sintered (1400$^\circ $C) ceramic samples were prepared by the solid-state reaction route. The significant enhancement of metal insulator transition temperature ($T_{\text{IM}} \approx$ 280 K) and Curie transition temperature ($T_{c} \approx$ 270 K) associated with LCMO system by the addition of 10 mol% of Ce has been observed. Further interesting observation showed that both low ($\approx$ 1 mol%) and high ($\geq$ 15 and 20 mol%) level of Ce-doping in LCMO reduced the $T_{\text{IM}}$ appreciably from 280 K to 220 K, and from 100 to 160 K, respectively exhibiting the signature of a unique spin glass transitions at around 30 K. Structural and spectroscopic studies revealed that unreacted CeO$_{2}$ and MnO$_{2}$ phases are found to be present in 1, 15, 20 mol% Ce-doped LCMO samples, which is one of the reasons why they show spin glass transition at low temperature. Our present results on bulk Ce-doped (10 mol%) LCMO are found to be encouraging as far as $T_{\text{IM}}$ of epitaxial La$_{0⋅7}$Ce$_{0⋅3}$MnO$_{3}$ thin film ($T_{\text{IM}} \approx$ 250 K) is concerned. This finding suggests that single-phase materials of Ce-doped (10 mol%) LCMO can be prepared with enhanced $T_{\text{IM}}$ effectively using solid-state reaction route.</p>
+				</abstract>
+				<keywords>Metal insulator transition;spin glass transition;solid-state reaction route.</keywords>
+				<authors>
+					<author>
+						<name first="D. K." last="Mishra">D. K. Mishra</name>
+						<affiliation>Advanced Materials Technology Department, Institute of Minerals and Materials Technology (CSIR), Bhubaneswar 751 013, India</affiliation>
+						<email>dilipiuac@gmail.com</email>
+					</author>
+					<author>
+						<name first="D. R." last="Sahu">D. R. Sahu</name>
+						<affiliation>School of Physics and DST/NRF Centre of Excellence in Strong Materials, University of the Witwatersrand, Private Bag 3, Wits 2050, Johannesburg, South Africa</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. K." last="Mishra">P. K. Mishra</name>
+						<affiliation>Technical Physics and Prototype Engineering Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Singh">S. K. Singh</name>
+						<affiliation>Advanced Materials Technology Department, Institute of Minerals and Materials Technology (CSIR), Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. K." last="Mohapatra">B. K. Mohapatra</name>
+						<affiliation>Advanced Materials Technology Department, Institute of Minerals and Materials Technology (CSIR), Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. K." last="Roul">B. K. Roul</name>
+						<affiliation>Institute of Materials Science, Planetarium Building, Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-07-30</date>
+					<date type="R">2011-02-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Formation of ternary Mg–Cu–Dy bulk metallic glasses</title>
+				<feature></feature>
+				<page>1507-1510</page>
+				<abstract>
+					<p>The glass-forming ability (GFA) of ternary Mg–Cu–Dy alloys was systematically investigated by using differential scanning calorimetry (DSC) and X-ray diffractometry (XRD) techniques. The results showed that a series of ternary Mg–Cu–Dy bulk metallic glasses (BGMs) with a diameter of 4–8 mm were successfully fabricated in the system with conventional Cu-mold casting method. Mg$_{55}$Cu$_{32}$Dy$_{13}$, Mg$_{60}$Cu$_{27}$Dy$_{13}$, Mg$_{65}$Cu$_{25}$Dy$_{10}$ and Mg$_{70}$Cu$_{17}$Dy$_{13}$ BMGs exhibit a clear glass transition, a broad supercooled liquid region and different crystallization and melting behaviours. They have supercooled liquid region ($\Delta T_{x}$) from 41 K to 65 K, reduced glass transition temperature ($T_{rg}$) from 0⋅5363 to 0⋅5974 and $\gamma$ parameter from 0⋅4038 to 0⋅4136. The $\gamma$ shows a relatively good agreement with the GFA of the BGMs. On the other hand, a high fracture compressive strength of 624 MPa was obtained for Mg$_{60}$Cu$_{27}$Dy$_{13}$ BMG.</p>
+				</abstract>
+				<keywords>Mg–Cu–Dy;glass-forming ability;bulk metallic glass.</keywords>
+				<authors>
+					<author>
+						<name first="X. F." last="Wu">X. F. Wu</name>
+						<affiliation>School of Materials Science and Engineering, Liaoning University of Technology, 121001 Jinzhou, PR China</affiliation>
+						<email>hgd901@126.com</email>
+					</author>
+					<author>
+						<name first="Y." last="Kang">Y. Kang</name>
+						<affiliation>School of Materials Science and Engineering, Liaoning University of Technology, 121001 Jinzhou, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="F. F." last="Wu">F. F. Wu</name>
+						<affiliation>School of Materials Science and Engineering, Liaoning University of Technology, 121001 Jinzhou, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. Q." last="Qiu">K. Q. Qiu</name>
+						<affiliation>School of Materials Science and Engineering, Shenyang University of Technology, 110023 Shenyang, PR China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="L. K." last="Meng">L. K. Meng</name>
+						<affiliation>School of Materials Science and Engineering, Liaoning University of Technology, 121001 Jinzhou, PR China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-08-18</date>
+					<date type="R">2010-10-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effects of MO (M = Mg, Ca, Ba) on crystallization and flexural strength of semi-transparent lithium disilicate glass–ceramics</title>
+				<feature></feature>
+				<page>1511-1516</page>
+				<abstract>
+					<p>In this study, semitransparent lithium disilicate glass–ceramics in the Li$_{2}$O–K$_{2}$O–Al$_{2}$O$_{3}$–Y$_{2}$O$_{3}$–La$_{2}$O$_{3}$–SiO$_{2}$ system was investigated by incorporation of P$_{2}$O$_{5}$ as nucleation agent and alkaline earth oxides as additive. The influence of alkaline earth oxides on the structure of glasses network, crystalline phases, microstructure and mechanical properties were investigated by means of Raman spectra, differential scanning calorimetry (DSC), X-ray diffractometry (XRD) and scanning electron microscopy (SEM). The mechanical strength was measured corresponding to norm ISO 6872. The Raman spectra predominantly showed that small additions of alkaline earth oxides not only form asymmetrical vibrations of the M–Si–O bonds, but also enhance the intensities of symmetrical vibrations of the P–O bonds, making the glass network more stable. And the small additions of CaO or BaO has more influence on the crystallization behaviour, crystalline phase, microstructure and mechanical properties of the glass–ceramics than the addition of MgO. The additions of alkaline earth oxides enhanced the first exothermic peak temperature but decreased the flexural strength of lithium disilicate glass–ceramics.</p>
+				</abstract>
+				<keywords>Alkaline earth;glass–ceramics;flexural strength;lithium disilicate.</keywords>
+				<authors>
+					<author>
+						<name first="Zhiwei" last="Luo">Zhiwei Luo</name>
+						<affiliation>School of Materials Science and Engineering, Central South University, Changsha 410083, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Junlin" last="Zhou">Junlin Zhou</name>
+						<affiliation>School of Materials Science and Engineering, Central South University, Changsha 410083, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jing" last="Li">Jing Li</name>
+						<affiliation>School of Materials Science and Engineering, Central South University, Changsha 410083, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Changjian" last="Zhang">Changjian Zhang</name>
+						<affiliation>School of Materials Science and Engineering, Central South University, Changsha 410083, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Anxian" last="Lu">Anxian Lu</name>
+						<affiliation>School of Materials Science and Engineering, Central South University, Changsha 410083, P.R. China</affiliation>
+						<email>axlu@mail.csu.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-05-13</date>
+					<date type="R">2010-09-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Superconducting state parameters of ternary metallic glasses</title>
+				<feature></feature>
+				<page>1517-1524</page>
+				<abstract>
+					<p>The well-known empty core (EMC) model potential of Ashcroft was used to study the theoretical investigation of the superconducting state parameters (SSP) viz. electron–phonon coupling strength $\lambda$, Coulomb pseudopotential $\mu^{\ast}$, transition temperature $T_{C}$, isotope effect exponent $\alpha$ and effective interaction strength $N_{O}V$ of some ternary metallic glasses. Most recent local field correction function due to Sarkar et al is used to study the screening influence on the aforesaid properties. Quadratic $T_{C}$ equations have been proposed and found successful. Also, the present findings are found to be in qualitative agreement with other such earlier reported data, which confirms the superconducting phase in the ternary superconductors. The pseudo-alloy-atom (PAA) model was applied for the first time instead of Vegard’s law.</p>
+				</abstract>
+				<keywords>Pseudopotential;superconducting state parameters;ternary metallic glasses.</keywords>
+				<authors>
+					<author>
+						<name first="Aditya M." last="Vora">Aditya M. Vora</name>
+						<affiliation>Humanities and Social Science Department, S.T.B.S. College of Diploma Engineering, Sri Swamy Atmanand Saraswati Vidya Sankul, Surat 395 006, India</affiliation>
+						<email>voraam@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-03-22</date>
+					<date type="R">2010-04-15</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of complexing salt on conductivity of PVC/PEO polymer blend electrolytes</title>
+				<feature></feature>
+				<page>1525-1530</page>
+				<abstract>
+					<p>Solid polymer electrolyte membrane comprising poly(vinyl chloride) (PVC), poly(ehylene oxide) (PEO) and different lithium salts (LiClO$_{4}$, LiBF$_{4}$ and LiCF$_{3}$SO$_{3}$) were prepared by the solution casting technique. The effect of complexing salt on the ionic conductivity of the PVC/PEO host polymer is discussed. Solid polymer electrolyte films were characterized by X-ray diffraction, FTIR spectroscopy, TG/DTA and ac impedance spectroscopic studies. The conductivity studies of these solid polymer electrolyte (SPE) films are carried out as a function of frequency at various temperatures ranging from 302 K to 353 K. The maximum room temperature ionic conductivity is found to be 0⋅079 $\times$ 10$^{-4}$ S cm$^{-1}$ for the film containing LiBF$_{4}$ as the complexing salt. The temperature dependence of the conductivity of polymer electrolyte films seems to obey the Vogel–Tamman–Fulcher (VTF) relation.</p>
+				</abstract>
+				<keywords>Solid polymer electrolytes;Li-ion conduction;XRD;FTIR;TG/DTA.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Rajendran">S. Rajendran</name>
+						<affiliation>Department of Physics, Alagappa University, Karaikudi 630 003, India</affiliation>
+						<email>sraj54@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Ravi Shanker" last="Babu">Ravi Shanker Babu</name>
+						<affiliation>School of Advanced Studies, VIT University, Vellore 632 014, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. Usha" last="Rani">M. Usha Rani</name>
+						<affiliation>School of Advanced Studies, VIT University, Vellore 632 014, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-02-28</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Preparation of semi-IPN(BA–VAc–VAE) by emulsion polymerization and its properties investigation</title>
 				<feature></feature>
-				<page></page>
+				<page>1531-1536</page>
 				<abstract>
-					<p></p>
+					<p>A semi-interpenetrating polymer network (semi-IPN) combining vinyl acetate–ethylene (VAE) and butyl acrylate (BA), as well as vinyl acetate (VAc), was prepared through emulsion polymerization with the help of self-made dispersant and diethylene glycol diacrylate (DEGDA), the cross-linking agent. Both the dispersant and DEGDA had significant contribution on the preparation of semi-IPN(BA–VAc–VAE). And, the DEGDA had a strong influence on the conversion of polymerization system. The effects of emulsifiers and their amounts on the stability of obtained emulsions have been determined, and the best choices have been made after series experiments. The optical microscopy (OM), FTIR and DSC methods were adopted to characterize the structure and composition, morphology, and Tg of the prepared emulsions, respectively. Various comparisons have been made between the semi-IPN and VAE emulsions, and the experimental results indicated that the semi-IPN(BA–VAc–VAE) had been developed with improved properties in both water resistance and adhesion.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Vinyl acetate–ethylene;semi-interpenetrating polymer networks;emulsion polymerization;modification.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Shi" last="Luo">Shi Luo</name>
+						<affiliation>Department of Polymer Chemistry and Physics, Chengdu Institute of Organic Chemistry, The Graduate School of CAS, Chinese Academy of Sciences, Chengdu 610041, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zonghui" last="Liu">Zonghui Liu</name>
+						<affiliation>Department of Polymer Chemistry and Physics, Chengdu Institute of Organic Chemistry, The Graduate School of CAS, Chinese Academy of Sciences, Chengdu 610041, P.R. China</affiliation>
+						<email>zonghuiliu@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Bailing" last="Liu">Bailing Liu</name>
+						<affiliation>Department of Polymer Chemistry and Physics, Chengdu Institute of Organic Chemistry, The Graduate School of CAS, Chinese Academy of Sciences, Chengdu 610041, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qi" last="Liu">Qi Liu</name>
+						<affiliation>Department of Polymer Chemistry and Physics, Chengdu Institute of Organic Chemistry, The Graduate School of CAS, Chinese Academy of Sciences, Chengdu 610041, P.R. China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2008-09-04</date>
+					<date type="R">2010-09-12</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis and characterization of polycaprolactone/acrylic acid (PCL/AA) hydrogel for controlled drug delivery</title>
+				<feature></feature>
+				<page>1537-1547</page>
+				<abstract>
+					<p>In the present work biodegradable pH-sensitive polycaprolactone/acrylic acid (PCL/AA) hydrogels have been developed using ethylene glycol dimethacrylate (EGDMA) as a cross-linker and benzoyl peroxide as initiator. For these prepared hydrogels swelling studies, sol–gel fraction analysis and porosity measurements were performed. Results show that swelling of the hydrogels decreases on increasing the concentration of PCL and EGDMA, however swelling of hydrogels increases on increasing the concentration of AA. Results of sol–gel fraction analysis show that gel fraction increases on increasing concentration of monomer AA, polymer PCL as well as cross-linker EGDMA. As far as porosity is concerned, it increases on increasing the concentration of AA and PCL while porosity decreases on increasing the concentration of EGDMA. Hydrogels were characterized by measuring diffusion coefficient ($D$) and equilibrium water content (EWC). Network formation, morphology and crystallinity of PCL/AA hydrogels were investigated using FTIR, SEM and XRD, respectively. Tramadol hydrochloride was loaded as model drug and its release pattern was analysed using various kinetic models like zero order, first order, Higuchi and Peppas. Results indicated that most of the samples followed non-Fickian release mechanism.</p>
+				</abstract>
+				<keywords>Polycaprolactone;acrylic acid;ethylene glycol dimethacrylate;hydrogels;tramadol.</keywords>
+				<authors>
+					<author>
+						<name first="Nazar Mohammad" last="Ranjha">Nazar Mohammad Ranjha</name>
+						<affiliation>Department of Pharmacy, Bahauddin Zakariya University, Multan 60800, Pakistan</affiliation>
+						<email>drnazarmranjha@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Jahanzeb" last="Mudassir">Jahanzeb Mudassir</name>
+						<affiliation>Department of Pharmacy, Bahauddin Zakariya University, Multan 60800, Pakistan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sajid" last="Majeed">Sajid Majeed</name>
+						<affiliation>Department of Pharmacy, Bahauddin Zakariya University, Multan 60800, Pakistan</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-03-19</date>
+					<date type="R">2011-02-08</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tribological effects of polymer surface modification through plastic deformation</title>
+				<feature></feature>
+				<page>1549-1555</page>
+				<abstract>
+					<p>The efficacy of using polymers in cylindrical applications depends closely on its surface friction and wear characteristics. In this regard, a surface modification technique through plastic deformation has been implemented. Roller burnishing is commonly used to improve the surface quality of non-ferrous surfaces, but no work showed concern about roller burnishing as a polymer surface treatment process. The objective of the present work is to investigate the influence of burnishing force and burnishing speed on the friction and wear performance of acetal homopolymer and polyurethane under dry and lubricated sliding conditions. The results reveal that the coefficient of friction and wear rate decreased to a minimum value and then increased as higher burnishing force and speed were applied. It was shown that roller burnishing had favourable prospective to be utilized as a valuable polymer surface treatment technique.</p>
+				</abstract>
+				<keywords>Roller burnishing;acetal homopolymer;polyurethane;coefficient of friction;wear rate.</keywords>
+				<authors>
+					<author>
+						<name first="K. O." last="Low">K. O. Low</name>
+						<affiliation>Faculty of Engineering and Technology, Multimedia University, 75450 Melaka, Malaysia</affiliation>
+						<email>kolow@mmu.edu.my</email>
+					</author>
+					<author>
+						<name first="K. J." last="Wong">K. J. Wong</name>
+						<affiliation>Faculty of Mechanical Engineering, Universiti Teknologi Malaysia, 81310 Skudai, Johor, Malaysia</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-01-08</date>
+					<date type="R">2011-04-07</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Synthesis, characterization and magnetic properties of polyaniline/$\gamma$-Fe$_{2}$O$_{3}$ composites</title>
+				<feature></feature>
+				<page>1557-1561</page>
+				<abstract>
+					<p>Conducting polyaniline/$\gamma$-Fe$_{2}$O$_{3}$ (PANI/FE) composites have been synthesized using an $in\ situ$ deposition technique by placing fine-graded $\gamma$-Fe$_{2}$O$_{3}$ in a polymerization mixture of aniline. The composites are characterized by using scanning electron microscopy (SEM), X-ray diffraction (XRD) and infrared (IR) spectroscopy. The electrical properties such as d.c. and a.c. conductivities are studied by sandwitching the pellets of these composites between the silver electrodes. It is observed that the conductivity increases up to a composition of 20 wt.% of $\gamma$-Fe$_{2}$O$_{3}$ in polyaniline and decreases thereafter. The initial increase in conductivity is attributed to the extended chain length of polyaniline, where polarons possess sufficient energy to hop between favourable sites. Beyond 20 wt.% of $\gamma$-Fe$_{2}$O$_{3}$ in polyaniline, the blocking of charge carrier hop occurs, reducing conductivity values. The magnetic properties such as hysteresis characteristics and normalized a.c. susceptibility are also measured, which show a strong dependence on content of $\gamma$-Fe$_{2}$O$_{3}$ in polyaniline. Because of superparamagnetic behaviour of these composites, they may find extensive technological applications, especially for absorbing and shielding applications in microwave frequencies.</p>
+				</abstract>
+				<keywords>Conducting polymers;conductivity;polarons;polyaniline composites, $\gamma$-Fe$_{2}$O$_{3}$.</keywords>
+				<authors>
+					<author>
+						<name first="Syed" last="Khasim">Syed Khasim</name>
+						<affiliation>Department of Physics, PES School of Engineering, Bangalore 560 100</affiliation>
+						<email>skhasim@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="S. C." last="Raghavendra">S. C. Raghavendra</name>
+						<affiliation>Department of E&amp;CE, PES School of Engineering, Bangalore 560 100</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M." last="Revanasiddappa">M. Revanasiddappa</name>
+						<affiliation>Department of Chemistry, PES School of Engineering, Bangalore 560 100</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. C." last="Sajjan">K. C. Sajjan</name>
+						<affiliation>Department of Physics, Veerasaiva College, Bellary 583 101, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Mohana" last="Lakshmi">Mohana Lakshmi</name>
+						<affiliation>Department of Physics, PES School of Engineering, Bangalore 560 100</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Muhammad" last="Faisal">Muhammad Faisal</name>
+						<affiliation>Department of Physics, PES School of Engineering, Bangalore 560 100</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-08-04</date>
+					<date type="R">2010-11-10</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Drilling analysis of coir–fibre-reinforced polyester composites</title>
+				<feature></feature>
+				<page>1563-1567</page>
+				<abstract>
+					<p>An investigation has been carried out to make use of coir, a natural fibre abundantly available in India. Coir–polyester composites were prepared and their mechanical and machinability characteristics were studied. The short coir–fibre-reinforced composites exhibited the tensile, flexural and impact strength of 16⋅1709 MPa, 29⋅2611 MPa and 46⋅1740 J/m, respectively. The regression equations were developed and optimized for studying drilling characteristics of coir–polyester composites using the Taguchi approach. A drill bit diameter of 6 mm, spindle speed of 600 rpm and feed rate of 0⋅3 mm/rev gave the minimum value of thrust force, torque and tool wear in drilling analysis.</p>
+				</abstract>
+				<keywords>Taguchi method;thrust force;torque;tool wear;dynamometer.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Jayabal">S. Jayabal</name>
+						<affiliation>Department of Mechanical Engineering, A.C. College of Engineering and Technology, Karaikudi 630 004, India</affiliation>
+						<email>jayabalsubbaian@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="U." last="Natarajan">U. Natarajan</name>
+						<affiliation>Department of Mechanical Engineering, A.C. College of Engineering and Technology, Karaikudi 630 004, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-06-17</date>
+					<date type="R">2010-08-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of ZnO loading technique on textural characteristic and methyl blue removal capacity of exfoliated graphite/ZnO composites</title>
+				<feature></feature>
+				<page>1569-1573</page>
+				<abstract>
+					<p>Two exfoliated graphite/ZnO composites, marked as EG/ZnO-1 and EG/ZnO-2, were prepared by heating a mixture of expandable graphite and Zn(OH)$_{2}$ or a mixture of expanded graphite (EG) and Zn(OH)$_{2}$, respectively. The composites were characterized by scanning electron microscopy (SEM), X-ray diffraction (XRD) and nitrogen adsorption. Under UV irradiation, the composites were used for removing methyl blue (MB) from aqueous solution. For the composites made from expandable graphite (EG/ZnO-1), the micronsized ZnO particle agglomerates (1–20 $\mu$m) heterogeneously distributed at the surface of graphite flakes, while for the composites made from EG (EG/ZnO-2), the submicron-sized ZnO particle masses (0⋅2–0⋅5 $\mu$m) almost homogeneously located both at the surface and interior of graphite flakes. In the presence of UV irradiation, the composites had the adsorption capacity of EG and the photocatalysis capacity of ZnO at the same time. Compared with EG/ZnO-1, EG/ZnO-2 was more effective in removing MB. After 2 h of UV irradiation, MB could be completely removed by using the EG/ZnO-2 containing 45% ZnO, and the decomposition efficiency of the ZnO was the primary cause for the removal of MB.</p>
+				</abstract>
+				<keywords>Exfoliated graphite/ZnO;adsorption;decomposition;methyl blue.</keywords>
+				<authors>
+					<author>
+						<name first="Xueqing" last="Yue">Xueqing Yue</name>
+						<affiliation>State Key Laboratory of Metastable Materials Science and Technology, Yanshan University, Qinhuangdao 066004, P.R. China</affiliation>
+						<affiliation>Qinhuangdao Vocational and Technical College, Qinhuangdao 066100, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wenyan" last="Duan">Wenyan Duan</name>
+						<affiliation>Qinhuangdao Vocational and Technical College, Qinhuangdao 066100, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yan" last="Lu">Yan Lu</name>
+						<affiliation>Qinhuangdao Vocational and Technical College, Qinhuangdao 066100, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Fucheng" last="Zhang">Fucheng Zhang</name>
+						<affiliation>Qinhuangdao Vocational and Technical College, Qinhuangdao 066100, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ruijun" last="Zhang">Ruijun Zhang</name>
+						<affiliation>State Key Laboratory of Metastable Materials Science and Technology, Yanshan University, Qinhuangdao 066004, P.R. China</affiliation>
+						<affiliation>Qinhuangdao Vocational and Technical College, Qinhuangdao 066100, P.R. China</affiliation>
+						<email>yuexueqing@126.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-09-28</date>
+					<date type="R">2011-02-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of fibre content and alkali treatment on mechanical properties of $Roystonea\ regia$-reinforced epoxy partially biodegradable composites</title>
+				<feature></feature>
+				<page>1575-1581</page>
+				<abstract>
+					<p>The present paper investigates the effect of fibre content and alkali treatment on tensile, flexural and impact properties of unidirectional $Roystonea\ regia$ natural-fibre-reinforced epoxy composites which are partially biodegradable. The reinforcement $Roystonea\ regia$ (royal palm) fibre was collected from the foliage of locally available royal palm tree through the process of water retting and mechanical extraction. The poor adhesion between fibre and matrix is commonly encountered problem in natural-fibre-reinforced composites. To overcome this problem, specific physical and chemical treatments were suggested for surface modification of fibres by investigators. Alkali treatment is one of the simple and effective surface modification techniques which is widely used in natural fibre composites. In the present study both untreated and alkali-treated fibres were used as reinforcement in $Roystonea\ regia$ epoxy composites and the tensile, flexural and impact properties were determined at different fibre contents. The alkali treatment found to be effective in improving the tensile and flexural properties while the impact strength decreased.</p>
+				</abstract>
+				<keywords>$Roystonea\ regia$ fibre;epoxy resin;alkali treatment;mechanical properties.</keywords>
+				<authors>
+					<author>
+						<name first="Govardhan" last="Goud">Govardhan Goud</name>
+						<affiliation>Department of Mechanical Engineering, National Institute of Technology, Warangal 506 004, India</affiliation>
+						<email>pgovardhan0@yahoo.com</email>
+					</author>
+					<author>
+						<name first="R. N." last="Rao">R. N. Rao</name>
+						<affiliation>Department of Mechanical Engineering, National Institute of Technology, Warangal 506 004, India</affiliation>
+						<email>rnraonitw@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-06-12</date>
+					<date type="R">2010-07-12</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Changes in microstructural parameters of NB4D2 silk fibres due to electron irradiation: X-ray line profile analysis</title>
+				<feature></feature>
+				<page>1583-1590</page>
+				<abstract>
+					<p>The present study is concerned with changes of microcrystalline parameters in NB4D2 ($Bombyx\ mori$) silk fibres, due to electron irradiation. The irradiation process was performed in air at room temperature using 8 MeV electron beam at different dose rates: 0, 25, 50 and 75 kGy, respectively. X-ray recording of these irradiated samples and the line profile analysis were carried out. The crystal imperfection parameters such as crystallite size $\langle N \rangle$, lattice strain (g in %) and surface weighted crystallite size ($D_{s}$) were computed and compared with other physical parameters in order to asertain the changes that have crept into these irradiated fibres. Exponential, lognormal and Reinhold functions for the column length distributions have been used for the determination of these parameters.</p>
+				</abstract>
+				<keywords>Irradiation;microstructural parameters;WAXS, fibre.</keywords>
+				<authors>
+					<author>
+						<name first="" last="Sangappa">Sangappa</name>
+						<affiliation>Department of Studies in Physics, Mangalore University, Mangalagangotri 574 199, India</affiliation>
+						<email>syhalabhavi@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="S." last="Asha">S. Asha</name>
+						<affiliation>Department of Studies in Physics, Mangalore University, Mangalagangotri 574 199, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Parameswara">P. Parameswara</name>
+						<affiliation>Department of Studies in Physics, University of Mysore, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Somashekar">R. Somashekar</name>
+						<affiliation>Department of Studies in Physics, University of Mysore, Manasagangotri, Mysore 570 006, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-05-21</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Hot pressing effect on (Bi$_{0⋅25}$Sb$_{0⋅75}$)$_{2}$Te$_{3}$ mechanical and thermoelectric properties</title>
 				<feature></feature>
-				<page></page>
+				<page>1591-1597</page>
 				<abstract>
-					<p></p>
+					<p>(Bi$_{0⋅25}$Sb$_{0⋅75}$)$_{2}$Te$_{3}$ thermoelectric material is a well known $p$ type of compound that has higher figure of merit than other stoichiometries. The crystal of this compound was prepared, pulverized in a particle size ratio of 64% with a mesh of 80 (200 $\mu$m$^{2}$) and 36% with a mesh of 60 (250 $\mu$m$^{2}$). The powder was sintered in a heat up to 350–500$^\circ $C under pressure of 500 MPa (hot pressing). To find out the temperature effects on thermal conductivity of the sample it was systematically investigated in nano-scale intrinsic structures by systems of X-ray diffraction, scanning electron microscopy and, for only once successful attempt, atomic force microscopy. The acquired images ensured to show homogeneous structures for hot pressed samples. In terms of thermal conductivity and with regard to the figure of merit ($Z$), optimum sintering temperature hovers at around 500$^\circ $C, which leads to a maximum $Z$ value of around 1⋅53 K$^{-1}$.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Sinter;longitudinal;transverse;hot pressing;thermal conductivity;scanning probe microscopy.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="G." last="Kavei">G. Kavei</name>
+						<affiliation>Material and Energy Research Centre, P.O. Box 14155-4777, Tehran, Iran</affiliation>
+						<email>g-kavei@merc.ac.ir</email>
+						<email>prof.kavei@hotmail.com</email>
+					</author>
+					<author>
+						<name first="K." last="Ahmadi">K. Ahmadi</name>
+						<affiliation>Material and Energy Research Centre, P.O. Box 14155-4777, Tehran, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Seyyedi">A. Seyyedi</name>
+						<affiliation>Payam Nour University, Lashkarak, Ozgol, Tehran, Iran</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-04-18</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Synthesis and $in\ situ$ mechanism of nuclei growth of layered double hydroxides</title>
 				<feature></feature>
-				<page></page>
+				<page>1599-1604</page>
 				<abstract>
-					<p></p>
+					<p>A host–guest material such as layered double hydroxide (LDH) has generated immense interest in current research due to its technological importance, whereby its dimension significantly affect its mechanical and other physical properties. The purpose of this study was to prepare Mg/Al-LDHs by systematically varying the molar concentration of cations, aging time and pH. The prepared LDHs were characterized by powder X-ray diffraction, Fourier transform infrared spectroscopy, thermal analysis and transmission electron microscopy to confirm their formation and morphology. We qualitatively observed a new growth route for LDH system which is dissimilar to the existing growth mechanism. The rate of growth is shown to be slower than the well known Ostwald ripening process. This unusual behaviour is due to the formation of effective passivation layer by Na$^{+}$ ions around the generated LDHs nuclei. This suggested growth mechanism will be helpful in further controlling the particle size of other LDH, which may be useful for various future applications.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>LDHs;growth mechanism;morphology.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="H. S." last="Panda">H. S. Panda</name>
+						<affiliation>Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Srivastava">R. Srivastava</name>
+						<affiliation>School of Biosciences and Bioengineering, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D." last="Bahadur">D. Bahadur</name>
+						<affiliation>Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay, Mumbai 400 076, India</affiliation>
+						<email>dhirenb@iitb.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-12-06</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Synthesis, characterization and catalytic performance of a novel zeolite ITQ-2-like by treating MCM-22 precursor with H$_{2}$O$_{2}$</title>
 				<feature></feature>
-				<page></page>
+				<page>1605-1610</page>
 				<abstract>
-					<p></p>
+					<p>A novel zeolite material denoted as ITQ-2-like was synthesized by treating MCM-22 precursor with H$_{2}$O$_{2}$ and characterized by various physicochemical techniques (X-ray powder diffraction, transmission electron microscopy, thermogravimetric-differential thermal analyses, Fourier transform infrared spectroscopy and nitrogen adsorption–desorption). It was found that not only the organic template could be completely removed but also the morphology and topology structure of MCM-22 precursor was well preserved after H$_{2}$O$_{2}$ treatment. Novel zeolite material ITQ-2-like presented relatively ordered cascaded layers in a faceto-face orientation along the $c$-axis and exhibited different physicochemical properties in comparison with ITQ-2 and MCM-22 prepared from the same precursor. Moreover, the catalytic behaviour and pore roles of three kinds of Mo-containing catalysts of ITQ-2-like, MCM-22 and ITQ-2 were investigated in the reaction of methane aromatization.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>ITQ-2-like;MCM-22;ITQ-2;H$_{2}$O$_{2}$ treatment;methane aromatization.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Ling" last="Xu">Ling Xu</name>
+						<affiliation>College of Chemistry, Jilin University, Changchun 130023, P.R. China</affiliation>
+						<affiliation>College of Chemistry and Chemical Engineering, Inner Mongolia University for Nationalities, Tongliao 028000, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Haijun" last="Xing">Haijun Xing</name>
+						<affiliation>College of Chemistry, Jilin University, Changchun 130023, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shujie" last="Wu">Shujie Wu</name>
+						<affiliation>College of Chemistry, Jilin University, Changchun 130023, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jingqi" last="Guan">Jingqi Guan</name>
+						<affiliation>College of Chemistry, Jilin University, Changchun 130023, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ming Jun" last="Jia">Ming Jun Jia</name>
+						<affiliation>College of Chemistry, Jilin University, Changchun 130023, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qiubin" last="Kan">Qiubin Kan</name>
+						<affiliation>College of Chemistry, Jilin University, Changchun 130023, P.R. China</affiliation>
+						<email>guangjq@jlu.edu.cn</email>
+						<email>gkan@mail.jl.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-11-22</date>
+					<date type="R">2010-01-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of thin Mo$_{2}$C layer on thermal stability of Si/SiO$_{2}$/Ti/Cu system</title>
+				<feature></feature>
+				<page>1611-1615</page>
+				<abstract>
+					<p>The effect of introducing a thin Mo$_{2}$C (30 nm) layer between Ti and Cu on the thermal stability of Si/SiO$_{2}$/Ti/Cu system was studied using four-point probe (FPP), scanning electron microscopy (SEM), energydispersive X-ray spectroscopy (EDAX) and X-ray diffraction (XRD) techniques. The measured value of the sheet resistance in the bi-layered diffusion barrier structure does not show any change up to an annealing temperature of 750$^\circ $C. The sheet resistance when measured after annealing at 800$^\circ $C marginally increases but less than twice its value at room temperature. The XRD analysis indicated no copper diffusion and the formation of Cu$_{3}$Si phase up to 800$^\circ $C. The bi-layered barrier structure annealed at elevated temperature shows copper-depleted and agglomerated regions. The sheet resistance measurement, study of surface morphology and the XRD analysis confirm that the insertion of thin Mo$_{2}$C layer increases the thermal stability of the system from 400$^\circ $C to 750$^\circ $C. The increased thermal stability of the system is ascribed to longer diffusion path length in the bi-layered system probably because of grain boundaries mismatch at Ti–Mo$_{2}$C interface.</p>
+				</abstract>
+				<keywords>Bi-layer;diffusion barrier;titanium;molybdenum carbide;thermal stability.</keywords>
+				<authors>
+					<author>
+						<name first="C. C." last="Tripathi">C. C. Tripathi</name>
+						<affiliation>Electronic Science Department, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
+						<email>tripathiuiet@gmail.com</email>
+					</author>
+					<author>
+						<name first="Mukesh" last="Kumar">Mukesh Kumar</name>
+						<affiliation>Electronic Science Department, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dinesh" last="Kumar">Dinesh Kumar</name>
+						<affiliation>Electronic Science Department, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-04-26</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Structural, elastic and thermodynamic properties of Ti$_{2}$SC</title>
 				<feature></feature>
-				<page></page>
+				<page>1617-1625</page>
 				<abstract>
-					<p></p>
+					<p>The structural parameters, elastic constants and thermodynamic properties of Ti$_{2}$SC were investigated under pressure and temperature by using first-principles plane-wave pseudopotential density functional theory within the generalized gradient approximation. The obtained results are in agreement with the available experimental data. The bulk moduli along the $a$- and $c$-axes, $B_{a}$ and $B_{c}$, almost linearly increase with pressure, and the former is always smaller than the latter. The ratio of $B_{c}/B_{a}$ has a trend of gradual increase as the pressure increases. It is found that the elastic constants, anisotropy and Debye temperature of Ti$_{2}$SC increase with pressure, while axial compressibility along the $a$- and $c$-axes decreases with pressure. The thermal properties including the equation of state, the Grüneisen parameter $\gamma$, the anisotropies $\Delta_{p}, \Delta_{S1}$ and $\Delta_{S2}$, and the heat capacity are estimated at various pressures and temperatures.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Ti$_{2}$SC;elastic properties;thermodynamic properties;$Ab\ initio$ calculations.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Hongzhi" last="Fu">Hongzhi Fu</name>
+						<affiliation>College of Physics and Electronic Information, Luoyang Normal College, Luoyang 471022, P.R. China</affiliation>
+						<affiliation>National Laboratory of Superhard Materials, Jilin University, Changchun 130012, P.R. China</affiliation>
+						<email>fhzscdx@163.com</email>
+					</author>
+					<author>
+						<name first="Wenfang" last="Liu">Wenfang Liu</name>
+						<affiliation>College of Chemistry and Chemical Engineering, Luoyang Normal College, Luoyang 471022, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tao" last="Gao">Tao Gao</name>
+						<affiliation>Institute of Atomic and Molecular Physics, Sichuan University, Chengdu 610065, P.R. China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-06-17</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>DLTS study of annihilation of oxidation induced deep-level defects in Ni/SiO$_{2}$/$n$-Si MOS structures</title>
 				<feature></feature>
-				<page></page>
+				<page>1627-1631</page>
 				<abstract>
-					<p></p>
+					<p>This paper describes the fabrication of MOS capacitor and DLTS study of annihilation of deeplevel defects upon thermal annealing. Ni/SiO$_{2}$/$n$-Si MOS structures fabricated on $n$-type Si wafers were investigated for process-induced deep-level defects. The deep-level traps in Si substrates induced during the processing of Ni/SiO$_{2}$/$n$-Si have been investigated using deep-level transient spectroscopy (DLTS). A characteristic deep-level defect at $E_{C}$ = 0⋅49 eV which was introduced during high-temperature thermal oxidation process was detected. The trap position was found to shift to different energy levels ($E_{C}$ = 0⋅43, 0⋅46 and 0⋅34 eV) during thermal annealing process. The deep-level trap completely anneals at 350$^\circ $C. Significant reduction in trap density with an increase in recombination life time and substrate doping concentration as a function of isochronal annealing were observed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>MOS capacitor;DLTS;deep-level defect;thermal annealing.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="N." last="Shashank">N. Shashank</name>
+						<affiliation>Department of Electronics, Kuvempu University, Shankaraghatta 577 451, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Sanjeev K." last="Gupta">Sanjeev K. Gupta</name>
+						<affiliation>Sensors and Nanotechnology Group, Central Electronics Engineering Research Institute, Pilani 333 031, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. V." last="Madhu">K. V. Madhu</name>
+						<affiliation>Department of Physics, Bangalore University, Bangalore 560 056, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Akhtar">J. Akhtar</name>
+						<affiliation>Sensors and Nanotechnology Group, Central Electronics Engineering Research Institute, Pilani 333 031, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Damle">R. Damle</name>
+						<affiliation>Department of Physics, Bangalore University, Bangalore 560 056, India</affiliation>
+						<email>ramkrishnadamle@bub.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-05-31</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Estimation of vapour pressure and partial pressure of subliming compounds by low-pressure thermogravimetry</title>
 				<feature></feature>
-				<page></page>
+				<page>1633-1637</page>
 				<abstract>
-					<p></p>
+					<p>A method for the estimation of vapour pressure and partial pressure of subliming compounds under reduced pressure, using rising temperature thermogravimetry, is described in this paper. The method is based on our recently developed procedure to estimate the vapour pressure from ambient pressure thermogravimetric data using Langmuir equation. Using benzoic acid as the calibration standard, vapour pressure–temperature curves are calculated at 80, 160 and 1000 mbar for salicylic acid and vanadyl $bis$-2,4-pentanedionate, a precursor used for chemical vapour deposition of vanadium oxides. Using a modification of the Langmuir equation, the partial pressure of these materials at different total pressures is also determined as a function of temperature. Such data can be useful for the deposition of multi-metal oxide thin films or doped thin films by chemical vapour deposition (CVD).</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Low-pressure thermogravimetry;vapour pressure;Langmuir equation;partial pressure;precursor;metalorganic chemical vapour deposition.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="G. V." last="Kunte">G. V. Kunte</name>
+						<affiliation>Materials Research Centre, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>girish.kunte@gmail.com</email>
+					</author>
+					<author>
+						<name first="Ujwala" last="Ail">Ujwala Ail</name>
+						<affiliation>Materials Science Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. K." last="Ajikumar">P. K. Ajikumar</name>
+						<affiliation>Materials Science Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Tyagi">A. K. Tyagi</name>
+						<affiliation>Materials Science Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. A." last="Shivashankar">S. A. Shivashankar</name>
+						<affiliation>Materials Research Centre, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. M." last="Umarji">A. M. Umarji</name>
+						<affiliation>Materials Research Centre, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-08-01</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Solid-state titania-based gas sensor for liquefied petroleum gas detection at room temperature</title>
 				<feature></feature>
-				<page></page>
+				<page>1639-1644</page>
 				<abstract>
-					<p></p>
+					<p>This paper reports the liquefied petroleum gas (LPG) sensing of titanium dioxide (Qualigens, India). Scanning electron micrographs and X-ray diffraction studies of samples were done. SEM shows that the material is porous and has grapes-like morphology before exposure to the LPG. XRD patterns reveal the crystalline nature of the material. The crystallites sizes of the TiO$_{2}$ were found in the range of 30–75 nm. Variations in resistance with exposure of LPG to the sensing element were observed. The average sensitivity for different volume percentages of gas was estimated. The maximum value of average sensitivity was 1⋅7 for higher vol.% of LPG. Percentage sensor response (%SR) as a function of time was calculated and its maximum value was 45%. Response time of the sensor was 70 s. The sensor was quite sensitive to LPG and results were found reproducible.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>LPG sensor;TiO$_{2}$;SEM;XRD;sensitivity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="B. C." last="Yadav">B. C. Yadav</name>
+						<affiliation>Nanomaterials and Sensors Research Laboratory, Department of Physics, University of Lucknow, Lucknow 226 007, India</affiliation>
+						<email>balchandra_yadav@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Anuradha" last="Yadav">Anuradha Yadav</name>
+						<affiliation>Nanomaterials and Sensors Research Laboratory, Department of Physics, University of Lucknow, Lucknow 226 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Tripti" last="Shukla">Tripti Shukla</name>
+						<affiliation>Nanomaterials and Sensors Research Laboratory, Department of Physics, University of Lucknow, Lucknow 226 007, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Satyendra" last="Singh">Satyendra Singh</name>
+						<affiliation>Nanomaterials and Sensors Research Laboratory, Department of Physics, University of Lucknow, Lucknow 226 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-05-27</date>
+					<date type="R">2010-07-21</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fermi-edge singularity in photoluminescence spectra of modulation-doped AlGaAs/InGaAs/GaAs quantum wells</title>
+				<feature></feature>
+				<page>1645-1648</page>
+				<abstract>
+					<p>The photoluminescence study of Fermi-edge singularity (FES) in modulation-doped pseudomorphic Al$_{x}$Ga$_{1–x}$As/In$_{y}$Ga$_{1–y}$As/GaAs quantum well (QW) heterostructures is presented. In the above QW structures the optical transitions between $n$ = 1 and $n$ = 2 electronic subband to the $n$ = 1 heavy hole subband ($E_{11}$ and $E_{21}$ transitions, respectively) are observed with FES appearing as a lower energy shoulder to the $E_{21}$ transition. The observed FES is attributed to the Fermi wave vector in the first electronic subband under the conditions of population of the second electronic subband. The FES appears at about 10 meV below $E_{21}$ transition around 4⋅2 K. Initially it gets stronger with increasing temperature and becomes a distinct peak at about 20 K. Further increase in temperature quenches FES and reaches the base line at around 40 K.</p>
+				</abstract>
+				<keywords>Photoluminescence;Fermi edge singularity;modulation doping.</keywords>
+				<authors>
+					<author>
+						<name first="K. Gopalakrishna" last="Naik">K. Gopalakrishna Naik</name>
+						<affiliation>Department of Physics, Mangalore University, Mangalagangotri 574 199, India</affiliation>
+						<email>gopal_mng@yahoo.com</email>
+					</author>
+					<author>
+						<name first="K. S. R. K." last="Rao">K. S. R. K. Rao</name>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Srinivasan">T. Srinivasan</name>
+						<affiliation>Solid State Physics Laboratory, Lucknow Road, Delhi 110 054, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R." last="Muralidharan">R. Muralidharan</name>
+						<affiliation>Solid State Physics Laboratory, Lucknow Road, Delhi 110 054, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2008-09-11</date>
+					<date type="R">2011-03-10</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Blue-shifted photoluminescence of Alq$_{3}$ dispersed in PMMA</title>
+				<feature></feature>
+				<page>1649-1651</page>
+				<abstract>
+					<p>Alq$_{3}$ is known to emit bright green light under UV excitation. Blue shift of the emission was reported in recent literature. This was ascribed to the presence of various isomers/crystallographic modifications obtained through train sublimation. Here a blue shift was reported for Alq$_{3}$ dispersed in PMMA. No isomers/phases, which were reponsible for blue-shift, separated and yet the emission maxima shift to shorter wavelengths as the concentration of Alq$_{3}$ in PMMA decreases. The results were interpreted on the basis of cross relaxation between interacting Alq$_{3}$ molecules.</p>
+				</abstract>
+				<keywords>Organometallic compounds;chemical synthesis;luminescence.</keywords>
+				<authors>
+					<author>
+						<name first="J. G." last="Mahakhode">J. G. Mahakhode</name>
+						<affiliation>D.B. Science College, Gondia, Maharashtra, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. J." last="Dhoble">S. J. Dhoble</name>
+						<affiliation>Department of Physics, R.T.M. Nagpur University, Nagpur 440 010, India</affiliation>
+						<email>sjdhoble@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="C. P." last="Joshi">C. P. Joshi</name>
+						<affiliation>Physics Department, Shri Ramdeobaba K. N. Engineering College, Nagpur 440 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. V." last="Moharil">S. V. Moharil</name>
+						<affiliation>Department of Physics, R.T.M. Nagpur University, Nagpur 440 010, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-05-30</date>
+					<date type="R">2010-07-03</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spray-drying of alumina powder for APS: effect of slurry properties and drying conditions upon particle size and morphology of feedstock</title>
+				<feature></feature>
+				<page>1653-1661</page>
+				<abstract>
+					<p>In this paper, effects of variables concerning slurry properties and drying conditions on the particle size and morphology of feedstock were discussed. The results indicated that, the increase of powder loading increased $D_{50}$ and volume content but reduced recovery rate slightly. Other variables, such as inlet temperature, showed a maximum on the desired property. The particle size of resulting feedstock increased with the rise of feeding rate of slurry, however, decreased with the increase of atomization pressure based on the premise that atomization pressure was enough to force slurry to form the liquid membrane. For preparation of spherical feedstock, optimized variables were as follows: 60 wt.% powder in slurry, 2 wt.% PVA in slurry, inlet temperature of 60$^\circ $C, atomization pressure of 13 $\times$ 10$^{3}$ KPa and feeding rate of 12 ml min$^{-1}$. The volume content of feedstocks with 10–45 $\mu$m was above 65% and for $D_{50}$ it was 15⋅42 $\mu$m. In addition, according to the heat and mass transfer equation, the drying mechanism was established, which was well in agreement with the experimental results.</p>
+				</abstract>
+				<keywords>Spray drying;feedstock;particle size;morphology.</keywords>
+				<authors>
+					<author>
+						<name first="Bai" last="Yu">Bai Yu</name>
+						<affiliation>State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an 710049, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yang Jian" last="Feng">Yang Jian Feng</name>
+						<affiliation>State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an 710049, P.R. China</affiliation>
+						<email>yang155@mail.xjtu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Lee Soo" last="Wohn">Lee Soo Wohn</name>
+						<affiliation>Department of Materials Engineering. Sun Moon University, Korea</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chen" last="Huang">Chen Huang</name>
+						<affiliation>Department of Materials Engineering. Sun Moon University, Korea</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yu Fang" last="Li">Yu Fang Li</name>
+						<affiliation>State Key Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an 710049, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Zhang" last="Jia">Zhang Jia</name>
+						<affiliation>Department of Materials Engineering. Sun Moon University, Korea</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-01-27</date>
+					<date type="R">2010-09-07</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of size of fly ash particle on enhancement of mullite content and glass formation</title>
+				<feature></feature>
+				<page>1663-1670</page>
+				<abstract>
+					<p>Quartz is widely replaced by fly ash in traditional porcelain composite. Increased strength and stability of the fly ash-mixed composite depends on the quantity and crystallinity of the mullite phase in the fly ash. Our aim in this investigation is to increase the formation of mullite in nanocrystalline form and study the effect of temperature. Quantitative estimation of mullite and residual quartz content were done by Xray diffraction (XRD) and nanostructure and crystallization were studied using differential thermal analysis (DTA), field effect scanning electron microscopy (FESEM), XRD and Fourier transform infrared (FTIR) spectroscopy. The results show that fly ash sieved through 250 holes/cm$^{2}$ mesh contain more mullite initially and growth of mullite as well as glass formation was faster in this sample compared to coarse fly ash. The maximum mullite in these samples was formed at 1600$^\circ $C. Transformation of quartz and cristobalite phases into glassy phase was also faster for smaller particle sizes of fly ash.</p>
+				</abstract>
+				<keywords>Fly ash;mullite;composites;spinels;X-ray methods.</keywords>
+				<authors>
+					<author>
+						<name first="Parveen" last="Sultana">Parveen Sultana</name>
+						<affiliation>Department of Physics, Jadavpur University, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sukhen" last="Das">Sukhen Das</name>
+						<affiliation>Department of Physics, Jadavpur University, Kolkata 700 032, India</affiliation>
+						<email>debasis35@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Biswajoy" last="Bagchi">Biswajoy Bagchi</name>
+						<affiliation>Department of Physics, Jadavpur University, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Alakananda" last="Bhattacharya">Alakananda Bhattacharya</name>
+						<affiliation>Department of Physics, West Bengal State University, Barasat, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ruma" last="Basu">Ruma Basu</name>
+						<affiliation>Department of Physics, Jogamaya Devi College, Kolkata 700 026, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Papiya" last="Nandy">Papiya Nandy</name>
+						<affiliation>Department of Physics, Jadavpur University, Kolkata 700 032, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-08-17</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Kaliophilite from fly ash: synthesis, characterization and stability</title>
 				<feature></feature>
-				<page></page>
+				<page>1671-1674</page>
 				<abstract>
-					<p></p>
+					<p>Kaliophilite was synthesized by fusion method using fly ash as starting material. In this method, at first, alkaline fusion of fly ash with KOH occurs, followed by hydrothermal treatment in KOH medium. Scanning electron microscopy (SEM) observations revealed that the synthesized kaliophilite (S-KAL) was a plate-like crystal. X-ray diffraction (XRD) results showed three characteristic diffraction peaks located at $2\theta$ = 19⋅56$^\circ $, 20⋅78$^\circ $ and 28⋅71$^\circ $, respectively. The thermal analysis indicated that the S-KAL had remarkable thermal stability when heated to 1000$^\circ $C. Leaching test confirmed the high retention rate of potassium for S-KAL in boiling water for 10 h.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Fly ash;kaliophilite;carbonaceous deposit;catalyst support.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Yao" last="Zhitong">Yao Zhitong</name>
+						<affiliation>Department of Ocean Science and Engineering, Zhejiang University, Hangzhou 310058, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xia" last="Meisheng">Xia Meisheng</name>
+						<affiliation>Department of Ocean Science and Engineering, Zhejiang University, Hangzhou 310058, P.R. China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ye" last="Ying">Ye Ying</name>
+						<affiliation>Department of Ocean Science and Engineering, Zhejiang University, Hangzhou 310058, P.R. China</affiliation>
+						<email>gsyeying@zju.edu.cn</email>
+					</author>
+					<author>
+						<name first="Zhang" last="Lu">Zhang Lu</name>
+						<affiliation>Department of Ocean Science and Engineering, Zhejiang University, Hangzhou 310058, P.R. China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-10-12</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Uptake of permanganate from aqueous environment by surfactant modified montmorillonite batch and fixed bed studies</title>
 				<feature></feature>
-				<page></page>
+				<page>1675-1681</page>
 				<abstract>
-					<p></p>
+					<p>Organo-clay was prepared by incorporating different amounts (in terms of CEC, ranging from 134–840 mg of quaternary ammonium cation (QACs) such as hexadecytrimethylammonium bromide ([C$_{19}$H$_{42}$N]Br) into the montmorillonite clay. Prepared organo-clays are characterized by CHN analyser and XRD to measure the amount of elemental content and interlayer spacing of surfactant modified clay. The batch experiments of sorption of permanganate from aqueous media by organo-clays was studied at different acidic strengths (pH 1–7). The experimental results show that the rate and amount of adsorption of permanganate was higher at lower pH compared to raw montmorillonite. Laboratory fixed bed experiments were conducted to evaluate the breakthrough time and nature of breakthrough curves. The shape of the breakthrough curves shows that the initial cationic surfactant loadings at 1⋅0 CEC of the clay is enough to enter the permanganate ions in to the interlamellar region of the surfactant modified smectile clays. These fixed bed studies were also applied to quantify the effect of bed-depth and breakthrough time during the uptake of permanganate. Calculation of thermodynamic parameters shows that the sorption of permanganate is spontaneous and follows the first order kinetics.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Organo-clays;permanganate adsorption;surfactants;breakthrough curve;breakthrough time;column studies.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="N." last="Mahadevaiah">N. Mahadevaiah</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>devnmahadev@gmail.com</email>
+					</author>
+					<author>
+						<name first="B." last="Vijayakumar">B. Vijayakumar</name>
+						<affiliation>Department of Chemistry, Indian Institute of Technology Madras, Chennai 600 036, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Hemalatha">K. Hemalatha</name>
+						<affiliation>Department of Chemistry, Vemana Institute of Technology, Bangalore 560 034, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. S. Jai" last="Prakash">B. S. Jai Prakash</name>
+						<affiliation>Bangalore Institute of Technology, Bangalore 560 004, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-03-08</date>
+					<date type="R">2010-09-23</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Preparation of an efficient humidity indicating silica gel from rice husk ash</title>
+				<feature></feature>
+				<page>1683-1687</page>
+				<abstract>
+					<p>An efficient humidity indicating silica gel was prepared using rice husk ash as a raw material via sodium silicate extraction and acid neutralization method. Cobalt chloride was impregnated into the silica gel as a colour indicating material. A low concentration of cobalt chloride solution (0⋅0005 mol dm$^{-3}$) was used for the impregnation. The effect of pH of the impregnating solution on the colour development behaviour of the gel was investigated. The specific surface area of the gel was determined by Brunauer–Emmett–Teller method. The gel has been characterized using X-ray diffraction, scanning electron microscopy and visible spectroscopy. The moisture adsorption and desorption kinetics of the desiccant were evaluated using simultaneous thermogravimetry and differential scanning calorimetry.</p>
+				</abstract>
+				<keywords>Silica gel;humidity;rice husk ash;cobalt.</keywords>
+				<authors>
+					<author>
+						<name first="J. P." last="Nayak">J. P. Nayak</name>
+						<affiliation>Department of Ceramic Engineering, National Institute of Technology, Rourkela 769 008, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Bera">J. Bera</name>
+						<affiliation>Department of Ceramic Engineering, National Institute of Technology, Rourkela 769 008, India</affiliation>
+						<email>jbera@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-05-06</date>
+					<date type="R">2010-09-25</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Improvement of multicrystalline silicon wafer solar cells by post-fabrication wet-chemical etching in phosphoric acid</title>
+				<feature></feature>
+				<page>1689-1692</page>
+				<abstract>
+					<p>In this study, we have improved electrical characteristics such as the efficiency ($\eta$) and the fill factor (FF) of finished multicrystalline silicon ($mc$-Si) solar cells by using a new chemical treatment with a hot phosphoric (H$_{3}$PO$_{4}$) acidic solution. These $mc$-Si solar cells were made by a standard industrial process with screen-printed contacts and a silicon nitride (SiN) antireflection coating. We have deposited SiN thin layer (80 nm) on $p$-type $mc$-Si substrate by the mean of plasma enhanced chemical vapour deposition (PECVD) technique. The reactive gases used as precursors inside PECVD chamber are a mixture of silane (SiH$_{4}$) and ammonia (NH$_{3}$) at a temperature of 380$^\circ $C. The developed H$_{3}$PO$_{4}$ chemical surface treatment has improved $\eta$ from 5⋅4 to 7⋅7% and FF from 50⋅4 to 70⋅8%, this means a relative increase of up to 40% from the initial values of $\eta$ and FF. In order to explain these improvements, physical (AFM, EDX), chemical (FTIR) and optical (spectrophotometer) analyses were done.</p>
+				</abstract>
+				<keywords>Silicon;PECVD;passivation;AFM;H$_{3}$PO$_{4}$ etch.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Mefoued">A. Mefoued</name>
+						<affiliation>Silicon Technology Unit (UDTS), 02 Bd Frantz Fanon, BP. 140, Alger-7 Merveilles, Algiers, Algeria</affiliation>
+						<affiliation>Houari Boumediene University of Science and Technology (USTHB), Bab Ezzouar, Algiers, Algeria</affiliation>
+						<email>amefoued@hotmail.com</email>
+					</author>
+					<author>
+						<name first="M." last="Fathi">M. Fathi</name>
+						<affiliation>Silicon Technology Unit (UDTS), 02 Bd Frantz Fanon, BP. 140, Alger-7 Merveilles, Algiers, Algeria</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Bhatt">J. Bhatt</name>
+						<affiliation>SSN-Research Centre, Rajiv Gandhi Salai (OMR), Kalavakkam 603 110, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Messaoud">A. Messaoud</name>
+						<affiliation>Silicon Technology Unit (UDTS), 02 Bd Frantz Fanon, BP. 140, Alger-7 Merveilles, Algiers, Algeria</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B." last="Palahouane">B. Palahouane</name>
+						<affiliation>Silicon Technology Unit (UDTS), 02 Bd Frantz Fanon, BP. 140, Alger-7 Merveilles, Algiers, Algeria</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N." last="Benrekaa">N. Benrekaa</name>
+						<affiliation>Houari Boumediene University of Science and Technology (USTHB), Bab Ezzouar, Algiers, Algeria</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-05-02</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Nitrates–melt synthesized LiNi$_{0⋅8}$Co$_{0⋅2}$O$_{2}$ and its performance as cathode in Li-ion cells</title>
 				<feature></feature>
-				<page></page>
+				<page>1693-1698</page>
 				<abstract>
-					<p></p>
+					<p>Layered LiNi$_{0⋅8}$Co$_{0⋅2}$O$_{2}$ crystallizing in $R\bar{3}m$ space group is synthesized by decomposing the constituent metal–nitrate precursors. Oxidizing nature of metal nitrates stabilizes nickel in +3 oxidation state, enabling a high degree of cation ordering in the layered LiNi$_{0⋅8}$Co$_{0⋅2}$O$_{2}$. The powder sample characterized by XRD Rietveld refinement reveals &lt; 2% Li–Ni site exchange in the layers. Scanning electron microscopic studies on the as-synthesized LiNi$_{0⋅8}$Co$_{0⋅2}$O$_{2}$ sample reflect well defined particles of cubic morphology with particle size ranging between 200 and 250 nm. Cyclic voltammograms suggest that LiNi$_{0⋅8}$Co$_{0⋅2}$O$_{2}$ undergoes phase transformation on first charge with resultant phase being completely reversible in subsequent cycles. The first-charge-cycle phase transition is further supported by impedance spectroscopy that shows substantial reduction in resistance during initial de-intercalation. Galvanostatic charge–discharge cycles reflect a firstdischarge capacity of 184 mAh g$^{-1}$ which is stabilized at 170 mAh g$^{-1}$ over 50 cycles.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Lithium batteries;intercalation compounds;electrochemical characterization;diffusion.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="M." last="Sathiya">M. Sathiya</name>
+						<affiliation>CSIR – Central Electrochemical Research Institute – Chennai Unit, CSIR – Madras Complex, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Hemalatha">K. Hemalatha</name>
+						<affiliation>CSIR – Central Electrochemical Research Institute – Chennai Unit, CSIR – Madras Complex, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Ramesha">K. Ramesha</name>
+						<affiliation>CSIR – Central Electrochemical Research Institute – Chennai Unit, CSIR – Madras Complex, Chennai 600 113, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Shukla">A. K. Shukla</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. S." last="Prakash">A. S. Prakash</name>
+						<affiliation>CSIR – Central Electrochemical Research Institute – Chennai Unit, CSIR – Madras Complex, Chennai 600 113, India</affiliation>
+						<email>prakash.as@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-03-28</date>
+					<date type="R">2011-05-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Corrosion resistant Zn–Co alloy coatings deposited using saw-tooth current pulse</title>
+				<feature></feature>
+				<page>1699-1706</page>
+				<abstract>
+					<p>Micro/nanostructured multilayer coatings of Zn–Co alloy were developed periodically on mild steel from acid chloride bath. Composition modulated multilayer alloy (CMMA) coatings, having gradual change in composition (in each layer) were developed galvanostatically using saw-tooth pulses through single bath technique (SBT). CMMA coatings were developed under different conditions of cyclic cathode current densities (CCCDs) and number of layers, and their corrosion resistances were evaluated by potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) method. Optimal configuration, represented as (Zn–Co)$_{2⋅0/4.0/300}$ was found to exhibit $\sim$ 89 times better corrosion resistance compared to monolithic (Zn–Co)$_{3⋅0}$ alloy deposited for same time, from same bath. The better corrosion resistance of CMMA coatings was attributed to changed interfacial dielectric properties, evidenced by dielectric spectroscopy. Improved corrosion resistance was attributed to formation of $n$-type semiconductor film at the interface, supported by the Mott–Schottky plot. Further, the formation of multilayer and corrosion mechanism was analysed using scanning electron microscopy (SEM).</p>
+				</abstract>
+				<keywords>Composition modulated multilayer alloy;Zn–Co;saw-tooth current pulse;corrosion resistance;dielectric spectroscopy.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Yogesha">S. Yogesha</name>
+						<affiliation>Electrochemistry Research Laboratory, Department of Chemistry, National Institute of Technology, Surathkal, Srinivasnagar 575 025, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. Chitharanjan" last="Hegde">A. Chitharanjan Hegde</name>
+						<affiliation>Electrochemistry Research Laboratory, Department of Chemistry, National Institute of Technology, Surathkal, Srinivasnagar 575 025, India</affiliation>
+						<email>achegde@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-03-20</date>
+					<date type="R">2011-03-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of heat treatment temperature on microstructure and electrochemical properties of hollow carbon spheres prepared in high-pressure argon</title>
+				<feature></feature>
+				<page>1707-1714</page>
+				<abstract>
+					<p>Heat treatment was carried out between 800 and 1200$^\circ $C to investigate its effects on the microstructure and electrochemical properties of the hollow carbon spheres (HCSs) prepared in high-pressure argon. Samples were characterized by X-ray diffraction, Raman spectroscopy, field-emission scanning electron microscopy, high-resolution transmission electron microscopy and N$_{2}$ adsorption–desorption isotherms. The graphitization of the HCSs was improved with increase of heat treatment temperature. Mesopores of $ca$. 4 nm in diameter were created on the HCSs after the heat treatment. The results of electrochemical performance measurements for the HCSs as anode material for lithium ion batteries indicate that the discharge capacity of the HCSs is improved after heat treatment at 800$^\circ $C compared with the as-prepared HCSs and have a maximum value of 357 mAh/g and still retains 303 mAh/g after 40 cycles. However, the discharge capacity of the HCSs decreases and the cycling performance is improved with the increase of heat treatment temperature.</p>
+				</abstract>
+				<keywords>Hollow carbon spheres;heat treatment;gas pressure;lithium ion battery.</keywords>
+				<authors>
+					<author>
+						<name first="Boyang" last="Liu">Boyang Liu</name>
+						<affiliation>Institute of Marine Materials Science and Engineering, Shanghai Maritime University, Shanghai 201306, China</affiliation>
+						<email>boyang.liu@yahoo.com.cn</email>
+					</author>
+					<author>
+						<name first="Yun" last="Zhou">Yun Zhou</name>
+						<affiliation>Institute of Marine Materials Science and Engineering, Shanghai Maritime University, Shanghai 201306, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Dechang" last="Jia">Dechang Jia</name>
+						<affiliation>Institute for Advanced Ceramics, Harbin Institute of Technology, Harbin 150001, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Pengjian" last="Zuo">Pengjian Zuo</name>
+						<affiliation>Department of Applied Chemistry, Harbin Institute of Technology, Harbin 150001, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yingfeng" last="Shao">Yingfeng Shao</name>
+						<affiliation>Department of Applied Chemistry, Harbin Institute of Technology, Harbin 150001, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jingwei" last="Zhang">Jingwei Zhang</name>
+						<affiliation>Logistics Engineering College, Shanghai Maritime University, Shanghai 201306, China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2008-05-30</date>
+					<date type="R">2011-03-13</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Biodegradable poly(lactic acid) microspheres containing total alkaloids of $Caulis\ sinomenii$</title>
+				<feature></feature>
+				<page>1715-1719</page>
+				<abstract>
+					<p>The fabrication of biodegradable poly(lactic acid) (PLA) microspheres containing total alkaloids of $Caulis\ sinomenii$ was investigated. The formation, diameter, morphology and properties of the microspheres were characterized using Fourier transform infrared spectroscopy (FT–IR), laser particle size analyser and scanning electron microscopy (SEM), etc. $In\ vitro$ releasing behaviour was also investigated using UV-Vis spectrometer. As a result, the drug-loaded microspheres with a narrower distributive, rounder and smoother surface were prepared. Drug-releasing behaviour from microspheres was affected by the concentration of emulsifier and the stirring rate. The results demonstrated that a medicated system, which can be potentially applied within a drug delivery system, was designed. This system acts in a systematic manner for the treatment of rheumatoid arthritis.</p>
+				</abstract>
+				<keywords>Microsphere;$Caulis\ sinomenii$;PLA;drug release;rheumatoid arthritis.</keywords>
+				<authors>
+					<author>
+						<name first="Wen" last="Zhang">Wen Zhang</name>
+						<affiliation>Institute of Functional Fibers, School of Materials Science and Engineering, Tianjin Polytechnic University, Tianjin 300160, China</affiliation>
+						<email>zhangwen2050@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Xiaojie" last="Lin">Xiaojie Lin</name>
+						<affiliation>Institute of Functional Fibers, School of Materials Science and Engineering, Tianjin Polytechnic University, Tianjin 300160, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xingxiang" last="Zhang">Xingxiang Zhang</name>
+						<affiliation>Institute of Functional Fibers, School of Materials Science and Engineering, Tianjin Polytechnic University, Tianjin 300160, China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2010-05-21</date>
+					<date type="R">2010-08-23</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tissue-engineered triphasic ceramic coated hydroxyapatite induced bone formation and vascularization at an extraskeletal site in a rat model</title>
+				<feature></feature>
+				<page>1721-1731</page>
+				<abstract>
+					<p>Tissue-engineered bone regeneration has attracted much attention because of its high clinical demand for restoration of injured tissues. In the present study, we have evaluated the capability of bare (without cells) and tissue-engineered (with osteogenic-induced rat Mesenchymal Stem Cells (MSCs)) bioactive ceramics such as hydroxyapatite (HA) and triphasic ceramic-coated hydroxyapatite (HASi) to mediate vascularisation and osteoinduction at an extraskeletal site of rat model. The viability, proliferation and osteogenic differentiation of MSCs on the scaffolds were assessed in vitro and thereby established the capability of HASi in providing a better structural habitat than HA. The vascular invasion was relatively low in bare and tissueengineered HA at 2 and 4 weeks. Interestingly, the implantation site was well vascularised with profuse ingrowth of blood capillaries in HASi groups, with preference for tissue-engineered HASi groups. Similarly, neo-osteogenesis studies were shown only by tissue-engineered HASi groups. The ingrowth of numerous osteoblast-like cells was seen around and within the pores of the material in bare HASi and tissue-engineered HASi groups (very low cellular infiltration in bare HA groups), but there was no osteoid deposition. The positive impact in forming bone in tissue-engineered HASi groups is attributable to the scaffold and to the cells, with the first choice for scaffold because both HA and HASi were engineered simultaneously with the cells from same source and same passage. Thus, highly porous interconnected porous structure and appropriate chemistry provided by HASi in combination with osteogenic-induced MSCs facilitated better vascularisation that lead to neo-osteogenesis.</p>
+				</abstract>
+				<keywords>Bone formation;hydroxyapaite;rat model;vascularization.</keywords>
+				<authors>
+					<author>
+						<name first="Manitha B." last="Nair">Manitha B. Nair</name>
+						<affiliation>Biomedical Technology Wing, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Poojappura, Trivandrum 695 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="H. K." last="Varma">H. K. Varma</name>
+						<affiliation>Biomedical Technology Wing, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Poojappura, Trivandrum 695 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. V." last="Mohanan">P. V. Mohanan</name>
+						<affiliation>Biomedical Technology Wing, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Poojappura, Trivandrum 695 012, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Annie" last="John">Annie John</name>
+						<affiliation>Biomedical Technology Wing, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Poojappura, Trivandrum 695 012, India</affiliation>
+						<email>karippacheril@gmail.com</email>
+						<email>ajkari@sctimst.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-07-30</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Influence of preparation method on hydroxyapatite porous scaffolds</title>
 				<feature></feature>
-				<page></page>
+				<page>1733-1737</page>
 				<abstract>
-					<p></p>
+					<p>Hydroxyapatite (HA) is extensively used in medical applications as an artificial bone because of its similarity to the natural components of human bones and for its excellent biocompatibility. The porous structure of HA ceramics is more generally used as a scaffold. Many techniques, which are performed under fluid system, have been applied to fabricate HA porous scaffolds. In this work, polymeric sponge technique was employed in the preparation of HA slurry appropriated for porous ceramic fabrication. Effort for strength improvement was made on porous HA ceramic in several aspects. The effect of HA/water, binder/plasticizer ratios and dispersant content on the rheological properties of HA suspension in combination with the addition of SiC and SiO$_{2}$ on the compressive strength of porous bodies were investigated and discussed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Hydroxyapatite;porous scaffolds;slurry preparation;rheological behaviour.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="N." last="Monmaturapoj">N. Monmaturapoj</name>
+						<affiliation>National Metal and Materials Technology Center, Pathumthani 12120, Thailand</affiliation>
+						<email>narupork@mtec.or.th</email>
+					</author>
+					<author>
+						<name first="C." last="Yatongchai">C. Yatongchai</name>
+						<affiliation>National Metal and Materials Technology Center, Pathumthani 12120, Thailand</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-06-03</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Evaluation of starch based cryogels as potential biomaterials for controlled release of antibiotic drugs</title>
 				<feature></feature>
-				<page></page>
+				<page>1739-1748</page>
 				<abstract>
-					<p></p>
+					<p>In the present study starch has been blended with poly(vinyl alcohol) to design macroporous architectures following a repeated freeze-thaw method. These macroporous cryogels were loaded with an antibiotic drug, ciprofloxacin hydrochloride (Cfx), and evaluated for its $in\ vitro$ delivery in a completely controlled manner thus exploring possibilities to use it as a biomaterial in burn or wound healing applications. The key advantage of the present system is that cryogels formed do not contain any chemical crosslinking agent which is often harmful to organic compounds. These Cfx loaded cryogels were characterized by infrared (FTIR) spectroscopy and scanning electron microscopy (SEM) techniques. The controlled release of Cfx drug from cryogels was investigated under varying experimental conditions such as percent loading of the antibiotic drug, chemical architecture of the cryogels and pH, temperature, and nature of the release media. The prepared cryogels show promise to provide a possible pathway for controlling delivery of antibiotic drug thus minimizing the known side effects and improving efficacy also.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cryogels;freeze–thaw;drug delivery;macroporous;ciprofloxacin hydrochloride.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="L. P." last="Bagri">L. P. Bagri</name>
+						<affiliation>Department of Chemistry, Government Autonomous Science College, Jabalpur 482 001, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Bajpai">J. Bajpai</name>
+						<affiliation>Department of Chemistry, Government Autonomous Science College, Jabalpur 482 001, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A. K." last="Bajpai">A. K. Bajpai</name>
+						<affiliation>Department of Chemistry, Government Autonomous Science College, Jabalpur 482 001, India</affiliation>
+						<email>akbmrl@yahoo.co.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2010-03-13</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Synthesis of hydroxyapatite nanopowders by sol–gel emulsion technique</title>
 				<feature></feature>
-				<page></page>
+				<page>1749-1753</page>
 				<abstract>
-					<p></p>
+					<p>Hydroxyapatite nanopowders were synthesized by a sol–gel emulsion technique by varying the concentration of a non-ionic surfactant in the organic phases (oil phase) of water-in-oil (w/o) emulsion. Calcium acetate dissolved in distilled water and phosphorous pentoxide dissolved in 2-butanol were used as starting precursors. The prepared sol was emulsified in a support solvent (cyclohexane) containing 2, 4 and 5 volume% of surfactant (Span 80), followed by the addition of triethylamine, for gelation. The gel powders thus obtained were calcined at different temperatures up to 750$^\circ $C. Characterization was done using XRD, SEM and TEM. Pellets were made from the developed HAP powders and tested for its biocompatibility after their immersion in the simulated body fluid.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Hydroxyapatite;sol–gel preparation;nanoparticles;emulsion;microstructure.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="K." last="Saranya">K. Saranya</name>
+						<affiliation>Birla Institute of Technology and Science, Pilani-Goa Campus, Zuarinagar, Goa 403 726, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Meenal" last="Kowshik">Meenal Kowshik</name>
+						<affiliation>Birla Institute of Technology and Science, Pilani-Goa Campus, Zuarinagar, Goa 403 726, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sutapa Roy" last="Ramanan">Sutapa Roy Ramanan</name>
+						<affiliation>Birla Institute of Technology and Science, Pilani-Goa Campus, Zuarinagar, Goa 403 726, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2009-07-07</date>
+					<date type="R">2011-02-21</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject index</title>
+				<feature></feature>
+				<page>1755-1782</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Author index</title>
+				<feature></feature>
+				<page>1783-1801</page>
+				<abstract />
+				<keywords />
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="035">
+		<issue inum="01" month="02" year="2012">
+			<entry hassup="0">
+				<title>Structural and optical characterization of thick and thin polycrystalline diamond films deposited by microwave plasma activated CVD</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<abstract>
+					<p>Preliminary results of growth of thin diamond film in a recently installed 3 kW capacity microwave plasma activated CVD (MW-PACVD) system are being reported. The films were deposited on Si (100) substrate at 850$^\circ $C using methane and hydrogen mixture at 1·5 kW MW power. The grown polycrystalline films were characterized by micro-Raman, transmission electron microscope (TEM), spectrophotometer and atomic force microscope (AFM). The results were compared with that of a thicker diamond film grown elsewhere in a same make MWPACVD system at relatively higher power densities. The presence of a sharp Raman peak at 1332 cm$^{-1}$ confirmed the growth of diamond, and transmission spectra showed typical diamond film characteristics in both the samples. Typical twin bands and also a quintuplet twinned crystal were observed in TEM, further it was found that the twinned region in thin sample composed of very fine platelet like structure.</p>
+				</abstract>
+				<keywords>Diamond film;plasma CVD;defects;optical properties.</keywords>
+				<authors>
+					<author>
+						<name first="S. K." last="Pradhan">S. K. Pradhan</name>
+						<affiliation>Institute of Minerals and Materials Technology, Bhubaneswar 751 013, India</affiliation>
+						<email>skpradhan@immt.res.in</email>
+					</author>
+					<author>
+						<name first="B." last="Satpati">B. Satpati</name>
+						<affiliation>Institute of Minerals and Materials Technology, Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. P." last="Bag">B. P. Bag</name>
+						<affiliation>Institute of Minerals and Materials Technology, Bhubaneswar 751 013, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Sharda">T. Sharda</name>
+						<affiliation>Seki Technotron Corporation, 5-6-30 Kiba, Koto-ku, Tokyo 135 042, Japan</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2009-02-10</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Recent analytical applications of nanoparticle sensitized lucigenin and luminol chemiluminescent reactions</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0012</page>
 				<abstract>
-					<p></p>
+					<p>There is an ever-increasing demand for rapid, sensitive, cost effective and selective detection methods for the analysis of many essential compounds.When chemiluminescence has been introduced to analytical chemistry as a detection technique, it has been shown to meet many of these requirements. This method has become a powerful tool for the determination of many compounds. Using this method, low detection limits can be obtained with simple and inexpensive instrumentation. Coupled with flow injection technique the method has become more popular for wider applications. Since many excellent reviews on the chemiluminogenic techniques have appeared in the literature in recent years, the present paper does not intend to cover the exhaustive studies in this area, but will selectively describe the analytical applications of nanoparticle sensitized lucigenin and luminol chemiluminescent reactions and evaluate their recent progress together with our present work.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Chemiluminescence;flow injection analysis;lucigenin;detection methods.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S. M." last="Wabaidur">S. M. Wabaidur</name>
+						<affiliation>Department of Chemistry, College of Science, Building-5, King Saud University, Riyadh, Saudi Arabia</affiliation>
+						<email>tarabai22@yahoo.com.sg</email>
+					</author>
+					<author>
+						<name first="Mu" last="Naushad">Mu Naushad</name>
+						<affiliation>Department of Chemistry, College of Science, Building-5, King Saud University, Riyadh, Saudi Arabia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Z. A." last="Alothman">Z. A. Alothman</name>
+						<affiliation>Department of Chemistry, College of Science, Building-5, King Saud University, Riyadh, Saudi Arabia</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2010-06-16</date>
+					<date type="R">2011-03-26</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Effects of nitrogen annealing on surface structure, silicide formation and magnetic properties of ultrathin films of Co on Si(100)</title>
 				<feature></feature>
-				<page></page>
+				<page>0013-0018</page>
 				<abstract>
-					<p></p>
+					<p>Effects of nitrogen annealing on structural and magnetic properties of Co/Si (100) up to 700$^\circ $C has been studied in this paper. Ultrathin Co films having a constant thickness of 50 Å were grown on Si (100) substrates using electron-beam evaporation under very high vacuum conditions at room temperature. Subsequently, the samples were annealed at temperatures ranging from 100–700$^\circ $C in a nitrogen environment at atmospheric pressure. Sample quality and surface morphology were examined using atomic force microscopy. Silicide formation and the resultant variation in crystallographic arrangement were studied using X-ray diffractometer. The magnetization measurements done using a vibrating sample magnetometer indicate a decrease in coercivity and retentivity values with increase in annealing temperature. Resistivity of the samples measured using a four-point probe set up shows a decrease in resistivity with increase in annealing temperature. Formation of various silicide phases at different annealing temperatures and the resultant variation in the magnetic susceptibility has been thoroughly studied and quantified in this work.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cobalt;silicides;nitrogen annealing;AFM;XRD.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Ganesh K." last="Rajan">Ganesh K. Rajan</name>
+						<affiliation>Nanotechnology Research Centre, SRM University, Kancheepuram District 603 203, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Shivaraman" last="Ramaswamy">Shivaraman Ramaswamy</name>
+						<affiliation>Nanotechnology Research Centre, SRM University, Kancheepuram District 603 203, India</affiliation>
+						<email>shivi.masti@gmail.com</email>
+					</author>
+					<author>
+						<name first="C." last="Gopalakrishnan">C. Gopalakrishnan</name>
+						<affiliation>Nanotechnology Research Centre, SRM University, Kancheepuram District 603 203, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. John" last="Thiruvadigal">D. John Thiruvadigal</name>
+						<affiliation>Department of Physics, SRM University, Kancheepuram District 603 203, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2010-08-19</date>
+					<date type="R">2010-09-16</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Dielectric properties and structural dynamics of melt compounded hot-pressed poly(ethylene oxide)–organophilic montmorillonite clay nanocomposite films</title>
 				<feature></feature>
-				<page></page>
+				<page>0019-0025</page>
 				<abstract>
-					<p></p>
+					<p>The dielectric properties of melt compounded hot-pressed nanocomposite films consisting of a poly(ethylene oxide) (PEO) and organophilic montmorillonite (OMMT) clay surface modified with trimethyl stearyl ammonium as filler with increasing amount up to 20 wt.% OMMT were investigated in a frequency range of 20 Hz–1 MHz at 30 $\circ $C. The predominance of OMMT exfoliated structures in PEO–OMMT nanocomposites were recognized by a decrease of the real part of complex dielectric function. OMMT concentration dependent dielectric and electric modulus relaxation times have revealed that the interactions compatibility between PEO molecules and dispersed OMMT nano-platelets in PEO matrix governs the PEO segmental dynamics. A.C. conductivity of these nanocomposites increases by two orders of magnitude in the experimental frequency range.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>PEO–OMMT nanocomposites;dielectric relaxation;electrical conductivity;impedance spectroscopy.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. J." last="Sengwa">R. J. Sengwa</name>
+						<affiliation>Department of Physics, J N V University, Jodhpur 342 005, India</affiliation>
+						<email>rjsengwa@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Shobhna" last="Choudhary">Shobhna Choudhary</name>
+						<affiliation>Department of Physics, J N V University, Jodhpur 342 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2010-01-09</date>
+					<date type="R">2011-06-16</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Ultrasound assisted synthesis of PMMA/clay nanocomposites: Study of oxygen permeation and flame retardant properties</title>
 				<feature></feature>
-				<page></page>
+				<page>0027-0032</page>
 				<abstract>
-					<p></p>
+					<p>PMMA/clay nanocomposites were synthesized by ultrasound assisted emulsifier-free emulsion polymerization technique. Ultrasound waves of different power and frequencies were applied to enhance the dispersion of the clay layers with polymer matrix. The structural information of the synthesized materials was studied by X-ray diffraction (XRD) and it was revealed that the interlayer spacing increased with clay loading. The magnitude of dispersion of the clay in the polymer matrix was detected by transmission electron microscopy (TEM). The Young’s modulus, breaking stress, elongation at break, toughness, yield stress and yield strain of the nanocomposites as a function of different clay concentrations and ultrasonic power were measured. Particle diameter of the nanocomposites was measured by laser diffraction technique. Oxygen permeability of the samples was studied and it was found that the oxygen flow rate was reduced by the combined effect of clay loading and ultrasound. The flame retardant property of the nanocomposites due to clay dispersion was investigated by measurement of limiting oxygen index (LOI).</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Nanocomposite;sonication;oxygen permeability;flame retardant.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Subrata K." last="Patra">Subrata K. Patra</name>
+						<affiliation>Department of Chemistry, North Orissa University, Takatpur, Baripada 757 003, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Gyanaranjan" last="Prusty">Gyanaranjan Prusty</name>
+						<affiliation>Department of Chemistry, North Orissa University, Takatpur, Baripada 757 003, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sarat K." last="Swain">Sarat K. Swain</name>
+						<affiliation>Department of Chemistry, North Orissa University, Takatpur, Baripada 757 003, India</affiliation>
+						<affiliation>Department of Chemistry, Veer Surendra Sai University of Technology, Sambalpur 768 018, India</affiliation>
+						<email>swainsk2@yahoo.co.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2010-06-07</date>
+					<date type="R">2011-04-06</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Application of aromatization catalyst in synthesis of carbon nanotubes</title>
 				<feature></feature>
-				<page></page>
+				<page>0033-0040</page>
 				<abstract>
-					<p></p>
+					<p>In a typical chemical vapour deposition (CVD) process for synthesizing carbon nanotubes (CNTs), it was found that the aromatization catalysts could promote effectively the formation of CNT. The essence of this phenomenon was attributed to the fact that the aromatization catalyst can accelerate the dehydrogenation–cyclization and condensation reaction of carbon source, which belongs to a necessary step in the formation of CNTs. In this work, aromatization catalysts, H-beta zeolite, HZSM-5 zeolite and organically modified montmorillonite (OMMT) were chosen to investigate their effects on the formation of multi-walled carbon nanotubes (MWCNTs) via pyrolysis method when polypropylene and 1-hexene as carbon source and Ni$_{2}$O$_{3}$ as the charring catalyst. The results demonstrated that the combination of those aromatization catalysts with nickel catalyst can effectively improve the formation of MWCNTs.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Carbon nanotube;aromatization reaction;nickel.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Song" last="Rongjun">Song Rongjun</name>
+						<affiliation>Department of Chemistry, College of Science, Northeast Forestry University, Harbin 150040, China</affiliation>
+						<affiliation>Heilongjiang Key Laboratory of Flame Retarded Polymeric Materials, Education Department of Heilongjiang Province, Heilongjiang, China</affiliation>
+						<email>dew741105@163.com</email>
+					</author>
+					<author>
+						<name first="Yang" last="Yunpeng">Yang Yunpeng</name>
+						<affiliation>Department of Chemistry, College of Science, Northeast Forestry University, Harbin 150040, China</affiliation>
+						<affiliation>Heilongjiang Key Laboratory of Flame Retarded Polymeric Materials, Education Department of Heilongjiang Province, Heilongjiang, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ji" last="Qing">Ji Qing</name>
+						<affiliation>Department of Chemistry, College of Science, Northeast Forestry University, Harbin 150040, China</affiliation>
+						<affiliation>Heilongjiang Key Laboratory of Flame Retarded Polymeric Materials, Education Department of Heilongjiang Province, Heilongjiang, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Li" last="Bin">Li Bin</name>
+						<affiliation>Department of Chemistry, College of Science, Northeast Forestry University, Harbin 150040, China</affiliation>
+						<affiliation>Heilongjiang Key Laboratory of Flame Retarded Polymeric Materials, Education Department of Heilongjiang Province, Heilongjiang, China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2009-01-17</date>
+					<date type="R">2011-01-30</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>On conduction mechanism in paramagnetic phase of Gd based manganites</title>
 				<feature></feature>
-				<page></page>
+				<page>0041-0045</page>
 				<abstract>
-					<p></p>
+					<p>Materials belonging to the family of manganites are technologically important since they exhibit colossal magneto resistance. A proper understanding of the transport properties is very vital in tailoring the properties. A heavy rare earth doped manganite like Gd$_{0·7}$Sr$_{0·3}$MnO$_{3}$ is purported to be exhibiting unusual properties because of smaller ionic radius of Gd. Gd$_{0·7}$Sr$_{0·3}$MnO$_{3}$ is prepared by a wet solid state reaction method. The conduction mechanism in such a compound has been elucidated by subjecting the material to low temperature d.c. conductivity measurement. It has been found that the low band width material follows a variable range hopping (VRH) model followed by a small polaron hopping (SPH) model. The results are presented here.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Manganite;conduction mechanism;small polaron hopping;variable range hopping.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Sagar">S. Sagar</name>
+						<affiliation>Department of Physics, Cochin University of Science and Technology, Cochin 682 022, India</affiliation>
+						<affiliation>Present address: Department of Physics, Govt. Polytechnic College, Adoor 691 523, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. R." last="Anantharaman">M. R. Anantharaman</name>
+						<affiliation>Department of Physics, Cochin University of Science and Technology, Cochin 682 022, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2008-09-19</date>
+					<date type="R">2011-01-31</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Electrical and magnetic properties of (BiNa)$_{1/2}$(FeV)$_{1/2}$O$_{3}$</title>
 				<feature></feature>
-				<page></page>
+				<page>0047-0051</page>
 				<abstract>
-					<p></p>
+					<p>Potential multiferroic material, (BiNa)$_{1/2}$(FeV)$_{1/2}$O$_{3}$, synthesized using solid-state route is investigated. The phase formation was confirmed by X-ray diffraction and surface morphology by scanning electron microscopy (SEM). Structural data reveal the single phase formation corroborated by SEM. The grain distribution is uniform with an average grain size of 3·6 $\mu$m. Electrical properties were investigated in a frequency range (1 kHz–1 MHz) by complex impedance spectroscopy (CIS) technique. The material showed negative temperature coefficient of resistance (NTCR) reflecting semiconductor behaviour. A.C. conductivity was found to obey Johnscher’s law. Conductivity mechanism is discussed and activation energy estimated (1·17 eV) for the conduction process is associated with $\text{Fe}^{3+} \rightarrow \text{Fe}^{2+}$ variable state. The M–H curve showed the presence of ferromagnetism in the studied material.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Solid-state route;X-ray diffraction;complex impedance spectroscopy;a.c. conductivity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S. K." last="Bera">S. K. Bera</name>
+						<affiliation>Department of Physics and Meteorology, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="Subrat K." last="Barik">Subrat K. Barik</name>
+						<affiliation>Guru Ghasidas Vishwavidyalaya, Bilaspur 495 009, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. N. P." last="Choudhary">R. N. P. Choudhary</name>
+						<affiliation>Department of Physics and Meteorology, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P. K." last="Bajpai">P. K. Bajpai</name>
+						<affiliation>Guru Ghasidas Vishwavidyalaya, Bilaspur 495 009, India</affiliation>
+						<email>bajpai.pk1@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2010-03-19</date>
+					<date type="R">2011-02-06</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Barrier characteristics of Pt/Ru Schottky contacts on $n$-type GaN based on $I–V–T$ and $C–V–T$ measurements</title>
 				<feature></feature>
-				<page></page>
+				<page>0053-0061</page>
 				<abstract>
-					<p></p>
+					<p>We have investigated the current–voltage ($I–V$) and capacitance–voltage ($C–V$) characteristics of Ru/Pt/$n$-GaN Schottky diodes in the temperature range 100–420 K. The calculated values of barrier height and ideality factor for the Ru/Pt/$n$-GaN Schottky diode are 0·73 eV and 1·4 at 420 K, 0·18 eV and 4·2 at 100 K, respectively. The zero-bias barrier height ($\Phi_{\text{b}0}$) calculated from $I–V$ characteristics is found to be increased and the ideality factor ($n$) decreased with increasing temperature. Such a behaviour of $\Phi_{\text{b}0}$ and n is attributed to Schottky barrier (SB) inhomogeneities by assuming a Gaussian distribution (GD) of barrier heights (BHs) at themetal/semiconductor interface. The current–voltage–temperature ($I–V–T$) characteristics of the Ru/Pt/$n$-GaN Schottky diode have shown a double Gaussian distribution having mean barrier heights ($\bar{\Phi}_{\text{b}0}$) of 1·001 eV and 0·4701 eV and standard deviations ($\sigma_{0}$) of 0·1491 V and 0·0708 V, respectively. The modified ln($J_{0}/T^{2}$) − ($q^{2}\sigma^{2}_{0}/2k^{2}T^{2}$) vs 10$^{3}/T$ plot gives $\bar{\Phi}_{\text{b}0}$ and Richardson constant values as 0·99 eV and 0·47 eV, and 27·83 and 10·29 A/cm$^{2}$K$^{2}$, respectively without using the temperature coefficient of the barrier height. The difference between the apparent barrier heights (BHs) evaluated from the $I–V$ and $C–V$ methods has been attributed to the existence of Schottky barrier height inhomogeneities.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Pt/Ru Schottky rectifiers;$n$-type GaN;temperature–dependent electrical properties;inhomogeneous barrier heights;double Gaussian distribution.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="N. Nanda Kumar" last="Reddy">N. Nanda Kumar Reddy</name>
+						<affiliation>Department of Physics, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
 						<email></email>
+					</author>
+					<author>
+						<name first="V. Rajagopal" last="Reddy">V. Rajagopal Reddy</name>
+						<affiliation>Department of Physics, Sri Venkateswara University, Tirupati 517 502, India</affiliation>
+						<email>reddy_vrg@rediffmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2010-07-31</date>
+					<date type="R">2011-02-26</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
