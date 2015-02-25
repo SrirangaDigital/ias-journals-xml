@@ -1736,38 +1736,36 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="112">%raghu
+	<volume vnum="112">
 		<issue inum="01" month="02" year="2002">
 			<entry hassup="0">
 				<title>Foreword</title>
-				<feature>Foreword</feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0001-0001</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
+				<abstract />
+				<keywords />
 				<authors>
 					<author>
 						<name first="Peter D." last="Hislop">Peter D. Hislop</name>
-						<affiliation></affiliation>
+						<affiliation>Mathematics Department University of Kentucky Lexington, KY, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="M." last="Krishna">M. Krishna</name>
-						<affiliation></affiliation>
+						<affiliation>Institute of Mathematical Sciences Chennai, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>The Universal Eigenvalue Bounds of Payne–Pólya–Weinberger, Hile–Protter, and H C Yang</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0003-0030</page>
 				<abstract>
 					<p>In this paper we present a unified and simplified approach to the universal eigenvalue inequalities of Payne–Pólya–Weinberger, Hile–Protter, and Yang. We then generalize these results to inhomogeneous membranes and Schrödinger's equation with a nonnegative potential. We also show that Yang's inequality is always better than Hile–Protter's (and hence also better than Payne–Pólya–Weinberger's). In fact, Yang's weaker inequality (which deserves to be better known),</p>
@@ -1778,20 +1776,20 @@
 				<authors>
 					<author>
 						<name first="Mark S." last="Ashbaugh">Mark S. Ashbaugh</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University of Missouri, Columbia, MO 65211-0001, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>The Wegner Estimate and the Integrated Density of States for some Random Operators</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0031-0053</page>
 				<abstract>
 					<p>The integrated density of states (IDS) for random operators is an important function describing many physical characteristics of a random system.  Properties of the IDS are derived from the Wegner estimate that describes the influence of finite-volume perturbations  on a background system.  In this paper, we present a simple proof of the Wegner estimate applicable to a wide variety of random perturbations of deterministic background operators. The proof yields the correct volume dependence of the upper bound. This implies the local Hölder continuity of the integrated density of states at energies in the unperturbed spectral gap. The proof depends on the  $L^p$-theory of the spectral shift function (SSF), for $p\geq 1$, applicable to pairs of self-adjoint operators whose difference is in the trace ideal $\mathcal{I}_p$, for $0 &lt;p \leq 1$. We present this and other results on the SSF due to other authors. Under an additional condition of the single-site potential, local Hölder continuity is proved at all energies. Finally, we present extensions of this work to random potentials with nonsign definite single-site potentials.</p>
@@ -1800,35 +1798,37 @@
 				<authors>
 					<author>
 						<name first="J. M." last="Combes">J. M. Combes</name>
-						<affiliation></affiliation>
+						<affiliation>Centre de Physique Théorique, CNRS Luminy Case 907, F-13288 Marseille, Cedex 9, France</affiliation>
+						<affiliation>Département de Mathématiques, Université de Toulon et du Var, 83130 La Garde, France</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P. D." last="Hislop">P. D. Hislop</name>
-						<affiliation></affiliation>
+						<affiliation>Centre de Physique Théorique, CNRS Luminy Case 907, F-13288 Marseille, Cedex 9, France</affiliation>
+						<affiliation>Mathamatics Department, University of Kentucky, Lexington KY 40506–0027, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Frédéric" last="Klopp">Frédéric Klopp</name>
-						<affiliation></affiliation>
+						<affiliation>L.A.G.A., Institut Galilée, Université Paris-Nord, F-93430 Villetaneuse, France</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Shu" last="Nakamura">Shu Nakamura</name>
-						<affiliation></affiliation>
+						<affiliation>Graduate School of Mathematical Sciences, University of Tokyo, 3-8-1 Komaba, Meguro-ku, Tokyo 153-8914, Japan</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Energy Transfer in Scattering by Rotating Potentials</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0055-0070</page>
 				<abstract>
 					<p>Quantum mechanical scattering theory is studied for time-dependent Schrödinger operators, in particular for particles in a rotating potential. Under various assumptions about the decay rate at infinity we show uniform boundedness in time for the kinetic energy of scattering states, existence and completeness of wave operators, and existence of a conserved quantity under scattering. In a simple model we determine the energy transferred to a particle by collision with a rotating blade.</p>
@@ -1837,30 +1837,30 @@
 				<authors>
 					<author>
 						<name first="Volker" last="Enss">Volker Enss</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institut für Reine und Angewandte Mathematik, Rheinisch-Westfälische Technische Hochschule Aachen, Templergraben 55, D-52062 Aachen, Germany</affiliation>
+						<email>enss@rwth-aachen.de</email>
 					</author>
 					<author>
 						<name first="Vadim" last="Kostrykin">Vadim Kostrykin</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Fraunhofer-Institut für Lasertechnik, Steinbachstrasse 15, D-52074 Aachen, Germany</affiliation>
+						<email>kostrykin@t-online.de;kostrykin@ilt.fraunhofer.de</email>
 					</author>
 					<author>
 						<name first="Robert" last="Schrader">Robert Schrader</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institut für Theoretische Physik, Freie Universität Berlin, Arnimallee 14, D-14195 Berlin, Germany</affiliation>
+						<email>schrader@physik.fu-berlin.de</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Magnetic Bottles for the Neumann Problem: The Case of Dimension 3</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0071-0084</page>
 				<abstract>
 					<p>The main object of this paper is to analyze the recent results obtained on the Neumann realization of the Schrödinger operator in the case of dimension 3 by Lu and Pan. After presenting a short treatment of their spectral analysis of key-models, we show briefly how to implement the techniques of Helffer–Morame in order to give some localization of the ground state. This leaves open the question of the localization by curvature effect which was solved in the case of dimension 2 in our previous work and will be analysed in the case of dimension 3 in a future paper.</p>
@@ -1869,25 +1869,25 @@
 				<authors>
 					<author>
 						<name first="Bernard" last="Helffer">Bernard Helffer</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Département de Mathématiques, UMR CNRS 8628, Bât. 425, Université Paris-Sud, F-91405 Orsay Cedex, France</affiliation>
+						<email>Bernard.Helffer@math.u-psud.fr</email>
 					</author>
 					<author>
 						<name first="Abderemane" last="Morame">Abderemane Morame</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Département de Mathématiques, UMR CNRS 6629 , Université de Nantes, 2, rue de la Houssinière, B.P. 92208, 44322 Nantes Cedex 3, France</affiliation>
+						<email>morame@math.univ-nantes.fr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>The Extraordinary Spectral Properties of Radially Periodic Schrödinger Operators</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0085-0098</page>
 				<abstract>
 					<p>Since it became clear that the band structure of the spectrum of periodic Sturm Liouville operators $t = - (d^2/dr^2) + q(r)$ does not survive a spherically symmetric extension to Schrödinger operators $T = - \Delta + V$ with $V(x) = q(|x|)$ for $x \in \mathbb{R}^d, d \in \mathbb{N}\backslash\{1\}$, a wealth of detailed information about the spectrum of such operators has been acquired. The observation of eigenvalues embedded in the essential spectrum $[\mu_0, \infty]$ of $T$ with exponentially decaying eigenfunctions provided evidence for the existence of intervals of dense point spectrum, eventually proved by spherical separation into perturbed Sturm–Liouville operators $t_c = t + (c/r^2)$. Subsequently, a numerical approach was employed to investigate the distribution of eigenvalues of $T$ more closely. An eigenvalue was discovered below the essential spectrum in the case $d = 2$, and it turned out that there are in fact infinitely many, accumulating at $\mu_0$. Moreover, a method based on oscillation theory made it possible to count eigenvalues of $t_c$ contributing to an interval of dense point spectrum of $T$. We gained evidence that an asymptotic formula, valid for $c \to \infty$, does in fact produce correct numbers even for small values of the coupling constant, such that a rather precise picture of the spectrum of radially periodic Schrödinger operators has now been obtained.</p>
@@ -1896,20 +1896,20 @@
 				<authors>
 					<author>
 						<name first="Andreas M." last="Hinz">Andreas M. Hinz</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Zentrum Mathematik, Technische Universität München, 80290 München, Germany</affiliation>
+						<email>hinz@appl-math.tu-muenchen.de</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>On the Norm Convergence of the Self-Adjoint Trotter–Kato Product Formula with Error Bound</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0099-0106</page>
 				<abstract>
 					<p>The norm convergence of the Trotter–Kato product formula with error bound is shown for the semigroup generated by that operator sum of two nonnegative self-adjoint operators $A$ and $B$ which is self-adjoint.</p>
@@ -1918,25 +1918,25 @@
 				<authors>
 					<author>
 						<name first="Takashi" last="Ichinose">Takashi Ichinose</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Faculty of Science, Kanazawa University, Kanazawa 920–1192, Japan</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Hideo" last="Tamura">Hideo Tamura</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Faculty of Science, Okayama University Okayama 700–8530, Japan</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>On Perturbation of Eigenvalues Embedded at Thresholds in a Two Channel Model</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0107-0116</page>
 				<abstract>
 					<p>We present some results on the perturbation of eigenvalues embedded at thresholds in a two channel model Hamiltonian with a small off-diagonal perturbation. Examples are given of the various types of behavior of the eigenvalue under perturbation.</p>
@@ -1945,20 +1945,21 @@
 				<authors>
 					<author>
 						<name first="Arne" last="Jensen">Arne Jensen</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Graduate School of Mathematical Sciences, University of Tokyo, 3-8-1 Komaba, Meguro-ku, Tokyo 153-8914, Japan</affiliation>
+						<affiliation>Department of Mathematical Sciences, Aalborg University, Fredrik Bajers Vej 7G, DK-9220 Aalborg Ø, Denmark</affiliation>
+						<email>matarne@math.auc.dk</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>On Spectral Properties of Periodic Polyharmonic Matrix Operators</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0117-0130</page>
 				<abstract>
 					<p>We consider a matrix operator $H = (-\Delta)^l + V$  in $R^n$, where $n \geq 2, l \geq 1, 4l > n + 1$, and $V$ is the operator of multiplication by a periodic in $x$ matrix $V(x)$. We study spectral properties of $H$ in the high energy region. Asymptotic formulae for Bloch eigenvalues and the corresponding spectral projections are constructed. The Bethe–Sommerfeld conjecture, stating that the spectrum of $H$ can have only a finite number of gaps, is proved.</p>
@@ -1967,20 +1968,20 @@
 				<authors>
 					<author>
 						<name first="Yu E." last="Karpeshina">Yu E. Karpeshina</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University of Alabama at Birmingham, 452 Campbell Hall, Birmingham AL 35294-1170, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Wegner Estimate for Sparse and other Generalized Alloy Type Potentials</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0131-0146</page>
 				<abstract>
 					<p>We prove a Wegner estimate for generalized alloy type models at negative energies (Theorems 8 and 13). The single site potential is assumed to be non-positive. The random potential does not need to be stationary with respect to translations from a lattice. Actually, the set of points to which the individual single site potentials are attached, needs only to satisfy a certain density condition. The distribution of the coupling constants is assumed to have a bounded density only in the energy region where we prove the Wegner estimate.</p>
@@ -1989,25 +1990,25 @@
 				<authors>
 					<author>
 						<name first="Werner" last="Kirsch">Werner Kirsch</name>
-						<affiliation></affiliation>
+						<affiliation>Fakultät für Mathematik, Ruhr-Universität, Bochum, Germany</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Ivan" last="Veselić">Ivan Veselić</name>
-						<affiliation></affiliation>
+						<affiliation>Fakultät für Mathematik, Ruhr-Universität, Bochum, Germany</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Lifshitz Tails for Random Perturbations of Periodic Schrödinger Operators</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0147-0162</page>
 				<abstract>
 					<p>The present paper is a non-exhaustive review of Lifshitz tails for random perturbations of periodic Schrödinger operators. It is not our goal to review the whole literature on Lifshitz tails; we will concentrate on a single model, the continuous Anderson model.</p>
@@ -2016,20 +2017,20 @@
 				<authors>
 					<author>
 						<name first="Frédéric" last="Klopp">Frédéric Klopp</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Département de Mathématique, Institut Galilée, U.M.R. 7539 C.N.R.S, Université de Paris-Nord, 99 Avenue J.-B. Clément, F-93430 Villetaneuse, France</affiliation>
+						<email>klopp@math.univ-paris13.fr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Smoothness of Density of States for Random Decaying Interaction</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0163-0181</page>
 				<abstract>
 					<p>In this paper we consider one dimensional random Jacobi operators with decaying independent randomness and show that under some condition on the decay vis-a-vis the distribution of randomness, that the distribution function of the average spectral measures of the associated operators are smooth.</p>
@@ -2038,20 +2039,20 @@
 				<authors>
 					<author>
 						<name first="M." last="Krishna">M. Krishna</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute of Mathematical Sciences, Taramani, Chennai 600 113, India</affiliation>
+						<email>krishna@imsc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>A Remark on the Lifshitz Tail for Schrödinger Operator with Random Magnetic Field</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0183-0187</page>
 				<abstract>
 					<p>In this note, we consider the Lifshitz singularity for Schrödinger operator with ergodic random magnetic field. A key estimate is an energy bound for magnetic Schrödinger operators as discussed in Nakamura [8]. Here we remove a technical assumption in [8], namely, the uniform boundedness of the magnetic field.</p>
@@ -2060,20 +2061,20 @@
 				<authors>
 					<author>
 						<name first="Shu" last="Nakamura">Shu Nakamura</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Graduate School of Mathematical Sciences, University of Tokyo, 3-8-1 Komaba, Meguro-ku, Tokyo 153-8914, Japan</affiliation>
+						<email>shu@ms.u-tokyo.ac.jp</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Truncation Method for Operators with Disconnected Essential Spectrum</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0189-0193</page>
 				<abstract>
 					<p>In this short paper, the usage of truncation method to get information about essential spectrum of bounded as well as semi-bounded linear operators on separable Hilbert spaces, is investigated. In addition to this, the problem of predicting the gaps in the essential spectrum of self-adjoint operators, linear algebraically is also considered.</p>
@@ -2082,20 +2083,20 @@
 				<authors>
 					<author>
 						<name first="M. N. N." last="Namboodiri">M. N. N. Namboodiri</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Cochin University of Science and Technology, Cochin 682 022, India</affiliation>
+						<email>nambu@cusat.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Homogenization of a Parabolic Equation in Perforated Domain with Neumann Boundary Condition</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0195-0207</page>
 				<abstract>
 					<p>In this article, we study the homogenization of the family of parabolic equations over periodically perforated domains</p>
@@ -2106,25 +2107,25 @@
 				<authors>
 					<author>
 						<name first="A. K." last="Nandakumaran">A. K. Nandakumaran</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>nands@math.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="M." last="Rajesh">M. Rajesh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>rajesh@math.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Asymptotic Absolute Continuity for Perturbed Time-Dependent Quadratic Hamiltonians</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0209-0228</page>
 				<abstract>
 					<p>We study the notion of asymptotic velocity for a class of perturbed time-dependent quadratic Hamiltonians. In particular we give a sufficient condition for absolute continuity.</p>
@@ -2133,20 +2134,20 @@
 				<authors>
 					<author>
 						<name first="Erik" last="Skibsted">Erik Skibsted</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institut for Matematiske Fag and MaPhySto, Aarhus Universitet, Ny Munkegade 8000 Aarhus C, Denmark</affiliation>
+						<email>skibsted@imf.au.dk</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Strategies in Localization Proofs for One-Dimensional Random Schrödinger Operators</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0229-0243</page>
 				<abstract>
 					<p>Recent results on localization, both exponential and dynamical, for various models of one-dimensional, continuum, random Schrödinger operators are reviewed. This includes Anderson models with indefinite single site potentials, the Bernoulli–Anderson model, the Poisson model, and the random displacement model. Among the tools which are used to analyse these models are generalized spectral averaging techniques and results from inverse spectral and scattering theory. A discussion of open problems is included.</p>
@@ -2155,20 +2156,20 @@
 				<authors>
 					<author>
 						<name first="Günter" last="Stolz">Günter Stolz</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Alabama at Birmingham, Birmingham, AL 35294-1170, USA</affiliation>
+						<email>stolz@math.uab.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>High Energy Asymptotics of the Scattering Amplitude for the Schrödinger Equation</title>
-				<feature></feature>
+				<feature>Special Issue: Spectral and Inverse Spectral Theory</feature>
 				<page>0245-0255</page>
 				<abstract>
 					<p>We find an explicit function approximating at high energies the kernel of the scattering matrix with arbitrary accuracy. Moreover, the same function gives all diagonal singularities of the kernel of the scattering matrix in the angular variables.</p>
@@ -2177,15 +2178,15 @@
 				<authors>
 					<author>
 						<name first="D." last="Yafaev">D. Yafaev</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University Rennes-1, Campus Beaulieu, 35042 Rennes, France</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
@@ -2201,20 +2202,20 @@
 				<authors>
 					<author>
 						<name first="Basudeb" last="Datta">Basudeb Datta</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>dattab@math.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="Nandini" last="Nilakantan">Nandini Nilakantan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>nandini@math.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-09-20</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2230,15 +2231,15 @@
 				<authors>
 					<author>
 						<name first="Seon-Hong" last="Kim">Seon-Hong Kim</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematical Sciences, Seoul National University, Seoul 151-742, Korea</affiliation>
+						<email>s-kim17@orgio.net</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-06-19</date>
+					<date type="R">2001-11-08</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2252,20 +2253,20 @@
 				<authors>
 					<author>
 						<name first="Ram" last="Karan">Ram Karan</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Deepak" last="Kumar">Deepak Kumar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-05-07</date>
+					<date type="R">2002-01-15</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2279,25 +2280,26 @@
 				<authors>
 					<author>
 						<name first="G." last="Das">G. Das</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Utkal University, Vani Vihar, Bhubaneswar 751 004, Orissa, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Anasuya" last="Nath">Anasuya Nath</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Utkal University, Vani Vihar, Bhubaneswar 751 004, Orissa, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="B. K." last="Ray">B. K. Ray</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Utkal University, Vani Vihar, Bhubaneswar 751 004, Orissa, India</affiliation>
+						<affiliation>Department of Mathematics, Ravenshaw College, Cuttack 753 003, Orissa, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">1998-06-22</date>
+					<date type="R">2001-06-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2311,20 +2313,21 @@
 				<authors>
 					<author>
 						<name first="E. K." last="Narayanan">E. K. Narayanan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Stat-Math Unit, Indian Statistical Institute, 8th Mile Mysore Road, Bangalore 560 059, India</affiliation>
+						<affiliation>Math. and Comp. Sci. Dept., Bar-Ilan University, 52900 Ramat-Gan, Israel.</affiliation>
+						<email>naru@isibang.ac.in;naru@m-net.arbornet.org</email>
 					</author>
 					<author>
 						<name first="S. K." last="Ray">S. K. Ray</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Kanpur, Kanpur 208 016, India</affiliation>
+						<email>skray@iitk.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-08-10</date>
+					<date type="R">2002-01-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2338,15 +2341,15 @@
 				<authors>
 					<author>
 						<name first="F." last="Behrouzi">F. Behrouzi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute of Mathematics, University for Teacher Education, 599, Taleghani Avenue, Tehran 15614, Iran</affiliation>
+						<email>7804901@saba.tmu.ac.ir</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-05-28</date>
+					<date type="R">2001-12-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2360,20 +2363,21 @@
 				<authors>
 					<author>
 						<name first="S." last="Kesavan">S. Kesavan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India</affiliation>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>kesh@imsc.ernet.in</email>
 					</author>
 					<author>
 						<name first="M." last="Rajesh">M. Rajesh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>rajesh@math.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-01-06</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2389,15 +2393,15 @@
 				<authors>
 					<author>
 						<name first="S." last="Ramasubramanian">S. Ramasubramanian</name>
-						<affiliation></affiliation>
+						<affiliation>Statistics and Mathematics Unit, Indian Statistical Institute, 8th Mile, Mysore Road, Bangalore 560 059, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-10-29</date>
+					<date type="R">2001-12-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2411,20 +2415,21 @@
 				<authors>
 					<author>
 						<name first="Dinesh" last="Khattar">Dinesh Khattar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Kirori Mal College, Delhi University, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="B. B." last="Chakraborty">B. B. Chakraborty</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Kirori Mal College, Delhi University, Delhi 110 007, India</affiliation>
+						<affiliation>Department of Mathematics, Delhi University, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-08-27</date>
+					<date type="R">2002-02-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
@@ -2440,20 +2445,21 @@
 				<authors>
 					<author>
 						<name first="Indranil" last="Biswas">Indranil Biswas</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>indranil@math.tifr.res.in</email>
 					</author>
 					<author>
 						<name first="N." last="Raghavendra">N. Raghavendra</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<affiliation>Advanced Technology Centre, Tata Consultancy Services, K.L.K. Estate, Fateh Maidan Road, Hyderabad 500 001, India</affiliation>
+						<email>raghu@atc.tcs.co.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-04-04</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2467,15 +2473,15 @@
 				<authors>
 					<author>
 						<name first="Kapil Hari" last="Paranjape">Kapil Hari Paranjape</name>
-						<affiliation></affiliation>
+						<affiliation>Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-11-08</date>
+					<date type="R">2002-05-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2489,20 +2495,20 @@
 				<authors>
 					<author>
 						<name first="V. B." last="Mehta">V. B. Mehta</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Raod, Colaba, Mumbai 400 045, India</affiliation>
+						<email>vikram@math.tifr.res.in</email>
 					</author>
 					<author>
 						<name first="S." last="Subramanian">S. Subramanian</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Raod, Colaba, Mumbai 400 045, India</affiliation>
+						<email>subramnn@math.tifr.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-01-21</date>
+					<date type="R">2002-04-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2510,26 +2516,27 @@
 				<feature></feature>
 				<page>0399-0414</page>
 				<abstract>
-					<p>In this paper, we shall address three closely-related conjectures due to van Emde Boas, W D Gao and Kemnitz on zero-sum problems on $Z_p \oplus Z_p$. We prove a number of results including a proof of the conjecture of Gao for the prime $p = 7$ (Theorem 3.1). The conjecture of Kemnitz is also proved (Propositions 4.6, 4.9, 4.10) for many classes of sequences.</p>
+					<p>In this paper, we shall address three closely-related conjectures due to van Emde Boas, W D Gao and Kemnitz on zero-sum problems on $\mathbf{Z}_p \oplus \mathbf{Z}_p$. We prove a number of results including a proof of the conjecture of Gao for the prime $p = 7$ (Theorem 3.1). The conjecture of Kemnitz is also proved (Propositions 4.6, 4.9, 4.10) for many classes of sequences.</p>
 				</abstract>
 				<keywords>Zero-sum sequences;Chevally–Warning Theorm;Gao’s conjecture.</keywords>
 				<authors>
 					<author>
 						<name first="B." last="Sury">B. Sury</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Statistical Institute, 8th Mile Mysore Road, Bangalore 560 059, India</affiliation>
+						<email>sury@isibang.ac.in</email>
 					</author>
 					<author>
 						<name first="R." last="Thangadurai">R. Thangadurai</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Statistical Institute, 8th Mile Mysore Road, Bangalore 560 059, India</affiliation>
+						<affiliation>Indian Statistical Institute, 203, B.T. Road, Kolkata 700 108, India</affiliation>
+						<email>thanga_v@isical.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-01-28</date>
+					<date type="R">2002-05-09</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2543,25 +2550,25 @@
 				<authors>
 					<author>
 						<name first="Mukut Mani" last="Tripathi">Mukut Mani Tripathi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
+						<email>mm_tripathi@hotmail.com</email>
 					</author>
 					<author>
 						<name first="Jeong-Sik" last="Kim">Jeong-Sik Kim</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics Education, Sunchon National University, Sunchon 540-742, Korea</affiliation>
+						<email>jskim01@hanmir.com</email>
 					</author>
 					<author>
 						<name first="Seon-Bu" last="Kim">Seon-Bu Kim</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Chonnam National University, Kwangju 500-757, Korea</affiliation>
+						<email>sbk@chonnam.ac.kr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-12-29</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2577,20 +2584,20 @@
 				<authors>
 					<author>
 						<name first="A. K." last="Nandakumaran">A. K. Nandakumaran</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>nands@math.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="M." last="Rajesh">M. Rajesh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>ANLA, U.F.R. des Sciences et Techniques, Universit´e de Toulon et du Var, BP 132, 83957 La Garde Cedex, France</affiliation>
+						<email>rajesh@univ-tln.fr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-01-28</date>
+					<date type="R">2002-04-23</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2604,28 +2611,28 @@
 				<authors>
 					<author>
 						<name first="Marius" last="Ghergu">Marius Ghergu</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University of Craiova, 1100 Craiova, Romania</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Constantin" last="Niculescu">Constantin Niculescu</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University of Craiova, 1100 Craiova, Romania</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Vicenţiu" last="Rădulescu">Vicenţiu Rădulescu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Craiova, 1100 Craiova, Romania</affiliation>
+						<email>radules@ann.jussieu.fr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-02-22</date>
+					<date type="R">2002-05-23</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="2">
 				<title>A Result Concerning the Stability of some Difference Equations and its Applications</title>
 				<feature></feature>
 				<page>0453-0462</page>
@@ -2636,15 +2643,15 @@
 				<authors>
 					<author>
 						<name first="Hark-Mahn" last="Kim">Hark-Mahn Kim</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Chungnam National University, Taejon 305-764, Korea</affiliation>
+						<email>hmkim@math.cnu.ac.kr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-03-25</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2658,20 +2665,21 @@
 				<authors>
 					<author>
 						<name first="Sunil" last="Datta">Sunil Datta</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Satya" last="Deo">Satya Deo</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
+						<affiliation>Department of Mathematics, University of Allahabad, Allahabad 211 002, India</affiliation>
+						<email>satyadeo−verma@rediffmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2000-11-15</date>
+					<date type="R">2002-03-01</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
@@ -2680,11 +2688,15 @@
 				<title>Addendum to ``A result concerning the stability of some difference equations and its applications" by Hark-Mahn Kim, Vol.112, No.3, pp.453-462</title>
 				<feature>Addendum</feature>
 				<page>0477-0477</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors/>
+				<abstract />
+				<keywords />
+				<allauthors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Generalized $(m, n)$ Bi-Ideals of a Near-Ring</title>
@@ -2697,20 +2709,20 @@
 				<authors>
 					<author>
 						<name first="T. Tamizh" last="Chelvam">T. Tamizh Chelvam</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Manonmaniam Sundaranar University, Tirunelveli 627 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S." last="Jayalakshmi">S. Jayalakshmi</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Sri Parasakthi College for Women, Courtallam 627 802, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-02-08</date>
+					<date type="R">2002-04-26</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2724,15 +2736,15 @@
 				<authors>
 					<author>
 						<name first="T. E. Venkata" last="Balaji">T. E. Venkata Balaji</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Chennai Mathematical Institute, 92 G. N. Chetty Road, T. Nagar, Chennai 600 017, India</affiliation>
+						<email>tevb@cmi.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-04-25</date>
+					<date type="R">2002-07-25</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2746,15 +2758,15 @@
 				<authors>
 					<author>
 						<name first="Nitin" last="Nitsure">Nitin Nitsure</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India.</affiliation>
+						<email>nitsure@math.tifr.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-04-04</date>
+					<date type="R">2002-06-21</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2768,15 +2780,15 @@
 				<authors>
 					<author>
 						<name first="W. T." last="Sulaiman">W. T. Sulaiman</name>
-						<affiliation></affiliation>
+						<affiliation>Ajman University, P.O. Box 346, Ajman, United Arab Emirates</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-10-29</date>
+					<date type="R">2002-03-26</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2790,20 +2802,20 @@
 				<authors>
 					<author>
 						<name first="R. C." last="Soni">R. C. Soni</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, M.N. Institute of Technology, Jaipur 302 017, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Deepika" last="Singh">Deepika Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, M.N. Institute of Technology, Jaipur 302 017, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2000-08-05</date>
+					<date type="R">2002-06-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2817,20 +2829,20 @@
 				<authors>
 					<author>
 						<name first="Larisa" last="Gromova">Larisa Gromova</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics and Mechanics, Saratov State University, Saratov 410026, Russia</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Alexander" last="Vasil'ev">Alexander Vasil'ev</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Departamento de Matemática, Universidad Técnica Federico Santa María, Casilla 110-V, Valparaíso, Chile</affiliation>
+						<email>avassili@mat.utfsm.cl</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-04-03</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2844,20 +2856,20 @@
 				<authors>
 					<author>
 						<name first="N." last="İspir">N. İspir</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Science, Gazi University, 06500 Beşevler, Ankara, Turkey</affiliation>
+						<email>nispir@gazi.edu.tr</email>
 					</author>
 					<author>
 						<name first="Ç." last="Atakut">Ç. Atakut</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Science, Ankara University, 06100 Tandoğan, Ankara, Turkey</affiliation>
+						<email>takut@science.ankara.edu.tr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-01-08</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2871,15 +2883,15 @@
 				<authors>
 					<author>
 						<name first="Rudra P." last="Sarkar">Rudra P. Sarkar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Stat-Math Unit, Indian Statistical Institute, 203 B. T. Road, Kolkata 700 108, India</affiliation>
+						<email>rudra@isical.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-02-25</date>
+					<date type="R">2002-08-09</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2893,20 +2905,20 @@
 				<authors>
 					<author>
 						<name first="Akhil" last="Ranjan">Akhil Ranjan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Powai, Mumbai 400 076, India</affiliation>
+						<email>aranjan@math.iitb.ac.in</email>
 					</author>
 					<author>
 						<name first="Hemangi" last="Shah">Hemangi Shah</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Powai, Mumbai 400 076, India</affiliation>
+						<email>hema@math.iitb.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-02-13</date>
+					<date type="R">2002-08-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2921,25 +2933,26 @@
 				<authors>
 					<author>
 						<name first="Pravir" last="Dutt">Pravir Dutt</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Satyendra" last="Tomar">Satyendra Tomar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<affiliation>Post Doctoral Researcher, Department of Mathematical Physics and Computational Mechanics, University of Twente, The Netherland</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="B. V. Rathish" last="Kumar">B. V. Rathish Kumar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-03-18</date>
+					<date type="R">2002-06-26</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -2953,41 +2966,49 @@
 				<authors>
 					<author>
 						<name first="Sunil" last="Datta">Sunil Datta</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Manju" last="Shukla">Manju Shukla</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-01-02</date>
+					<date type="R">2002-06-10</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature>Subject Index</feature>
 				<page>0655-0660</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors/>
+				<abstract />
+				<keywords />
+				<allauthors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Author Index</title>
 				<feature>Author Index</feature>
 				<page>0661-0663</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors/>
+				<abstract />
+				<keywords />
+				<allauthors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 		</issue>
 	</volume>
@@ -2995,17 +3016,21 @@
 		<issue inum="01" month="02" year="2003">
 			<entry hassup="0">
 				<title>Preface</title>
-				<feature>Preface</feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0001-0001</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors/>
+				<abstract />
+				<keywords />
+				<allauthors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>A Remark on the Unitary Group of a Tensor Product of $n$ Finite-Dimensional Hilbert Spaces</title>
-				<feature></feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0003-0013</page>
 				<abstract>
 					<p>Let $H_i, 1 \leq i \leq n$ be complex finite-dimensional Hilbert spaces of dimension $d_i, 1 \leq i \leq n$ respectively with $d_i \geq 2$ for every $i$. By using the method of quantum circuits in the theory of quantum computing as outlined in Nielsen and Chuang [2] and using a key lemma of Jaikumar [1] we show that every unitary operator on the tensor product $H = H_1 \otimes H_2 \otimes\ldots \otimes H_n$ can be expressed as a composition of a finite number of unitary operators living on pair products $H_i \otimes H_j, 1 \leq i, j \leq n$. An estimate of the number of operators appearing in such a composition is obtained.</p>
@@ -3014,20 +3039,20 @@
 				<authors>
 					<author>
 						<name first="K. R." last="Parthasarathy">K. R. Parthasarathy</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Statistical Institute, Delhi Centre, 7, S.J.S. Sansanwal Marg, New Delhi 110 016, India</affiliation>
+						<email>krp@isid.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-09-07</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="2">
 				<title>The Planar Algebra Associated to a Kac Algebra</title>
-				<feature></feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0015-0051</page>
 				<abstract>
 					<p>We obtain (two equivalent) presentations – in terms of generators and relations-of the planar algebra associated with the subfactor corresponding to (an outer action on a factor by) a finite-dimensional Kac algebra. One of the relations shows that the antipode of the Kac algebra agrees with the `rotation on 2-boxes'.</p>
@@ -3036,30 +3061,30 @@
 				<authors>
 					<author>
 						<name first="Vijay" last="Kodiyalam">Vijay Kodiyalam</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India</affiliation>
+						<email>vijay@imsc.res.in</email>
 					</author>
 					<author>
 						<name first="Zeph" last="Landau">Zeph Landau</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>University of California, Berkeley, CA 94720, USA</affiliation>
+						<email>landau@math.berkeley.edu;landau@mscri.org</email>
 					</author>
 					<author>
 						<name first="V. S." last="Sunder">V. S. Sunder</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India</affiliation>
+						<email>sunder@imsc.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-11-13</date>
+					<date type="R">2002-06-15</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Very Smooth Points of Spaces of Operators</title>
-				<feature></feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0053-0064</page>
 				<abstract>
 					<p>In this paper we study very smooth points of Banach spaces with special emphasis on spaces of operators. We show that when the space of compact operators is an $M$-ideal in the space of bounded operators, a very smooth operator $T$ attains its norm at a unique vector $x$ (up to a constant multiple) and $T(x)$ is a very smooth point of the range space. We show that if for every equivalent norm on a Banach space, the dual unit ball has a very smooth point then the space has the Radon–Nikodým property. We give an example of a smooth Banach space without any very smooth points.</p>
@@ -3068,20 +3093,20 @@
 				<authors>
 					<author>
 						<name first="T. S. S. R. K." last="Rao">T. S. S. R. K. Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Statistical Institute, R.V. College Post, Bangalore 560 059, India</affiliation>
+						<email>tss@isibang.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-08-18</date>
+					<date type="R">2002-01-22</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Order Units in a $C^\ast$-Algebra</title>
-				<feature></feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0065-0069</page>
 				<abstract>
 					<p>Order unit property of a positive element in a $C^\ast$-algebra is defined. It is proved that precisely projections satisfy this order theoretic property. This way, unital hereditary $C^\ast$-subalgebras of a $C^\ast$-algebra are characterized.</p>
@@ -3090,20 +3115,20 @@
 				<authors>
 					<author>
 						<name first="Anil K." last="Karn">Anil K. Karn</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Deen Dayal Upadhyaya College, New Delhi 110 015, India</affiliation>
+						<email>anilkarn@vsnl.net</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-09-28</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Questions Concerning Matrix Algebras and Invariance of Spectrum</title>
-				<feature></feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0071-0076</page>
 				<abstract>
 					<p>Let $A$ and $B$ be unital Banach algebras with $A$ a subalgebra of $B$. Denote the algebra of all $n \times n$ matrices with entries from $A$ by $M_n(A)$. In this paper we prove some results concerning the open question: If $A$ is inverse closed in $B$, then is $M_n(A)$ inverse closed in $M_n(B)$? We also study related questions in the setting where $A$ is a symmetric Banach $^\ast$-algebra.</p>
@@ -3112,20 +3137,20 @@
 				<authors>
 					<author>
 						<name first="Bruce A." last="Barnes">Bruce A. Barnes</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Oregon, Eugene, Oregon 97403, USA</affiliation>
+						<email>barnes@darkwing.uoregon.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-01-02</date>
+					<date type="R">2002-04-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>When is $f(x_1, x_2, \ldots , x_n) = u_1 (x_1) + u_2(x_2) + \cdots + u_n (x_n)$?</title>
-				<feature></feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0077-0086</page>
 				<abstract>
 					<p>We discuss subsets $S$ of $\mathbb{R}^n$ such that every real valued function $f$ on $S$ is of the form</p>
@@ -3136,49 +3161,49 @@
 				<authors>
 					<author>
 						<name first="A." last="Kłopotowski">A. Kłopotowski</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Université Paris XIII, Institut Galilée, 93430 Villetaneuse Cedex, France</affiliation>
+						<email>klopot@math.univ-paris13.fr</email>
 					</author>
 					<author>
 						<name first="M. G." last="Nadkarni">M. G. Nadkarni</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Mumbai, Kalina, Mumbai 400 098, India</affiliation>
+						<email>nadkarni@math.mu.ac.in</email>
 					</author>
 					<author>
 						<name first="K. P. S." last="Bhaskara Rao">K. P. S. Bhaskara Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Stat-Math Unit, Indian Statistical Institute, R.V. College Post, Banglore 560 059, India</affiliation>
+						<email>kpsbrao@hotmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-03-23</date>
+					<date type="R">2002-01-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Some Approximation Theorems</title>
-				<feature></feature>
+				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0087-0090</page>
 				<abstract>
 					<p>The general theme of this note is illustrated by the following theorem:</p>
 					<p>\textit{\textbf{Theorem 1.} Suppose $K$ is a compact set in the complex plane and $0$ belongs to the boundary $\partial K$. Let $\mathcal{A}(K)$ denote the space of all functions $f$ on $K$ such that $f$ is holomorphic in a neighborhood of $K$ and $f(0) = 0$. Also for any given positive integer $m$, let $\mathcal{A}(m, K)$ denote the space of all $f$ such that $f$ is holomorphic in a neighborhood of $K$ and $f(0) = f'(0) = \cdots = f^{(m)}(0) = 0$. Then $\mathcal{A}(m, K)$ is dense in $\mathcal{A}(K)$ under the supremum norm on $K$ provided that there exists a sector $W = \{re^{i\theta}; 0 \leq r \leq \delta, \alpha \leq \theta \leq \beta\}$ such that $W \cap K = \{0\}$. (This is the well-known Poincare's external cone condition).}</p>
 					<p>We present various generalizations of this result in the context of higher dimensions replacing holomorphic with harmonic.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords />
 				<authors>
 					<author>
 						<name first="N. V." last="Rao">N. V. Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, The University of Toledo, Toledo, Ohio 43606, USA</affiliation>
+						<email>rnagise@math.utoledo.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-02-25</date>
+					<date type="R">2002-12-24</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
@@ -3194,20 +3219,21 @@
 				<authors>
 					<author>
 						<name first="Soon-Mo" last="Jung">Soon-Mo Jung</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Mathematics Section, College of Science and Technology, Hong-Ik University, 339-701 Chochiwon, Korea</affiliation>
+						<email>smjung@wow.hongik.ac.kr</email>
 					</author>
 					<author>
 						<name first="Jae-Hyeong" last="Bae">Jae-Hyeong Bae</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Mathematics Section, College of Science and Technology, Hong-Ik University, 339-701 Chochiwon, Korea</affiliation>
+						<affiliation>Department of Mathematics, Chungnam National University, 305-764 Daejon, Korea</affiliation>
+						<email>jhbae@math.cnu.ac.kr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-09-15</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3236,15 +3262,15 @@
 				<authors>
 					<author>
 						<name first="Kâzim İlhan" last="İkeda">Kâzim İlhan İkeda</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Istanbul Bilgi University, Inönü Caddesi No. 28, Ku¸stepe, 80310 Şişli, Istanbul, Turkey</affiliation>
+						<email>ilhan@bilgi.edu.tr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-11-13</date>
+					<date type="R">2002-07-09</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3258,20 +3284,20 @@
 				<authors>
 					<author>
 						<name first="Pablo" last="Arés-Gastesi">Pablo Arés-Gastesi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Mumbai 400 005, India</affiliation>
+						<email>pablo@math.tifr.res.in</email>
 					</author>
 					<author>
 						<name first="Indranil" last="Biswas">Indranil Biswas</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Mumbai 400 005, India</affiliation>
+						<email>indranil@math.tifr.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-07-10</date>
+					<date type="R">2003-01-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3285,15 +3311,15 @@
 				<authors>
 					<author>
 						<name first="Amritanshu" last="Prasad">Amritanshu Prasad</name>
-						<affiliation></affiliation>
+						<affiliation>Max-Planck-Institut für Mathematik, Postfach 7280, D-53072 Bonn, Germany</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-09-09</date>
+					<date type="R">2002-10-16</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3307,15 +3333,15 @@
 				<authors>
 					<author>
 						<name first="H. S." last="Özarslan">H. S. Özarslan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Erciyes University, 38039 Kayseri, Turkey</affiliation>
+						<email>seyhan@erciyes.edu.tr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-03-25</date>
+					<date type="R">2003-03-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3329,20 +3355,21 @@
 				<authors>
 					<author>
 						<name first="Biswaranjan" last="Behera">Biswaranjan Behera</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<affiliation>Statistics and Mathematics Unit, Indian Statistical Institute, 203 B.T. Road, Kolkata 700 108, India</affiliation>
+						<email>br_behera@yahoo.com</email>
 					</author>
 					<author>
 						<name first="Shobha" last="Madan">Shobha Madan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email>madan@iitk.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-11-06</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3356,20 +3383,20 @@
 				<authors>
 					<author>
 						<name first="S. J." last="Bhatt">S. J. Bhatt</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Sardar Patel University,VallabhVidyanagar 388 120, India</affiliation>
+						<email>subhashbhaib@yahoo.co.in</email>
 					</author>
 					<author>
 						<name first="H. V." last="Dedania">H. V. Dedania</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Sardar Patel University,VallabhVidyanagar 388 120, India</affiliation>
+						<email>hvdedania@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-02-20</date>
+					<date type="R">2002-09-26</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3383,20 +3410,21 @@
 				<authors>
 					<author>
 						<name first="Duran" last="Türkoglu">Duran Türkoglu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Science and Arts, University of Kirikkale, 71450-Yahsihan Kirikkale, Turkey</affiliation>
+						<email>duran_t@hotmail.com;</email>
 					</author>
 					<author>
 						<name first="Brian" last="Fisher">Brian Fisher</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Science and Arts, University of Kirikkale, 71450-Yahsihan Kirikkale, Turkey</affiliation>
+						<affiliation>Department of Mathematical Sciences, Faculty of Computer Sciences and Engineering, De Montfort University, The Gateway, Leicester, LE1 9BH, England</affiliation>
+						<email>fbr@le.ac.uk</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-12-31</date>
+					<date type="R">2002-07-10</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3410,15 +3438,15 @@
 				<authors>
 					<author>
 						<name first="Rukmini" last="Dey">Rukmini Dey</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Harish-Chandra Research Institute, Allahabad 211 019, India</affiliation>
+						<email>rkmn@mri.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-06-19</date>
+					<date type="R">2002-10-10</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3432,20 +3460,20 @@
 				<authors>
 					<author>
 						<name first="Yuxia" last="Wang">Yuxia Wang</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Statistics, Shandong Economic University, Jinan, Shandong 250 014, People’s Republic of China</affiliation>
+						<email>yuxiawty@yahoo.com.cn</email>
 					</author>
 					<author>
 						<name first="Xiyu" last="Liu">Xiyu Liu</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Statistics, Shandong Economic University, Jinan, Shandong 250 014, People’s Republic of China</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-10-29</date>
+					<date type="R">2003-01-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3459,20 +3487,21 @@
 				<authors>
 					<author>
 						<name first="R. G." last="Shandil">R. G. Shandil</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, H.P. University, Shimla 171 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Jagjit" last="Singh">Jagjit Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, H.P. University, Shimla 171 005, India</affiliation>
+						<affiliation>Sidharth Govt. Degree College, Nadaun, Distt Hamirpur 177 033, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-07-04</date>
+					<date type="R">2002-11-23</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
@@ -3488,15 +3517,15 @@
 				<authors>
 					<author>
 						<name first="Vivek V." last="Rane">Vivek V. Rane</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, The Institute of Science, 15, Madam Cama Road, Mumbai 400 032, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-02-02</date>
+					<date type="R">2003-01-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3510,15 +3539,15 @@
 				<authors>
 					<author>
 						<name first="A. K." last="Sahoo">A. K. Sahoo</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Government Kolasib College, P. B. No. 23, Kolasib 796 081, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-03-26</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3532,20 +3561,21 @@
 				<authors>
 					<author>
 						<name first="B. E." last="Rhoades">B. E. Rhoades</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indiana University, Bloomington, IN 47405-7106, USA</affiliation>
+						<email>rhoades@indiana.edu</email>
 					</author>
 					<author>
 						<name first="Ekrem" last="Savaş">Ekrem Savaş</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indiana University, Bloomington, IN 47405-7106, USA</affiliation>
+						<affiliation>Department of Mathematics,YüzüncüYil University, Van, Turkey</affiliation>
+						<email>ekremsavas@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2001-01-17</date>
+					<date type="R">2002-08-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3559,15 +3589,15 @@
 				<authors>
 					<author>
 						<name first="Vishwambhar" last="Pati">Vishwambhar Pati</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Stat-Math Unit, Indian Statistical Institute, R.V. College Post, Bangalore 560 059, India</affiliation>
+						<email>pati@isibang.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-12-18</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3581,20 +3611,21 @@
 				<authors>
 					<author>
 						<name first="Ronald G." last="Douglas">Ronald G. Douglas</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Texas A&amp;M University, College Station, Texas 77843, USA</affiliation>
+						<email>rgd@tamu.edu</email>
 					</author>
 					<author>
 						<name first="Gadadhar" last="Misra">Gadadhar Misra</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Texas A&amp;M University, College Station, Texas 77843, USA</affiliation>
+						<affiliation>Indian Statistical Institute, R.V. College Post, Bangalore 560 059, India</affiliation>
+						<email>gm@isibang.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-06-15</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3608,20 +3639,21 @@
 				<authors>
 					<author>
 						<name first="Leszek" last="Gasiński">Leszek Gasiński</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute of Computer Science, Jagiellonian University, Nawojki 11, 30072 Cracow, Poland</affiliation>
+						<email>gasinski@softlab.ii.uj.edu.pl</email>
 					</author>
 					<author>
 						<name first="Nikolaos S." last="Papageorgiou">Nikolaos S. Papageorgiou</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute of Computer Science, Jagiellonian University, Nawojki 11, 30072 Cracow, Poland</affiliation>
+						<affiliation>Department of Mathematics, National Technical University, Zografou Campus, Athens 15780, Greece</affiliation>
+						<email>npapg@math.ntua.gr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-06-21</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3635,20 +3667,20 @@
 				<authors>
 					<author>
 						<name first="B." last="Rajeev">B. Rajeev</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Statistical Institute, R.V. College Post, Bangalore 560 059, India</affiliation>
+						<email>brajeev@isibang.ac.in</email>
 					</author>
 					<author>
 						<name first="S." last="Thangavelu">S. Thangavelu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Statistical Institute, R.V. College Post, Bangalore 560 059, India</affiliation>
+						<email>veluma@isibang.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-11-16</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3662,25 +3694,23 @@
 				<authors>
 					<author>
 						<name first="N." last="Sabu">N. Sabu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>T.I.F.R. Centre, IISc Campus, Bangalore 560 012, India</affiliation>
+						<email>sabu@math.tifrbng.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2003-01-21</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>A Variational Proof for the Existence of a Conformal Metric with Preassigned Negative Gaussian Curvature for Compact Riemann Surfaces of Genus $> 1$</title>
 				<feature>Erratum</feature>
 				<page>0353-0353</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
+				<abstract />
+				<keywords />
 				<authors>
 					<author>
 						<name first="Rukmini" last="Dey">Rukmini Dey</name>
@@ -3689,15 +3719,15 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
 		<issue inum="04" month="11" year="2003">
-			<entry hassup="0">
+			<entry hassup="2">
 				<title>$L^1$-Convergence of Complex Double Fourier Series</title>
 				<feature></feature>
 				<page>0355-0363</page>
@@ -3708,25 +3738,26 @@
 				<authors>
 					<author>
 						<name first="Kulwinder" last="Kaur">Kulwinder Kaur</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics and Computer Applications, Thapar Institute of Engineering and Technology, Post Box No. 32, Patiala 147 004, India</affiliation>
+						<email>mathkk@hotmail.com</email>
 					</author>
 					<author>
 						<name first="S. S." last="Bhatia">S. S. Bhatia</name>
-						<affiliation></affiliation>
+						<affiliation>School of Mathematics and Computer Applications, Thapar Institute of Engineering and Technology, Post Box No. 32, Patiala 147 004, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Babu" last="Ram">Babu Ram</name>
-						<affiliation></affiliation>
+						<affiliation>School of Mathematics and Computer Applications, Thapar Institute of Engineering and Technology, Post Box No. 32, Patiala 147 004, India</affiliation>
+						<affiliation>Department of Mathematics, Maharshi Dayanand University, Rohtak, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3740,25 +3771,25 @@
 				<authors>
 					<author>
 						<name first="E." last="Bayer-Fluckiger">E. Bayer-Fluckiger</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Département de Mathématiques, Ecole Polytechnique, Fédérale de Lausanne, 1015 Lausanne, Switzerland</affiliation>
+						<email>eva.bayer@epfl.ch</email>
 					</author>
 					<author>
 						<name first="R." last="Parimala">R. Parimala</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>parimala@math.tifr.res.in</email>
 					</author>
 					<author>
 						<name first="A." last="Quéguiner-Mathieu">A. Quéguiner-Mathieu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>UMR 7539 du CNRS, Département de Mathématiques, Université Paris 13, F-93430 Villetaneuse, France</affiliation>
+						<email>queguin@math.univ-paris13.fr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2003-07-02</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3772,18 +3803,18 @@
 				<authors>
 					<author>
 						<name first="Liu" last="Lanzhe">Liu Lanzhe</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Applied Mathematics, Hunan University, Changsha 410082, People’s Republic of China</affiliation>
+						<email>lanzheliu@263.net</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2003-03-23</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">
+			<entry hassup="2">
 				<title>Stability Estimates for $h-p$ Spectral Element Methods for General Elliptic Problems on Curvilinear Domains</title>
 				<feature></feature>
 				<page>0395-0429</page>
@@ -3794,20 +3825,20 @@
 				<authors>
 					<author>
 						<name first="Pravir" last="Dutt">Pravir Dutt</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email>pravir@iitk.ac.in</email>
 					</author>
 					<author>
 						<name first="Satyendra" last="Tomar">Satyendra Tomar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Applied Mathematics, University of Twente, P.O. Box 217, 7500 AE, Enschede, The Netherlands</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3821,20 +3852,21 @@
 				<authors>
 					<author>
 						<name first="Mrinal K." last="Ghosh">Mrinal K. Ghosh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Department of Electrical and Computer Engineering, University of Texas, Austin, TX 78712, USA</affiliation>
+						<email>mkg@math.iisc.ernet.in;mrinal@ece.utexas.edu</email>
 					</author>
 					<author>
 						<name first="K. S. Mallikarjuna" last="Rao">K. S. Mallikarjuna Rao</name>
-						<affiliation></affiliation>
+						<affiliation>CMI, Universit´e de Provence, 39, Rue F. J. Curie, 13 453 Marseille, France</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2002-04-05</date>
+					<date type="R">2003-05-08</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3848,20 +3880,21 @@
 				<authors>
 					<author>
 						<name first="Ganesh C." last="Gorain">Ganesh C. Gorain</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, J.K. College, Purulia 723 101, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Sujit K." last="Bose">Sujit K. Bose</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, J.K. College, Purulia 723 101, India</affiliation>
+						<affiliation>BE 188, Salt Lake City, Kolkata 700 064, India</affiliation>
+						<email>sujitkbose@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2003-04-21</date>
+					<date type="R">2003-08-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -3875,45 +3908,54 @@
 				<authors>
 					<author>
 						<name first="R. G." last="Shandil">R. G. Shandil</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, H.P. University, Shimla 171 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Jagjit" last="Singh">Jagjit Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, H.P. University, Shimla 171 005, India</affiliation>
+						<affiliation>Sidharth Govt. Degree College, Nadaun, Dist. Hamirpur 177 033, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature>Subject Index</feature>
 				<page>0457-0461</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors/>
+				<abstract />
+				<keywords />
+				<allauthors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 			<entry hassup="0">
 				<title>Author Index</title>
 				<feature>Author Index</feature>
 				<page>0463-0464</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<allauthors/>
+				<abstract />
+				<keywords />
+				<allauthors />
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="114">
+	<volume vnum="114">%raghu
 		<issue inum="01" month="02" year="2004">
 			<entry hassup="0">
 				<title>On some Vongruence with Application to Exponential Sums</title>
