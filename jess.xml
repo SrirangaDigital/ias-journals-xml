@@ -23362,152 +23362,749 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Prediction of monthly mean daily global solar radiation using Artificial Neural Network</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>1501-1510</page>
 				<abstract>
-					<p></p>
+					<p>In this study, a multilayer feed forward (MLFF) neural network based on back propagation algorithm was developed, trained, and tested to predict monthly mean daily global radiation in Tamil Nadu, India. Various geographical, solar and meteorological parameters of three different locations with diverse climatic conditions were used as input parameters. Out of 565 available data, 530 were used for training and the rest were used for testing the artificial neural network (ANN). A 3-layer and a 4-layer MLFF networks were developed and the performance of the developed models was evaluated based on mean bias error, mean absolute percentage error, root mean squared error and Student’s \textit {t}-test. The 3-layer MLFF network developed in this study did not give uniform results for the three chosen locations. Hence, a 4-layer MLFF network was developed and the average value of the mean absolute percentage error was found to be 5.47%. Values of global radiation obtained using the model were in excellent agreement with measured values. Results of this study show that the designed ANN model can be used to estimate monthly mean daily global radiation of any place in Tamil Nadu where measured global radiation data are not available.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Artificial neural network;back propagation;global radiation;multilayer perceptron network;Tamil Nadu.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="V." last="Sivamadhavi">V. Sivamadhavi</name>
+						<affiliation>Department of Physics, Bharathi Women’s College, Chennai, Tamil Nadu, India.</affiliation>
+						<email>siva madhavi03@yahoo.com</email>
+					</author>
+					<author>
+						<name first="R. Samuel" last="Selvaraj">R. Samuel Selvaraj</name>
+						<affiliation>Department of Physics, Presidency College, Chennai, Tamil Nadu, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2011-08-17</date>
+					<date type="R">2012-04-27</date>
+					<date type="A">2012-04-30</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Tidal and gravity waves study from the airglow measurements at Kolhapur (India)</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>1511-1525</page>
 				<abstract>
-					<p></p>
+					<p>Simultaneous photometric measurements of the OI 557.7 nm and OH (7, 2) band from a low latitude station, Kolhapur ($16.8^\circ N, 74.2^\circ E$) during the period 2004–2007 are analyzed to study the dominant waves present in the 80–100 km altitude region of the atmosphere. The nocturnal intensity variations of different airglow emissions are observed using scanning temperature controlled filter photometers. Waves having period lying between 2 and 12 hours have been recorded. Some of these waves having subharmonic tidal oscillation periods 4, 6, 8 and 12 hours propagate upward with velocity lying in the range 1.6–11.3 m/s and the vertical wave length lying between 28.6 and 163 kms. The other waves may be the upward propagating gravity waves or waves resulting from the interaction of inter-mode tidal oscillations, interaction of tidal waves with planetary waves and gravity waves. Some times, the second harmonic wave has higher vertical velocity than the corresponding fundamental wave. Application of these waves in studying the thermal structure of the region is discussed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Tidal and gravity wave;airglow emission;mesosphere and lower thermosphere (MLT);planetary waves.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="R. N." last="Ghodpage">R. N. Ghodpage</name>
+						<affiliation>Medium Frequency Radar, Indian Institute of Geomagnetism, Shivaji University Campus, Kolhapur 416 004, India.</affiliation>
+						<email>rupesh_ghodpage@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Devendraa" last="Siingh">Devendraa Siingh</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="R. P." last="Singh">R. P. Singh</name>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+					</author>
+					<author>
+						<name first="G. K." last="Mukherjee">G. K. Mukherjee</name>
+						<affiliation>Medium Frequency Radar, Indian Institute of Geomagnetism, Shivaji University Campus, Kolhapur 416 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Vohat">P. Vohat</name>
+						<affiliation>Geophysical Services, Makarpura Road, ONGC, Vadodara 390 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Singh">A. K. Singh</name>
+						<affiliation>Department of Physics, University of Lucknow, Lucknow 226 007, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2011-04-19</date>
+					<date type="R">2012-04-16</date>
+					<date type="A">2012-04-16</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Yearly variation and annual cycle of total column ozone over New Delhi ($29^\circ N, 77^\circ E$), India and Halley Bay ($76^\circ S, 27^\circ W$), British Antarctic Survey Station and its effect on night airglow intensity of OH(8, 3) for the period 1979–2005</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>1527-1541</page>
 				<abstract>
-					<p></p>
+					<p>A critical analysis made on the long-term monthly, seasonal, yearly variation and annual cycle of total column ozone (TCO) concentration at New Delhi ($29^\circ N, 77^\circ E$), India and Halley Bay ($76^\circ S, 27^\circ W$), a British Antarctic Service Station reveals more decline in yearly mean ozone concentration at Halley Bay than at New Delhi from 1979 to 2005. The nature of variations of monthly mean TCO during the months of August and September was the most identical with that of yearly mean ozone values at New Delhi and Halley Bay, respectively, for the same period. Annual cycles of TCO over these stations are completely different for the above period. The effect of $O_3$ depletion on night airglow emission of OH(8, 3) line at New Delhi and Halley Bay has been studied. Calculations based on chemical kinetics show that the airglow intensity of OH(8, 3) has also been affected due to the depletion of $O_3$ concentration. The yearly variations and annual cycle of intensities of OH(8, 3) line for the above two stations are depicted and compared. It has been shown that the rate of decrease of intensity of OH(8, 3) line was comparatively more at Halley Bay due to dramatic decrease of Antarctic $O_3$ concentration.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Ozone depletion;airglow emission;excitation mechanism;intensity.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="P. K." last="Jana">P. K. Jana</name>
+						<affiliation>Department of Chemistry, Institute of Education (P. G) for Women, Chandernagore, Hooghly 712 138, West Bengal, India.</affiliation>
+						<email>pkjjngl@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="D. K." last="Saha">D. K. Saha</name>
+						<affiliation>Department of Chemistry, Dinabandhu Mahavidyalaya, Bangaon, North 24 Parganas 743 235, West Bengal, India.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Sarkar">D. Sarkar</name>
+						<affiliation>Department of Chemistry, Howrah Zilla School, Howrah 711 101, West Bengal, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2012-01-15</date>
+					<date type="R">2012-04-03</date>
+					<date type="A">2012-06-29</date>
+				</dates>
+			</entry>
+		</issue>
+	<volume vnum="122">
+		<issue inum="01" month="02" year="2013">
+			<entry hassup="0">
+				<title>Present and future water resources in India: Insights from satellite remote sensing and a dynamic global vegetation model</title>
+				<feature></feature>
+				<page>0001-0013</page>
+				<abstract>
+					<p>India is a country of particular interest with regard to its future water resources, as it is expected to undergo continued rapid population growth while also being especially sensitive to climate change. The Land-surface Processes and eXchanges Dynamic Global Vegetation Model (LPX-DGVM) is used here to simulate present and future runoff in India using ClimGen pattern-scaled scenarios of $1^\circ , 2^\circ $ and $4^\circ C$ temperature increase (scaled to 2050) forced by six general circulation models (GCMs). As is the case with many DGVMs, groundwater storage is not simulated by LPX, so in order to form a more comprehensive understanding of water resources, Gravity Recovery and Climate Experiment (GRACE) satellite estimates for north-west India are incorporated into this study and compared to LPX runoff simulations. Runoff is simulated to have increased slightly (1.5 mm/year) in this region during 2002–2006, while groundwater extractions appear to have been made at rates of $40 \pm 10$ mm/year.</p>
+					<p>North-west India is simulated to experience considerable increases in runoff by 2070–2099, with a mean change of 189 mm/year for $2^\circ C$ climate change (although the range of model results, 247 mm/year, demonstrates high uncertainty among GCMs). Precipitation is shown to have an important bearing on runoff generation, while the degree of warming is shown to affect the magnitude of future runoff. This may subsequently influence the longevity of the local groundwater resource. However, at recent rates of depletion and in view of expected population growth, the long-term sustainability of groundwater reserves in north-west India is in doubt.</p>
+				</abstract>
+				<keywords>Water resources;hydrology;climate change;remote sensing;Gravity Recovery and Climate Experiment (GRACE);dynamic global vegetation model;Land-surface Processes and eXchanges (LPX);Lund–Potsdam–Jena (LPJ);groundwater depletion;droughts;population change.</keywords>
+				<authors>
+					<author>
+						<name first="S. J." last="Murray">S. J. Murray</name>
+						<affiliation>School of Earth Sciences, Wills Memorial Building, University of Bristol, Queens Road, Bristol, BS8 1RJ, UK.</affiliation>
+						<email>steve.murray@bristol.ac.uk</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-06</date>
+					<date type="R">2012-04-09</date>
+					<date type="A">2012-05-22</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Investigation of sulphate origins in the Jeffara aquifer, southeastern Tunisia: A geochemical approach</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0015-0028</page>
 				<abstract>
-					<p></p>
+					<p>The chemical composition of groundwater within the multilayer Jeffara aquifer and the detailed analysis of saturation indices enables identification of the origin of mineralization and hydrogeochemical processes occurring in groundwater. It has been demonstrated that groundwater is mainly characterized by a Ca–Mg–SO4–Cl water type. Geochemical pattern is controlled by the dissolution of evaporites, largely abundant in the study area and incongruent dissolution of dolomite. Gypsum, anhydrite, mirabilite and thenardite have been examined as potential sources of sulphate dissolved in groundwater. Since Jeffara groundwater is recharged by the Continental Intercalaire (CI) geothermal water, water temperature decreases from the CI to the Jeffara aquifer. Solubility of the majority of minerals is modified by this change in temperature and thus a mixing process of thermal and non-thermal waters was examined.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Evaporite dissolution;gypsum/anhydrite;mirabilite/thenardite;saturation state;mixing process.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Samir" last="Kamel">Samir Kamel</name>
+						<affiliation>Institut Sup$\acute{e} $rieur des Sciences et Techniques des Eaux de Gab$\acute{e} $s, Cit$\acute{e} $ Erriadh. Campus Universitaire, Zrig. Gab$\acute{e} $s 6072, Tunisia.</affiliation>
+						<email>samir.kamel@isstegb.rnu.tn</email>
+					</author>
+					<author>
+						<name first="Mohamed Ben" last="Chelbi">Mohamed Ben Chelbi</name>
+						<affiliation>Institut Sup$\acute{e} $rieur des Sciences et Techniques des Eaux de Gab$\acute{e} $s, Cit$\acute{e} $ Erriadh. Campus Universitaire, Zrig. Gab$\acute{e} $s 6072, Tunisia.</affiliation>
+					</author>
+					<author>
+						<name first="Younes" last="Jedoui">Younes Jedoui</name>
+						<affiliation>Institut Sup$\acute{e} $rieur des Sciences et Techniques des Eaux de Gab$\acute{e} $s, Cit$\acute{e} $ Erriadh. Campus Universitaire, Zrig. Gab$\acute{e} $s 6072, Tunisia.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2012-05-30</date>
+					<date type="R">2012-08-02</date>
+					<date type="A">2012-08-21</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Delineation of aquifers in basaltic hard rock terrain using vertical electrical soundings data</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0029-0041</page>
 				<abstract>
-					<p></p>
+					<p>The region under investigation for groundwater exploration is a part of the eastern fringe of Deccan traps in Kalmeshwar Taluk of Nagpur district. In this region, groundwater is the main source of water supply for drinking and irrigation purposes. Presently, the known source of groundwater is the upper weathered mantle in the depth range of 8–15 m. This source of groundwater has been overexploited because of increasing demand of water supply and is unable to meet the present requirement. The present work deals with the delineation of new sources of groundwater at deeper levels concealed within and below the traps by using vertical electrical sounding surveys in order to meet the increasing demand of water supply.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Deccan traps;hard rock;groundwater;resistivity model;vertical electrical soundings;intertrappean;Gondwana sediments.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="S. N." last="Rai">S. N. Rai</name>
+						<affiliation>CSIR – National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+						<email>snrai@ngri.res.in</email>
+					</author>
+					<author>
+						<name first="S." last="Thiagarajan">S. Thiagarajan</name>
+						<affiliation>CSIR – National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="Y. Ratna" last="Kumari">Y. Ratna Kumari</name>
+						<affiliation>CSIR – National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="V. Anand" last="Rao">V. Anand Rao</name>
+						<affiliation>CSIR – National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Manglik">A. Manglik</name>
+						<affiliation>CSIR – National Geophysical Research Institute, Hyderabad 500 007, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2011-09-30</date>
+					<date type="R">2012-07-25</date>
+					<date type="A">2012-07-26</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Hydrogeological characterization and assessment of groundwater quality in shallow aquifers in vicinity of Najafgarh drain of NCT Delhi</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0043-0054</page>
 				<abstract>
-					<p></p>
+					<p>Najafgarh drain is the biggest drain in Delhi and contributes about 60% of the total wastewater that gets discharged from Delhi into river Yamuna. The drain traverses a length of 51 km before joining river Yamuna, and is unlined for about 31 km along its initial stretch. In recent times, efforts have been made for limited withdrawal of groundwater from shallow aquifers in close vicinity of Najafgarh drain coupled with artificial recharge of groundwater. In this perspective, assessment of groundwater quality in shallow aquifers in vicinity of the Najafgarh drain of Delhi and hydrogeological characterization of adjacent areas were done. The groundwater quality was examined in perspective of Indian as well as World Health Organization’s drinking water standards. The spatial variation in groundwater quality was studied. The linkages between trace element occurrence and hydrochemical facies variation were also established. The shallow groundwater along Najafgarh drain is contaminated in stretches and the area is not suitable for large-scale groundwater development for drinking water purposes.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Delhi;Najafgarh drain;contamination;groundwater salinity;hydrochemical facies;correlation matrix.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Shashank" last="Shekhar">Shashank Shekhar</name>
+						<affiliation>Department of Geology, University of Delhi, Delhi 110 007, India.</affiliation>
+						<email>shashankshekhar01@gmail.com</email>
+					</author>
+					<author>
+						<name first="Aditya" last="Sarkar">Aditya Sarkar</name>
+						<affiliation>Department of Geology, University of Delhi, Delhi 110 007, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2011-09-23</date>
+					<date type="R">2012-07-06</date>
+					<date type="A">2012-07-16</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Geochemical assessment of light gaseous hydrocarbons in near-surface soils of Kutch–Saurashtra: Implication for hydrocarbon prospects</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>0055-0063</page>
 				<abstract>
-					<p></p>
+					<p>Light hydrocarbons in soil have been used as direct indicators in geochemical hydrocarbon exploration, which remains an unconventional path in the petroleum industry. The occurrence of adsorbed soil gases, methane and heavier homologues were recorded in the near-surface soil samples collected from Kutch–Saurashtra, India. Soil gas alkanes were interpreted to be derived from deep-seated hydrocarbon sources and have migrated to the surface through structural discontinuities. The source of hydrocarbons is assessed to be thermogenic and could have been primarily derived from humic organic matter with partial contribution from sapropelic matter. Gas chromatographic analyses of hydrocarbons desorbed from soil samples through acid extraction technique showed the presence of methane through \textit {n}-butane and the observed concentrations (in ppb) vary from: methane ($C_1$) from 4–291, ethane ($C_2$) from 0–84, propane ($C_3$) from 0–37, i-butane ($iC_4$) from 0–5 and \textit {n}-butane ($nC_4$) from 0–4. Carbon isotopes measured for methane and ethane by GC-C-IRMS, range between −42.9‰ to −13.3‰ (Pee Dee Belemnite – PDB) and −21.2‰_ to −12.4‰ (PDB), respectively. The increased occurrence of hydrocarbons in the areas near Anjar of Kutch and the area south to Rajkot of Saurashtra signifies the area potential for oil and gas.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Hydrocarbons;carbon isotopes;Kutch;Saurashtra;adsorbed soil gases.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="P. Lakshmi Srinivasa" last="Rao">P. Lakshmi Srinivasa Rao</name>
+						<affiliation>National Geophysical Research Institute, Uppal Road, Hyderabad 500606, India.</affiliation>
+						<email>plsrao.ngri@gmail.com</email>
+					</author>
+					<author>
+						<name first="T." last="Madhavi">T. Madhavi</name>
+						<affiliation>National Geophysical Research Institute, Uppal Road, Hyderabad 500606, India.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Srinu">D. Srinu</name>
+						<affiliation>National Geophysical Research Institute, Uppal Road, Hyderabad 500606, India.</affiliation>
+					</author>
+					<author>
+						<name first=">M. S." last="Kalpana">M. S. Kalpana</name>
+						<affiliation>National Geophysical Research Institute, Uppal Road, Hyderabad 500606, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. J." last="Patil">D. J. Patil</name>
+						<affiliation>National Geophysical Research Institute, Uppal Road, Hyderabad 500606, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. M." last="Dayal">A. M. Dayal</name>
+						<affiliation>National Geophysical Research Institute, Uppal Road, Hyderabad 500606, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2012-01-06</date>
+					<date type="R">2012-07-05</date>
+					<date type="A">2012-07-09</date>
 				</dates>
 			</entry>
+			<entry hassup="0">
+				<title>Geochemical study of volcanic and associated granitic rocks from Endau Rompin, Johor, Peninsular Malaysia</title>
+				<feature></feature>
+				<page>0065-0078</page>
+				<abstract>
+					<p>Geochemical studies and modelling show that both volcanic and granitic magmas from the western part of the Johor National Park, Endau Rompin are different and probably have different sources. The geochemical plot suggests that both dacite/rhyolite and andesite probably have a common origin as in many of the geochemical plots, these two groups form a similar trend. Volcanic rocks have a transitional geochemical character between tholeiite and calc alkaline on a Y versus Zr plot. $(La/Yb)_N$ versus La and $TiO_2$ versus Zr modelling show that the crystallization of both granitic and volcanic magmas are controlled by a different set of minerals. The rare earth elements (REE) patterns of some of the granite and volcanic samples have pronounced negative Eu anomaly indicating plagioclase fractionation. The difference between both profiles is that the granite samples show a concave shape profile which is consistent with liquids produced by partial melting of quartz feldspathic rocks containing amphibole among the residual phase. Both magmas were generated at a different time during the subduction of Sibumasu beneath the Indochina blocks.</p>
+				</abstract>
+				<keywords>Endau Rompin;Peninsular Malaysia;rare earth elements;granite;volcanic arc.</keywords>
+				<authors>
+					<author>
+						<name first="Azman A." last="Ghani">Azman A. Ghani</name>
+						<affiliation>Department of Geology, University of Malaya, 50603 Kuala Lumpur, Malaysia.</affiliation>
+						<email>azmangeo@um.edu.my</email>
+					</author>
+					<author>
+						<name first="Ismail" last="Yusoff">Ismail Yusoff</name>
+						<affiliation>Department of Geology, University of Malaya, 50603 Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Meor Hakif Amir" last="Hassan">Meor Hakif Amir Hassan</name>
+						<affiliation>Department of Geology, University of Malaya, 50603 Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Rosli" last="Ramli">Rosli Ramli</name>
+						<affiliation>Institute of Biological Science, University of Malaya, 50603 Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-04-05</date>
+					<date type="R">2012-07-30</date>
+					<date type="A">2012-08-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Platinum group elements geochemistry of ultramafic and associated rocks from Pindar in Madawara Igneous Complex, Bundelkhand massif, central India</title>
+				<feature></feature>
+				<page>0079-0091</page>
+				<abstract>
+					<p>Ultramafic rocks comprising dunite, harburgite, lehzolite, olivine webserite and websterite occur as intrusives in the form of small hillocks at around Pindar into the granite–gneisses of Bundelkhand Gneissic Complex (BnGC). The peridotites are dominated by olivine cumulates where chromite and precious metal-bearing sulphides crystallized along with pyroxenes, subsequent to crystallization of olivine into the interstitial spaces of cumulates during cooling. Ultramafic rocks of Pindar are characterized by high MgO (up to 46.0 wt%) and FeO (up to 5.8 wt%); low $SiO_2$ (40.8 to 48.0 wt%), $TiO_2$ (0.2 to 0.5 wt%), $Al_{2}O_{3} (\sim 3.2$ wt% av.), CaO ($\sim $ 2.7 wt% av.) and Cu (11 to 73 $\mu $g/g). Cr and Ni values range from 2297 to 3150 $\mu $g/g and 2434 to 2767 $\mu $g/g, respectively. Distribution of Ir (up to 20 ng/g), Ru (27 to 90 ng/g), Rh (3 to 14 ng/g), Pt (18 to 72 ng/g), Pd (10 to 27 ng/g) and Au (22 to 57 ng/g) indicate platinum group element (PGE) and associated gold mineralization in these ultramafic rocks. A mineral phase representing sperrylite ($PtAs_2$) was also identified within the sulphides in Scanning electron microscopy with energy dispersive spectrometer (SEM–EDS) studies. The primitive mantle-normalized siderophile elements pattern shows platinum group element PGE (PPGE) enrichment (Rh, Pt, Pd). Discrimination diagrams of Pd/Ir vs. Ni/Cu, Pd/Pt vs. Ni/Cu, Cu/Pd vs. Pd, and Cu vs. Pd for the peridotites of Pindar attribute to affinity towards komatiite magma, derived from high degree of partial melting of prolonged depleted mantle, and the sulphur saturation condition incurred during the crystallization of chromite which was favourable for PGE mineralization.</p>
+				</abstract>
+				<keywords>Platinum group elements;mineralization;ultramafic rocks;Pindar;Bundelkhand massif;central India.</keywords>
+				<authors>
+					<author>
+						<name first="V." last="Balaram">V. Balaram</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific and Industrial Research), Uppal Road, Hyderabad 500 007, India.</affiliation>
+						<email>balaram1951@yahoo.com</email>
+					</author>
+					<author>
+						<name first="S. P." last="Singh">S. P. Singh</name>
+						<affiliation>Department of Geology, Bundelkhand University, Jhansi 284001, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Satyanarayanan">M. Satyanarayanan</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific and Industrial Research), Uppal Road, Hyderabad 500 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. V." last="Anjaiah">K. V. Anjaiah</name>
+						<affiliation>National Geophysical Research Institute (Council of Scientific and Industrial Research), Uppal Road, Hyderabad 500 007, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-22</date>
+					<date type="R">2012-07-07</date>
+					<date type="A">2012-07-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A field technique for rapid lithological discrimination and ore mineral identification: Results from Mamandur Polymetal Deposit, India</title>
+				<feature></feature>
+				<page>0093-0106</page>
+				<abstract>
+					<p>This work illustrates the efficiency of field spectroscopy for rapid identification of minerals in ore body, alteration zone and host rocks. The adopted procedure involves collection of field spectra, their processing for noise, spectral matching and spectral un-mixing with selected library end-members. Average weighted spectral similarity and effective peak matching techniques were used to draw end-members from library. Constrained linear mixture modelling technique was used to convolve end-member spectra. Linear mixture model was optimized based on root mean square error between field- and modelled-spectra. Estimated minerals and their abundances were subsequently compared with conventional procedures such as petrography, X-ray diffraction and X-ray fluorescence for accuracy assessment. The mineralized zone is found to contain azurite, galena, chalcopyrite, bornite, molybdenite, marcacite, gahnite, hematite, goethite, anglesite and malachite. The alteration zone contains chlorite, kaolinite, actinolite and mica. These mineral assemblages correlate well with the petrographic measurements (\textit {R^2} = 0.89). Subsequently, the bulk chemistry of field samples was compared with spectroscopically derived cumulative weighted mineral chemistry and found to correlate well (\textit {R^2} = 0.91–0.98) at excellent statistical significance levels (90–99%). From this study, it is evident that field spectroscopy can be effectively used for rapid mineral identification and abundance estimation.</p>
+				</abstract>
+				<keywords>Field spectroscopy;linear mixture modeling;cumulative weighted mineral chemistry;mineral exploration.</keywords>
+				<authors>
+					<author>
+						<name first="D." last="Ramakrishnan">D. Ramakrishnan</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Mumbai 400 076, India.</affiliation>
+						<email>ramakrish@iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="M." last="Nithya">M. Nithya</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. D." last="Singh">K. D. Singh</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="Rishikesh" last="Bharti">Rishikesh Bharti</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Mumbai 400 076, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-05-10</date>
+					<date type="R">2012-08-16</date>
+					<date type="A">2012-08-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Intensity attenuation relation at Chamba–Garhwal area in north-west Himalaya with epicentral distance and magnitude</title>
+				<feature></feature>
+				<page>0107-0122</page>
+				<abstract>
+					<p>Seismic hazard assessment of any region depends on the attenuation relation which relates the seismological data with parameters of engineering interest. In the absence of sufficient strong motion data for northwest Himalayan region, isoseismal maps of previous earthquakes were the only source of information for computing the attenuation characteristics of that region. The northwest Himalayan region had experienced major and moderate earthquakes in the past and isoseismal maps had been developed by various authors for each of these earthquakes representing intensity pattern and decay of intensity in different directions. With this information, attenuation relations of intensity with distance can be obtained. The present study includes 10 moderate and major earthquakes (\textit {M_s} $\geq 4.9$) that had occurred during the last 100 years. These are primarily Kangra (1905), Chamba-1 (1945), Chamba-2 (1995), Kinnaur (1975), Dharamsala (1986), Uttar Kashi (1991), Garhwal-1 (1996), Garhwal-2 (1996), Sundarnagar (1997) and Chamoli (1999) earthquakes. Miezoseismal zones in majority of the isoseismal maps show two major directions, i.e., either the longest axis of these isoseismal maps which are aligned in NW–SE direction following the major longitudinal features or north-northwest to south-southeast direction, following the tectonic features which are transverse to the Himalayan trend. Isoseismal maps of Kangra (1905), Chamba (1945) and Uttar Kashi (1991) earthquakes are more symmetrical and elongated in south-east direction, but compressed in north-east and north-west directions, thus indicating fast attenuation characteristics in north-east and north-west directions reflecting lithological variation. On the other hand, Sundernagar (1997) and Kinnuar (1975) earthquakes show circular pattern of intensity distribution. Combining decay patterns from different magnitude earthquakes in different directions, two attenuation relationships have been developed using regression relationship (least square method).</p>
+				</abstract>
+				<keywords>Attenuation;intensity;peak ground motion;epicentral distance.</keywords>
+				<authors>
+					<author>
+						<name first="G. K." last="Ghosh">G. K. Ghosh</name>
+						<affiliation>Oil India Limited, Duliajan, Assam 786 602, India.</affiliation>
+						<email>gk_ghosh@yahoo.com</email>
+					</author>
+					<author>
+						<name first="A. K." last="Mahajan">A. K. Mahajan</name>
+						<affiliation>Wadia Institute of Himalayan Geology, 33 GMS Road, Dehradun, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-04</date>
+					<date type="R">2012-07-11</date>
+					<date type="A">2012-07-18</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Microtremor measurements in the northern coast of $\dot{I} $zmir Bay, Turkey to evaluate site-specific characteristics and fundamental periods by \textit {H/V} spectral ratio method</title>
+				<feature></feature>
+				<page>0123-0136</page>
+				<abstract>
+					<p>Seventy-two microtremor measurements were conducted in the northern coast of $\dot{I} $zmir Bay. The dataset has been processed using the horizontal-to-vertical spectral ratio. The fundamental period contour map obtained showed that the fundamental period at rock sites of the northern coast of $\dot{I} $zmir Bay was between 0.15 and 0.35 s. However, the fundamental period increased towards the western direction where thick soft sediments exist, the fundamental period varied between 0.5 and 2.0 s. A soil classification map of the area was prepared based on the data estimated from SPT-\textit {N} values of 25 boreholes. It is seen that major portion of the study area, including the shore line of the northern coast had SPT-\textit {N} values lower than 15. The fundamental periods obtained by \textit {H/V} spectral ratio method and the periods derived from shear wave velocity data available in 11 of 25 boreholes were well-correlated. Fundamental period map obtained from \textit {H/V} spectral ratio method illustrated the characteristics of weak soil conditions and the presence of bedrock level under thick alluvial soils. Finally, microtremor investigations have proved to be an effective tool for assessment of local soil conditions in case of thick soft sediments in the northern coast of $\dot{I} $zmir Bay.</p>
+				</abstract>
+				<keywords>Microtremor;\textit {H/V} spectral ratio;fundamental period;shear wave velocity;standard penetration test (SPT).</keywords>
+				<authors>
+					<author>
+						<name first="" last="">Tu$\check{g} $ba Eskişar</name>
+						<affiliation>Ege University, Department of Civil Engineering, Geotechnics Division, 35100 Bornova, $\dot{I} $zmir, Turkey.</affiliation>
+						<email>tugba.eskisar@ege.edu.tr</email>
+					</author>
+					<author>
+						<name first="" last="">Şenol $\ddot{O} $zyalin</name>
+						<affiliation>Dokuz Eyl$\ddot{u} $l University, Department of Geophysics, 35160 Buca, $\dot{I} $zmir, Turkey.</affiliation>
+					</author>
+					<author>
+						<name first="Mehmet" last="Kuruo$\check{g} $lu">Mehmet Kuruo$\check{g} $lu</name>
+						<affiliation>Dokuz Eyl$\ddot{u} $l University, Department of Civil Engineering, Geotechnics Division, 35160, Buca, $\dot{I} $zmir, Turkey.</affiliation>
+					</author>
+					<author>
+						<name first="H. Recep" last="Yilmaz">H. Recep Yilmaz</name>
+						<affiliation>Ege University, Department of Civil Engineering, Geotechnics Division, 35100 Bornova, $\dot{I} $zmir, Turkey.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-27</date>
+					<date type="R">2012-08-09</date>
+					<date type="A">2012-08-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tectonic shortening and coeval volcanism during the Quaternary, Northeast Japan arc</title>
+				<feature></feature>
+				<page>0137-0147</page>
+				<abstract>
+					<p>The Northeast Japan arc, a mature volcanic arc with a back-arc marginal basin (Japan Sea), is located on a convergent plate boundary along the subducting Pacific plate and the overriding North American plate. From a compilation and analysis of stratigraphy, radiometric age and data on erupted magma volumes, 176 eruptive episodes identified from 69 volcanoes so far, indicate that notable changes in eruption style, magma discharge rates and distribution of eruptive centres occurred around 1.0 Ma. Before ca.1.0 Ma, large-volume felsic eruptions were dominant, forming large calderas in the frontal arc, a region of low crustal strain rate. After ca. 1.0 Ma to the present, the calc-alkaline andesite magma eruptions in the frontal and rear arcs, synchronous with crustal shortening characterized by reverse faulting, resulted in stratovolcano development along narrow uplifted zones. Although, it is widely assumed that magma cannot rise easily in a compressional setting, some of the magma stored within basal sills could be extruded where N–S-trending uplifted mountains bounded by reverse faults formed since about ca.1.0 Ma.</p>
+				</abstract>
+				<keywords>Northeast Japan arc;volcanism;tectonic shortening;Quaternary.</keywords>
+				<authors>
+					<author>
+						<name first="Koji" last="Umeda">Koji Umeda</name>
+						<affiliation>Tono Geoscientific Research Unit, Geological Isolation Research and Development Directorate, Japan Atomic Energy Agency, 959-31, Jorinji, Izumi, Toki, 509-5102, Japan.</affiliation>
+						<email>umeda.koji@jaea.go.jp</email>
+					</author>
+					<author>
+						<name first="Masao" last="Ban">Masao Ban</name>
+						<affiliation>Department of Earth and Environmental Sciences, Yamagata University, 1-4-12 Kojirakawa-machi, Yamagata, 990-8560, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Shintaro" last="Hayashi">Shintaro Hayashi</name>
+						<affiliation>Department of Natural and Environmental Sciences, Akita University, 1-1, Gakuen-machi, Tegata, Akita, 010-8502, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="Tomohiro" last="Kusano">Tomohiro Kusano</name>
+						<affiliation>Tono Geoscientific Research Unit, Geological Isolation Research and Development Directorate, Japan Atomic Energy Agency, 959-31, Jorinji, Izumi, Toki, 509-5102, Japan.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-07</date>
+					<date type="R">2012-07-24</date>
+					<date type="A">2012-07-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fossil Steginoporellid (Cheilostomata: Neocheilostomina), Bryozoa from the Tertiary sediments of Western Kachchh, Gujarat, India</title>
+				<feature></feature>
+				<page>0149-0161</page>
+				<abstract>
+					<p>Five species of \textit {Steginoporella} from the Palaeogene rocks of the Western Kachchh, Gujarat are described in this paper. Out of five steginoporellids, \textit {S. mathuri} n.sp., \textit {S. murachbanensis} n.sp. and \textit {S. chiplonkari} n.sp. are new to science; \textit {S. bhujensis} is already reported from this region; and \textit {Steginoporella} sp. indet is reported for the first time in these rocks. All these species show Indo-Pacific affinities. The occurrence of \textit {Steginoporella} from Middle Eocene to Early Miocene indicates that two stages of radiation had taken place in Kachchh. Phylogenetic analysis using PAST programme indicates that \textit {S. mathuri} is very distinct from other species of \textit {Steginoporella}; while \textit {S. murachbanensis} and \textit {S. bhujensis} form the same clade.</p>
+				</abstract>
+				<keywords>Bryozoa;Palaeogene;Steginoporellid;Kachchh (India).</keywords>
+				<authors>
+					<author>
+						<name first="Mohan A." last="Sonar">Mohan A. Sonar</name>
+						<affiliation>P.G. Department of Geology, Government Institute of Science, Aurangabad 431 004, India.</affiliation>
+						<email>drmohansonar398@gmail.com</email>
+					</author>
+					<author>
+						<name first="Sharad G." last="Gaikwad">Sharad G. Gaikwad</name>
+						<affiliation>P.G. Department of Geology, Government Institute of Science, Aurangabad 431 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-07-26</date>
+					<date type="R">2012-07-12</date>
+					<date type="A">2012-07-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Late Paleocene–early Eocene carbon isotope stratigraphy from a near-terrestrial tropical section and antiquity of Indian mammals</title>
+				<feature></feature>
+				<page>0163-0171</page>
+				<abstract>
+					<p>Late Paleocene to early Eocene ($\sim $56 to 51 Ma) interval is characterized by five distinct transient warming (hyperthermal) events (Paleocene–Eocene thermal maximum (PETM), H1/ETM2/ELMO, H2, I1 and I2) in a super greenhouse globe associated with negative carbon isotope excursions (CIEs). Although well-documented marine records exist at different latitudes, terrestrial PETM sections are rare. In particular, almost no terrestrial records of either the PETM or early Eocene hyperthermals (EEHs) are yet available from the tropics. Further, evolution of modern order of mammals near the PETM has been recorded in many northern continents; however, the response of mammals in the tropics to these warming events is unknown. A tropical terrestrial record of these hyperthermal/CIE events, encompassing the earliest modern order mammal bearing horizon from India, can therefore be vital in understanding climatic and biotic evolution during the earliest Cenozoic time. Here, for the first time, we report high resolution carbon isotope ($\delta ^{13}C$) stratigraphy, nannofossil, and Sr isotope ratio of marine fossil carbonate from the Cambay Shale Formation of Western India. The record shows complete preservation of all the above CIE events, including the PETM, hitherto unknown from the equatorial terrestrial records. $\delta ^{13}C$ chemostratigraphy further suggests that at least the present early Eocene mammal-bearing horizon, recently discovered at Vastan, does not support the ‘out of India’ hypothesis of earliest appearance of modern mammals and subsequent dispersal to the Holarctic continents.</p>
+				</abstract>
+				<keywords>Tropical terrestrial Paleocene–Eocene thermal maximum (PETM);early Eocene hyperthermals;carbon isotope excursion;modern order mammal.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Samanta">A. Samanta</name>
+						<affiliation>Department of Geology and Geophysics, Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
+						<email>arpitas25@gmail.com</email>
+					</author>
+					<author>
+						<name first="A." last="Sarkar">A. Sarkar</name>
+						<affiliation>Department of Geology and Geophysics, Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. K." last="Bera">M. K. Bera</name>
+						<affiliation>Department of Geology and Geophysics, Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
+					</author>
+					<author>
+						<name first="Jyotsana" last="Rai">Jyotsana Rai</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, Lucknow 226 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. S." last="Rathore">S. S. Rathore</name>
+						<affiliation>KDM Institute of Petroleum Exploration, Dehradun 248 195, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-05-16</date>
+					<date type="R">2012-07-09</date>
+					<date type="A">2012-07-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Paleoenvironmental significance of clay mineral assemblages in the southeastern Arabian Sea during last 30 kyr</title>
+				<feature></feature>
+				<page>0173-0185</page>
+				<abstract>
+					<p>A gravity core SK-221 recovered from the southeastern Arabian Sea near Laccadive–Chagos Ridge was examined to identify the sources of detrital clay minerals and to decipher paleoenvironmental changes for the last 30 kyr. The clay mineral assemblages predominantly consist of illite, kaolinite and chlorite with small amounts of smectite. Quartz, feldspar and occasionally gibbsite are the clay-sized non-clay minerals present in the examined section. The detrital clay minerals primarily originated from the hinterland and were supplied to the present site by the numerous small rivers draining western India during preglacial and Holocene periods, and partly by the strong reworking of Indian continental shelf during glacial period. The low values of humidity proxies (kaolinite content, kaolinite to illite and smectite to illite ratios) and better illite crystallinity indicate relatively weak summer monsoon condition that resulted in reduced chemical weathering during glacial period, which was interrupted by a discrete event of winter monsoon intensification at $\sim $20–17 ka. The increased kaolinite content, higher values of humidity indices and poorer illite crystallinity reflect high humidity that resulted in strong hydrolysis activity during the preglacial and Holocene periods. The increased $CaCO_3$ during above periods also indicates less terrigenous dilution and intensified southwest monsoon-led upwelling which result in higher surface biogenic productivity. The characteristic clay mineral associations broadly suggest dry to semi-drier conditions during Heinrich Events H1, H2, and H3 and also during Younger Dryas. The low values of biogenic carbonate and organic carbon also indicate low productivity associated with weak summer monsoons during Heinrich Events. Abrupt increased humidity was recorded at 15–12.7 ka (Bølling/Allerød Event) sandwiched between two lows of Heinrich Events. Cycles of millennial timescale variations 2300, 1800, 1300 and 1000 yr have been observed from the clay mineralogical data. All the cycles observed in the monsoonal climate appear to be part of global oscillations.</p>
+				</abstract>
+				<keywords>Arabian Sea;clay mineral;Holocene;monsoon;western India.</keywords>
+				<authors>
+					<author>
+						<name first="Siddhartha Sankar" last="Das">Siddhartha Sankar Das</name>
+						<affiliation>Department of Earth & Planetary Sciences, University of Allahabad, Allahabad 211 002, India.</affiliation>
+						<email>siddharthasankardas.alld@gmail.com</email>
+					</author>
+					<author>
+						<name first="Ajai K." last="Rai">Ajai K. Rai</name>
+						<affiliation>Department of Earth & Planetary Sciences, University of Allahabad, Allahabad 211 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="Vaseem" last="Akaram">Vaseem Akaram</name>
+						<affiliation>Department of Earth & Planetary Sciences, University of Allahabad, Allahabad 211 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="Dhananjai" last="Verma">Dhananjai Verma</name>
+						<affiliation>Department of Earth & Planetary Sciences, University of Allahabad, Allahabad 211 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. C." last="Pandey">A. C. Pandey</name>
+						<affiliation>Department of Ocean & Atmospheric Studies, University of Allahabad, Allahabad 211 002, India.</affiliation>
+					</author>
+					<author>
+						<name first="Koushik" last="Dutta">Koushik Dutta</name>
+						<affiliation>Institute of Physics, Bhubaneswar 751 005, India.</affiliation>
+						<affiliation>University of Minnesota, Duluth, MN 55812, USA.</affiliation>
+					</author>
+					<author>
+						<name first="G. V. Ravi" last="Prasad">G. V. Ravi Prasad</name>
+						<affiliation>Institute of Physics, Bhubaneswar 751 005, India.</affiliation>
+						<affiliation>University of Georgia, Athens, GA 30602, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-01-30</date>
+					<date type="R">2012-08-08</date>
+					<date type="A">2012-08-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Evaluation of OSCAR ocean surface current product in the tropical Indian Ocean using \textit {in situ} data</title>
+				<feature></feature>
+				<page>0187-0199</page>
+				<abstract>
+					<p>The OSCAR (ocean surface current analysis real-time),which is a product derived from various satellite observations,has been evaluated in the tropical Indian Ocean (TIO)in two di ﬀerent ways.First,the OSCAR-derived monthly climatology has been compared with available drifter-derived climatology in the TIO.From the comparison of the two climatologies,one can infer that OSCAR product is able to capture the variabilities of the well-known surface current systems in the TIO reasonably well.Fourier analysis of the major current systems,as reproduced by OSCAR,shows that the dominant annual and semiannual periodicities,known to exist in these systems,have been faithfully picked up by OSCAR. Next,the evaluation has been carried out by comparing the OSCAR currents with currents measured by moored buoys.The zonal component of OSCAR-current is in good agreement with corresponding component of buoy-observed current with a correlation exceeding 0.7,while the match between the meridional components is poorer.The locations of the peaks of the mean and eddy kinetic energies are matching in both the climatologies,although the peak in the drifter climatology is stronger than the same in the OSCAR product.Finally,an important feature of Indian Ocean circulation,namely the reverse Wyrtki jet,occurring during anomalous dipole years,has been well-reproduced by OSCAR currents.</p>
+				</abstract>
+				<keywords>Ocean surface current;remote sensing;buoy currents;drifter data;Indian Ocean circulation.</keywords>
+				<authors>
+					<author>
+						<name first="Rajesh" last="Sikhakolli">Rajesh Sikhakolli</name>
+						<affiliation>Atmospheric and Oceanic Sciences Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+						<email>srajesh@sac.isro.gov.in</email>
+					</author>
+					<author>
+						<name first="Rashmi" last="Sharma">Rashmi Sharma</name>
+						<affiliation>Atmospheric and Oceanic Sciences Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="Sujit" last="Basu">Sujit Basu</name>
+						<affiliation>Atmospheric and Oceanic Sciences Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="B. S." last="Gohil">B. S. Gohil</name>
+						<affiliation>Atmospheric and Oceanic Sciences Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="Abhijit" last="Sarkar">Abhijit Sarkar</name>
+						<affiliation>Atmospheric and Oceanic Sciences Group, Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. V. S. R." last="Prasad">K. V. S. R. Prasad</name>
+						<affiliation>Department of Meteorology and Oceanography, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-12-23</date>
+					<date type="R">2012-07-04</date>
+					<date type="A">2012-07-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>AIRS observations of seasonal variability in meridional temperature gradient over Indian region at 100 hPa</title>
+				<feature></feature>
+				<page>0201-0213</page>
+				<abstract>
+					<p>To investigate the temperature changes at 100 hPa over Indian region from Arabian Sea (AS) to Bay of Bengal (BOB), analysis is performed using Atmospheric Infra Red Sounder (AIRS) temperature and outgoing long-wave radiation (OLR) data of 9 years (2003–2011). Fine-scale temperature variations have been studied and shown for summer (March–April–May, MAM), summer monsoon (June–July–August–September, JJAS) and winter (November–December–January–February, NDJF) months. Similarities and differences in the latitudinal and longitudinal variation of temperature and the possible causes have been examined. During MAM and NDJF, the temperature increases latitudinally by $\sim $2–3 K and $\sim $4–5 K from $3.5^\circ to 20.5^\circ N$, respectively. However, the temperature decreases by $\sim $2.0–2.5 K during JJAS. A similar contrasting behaviour is observed in latitudinal temperature gradient. For MAM and NDJF, the gradient decreases from $\sim $0.18 to $\sim $0.14 K/deg and $\sim $0.25 to $\sim $0.18 K/deg, respectively, as we move longitudinally from $60^\circ to 90^\circ E$; however, for JJAS, it increases from $\sim $0.10 to $\sim $0.14 K/deg over the same longitudes. It is found that latitudinal temperature gradient for NDJF is larger by about a factor of 1.5. Analysis suggests latitudinal change in temperature occurs due to low OLR (proxy of convection) and its northward progression during summer monsoon. Correlation coefficient (\textit {R}_xy) between OLR and temperature is computed latitudinally ($3.5^\circ to 20.5^\circ N$) at different longitudes and during JJAS (monsoon months), \textit {R}_xy is negative ($\sim $−0.73) over $60^\circ $ and $70^\circ E$ longitudes, but it turns positive ($\sim $0.92) over $80^\circ $ and $90^\circ E$ longitudes (which is convectively active region), suggesting a close association between low temperature and low OLR. Land–sea contrast is also observed in temperature at 100 hPa with a slight increase ($\sim $0.5 K) from sea to land.</p>
+				</abstract>
+				<keywords>Meridional temperature gradient;Atmospheric Infra Red Sounder (AIRS) data;Indian summer monsoon;outgoing long-wave radiation (OLR).</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Gupta">A. Gupta</name>
+						<affiliation>Department of Physics, Rajdhani College, University of Delhi, New Delhi 110 015, India.</affiliation>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, New Delhi 110 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Dhaka">S. K. Dhaka</name>
+						<affiliation>Department of Physics, Rajdhani College, University of Delhi, New Delhi 110 015, India.</affiliation>
+						<email>skdhaka@yahoo.com</email>
+						<email>skdhaka@gmail.com</email>
+					</author>
+					<author>
+						<name first="V." last="Panwar">V. Panwar</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, New Delhi 110 007, India.</affiliation>
+						<affiliation>Research Institute for Sustainable Humanosphere, Kyoto University, Uji, Kyoto 611-0011, Japan.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Bhatnagar">R. Bhatnagar</name>
+						<affiliation>Department of Physics, Rajdhani College, University of Delhi, New Delhi 110 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="V." last="Kumar">V. Kumar</name>
+						<affiliation>Department of Physics, Rajdhani College, University of Delhi, New Delhi 110 015, India.</affiliation>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, New Delhi 110 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="Savita M." last="Datta">Savita M. Datta</name>
+						<affiliation>Maitreyi College, University of Delhi, New Delhi 110 021, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Dash">S. K. Dash</name>
+						<affiliation>Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, New Delhi 110 061, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-02-17</date>
+					<date type="R">2012-08-01</date>
+					<date type="A">2012-08-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Recent temperature trends at mountain stations on the southern slope of the central Himalayas</title>
+				<feature></feature>
+				<page>0215-0227</page>
+				<abstract>
+					<p>Insufficient long-term \textit {in situ} observations and complex topographic conditions pose major problems in quantifying the magnitude of climatic trends in mountainous regions such as Nepal. Presented here is three decades (1980–2009) of data on annual maximum, minimum and average temperature trends from 13 mountain stations on the southern slope of the central Himalayas. The stations are located at elevations between 1304 and 2566 m above sea level and with varied topography. Spatial analyses of the average temperature trend show warming in most of the stations. The magnitude of warming is higher for maximum temperatures, while minimum temperatures exhibit larger variability such as positive, negative or no change. These results are consistent with patterns reported in some parts of the Indian subcontinent and Upper Indus Basin, but different from conditions on the Tibetan Plateau (China), where the warming of minimum temperatures is more prominent than that of the maximum temperatures. From the temporal variations, a dramatic increase in temperature is observed in the latest decade, particularly in the average and maximum temperatures. The results from the cumulative sum chart analyses suggest that the thermal regime shifted in 1997. The dramatic enhancement of average temperature in the last decade is strongly consistent with the result of contemporary studies of the surrounding regions, where warming is attributed to an increase in anthropogenic greenhouse gases. However, as in the western Himalayas and the Upper Indus Basin, the mountain stations on the southern slope of the central Himalayas show variability in temperature trends, particularly for the minimum temperature. This inhomogeneous trend is likely ascribed to the differences in topography and microclimatic regime of the observed stations.</p>
+				</abstract>
+				<keywords>Temperature trends;maximum temperature warming;variability;regime shift;mountain stations;central Himalayas.</keywords>
+				<authors>
+					<author>
+						<name first="Dambaru Ballab" last="Kattel">Dambaru Ballab Kattel</name>
+						<affiliation>Key Laboratory of Tibetan Environment Changes and Land Surface Processes, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, PO Box 2871, 4A Datun Road, Chaoyang District, Beijing 100101, China.</affiliation>
+						<affiliation>Graduate University of Chinese Academy of Sciences, Beijing 100049, China.</affiliation>
+						<email>katteldb@gmail.com</email>
+					</author>
+					<author>
+						<name first="Tandong" last="Yao">Tandong Yao</name>
+						<affiliation>Key Laboratory of Tibetan Environment Changes and Land Surface Processes, Institute of Tibetan Plateau Research, Chinese Academy of Sciences, PO Box 2871, 4A Datun Road, Chaoyang District, Beijing 100101, China.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-10-24</date>
+					<date type="R">2012-07-11</date>
+					<date type="A">2012-07-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Air ion and pollution index variation for indoor and outdoor atmosphere at rural station Ramanandnagar ($17^\circ 4^\prime N,74^\circ 25^\prime $) India</title>
+				<feature></feature>
+				<page>0229-0237</page>
+				<abstract>
+					<p>In the present study, the observation of indoor air ion concentration at a rural site has been carried out for the first time. These indoor observations are compared with outdoor air ion concentration. Net charge can be introduced into the atmosphere by processes such as combustion, rainfall and ultraviolet radiation. As compared to indoors, average air ions of both the polarities at outdoors are higher. Moreover, the air ion concentrations, experience large fluctuations during daytime, as compared to nighttime values. Positive and negative air ion concentrations are lower and uniform throughout the night both for indoor and outdoor conditions. Pollution index is more or less unity for outdoors in all-the-time period, which is good for human health. Due to limited sources of air ions indoors, it is observed that pollution index decreases from 00:00–02:00 hours and minimum is reached during 12:00–14:00 hours for indoors. During 00:00–02:00 hours, the indoor pollution index is 1.55, which is very harmful to human health.</p>
+				</abstract>
+				<keywords>Aerosol;air ion;pollution index;plant transpiration.</keywords>
+				<authors>
+					<author>
+						<name first="S. D." last="Pawar">S. D. Pawar</name>
+						<affiliation>Department of Physics, A.C.S. College, Palus District, Sangli 416 310, India.</affiliation>
+						<email>supath345@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-01-19</date>
+					<date type="R">2012-05-19</date>
+					<date type="A">2012-07-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Contribution of some ozone depleting substances (ODS) and greenhouse gases (GHGs) on total column zone growth at Srinagar ($34^\circ N, 74.8^\circ $), India</title>
+				<feature></feature>
+				<page>0239-0252</page>
+				<abstract>
+					<p>A critical analysis has been made on the contribution of CFC-11, CFC-12, CFC-113, $CH_{3}Cl, CH_{3}Br, CCl_{4}, CH_{3}CCl_{3}$, HCFCs, halons, WMO (World Meteorological Organization) minor constituents, $CH_{4}, N_{2}O$ and water vapour to the variation of total column ozone (TCO) concentration at the station in Srinagar ($34^\circ N, 74.8^\circ E$), India from 1992 to 2003. With the implementation of Montreal Protocol, though the concentrations of CFC-11, CFC-113, $CH_{3}Cl, CH_{3}Br, CCl_{4}$ and $CH_{3}CCl_{3}$ had decreased, the concentrations of CFC-12, HCFCs, halons, WMO minor constituents, $CH_{4}, N_{2}O$ and water vapour had increased, as a result of which TCO had risen from 1992 to 2003 at the above station. The nature of yearly variations of concentrations of the above ozone depleting substances and greenhouse gases as well as ozone has been presented. Possible explanations for build-up of TCO have also been offered.</p>
+				</abstract>
+				<keywords>Ozone depleting substances;ozone decline;ozone destruction and formation processes;Srinagar.</keywords>
+				<authors>
+					<author>
+						<name first="P. K." last="Jana">P. K. Jana</name>
+						<affiliation>Department of Chemistry, Institute of Education (PG) for Women, Chandernagore, Hooghly 712 138, India.</affiliation>
+						<email>pkjjngl@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="D. K." last="Saha">D. K. Saha</name>
+						<affiliation>Department of Chemistry, Dinabandhu Mahavidyalaya, Bangaon, North-24 Parganas 743 235, India.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Sarkar">D. Sarkar</name>
+						<affiliation>Department of Chemistry, Howrah Zilla School, Howrah 711 101, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2011-11-07</date>
+					<date type="R">2012-07-21</date>
+					<date type="A">2012-07-31</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analysis of ENSO-based climate variability in modulating drought risks over western Rajasthan in India</title>
+				<feature></feature>
+				<page>0253-0269</page>
+				<abstract>
+					<p>This paper investigates the role of El Ni$\tilde{n} $o-Southern Oscillation (ENSO)-based climate variability in modulating multivariate drought risks in the drought-prone region of Western Rajasthan in India. Droughts are multivariate phenomenon, often characterized by severity, duration and peak. By using multivariate ENSO index, annual drought events are partitioned into three climatic states – El Ni$\tilde{n} $o, La Ni$\tilde{n} $a and neutral phases. For multivariate probabilistic representation of drought characteristics, trivariate copulas are employed, which have the ability to preserve the dependence structure of drought variables under uncertain environment. The first copula model is developed without accounting the climate state information to obtain joint and conditional return periods of drought characteristics. Then, copula-based models are developed for each climate state to estimate the joint and conditional probabilities of drought characteristics under each ENSO state. Results of the study suggest that the inclusion of ENSO-based climate variability is helpful in knowing the associated drought risks, and useful for management of water resources in the region.</p>
+				</abstract>
+				<keywords>Droughts;climate variability;El Ni$\tilde{n} $o-Southern Oscillation (ENSO);multivariate ENSO index (MEI);copulas;recurrence interval;conditional probability.</keywords>
+				<authors>
+					<author>
+						<name first="Poulomi" last="Ganguli">Poulomi Ganguli</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. Janga" last="Reddy">M. Janga Reddy</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email>mjreddy@civil.iitb.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-01-11</date>
+					<date type="R">2012-07-11</date>
+					<date type="A">2012-08-04</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="00" month="00" year="2000">
 			<entry hassup="0">
 				<title></title>
 				<feature></feature>
