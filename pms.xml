@@ -825,7 +825,7 @@
 				<page>0467-0470</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -839,7 +839,7 @@
 				<page>0471-0472</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -1712,7 +1712,7 @@
 				<page>0509-0512</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -1726,7 +1726,7 @@
 				<page>0513-0514</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -2632,9 +2632,9 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="2">
+			<entry hassup="0">
 				<title>A Result Concerning the Stability of some Difference Equations and its Applications</title>
-				<feature></feature>
+				<feature>Addendum</feature>
 				<page>0453-0462</page>
 				<abstract>
 					<p>In this paper, we investigate the Hyers–Ulam stability problem for the difference equation $f(x + p, y + q) - \varphi(x, y)f(x, y)-\psi(x, y) = 0$.</p>
@@ -2690,7 +2690,7 @@
 				<page>0477-0477</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -2988,7 +2988,7 @@
 				<page>0655-0660</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -3002,7 +3002,7 @@
 				<page>0661-0663</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -3020,7 +3020,7 @@
 				<page>0001-0001</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -3050,7 +3050,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="2">
+			<entry hassup="0">
 				<title>The Planar Algebra Associated to a Kac Algebra</title>
 				<feature>Special Issue: Functional Analysis and its Applications</feature>
 				<page>0015-0051</page>
@@ -3727,9 +3727,9 @@
 			</entry>
 		</issue>
 		<issue inum="04" month="11" year="2003">
-			<entry hassup="2">
+			<entry hassup="0">
 				<title>$L^1$-Convergence of Complex Double Fourier Series</title>
-				<feature></feature>
+				<feature>Addendum</feature>
 				<page>0355-0363</page>
 				<abstract>
 					<p>It is proved that the complex double Fourier series of an integrable function $f(x, y)$ with coefficients $\{c_{jk}\}$ satisfying certain conditions, will converge in $L^1$-norm. The conditions used here are the combinations of Tauberian condition of Hardy–Karamata kind and its limiting case. This paper extends the result of Bray [1] to complex double Fourier series.</p>
@@ -3814,9 +3814,9 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="2">
+			<entry hassup="0">
 				<title>Stability Estimates for $h-p$ Spectral Element Methods for General Elliptic Problems on Curvilinear Domains</title>
-				<feature></feature>
+				<feature>Addendum</feature>
 				<page>0395-0429</page>
 				<abstract>
 					<p>In  this paper we show that the $h-p$ spectral element method developed in [3,8,9] applies to elliptic problems in curvilinear polygons with mixed Neumann and Dirichlet boundary conditions provided that the Babuska–Brezzi inf-sup conditions are satisfied. We establish basic stability estimates for a non-conforming h-p spectral element method which allows for simultaneous mesh refinement and variable polynomial degree. The spectral element functions are non-conforming if the boundary conditions are Dirichlet. For problems with mixed boundary conditions they are continuous only at the vertices of the elements. We obtain a stability estimate when the spectral element functions vanish at the vertices of the elements, which is needed for parallelizing the numerical scheme. Finally, we indicate how the mesh refinement strategy and choice of polynomial degree depends on the regularity of the coefficients of the differential operator, smoothness of the sides of the polygon and the regularity of the data to obtain the maximum accuracy achievable.</p>
@@ -3899,7 +3899,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>On Howard's Conjecture in Heterogeneous Shear Flow Problem</title>
-				<feature></feature>
+				<feature>Addendum</feature>
 				<page>0451-0456</page>
 				<abstract>
 					<p>Howard's conjecture, which states that in the linear instability problem of inviscid heterogeneous parallel shear flow growth rate of an arbitrary unstable wave must approach zero as the wave length decreases to zero, is established in a mathematically rigorous fashion for plane parallel heterogeneous shear flows with negligible buoyancy force $g\beta \ll 1$ (Miles J W, \textit{J. Fluid Mech}. 10 (1961) 496–508), where $\beta$ is the basic heterogeneity distribution function).</p>
@@ -3931,7 +3931,7 @@
 				<page>0457-0461</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -3945,7 +3945,7 @@
 				<page>0463-0464</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -4161,7 +4161,7 @@
 				<page>0097-0097</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -4585,7 +4585,7 @@
 			</entry>
 		</issue>
 		<issue inum="04" month="11" year="2004">
-			<entry hassup="2">
+			<entry hassup="0">
 				<title>The Congruence Subgroup Problem</title>
 				<feature>Invited Articles</feature>
 				<page>0299-0308</page>
@@ -4829,7 +4829,7 @@
 				<page>0423-0426</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -4843,7 +4843,7 @@
 				<page>0427-0428</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -7042,7 +7042,7 @@
 				<page>0543-0548</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -7056,7 +7056,7 @@
 				<page>0549-0551</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -8282,7 +8282,7 @@
 				<page>0575-0581</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -8296,7 +8296,7 @@
 				<page>0583-0585</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -8931,7 +8931,7 @@
 				<page>0319-0320</page>
 				<abstract />
 				<keywords />
-				<allauthors>
+				<authors>
 					<author>
 						<name first="Hülya" last="Bağdatli">Hülya Bağdatli</name>
 						<affiliation></affiliation>
@@ -8942,20 +8942,21 @@
 						<affiliation></affiliation>
 						<email></email>
 					</author>
-				</allauthors>
+				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
+			</entry>
 			<entry hassup="0">
 				<title>The planar algebra associated to a Kac algebra</title>
 				<feature>Errata</feature>
 				<page>0319-0320</page>
 				<abstract />
 				<keywords />
-				<allauthors>
+				<authors>
 					<author>
 						<name first="Vijay" last="Kodiyalam">Vijay Kodiyalam</name>
 						<affiliation></affiliation>
@@ -8971,7 +8972,7 @@
 						<affiliation></affiliation>
 						<email></email>
 					</author>
-				</allauthors>
+				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -8985,13 +8986,13 @@
 				<page>0319-0320</page>
 				<abstract />
 				<keywords />
-				<allauthors>
+				<authors>
 					<author>
 						<name first="Ashish Kumar" last="Upadhyay">Ashish Kumar Upadhyay</name>
 						<affiliation>School of Basic and Applied Sciences, Guru Gobind Singh Indraprastha University, Kashmere Gate, Delhi 110 403, India.</affiliation>
 						<email>akupadhyay@ipu.edu</email>
 					</author>
-				</allauthors>
+				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -9615,7 +9616,7 @@
 				<page>0637-0643</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -9629,7 +9630,7 @@
 				<page>0645-0647</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -11310,7 +11311,7 @@
 				<page>0701-0708</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -11324,7 +11325,7 @@
 				<page>0709-0712</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -12776,7 +12777,7 @@
 				<page>0631-0637</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -12790,7 +12791,7 @@
 				<page>0639-0641</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -13907,7 +13908,7 @@
 				<page>0503-0509</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -13921,7 +13922,7 @@
 				<page>0510-0512</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -15381,7 +15382,7 @@
 				<page>0673-0680</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -15395,7 +15396,7 @@
 				<page>0681-0684</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -16682,7 +16683,7 @@
 				<page>0587-0593</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -16696,7 +16697,7 @@
 				<page>0595-0597</page>
 				<abstract />
 				<keywords />
-				<allauthors />
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -16706,7 +16707,7 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="124">%raghu, vol 124, issue 01
+	<volume vnum="124">
 		<issue inum="01" month="02" year="2014">
 			<entry hassup="0">
 				<title>Alexander Duals of Multipermutohedron Ideals</title>
@@ -16719,20 +16720,20 @@
 				<authors>
 					<author>
 						<name first="Ajay" last="Kumar">Ajay Kumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Institute of Science Education and ResearchMohali, Knowledge City, Sector 81, SAS Nagar 140 306, India</affiliation>
+						<email>ajaykumar@iisermohali.ac.in</email>
 					</author>
 					<author>
 						<name first="Chanchal" last="Kumar">Chanchal Kumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Institute of Science Education and ResearchMohali, Knowledge City, Sector 81, SAS Nagar 140 306, India</affiliation>
+						<email>chanchal@iisermohali.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-08-29</date>
+					<date type="R">2012-11-23</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16746,15 +16747,15 @@
 				<authors>
 					<author>
 						<name first="Sanjay" last="Amrutiya">Sanjay Amrutiya</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>The Institute of Mathematical Sciences, CIT Campus, Taramani, Chennai 600 113, India</affiliation>
+						<email>amrutiya@imsc.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-08-21</date>
+					<date type="R">2013-05-02</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16768,20 +16769,20 @@
 				<authors>
 					<author>
 						<name first="Hemant" last="Kalra">Hemant Kalra</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics and Computer Applications, Thapar University, Patiala 147 004, India</affiliation>
+						<email>happykalra26@gmail.com</email>
 					</author>
 					<author>
 						<name first="Deepak" last="Gumber">Deepak Gumber</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics and Computer Applications, Thapar University, Patiala 147 004, India</affiliation>
+						<email>dkgumber@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-08-29</date>
+					<date type="R">2012-11-27</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16795,20 +16796,20 @@
 				<authors>
 					<author>
 						<name first="Hatem" last="Hamrouni">Hatem Hamrouni</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Sciences at Sfax, University of Sfax, Route Soukra, B. P. 1171, 3000 Sfax, Tunisia</affiliation>
+						<email>hatemhhamrouni@voila.fr</email>
 					</author>
 					<author>
 						<name first="Salah" last="Souissi">Salah Souissi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Sciences at Monastir, University of Monastir, Avenue de l’environnement, 5019 Monastir, Tunisia</affiliation>
+						<email>salah.suissi@yahoo.fr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-08-11</date>
+					<date type="R">2013-01-27</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16824,20 +16825,20 @@
 				<authors>
 					<author>
 						<name first="Huahui" last="Yan">Huahui Yan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics and Econometrics, Hunan University, Changsha 410082, China</affiliation>
+						<email>huahuiyan@163.com</email>
 					</author>
 					<author>
 						<name first="Zhuoran" last="Du">Zhuoran Du</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics and Econometrics, Hunan University, Changsha 410082, China</affiliation>
+						<email>duzr@hnu.edu.cn</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-09-03</date>
+					<date type="R">2012-12-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16855,25 +16856,25 @@
 				<authors>
 					<author>
 						<name first="K. R." last="Prasad">K. R. Prasad</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Applied Mathematics, Andhra University, Visakhapatnam 530 003, India</affiliation>
+						<email>rajendra92@rediffmail.com</email>
 					</author>
 					<author>
 						<name first="A. Kameswara" last="Rao">A. Kameswara Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Gayatri Vidya Parishad College of Engineering for Women, Madhurawada, Visakhapatnam 530 048, India</affiliation>
+						<email>kamesh_1724@yahoo.com</email>
 					</author>
 					<author>
 						<name first="B." last="Bharathi">B. Bharathi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Gayatri Vidya Parishad College of Engineering for Women, Madhurawada, Visakhapatnam 530 048, India</affiliation>
+						<email>bharathi0401@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-08-23</date>
+					<date type="R">2013-02-28</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16887,15 +16888,15 @@
 				<authors>
 					<author>
 						<name first="Xinfeng" last="Wu">Xinfeng Wu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, China University of Mining and Technology, Beijing 100083, China</affiliation>
+						<email>wuxf@cumtb.edu.cn</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-10-22</date>
+					<date type="R">2012-12-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16909,30 +16910,30 @@
 				<authors>
 					<author>
 						<name first="A." last="Aizpuru">A. Aizpuru</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Cadiz, Puerto Real 11510, Spain</affiliation>
+						<email>Since deceased</email>
 					</author>
 					<author>
 						<name first="R." last="Armario">R. Armario</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University of Cadiz, Puerto Real 11510, Spain</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="F. J." last="Garcia-Pacheco">F. J. Garcia-Pacheco</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Cadiz, Puerto Real 11510, Spain</affiliation>
+						<email>garcia.pacheco@uca.es</email>
 					</author>
 					<author>
 						<name first="F. J." last="Perez-Fernandez">F. J. Perez-Fernandez</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Cadiz, Puerto Real 11510, Spain</affiliation>
+						<email>javier.perez@uca.es</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-08-06</date>
+					<date type="R">2012-09-07</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16946,20 +16947,20 @@
 				<authors>
 					<author>
 						<name first="Yibin" last="Feng">Yibin Feng</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, China Three Gorges University, Yichang 443002, China</affiliation>
+						<email>fengyibin001@163.com</email>
 					</author>
 					<author>
 						<name first="Weidong" last="Wang">Weidong Wang</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, China Three Gorges University, Yichang 443002, China</affiliation>
+						<email>wangwd722@163.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-11-19</date>
+					<date type="R">2013-03-18</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -16973,25 +16974,26 @@
 				<authors>
 					<author>
 						<name first="Lesya" last="Karchevska">Lesya Karchevska</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mechanics and Mathematics, Lviv National University, Universytetska st., 1, 79000 Lviv, Ukraine</affiliation>
+						<email>crazymaths@ukr.net</email>
 					</author>
 					<author>
 						<name first="Iryna" last="Peregnyak">Iryna Peregnyak</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanics and Mathematics, Lviv National University, Universytetska st., 1, 79000 Lviv, Ukraine</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Taras" last="Radul">Taras Radul</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mechanics and Mathematics, Lviv National University, Universytetska st., 1, 79000 Lviv, Ukraine</affiliation>
+						<affiliation>Institute of Mathematics, Casimirus the Great University, Bydgoszcz, Poland</affiliation>
+						<email>tarasradul@yahoo.co.uk</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-12-06</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
@@ -17007,20 +17009,20 @@
 				<authors>
 					<author>
 						<name first="Toufik" last="Mansour">Toufik Mansour</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Haifa, 3498838 Haifa, Israel</affiliation>
+						<email>tmansour@univ.haifa.ac.il</email>
 					</author>
 					<author>
 						<name first="Mark" last="Shattuck">Mark Shattuck</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Haifa, 3498838 Haifa, Israel</affiliation>
+						<email>maarkons@excite.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-06-26</date>
+					<date type="R">2013-09-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17034,20 +17036,21 @@
 				<authors>
 					<author>
 						<name first="Jhon J" last="J Bravo">Jhon J J Bravo</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Departamento de Matemáticas Universidad del Cauca, Calle 5 No 4–70, Popayán, Colombia</affiliation>
+						<email>jbravo@unicauca.edu.co</email>
 					</author>
 					<author>
 						<name first="Florian" last="Luca">Florian Luca</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Mathematical Institute, UNAM Juriquilla Juriquilla, 76230, Santiago de Querétaro, Querétaro de Arteaga, México</affiliation>
+						<affiliation>School of Mathematics, University of the Witwatersrand, P. O. Box Wits 2050, Johannesburg, South Africa</affiliation>
+						<email>fluca@matmor.unam.mx</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-29</date>
+					<date type="R">2013-05-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17061,15 +17064,15 @@
 				<authors>
 					<author>
 						<name first="Abel" last="Castorena">Abel Castorena</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Centro de Ciencias Matemáticas (Universidad Nacional Autónoma de México, Campus Morelia) Apdo. Postal 61-3 Xangari, C.P. 58089 Morelia, Michoacán, México</affiliation>
+						<email>abel@matmor.unam.mx</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-02-25</date>
+					<date type="R">2013-04-29</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17083,15 +17086,15 @@
 				<authors>
 					<author>
 						<name first="Pradeep K" last="Rai">Pradeep K Rai</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Harish-Chandra Research Institute, Chhatnag Road, Jhunsi, Allahabad 211 019, India</affiliation>
+						<email>pradeeprai@hri.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-20</date>
+					<date type="R">2013-06-14</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17105,20 +17108,20 @@
 				<authors>
 					<author>
 						<name first="Dewu" last="Yang">Dewu Yang</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics and Statistics, Henan University of Science and Technology, Luoyang 471023, People’s Republic of China</affiliation>
+						<email>172790219@qq.com</email>
 					</author>
 					<author>
 						<name first="Yudong" last="Ren">Yudong Ren</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics and Information Science, Henan University of Economics and Law, Zhengzhou 450046, People’s Republic of China</affiliation>
+						<email>yudong83@163.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-22</date>
+					<date type="R">2013-04-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17147,10 +17150,10 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">0000-00-00</date>
+					<date type="R">0000-00-00</date>
+					<date type="A">0000-00-00</date>
+					<date type="E">0000-00-00</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17164,20 +17167,20 @@
 				<authors>
 					<author>
 						<name first="Wenhua" last="Gao">Wenhua Gao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Applied Mathematics, Beijing Normal University Zhuhai, Zhuhai 519085, People’s Republic of China</affiliation>
+						<email>gaowenhua@sina.com</email>
 					</author>
 					<author>
 						<name first="Lin" last="Tang">Lin Tang</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>LMAM, School of Mathematical Sciences, Peking University, Beijing 100871, People’s Republic of China</affiliation>
+						<email>tanglin@math.pku.edu.cn</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-10-18</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17191,25 +17194,25 @@
 				<authors>
 					<author>
 						<name first="K." last="Kumar">K. Kumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Cochin University of Science and Technology (CUSAT), Cochin 682 022, India</affiliation>
+						<email>kiranbalu36@gmail.com</email>
 					</author>
 					<author>
 						<name first="M. N. N." last="Namboodiri">M. N. N. Namboodiri</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Cochin University of Science and Technology (CUSAT), Cochin 682 022, India</affiliation>
+						<email>mnnadri@gmail.com</email>
 					</author>
 					<author>
 						<name first="S." last="Serra-Capizzano">S. Serra-Capizzano</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Science and High Technology, Universita Insubria – Como Campus, via Valleggio, 11, 22100 Como, Italy</affiliation>
+						<email>stefano.serrac@uninsubria.it</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-11-08</date>
+					<date type="R">2013-05-23</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17222,16 +17225,16 @@
 				<keywords>Homogeneous operators on Hilbert space;representations of $SL(2,R)$.</keywords>
 				<authors>
 					<author>
-						<name first="Adam" last="Kor\’anyi">Adam Kor\’anyi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Adam" last="Korányi">Adam Korányi</name>
+						<affiliation>Department of Mathematics, The Graduate Center, City University of New York, New York, NY 10016, USA</affiliation>
+						<email>Adam.Koranyi@lehman.cuny.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-18</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17245,20 +17248,20 @@
 				<authors>
 					<author>
 						<name first="M. El" last="Hamma">M. El Hamma</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Sciences Aïn Chock, University of Hassan II, Casablanca, Morocco</affiliation>
+						<email>m_elhamma@yahoo.fr</email>
 					</author>
 					<author>
 						<name first="R." last="Daher">R. Daher</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Faculty of Sciences Aïn Chock, University of Hassan II, Casablanca, Morocco</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-17</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17272,15 +17275,15 @@
 				<authors>
 					<author>
 						<name first="Kui" last="Ji">Kui Ji</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Hebei Normal University, Shijiazhuang, Hebei 050016, China</affiliation>
+						<email>jikuikui@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-08</date>
+					<date type="R">2013-09-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17294,15 +17297,15 @@
 				<authors>
 					<author>
 						<name first="Suhas" last="Pandit">Suhas Pandit</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Mathematics Section, The Abdus Salam International Center for Theoretical Physics, Trieste, Italy</affiliation>
+						<email>jsuhas@gmail.com; spandit@ictp.it</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-12-05</date>
+					<date type="R">2013-03-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17316,15 +17319,15 @@
 				<authors>
 					<author>
 						<name first="Jun" last="An">Jun An</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics and Statistics, Chongqing Technology and Business University, Chongqing 400067, China</affiliation>
+						<email>scottan@sina.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-22</date>
+					<date type="R">2013-01-31</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
@@ -17340,25 +17343,25 @@
 				<authors>
 					<author>
 						<name first="A." last="Nikseresht">A. Nikseresht</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, College of Sciences, Shiraz University, 71457-44776 Shiraz, Iran</affiliation>
+						<email>ashkan_nikseresht@yahoo.com</email>
 					</author>
 					<author>
 						<name first="Z." last="Sepasdar">Z. Sepasdar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, College of Sciences, Shiraz University, 71457-44776 Shiraz, Iran</affiliation>
+						<email>zsepasdar@yahoo.com</email>
 					</author>
 					<author>
 						<name first="M. H." last="Shirdareh-Haghighi">M. H. Shirdareh-Haghighi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, College of Sciences, Shiraz University, 71457-44776 Shiraz, Iran</affiliation>
+						<email>shirdareh@susc.ac.ir</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-05-09</date>
+					<date type="R">2013-07-31</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17372,20 +17375,20 @@
 				<authors>
 					<author>
 						<name first="Qaiser" last="Mushtaq">Qaiser Mushtaq</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Quaid-i-Azam University 45320, Islamabad 144000, Pakistan</affiliation>
+						<email>pir_qmushtaq@yahoo.com</email>
 					</author>
 					<author>
 						<name first="Awais" last="Yousaf">Awais Yousaf</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Quaid-i-Azam University 45320, Islamabad 144000, Pakistan</affiliation>
+						<email>awaisysf@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-06-04</date>
+					<date type="R">2013-07-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17399,20 +17402,20 @@
 				<authors>
 					<author>
 						<name first="Refik" last="Keskin">Refik Keskin</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Sakarya University, Merkezi, 54180 Sakarya, Turkey</affiliation>
+						<email>rkeskin@sakarya.edu.tr</email>
 					</author>
 					<author>
 						<name first="Zafer" last="Şiar">Zafer Şiar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Bingöl University, Rektörlüğü, 12000 Bingöl, Turkey</affiliation>
+						<email>zsiar@bingol.edu.tr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-04-05</date>
+					<date type="R">2013-06-11</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17426,20 +17429,20 @@
 				<authors>
 					<author>
 						<name first="Sudarshan" last="Gurjar">Sudarshan Gurjar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>sgurjar@math.tifr.res.in</email>
 					</author>
 					<author>
 						<name first="Nitin" last="Nitsure">Nitin Nitsure</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>nitsure@math.tifr.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-09-26</date>
+					<date type="R">2013-07-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17453,20 +17456,20 @@
 				<authors>
 					<author>
 						<name first="Feng" last="Qi">Feng Qi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics, Inner Mongolia University for Nationalities, Tongliao City, Inner Mongolia Autonomous Region 028043, China</affiliation>
+						<email>qifeng618@hotmail.com</email>
 					</author>
 					<author>
 						<name first="Bo-Yan" last="Xi">Bo-Yan Xi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics, Inner Mongolia University for Nationalities, Tongliao City, Inner Mongolia Autonomous Region 028043, China</affiliation>
+						<email>baoyintu78@qq.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-02-16</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17480,20 +17483,20 @@
 				<authors>
 					<author>
 						<name first="Francesc" last="Tugores">Francesc Tugores</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Departamento de Matemáticas, Universidade de Vigo, 32004 Ourense, Spain</affiliation>
+						<email>ftugores@uvigo.es</email>
 					</author>
 					<author>
 						<name first="Laia" last="Tugores">Laia Tugores</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Departamento de Matemáticas, Universidade de Vigo, 32004 Ourense, Spain</affiliation>
+						<email>laiafrancina.tugores@rai.usc.es</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-02-11</date>
+					<date type="R">2013-09-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17507,20 +17510,20 @@
 				<authors>
 					<author>
 						<name first="Xiaopeng" last="Zhao">Xiaopeng Zhao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Science, Jiangnan University, Wuxi 214122, People’s Republic of China</affiliation>
+						<email>zxp032@gmail.com</email>
 					</author>
 					<author>
 						<name first="Changchun" last="Liu">Changchun Liu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Jilin University, Changchun 130012, People’s Republic of China</affiliation>
+						<email>liucc@jlu.edu.cn</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2012-08-31</date>
+					<date type="R">2013-12-10</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17534,30 +17537,30 @@
 				<authors>
 					<author>
 						<name first="Jaeyoung" last="Chung">Jaeyoung Chung</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Kunsan National University, Kunsan 573-701, Korea</affiliation>
+						<email>jychung@kunsan.ac.kr</email>
 					</author>
 					<author>
 						<name first="Heather" last="Hunt">Heather Hunt</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Louisville, Louisville, Kentucky 40292, USA</affiliation>
+						<email>hbhunt01@louisville.edu</email>
 					</author>
 					<author>
 						<name first="Allison" last="Perkins">Allison Perkins</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Louisville, Louisville, Kentucky 40292, USA</affiliation>
+						<email>amperk02@louisville.edu</email>
 					</author>
 					<author>
 						<name first="Prasanna K" last="Sahoo">Prasanna K Sahoo</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, University of Louisville, Louisville, Kentucky 40292, USA</affiliation>
+						<email>sahoo@louisville.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-01-23</date>
+					<date type="R">2013-05-29</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17571,15 +17574,15 @@
 				<authors>
 					<author>
 						<name first="Soma" last="Maity">Soma Maity</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>somamaity@math.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-05-03</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17593,15 +17596,15 @@
 				<authors>
 					<author>
 						<name first="Bing Ye" last="Wu">Bing Ye Wu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Minjiang University, Fuzhou, Fujiang 350121, China</affiliation>
+						<email>569405943@qq.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-05-01</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17615,15 +17618,15 @@
 				<authors>
 					<author>
 						<name first="Hemangi M" last="Shah">Hemangi M Shah</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Harish Chandra Research Institute, Chhatnag Road, Jhusi 211 019, India</affiliation>
+						<email>hemangimshah@hri.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-05-28</date>
+					<date type="R">2013-11-12</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17637,20 +17640,20 @@
 				<authors>
 					<author>
 						<name first="F." last="Ocak">F. Ocak</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Sciences, Karadeniz Technical University, 61080 Trabzon, Turkey</affiliation>
+						<email>filiz_math@hotmail.com</email>
 					</author>
 					<author>
 						<name first="A. A." last="Salimov">A. A. Salimov</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Faculty of Sciences, Ataturk University, 25240 Erzurum, Turkey</affiliation>
+						<email>asalimov@atauni.edu.tr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-06-11</date>
+					<date type="R">2013-08-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17669,10 +17672,10 @@
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">0000-00-00</date>
+					<date type="R">0000-00-00</date>
+					<date type="A">0000-00-00</date>
+					<date type="E">0000-00-00</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17686,30 +17689,30 @@
 				<authors>
 					<author>
 						<name first="Yu" last="Miao">Yu Miao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics and Information Science, Henan Normal University, Henan Province, 453007, China</affiliation>
+						<email>yumiao728@gmail.com</email>
 					</author>
 					<author>
 						<name first="Wenfei" last="Xu">Wenfei Xu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics and Information Science, Henan Normal University, Henan Province, 453007, China</affiliation>
+						<email>Xuwenfei1989@126.com</email>
 					</author>
 					<author>
 						<name first="Shanshan" last="Chen">Shanshan Chen</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>College of Mathematics and Information Science, Henan Normal University, Henan Province, 453007, China</affiliation>
+						<email>chenshanlucky@163.com</email>
 					</author>
 					<author>
 						<name first="Andre" last="Adler">Andre Adler</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Applied Mathematics IIT, Chicago 60657, USA</affiliation>
+						<email>adler@iit.edu</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-02-20</date>
+					<date type="R">2013-07-04</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry hassup="0">
@@ -17729,20 +17732,424 @@
 				<authors>
 					<author>
 						<name first="Rajeeva L" last="Karandikar">Rajeeva L Karandikar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Chennai Mathematical Institute, H1, SIPCOT IT Park, Siruseri 603 103, India</affiliation>
+						<email>rlk@cmi.ac.in</email>
 					</author>
 					<author>
 						<name first="B. V." last="Rao">B. V. Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Chennai Mathematical Institute, H1, SIPCOT IT Park, Siruseri 603 103, India</affiliation>
+						<email>bvrao@cmi.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-00-00</date>
-					<date type="R">2014-00-00</date>
-					<date type="A">2014-00-00</date>
-					<date type="E">2014-00-00</date>
+					<date type="M">2013-02-10</date>
+					<date type="R">2013-05-21</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="11" year="2014">
+			<entry hassup="0">
+				<title>Irrational factor races</title>
+				<feature></feature>
+				<page>0471-0479</page>
+				<abstract>
+					<p>We investigate the behavior of the sum of the irrational factor function over arithmetic progressions. We first establish a general asymptotic formula for such a sum, and then obtain some further results in the case of arithmetic progressions $3n\pm 1$.</p>
+				</abstract>
+				<keywords>Irrational factor function;races;Dirichlet $L$-functions.</keywords>
+				<authors>
+					<author>
+						<name first="Sneha" last="Chaubey">Sneha Chaubey</name>
+						<affiliation>Department of Mathematics, University of Illinois, 1409 West Green Street, Urbana, IL 61801, USA.</affiliation>
+						<email>chaubey2@illinois.edu</email>
+					</author>
+					<author>
+						<name first="Melinda" last="Lanius">Milenda Lanius</name>
+						<affiliation>Department of Mathematics, University of Illinois, 1409 West Green Street, Urbana, IL 61801, USA.</affiliation>
+						<email>lanius2@illinois.edu</email>
+					</author>
+					<author>
+						<name first="Alexandru" last="Zharescu">Alexandru Zaharescu</name>
+						<affiliation>Department of Mathematics, University of Illinois, 1409 West Green Street, Urbana, IL 61801, USA.</affiliation>
+						<email>zaharesc@illinois.edu</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-19</date>
+					<date type="R">2013-10-17</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Lenstra theorem in number fields</title>
+				<feature></feature>
+				<page>0481-0485</page>
+				<abstract>
+					<p>In this paper, we present a number field version of the celebrated result of Lenstra (<i>Math. Comp.</i> \textbf{42(165)} (1984) 331–340) in 1984. Also, this result allows us to improve a result of Wikstrőm (On the $l$-ary GCD-algorithm in rings of integers (2005) pp. 1189–1201).</p>
+				</abstract>
+				<keywords>Divisors;norm;weight;principal ideal.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Subburam">S. Subburam</name>
+						<affiliation>Department of Mathematics, SASTRA University, Thanjavur 613 401, India</affiliation>
+						<affiliation>The Institute of Mathematics, CIT Campus, Taramani, Chennai 600 113, India</affiliation>
+						<email>ssubburam@maths.sastra.edu;ssubburam@imsc.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-22</date>
+					<date type="R">2013-09-28</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Meromorphic connections on vector bundles over curves</title>
+				<feature></feature>
+				<page>0487-0496</page>
+				<abstract>
+					<p>We give a criterion for filtered vector bundles over curves to admit a filtration preserving meromorphic connection that induces a given meromorphic connection on the corresponding graded bundle.</p>
+				</abstract>
+				<keywords>Meromorphic connection;filtered bundle;Atiyah bundle.</keywords>
+				<authors>
+					<author>
+						<name first="Indranil" last="Biswas">Indranil Biswas</name>
+						<affiliation>School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005, India</affiliation>
+						<email>indranil@math.tifr.res.in</email>
+					</author>
+					<author>
+						<name first="Viktoria" last="Heu">Viktoria Heu</name>
+						<affiliation>Institut de Recherche Mathématique Avancée, UMR 7501, 7 rue René-Descartes, 67084 Strasbourg Cedex, France</affiliation>
+						<email>heu@math.unistra.fr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-17</date>
+					<date type="R">2013-10-20</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An Engel condition with an additive mapping in semiprime rings</title>
+				<feature></feature>
+				<page>0497-0500</page>
+				<abstract>
+					<p>The main purpose of this paper is to prove the following result: Let $n \gt 1$ be a fixed integer, let $R$ be a $n!$-torsion free semiprime ring, and let $f : R \to R$ be an additive mapping satisfying the relation $[f (x), x]_{n} = [[... [[f(x),x],x],...], x] = 0$ for all $x \in R$. In this case $[f(x), x] = 0$ is fulfilled for all $x \in R$. Since any semisimple Banach algebra (for example, $C^{\ast}$ algebra) is semiprime, this purely algebraic result might be of some interest from functional analysis point of view.</p>
+				</abstract>
+				<keywords>Prime ring; semiprime ring; additive mapping; derivation; commuting mapping; centralizing mapping; functional identity.</keywords>
+				<authors>
+					<author>
+						<name first="Maja" last="Fošner">Maja Fošner</name>
+						<affiliation>Faculty of Logistics, University of Maribor, Mariborska cesta 7, 3000 Celje, Slovenia</affiliation>
+						<email>maja.fosner@uni-mb.si</email>
+					</author>
+					<author>
+						<name first="Nadeem Ur" last="Rehman">Nadeem Ur Rehman</name>
+						<affiliation>Department of Mathematics, Aligarh Muslim University, Aligarh 202 002, India</affiliation>
+						<email>rehman100@gmail.com</email>
+					</author>
+					<author>
+						<name first="Joso" last="Vukman">Joso Vukman</name>
+						<affiliation>Department of Mathematics, Physics and Mechanics, University of Maribor, Gosposvetska 84, 2000 Maribor, Slovenia</affiliation>
+						<email>joso.vukman@uni-mb.si</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-16</date>
+					<date type="R">2013-10-19</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Finite groups all of whose minimal subgroups are $NE^{\ast}$-subgroups</title>
+				<feature></feature>
+				<page>0501-0509</page>
+				<abstract>
+					<p>Let $G$ be a finite group. A subgroup $H$ of $G$ is called an $NE$-subgroup of $G$ if it satisfies $H^G \cap N_{G}(H) = H$. A subgroup $H$ of $G$ is said to be a $NE^{\ast}$-subgroup of $G$ if there exists a subnormal subgroup $T$ of $G$ such that $G = HT$ and $H \cap T$ is a $NE$-subgroup of $G$. In this article, we investigate the structure of $G$ under the assumption that subgroups of prime order are $NE^{\ast}$-subgroups of $G$. The finite groups, all of whose minimal subgroups of the generalized Fitting subgroup are $NE^{\ast}$-subgroups are classified.</p>
+				</abstract>
+				<keywords>$NE$-subgroup;$NE^{\ast}$-subgroup;the generalized fitting subgroup;saturated formation.</keywords>
+				<authors>
+					<author>
+						<name first="Yonggang" last="Li">Yonggang Li</name>
+						<affiliation>Lijiang College of Guangxi Normal University, Guangxi, Guilin 541006, People’s Republic of China</affiliation>
+						<email>ygli@mailbox.gxnu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Xianggui" last="Zhong">Xianggui Zhong</name>
+						<affiliation>Department of Mathematics, Guangxi Normal University, Guangxi, Guilin 541004, People’s Republic of China</affiliation>
+						<email>xgzhong@mailbox.gxnu.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-10</date>
+					<date type="R">2013-11-24</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A complete classification of minimal non-$PS$-groups</title>
+				<feature></feature>
+				<page>0511-0516</page>
+				<abstract>
+					<p>Let $G$ be a finite group. A subgroup $H$ of $G$ is called $s$-permutable in $G$ if it permutes with every Sylow subgroup of $G$, and $G$ is called a $PS$-group if all minimal subgroups and cyclic subgroups with order 4 of $G$ are $s$-permutable in $G$. In this paper, we give a complete classification of finite groups which are not $PS$-groups but their proper subgroups are all $PS$-groups.</p>
+				</abstract>
+				<keywords>$PS$-groups;minimal non-$PS$-groups;supersolvable groups;power automorphisms.</keywords>
+				<authors>
+					<author>
+						<name first="Pengfei" last="Guo">Pengfei Guo</name>
+						<affiliation>School of Mathematics and Information Engineering, Lianyungang Normal College, Lianyungang 222006, People’s Republic of China</affiliation>
+						<affiliation>Department of Civil and Architectural Engineering, City University of Hong Kong, Hong Kong 999077, People’s Republic of China</affiliation>
+						<email>guopf999@163.com</email>
+					</author>
+					<author>
+						<name first="Junxin" last="Wang">Junxin Wang</name>
+						<affiliation>Department of Mathematics, Shanxi University of Finance and Economics, Taiyuan 030006, People’s Republic of China</affiliation>
+						<email>wangjunxin660712@163.com</email>
+					</author>
+					<author>
+						<name first="Hailiang" last="Zhang">Hailiang Zhang</name>
+						<affiliation>Department of Mathematics, Zhejiang Ocean University, Zhoushan 316000, People’s Republic of China</affiliation>
+						<email>hlzhang@zjou.edu.cn</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-02-16</date>
+					<date type="R">2013-07-31</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On $A$-nilpotent abelian groups</title>
+				<feature></feature>
+				<page>0517-0525</page>
+				<abstract>
+					<p>Let $G$ be a group and $A = \Aut(G)$ be the group of automorphisms of $G$. Then, the element $[g, \alpha] = g^{-1}\alpha(g)$ is an autocommutator of $g \in G$ and $\alpha \in A$. Hence, for any natural number $m$ the $m$-th autocommutator subgroup of $G$ is defined as</p>
+					<p>$K_{m}(G)=\langle [g,\alpha_{1},\ldots,\alpha_{m}]|g\in G,\alpha_{1},\ldots,\alpha_{m}\in A\rangle$,</p>
+					<p>where $[g, \alpha_{1}, \alpha_{2},\ldots, \alpha_{m}] = [[g,\alpha_{1},\ldots,\alpha_{m−1}], \alpha_{m}]$. In this paper, we introduce the new notion of $A$-nilpotent groups and classify all abelian groups which are $A$-nilpotent groups.</p>
+				</abstract>
+				<keywords>Automorphism;lower autocentral series;abelian groups.</keywords>
+				<authors>
+					<author>
+						<name first="Mohammad Mehdi" last="Nasrabadi">Mohammad Mehdi Nasrabadi</name>
+						<affiliation>Department of Mathematics, University of Birjand, Birjand, Iran</affiliation>
+						<email>mnasrabadi@birjand.ac.ir</email>
+					</author>
+					<author>
+						<name first="Ali" last="Gholamian">Ali Gholamian</name>
+						<affiliation>Department of Mathematics, University of Birjand, Birjand, Iran</affiliation>
+						<email>ali.ghfath@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-17</date>
+					<date type="R">2013-08-30</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A double inequality for bounding Toader mean by the centroidal mean</title>
+				<feature></feature>
+				<page>0527-0531</page>
+				<abstract>
+					<p>In this paper, the authors find the best numbers $\alpha$ and $\beta$ such that $\overline{C}(\alpha a+ (1 - \alpha)b$, $\alpha b + (1 - \alpha)a) \lt T (a, b) \lt \overline{C} (\beta a + (1 - \beta)b, \beta b + (1 - \beta)a)$ for all $a$, $b \gt 0$ with $a \neq b$, where $\overline{C}(a, b) = \frac{2(a^{2}+ab+b^{2})}{3(a+b)}$ and $T(a, b) = \frac{2}{\pi} \int^{\pi/2}_{0}\sqrt{a^{2}\cos^{2}\theta + b^{2}\sin^{2} \theta} {\rm d}\theta$ denote respectively the centroidal mean and Toader mean of two positive numbers $a$ and $b$.</p>
+				</abstract>
+				<keywords>Toader mean;centroidal mean;complete elliptic integral;double inequality.</keywords>
+				<authors>
+					<author>
+						<name first="Yun" last="Hua">Yun Hua</name>
+						<affiliation>Department of Information Engineering, Weihai Vocational College, Weihai City, Shandong Province 264210, China</affiliation>
+						<email>xxgcxhy@163.com</email>
+					</author>
+					<author>
+						<name first="Feng" last="Qi">Feng Qi</name>
+						<affiliation>College of Mathematics, Inner Mongolia University for Nationalities, Tongliao City, Inner Mongolia Autonomous Region 028043, China</affiliation>
+						<email>qifeng618@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-19</date>
+					<date type="R">2014-02-05</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Zeros and uniqueness of $Q$-difference polynomials of meromorphic functions with zero order</feature>
+				<page>0533-0549</page>
+				<abstract>
+					<p>In this paper, we investigate the value distribution of $q$-difference polynomials of meromorphic function of finite logarithmic order, and study the zero distribution of difference-differential polynomials $[f^{n}(z)f (qz + c)]^{(k)}$ and $[f^{n}(z)(f (qz + c) - f (z))]^{(k)}$, where $f(z)$ is a transcendental function of zero order. The uniqueness problem of difference-differential polynomials is also considered.</p>
+				</abstract>
+				<keywords>Meromorphic functions;Nevanlinna theory;logarithmic order;uniqueness problem;difference-differential polynomial.</keywords>
+				<authors>
+					<author>
+						<name first="Ting-Bin" last="Cao">Ting-Bin Cao</name>
+						<affiliation>Department of Mathematics, Nanchang University, Nanchang, Jiangxi 330031, People’s Republic of China</affiliation>
+						<email>tbcao@ncu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Kai" last="Liu">Kai Liu</name>
+						<affiliation>Department of Mathematics, Nanchang University, Nanchang, Jiangxi 330031, People’s Republic of China</affiliation>
+						<email>liukai418@126.com</email>
+					</author>
+					<author>
+						<name first="Na" last="Xu">Na Xu</name>
+						<affiliation>Department of Mathematics, Nanchang University, Nanchang, Jiangxi 330031, People’s Republic of China</affiliation>
+						<email>xuna406@163.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-02-19</date>
+					<date type="R">2013-10-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hausdorff dimension of the boundary of the immediate basin of infinity of McMullen maps</title>
+				<feature></feature>
+				<page>0551-0562</page>
+				<abstract>
+					<p>We give an asymptotic formula of the Hausdorff dimension of the boundary of the immediate basin of infinity of McMullen maps $f_{\lambda}(z) = z^{d} + \lambda/z^{d}$, where $d \geq 3$ and $\lambda$ is small.</p>
+				</abstract>
+				<keywords>Hausdorff dimension;Julia sets;McMullen maps.</keywords>
+				<authors>
+					<author>
+						<name first="Xiaoguang" last="Wang">Xiaoguang Wang</name>
+						<affiliation>Department of Mathematics, Zhejiang University, Hangzhou 310027, People’s Republic of China</affiliation>
+						<email>wxg688@163.com</email>
+					</author>
+					<author>
+						<name first="Fei" last="Yang">Fei Yang</name>
+						<affiliation>Department of Mathematics, Nanjing University, Nanjing 210093, People’s Republic of China</affiliation>
+						<email>yangfei_math@163.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-16</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On two functional equations originating from number theory</title>
+				<feature></feature>
+				<page>0563-0572</page>
+				<abstract>
+					<p>Reducing the functional equations introduced in <i>Proc. Indian Acad. Sci. (Math. Sci.)</i> \textbf{113(2)} (2003) 91–98 and in <i>Appl. Math. Lett.</i> \textbf{21} (2008) 974–977 to equations in complex variables and quaternions, we find general solutions of the equations. We also obtain the stability of the equations.</p>
+				</abstract>
+				<keywords>Exponential type functional equation;multiplicative function;quaternion;stability.</keywords>
+				<authors>
+					<author>
+						<name first="Jaeyoung" last="Chung">Jaeyoung Chung</name>
+						<affiliation>Department of Mathematics, Kunsan National University, Kunsan, 573-701, Korea</affiliation>
+						<email>jychung@kunsan.ac.kr</email>
+					</author>
+					<author>
+						<name first="Jeongwook" last="Chang">Jeongwook Chang</name>
+						<affiliation>Department of Mathematics Education, Dankook University, Yongin 448-701, Korea</affiliation>
+						<email>jchang@dankook.ac.kr</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-06-27</date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A sharp Rogers–Shephard type inequality for Orlicz-difference body of planar convex bodies</title>
+				<feature></feature>
+				<page>0573-0580</page>
+				<abstract>
+					<p>In this paper, we prove a sharp Rogers–Shephard type inequality for the Orlicz-difference body of planar convex bodies, which extend the works of Bianchini and Colesanti (<i>Proc. Amer. Math. Soc.</i> \text{138(7)} (2008) 2575–2582).</p>
+				</abstract>
+				<keywords>Rogers–Shephard type inequality;difference body.</keywords>
+				<authors>
+					<author>
+						<name first="Hailin" last="Jin">Hailin Jin</name>
+						<affiliation>Department of Mathematics, Suzhou University of Science and Technology, Suzhou, 215009, China</affiliation>
+						<email>ahjhl@sohu.com</email>
+					</author>
+					<author>
+						<name first="Shufeng" last="Yuan">Shufeng Yuan</name>
+						<affiliation>Shangyu College, Shaoxing University, Shaoxing, 312300, China</affiliation>
+						<email>yuanshufeng2003@163.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-05</date>
+					<date type="R">2013-12-12</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nash equilibria via duality and homological selection</title>
+				<feature></feature>
+				<page>0581-0602</page>
+				<abstract>
+					<p>Given a multifunction from $X$ to the $k$-fold symmetric product Sym$_{k|(X)$, we use the Dold–Thom theorem to establish a homological selection theorem. This is used to establish existence of Nash equilibria. Cost functions in problems concerning the existence of Nash equilibria are traditionally multilinear in the mixed strategies. The main aim of this paper is to relax the hypothesis of multilinearity. We use basic intersection theory, Poincaré duality in addition to the Dold–Thom theorem.</p>
+				</abstract>
+				<keywords>Nash equilibria;Dold–Thom theorem;homological selection.</keywords>
+				<authors>
+					<author>
+						<name first="Arnab" last="Basu">Arnab Basu</name>
+						<affiliation>Quantitative Methods and Information Systems Area, Indian Institute of Management, Bangalore 560 076, India</affiliation>
+						<email>arnab.basu@iimb.ernet.in</email>
+					</author>
+					<author>
+						<name first="Samik" last="Basu">Samik Basu</name>
+						<affiliation>RKM Vivekananda University, Belur Math, West Bengal 711 202, India</affiliation>
+						<email>samik.basu2@gmail.com;samik@rkmvu.ac.in</email>
+					</author>
+					<author>
+						<name first="Mahan" last="MJ">Mahan MJ</name>
+						<affiliation>RKM Vivekananda University, Belur Math, West Bengal 711 202, India</affiliation>
+						<email>mahan.mj@gmail.com;mahan@rkmvu.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-23</date>
+					<date type="R">2013-11-06</date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Limit distributions of random walks on stochastic matrices</title>
+				<feature></feature>
+				<page>0603-0612</page>
+				<abstract>
+					<p>Problems similar to <i>Ann. Prob.</i> \textbf{22} (1994) 424–430 and <i>J. Appl. Prob.</i> \textbf{23} (1986) 1019–1024 are considered here. The limit distribution of the sequence $X_{n}X_{n−1}\ldots X_{1}$, where $(X_{n})_{n\geq 1}$ is a sequence of i.i.d. $2 \times 2$ stochastic matrices with each $X_{n}$ distributed as $\mu$, is identified here in a number of discrete situations. A general method is presented and it covers the cases when the random components $C_{n}$ and $D_{n}$ (not necessarily independent), $(C_{n}, D_{n})$ being the first column of $X_{n}$, have the same (or different) Bernoulli distributions. Thus $(C_{n}, D_{n})$ is valued in $\{0, r\}^{2}$, where $r$ is a positive real number. If for a given positive real $r$, with $0 \lt r \leq \frac{1}{2}$, $r^{-1}C_{n}$ and $r^{-1}D_{n}$ are each Bernoulli with parameters $p_{1}$ and $p_{2}$ respectively, $0 \lt p_{1}$, $p_{2} \lt 1$ (which means $C_{n}\sim p_{1}\delta_{\{r\}} + (1 - p_{1})\delta_{\{0\}}$ and $D_{n} \sim p_{2}\delta_{\{r\}} + (1 - p_{2})\delta_{\{0\}}$), then it is well known that the weak limit $\lambda$ of the sequence $\mu^{n}$ exists whose support is contained in the set of all $2 \times 2$ rank one stochastic matrices. We show that $S(\lambda)$, the support of $\lambda$, consists of the end points of a countable number of disjoint open intervals and we have calculated the $\lambda$-measure of each such point. To the best of our knowledge, these results are new.</p>
+				</abstract>
+				<keywords>Random walk;stochastic matrices;limiting measure.</keywords>
+				<authors>
+					<author>
+						<name first="Santanu" last="Chakraborty">Santanu Chakraborty</name>
+						<affiliation>Department of Mathematics, University of Texas – Pan American, 1201 West University Drive, Edinburg, Texas 78539, USA</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Arunava" last="Mukherjea">Arunava Mukherjea</name>
+						<affiliation>1216 La Brad Lane, Tampa, Florida 33613, USA</affiliation>
+						<email>arunava.mukherjea@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-05-18</date>
+					<date type="R">2013-12-18</date>
+					<date type="A"></date>
+					<date type="E"></date>
 				</dates>
 			</entry>
 		</issue>
