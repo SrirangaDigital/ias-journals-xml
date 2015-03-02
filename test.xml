@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cs SYSTEM "jphy.dtd">
+
+<jphy>
+	<volume vnum="054">
+		<issue inum="01" month="01" year="2000">
+			<entry issup="0">
+				<title>Preface</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<abstract />
+				<keywords />
+				<authors>
+					<author>
+						<name first="Anjan S." last="Joshipura">Anjan S. Joshipura</name>
+						<affiliation>Theory Group, Physical Research Laboratory, Ahmedabad 380 009</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Palash B." last="Pal">Palash B. Pal</name>
+						<affiliation>Theoretical Nuclear Physics Division, Saha Institute of Nuclear Physics, Calcutta 700 064</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+		</issue>
+	</volume>
+</jphy>
+
