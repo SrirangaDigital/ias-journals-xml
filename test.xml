@@ -29,6 +29,28 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
+			<entry issup="0">
+				<title>Neutrino mass and oscillation: An introductory review</title>
+				<feature></feature>
+				<page>0003-0020</page>
+				<abstract>
+					<p>After a brief introduction to neutrino mass via the see-saw model I discuss neutrinomixing and oscillation, first in vacuum and then its matter enhancement. Then the solar and atmospheric neutrino oscillation data are briefly reviewed. Finally I discuss the problem of reconciling hierarchical neutrino masses with at least one large mixing, as implied by these data. A minimal see-saw model for reconciling the two is discussed.</p>
+				</abstract>
+				<keywords>Neutrino;mass;oscillation.</keywords>
+				<authors>
+					<author>
+						<name first="D. P." last="Roy">D. P. Roy</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
 		</issue>
 	</volume>
 </jphy>
