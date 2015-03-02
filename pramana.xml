@@ -13,12 +13,12 @@
 				<authors>
 					<author>
 						<name first="Anjan S." last="Joshipura">Anjan S. Joshipura</name>
-						<affiliation></affiliation>
+						<affiliation>Theory Group, Physical Research Laboratory, Ahmedabad 380 009</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Palash B." last="Pal">Palash B. Pal</name>
-						<affiliation></affiliation>
+						<affiliation>Theoretical Nuclear Physics Division, Saha Institute of Nuclear Physics, Calcutta 700 064</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -36,11 +36,11 @@
 				<abstract>
 					<p>After a brief introduction to neutrino mass via the see-saw model I discuss neutrinomixing and oscillation, first in vacuum and then its matter enhancement. Then the solar and atmospheric neutrino oscillation data are briefly reviewed. Finally I discuss the problem of reconciling hierarchical neutrino masses with at least one large mixing, as implied by these data. A minimal see-saw model for reconciling the two is discussed.</p>
 				</abstract>
-				<keywords>Neutrino; mass; oscillation.</keywords>
+				<keywords>Neutrino;mass;oscillation.</keywords>
 				<authors>
 					<author>
 						<name first="D. P." last="Roy">D. P. Roy</name>
-						<affiliation></affiliation>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -58,11 +58,11 @@
 				<abstract>
 					<p>Neutrinos travel through matter with negligible absorption except in very extreme situations. However, the index of refraction of neutrinos can play an important role in the oscillation of one type of neutrino to another when passing through matter.</p>
 				</abstract>
-				<keywords>Neutrino oscillations; solar neutrino problem.</keywords>
+				<keywords>Neutrino oscillations;solar neutrino problem.</keywords>
 				<authors>
 					<author>
 						<name first="L." last="Wolfenstein">L. Wolfenstein</name>
-						<affiliation></affiliation>
+						<affiliation>Carnegie Mellon University, Pittsburgh, PA 15213, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -80,11 +80,11 @@
 				<abstract>
 					<p>I discuss the status of the accepted solutions to the solar neutrino problem in light of the super-Kamiokande data.</p>
 				</abstract>
-				<keywords>Solar neutrinos; super-Kamiokande.</keywords>
+				<keywords>Solar neutrinos;super-Kamiokande.</keywords>
 				<authors>
 					<author>
 						<name first="S. Uma" last="Sankar">S. Uma Sankar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Physics, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -102,9 +102,13 @@
 				<abstract>
 					<p>A brief introduction to the phenomena of vacuum neutrino oscillations and resonant flavour conversion is presented with a heavy pedagogic leaning. Variants of these ideas, e.g., neutrino helicity flip in a magnetic field, violation of the equivalence principle, etc. are outlined. A few vexing issues pertaining to the quantum mechanics of neutrino oscillations are discussed. Expectations from some of the future experiments are summarized.</p>
 				</abstract>
-				<keywords>Neutrino; oscillation. </keywords>
+				<keywords>Neutrino;oscillation.</keywords>
 				<authors>
-					<author lname="Raychaudhuri" fname="Amitava" isfellow="0">Amitava Raychaudhuri</author>
+					<author>
+						<name first="Amitava" last="Raychaudhuri">Amitava Raychaudhuri</name>
+						<affiliation>Department of Physics, University of Calcutta, 92 Acharya Prafulla Chandra Road, Calcutta 700 009, India</affiliation>
+						<email>amitava@cubmb.ernet.in</email>
+					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
@@ -120,12 +124,13 @@
 				<abstract>
 					<p>Neutrino oscillations in matter can exhibit a specific resonance enhancement - parametric resonance, which is different from the MSW resonance. Oscillations of atmospheric and solar neutrinos inside the earth can undergo parametric enhancement when neutrino trajectories cross the core of the earth. In this paper we review the parametric resonance of neutrino oscillations in matter. In particular, physical interpretation of the effect and the prospects of its experimental observation in oscillations of solar and atmospheric neutrinos in the earth are discussed.</p>
 				</abstract>
-				<keywords>Neutrino oscillations; parametric resonance.</keywords>
+				<keywords>Neutrino oscillations;parametric resonance.</keywords>
 				<authors>
 					<author>
 						<name first="E. Kh." last="Akhmedov">E. Kh. Akhmedov</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>On leave from National Research Centre, Kurchatov Institute, Moscow 123182, Russia</affiliation>
+						<affiliation>Centro de Física das Interacções Fundamentais (CFIF), Departamento de Fisica, Instituto Superior Técnico, Av. Rovisco Pais, P-1049-001 Lisboa, Portugal</affiliation>
+						<email>akhmedov@gtae2.ist.utl.pt</email>
 					</author>
 				</authors>
 				<dates>
@@ -142,9 +147,13 @@
 				<abstract>
 					<p>I review explanations for the three neutrino anomalies (solar, atmospheric and LSND) which go beyond the `conventional' neutrino oscillations induced by mass-mixing. Several of these require non-zero neutrino masses as well.</p>
 				</abstract>
-				<keywords>Neutrino; decays.</keywords>
+				<keywords>Neutrino;decays.</keywords>
 				<authors>
-					<author lname="Pakvasa" fname="Sandip" isfellow="0">Sandip Pakvasa</author>
+					<author>
+						<name first="Sandip" last="Pakvasa">Sandip Pakvasa</name>
+						<affiliation>Department of Physics and Astronomy, University of Hawaii, Honolulu, HI 96822, USA</affiliation>
+						<email></email>
+					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
@@ -160,11 +169,11 @@
 				<abstract>
 					<p>I start by defining the cosmological parameters $H_{0}$, $\Omega_{m}$ and $\Omega_{\Lambda}$. Then I show how the age of the universe depends on them, followed by the evolution of the scale parameter of the universe for various values of the density parameters. Then I define strategies for measuring them, and show the results for the recent determination of these parameters from measurements on supernovas of type 1a. Implications for particle physics is briefly discussed at the end.</p>
 				</abstract>
-				<keywords>Hubble expansion; cosmological constant; supernova.</keywords>
+				<keywords>Hubble expansion;cosmological constant;supernova.</keywords>
 				<authors>
 					<author>
 						<name first="Palash B." last="Pal">Palash B. Pal</name>
-						<affiliation></affiliation>
+						<affiliation>Saha Institute of Nuclear Physics, 1/AF Bidhan-Nagar, Calcutta 700 064, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -182,11 +191,11 @@
 				<abstract>
 					<p>I discuss basic theory of effect of the properties of the cosmological relict neutrinos on the observations ofthe cosmic microwave background anisotropy.</p>
 				</abstract>
-				<keywords>Cosmology; cosmic microwave background; neutrino; dark matter</keywords>
+				<keywords>Cosmology;cosmic microwave background;neutrino;dark matter</keywords>
 				<authors>
 					<author>
 						<name first="Subhendra" last="Mohanty">Subhendra Mohanty</name>
-						<affiliation></affiliation>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -204,11 +213,11 @@
 				<abstract>
 					<p>Majorana masses of the neutrino implies lepton number violation and is intimately related to the lepton asymmetry of the universe, which gets related to the baryon asymmetry of the universe in the presence of the sphalerons during the electroweak phase transition. Assuming that the baryon asymmetry of the universe is generated before the electroweak phase transition, it is possible to discriminate different classes of models of neutrino masses. While see-saw mechanism and the triplet Higgs mechanism are preferred, the Zee-type radiative models and theR-parity breaking models requires additional inputs to generate baryon asymmetry of the universe during the electroweak phase transition.</p>
 				</abstract>
-				<keywords>Neutrino masses; lepton number violation; baryon asymmetry</keywords>
+				<keywords>Neutrino masses;lepton number violation;baryon asymmetry</keywords>
 				<authors>
 					<author>
 						<name first="Utpal" last="Sarkar">Utpal Sarkar</name>
-						<affiliation></affiliation>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -226,11 +235,11 @@
 				<abstract>
 					<p>The observed deﬁcits in the solar and atmospheric neutrino ﬂuxes along with the accelerator results on neutrino oscillations signiﬁcantly constrain possible mass and mixing patterns among neutrinos. We discuss possible patterns emerging from the experimental results and review theoretical attempts to understand them.</p>
 				</abstract>
-				<keywords>Neutrino masses and mixing; seesaw model.</keywords>
+				<keywords>Neutrino masses and mixing;seesaw model.</keywords>
 				<authors>
 					<author>
 						<name first="Anjan S." last="Joshipura">Anjan S. Joshipura</name>
-						<affiliation></affiliation>
+						<affiliation>Theoretical Physics Group, Physical Research Laboratory, Navarangpura, Ahmedabad 380 009, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -248,11 +257,11 @@
 				<abstract>
 					<p>We discuss the various sources of neutrino masses in supersymmetric standard models with explicit lepton number violation. We show that the bilinear lepton number violating soft terms in models with either bilinear or trilinear lepton number violating couplings in the superpotential, play an important role in determining the neutrino mass spectrum. A comparative study of the neutrino mass spectrum and its implications for the present neutrino anomalies in these models is presented.</p>
 				</abstract>
-				<keywords>$R$-parity violation; neutrino masses.</keywords>
+				<keywords>$R$-parity violation;neutrino masses.</keywords>
 				<authors>
 					<author>
 						<name first="Sudhir K." last="Vempati">Sudhir K. Vempati</name>
-						<affiliation></affiliation>
+						<affiliation>Theoretical Physics Group, Physical Research Laboratory, Navarangpura, Ahmedabad 380 009, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -270,11 +279,11 @@
 				<abstract>
 					<p>Motivated by the recent super-Kamiokande results on atmospheric neutrinos, we incorporate massive neutrinos, with large angle oscillation between the second and third generations, in a theory with $R$-parity violating supersymmetry. The general features of such a theory are brieﬂy reviewed. We emphasize its testability through the observation of comparable numbers of muons and taus, produced together with the $W$-boson, in decays of the lightest neutralino. A distinctly measurable decay gap is anotherremarkable feature of such a scenario.</p> 
 				</abstract>
-				<keywords>Neutrino masses; $R$-parity violation</keywords>
+				<keywords>Neutrino masses;$R$-parity violation</keywords>
 				<authors>
 					<author>
-						<name first="Mukhopadhyaya" last="Biswarup">Mukhopadhyaya Biswarup</name>
-						<affiliation></affiliation>
+						<name first="Biswarup" last="Mukhopadhyaya">Biswarup Mukhopadhyaya</name>
+						<affiliation>Mehta Research Institute, Chhatnag Road, Jhusi, Allahabad 211 019, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -292,11 +301,11 @@
 				<abstract>
 					<p>We summarize the constraints on three ﬂavor neutrino mixing coming from data. We ﬁrst map out the allowed region in the three neutrino parameter space using solar and atmospheric neutrino data. We then incorporate the results of reactor and long baseline experiments in our analysis and show that the parameter space is drastically reduced. We conclude by pointing out that the results of Borexino and SNO will further help in constraining the parameter space.</p>
 				</abstract>
-				<keywords>Neutrino; oscillations; parameters.</keywords>
+				<keywords>Neutrino;oscillations;parameters.</keywords>
 				<authors>
 					<author>
 						<name first="Mohan" last="Narayan">Mohan Narayan</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Physics, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -314,11 +323,11 @@
 				<abstract>
 					<p>In this article I review the constraints on neutrino mass and mixing coming from type-II supernovae. The bounds obtained on these parameters from shock reheating, $r$-process nucleosynthesis and from SN1987A are discussed. Given the current constraints on neutrino mass and mixing the effect of oscillations of neutrinos from a nearby supernova explosion in future detectors will also be discussed.</p>
 				</abstract>
-				<keywords>Neutrino oscillations; supernova; $r$-processes.</keywords>
+				<keywords>Neutrino oscillations;supernova;$r$-processes.</keywords>
 				<authors>
 					<author>
 						<name first="Srubabati" last="Goswami">Srubabati Goswami</name>
-						<affiliation></affiliation>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -340,7 +349,7 @@
 				<authors>
 					<author>
 						<name first="Debasish" last="Majumdar">Debasish Majumdar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Physics, University of Calcutta, 92 Acharya Prafulla Chandra Road, Calcutta 700 009, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -358,12 +367,12 @@
 				<abstract>
 					<p>We discuss the main features of the ﬁeld-theoretical approach to neutrino oscillations where one combines neutrino production and detection processes in a single Feynman graph. The ‘oscillating neutrinos’ are represented by inner lines of this graph and appear in the calculation of the cross section of the total process as propagators of the neutrino mass eigenﬁelds. We show that this ﬁeld-theoretical approach leads to a transparent treatment of neutrino oscillations without ambiguities and provides the correct answer in cases where the standard approach fails.</p>
 				</abstract>
-				<keywords>Neutrino mass; laboratory experiments on neutrino mass; ﬁeld theory</keywords>
+				<keywords>Neutrino mass;laboratory experiments on neutrino mass;ﬁeld theory</keywords>
 				<authors>
 					<author>
 						<name first="P." last="Stockinger">P. Stockinger</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Theory Group, Physical Research Laboratory, Ahmedabad 380 009, India</affiliation>
+						<email>stocki@prl.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -376,33 +385,34 @@
 		</issue>
 		<issue inum="02" month="02" year="2000">
 			<entry issup="0">
-				<title></title>
+				<title>Static charged spheres with anisotropic pressure in general relativity</title>
 				<feature>Research Articles</feature>
 				<page>0215-0225</page>
 				<abstract>
 					<p>We report a generalization of our earlier formalism [Pramana, 54, 663 (1998)] to obtain exact solutions of Einstein–Maxwell's equations for static spheres ﬁlled with a charged ﬂuid having anisotropic pressure and of null conductivity. Deﬁning new variables: $\omega = (4\pi/3)(\rho+\epsilon)r^{2}$, $u=4\pi \xi r^{2}$, $v_{r}=4\pi p_{r}r^{2}$, $v_{\perp}=4\pi p_{\perp}r^{2}[\rho,\xi(=-(1/2)F_{14}F^{14})$, $p_{r}$, $p_{\perp}$ being respectively the energy densities of matter and electrostatic ﬁelds, radial and transverse ﬂuid pressures whereas $\epsilon$ denotes the eigenvalue of the conformal Weyl tensor and interpreted as the energy density of the free gravitational ﬁeld], we have recast Einstein's ﬁeld equations into a form easy to integrate. Since the system is underdetermined we make the following assumptions to solve the ﬁeld equations (i) $u=v_{r}=(a^{2}/2\kappa)r^{n+2}$, $v_{\perp}=k_{1}v_{r}$, $w=k_{2}v_{r}$; $a^{2}$, $n(>0)$, $k_{1}$, $k_{2}$ being constants with $\kappa=((k_{1}+2)/3+k_{2})$ and (ii) $w+u=(b^{2}/2)r^{n+2}$, $u=v_{r}$, $v_{\perp}-v_{r}=k$, with $b$ and $k$ as constants. In both cases the ﬁeld equations are integrated completely. The ﬁrst solution is regular in the metric as well as physical variables for all values of $n>0$. Even though the second solution contains terms like $k/r^2$ since $Q(0) = 0$ it is argued that the pressure anisotropy, caused by the electric ﬂux near the centre, can be made to vanish reducing it to the generalized Cooperstock–de la Cruz solution given in [14]. The interior solutions are shown to match with the exterior Reissner–Nordstrom solution over a ﬁxed boundary.</p>
 				</abstract>
-				<keywords>Charged static spheres; energy density of the free gravitational ﬁeld; anisotropic pressure.</keywords>
+				<keywords>Charged static spheres;energy density of the free gravitational ﬁeld;anisotropic pressure.</keywords>
 				<authors>
 					<author>
 						<name first="J. Krishna" last="Rao">J. Krishna Rao</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Bhavnagar University, Bhavnagar 364 002, India</affiliation>
+						<affiliation>302, Surya Enclave, Asif Nagar, Mehdipatnam, Hyderabad 500 028, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="M." last="Annapurna">M. Annapurna</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Vasavi Engineering College, Hyderabad 500 031, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="M. M." last="Trivedi">M. M. Trivedi</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Bhavnagar University, Bhavnagar 364 002, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1998-12-14</date>
+					<date type="R">1999-11-11</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -414,22 +424,22 @@
 				<abstract>
 					<p>Using the heavy quark approximation, we have studied the nonleptonic decay mode $\Lambda_{b}\to \Lambda_{c}a_{1}$. We have included nonfactorizable contributions as well as factorizable ones in our analysis. The estimated branching ratio for this process is $(1.4\pm 0.1)$% and the asymmetry parameter $\alpha$ found to be $-0.8$.</p>
 				</abstract>
-				<keywords>Nonfactorizable contributions; HQET; Isgur–Wise function.</keywords>
+				<keywords>Nonfactorizable contributions;HQET;Isgur–Wise function.</keywords>
 				<authors>
 					<author>
 						<name first="R." last="Mohanta">R. Mohanta</name>
-						<affiliation></affiliation>
+						<affiliation>Physics Department, Panjab University, Chandigarh 160 014, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="A. K." last="Giri">A. K. Giri</name>
-						<affiliation></affiliation>
+						<affiliation>Physics Department, Panjab University, Chandigarh 160 014, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-02-18</date>
+					<date type="R">1999-12-17</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -441,22 +451,23 @@
 				<abstract>
 					<p>Using the theoretical ambiguities inherent in the seesaw mechanism, we derive the new analytic expressions for both quadratic and linear seesaw formulae for neutrino masses at low energies, with either up-type quark masses or charged lepton masses. This is possible through full radiative corrections arising out of the renormalizations of the Yukawa couplings, the coefﬁcients of the neutrino-mass-operator in the standard model with two-Higgs doublets, and also the QCD–QED rescaling factors below the top-quark mass scale, at one-loop level. We also investigate numerically the uniﬁcation of top-$b$-$\tau$ Yukawa couplings at the scale $M_{I}=0.59\times 10^{8}$GeV for a ﬁxed value of $\tan \beta=58.77$, and then evaluate the seesaw neutrino masses which are too large in magnitude to be compatible with the presently available solar and atmospheric neutrino oscillation data. However, if we consider a higher but arbitrary value of $M_{I}=0.59\times 10^{11}$GeV, the predictions from linear seesaw formulae with charged lepton masses, can accommodate simultaneousely both solar atmospheric neutrino oscillation data.</p>
 				</abstract>
-				<keywords>Neutrino masses; radiative corrections; seesaw formula.</keywords>
+				<keywords>Neutrino masses;radiative corrections;seesaw formula.</keywords>
 				<authors>
 					<author>
 						<name first="N. Nimai" last="Singh">N. Nimai Singh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Physics Department, Gauhati University, Guwahati 781 014, India</affiliation>
+						<affiliation>Department of Physics and Astronomy, University of Southampton, Highfield, Southampton, S017 1BJ, UK</affiliation>
+						<email>KKHLGU@gwl.dot.net.in;nimai@hep.phys.soton.ac.uk</email>
 					</author>
 					<author>
 						<name first="S. Biramani" last="Singh">S. Biramani Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Physics Department, Gauhati University, Guwahati 781 014, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1998-08-28</date>
+					<date type="R">1999-08-12</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -468,16 +479,16 @@
 				<abstract>
 					<p>With a new parameterization of potential parameters which reproduces the ground state properties of shell closed nuclei fairly accurately, the role of occupancy of $2s_{1/2}$ level in determining the halo structures of $^{17}$O, $^{16}$N, $^{15}$C, $^{14}$B, $^{13}$Be have been investigated. The results show interesting cross over of level occupancies which may explain the increase in interaction radii.</p>
 				</abstract>
-				<keywords>Skyrme interaction; occupancy; one-neutron halo.</keywords>
+				<keywords>Skyrme interaction;occupancy;one-neutron halo.</keywords>
 				<authors>
 					<author>
 						<name first="Rupayan" last="Bhattacharya">Rupayan Bhattacharya</name>
-						<affiliation></affiliation>
+						<affiliation>Gurudas College, Narikeldanga, Calcutta 700 054, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">1999-01-29</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -490,22 +501,23 @@
 				<abstract>
 					<p>The suitability of using the angular peak shape of the coherent backscattered light for estimating the light transport parameters of biological media has been investigated. Milk and methylene blue doped milk were used as tissue phantoms for the measurements carried out with a He–Ne laser (632.8 nm). Results indicate that while the technique accurately estimates the transport length, it can determine the absorption coefﬁcient only when the absorption is moderately high $(\alpha > 1{\rm \ cm}^{-1})$ for the long transport lengths typical of tissues. Further, the possibility of determining the anisotropy factor by estimating the single scattering contribution to the diffuse background is examined.</p>
 				</abstract>
-				<keywords>Coherent back scattering; light transport; tissue optics.</keywords>
+				<keywords>Coherent back scattering;light transport;tissue optics.</keywords>
 				<authors>
 					<author>
 						<name first="S. Anantha" last="Ramakrishna">S. Anantha Ramakrishna</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<affiliation>Theoretical Physics and Optics Group, Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email>sar@rri.ernet.in</email>
 					</author>
 					<author>
 						<name first="K. Divakara" last="Rao">K. Divakara Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<email>kdivakar@cat.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-08-20</date>
+					<date type="R">1999-10-27</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -521,18 +533,18 @@
 				<authors>
 					<author>
 						<name first="Rita Moni" last="Borah">Rita Moni Borah</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Physics, Dibrugarh University, Dibrugarh 786 004, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="G. D." last="Baruah">G. D. Baruah</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Physics, Dibrugarh University, Dibrugarh 786 004, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-07-13</date>
+					<date type="R">1999-11-24</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -544,22 +556,22 @@
 				<abstract>
 					<p>We investigate how dissipation and nonlinearity can affect the electromagnetic wave propagating through a saturated ferromagnet in the presence of an external magnetic ﬁeld in $(2+1)$ dimensions. The propagation of electromagnetic waves through a ferromagnet under an external magnetic ﬁeld in the presence of dissipative effect has been studied using reductive perturbation method. It is found that to the lowest order of perturbation the system of equations for the electromagnetic waves in a ferromagnet can be reduced to an integro-differential equation.</p>
 				</abstract>
-				<keywords>Solitons; integro-differential equations; reductive perturbation method.</keywords>
+				<keywords>Solitons;integro-differential equations;reductive perturbation method.</keywords>
 				<authors>
 					<author>
 						<name first="S. G." last="Bindu">S. G. Bindu</name>
-						<affiliation></affiliation>
+						<affiliation>Department fo Physics, Cochin University of Science and Technology, Cochin 682 022, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="V. C." last="Kuriakose">V. C. Kuriakose</name>
-						<affiliation></affiliation>
+						<affiliation>Department fo Physics, Cochin University of Science and Technology, Cochin 682 022, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-06-10</date>
+					<date type="R">1999-10-27</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -571,32 +583,32 @@
 				<abstract>
 					<p>The present paper reports the correlation between deformation bleaching of coloration and mechanoluminescence (ML) in coloured alkali halide crystals. When the $F$-centre electrons captured by moving dislocations are picked up by holes, deep traps and other compatible traps, then deformation bleaching occurs. At the same time, radiative recombination of dislocation captured electrons with the holes gives rise to the mechanoluminescence. Expressions are derived for the strain dependence of the density of colour centres in deformed crystals and also for the number of colour centres bleached. So far as strain, temperature, density of colour centres, $E_{a}$ and volume dependence are concerned, there exists a correlation between the deformation bleaching and ML in coloured alkali halide crystals. From the strain dependence of the density of colour centres in deformed crystals, the value of coefﬁcient of deformation bleaching $D$ is determined and it is found to be 1.93 and 2.00 for KCl and KBr crystals, respectively. The value of $(D + \mathcal{X})$ is determined from the strain dependence of the ML intensity and it is found to be 2.6 and 3.7 for KCl and KBr crystals, respectively. This gives the value of coefﬁcient of deformation generated compatible traps $\mathcal{X}$ to be 0.67 and 1.7 for KCl and KBr crystals, respectively.</p>
 				</abstract>
-				<keywords>Deformation bleaching; colour centres; alkali halides.</keywords>
+				<keywords>Deformation bleaching;colour centres;alkali halides.</keywords>
 				<authors>
 					<author>
 						<name first="B. P." last="Chandra">B. P. Chandra</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Postgraduate Studies and Research in Physics and Electronics, Rani Durgavati University, Jabalpur 482 001, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="M." last="Ramrakhiani">M. Ramrakhiani</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Postgraduate Studies and Research in Physics and Electronics, Rani Durgavati University, Jabalpur 482 001, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P." last="Sahu">P. Sahu</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Physics, Government Maharaja College, Chhatarpur 471 001, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="A. M." last="Rastogi">A. M. Rastogi</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Physics, Government Maharaja College, Chhatarpur 471 001, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-04-17</date>
+					<date type="R">1999-10-13</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -608,27 +620,27 @@
 				<abstract>
 					<p>The electron–phonon interaction in the periodic Anderson model (PAM) is considered. The PAM incorporates the effect of onsite Coulomb interaction $(U)$ between $f$-electrons. The inﬂuence of Coulomb correlation $U$ on the phonon response of the system is studied by evaluating the phonon spectral function for various parameters of the model. The numerical evaluation of the spectral function is carried out in the long wavelength limit at ﬁnite temperatures keeping only linear terms in $U$. The observed behaviour is found to agree well with the general features obtained experimentally for some heavy fermion (HF) systems.</p>
 				</abstract>
-				<keywords>Periodic Anderson model (PAM); heavy fermion system; electron–phonon interaction; Coulomb correlation; double time temperature dependent Green function.</keywords>
+				<keywords>Periodic Anderson model (PAM);heavy fermion system;electron–phonon interaction;Coulomb correlation;double time temperature dependent Green function.</keywords>
 				<authors>
 					<author>
 						<name first="B." last="Ojha">B. Ojha</name>
-						<affiliation></affiliation>
+						<affiliation>P.G. Department of Physics, Sambalpur University, Jyoti Vihar, Burla 768 019, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P." last="Nayak">P. Nayak</name>
-						<affiliation></affiliation>
+						<affiliation>P.G. Department of Physics, Sambalpur University, Jyoti Vihar, Burla 768 019, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S. N." last="Behera">S. N. Behera</name>
-						<affiliation></affiliation>
+						<affiliation>Institute of Physics, Sachivalaya Marg, Bhubaneswar 751 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1998-09-09</date>
+					<date type="R">1999-07-27</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -640,27 +652,27 @@
 				<abstract>
 					<p>The effect of substitution of vanadium in Bi$_{1.6}$Pb$_{0.4}$Sr$_{2}$Ca$_{2}$Cu$_{3}O$_{\delta}$ ceramic at Bi and Cu sites has been investigated for the resistivity, a.c. susceptibility, XRD and a.c. magnetization studies. Enhancement in $T_{c}$ for the smaller concentrations of V at either of the two sites was observed which followed an expected lattice distortion and decrease in $T_{c}$ for higher V concentrations. V plays a role of substituting element more than just a sintering agent as reﬂected in the more rapid decrease in $T_{c}$ at Cu-site and further in the magnetization values that are higher compared to the values at the Bisite. It indicates higher magnetization scattering at the Cu site. The results were explained keeping in mind the liquid phase mechanism behind the formation of the 2223 phase and the possibility of magnetic scattering.</p>
 				</abstract>
-				<keywords>Superconductors; crystal growth; X-ray diffraction; magnetic properties.</keywords>
+				<keywords>Superconductors; crystal growth;X-ray diffraction;magnetic properties.</keywords>
 				<authors>
 					<author>
 						<name first="D. R." last="Mishra">D. R. Mishra</name>
-						<affiliation></affiliation>
+						<affiliation>National Physical Laboratory, Dr K.S. Krishnan Road, New Delhi 110 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S. V." last="Sharma">S. V. Sharma</name>
-						<affiliation></affiliation>
+						<affiliation>National Physical Laboratory, Dr K.S. Krishnan Road, New Delhi 110 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="R. G." last="Sharma">R. G. Sharma</name>
-						<affiliation></affiliation>
+						<affiliation>National Physical Laboratory, Dr K.S. Krishnan Road, New Delhi 110 012, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-03-22</date>
+					<date type="R">1999-08-21</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -672,26 +684,26 @@
 				<abstract>
 					<p>Chaotic systems are now frequently encountered in almost all branches of sciences. Dimension of such systems provides an important measure for easy characterization of dynamics of the systems. Conventional algorithms for computing dimension of such systems in higher dimensional state space face an unavoidable problem of enormous storage requirement. Here we present an algorithm, which uses a simple but very powerful technique and faces no problem in computing dimension in higher dimensional state space. The unique indexing technique of hypercubes, used in this algorithm, provides a clever means to drastically reduce the requirement of storage. It is shown that theoretically this algorithm faces no problem in computing capacity dimension in any dimension of the embedding state space as far as the actual dimension of the attractor is ﬁnite. Unlike the existing algorithms, memory requirement offered by this algorithm depends only on the actual dimension of the attractor and has no explicit dependence on the number of data points considered.</p>
 				</abstract>
-				<keywords>Dimension; chaos; fractal; attractor</keywords>
+				<keywords>Dimension;chaos;fractal;attractor</keywords>
 				<authors>
 					<author>
 						<name first="S." last="Ghorui">S. Ghorui</name>
-						<affiliation></affiliation>
+						<affiliation>Laser and Plasma Technology Division, Power Plasma Devices Section, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="A. K." last="Das">A. K. Das</name>
-						<affiliation></affiliation>
+						<affiliation>Laser and Plasma Technology Division, Power Plasma Devices Section, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="N." last="Venkatramani">N. Venkatramani</name>
-						<affiliation></affiliation>
+						<affiliation>Laser and Plasma Technology Division, Power Plasma Devices Section, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">1999-11-26</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -706,32 +718,33 @@
 				<abstract>
 					<p>An exact solution is obtained for coupled dilaton and electromagnetic ﬁeld in a cylindrically symmetric spacetime where an axial magnetic ﬁeld as well as a radial electric ﬁeld both are present. Depending on the choice of the arbitrary constants our solution reduces either to dilatonic gravity with pure electric ﬁeld or to that with pure magnetic ﬁeld. In the ﬁrst case we have a curvature singularity at a ﬁnite distance from the axis indicating the existence of the boundary of a charged cylinder which may represent the source of the electric ﬁeld. For the second case we have a singularity on the axis. When the dilaton ﬁeld is absent the electromagnetic ﬁeld disappears in both the cases. Whereas the contrary is not true. It is further shown that light rays except for those proceeding in the radial direction are either trapped or escape to inﬁnity depending on the magnitudes of certain constant parameters as well as on the nature of the electromagnetic ﬁeld. Nature of circular geodesics is also studied in the presence of dilaton ﬁeld in the cylindrically symmetric spacetime.</p>
 				</abstract>
-				<keywords>Dilaton ﬁeld; general relativity; cylindrically symmetric spacetime.</keywords>
+				<keywords>Dilaton ﬁeld;general relativity;cylindrically symmetric spacetime.</keywords>
 				<authors>
 					<author>
 						<name first="A." last="Banerjee">A. Banerjee</name>
-						<affiliation></affiliation>
+						<affiliation>Relativity and Cosmology Research Centre, Department of Physics, Jadavpur University, Calcutta 700 032, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S." last="Chatterjee">S. Chatterjee</name>
-						<affiliation></affiliation>
+						<affiliation>Relativity and Cosmology Research Centre, Department of Physics, Jadavpur University, Calcutta 700 032, India</affiliation>
+						<affiliation>New Alipore College, Department of Physics, Calcutta 700 053, India Email: asit@juphys.ernet.in</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Tanwi" last="Ghosh">Tanwi Ghosh</name>
-						<affiliation></affiliation>
+						<affiliation>Relativity and Cosmology Research Centre, Department of Physics, Jadavpur University, Calcutta 700 032, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-02-15</date>
+					<date type="R">1999-11-08</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry issup="0">
+			<entry issup="0">%raghu
 				<title>Parity of the band head at 3710 keV in $^{99}$Rh using clover detector as Compton polarimeter</title>
 				<feature>Research Articles</feature>
 				<page>0347-0354</page>
