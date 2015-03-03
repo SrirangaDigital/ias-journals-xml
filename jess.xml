@@ -31090,253 +31090,850 @@
 			<entry hassup="0">
 				<title>Comparison of surrogate models with different methods in groundwater remediation process</title>
 				<feature></feature>
-				<page></page>
+				<page>1579-1589</page>
 				<abstract>
-					<p></p>
+					<p>Surrogate modelling is an effective tool for reducing computational burden of simulation optimization. In this article, polynomial regression (PR), radial basis function artificial neural network (RBFANN), and kriging methods were compared for building surrogate models of a multiphase flow simulation model in a simplified nitrobenzene contaminated aquifer remediation problem. In the model accuracy analysis process, a 10-fold cross validation method was adopted to evaluate the approximation accuracy of the three surrogate models. The results demonstrated that: RBFANN surrogate model and kriging surrogate model had acceptable approximation accuracy, and further that kriging model’s approximation accuracy was slightly higher than RBFANN model. However, the PR model demonstrated unacceptably poor approximation accuracy. Therefore, the RBFANN and kriging surrogates were selected and used in the optimization process to identify the most cost-effective remediation strategy at a nitrobenzene-contaminated site. The optimal remediation costs obtained with the two surrogate-based optimization models were similar, and had similar computational burden. These two surrogate-based optimization models are efficient tools for optimal groundwater remediation strategy identification.</p>
 				</abstract>
-				<keywords></keywords>
-				<authors>Jiannan Luo and Wenxi Lu
+				<keywords>Surrogate modelling;simulation optimization;groundwater remediation;polynomial regression;radial basis function artificial neural network;kriging.</keywords>
+				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Jiannan" last="Luo">Jiannan Luo</name>
+						<affiliation>Key Laboratory of Groundwater Resources and Environment, Ministry of Education, College of Environment and Resources, Jilin University, Changchun 130021, China.</affiliation>
+					</author>
+					<author>
+						<name first="Wenxi" last="Lu">Wenxi Lu</name>
+						<affiliation>Key Laboratory of Groundwater Resources and Environment, Ministry of Education, College of Environment and Resources, Jilin University, Changchun 130021, China.</affiliation>
+						<email>luwenxi@jlu.edu.cn</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2012-07-18</date>
+					<date type="R">2014-05-06</date>
+					<date type="A">2014-05-16</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Artificial neural network coupled with wavelet transform for estimating snow water equivalent using passive microwave data</title>
 				<feature></feature>
-				<page></page>
+				<page>1591-1601</page>
 				<abstract>
-					<p></p>
+					<p>Snow Water Equivalent (SWE) is an important parameter in hydrologic engineering involving the stream-flow forecasting of high-elevation watersheds. In this paper, the application of classic Artificial Neural Network model (ANN) and a hybrid model combining the wavelet and ANN (WANN) is investigated in estimating the value of SWE in a mountainous basin. In addition, k-fold cross validation method is used in order to achieve a more reliable and robust model. In this regard, microwave images acquired from Spectral Sensor Microwave Imager (SSM/I) are used to estimate the SWE of Tehran sub-basins during 1992–2008 period. Also for obtaining measured SWE within the corresponding Equal-Area Scalable Earth-Grid (EASE-Grid) cell of SSM/I image, approach of Cell-SWE extraction using height–SWE relations is applied in order to reach more precise estimations. The obtained results reveal that the wavelet-ANN model significantly increases the accuracy of estimations, mainly because of using multi-scale time series as the ANN inputs. The Nash–Sutcliffe Index (NSE) for ANN and WANN models is respectively 0.09 and 0.44 which shows a firm improvement of 0.35 in NSE parameter when WANN is applied. Similar trend is observed in other parameters including RMSE where the value is 0.3 for ANN and 0.07 for WANN.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>SWE;wavelet transform;ANN; SSM/I;k-fold cross validation;Tehran basin.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="A. B." last="Dariane">A. B. Dariane</name>
+						<affiliation>Department of Civil Engineering, K.N. Toosi University of Technology, Tehran, Iran.</affiliation>
+						<email>borhani@kntu.ac.ir</email>
+					</author>
+					<author>
+						<name first="S." last="Azimi">S. Azimi</name>
+						<affiliation>Department of Civil Engineering, K.N. Toosi University of Technology, Tehran, Iran.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Zakerinej">A. Zakerinej</name>
+						<affiliation>Department of Civil Engineering, K.N. Toosi University of Technology, Tehran, Iran.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2013-02-25</date>
+					<date type="R">2014-05-16</date>
+					<date type="A">2014-05-17</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Assessment of climate change impacts on rainfall using large scale climate variables and downscaling models – A case study</title>
 				<feature></feature>
-				<page></page>
+				<page>1603-1618</page>
 				<abstract>
-					<p></p>
+					<p>Many of the applied techniques in water resources management can be directly or indirectly influenced by hydro-climatology predictions. In recent decades, utilizing the large scale climate variables as predictors of hydrological phenomena and downscaling numerical weather ensemble forecasts has revolutionized the long-lead predictions. In this study, two types of rainfall prediction models are developed to predict the rainfall of the Zayandehrood dam basin located in the central part of Iran. The first seasonal model is based on large scale climate signals data around the world. In order to determine the inputs of the seasonal rainfall prediction model, the correlation coefficient analysis and the new Gamma Test (GT) method are utilized. Comparison of modelling results shows that the Gamma test method improves the Nash–Sutcliffe efficiency coefficient of modelling performance as 8% and 10% for dry and wet seasons, respectively. In this study, Support Vector Machine (SVM) model for predicting rainfall in the region has been used and its results are compared with the benchmark models such as K-nearest neighbours (KNN) and Artificial Neural Network (ANN). The results show better performance of the SVM model at testing stage. In the second model, statistical downscaling model (SDSM) as a popular downscaling tool has been used. In this model, using the outputs from GCM, the rainfall of Zayandehrood dam is projected under two climate change scenarios. Most effective variables have been identified among 26 predictor variables. Comparison of the results of the two models shows that the developed SVM model has lesser errors in monthly rainfall estimation. The results show that the rainfall in the future wet periods are more than historical values and it is lower than historical values in the dry periods. The highest monthly uncertainty of future rainfall occurs in March and the lowest in July.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Rainfall prediction;support vector machines;K-nearest neighbourhood;artificial neural network;Gamma test;climate change.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Azadeh" last="Ahmadi">Azadeh Ahmadi</name>
+						<affiliation>Department of Civil Engineering, Isfahan University of Technology, Isfahan, Iran.</affiliation>
+						<email>aahmadi@cc.iut.ac.ir</email>
+					</author>
+					<author>
+						<name first="Ali" last="Moridi">Ali Moridi</name>
+						<affiliation>Abbaspour College of Technology, Shahid Beheshti University, Tehran, Iran.</affiliation>
+					</author>
+					<author>
+						<name first="Elham Kakaei" last="Lafdani">Elham Kakaei Lafdani</name>
+						<affiliation>Department of Watershed Management Engineering, Faculty of Natural Resources and Marine Sciences, Tarbiat Modares University, Noor, Iran.</affiliation>
+					</author>
+					<author>
+						<name first="Ghasem" last="Kianpisheh">Ghasem Kianpisheh</name>
+						<affiliation>Department of Civil Engineering, Isfahan University of Technology, Isfahan, Iran.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2013-12-04</date>
+					<date type="R">2014-04-06</date>
+					<date type="A">2014-06-19</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Growth of cyclone Viyaru and Phailin – a comparative study</title>
 				<feature></feature>
-				<page></page>
+				<page>1619-1635</page>
 				<abstract>
-					<p></p>
+					<p>The tropical cyclone Viyaru maintained a unique quasi-uniform intensity during its life span. Despite being in contact with sea surface for &lt; 120 hr travelling about 2150 km, the cyclonic storm (CS) intensity, once attained, did not intensify further, hitherto not exhibited by any other system over the Bay of Bengal. On the contrary, the cyclone Phailin over the Bay of Bengal intensified into very severe cyclonic storm (VSCS) within about 48 hr from its formation as depression. The system also experienced rapid intensification phase (intensity increased by 30 kts or more during subsequent 24 hours) during its life time and maximum intensity reached up to 115 kts. In this paper, a comparative study is carried out to explore the evolution of the various thermodynamical parameters and possible reasons for such converse features of the two cyclones. Analysis of thermodynamical parameters shows that the development of the lower tropospheric and upper tropospheric potential vorticity (PV) was low and quasi-static during the lifecycle of the cyclone Viyaru. For the cyclone Phailin, there was continuous development of the lower tropospheric and upper tropospheric PV, which attained a very high value during its lifecycle. Also there was poor and fluctuating diabatic heating in the middle and upper troposphere and cooling in the lower troposphere for Viyaru. On the contrary, the diabatic heating was positive from lower to upper troposphere with continuous development and increase up to $6^\circ C$ in the upper troposphere. The analyses of cross sections of diabatic heating, PV, and the 1000–500 hPa geopotential metre (gpm) thickness contours indicate that the cyclone Viyaru was vertically tilted (westward) and lacked axisymmetry in its structure and converse features (axisymmetric and vertical) that occurred for the cyclone Phailin. In addition, there was a penetration of dry air in the middle troposphere of Viyaru, whereas high moisture existed in the middle troposphere of Phailin. The vertical wind shear (5–10 $ms^{−1}$) near the core of the storm region between 850 and 200 hPa was favourable for both the systems but was higher in the northern region of the cyclone Viyaru. The divergent development of these thermodynamic features conspired to produce converse characteristic of the two cyclones.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cyclogenesis;diabatic heating;potential vorticity;vertical wind shear.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="S. D." last="Kotal">S. D. Kotal</name>
+						<affiliation>India Meteorological Department, NWP Division, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Bhattacharya">S. K. Bhattacharya</name>
+						<affiliation>India Meteorological Department, NWP Division, New Delhi 110 003, India.</affiliation>
+						<email>sumit.kumar.bhattacharya@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. K. Roy" last="Bhowmik">S. K. Roy Bhowmik</name>
+						<affiliation>India Meteorological Department, NWP Division, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. K." last="Kundu">P. K. Kundu</name>
+						<affiliation>Department of Mathematics, Jadavpur University, Kolkata 700 032, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2014-02-14</date>
+					<date type="R">2014-05-09</date>
+					<date type="A">2014-06-01</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Forecasting of cyclone Viyaru and Phailin by NWP-based cyclone prediction system (CPS) of IMD – an evaluation</title>
 				<feature></feature>
-				<page></page>
+				<page>1637-1652</page>
 				<abstract>
-					<p></p>
+					<p>An objective NWP-based cyclone prediction system (CPS) was implemented for the operational cyclone forecasting work over the Indian seas. The method comprises of five forecast components, namely (a) Cyclone Genesis Potential Parameter (GPP), (b) Multi-Model Ensemble (MME) technique for cyclone track prediction, (c) cyclone intensity prediction, (d) rapid intensification, and (e) predicting decaying intensity after the landfall. GPP is derived based on dynamical and thermodynamical parameters from the model output of IMD operational Global Forecast System. The MME technique for the cyclone track prediction is based on multiple linear regression technique. The predictor selected for the MME are forecast latitude and longitude positions of cyclone at 12-hr intervals up to 120 hours forecasts from five NWP models namely, IMD-GFS, IMD-WRF, NCEP-GFS, UKMO, and JMA. A statistical cyclone intensity prediction (SCIP) model for predicting 12 hourly cyclone intensity (up to 72 hours) is developed applying multiple linear regression technique. Various dynamical and thermodynamical parameters as predictors are derived from the model outputs of IMD operational Global Forecast System and these parameters are also used for the prediction of rapid intensification. For forecast of inland wind after the landfall of a cyclone, an empirical technique is developed. This paper briefly describes the forecast system CPS and evaluates the performance skill for two recent cyclones Viyaru (non-intensifying) and Phailin (rapid intensifying), converse in nature in terms of track and intensity formed over Bay of Bengal in 2013. The evaluation of performance shows that the GPP analysis at early stages of development of a low pressure system indicated the potential of the system for further intensification. The 12-hourly track forecast by MME, intensity forecast by SCIP model, and rapid intensification forecasts are found to be consistent and very useful to the operational forecasters. The error statistics of the decay model shows that the model was able to predict the decaying intensity after landfall with reasonable accuracy. The performance statistics demonstrates the potential of the system for improving operational cyclone forecast service over the Indian seas.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Cyclone genesis potential parameter (GPP);Multi-Model Ensemble (MME) technique;cyclone track and intensity prediction;rapid intensification;decay.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="S. D." last="Kotal">S. D. Kotal</name>
+						<affiliation>India Meteorological Department, NWP Division, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Bhattacharya">S. K. Bhattacharya</name>
+						<affiliation>India Meteorological Department, NWP Division, New Delhi 110 003, India.</affiliation>
+						<email>sumit.kumar.bhattacharya@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. K. Roy" last="Bhowmik">S. K. Roy Bhowmik</name>
+						<affiliation>India Meteorological Department, NWP Division, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. K." last="Kundu">P. K. Kundu</name>
+						<affiliation>Department of Mathematics, Jadavpur University, Kolkata 700 032, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2014-02-16</date>
+					<date type="R">2014-05-09</date>
+					<date type="A">2014-06-01</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Effect of some climatic parameters on tropospheric and total ozone column over Alipore ($22.52^\circ N, 88.33^\circ E$), India</title>
 				<feature></feature>
-				<page></page>
+				<page>1653-1669</page>
 				<abstract>
-					<p></p>
+					<p>The paper presents the nature of variations of tropospheric and total ozone column retrieved from the Convective Cloud Differential (CCD) technique, Ozone Monitoring Instrument (OMI), and Total Ozone Mapping Spectrometer (TOMS) data, National Aeronautics and Space Administrations (NASA), USA, respectively; surface temperature, relative humidity, total rainfall, ozone precursors (non-methane hydrocarbon, carbon monoxide, nitrogen dioxide, and sulphur dioxide) that are collected from India Meteorological Department (IMD), Alipore, Kolkata; solar insolation obtained from Solar Geophysical Data Book and El-$\tilde{n} $ index collected from National Climatic Data Center, US Department of Commerce, National Oceanic and Atmospheric Administration, USA. The effect of these climatic parameters and ozone precursors on ozone variations is critically analyzed and explained on the basis of linear regression and correlation. It has been observed that the maximum, minimum and mean temperature, relative humidity, solar insolation, tropospheric, and total ozone column (TOC) showed slight increasing tendencies from October 2004 to December 2011, while total rainfall and El-$\tilde{n} $ index showed little decreasing tendencies for the same period. Amongst selected climatic parameters and ozone precursors, the solar insolation and the average temperature had a significant influence on both, the tropospheric ozone and total ozone column formation. The solar insolation had contributed more in tropospheric ozone than in total ozone column; while El-$\tilde{n} $ index had played a more significant role in total ozone column build up than in tropospheric ozone. Negative correlation was observed between almost all ozone precursors with the tropospheric and total ozone. The tropospheric ozone and total ozone column were also significantly correlated. The level of significance and contribution of different climatic parameters are determined from correlation technique and Multiple Linear Regression (MLR) method. The related chemical kinetics for ozone production processes has been critically described.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Surface temperature;relative humidity;rainfall, non-methane hydrocarbon;carbon monoxide;nitrogen dioxide;sulphur dioxide;solar insolation and El-Ni˜no index;tropospheric and total ozone column.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="P. K." last="Jana">P. K. Jana</name>
+						<affiliation>Department of Chemistry, Institute of Education (P. G) for Women, Chandernagore, Hooghly 712 138, West Bengal, India.</affiliation>
+						<affiliation>Department of Chemistry, Government Teachers’ Training College, Malda 732 101, West Bengal, India.</affiliation>
+						<email>pkjjngl@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="S." last="Bhattacharyya">S. Bhattacharyya</name>
+						<affiliation>Department of Chemistry, Bamanpukuria S. M. M. High School, Bamanpukur, North-24 Parganas 743 425, West Bengal, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Banerjee">A. Banerjee</name>
+						<affiliation>Department of Physics, Basic-cum Multi-purpose School, Banipur, North-24 Parganas 743 233, West Bengal, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2013-06-27</date>
+					<date type="R">2014-05-28</date>
+					<date type="A">2014-05-31</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Species diversity variations in Neogene deep-sea benthic foraminifera at ODP Hole 730A, western Arabian Sea</title>
 				<feature></feature>
-				<page></page>
+				<page>1671-1680</page>
 				<abstract>
-					<p></p>
+					<p>Deep-sea benthic foraminifera are an important and widely used marine proxy to understand paleoceanographic and paleoclimatic changes on regional and global scales, owing to their sensitivity to oceanic and climatic turnovers. Some species of benthic foraminifera are sensitive to changes in water mass properties whereas others are sensitive to organic fluxes and deep-sea oxygenation. Benthic faunal diversity has been found closely linked to food web, bottom water oxygen levels, and substrate and water mass stability. The present study is aimed at analyzing species diversity trends in benthic foraminifera and their linkages with Indian monsoon variability during the Neogene. Species diversity of benthic foraminifera is examined in terms of number of species (S), information function (H), equitability (E) and Sanders’ rarefied values, which were combined with relative abundances of high and low productivity benthic foraminifera at Ocean Drilling Program Hole 730A, Oman margin, western Arabian Sea. The Oman margin offers the best opportunity to understand monsoon-driven changes in benthic diversity since summer monsoon winds have greater impact on the study area. The species diversity was higher during the early Miocene Climatic Optimum ($\sim $17.2–16.4 Ma) followed by a decrease during 16.4–13 Ma coinciding with a major increase in Antarctic ice volume and increased formation of Antarctic Bottom Water. All the diversity parameters show an increase during 13–11.6 Ma, a gradual decrease during 11.6–9 Ma and then an increase with a maximum at 7 Ma. Thereafter the values show little change until 1.2 Ma when all the parameters abruptly decrease. The benthic foraminiferal populations and diversity at Hole 730A were mainly driven by the Indian monsoon, and polar waters might have played a minor or no role since early Neogene period as the Arabian Sea is an enclosed basin.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Benthic foraminifera;Arabian Sea;species diversity;productivity;Indian monsoon;upwelling.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Yuvaraja" last="Arumugm">Yuvaraja Arumugm</name>
+						<affiliation>Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
+						<email>agl.yuva@gmail.com</email>
+					</author>
+					<author>
+						<name first="Anil K." last="Gupta">Anil K. Gupta</name>
+						<affiliation>Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
+						<affiliation>Wadia Institute of Himalayan Geology, Dehradun 248 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="Mruganka K." last="Panigrahi">Mruganka K. Panigrahi</name>
+						<affiliation>Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2013-12-08</date>
+					<date type="R">2014-06-16</date>
+					<date type="A">2014-06-18</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Upper Cisuralian palynology and palaeoclimate of Manuguru area Godavari basin, and their global correlation</title>
 				<feature></feature>
-				<page></page>
+				<page>1681-1692</page>
 				<abstract>
-					<p></p>
+					<p>The Permian system of the Palaeozoic Erathem is divided into three series, the Early Permian Cisuralian Series, the Middle Permian Guadalupian Series, and the Late Permian Lopingian Series. The Cisuralian Series encompasses the Asselian to Kungurian stages which constitute the basal part of the Gondwana supersequence I. In India, they are represented lithostratigraphically by the Talchir, Karharbari, and Barakar formations. This paper presents the palynological results from the Barakar Formation of the Upper Cisuralian Series from Manuguru which lies in the southeastern part of the Godavari basin. The succession studied comprises 35 subsurface samples from bore hole 1007 represented by clay, shale, sandstone, and coal. The palynofloras in this sequence have a homogenous composition demonstrating that not many significant floral changes took place through the considered stratigraphic range. The entire sequence is characterized by the dominance of nonstriate bisaccate genus \textit {Scheuringipollenites} and subdominance of striate bisaccate genus \textit {Faunipollenites (=Protohaploxypinus)}. The other pollen genera among the nonstriate bisaccates are \textit {Rhizomaspora, Primuspollenites, Ibisporites}, and \textit {Platysaccus}. The striate bisaccates include \textit {Striatites, Striatopodocarpites}, and \textit {Stroterosporites}. The taeniate taxa are represented by \textit {Lueckisporites} and \textit {Lunatisporites}. The common monosaccate genera include \textit {Caheniasaccites, Potoniesporites}, and \textit {Barakarites}. Spores are less common and include \textit {Latosporites, Brevitriletes, Horriditriletes, Microbaculispora}, and \textit {Callumispora}. They characterize the palynofloral composition of the Lower Barakar Formation. The correlation of this assemblage with some of the biostratigraphic palynozones proposed previously for the Cisuralian sequences of the Paran$\acute{a} $ Basin of South America, Kalahari Karoo Basin of South Africa, Ruhuhu Basin of Tanzania, East Africa as well as palynoassemblages from South Victoria Land and Dronning Maud Land, Antarctica and Collie Basin of west Australia point out to their Early Permian (Late Sakmarian–Early Artinskian) age. Palynomorphs such as \textit {Botryococcus} sp., \textit {Tetraporinia} sp., \textit {Balmeela} sp. and \textit {Leiosphaeridia} sp. are also recorded which suggest that these sediments were deposited during post-glacial near shore, cool and humid environment.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Palynology;Early Permian;lower Barakar;Manuguru;Godavari basin;correlation;palaeoclimate.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Pauline Sabina" last="K.">Pauline Sabina K.</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, 53 University Road, Lucknow 226 007, India.</affiliation>
+						<email>paulinesabina@gmail.com</email>
+					</author>
+					<author>
+						<name first="Neerja" last="Jha">Neerja Jha</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, 53 University Road, Lucknow 226 007, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2013-12-17</date>
+					<date type="R">2014-05-12</date>
+					<date type="A">2014-05-17</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>‘Indicator’ carbonaceous phyllite/graphitic schist in the Archean Kundarkocha gold deposit, Singhbhum orogenic belt, eastern India: Implications for gold mineralization \textit {vis-a-vis} organic matter</title>
 				<feature></feature>
-				<page></page>
+				<page>1693-1703</page>
 				<abstract>
-					<p></p>
+					<p>Carbonaceous rocks in the form of graphitic schist and carbonaceous phyllite are the major host rocks of the gold mineralization in Kundarkocha gold deposit of the Precambrian Singhbhum orogenic belt in eastern India. The detection of organic carbon, essentially in the carbonaceous phyllite and graphitized schist within the Precambrian terrain, is noted from this deposit. A very close relationship exists between gold mineralization and ubiquitous carbonaceous rocks containing organic carbon that seems to play a vital role in the deposition of gold in a Precambrian terrain in India and important metallogenetic implications for such type of deposits elsewhere. However, the role played by organic matter in a Precambrian gold deposit is debatable and the mechanism of precipitation of gold and other metals by organic carbon has been reported elsewhere. Fourier transform infrared spectroscopy (FTIR) results and total organic carbon (TOC) values suggest that at least part of the organic material acted as a possible source for the reduction that played a significant role in the precipitation of gold. Lithological, electron probe analysis (EPMA), fluid inclusions associated with gold mineralization, Total Carbon (TC), TOC and FTIR results suggest that the gold mineralization is spatially and genetically associated with graphitic schist, carbonaceous phyllite/shale that are constituted of immature organic carbon or kerogen. Nano-scale gold inclusions along with free milling gold are associated with sulfide mineral phases present within the carbonaceous host rocks as well as in mineralized quartz-carbonate veins. Deposition of gold could have been facilitated due to the organic redox reactions and the graphitic schist and carbonaceous phyllite zone may be considered as the indicator zone.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Graphitic schist;organic carbon;gold;FTIR;archean Singhbhum orogenic belt.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="P. R." last="Sahoo">P. R. Sahoo</name>
+						<affiliation>Department of Applied Geology, Indian School of Mines, Dhanbad 826 004, Jharkhand, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. S." last="Venkatesh">A. S. Venkatesh</name>
+						<affiliation>Department of Applied Geology, Indian School of Mines, Dhanbad 826 004, Jharkhand, India.</affiliation>
+						<email>asvenkatesh@hotmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2014-01-03</date>
+					<date type="R">2014-05-18</date>
+					<date type="A">2014-05-26</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Genesis of some tertiary Indian coals from the chemical composition of ash – a statistical approach: Part 1</title>
 				<feature></feature>
-				<page></page>
+				<page>1705-1715</page>
 				<abstract>
-					<p></p>
+					<p>In the present investigation, 37 numbers of high sulphur tertiary coal samples from Meghalaya, India have been studied on the basis of proximate and ash analysis. Various statistical tools like Bivariant Analysis, Principal Component Analysis (PCA) and Hierarchical Clustering Analysis (HCA), and also the geochemical indicators were applied to determine the dominant detrital or authigenic affinity of the ash forming elements in these coals. The genetic interpretation of coal as well as the coal ash has been carried out based on chemical compositions of high temperature ash (HTA) by using Detrital/Authigenic Index. X-Ray Diffraction (XRD) analysis was also carried out to study the mineralogy of the studied coal ashes. Both statistical tools and geochemical indicators have confirmed the detrital nature of these coals as well as the ash forming elements.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Tertiary;Meghalaya;high sulphur coal;detrital/authigenic index;PCA;HCA;XRD.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Arpita" last="Sharma">Arpita Sharma</name>
+						<affiliation>Coal Chemistry Division, CSIR–North East Institute of Science & Technology, Jorhat 785 006, Assam, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ananya" last="Saikia">Ananya Saikia</name>
+						<affiliation>Coal Chemistry Division, CSIR–North East Institute of Science & Technology, Jorhat 785 006, Assam, India.</affiliation>
+					</author>
+					<author>
+						<name first="Puja" last="Khare">Puja Khare</name>
+						<affiliation>Agronomy-Soil Division, CSIR–CIMAP, Lucknow 226 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="B. P." last="Baruah">B. P. Baruah</name>
+						<affiliation>Coal Chemistry Division, CSIR–North East Institute of Science & Technology, Jorhat 785 006, Assam, India.</affiliation>
+						<email>bpbaruah@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2013-12-27</date>
+					<date type="R">2014-05-07</date>
+					<date type="A">2014-05-17</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Palaeoweathering characteristics of an intrabasaltic red bole of the Deccan Flood Basalts near Shrivardhan of western coast of India</title>
 				<feature></feature>
-				<page></page>
+				<page>1717-1728</page>
 				<abstract>
-					<p></p>
+					<p>An intrabasaltic red bole horizon is studied for its weathering characteristics with respect to the underlying and overlying basalts. The study indicates that all the three units have been considerably weathered; the red bole unit, however shows some distinctive characteristics. The red boles show a higher cation exchange capacity (CEC) and lower sodium adsorption ratio (SAR) and organic carbon (OC) as compared to the weathered basalts. The lower values of $Al_{2}O_{3}, TiO_{2}$ and $Fe_{2}O_{3}$(T) in red boles indicate their lesser weathering than the underlying and overlying basalts, which is further corroborated by the weathering intensity measured by the indices like chemical index of alteration (CIA) and statistical empirical index of chemical weathering (W). It is also evident that the red bole samples show more retention of original mafic and felsic components. While $K_{2}O$ exhibits an erratic behaviour, the MgO and CaO do not show much leaching in red boles. Lesser leaching and salinity in the red boles is indicated by the higher values of calcification and lower values of salinization. The $SiO_{2}–Al_{2}O_{3}–Fe_{2}O_{3}$ plot indicates that red bole samples are close to the basalt field, while the weathered upper basalt is more kaolinized than the weathered lower basalt. These observations reveal that the post-formational weathering processes have least affected the original palaeoweathering characters of the red bole horizon and hence the intrabasaltic palaeosols (weathering horizons) can effectively be used to constrain the palaeoweathering and palaeoclimates during the continental flood basalt episodes in the geologic past.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Bole beds;palaeosol;palaeoclimates;palaeoweathering;geochemistry;Deccan Traps.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="M. R. G." last="Sayyed">M. R. G. Sayyed</name>
+						<affiliation>Department of Geology, Poona College, Camp, Savitribai Phule University of Pune, Pune 411 001, India.</affiliation>
+						<email>mrgsayyed@yahoo.com</email>
+					</author>
+					<author>
+						<name first="R. G." last="Pardeshi">R. G. Pardeshi</name>
+						<affiliation>Department of Geology, Fergusson College, Savitribai Phule University of Pune, Pune 411 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Islam">R. Islam</name>
+						<affiliation>Wadia Institute of Himalayan Geology, Dehara Dun 248001, India.</affiliation>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2012-12-28</date>
+					<date type="R">2013-08-01</date>
+					<date type="A">2013-10-22</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>An integral-free expression for short-term changes in fault stability due to pore pressure induced when a point load is placed on the pervious boundary of a porous elastic half space containing a fault</title>
 				<feature></feature>
-				<page></page>
+				<page>1729-1738</page>
 				<abstract>
-					<p></p>
+					<p>A concentrated load with step-function time behaviour is placed normal to the planar, pervious boundary of a porous elastic half space (PEHS) with compressible constituents. A planar fault exists in the PEHS in such a way that the poroelastic behaviour of the medium is unhindered. We derive an approximate but integral-free expression for CFSCPP, i.e., changes in fault stability due to changes in pore pressure, at a point not too far off the line along which the load acts. But, in the interest of simplicity, the main discussion is focussed on a consideration of CFSCPP at a point \textit {P} located on the fault at depth \textit {z} directly beneath the load. It is convenient to introduce dimensionless time \textit {t_D} directly proportional to real time \textit {t}. The constant of proportionality is \textit {4c/z^2}, where \textit {c} is hydraulic diffusivity. The derived approximate expression gives results with an accuracy of greater than 99% for limited values of \textit {t_D} after the load is imposed. We learn from the derived expression that, for a given \textit {z}, fault stability undergoes an initial sudden decrease commensurate with the undrained pore pressure induced in the PEHS. This is followed by a more gradual decrease in fault stability with increasing \textit {t_D} until a minimum is reached. The real time \textit {t} to minimum fault stability increases with \textit {z}. The magnitude of CFSCPP decreases with \textit {z} as \textit {z^{−2}} for a given \textit {t_D} in the permissible range. The derived expression and the inferences based on it should be useful during earth science investigations of the possible hazards due to reactivation of a pre-existing shallow fault when a civil engineering project involving imposition of a heavy load on the earth’s surface is to be executed nearby. They should be useful also for investigations if a shallow earthquake occurs near such a project soon after its execution.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Rock mechanics;geomechanics;poroelasticity;pore pressure;half space, point load;faults;fault stability;earthquakes;seismic hazard.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Ramesh" last="Chander">Ramesh Chander</name>
+						<affiliation>#290 Sector - 4, Mansa Devi Complex, Panchkula 134 114, Haryana, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Tomar">S. K. Tomar</name>
+						<affiliation>Department of Mathematics, Panjab University, Chandigarh 160 014, India.</affiliation>
+						<email>sktomar66@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M">2014-09-30</date>
-					<date type="R">2014-09-30</date>
-					<date type="A">2014-09-30</date>
+					<date type="M">2012-09-10</date>
+					<date type="R">2014-05-03</date>
+					<date type="A">2014-05-10</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="08" month="12" year="2014">
+			<entry hassup="0">
+				<title>Impact of global warming on the energetics of lower tropospheric ultra-long waves and the Indian summer monsoon</title>
+				<feature></feature>
+				<page>1739-1747</page>
+				<abstract>
+					<p>Analyses of 60 years (1949–2008) of monthly energetics of the zonal waves derived from NCEP/NCAR data indicate that ultra-long waves (waves 1 and 2) dominate the spectrum of lower tropospheric zonal waves during monsoon season (June–September). Westerlies over the Indian subcontinent are a source of energy to wave 1. Two oceanic anticyclones, one over Pacific and the other over Atlantic are sources of energy to wave 2. These two waves are inversely correlated. Climatology of the energetics of ultralong waves for the two epochs 1949–1978 (CLP1) and 1979–2008 (CLP2) of 30 years indicates that the intensity of wave 1 has decreased by about 33% whereas the intensity of wave 2 has increased by about 27%. Northward transport of sensible heat during CLP1 changes to southward during CLP2. Larger generation of zonal mean Available Potential Energy (APE) during CLP2 indicates more heating. A larger conversion of kinetic energy (KE) of wave 1 into APE of wave 1 leads to weakening of wave 1 during CLP2. In case of wave 2, lower rate of conversion of KE to APE leads to stronger wave 2 during CLP2. slagging and heating values of the coal has been found in this study.</p>
+				</abstract>
+				<keywords>Energetics;lower troposphere;wave number two;sensible heat transport;Indian summer monsoon.</keywords>
+				<authors>
+					<author>
+						<name first="M. D." last="Chipade">M. D. Chipade</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008, India.</affiliation>
+						<email>mukundchipade@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="J. R." last="Kulkarni">J. R. Kulkarni</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. M." last="Bawiskar">S. M. Bawiskar</name>
+						<affiliation>Indian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-01-27</date>
+					<date type="R">2014-06-26</date>
+					<date type="A">2014-07-01</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A modified sliding spectral method and its application to COSMIC radio occultation data</title>
+				<feature></feature>
+				<page>1749-1758</page>
+				<abstract>
+					<p>In the moist lower troposphere, a limitation of the sliding spectral (SS) method is the restriction of the resolution of bending angle profiles because of the atmospheric multipath effect and noise. A modified sliding spectral (MSS) method is proposed in this paper to improve the inversion resolution of SS method in the moist lower troposphere. Simulation results show that the noise in the signal may cause inversion error in the classical SS method. The MSS method can decrease the influence of the noise to some extent. The SS and MSS methods were used to process COSMIC (Constellation Observing System for Meteorology, Ionosphere, and Climate) atmPhs profiles from DOY (day of year) 71–DOY 100 in 2007. The retrieved refractivity profiles were compared with those from the corresponding ECMWF (European Centre for Medium-Range Weather Forecasts) analysis. The results show that the SS method contains systematic positive biases in the 3–10 km height range and systematic negative biases below 3 km. The MSS method, in comparison to SS method, has decreased the maximum positive bias in the range of 3–10 km height from 0.37% to 0.23% in the northern hemisphere, from 1.3% to 0.25% in the tropics, and from 0.60% to 0.35% in the southern hemisphere. The biases of the MSS method are comparable to those announced for the COSMIC atmPrf profile; the latter is inverted by full spectrum inversion (FSI) method.</p>
+				</abstract>
+				<keywords>COSMIC occultation;multipath;inversion;MSS method.</keywords>
+				<authors>
+					<author>
+						<name first="Xian-Sheng" last="Xu">Xian-Sheng Xu</name>
+						<affiliation>Ningbo Institute of Technology, Zhejiang University, Ningbo, Zhejiang 315000, China.</affiliation>
+						<email>xuxiansheng666@126.com</email>
+					</author>
+					<author>
+						<name first="Peng" last="Guo">Peng Guo</name>
+						<affiliation>Shanghai Astronomical Observatory, NAOCAS, Shanghai, PR China.</affiliation>
+					</author>
+					<author>
+						<name first="Zhen-Jie" last="Hong">Zhen-Jie Hong</name>
+						<affiliation>School of Mathematics & Information Science, Wenzhou University, Zhejiang 325000, China.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-03-13</date>
+					<date type="R">2014-06-19</date>
+					<date type="A">2014-07-13</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>GPU-based normalized cuts for road extraction using satellite imagery</title>
+				<feature></feature>
+				<page>1759-1769</page>
+				<abstract>
+					<p>This paper presents a GPU implementation of normalized cuts for road extraction problem using panchromatic satellite imagery. The roads have been extracted in three stages namely pre-processing, image segmentation and post-processing. Initially, the image is pre-processed to improve the tolerance by reducing the clutter (that mostly represents the buildings, vegetation, and fallow regions). The road regions are then extracted using the normalized cuts algorithm. Normalized cuts algorithm is a graph-based partitioning approach whose focus lies in extracting the global impression (perceptual grouping) of an image rather than local features. For the segmented image, post-processing is carried out using morphological operations – erosion and dilation. Finally, the road extracted image is overlaid on the original image. Here, a GPGPU (General Purpose Graphical Processing Unit) approach has been adopted to implement the same algorithm on the GPU for fast processing. A performance comparison of this proposed GPU implementation of normalized cuts algorithm with the earlier algorithm (CPU implementation) is presented. From the results, we conclude that the computational improvement in terms of time as the size of image increases for the proposed GPU implementation of normalized cuts. Also, a qualitative and quantitative assessment of the segmentation results has been projected.</p>
+				</abstract>
+				<keywords>Road extraction;normalized cuts;graphical processing unit.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Senthilnath">J. Senthilnath</name>
+						<affiliation>Department of Aerospace Engineering, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Sindhu">S. Sindhu</name>
+						<affiliation>Department of Aerospace Engineering, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. N." last="Omkar">S. N. Omkar</name>
+						<affiliation>Department of Aerospace Engineering, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email>omkar@aero.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-16</date>
+					<date type="R">2014-06-23</date>
+					<date type="A">2014-07-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Hidden Markov Model for avalanche forecasting on Chowkibal–Tangdhar road axis in Indian Himalayas</title>
+				<feature></feature>
+				<page>1771-1779</page>
+				<abstract>
+					<p>A numerical avalanche prediction scheme using Hidden Markov Model (HMM) has been developed for Chowkibal–Tangdhar road axis in J&K, India. The model forecast is in the form of different levels of avalanche danger (no, low, medium, and high) with a lead time of two days. Snow and meteorological data (maximum temperature, minimum temperature, fresh snow, fresh snow duration, standing snow) of past 12 winters (1992–2008) have been used to derive the model input variables (average temperature, fresh snow in 24 hrs, snow fall intensity, standing snow, Snow Temperature Index (STI) of the top layer, and STI of buried layer). As in HMMs, there are two sequences: a state sequence and a state dependent observation sequence; in the present model, different levels of avalanche danger are considered as different states of the model and Avalanche Activity Index (AAI) of a day, derived from the model input variables, as an observation. Validation of the model with independent data of two winters (2008–2009, 2009–2010) gives 80% accuracy for both day-1 and day-2. Comparison of various forecasting quality measures and Heidke Skill Score of the HMM and the NN model indicate better forecasting skill of the HMM.</p>
+				</abstract>
+				<keywords>Snow temperature index;avalanche activity index;Hidden Markov Model.</keywords>
+				<authors>
+					<author>
+						<name first="Jagdish Chandra" last="Joshi">Jagdish Chandra Joshi</name>
+						<affiliation>Snow and Avalanche Study Establishment, Him-Parisar, Sector 37-A, Chandigarh, India.</affiliation>
+						<email>joshjagdish@gmail.com</email>
+					</author>
+					<author>
+						<name first="Sunita" last="Srivastava">Sunita Srivastava</name>
+						<affiliation>Department of Physics, Panjab University, Chandigarh 160104, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-11-21</date>
+					<date type="R">2014-06-23</date>
+					<date type="A">2014-06-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydrological feasibility of gravity diversion of the west flowing Nethravathi in Karnataka</title>
+				<feature></feature>
+				<page>1781-1792</page>
+				<abstract>
+					<p>The concept of collecting surface runoff on the slopes in canals cut across the western slopes of the Western Ghats, in order to divert part of a flow in the west flowing rivers to the east by gravity, is being promoted in Karnataka. This paper presents a study of the hydrological feasibility of such canals, termed ‘garland canals’ and claimed to be an environmental friendly alternative to the conventional technologies for inter-basin transfer of water, by their promoters. The paper presents a methodology for disaggregating normal annual rainfall into 15-min magnitudes and its application for simulating surface runoff, using a knowledge of infiltration rates on the slopes. The study has been carried out considering a part of a garland canal proposed for diverting the river Netravathi in the state. The results from the study reveal that significant amounts of flow can be collected in the proposed canal only if streams are also tapped and that because of the arrangements necessary for the purpose, garland canals cannot be considered a means superior to the conventional methods for diverting west flowing rivers.</p>
+				</abstract>
+				<keywords>Inter-basin transfers;sheet-flow interception;garland canals;hydrological feasibility;rainfall disaggregation;conventional technologies.</keywords>
+				<authors>
+					<author>
+						<name first="Mysooru R. Yadupathi" last="Putty">Mysooru R. Yadupathi Putty</name>
+						<affiliation>The National Institute of Engineering, Mysore 570 008, India.</affiliation>
+						<email>puttyyadupathi@gmail.com</email>
+					</author>
+					<author>
+						<name first="N. M." last="Thipperudrappa">N. M. Thipperudrappa</name>
+						<affiliation>Siddaganga Institute of Technology, Tumkur 572 103, India.</affiliation>
+					</author>
+					<author>
+						<name first="P. N." last="Chandramouli">P. N. Chandramouli</name>
+						<affiliation>The National Institute of Engineering, Mysore 570 008, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-28</date>
+					<date type="R">2014-07-04</date>
+					<date type="A">2014-07-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Estimation of soil moisture and its effect on soil thermal characteristics at Astronomical Observatory, Thiruvananthapuram, south Kerala</title>
+				<feature></feature>
+				<page>1793-1807</page>
+				<abstract>
+					<p>Soil moisture is an important parameter of the earth’s climate system. Regression model for estimation of soil moisture at various depths has been developed using the amount of moisture near the surface layer. The estimated values of soil moisture are tested with the measured moisture values and it is found that the estimations are comparable with the observations. The variation of soil thermal properties with the amount of moisture in isohyperthermic ultisols has been investigated at a tropical site in south Kerala for the year 2008. The soil temperatures at 0.05, 0.10, 0.20, 0.30, and 0.50 m depths and soil moisture at 0.05 and 0.10 m are measured using the hydrometeorological data acquisition system installed at the observational site. For soil water contents ranging between 11 and 42% in the soil layer of depth 0.05–0.10 m, the mean values of the heat capacity, thermal diffusivity, thermal conductivity, and thermal admittance obtained were $2.2466 \times 10^{−6} Jm^{−3}K^{−1}, 0.4238 \times 10^{−6} m^{2}s^{−1}, 0.9658 Wm^{−1}K^{−1}, 2.1517 Jm^{−2}s^{−1/2}K^{−1}$, respectively. The magnitudes of the diurnal soil thermal parameters showed strong association with the levels of the water content. The thermal diffusivity was found to increase with the amount of soil moisture, up to about 22% of the volumetric water content, but fell as the water content further increases. Similar patterns of the soil moisture levels were noticeable both for the thermal conductivity and admittance.</p>
+				</abstract>
+				<keywords>Soil moisture;thermal diffusivity;volumetric heat capacity;thermal conductivity;thermal admittance.</keywords>
+				<authors>
+					<author>
+						<name first="M. S." last="Roxy">M. S. Roxy</name>
+						<affiliation>Department of Physics, Sree Narayana College, Kollam 691 001, India.</affiliation>
+						<email>roxyms@gmail.com</email>
+					</author>
+					<author>
+						<name first="V. B." last="Sumithranand">V. B. Sumithranand</name>
+						<affiliation>Govt. Higher Secondary School, Kulathoor, Thiruvananthapuram 695 583, India.</affiliation>
+					</author>
+					<author>
+						<name first="G." last="Renuka">G. Renuka</name>
+						<affiliation>The Kerala State Council for Science, Technology and Environment (KSCSTE), Sasthra Bhavan, Thiruvananthapuram 695 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-09</date>
+					<date type="R">2014-07-17</date>
+					<date type="A">2014-07-23</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Assessment of groundwater salinity in Nellore district using multi-electrode resistivity imaging technique</title>
+				<feature></feature>
+				<page>1809-1817</page>
+				<abstract>
+					<p>Multi-electrode resistivity imaging survey with 48 electrodes was carried out to assess the extent of salinity inland, in the shallow subsurface in Nellore district, Andhra Pradesh, in the Eastern Ghats Mobile Belt (EGMB) region. Resistivity data were recorded using Wenner–Schlumberger configuration at nine sites along a profile of about 55 km in length, laid perpendicular to the coast. An average spacing of 6 km is maintained between each site. Assessment of groundwater salinity in the study area was made by joint interpretation of the two-dimensional (2D) geoelectrical models of all the sites together with the geochemical analysis results of water samples and geology. At sites closer to the coast, 2D geoelectrical models of the subsurface indicate low resistivities (2–50 $\Omega $m) in the depth range from surface up to 15 m. Such low resistivities are due to the high salinity of the groundwater. Geochemical analysis results of water samples at six locations close to the electrical resistivity survey sites also suggest high salinity and high concentrations of total dissolved solids and other chemicals at sites closer to the coast. Away from the coast, the resistivities in the depth range from surface up to 15 m vary in the range of 50–150 $\Omega $m. Accordingly, the chemical analysis of water samples collected at these sites also showed relatively low levels of salinity and salt concentrations in them. However, away from the coast, the resistivities vary in the range of 150–1500 $\Omega $m in the depth range from 20–40 m. While the aquaculture and agriculture activities may contribute to high salinity at the sites closer to the coast, the presence of deep-seated paleochannels aiding in transporting seawater inland, and water–rock interactions are suspected to be the chief causes for notable salinity at places away from the coast at shallow depths. We opine that the high salinity at shallow depths, coupled with the deep-seated paleochannels transporting seawater, could pose problems to probe further depths particularly using electromagnetic induction methods in the study region.</p>
+				</abstract>
+				<keywords>Electrical resistivity imaging;Nellore district;groundwater salinity;geochemistry.</keywords>
+				<authors>
+					<author>
+						<name first="E." last="Chandrasekhar">E. Chandrasekhar</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+						<email>esekhar@iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="Deshmukh" last="Ramesh">Deshmukh Ramesh</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="Trupti" last="Gurav">Trupti Gurav</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+					<author>
+						<name first="T. K." last="Biswal">T. K. Biswal</name>
+						<affiliation>Department of Earth Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-23</date>
+					<date type="R">2014-07-22</date>
+					<date type="A">2014-07-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geomorphic settings of mangrove ecosystem in South Andaman Island: A geospatial approach</title>
+				<feature></feature>
+				<page>1819-1830</page>
+				<abstract>
+					<p>Mangroves are habitats in the coasts of tropics and subtropics, hence the geomorphology of the coast prevails in both the ocean and the land processes. To study the geomorphic setting of mangroves, it is necessary to explore both the topography of the land and the bathymetry of the sea. In this study, the geomorphic setting of mangroves in the South Andaman Island has been studied in detail using remote sensing and GIS technology. The ortho-rectified IRS satellite image was used to identify and to map the mangroves and the associated features using the visual interpretation technique. Using the GIS technique, topographic and bathymetric DEMs (Digital Elevation Models) were created to understand the geomorphology and its influence on the mangrove ecosystem. This DEM was interpreted with mangrove distribution and its associated features to create the DTM (Digital Terrain Model) of the mangrove ecosystem. Topography and bathymetry of the coast result in three dominant features like rivers, tides and waves, which play a role in shaping the geomorphic settings of mangroves, which are classified into five major types. In this study, it is identified that all the five categories of major geomorphic settings of the mangrove community exist in the south Andaman. In the field surveys, ground truth of topographic elevation, mangrove species, and associated coastal land cover features were identified and confirmed in these geomorphic settings. It is concluded that topography and bathymetry settings of the island play an indispensable role in this fragile mangrove ecosystem.</p>
+				</abstract>
+				<keywords>Mangrove;south Andaman;geomorphic setting;topography;bathymetry;remote sensing and GIS.</keywords>
+				<authors>
+					<author>
+						<name first="E." last="Yuvaraj">E. Yuvaraj</name>
+						<affiliation>Department of Disaster Management, Pondicherry University, Port Blair, Andamans 744 112, India.</affiliation>
+						<email>yuvaerd22@gmail.com</email>
+					</author>
+					<author>
+						<name first="K." last="Dharanirajan">K. Dharanirajan</name>
+						<affiliation>Department of Disaster Management, Pondicherry University, Port Blair, Andamans 744 112, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Jayakumar">S. Jayakumar</name>
+						<affiliation>Department of Botany, JNRM College, Port Blair, Andamans 744 101, India.</affiliation>
+					</author>
+					<author>
+						<name first="" last="Saravanan">Saravanan</name>
+						<affiliation>Department of Disaster Management, Pondicherry University, Port Blair, Andamans 744 112, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-03-19</date>
+					<date type="R">2014-07-11</date>
+					<date type="A">2014-07-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A feasibility study on identification of \textit {Basmati} (aromatic) rice using SAR data</title>
+				<feature></feature>
+				<page>1831-1838</page>
+				<abstract>
+					<p>Rice areas in India are being mapped for acreage estimation using Synthetic Aperture Radar (SAR) data under forecasting agricultural output using space, agrometeorology and land-based observations (FASAL) program for over a decade now. Under this study, an attempt was made to segregate rice areas based on variety in parts of Punjab state. Data acquisition was done at critical stages of rice growth. The shift in transplantation in temporal domain and difference in canopy volume formed the basis of characterization of rice crop into two different varieties namely aromatic and non-aromatic. Multitemporal HH polarization data along with rate of change of cross polarization ratio (HH/HV) from July to September 2011 was used. The aromatic rice could be separated from normal rice with 91% accuracy.</p>
+				</abstract>
+				<keywords>SAR;backscatter;aromatic rice;cross-polarization ratio;radiative transfer.</keywords>
+				<authors>
+					<author>
+						<name first="Varunika" last="Jain">Varunika Jain</name>
+						<affiliation>EPSA, Space Applications Centre, Ahmedabad, India.</affiliation>
+						<email>varunika@sac.isro.gov.in</email>
+					</author>
+					<author>
+						<name first="C." last="Patnaik">C. Patnaik</name>
+						<affiliation>EPSA, Space Applications Centre, Ahmedabad, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Panigrahy">S. Panigrahy</name>
+						<affiliation>EPSA, Space Applications Centre, Ahmedabad, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-13</date>
+					<date type="R">2014-06-11</date>
+					<date type="A">2014-07-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Mantle source characterization of Sylhet Traps, northeastern India: A petrological and geochemical study</title>
+				<feature></feature>
+				<page>1839-1855</page>
+				<abstract>
+					<p>In this study, mineralogical, geochemical, and isotopic data are presented for the Sylhet Trap at the southern flank of the eastern Shillong Plateau, northeastern India, to determine the magma genesis in relation to the Kerguelen plume mantle source. Sylhet Trap rocks are porphyritic tholeiite and have diverse chemical compositions from picro-basalt, basalt, andesite to dacite, but mostly are within the subalkaline field. Major and trace element data were used to identify two distinct magma fractionation trends, a low and medium K series, characterized by relatively flat MORB-like (analogous to Rajmahal Traps (II)) and enriched OIB chondrite-normalized Rare Earth Element (REE) patterns. Initial $^{87}Sr/^{86}Sr, ^{143}Nd/^{144}Nd$, and $^{206}Pb/^{204}Pb$ isotope compositions were widely varied, ranging from 0.70435–0.71357, 0.51196–0.51266, and 17.92–19.72, respectively, when compared with basalts from the West Bengal, the Rajmahal Traps and the Kerguelen plume. Correlations among isotopic and trace element ratios of the Sylhet Traps provide evidence for the involvement of (1) HIMU-like mantle component, (2) the Kerguelen plume-like component, and (3) EMII-like crustal component. Magma from the Sylhet Traps was originated from a melting that derived directly from the heterogeneous Kerguelen mantle plume (components 1 and 2), which strongly suggests the presence of the Kerguelen plume-head in the Bengal basin.</p>
+				</abstract>
+				<keywords>Sylhet Traps;Shillong Plateau;Kerguelen;mantle plume.</keywords>
+				<authors>
+					<author>
+						<name first="Md Shofiqul" last="Islam">Md Shofiqul Islam</name>
+						<affiliation>Department of Physics and Earth Sciences, University of the Ryukyus, Senbaru 1, Nishihara, Okinawa 903-0213, Japan.</affiliation>
+						<affiliation>Department of Petroleum and Mining Engineering, Shahjalal University of Science and Technology, Sylhet 3114, Bangladesh.</affiliation>
+						<email>sho_fiq@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Daniel" last="Meshesha">Daniel Meshesha</name>
+						<affiliation>Department of Physics and Earth Sciences, University of the Ryukyus, Senbaru 1, Nishihara, Okinawa 903-0213, Japan.</affiliation>
+						<affiliation>EL MINING PLC, Addis Ababa, Ethiopia.</affiliation>
+					</author>
+					<author>
+						<name first="Ryuichi" last="Shinjo">Ryuichi Shinjo</name>
+						<affiliation>Department of Physics and Earth Sciences, University of the Ryukyus, Senbaru 1, Nishihara, Okinawa 903-0213, Japan.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-26</date>
+					<date type="R">2014-04-07</date>
+					<date type="A">2014-07-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Permian ultrafelsic A-type granite from Besar Islands group, Johor, peninsular Malaysia</title>
+				<feature></feature>
+				<page>1857-1878</page>
+				<abstract>
+					<p>The granitic rocks of the peninsula have traditionally been divided into two provinces, i.e., Western and Eastern provinces, corresponding to S- and I-type granite respectively. The Western Province granite is characterised by megacrystic and coarse-grained biotite, tin-mineralised, continental collision granite, whereas, the Eastern Province granite is bimodal I-type dominated by granodiorite and associated gabbroic of arc type granite. This paper reports the occurrence of an A-type granite from peninsular Malaysia. The rocks occur in the Besar, Tengah, and Hujung islands located in the southeastern part of the peninsula. The granite is highly felsic with $SiO_{2}$ ranging from 75.70% to 77.90% (differentiation index = 94.2–97.04). It is weakly peraluminous (average ACNK=1.02), has normative hypersthene (0.09–2.19%) and high alkali content (8.32–8.60%). The granites have many A-type characteristics, among them are shallow level of emplacement, high Ga, $Fe_{T}/MgO$ and low P, Sr, Ti, CaO and Nb. Calculated zircon saturation temperatures for the Besar magma ranging from $793^\circ to 806^\circ C$ is consistent with high temperature partial melting of a felsic infracrustal source which is taken as one of the mechanisms to produce A-type magma. The occurrence of the A-type granite can be related to the extensional back arc basin in the Indo-China terrane during the earliest Permian.</p>
+				</abstract>
+				<keywords>Ultrafelsic granite;A-type granite;peninsular Malaysia;Johor island;eastern belt.</keywords>
+				<authors> 
+					<author>
+						<name first="Azman A." last="Ghani">Azman A. Ghani</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+						<email>azmangeo@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Fatin Izzani" last="Hazad">Fatin Izzani Hazad</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Azmiah" last="Jamil">Azmiah Jamil</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Quek Long " last="Xiang">Quek Long Xiang</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Wan Nur Atiqah Wan" last="Ismail">Wan Nur Atiqah Wan Ismail</name>
+						<affiliation>J Resources Sdn. Bhd. P.O. Box 49, 27207 Kuala Lipis Pahang, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Sun-Lin" last="Chung">Sun-Lin Chung</name>
+						<affiliation>Department of Geosciences, National Taiwan University, Taipei, Taiwan.</affiliation>
+					</author>
+					<author>
+						<name first="Yu-Ming" last="Lai">Yu-Ming Lai</name>
+						<affiliation>Department of Geosciences, National Taiwan University, Taipei, Taiwan.</affiliation>
+					</author>
+					<author>
+						<name first="Muhammad Hatta" last="Roselee">Muhammad Hatta Roselee</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Nur" last="Islami">Nur Islami</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Kyaw Kyaw" last="Nyein">Kyaw Kyaw Nyein</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Meor Hakif Amir" last="Hassan">Meor Hakif Amir Hassan</name>
+						<affiliation>Department of Geology, University of Malaya, 50603, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Mohd Farid Abu" last="Bakar">Mohd Farid Abu Bakar</name>
+						<affiliation>SapuraKencana Petroleum Bhd, Kuala Lumpur, Malaysia.</affiliation>
+					</author>
+					<author>
+						<name first="Mohd Rozi" last="Umor">Mohd Rozi Umor</name>
+						<affiliation>Science & Technology Faculty, University Kebangsaan Malaysia, 43600 Bangi, Selangor, Malaysia.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-27</date>
+					<date type="R">2014-07-07</date>
+					<date type="A">2014-07-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Palynostratigraphy of Permian succession in the Mand–Raigarh Coalfield, Chhattisgarh, India and phytogeographical provincialism</title>
+				<feature></feature>
+				<page>1879-1893</page>
+				<abstract>
+					<p>Palynofloras have been recorded from the Barakar Formation in the Borehole MBKW-3, Barpali–Karmitikra Block, Mand–Raigarh Coalfield, Chhattisgarh. Three distinct palynoassemblages have been identified and referred to the following palynoassemblage zones – \textit {Gondisporites raniganjensis} (Latest Permian); \textit {Faunipollenites varius} (latest Early Permian), and \textit {Scheuringipollenites barakarensis} (late Early Permian). It is inferred that these deposits contain the representative palynoassamblages of Early to Late Permian in age. The First Appearance Datum (FAD)s of \textit {Arcuatipollenites pellucidus, A. ovatus, Guttulapollenites hannonicus, Lundbladispora microconata, Alisporites opii, Klausipollenites} sp., and \textit {Goubinispora indica} (at 41.95, 45.90, 98.35 m depths), indicate the closing phase of Permian, as these elements are the key species that mark a transition from Permian to the Lower Triassic. An attempt has been made here to reconstruct the phytogeographical provincialism on the basis of \textit {Guttulapollenites} recorded in this basin.</p>
+				</abstract>
+				<keywords>Palynology;Permian;phytogeography;Mand–Raigarh Coalfield.</keywords>
+				<authors>
+					<author>
+						<name first="Srikanta" last="Murthy">Srikanta Murthy</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, 53 University Road, Lucknow 226 007, India.</affiliation>
+						<email>Srikanta_murthy22@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="" last="Ram-Awatar">Ram-Awatar</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, 53 University Road, Lucknow 226 007, India.</affiliation>
+					</author>
+					<author>
+						<name first="Saurabh" last="Gautam">Saurabh Gautam</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, 53 University Road, Lucknow 226 007, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-01-06</date>
+					<date type="R">2014-06-13</date>
+					<date type="A">2014-06-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Palynostratigraphy of Permian succession from Binja Block, South Karanpura Coalfield, Jharkhand, India</title>
+				<feature></feature>
+				<page>1895-1906</page>
+				<abstract>
+					<p>Palynological investigations are carried out on approximately 538.00-m thick Gondwana strata from borehole SKB-1, Binja Block, South Karanpura Coalfield in Jharkhand. Based on the distribution pattern of age marker palynotaxa, two distinct palynoassemblages are identified. Palynoassemblage-I in the lithologically designated Barren Measures and Barakar formations, between 552.00 and 53.20 m depth show dominance of striate bisaccate (\textit {Striatopodocarpites, Crescentipollenites}, and \textit {Faunipollenites}) and abundance of nonstriate bisaccate (\textit {Scheuringipollenites}). Upward the Palynoassemblage-II (39.50–13.80 m depth) is rich in striate bisaccate (\textit {Striatopodocarpites} and \textit {Crescentipollenites}) and significant enveloping monosaccate \textit {Densipollenites magnicorpus} pollen. These strata have been equated with Raniganj Formation of Latest Permian age. The First Appearance Datum (FAD) of \textit {Arcuatipollenites pellucidus, Playfordiaspora cancellosa, Alisporites} sp., \textit {Falcisporites} sp. and \textit {Krempipollenites indicus} observed at 13.80 and 39.50 m depth, mark the transition of Permian into the Lower Triassic. The FADs of \textit {Guttulapollenites} spp. at 49.10 and 504.70 m, \textit {Goubinispora morondavensis} at 415.90 m, \textit {Alisporites ovalis} and \textit {Arcuatipollenites} sp. at 526.70 m is observed and suggest that these sediments are equivalent to Raniganj Formation, Late Permian in age.</p>
+				</abstract>
+				<keywords>Palynostratigraphy;Permian;Raniganj Formation;Barren Measures;Barakar Formation;Binja Block;South Karanpura Coalfield.</keywords>
+				<authors>
+					<author>
+						<name first="Srikanta" last="Murthy">Srikanta Murthy</name>
+						<affiliation>Birbal Sahni Institute of Palaeobotany, Lucknow 226 007, India.</affiliation>
+						<email>srikanta_murthy22@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Archana" last="Tripathi">Archana Tripathi</name>
+						<affiliation>Geological Survey of India, Kolkata, India.</affiliation>
+					</author>
+					<author>
+						<name first="B." last="Chakraborti">B. Chakraborti</name>
+						<affiliation>Geological Survey of India, Kolkata, India.</affiliation>
+					</author>
+					<author>
+						<name first="U. P." last="Singh">U. P. Singh</name>
+						<affiliation>Geological Survey of India, Kolkata, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-10</date>
+					<date type="R">2014-06-13</date>
+					<date type="A">2014-07-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geoelectric structure estimated from magnetotelluric data from the Uttarakhand Himalaya, India</title>
+				<feature></feature>
+				<page>1907-1918</page>
+				<abstract>
+					<p>Geoelectric strike and resistivity structure of the crust have been estimated from 37 magnetotelluric (MT) data sites along a profile from Roorkee to Gangotri in Uttarakhand Himalaya. Impedance decomposition schemes based on Bahr’s, Groom Bailey and Phase tensor were implemented in a MATLAB code for the average strike estimation. Geoelectric strike direction varies with period as well as in different lithotectonic units along the profile. In the period band from 1 to 100 s average geoelectric strike in the southern end of the profile (Indo-Gangetic Plains) is $N79^\circ W$, which is slightly rotated to the north in the Lesser Himalayan region and becomes $N68^\circ W$ whereas it is $N81^\circ W$ in the Higher Himalayan region. However, average strike is stabilized to $N77^\circ W$ for the entire profile in the long period band (100–1000 s). Geoelectrical structure of the crust has been obtained along the profile by 2D inversion of MT data. Major features of 2D resistivity model are: (i) southern part of the model is a low resistivity (&mt; 50 $\Omega $m) zone at shallow depth (5–7 km) representing the loose sediments of the Indo-Gangetic Plains (IGP), whose thickness increases in the south; (ii) highly resistive (>1000 $\Omega $m) layer below the IGP sediments is the basement rock, representing the resistivity of the top of the subducting Indian Plate; (iii) the Main Boundary Thrust (MBT) and the Main Central Thrust (MCT) zones can be seen in the electrical image. However, the Himalayan Frontal Thrust (HFT) could not be resolved and (iv) a low resistivity (&mt; 10 $\Omega $m) feature in the MCT zone extending to the depth of 30 km is delineated. This low resistivity could be due to fluid-filled fractured rock matrix or partial melt zone. Hypocenters of many earthquakes are concentrated along the boundary of this low resistivity zone and relatively high resistivity blocks around it. The resulted model supports flat-ramp-flat geometry of the Main Himalayan Thrust along which the Indian Plate is subducting.</p>
+				</abstract>
+				<keywords>Magnetotelluric;Uttarakhnad Himalayan region;geoelectric strike;crustal structure.</keywords>
+				<authors>
+					<author>
+						<name first="Rohit" last="Miglani">Rohit Miglani</name>
+						<affiliation>Indian Institute of Technology Roorkee, Roorkee 247 667, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Shahrukh">M. Shahrukh</name>
+						<affiliation>Indian Institute of Technology Roorkee, Roorkee 247 667, India.</affiliation>
+					</author>
+					<author>
+						<name first="M." last="Israil">M. Israil</name>
+						<affiliation>Indian Institute of Technology Roorkee, Roorkee 247 667, India.</affiliation>
+						<email>mohammad.israil@gmail.com</email>
+					</author>
+					<author>
+						<name first="Pravin K." last="Gupta">Pravin K. Gupta</name>
+						<affiliation>Indian Institute of Technology Roorkee, Roorkee 247 667, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. K." last="Varshney">S. K. Varshney</name>
+						<affiliation>Department of Science and Technology, New Mehrauli Road, New Delhi 110 016, India.</affiliation>
+					</author>
+					<author>
+						<name first="Sokolova" last="Elena">Sokolova Elena</name>
+						<affiliation>Institute of the Physics of the Earth, Russian Academy of Sciences, Moscow, Russia.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-20</date>
+					<date type="R">2014-05-07</date>
+					<date type="A">2014-07-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A new PPP algorithm for deformation monitoring with single-frequency receiver</title>
+				<feature></feature>
+				<page>1919-1926</page>
+				<abstract>
+					<p>Considering the applications of deformation monitoring, PPP (precise point positioning) with singlefrequency (SF) receivers has the advantages of stand-alone, absolute positioning and cost efficiency. However, the existing SF PPP methods can be hardly implemented for deformation monitoring directly due to their limited precision of submeter level. For this purpose, an innovative approach is presented in this paper with several improvements to the existing approaches: firstly, the SEID (Satellite-specific Epoch-differenced Ionospheric Delay) model is adopted in SF kinematic PPP to handle the ionospheric delays for SF receivers embedded in networks of dual-frequency (DF) receivers; secondly, according to the dynamic characteristic of the monitor station, a combination of kinematic PPP and sliding window based static PPP algorithm is adopted. To confirm the availability of the algorithm for deformation monitoring with SF receiver, a seismic experiment is carried out on an earthquake simulation platform. Comparable positioning precision with 1.5 cm for horizontal and 2.2 cm for vertical is achieved by SF PPP with respect to RTK (real-time kinematic) solution. The new deformation monitoring algorithm with SF receiver can be treated as an effective and low cost way to realize some types of geological hazard monitoring in a wide range.</p>
+				</abstract>
+				<keywords>PPP;deformation monitoring;single-frequency PPP;sliding window.</keywords>
+				<authors>
+					<author>
+						<name first="Yanli" last="Zheng">Yanli Zheng</name>
+						<affiliation>School of Land Science and Technology, China University of Geosciences (Beijing), Beijing, China.</affiliation>
+						<email>Yanli-zheng@163.com</email>
+					</author>
+					<author>
+						<name first="Rui" last="Zhang">Rui Zhang</name>
+						<affiliation>College of Informatics, South China Agricultural University, Guangzhou, Guangdong, China.</affiliation>
+					</author>
+					<author>
+						<name first="Shengfeng" last="Gu">Shengfeng Gu</name>
+						<affiliation>Research Center of GNSS, Wuhan University, Wuhan, China.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-09-03</date>
+					<date type="R">2014-07-15</date>
+					<date type="A">2014-07-17</date>
 				</dates>
 			</entry>
 			
