@@ -30130,14 +30130,974 @@
 			<entry hassup="0">
 				<title>Location specific forecasting of maximum and minimum temperatures over India by using the statistical bias corrected output of global forecasting system</title>
 				<feature></feature>
-				<page>000-000</page>
+				<page>1171-1195</page>
+				<abstract>
+					<p>The output from Global Forecasting System (GFS) T574L64 operational at India Meteorological Department (IMD), New Delhi is used for obtaining location specific quantitative forecast of maximum and minimum temperatures over India in the medium range time scale. In this study, a statistical bias correction algorithm has been introduced to reduce the systematic bias in the 24–120 hour GFS model location specific forecast of maximum and minimum temperatures for 98 selected synoptic stations, representing different geographical regions of India. The statistical bias correction algorithm used for minimizing the bias of the next forecast is Decaying Weighted Mean (DWM), as it is suitable for small samples. The main objective of this study is to evaluate the skill of Direct Model Output (DMO) and Bias Corrected (BC) GFS for location specific forecast of maximum and minimum temperatures over India. The performance skill of 24–120 hour DMO and BC forecast of GFS model is evaluated for all the 98 synoptic stations during summer (May–August 2012) and winter (November 2012–February 2013) seasons using different statistical evaluation skill measures. The magnitude of Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) for BC GFS forecast is lower than DMO during both summer and winter seasons. The BC GFS forecasts have higher skill score as compared to GFS DMO over most of the stations in all day-1 to day-5 forecasts during both summer and winter seasons. It is concluded from the study that the skill of GFS statistical BC forecast improves over the GFS DMO remarkably and hence can be used as an operational weather forecasting system for location specific forecast over India.</p>
+				</abstract>
+				<keywords>Statistical bias correction;location specific forecast;DMO;Numerical Weather Prediction;maximum and minimum temperature forecast.</keywords>
+				<authors>
+					<author>
+						<name first="V. R." last="Durai">V. R. Durai</name>
+						<affiliation>India Meteorological Department, New Delhi 110 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="Rashmi" last="Bhardwaj">Rashmi Bhardwaj</name>
+						<affiliation>Guru Gobind Singh Indraprastha University, Dwarka, Delhi 110 078, India.</affiliation>
+						<email>rashmib@ipu.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-13</date>
+					<date type="R">2014-01-31</date>
+					<date type="A">2014-02-25</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="06" month="08" year="2014">
+			<entry hassup="0">
+				<title>Observed seasonal and intraseasonal variability of the East India Coastal Current on the continental slope</title>
+				<feature></feature>
+				<page>1197-1232</page>
+				<abstract>
+					<p>We present data from three acoustic Doppler current profilers (ADCPs) moored off Cuddalore ($12^\circ N$), Kakinada ($16.5^\circ N$), and Gopalpur ($19^\circ N$) on the continental slope of the western Bay of Bengal and one mooring on the slope of the northern bay ($89^\circ E, 19^\circ N$; referred to as being located at Paradip). The data were collected during May 2009 to March 2013 and the observations show that the seasonal cycle, which includes the annual cycle, the semi-annual cycle, and a peak around 120 days, dominates the observed variability of the East India Coastal Current (EICC). Spectral analysis suggests that the 120-day peak dominates the seasonal variability at Paradip and is strong at Gopalpur and Kakinada. The annual cycle is coherent along the western boundary of the bay, i.e., the east coast of India, but with significant phase differences between moorings. At the semi-annual and 120-day periods, the alongshore coherence is weaker. Intraseasonal variability is weaker than the seasonal cycle, particularly at Cuddalore and Paradip, and it exhibits seasonality: the strongest intraseasonal variation is during spring (February–April). Peaks around 12 and 20–22 days are also seen at Gopalpur, Kakinada, and Cuddalore. A striking feature of the currents is the upward phase propagation, but there are also instances when phase propagates downward. The much lower vertical phase speed in the top $\sim $100 m at Cuddalore leads to a distinct undercurrent at this location; at other locations, the undercurrent, though it exists often, is not as striking. During spring, however, the EICC tends to flow poleward (eastward) at Cuddalore, Kakinada, and Gopalpur (Paradip) over the top $\sim $300 m, which is the maximum depth to which observations were made. The cross-shore component of the EICC is much weaker than the alongshore component at Cuddalore and, except for a few bursts during spring, at Kakinada and Gopalpur. It is only at Paradip, on the slope of the northern boundary, that significant cross-shore flows are seen during spring and the summer monsoon (June–August) and these flows are seen to be associated with eddy-like circulations in the altimeter data. We use the ADCP data to validate popular current data products like OSCAR (Ocean Surface Currents Analyses Real-time), ECCO2 (Estimating the Circulation and Climate of the Ocean, Phase II), and GODAS (Global Ocean Data Assimilation System). The OSCAR currents at Paradip match the observed currents well, but the correlation is much weaker at the other three locations. Both ECCO2 and GODAS fair poorly, particularly the latter because its variability in this boundary-current regime is extremely weak. Though it performs badly at Paradip, ECCO2 does capture the observed variability on occasions at the other locations.</p>
+				</abstract>
+				<keywords>Western-boundary current;North Indian Ocean;Bay of Bengal;Acoustic Doppler current profiler;seasonal cycle;intraseasonal varaibility, time series.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Mukherjee">A. Mukherjee</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Shankar">D. Shankar</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+						<email>shankar@nio.org</email>
+					</author>
+					<author>
+						<name first="V." last="Fernando">V. Fernando</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="P." last="Amol">P. Amol</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. G." last="Aparna">S. G. Aparna</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Fernandes">R. Fernandes</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="G. S." last="Michael">G. S. Michael</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="S. T." last="Khalap">S. T. Khalap</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="N. P." last="Satelkar">N. P. Satelkar</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="Y." last="Agarvadekar">Y. Agarvadekar</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. G." last="Gaonkar">M. G. Gaonkar</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. P." last="Tari">A. P. Tari</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="A." last="Kankonkar">A. Kankonkar</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="S." last="Vernekar">S. Vernekar</name>
+						<affiliation>CSIR–National Institute of Oceanography (CSIR–NIO), Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-01</date>
+					<date type="R">2014-05-07</date>
+					<date type="A">2014-05-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Characterization of the atmospheric boundary layer from radiosonde observations along eastern end of monsoon trough of India</title>
+				<feature></feature>
+				<page>1233-1240</page>
+				<abstract>
+					<p>In this paper, a comparison of two methods for the calculation of the height of atmospheric boundary layer (ABL), using balloon-borne GPS radiosonde data is presented. ABL has been characterized using vertical profiles of meteorological parameter. The gradient of virtual potential temperature ($\theta _\textit {v}$) profile for the determination of mixed layer heights (MLH) and the mean value of turbulent flow depth (TFD) obtained from the vertical profile of Bulk Richardson Number (\textit {R_{iB}}) have been used in this study. Oneyear data have been used for the study. There is large seasonal variability in MLH with a peak in the summer and winter whereas the TFD remained steady throughout the year. Results from the present study indicate that the magnitudes of TFD are often larger than the MLH.</p>
+				</abstract>
+				<keywords>Boundary layer;GPS sonde;mixed layer height;turbulent flow depth.</keywords>
+				<authors>
+					<author>
+						<name first="Sagarika" last="Chandra">Sagarika Chandra</name>
+						<affiliation>Centre of Excellence in Climatology, Birla Institute of Technology Mesra, Ranchi 835 215, India.</affiliation>
+					</author>
+					<author>
+						<name first="Arun K." last="Dwivedi">Arun K. Dwivedi</name>
+						<affiliation>Centre of Excellence in Climatology, Birla Institute of Technology Mesra, Ranchi 835 215, India.</affiliation>
+						<email>akdwivedi30@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Manoj" last="Kumar">Manoj Kumar</name>
+						<affiliation>Centre for Environmental Sciences, Central University of Jharkhand, Ranchi 835 205, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-06-12</date>
+					<date type="R">2014-03-13</date>
+					<date type="A">2014-03-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Measurement of soil-gas radon in some areas of northern Rajasthan, India</title>
+				<feature></feature>
+				<page>1241-1247</page>
+				<abstract>
+					<p>The health hazards of the radioactive gas radon on general public are well known. In order to understand the level and distribution of $^{222}Rn$ concentrations in soil-gas in Sri Ganganagar district of Rajasthan, a $^{222}Rn$ survey was carried out for the first time using RAD7, an electronic radon detector manufactured by Durridge Company (USA), at different locations covering a total area of $10,978 km^{2}$, having a population of approximately 20 lakh. The measurement of $^{222}Rn$ concentration in soil-gas was carried out at four different depths (10, 40, 70, and 100 cm). The radon concentration in soil-gas for 10, 40, 70, and 100 cm depths ranged from 0.09–4.25, 0.15–6.30, 0.50–9.18, and 0.72–10.40 $kBq m^{−3}$, respectively. The minimum value of radon concentration is observed in 33 GB village at 10 cm depth and maximum for Mohanpura village at 100 cm depth. As expected, our data show an increase of soil-gas radon concentration levels with depth. The present results are compared with the available radon data from other studies.</p>
+				</abstract>
+				<keywords>Health hazards;RAD7;radon;Rajasthan;soil.</keywords>
+				<authors>
+					<author>
+						<name first="Vikas" last="Duggal">Vikas Duggal</name>
+						<affiliation>Department of Applied Sciences, Punjab Technical University, Jalandhar 144 601, India.</affiliation>
+						<email>vikasduggal86@yahoo.in</email>
+					</author>
+					<author>
+						<name first="Asha" last="Rani">Asha Rani</name>
+						<affiliation>Department of Applied Sciences, Ferozpur College of Engineering and Technology, Ferozshah, Ferozpur 142 052, India.</affiliation>
+					</author>
+					<author>
+						<name first="Rohit" last="Mehra">Rohit Mehra</name>
+						<affiliation>Department of Physics, Dr B. R. Ambedkar National Institute of Technology, Jalandhar144 001, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-01-13</date>
+					<date type="R">2014-05-03</date>
+					<date type="A">2014-05-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Sensitivity of meteorological input and soil properties in simulating aerosols (dust, $PM_{10}$, and BC) using CHIMERE chemistry transport model</title>
+				<feature></feature>
+				<page>1249-1264</page>
+				<abstract>
+					<p>The objective of this study is to evaluate the ability of a European chemistry transport model, ‘CHIMERE’ driven by the US meteorological model MM5, in simulating aerosol concentrations [dust, $PM_{10}$ and black carbon (BC)] over the Indian region. An evaluation of a meteorological event (dust storm); impact of change in soil-related parameters and meteorological input grid resolution on these aerosol concentrations has been performed. Dust storm simulation over Indo-Gangetic basin indicates ability of the model to capture dust storm events. Measured (AERONET data) and simulated parameters such as aerosol optical depth (AOD) and Angstrom exponent are used to evaluate the performance of the model to capture the dust storm event. A sensitivity study is performed to investigate the impact of change in soil characteristics (thickness of the soil layer in contact with air, volumetric water, and air content of the soil) and meteorological input grid resolution on the aerosol (dust, $PM_{10}$, BC) distribution. Results show that soil parameters and meteorological input grid resolution have an important impact on spatial distribution of aerosol (dust, $PM_{10}$, BC) concentrations.</p>
+				</abstract>
+				<keywords>Aerosols;particulate matter;chemical transport model.</keywords>
+				<authors>
+					<author>
+						<name first="Nishi" last="Srivastava">Nishi Srivastava</name>
+						<affiliation>Centre of Excellence in Climatology, Birla Institute of Technology, Mesra, Ranchi 835 215, India.</affiliation>
+						<email>nishi.bhu@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. K." last="Satheesh">S. K. Satheesh</name>
+						<affiliation>Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<affiliation>Divecha Centre for Climate Change, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+					</author>
+					<author>
+						<name first="Nadège" last="Blond">Nadège Blond</name>
+						<affiliation>Laboratoire Image Ville Environnement, UMR 7362CNRS/UDS, 3, rue de l’Argonne, 67000 Strasbourg, France.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-04</date>
+					<date type="R">2014-03-30</date>
+					<date type="A">2014-04-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Total column ozone retrieval using INSAT-3D sounder in the tropics: A simulation study</title>
+				<feature></feature>
+				<page>1265-1271</page>
+				<abstract>
+					<p>The present study examines the potential of infrared sounder observations from Indian geostationary satellite INSAT-3D for the estimation of total column integrated ozone over the tropical Indian region. A dataset with diverse profiles was used to create training and testing datasets using forward simulations from a radiative transfer model for infrared sounder channels. A study was carried out for the standard tropical atmospheric profile to examine the sensitivity of ozone band radiance corresponding to the atmospheric temperature, water vapour, and ozone mixing ratios at different atmospheric pressure levels. Further, statistical retrieval technique has been used for the total column ozone estimation using two different approaches: (i) ozone channel observation along with the \textit {a-priori} estimate of temperature and water vapour profile and (ii) only sounder channels observations. The accuracy of the retrieval algorithms was examined for different errors in the atmospheric profiles for the method (i) and different sensor noise specification for the method (ii). This study has shown that accurate temperature information is very important for ozone estimation and lower instrument noise results in better ozone estimates.</p>
+				</abstract>
+				<keywords>INSAT-3D;sounder;retrieval;total ozone.</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Jindal">P. Jindal</name>
+						<affiliation>Indian Institute of Remote Sensing, Dehradun 248 001, India.</affiliation>
+						<email>pooja_j@iirs.gov.in</email>
+					</author>
+					<author>
+						<name first="P. K." last="Thapliyal">P. K. Thapliyal</name>
+						<affiliation>Space Applications Centre, Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. V." last="Shukla">M. V. Shukla</name>
+						<affiliation>Space Applications Centre, Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="A. K." last="Mishra">A. K. Mishra</name>
+						<affiliation>Indian Institute of Remote Sensing, Dehradun 248 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="D." last="Mitra">D. Mitra</name>
+						<affiliation>Indian Institute of Remote Sensing, Dehradun 248 001, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-01</date>
+					<date type="R">2014-03-26</date>
+					<date type="A">2014-03-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spread-F during the magnetic storm of 22 January 2004 at low latitudes: Effect of IMF-Bz in relation to local sunset time</title>
+				<feature></feature>
+				<page>1273-1285</page>
+				<abstract>
+					<p>The paper describes the results of spread-F at low latitude stations around the world during the magnetic storm starting at 0130 UT on 22 January 2004. The storm can be divided into two phases, first phase up to 1000 UT when interplanetary magnetic field IMF-Bz was highly fluctuating around a small positive value and the second phase after a sudden large southward turning of IMF-Bz at 1030 UT. The first phase produced strong spread-F at Jicamarca, Sao Luis, and Ascension Island and caused complete inhibition of spread-F at Thumba and Waltair in India. It generated weak spread-F at Ho Chi Minh City in Vietnam and strong spread-F at Hainan and Chung Li. The strong spread-F at Hainan and Chung Li were caused by the positive IMF-Bz during the first phase of the storm and not by the negative pulse of IMF-Bz at 1000 UT.</p>
+				</abstract>
+				<keywords>Equatorial ionosphere;space weather;geomagnetic storm.</keywords>
+				<authors>
+					<author>
+						<name first="R. G." last="Rastogi">R. G. Rastogi</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="H." last="Chandra">H. Chandra</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email>hchandra@prl.res.in</email>
+					</author>
+					<author>
+						<name first="P." last="Janardhan">P. Janardhan</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+					</author>
+					<author>
+						<name first="Thai Lan" last="Hoang">Thai Lan Hoang</name>
+						<affiliation>Institute of Physics, Vietnam Academy of Sciences, Ho Chi Minh City, Vietnam.</affiliation>
+					</author>
+					<author>
+						<name first="Louis" last="Condori">Louis Condori</name>
+						<affiliation>Jicamarca Radio Observatory, Jicamarca, Peru.</affiliation>
+					</author>
+					<author>
+						<name first="T. K." last="Pant">T. K. Pant</name>
+						<affiliation>Space Physics Laboratory, Thiruvananthapuram, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. S. V. V. D." last="Prasad">D. S. V. V. D. Prasad</name>
+						<affiliation>Department of Physics, Andhra University, Vishakhapatnam 530 000, India.</affiliation>
+					</author>
+					<author>
+						<name first="B." last="Reinisc">B. Reinisc</name>
+						<affiliation>Digisonde International LLC 175, Lowell (Mass) 01854, USA.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-30</date>
+					<date type="R">2014-03-20</date>
+					<date type="A">2014-03-26</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The application of a hierarchical Bayesian spatiotemporal model for forecasting the SAA trapped particle flux distribution</title>
+				<feature></feature>
+				<page>1287-1294</page>
+				<abstract>
+					<p>We implement a hierarchical Bayesian spatiotemporal (HBST) model to forecast the daily trapped particle flux distribution over the South Atlantic Anomaly (SAA) region. The National Oceanic and Atmospheric Administration (NOAA)-15 data from 1–30 March 2008 with particle energies as &lt; 30 keV (mep0e1) and &lt; 300 keV (mep0e3) for electrons and 80–240 keV (mep0p2) and &lt;  6900 keV (mep0p6) for protons were used as the model input to forecast the flux values on 31 March 2008. Data were transformed into logarithmic values and gridded in a $5^\circ \times 5^\circ $ longitude and latitude size to fulfill the modeling precondition. A Monte Carlo Markov chain (MCMC) was then performed to solve the HBST Gaussian Process (GP) model by using the Gibbs sampling method. The result for this model was interpolated by a Kriging technique to achieve the whole distribution figure over the SAA region. Statistical results of the root mean square error (RMSE), mean absolute percentage error (MAPE), and bias (BIAS) showed a good indicator of the HBST method. The statistical validation also indicated the high variability of particle flux values in the SAA core area. The visual validation showed a powerful combination of HBST-GP model with Kriging interpolation technique. The Kriging also produced a good quality of the distribution map of particle flux over the SAA region as indicated by its small variance value. This suggests that the model can be applied in the development of a Low Earth Orbit (LEO)-Equatorial satellite for monitoring trapped particle radiation hazard.</p>
+				</abstract>
+				<keywords>Forecasting;SAA;trapped particle;hierarchical Bayesian;spatiotemporal.</keywords>
+				<authors>
+					<author>
+						<name first="Wayan" last="Suparta">Wayan Suparta</name>
+						<affiliation>Space Science Centre (ANGKASA), Institute of Climate Change, Universiti Kebangsaan Malaysia, 43600 Bangi, Selangor Darul Ehsan, Malaysia.</affiliation>
+						<email>wayan@ukm.edu.my</email>
+					</author>
+					<author>
+						<name first="" last="Gusrizal">Gusrizal</name>
+						<affiliation>Space Science Centre (ANGKASA), Institute of Climate Change, Universiti Kebangsaan Malaysia, 43600 Bangi, Selangor Darul Ehsan, Malaysia.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-19</date>
+					<date type="R">2014-03-06</date>
+					<date type="A">2014-03-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A hydrological simulation of the water regime in two playa lakes located in southern Spain</title>
+				<feature></feature>
+				<page>1295-1305</page>
+				<abstract>
+					<p>The subject of this paper is the detailed hydrological simulation of two playa lakes located in southern Spain from January 2011 to March 2012 on a daily basis. These playas are placed over a $400-km^{2}$ shallow aquifer, which is exposed to an increasing stress caused by agricultural activities, mainly olive grove plantations. The objective of the paper is to elaborate a detailed numeric model that simulates the water regime of each playa lake on a daily scale. The simulation is compared to measured water level (WL) data of the playas in order to characterize the groundwater–surface interactions. The ultimate objective of this paper is to assess the environmental impact of the increasing anthropogenic water consumption within the area of research. The results of the GW–surface interaction were very consistent with previous works. One of the playa lakes is groundwater-dependent and the other one is presumably a perched playa lake. The GW discharge of the former playa (214 mm) during the research period stands in sharp contrast to no regional GW discharge in the latter. Water level data prove that the hydrological year (2011–2012) had a very negative water budget. The evapotranspiration estimation was almost as high as double the sum of the precipitation, the runoff, and the groundwater discharge. The simulation of an anthropologically altered water regime proves that water retrieval has a harmful impact on the WL of the playa lakes as well as on the aquifer.</p>
+				</abstract>
+				<keywords>Hydrology;modelling;wetlands;irrigation</keywords>
+				<authors>
+					<author>
+						<name first="Rodriguez-Rodriguez" last="Miguel">Rodriguez-Rodriguez Miguel</name>
+						<affiliation>University Pablo de Olavide, Seville, Spain.</affiliation>
+						<email>mrodrod@upo.es</email>
+					</author>
+					<author>
+						<name first="Schilling" last="Malte">Schilling Malte</name>
+						<affiliation>Carl Von Ossietzy University, Oldemburg, Germany.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-01-10</date>
+					<date type="R">2013-10-05</date>
+					<date type="A">2014-03-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Response of bankfull discharge of the Inner Mongolia Yellow River to flow and sediment factors</title>
+				<feature></feature>
+				<page>1307-1316</page>
+				<abstract>
+					<p>Bankfull discharge is a comprehensive factor reflecting the channel-forming capability of water flow and the flood and sediment transport capacity of a river channel. It is based on the interaction of the flow, sediment, and river channel, of which flow and sediment conditions play crucial roles. Using data recorded since the 1950s, this paper analyses statistically, the characteristics and variations of bankfull discharge at two stations on the Inner Mongolian reaches of the upper Yellow River. Results indicate that flood season variations in bankfull discharge are nonlinear and are governed by flood peak discharge, mean discharge, and the mean incoming sediment coefficients. Variation in bankfull discharge is related not only to the flow and sediment conditions of the current year but also to those of previous years. The 10-year moving average of flow and sediment conditions can be representative of present and previous years. By considering flood season peak discharge and incoming sediment coefficients as independent impact factors, a formula is derived to determine bankfull discharge. The results can be used to predict the bankfull discharge of the Yellow River channel in Inner Mongolia under specific flow and sediment conditions and provide reference for the purpose of further study related to restoring and maintaining the basic functions of the river channel regarding flood discharge and sediments.</p>
+				</abstract>
+				<keywords>Yellow River;Inner Mongolia;bankfull discharge;flood peak discharge;incoming sediment coefficient.</keywords>
+				<authors>
+					<author>
+						<name first="Suzhen" last="Hou">Suzhen Hou</name>
+						<affiliation>Yellow River Institute of Hydraulic Research, YRCC, Zhengzhou 450 003, China.</affiliation>
+					</author>
+					<author>
+						<name first="Ping" last="Wang">Ping Wang</name>
+						<affiliation>Yellow River Institute of Hydraulic Research, YRCC, Zhengzhou 450 003, China.</affiliation>
+						<email>wp_sc@sina.com</email>
+					</author>
+					<author>
+						<name first="Yan" last="Guo">Yan Guo</name>
+						<affiliation>Yellow River Institute of Hydraulic Research, YRCC, Zhengzhou 450 003, China.</affiliation>
+					</author>
+					<author>
+						<name first="Ting" last="Li">Ting Li</name>
+						<affiliation>Yellow River Institute of Hydraulic Research, YRCC, Zhengzhou 450 003, China.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-03-27</date>
+					<date type="R">2014-01-15</date>
+					<date type="A">2014-03-06</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analytical solutions for one-dimensional advection–dispersion equation of the pollutant concentration</title>
+				<feature></feature>
+				<page>1317-1324</page>
+				<abstract>
+					<p>We present simple analytical solutions for the unsteady advection–dispersion equations describing the pollutant concentration \textit {C(x, t)} in one dimension. The solutions are obtained by using Laplace transformation technique. In this study we divided the river into two regions \textit {x} $\leq $ 0 and \textit {x} $\geq $ 0 and the origin at \textit {x} = 0. The variation of \textit {C(x, t)} with the time \textit {t} from \textit {t} = 0 up to \textit {t} $\rightarrow  \infty $ (the steady state case) is taken into account in our study. The special case for which the dispersion coefficient \textit {D} = 0 is studied in detail. The parameters controlling the pollutant concentration along the river are determined.</p>
+				</abstract>
+				<keywords>Pollutant;concentration;Laplace transformation;dispersion.</keywords>
+				<authors>
+					<author>
+						<name first="Ali S." last="Wadi">Ali S. Wadi</name>
+						<affiliation>Department of Mathematics, AinShams University, Cairo 0020, Egypt.</affiliation>
+						<email>ali.wadi4@gmail.com</email>
+					</author>
+					<author>
+						<name first="Mourad F." last="Dimian">Mourad F. Dimian</name>
+						<affiliation>Department of Mathematics, AinShams University, Cairo 0020, Egypt.</affiliation>
+					</author>
+					<author>
+						<name first="Fayez N." last="Ibrahim">Fayez N. Ibrahim</name>
+						<affiliation>Department of Mathematics, AinShams University, Cairo 0020, Egypt.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-12</date>
+					<date type="R">2014-04-01</date>
+					<date type="A">2014-04-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Predictive permeability model of faults in crystalline rocks; verification by joint hydraulic factor (JH) obtained from water pressure tests</title>
+				<feature></feature>
+				<page>1325-1334</page>
+				<abstract>
+					<p>In the present study, a new model is proposed to predict the permeability per fracture in the fault zones by a new parameter named joint hydraulic factor (JH). JH is obtained from Water Pressure Test  WPT) and modified by the degree of fracturing. The results of JH correspond with quantitative fault zone descriptions, qualitative fracture, and fault rock properties. In this respect, a case study was done based on the data collected from Seyahoo dam site located in the east of Iran to provide the permeability prediction model of fault zone structures. Datasets including scan-lines, drill cores, and water pressure tests in the terrain of Andesite and Basalt rocks were used to analyse the variability of in-site relative permeability of a range from fault zones to host rocks. The rock mass joint permeability quality, therefore, is defined by the JH. JH data analysis showed that the background sub-zone had commonly &mt; 3 Lu (less of $5\times 10^{−5} m^{3}/s$) per fracture, whereas the fault core had permeability characteristics nearly as low as the outer damage zone, represented by 8 Lu ($1.3\times 10^{−4} m^{3}/s$) per fracture, with occasional peaks towards 12 Lu ($2\times 10^{−4} m^{3}/s$) per fracture. The maximum JH value belongs to the inner damage zone, marginal to the fault core, with 14–22 Lu ($2.3\times 10^{−4} –3.6 \times 10^{−4} m^{3}/s$) per fracture, locally exceeding 25 Lu ($4.1\times 10^{−4} m^{3}/s$) per fracture. This gives a proportional relationship for JH approximately 1:4:2 between the fault core, inner damage zone, and outer damage zone of extensional fault zones in crystalline rocks. The results of the verification exercise revealed that the new approach would be efficient and that the JH parameter is a reliable scale for the fracture permeability change. It can be concluded that using short duration hydraulic tests (WPTs) and fracture frequency (FF) to calculate the JH parameter provides a possibility to describe a complex situation and compare, discuss, and weigh the hydraulic quality to make predictions as to the permeability models and permeation amounts of different zone structures.</p>
+				</abstract>
+				<keywords>Permeability;fault zones;fracture distribution;water pressure test (WPT);joint hydraulic factor (JH);Seyahoo dam.</keywords>
+				<authors>
+					<author>
+						<name first="Hamidreza Rostami" last="Barani">Hamidreza Rostami Barani</name>
+						<affiliation>Department of Geology, Ferdowsi University of Mashhad (FUM), Mashhad, Iran.</affiliation>
+						<email>ha_barani@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Gholamreza" last="Lashkaripour">Gholamreza Lashkaripour</name>
+						<affiliation>Department of Geology, Ferdowsi University of Mashhad (FUM), Mashhad, Iran.</affiliation>
+					</author>
+					<author>
+						<name first="Mohammad" last="Ghafoori">Mohammad Ghafoori</name>
+						<affiliation>Department of Geology, Ferdowsi University of Mashhad (FUM), Mashhad, Iran.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-02</date>
+					<date type="R">2014-04-13</date>
+					<date type="A">2014-04-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Geomorphologic, stratigraphic and sedimentologic evidences of tectonic activity in Sone–Ganga alluvial tract in Middle Ganga Plain, India</title>
+				<feature></feature>
+				<page>1335-1347</page>
+				<abstract>
+					<p>The basement of the Ganga basin in the Himalayan foreland is criss-crossed by several faults, dividing the basin into several sub-blocks forming horsts, grabens, or half-grabens. Tectonic perturbations along basement faults have affected the fluvial regime and extent of sediment fill in different parts of the basin during Late Quaternary. The East Patna Fault (EPF) and the West Patna Fault (WPF), located in Sone–Ganga alluvial tract in the southern marginal parts of Middle Ganga Plain (MGP), have remained tectonically active. The EPF particularly has acted significantly and influenced in evolving the geomorphological landscape and the stratigraphic architecture of the area. The block bounded by the two faults has earlier been considered as a single entity, constituting a half-graben. The present investigation (by morpho-stratigraphic and sedimentologic means) has revealed the existence of yet another fault within the half-graben, referred to as Bishunpur–Khagaul Fault (BKF). Many of the long profile morphological characters (e.g., knick-zone, low width–depth ratio) of the Sone River at its lower reaches can be ascribed to local structural deformation along BKF. These basement faults in MGP lie parallel to each other in NE–SW direction.</p>
+				</abstract>
+				<keywords>Basement fault;tectonics;Sone–Ganga alluvial tract;geomorphology;sediment up-arching;bed-load grain size.</keywords>
+				<authors>
+					<author>
+						<name first="Sudarsan" last="Sahu">Sudarsan Sahu</name>
+						<affiliation>Central Ground Water Board, Mid-eastern Region, 6th and 7th floor, Lok Nayak Jai Prakash Bhawan, Fraser Road, Patna 800 001, India.</affiliation>
+						<email>sudarsan_cgwb@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Dipankar" last="Saha">Dipankar Saha</name>
+						<affiliation>Central Ground Water Board, Mid-eastern Region, 6th and 7th floor, Lok Nayak Jai Prakash Bhawan, Fraser Road, Patna 800 001, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-24</date>
+					<date type="R">2014-03-09</date>
+					<date type="A">2014-03-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Forest cover change prediction using hybrid methodology of geoinformatics and Markov chain model: A case study on sub-Himalayan town Gangtok, India</title>
+				<feature></feature>
+				<page>1349-1360</page>
+				<abstract>
+					<p>In the Himalayan states of India, with increasing population and activities, large areas of forested land are being converted into other land-use features. There is a definite cause and effect relationship between changing practice for development and changes in land use. So, an estimation of land use dynamics and a futuristic trend pattern is essential. A combination of geospatial and statistical techniques were applied to assess the present and future land use/land cover scenario of Gangtok, the subHimalayan capital of Sikkim. Multi-temporal satellite imageries of the Landsat series were used to map the changes in land use of Gangtok from 1990 to 2010. Only three major land use classes (built-up area and bare land, step cultivated area, and forest) were considered as the most dynamic land use practices of Gangtok. The conventional supervised classification, and spectral indices-based thresholding using NDVI (Normalized Difference Vegetation Index) and SAVI (Soil Adjusted Vegetation Index) were applied along with the accuracy assessments. Markov modelling was applied for prediction of land use/land cover change and was validated. SAVI provides the most accurate estimate, i.e., the difference between predicted and actual data is minimal. Finally, a combination of Markov modelling and SAVI was used to predict the probable land-use scenario in Gangtok in 2020 AD, which indicted that more forest areas will be converted for step cultivation by the year 2020.</p>
+				</abstract>
+				<keywords>Land-use dynamics;Markov chain modelling;NDVI;SAVI;supervised classification.</keywords>
+				<authors>
+					<author>
+						<name first="Anirban" last="Mukhopadhyay">Anirban Mukhopadhyay</name>
+						<affiliation>School of Oceanographic Studies, Jadavpur University, Kolkata, India.</affiliation>
+						<email>anirban_iirs@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Arun" last="Mondal">Arun Mondal</name>
+						<affiliation>Department of Water Resources Management and Development, Indian Institute of Technology, Roorkee, India.</affiliation>
+					</author>
+					<author>
+						<name first="Sandip" last="Mukherjee">Sandip Mukherjee</name>
+						<affiliation>TERI University, New Delhi, India.</affiliation>
+					</author>
+					<author>
+						<name first="Dipam" last="Khatua">Dipam Khatua</name>
+						<affiliation>School of Oceanographic Studies, Jadavpur University, Kolkata, India.</affiliation>
+					</author>
+					<author>
+						<name first="Subhajit" last="Ghosh">Subhajit Ghosh</name>
+						<affiliation>School of Oceanographic Studies, Jadavpur University, Kolkata, India.</affiliation>
+					</author>
+					<author>
+						<name first="Debasish" last="Mitra">Debasish Mitra</name>
+						<affiliation>Department of Marine and Atmospheric Sciences, Indian Institute of Remote Sensing, Dehradun, India.</affiliation>
+					</author>
+					<author>
+						<name first="Tuhin" last="Ghosh">Tuhin Ghosh</name>
+						<affiliation>School of Oceanographic Studies, Jadavpur University, Kolkata, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-06</date>
+					<date type="R">2014-04-09</date>
+					<date type="A">2014-04-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Tectonic imprints within a granite exposed near Srinagar, Rajasthan, India</title>
+				<feature></feature>
+				<page>1361-1374</page>
+				<abstract>
+					<p>Partial melting in the middle to lower crustal level produces melts of granitic composition during orogeny. Thrusts play a vital role in their exhumation after consolidation of these granitic melts. In this paper we focus on one such granite along the eastern margin of the Delhi Fold Belt (DFB) rocks near Srinagar, Rajasthan, India. This is the first report of granite within the area and holds a key stratigraphic position in the entire rock package. The said granite is found to be intrusive to the DFB metasediments as well as their basement popularly known as the Banded Gneissic Complex (BGC). We disentangle the deformation fabrics seen within the granite and associated DFB metasediments, suggesting that subsequent to emplacement and consolidation, the granite has co-folded along with the country rocks. Three deformational events could be identified within the DFB metasediments namely, $D_{1D}, D_{2D}$ and $D_{3D]$. The peak metamorphism was achieved in the $D_{1D}$ event. The granite magma is generated and emplaced late syn-kinematic to $D_{1D}$ and thereafter is deformed by $D_{2D}$ and $D_{3D}$ producing $D_{1G}$ and $D_{2G}$ structural fabrics. These compressive deformations resulted in the collapse of the basin; the combined package of DFB rocks and the granite was thrusted eastwards over the basement rocks. The tectonic transport direction during thrusting is suggested eastwards from our structural analysis. Transverse faults developed perpendicular to the length of the granite have led to partitioning of the strain thereby showing a heterogeneity in the development of fabric within it.</p>
+				</abstract>
+				<keywords>Granite emplacement;collisional setting;thin-skinned tectonics;thrust-related emplacement;Delhi Fold Belt.</keywords>
+				<authors>
+					<author>
+						<name first="Trishit" last="Ruj">Trishit Ruj</name>
+						<affiliation>Department of Geology, Presidency University, 86/1 College Street, Kolkata 700 073, India.</affiliation>
+					</author>
+					<author>
+						<name first="Nilanjan" last="Dasgupta">Nilanjan Dasgupta</name>
+						<affiliation>Department of Geology, Presidency University, 86/1 College Street, Kolkata 700 073, India.</affiliation>
+						<email>neelakdg@gmail.com</email>
+						<email>ndg.geol@presiuniv.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-08</date>
+					<date type="R">2014-03-15</date>
+					<date type="A">2014-04-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>GPR studies over the tsunami affected Karaikal beach, Tamil Nadu, south India</title>
+				<feature></feature>
+				<page>1375-1385</page>
+				<abstract>
+					<p>In this study, results of GPR profiling related to mapping of subsurface sedimentary layers at tsunami affected Karaikal beach are presented. A 400 MHz antenna was used for profiling along 262 m stretch of transect from beach to backshore areas with penetration of about 2.0 m depth (50 ns two-way travel time). The velocity analysis was carried out to estimate the depth information along the GPR profile. Based on the significant changes in the reflection amplitude, three different zones are marked and the upper zone is noticed with less moisture compared to other two (saturated) zones. The water table is noticed to vary from 0.5 to 0.75 m depth (12–15 ns) as moving away from the coastline. Buried erosional surface is observed at 1.5 m depth (40–42 ns), which represents the limit up to which the extreme event acted upon. In other words, it is the depth to which the tsunami sediments have been piled up to about 1.5 m thickness. Three field test pits were made along the transect and sedimentary sequences were recorded. The sand layers, especially, heavy mineral layers, recorded in the test pits indicate a positive correlation with the amplitude and velocity changes in the GPR profile. Such interpretation seems to be difficult in the middle zone due to its water saturation condition. But it is fairly clear in the lower zone located just below the erosional surface where the strata is comparatively more compact. The inferences from the GPR profile thus provide a lucid insight to the subsurface sediment sequences of the tsunami sediments in the Karaikal beach.</p>
+				</abstract>
+				<keywords>GPR profiling;tsunami sediments;Karaikal beach;heavy mineral layers.</keywords>
+				<authors>
+					<author>
+						<name first="V. J." last="Loveson">V. J. Loveson</name>
+						<affiliation>CSIR–Central Institute of Mining and Fuel Research, Dhanbad 826 001, India.</affiliation>
+						<email>vjloveson@yahoo.co.uk</email>
+					</author>
+					<author>
+						<name first="A. R." last="Gujar">A. R. Gujar</name>
+						<affiliation>CSIR–National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="R." last="Barnwal">R. Barnwal</name>
+						<affiliation>CSIR–Central Mechanical Engineering Research Institute, Durgapur, India.</affiliation>
+					</author>
+					<author>
+						<name first="Richa" last="Khare">Richa Khare</name>
+						<affiliation>CSIR–Central Institute of Mining and Fuel Research, Dhanbad 826 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="G. V." last="Rajamanickam">G. V. Rajamanickam</name>
+						<affiliation>SASTRA Deemed University, Thanjavur, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-02</date>
+					<date type="R">2014-03-14</date>
+					<date type="A">2014-03-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chromian spinel-rich black sands from eastern shoreline of Andaman Island, India: Implication for source characteristics</title>
+				<feature></feature>
+				<page>1387-1397</page>
+				<abstract>
+					<p>Black sands rich in chromian spinel commonly occur in pockets along the eastern shoreline of Andaman Island where various types of peridotites and volcanics belonging to the Andaman ophiolite suite are exposed in close vicinity. The chemistry of these detrital chromian spinels has been extensively used here in identifying the source rocks \textit {vis-à-vis} deciphering the source characteristics. The composition of the chromian spinels (Cr#: 0.20–0.88, Mg#: 0.26–0.77, $Al_{2}O_{3}$: 5.04–48.21 wt.%, $TiO_{2}$: up to 1.39 wt.% and $Fe^{2+}/Fe^{3+}$: 1.73–9.12) varies widely signifying multiple sources, of which mantle peridotites and volcanic rocks are relevant in an ophiolitic terrain. The volcanic chromian spinels are relatively fresh, commonly euhedral, sometimes with compositional variations, and contain inclusions in contrast to the mantle peridotitic chromian spinels which are rounded, extensively fractured, and altered. We used a number of geochemical bivariate plots in order to know the provenance protoliths. The volcanic chromian spinels show geochemical characters of MORB, related to spreading centers (either MOR or back-arc) and also boninites/arc-tholeiites, related to active subduction. On the other hand, the peridotitic spinels indicate partially depleted lherzolite and depleted harzburgite source of the ophiolite suite.</p>
+				</abstract>
+				<keywords>Chromian spinel;detrital sand;ophiolites;Andaman Island;India.</keywords>
+				<authors>
+					<author>
+						<name first="Koyel" last="Bhatta">Koyel Bhatta</name>
+						<affiliation>Department of Geology, University of Calcutta, 35 Ballygunge Circular Road, Kolkata 700 019, India.</affiliation>
+					</author>
+					<author>
+						<name first="Biswajit" last="Ghosh">Biswajit Ghosh</name>
+						<affiliation>Department of Geology, University of Calcutta, 35 Ballygunge Circular Road, Kolkata 700 019, India.</affiliation>
+						<email>bghosh_geol@hotmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-06-12</date>
+					<date type="R">2014-05-05</date>
+					<date type="A">2014-05-07</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An appraisal of an iterative construction of the endmembers controlling the composition of deep-sea manganese nodules from the Central Indian Ocean Basin</title>
+				<feature></feature>
+				<page>1399-1411</page>
+				<abstract>
+					<p>This paper describes an estimation of endmember compositions followed by the assessment of those results by log-ratio variance analysis. As an appraisal, it deals only with the first objective of an endmember analysis namely, to identify endmembers if they exist by estimating their compositions. Following the creation of the endmember estimates, the computation of an array of log-ratio variances was a key innovation in this type of study. Log-ratio variances revealed intrinsic linear associations between the dominant elements on each of the estimated endmember compositions, largely confirming the endmember analysis. The dataset under study contained the concentrations of 16 elements in 93 samples of deep-sea manganese nodules from the Central Indian Ocean Basin. Many previous analyses of these nodules were undertaken to assess the economic potential of the deposits. This study by contrast, quantified the interelement associations that account for the nodule compositions. Four endmembers were identified. The elements loaded on each were: (1) Mn, Zn, Ni, Cu, Mn-rich, (2) Fe, Ti, P, Co, Fe-rich, (3) Si, Al, Na, K, clay minerals, (3) Mg, ultramafic material, possibly including Mn, Cr, V, Ca, Na. These latter elements were also detected by their log-ratio variances to be associated with Mg on the 4th endmember.</p>
+				</abstract>
+				<keywords>Compositional data;endmember analysis;log-ratio variance;deep-sea manganese nodules;Central Indian Ocean Basin.</keywords>
+				<authors>
+					<author>
+						<name first="R. M." last="Renner">R. M. Renner</name>
+						<affiliation>School of Mathematics, Statistics and Operations Research, Victoria University of Wellington, Wellington, New Zealand.</affiliation>
+						<email>ross.renner@msor.vuw.ac.nz</email>
+					</author>
+					<author>
+						<name first="B. N." last="Nath">B. N. Nath</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+					<author>
+						<name first="G. P." last="Glasby">G. P. Glasby</name>
+						<affiliation>National Institute of Oceanography, Dona Paula, Goa 403 004, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-02</date>
+					<date type="R">2014-04-01</date>
+					<date type="A">2014-04-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ichnofabric analysis of the Tithonian shallow marine sediments (Bhadasar Formation) Jaisalmer Basin, India</title>
+				<feature></feature>
+				<page>1413-1431</page>
+				<abstract>
+					<p>The shallow marine sedimentary sequence of the Jaisalmer Basin exhibits one of the important and well-developed Tithonian sedimentary outcrops for western India. The ichnology and ichnofabric of the lower part of Bhadasar Formation (i.e., Kolar Dongar Member) belonging to Tithonian age are presented and discussed. The Kolar Dongar Member represents a shallow marine succession that contains 16 ichnotaxa: \textit {Ancorichnus ancorichnus, Conichnus conicus, Gyrochorte comosa}, cf. \textit {Jamesonichnites heinbergi, Imponoglyphus kevadiensis, Laevicyclus mongraensis, Monocraterion tentaculatum, Ophiomorpha nodosa, Palaeophycus tubularis, P. bolbiterminus, Phycodes palmatus, Planolites beverleyensis, Rhizocorallium} isp., \textit {Rosselia rotatus, R. socialis}, and \textit {Teichichnus rectus}. The ichnofabric analysis divulges five distinct ichnofabrics, each typifying distinct depositional environment within shallow marine conditions. The ichnofabric \textit {Ophiomorpha} 1 with syn-sedimentary faulting exemplifies high energy conditions typical of lower shoreface environment, whereas the \textit {Ophiomorpha} 2 ichnofabric typifies upper shoreface environment. The \textit {Ancorichnus} ichnofabric reflects lower offshore condition of deposition. The high ichnodiversity \textit {Ancorichnus–Rosselia} ichnofabric is indicative of inner shelf conditions, while low ichno-diversity \textit {Teichichnus} ichnofabric indicates prevalence of low energy brackish bay environment. Thus, Tithonian Kolar Dongar Member indicates depositional environment ranging from shoreface to offshore to inner shelf and finally to brackish bay environment.</p>
+				</abstract>
+				<keywords>Ichnology;trace fossils;ichnofabric;Tithonian;Jaisalmer Basin, India.</keywords>
+				<authors>
+					<author>
+						<name first="Bhawanisingh G." last="Desai">Bhawanisingh G. Desai</name>
+						<affiliation>School of Petroleum Technology, Pandit Deendayal Petroleum University, Raisan Village, Gandhinagar 382 007, Gujarat, India.</affiliation>
+						<email>bhawanigd@gmail.com</email>
+					</author>
+					<author>
+						<name first="Rajendra Dutt" last="Saklani">Rajendra Dutt Saklani</name>
+						<affiliation>School of Petroleum Technology, Pandit Deendayal Petroleum University, Raisan Village, Gandhinagar 382 007, Gujarat, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-03</date>
+					<date type="R">2014-03-25</date>
+					<date type="A">2014-03-27</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>First megafossil evidence of Cyatheaceous tree fern from the Indian Cenozoic</title>
+				<feature></feature>
+				<page>1433-1438</page>
+				<abstract>
+					<p>A part of the compressed tree fern axis with leaf and adventitious root scars in unusual arrangement from Plio–Pleistocene sediments of Arunachal Pradesh, India is described as \textit {Cyathea siwalika} sp. nov. This record suggests that \textit {Cyathea} was an important component of tropical evergreen forest in the area during the Plio–Pleistocene and this group subsequently declined in importance within the local vegetation.</p>
+				</abstract>
+				<keywords>\textit {Cyathea siwalika};fern axis;leaf and root scars;Plio–Pleistocene;Arunachal Pradesh.</keywords>
+				<authors>
+					<author>
+						<name first="Subir" last="Bera">Subir Bera</name>
+						<affiliation>Centre of Advanced Study, Department of Botany, University of Calcutta, 35, B.C. Road, Kolkata 700 019, West Bengal, India.</affiliation>
+						<email>berasubir@yahoo.co.in</email>
+					</author>
+					<author>
+						<name first="Sudha" last="Gupta">Sudha Gupta</name>
+						<affiliation>Department of Botany, University of Kalayni, Nadia 741 235, West Bengal, India.</affiliation>
+					</author>
+					<author>
+						<name first="Mahasin Ali" last="Khan">Mahasin Ali Khan</name>
+						<affiliation>Centre of Advanced Study, Department of Botany, University of Calcutta, 35, B.C. Road, Kolkata 700 019, West Bengal, India.</affiliation>
+					</author>
+					<author>
+						<name first="Aniruddha" last="De">Aniruddha De</name>
+						<affiliation>Centre of Advanced Study, Department of Botany, University of Calcutta, 35, B.C. Road, Kolkata 700 019, West Bengal, India.</affiliation>
+					</author>
+					<author>
+						<name first="Radhanath" last="Mukhopadhyay">Radhanath Mukhopadhyay</name>
+						<affiliation>Department of Botany, University of Burdwan, Burdwan 713 104, West Bengal, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-19</date>
+					<date type="R">2014-03-28</date>
+					<date type="A">2014-04-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The chemical composition of tertiary Indian coal ash and its combustion behaviour – a statistical approach: Part 2</title>
+				<feature></feature>
+				<page>1439-1449</page>
+				<abstract>
+					<p>In Part 1 of the present investigation, 37 representative Eocene coal samples of Meghalaya, India were analyzed and their physico-chemical characteristics and the major oxides and minerals present in ash samples were studied for assessing the genesis of these coals. Various statistical tools were also applied to study their genesis. The datasets from Part 1 used in this investigation (Part 2) show the contribution of major oxides towards ash fusion temperatures (AFTs). The regression analysis of high temperature ash (HTA) composition and initial deformation temperature (IDT) show a definite increasing or decreasing trend, which has been used to determine the predictive indices for slagging, fouling, and abrasion propensities during combustion practices. The increase or decrease of IDT is influenced by the increase of $Fe_{2}O_{3}, Al_{2}O_{3}, SiO_{2}$, and CaO, respectively. Detrital-authigenic index (DAI) calculated from the ash composition and its relation with AFT indicates Sialoferric nature of these coals. The correlation analysis, Principal Component Analysis (PCA), and Hierarchical Cluster Analysis (HCA) were used to study the possible fouling, slagging, and abrasion potentials in boilers during the coal combustion processes. A positive relationship between slagging and heating values of the coal has been found in this study.</p>
+				</abstract>
+				<keywords>Ash Fusion Temperature (AFT);Detrital-authigenic index (DAI);fouling;slagging;abrasion indices.</keywords>
+				<authors>
+					<author>
+						<name first="Arpita" last="Sharma">Arpita Sharma</name>
+						<affiliation>Coal Chemistry Division, CSIR–North East Institute of Science & Technology, Jorhat 785 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="Ananya" last="Saikia">Ananya Saikia</name>
+						<affiliation>Coal Chemistry Division, CSIR–North East Institute of Science & Technology, Jorhat 785 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="Puja" last="Khare">Puja Khare</name>
+						<affiliation>Agronomy–Soil Division, CSIR–CIMAP, Lucknow 226 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="D. K." last="Dutta">D. K. Dutta</name>
+						<affiliation>Coal Chemistry Division, CSIR–North East Institute of Science & Technology, Jorhat 785 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="B. P." last="Baruah">B. P. Baruah</name>
+						<affiliation>Coal Chemistry Division, CSIR–North East Institute of Science & Technology, Jorhat 785 006, India.</affiliation>
+						<email>bpbaruah@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-27</date>
+					<date type="R">2014-03-28</date>
+					<date type="A">2014-04-14</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="07" month="10" year="2014">
+			<entry hassup="0">
+				<title>Radiation and energy balance dynamics over young chir pine (\textit {Pinus roxburghii}) system in Doon of western Himalayas</title>
+				<feature></feature>
+				<page>1451-1465</page>
+				<abstract>
+					<p>The regional impacts of future climate changes are principally driven by changes in energy fluxes. In this study, measurements on micrometeorological and biophysical variables along with surface energy exchange were made over a coniferous subtropical chir pine (\textit {Pinus roxburghii} ) plantation ecosystem at Forest Research Institute, Doon valley, India. The energy balance components were analyzed for two years to understand the variability of surface energy fluxes, their drivers, and closure pattern. The period covered two growth cycles of pine in the years 2010 and 2011 without and with understory growth. Net short wave and long wave radiative fluxes substantially varied with cloud dynamics, season, rainfall induced surface wetness, and green growth. The study clearly brought out the intimate link of albedo dynamics in chir pine system with dynamics of leaf area index (LAI), soil moisture, and changes in understory background. Rainfall was found to have tight linear coupling with latent heat fluxes. Latent heat flux during monsoon period was found to be higher in higher rainfall year (2010) than in lower rainfall year (2011). Higher or lower pre-monsoon sensible heat fluxes were succeeded by noticeably higher or lower monsoon rainfall respectively. Proportion of latent heat flux to net radiation typically followed the growth curve of green vegetation fraction, but with time lag. The analysis of energy balance closure (EBC) showed that the residual energy varied largely within $\pm $30% of net available energy and the non-closure periods were marked by higher rainspells or forced clearance of understory growths.</p>
+				</abstract>
+				<keywords>Micrometeorology;young chir pine;surface heat fluxes;energy balance closure.</keywords>
+				<authors>
+					<author>
+						<name first="Nilendu" last="Singh">Nilendu Singh</name>
+						<affiliation>Forest Research Institute, Dehradun 248 006, India.</affiliation>
+						<affiliation>Present address: Centre for Glaciology, Wadia Institute of Himalayan Geology, 33 GMS Road, Dehradun 248 011, India.</affiliation>
+						<email>nilendu_singh@yahoo.com</email>
+					</author>
+					<author>
+						<name first="Bimal K." last="Bhattacharya">Bimal K. Bhattacharya</name>
+						<affiliation>Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+					<author>
+						<name first="M. K." last="Nanda">M. K. Nanda</name>
+						<affiliation>Bidhan Chandra Krishi Viswavidyalaya, Nadia 741 252, India.</affiliation>
+					</author>
+					<author>
+						<name first="Prafulla" last="Soni">Prafulla Soni</name>
+						<affiliation>Forest Research Institute, Dehradun 248 006, India.</affiliation>
+					</author>
+					<author>
+						<name first="Jai Singh" last="Parihar">Jai Singh Parihar</name>
+						<affiliation>Space Applications Centre (ISRO), Ahmedabad 380 015, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-06</date>
+					<date type="R">2014-05-15</date>
+					<date type="A">2014-05-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analysing land and vegetation cover dynamics during last three decades in Katerniaghat wildlife sanctuary, India</title>
+				<feature></feature>
+				<page>1467-1479</page>
+				<abstract>
+					<p>The change in the tropical forests could be clearly linked to the expansion of the human population and economies. An understanding of the anthropogenic forcing plays an important role in analyzing the impacts of climate change and the fate of tropical forests in the present and future scenario. In the present study, we analyze the impact of natural and anthropogenic factors in forest dynamics in Katerniaghat wildlife sanctuary situated along the Indo-Nepal border in Uttar Pradesh state, India. The study site is under tremendous pressure due to anthropogenic factors from surrounding areas since last three decades. The vegetation cover of the sanctuary primarily comprised of \textit{Shorea robusta} forests, \textit{Tectona grandis} plantation, and mixed deciduous forest; while the land cover comprised of agriculture, barren land, and water bodies. The classification accuracy was 83.5%, 91.5%, and 95.2% with MSS, IKONOS, and Quickbird datasets, respectively. \textit{Shorea robusta} forests showed an increase of 16 $km^2$; while \textit{Tectona grandis} increased by 63.01 $km^2$ during 1975–2010. The spatial heterogeneity in these tropical vegetation classes surrounded by the human dominated agricultural lands could not be addressed using Landsat MSS data due to coarse spatial resolution; whereas the IKONOS and Quickbird satellite datasets proved to advantageous, thus being able to precisely address the variations within the vegetation classes as well as in the land cover classes and along the edge areas. Massive deforestation during 1970s along the adjoining international boundary with Nepal has led to destruction of the wildlife corridor and has exposed the wildlife sanctuary to interference like grazing and poaching. Higher rates of forest dynamics during the 25-year period indicate the vulnerability of the ecosystem to the natural and anthropogenic disturbances in the proximity of the sanctuary.</p>
+				</abstract>
+				<keywords>Tropical ecosystem;deforestation;forest dynamics;Quickbird;IKONOS.</keywords>
+				<authors>
+					<author>
+						<name first="V. S." last="Chitale">V. S. Chitale</name>
+						<affiliation>Spatial Analysis and Modeling Laboratory, Centre for Oceans, Rivers, Atmosphere and Land Sciences (CORAL), Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
+						<affiliation>International Centre for Integrated Mountain Development (ICIMOD), GPO Box 3226, Khumaltar, Lalitpur, Kathmandu, Nepal.</affiliation>
+						<email>vschitale@iitkgp.ac.in</email>
+					</author>
+					<author>
+						<name first="M. D." last="Behera">M. D. Behera</name>
+						<affiliation>Spatial Analysis and Modeling Laboratory, Centre for Oceans, Rivers, Atmosphere and Land Sciences (CORAL), Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-13</date>
+					<date type="R">2014-05-15</date>
+					<date type="A">2014-06-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Satellite image based quantification of invasion and patch dynamics of mesquite (\textit {Prosopis juliflora}) in Great Rann of Kachchh, Kachchh Biosphere Reserve, Gujarat, India</title>
+				<feature></feature>
+				<page>1481-1490</page>
+				<abstract>
+					<p>The invasion of alien species is a significant threat to global biodiversity and the top driver of climate change. The present study was conducted in the Great Rann of Kachchh, part of Kachchh Biosphere Reserve, Gujarat, India, which has been severely affected by invasion of \textit {Prosopis juliflora}. The invasive weed infestation has been identified using multi-temporal remote sensing datasets of 1977, 1990, 1999, 2005 and 2011. Spatial analyses of the transition matrix, extent of invasive colonies, patchiness, coalescence and rate of spread were carried out. During the study period of three and half decades, almost 295 $km^2$ of the natural land cover was converted into \textit {Prosopis} cover. This study has shown an increment of 42.9% of area under \textit {Prosopis} cover in the Great Rann of Kachchh, part of the Kachchh Biosphere Reserve during 1977 to 2011. Spatial analysis indicates high occupancy of \textit {Prosopis} cover with most of the invasion (95.9%) occurring in the grasslands and only 4.1% in other land cover types. The process of \textit {Prosopis} invasion shows high patch initiation, followed by coalescence, indicating aggressive colonization of species. The number of patches within an area of &mt; 1 $km^2$ increased from 1977 to 2011, indicating the formation of new \textit {Prosopis} habitats by replacing the grasslands. The largest patch of \textit {Prosopis} cover increased from 144 $km^2$ in 1977 to 430 $km^2$ in 2011. The estimated mean patch size was 7.8 $km^2$ in 1977. The mean patch size was largest during 2011, i.e., 9 $km^2$. The annual spread rate for \textit {Prosopis} has been estimated as 2.1% during 2005–2011. The present work has investigated the long term changes in \textit {Prosopis} cover in the Great Rann of Kachchh, part of Kachchh Biosphere Reserve. The spatial database generated will be useful in preparing strategies for the management of \textit {Prosopis juliflora}.</p>
+				</abstract>
+				<keywords>Prosopis juliflora;mesquite;invasion;patch;coalescence;Kachchh;India.</keywords>
+				<authors>
+					<author>
+						<name first="S. Vazeed" last="Pasha">S. Vazeed Pasha</name>
+						<affiliation>Forestry & Ecology Group, National Remote Sensing Centre, ISRO, Balanagar, Hyderabad 500 037, India.</affiliation>
+					</author>
+					<author>
+						<name first="K. V." last="Satish">K. V. Satish</name>
+						<affiliation>Forestry & Ecology Group, National Remote Sensing Centre, ISRO, Balanagar, Hyderabad 500 037, India.</affiliation>
+					</author>
+					<author>
+						<name first="C. Sudhakar" last="Reddy">C. Sudhakar Reddy</name>
+						<affiliation>Forestry & Ecology Group, National Remote Sensing Centre, ISRO, Balanagar, Hyderabad 500 037, India.</affiliation>
+						<email>drsudhakarreddy@gmail.com</email>
+					</author>
+					<author>
+						<name first="P. V. V. Prasada" last="Rao">P. V. V. Prasada Rao</name>
+						<affiliation>Department of Environmental Sciences, Andhra University, Visakhapatnam 530 003, India.</affiliation>
+					</author>
+					<author>
+						<name first="C. S." last="Jha">C. S. Jha</name>
+						<affiliation>Forestry & Ecology Group, National Remote Sensing Centre, ISRO, Balanagar, Hyderabad 500 037, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-01-31</date>
+					<date type="R">2014-05-13</date>
+					<date type="A">2014-05-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analysis of the microclimate and $CO_2$ flux characteristics in arid desert wetland ecosystem in summer: A case study in Xihu desert wetland, Dunhuang, China</title>
+				<feature></feature>
+				<page>1491-1499</page>
+				<abstract>
+					<p>Xihu desert wetland is an important and unusual environment in China or even in the world. However, until now, little research has been focused on the microclimate and $CO_2$ flux characteristics in this area. This paper reports the characteristics of daily variations of microclimate and $CO_2$ flux in the Dunhuang Xihu desert wetland, based on data observed in the desert wetland during a period of continuous fine weather in summer 2012. Results indicate that the characteristics of the micrometeorology were significantly affected by the land–lake breeze during the study period, and updrafts were prevalent in this region. The friction wind speed and the vertical velocity were much greater than those in the Maqu grasslands. The energy budget was strongly imbalanced: the latent heat flux was significantly higher than the sensible flux. The daily mean values of total solar radiation and net radiation were larger than those in Maqu grasslands and Jinta oasis. There was a temperature inversion and inverse humidity gradient in the atmospheric surface layer at night. The desert wetland ecosystem was a carbon sink during the whole of the observation period, and the maximum rate of carbon absorption usually occurred at about 11:00 hr each day in this region.</p>
+				</abstract>
+				<keywords>Microclimate;energy budget;$CO_2$ flux;surface layer;desert wetland.</keywords>
+				<authors>
+					<author>
+						<name first="Qian-Qian" last="Gou">Qian-Qian Gou</name>
+						<affiliation>Key Laboratory of Desert and Desertification, Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, Donggang West Road 320, Lanzhou 730000, Gansu, People’s Republic of China.</affiliation>
+						<affiliation>Dunhuang Gobi and Ecology and Environment Research Station, Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, Dunhuang 736200, Gansu, People’s Republic of China.</affiliation>
+						<email>gqqqianqian@163.com</email>
+					</author>
+					<author>
+						<name first="Jian-Jun" last="Qu">Jian-Jun Qu</name>
+						<affiliation>Key Laboratory of Desert and Desertification, Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, Donggang West Road 320, Lanzhou 730000, Gansu, People’s Republic of China.</affiliation>
+						<affiliation>Dunhuang Gobi and Ecology and Environment Research Station, Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, Dunhuang 736200, Gansu, People’s Republic of China.</affiliation>
+					</author>
+					<author>
+						<name first="Zhi-Wen" last="Han">Zhi-Wen Han</name>
+						<affiliation>Key Laboratory of Desert and Desertification, Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, Donggang West Road 320, Lanzhou 730000, Gansu, People’s Republic of China.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-18</date>
+					<date type="R">2014-06-09</date>
+					<date type="A">2014-06-18</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Morphometric analysis of Suketi river basin, Himachal Himalaya, India</title>
+				<feature></feature>
+				<page>1501-1515</page>
+				<abstract>
+					<p>Suketi river basin is located in the Mandi district of Himachal Pradesh, India. It encompasses a central inter-montane valley and surrounding mountainous terrain in the Lower Himachal Himalaya. Morphometric analysis of the Suketi river basin was carried out to study its drainage characteristics and overall groundwater resource potential. The entire Suketi river basin has been divided into five sub-basins based on the catchment areas of Suketi trunk stream and its major tributaries. Quantitative assessment of each sub-basin was carried out for its linear, areal, and relief aspects. The analysis reveals that the drainage network of the entire Suketi river basin constitutes a 7th order basin. Out of five sub-basins, Kansa khad sub-basin (KKSB), Gangli khad sub-basin (GKSB) and Ratti khad sub-basin (RKSB) are 5th order subbasins. The Dadour khad sub-basin (DKSB) is 6th order sub-basin, while Suketi trunk stream sub-basin (STSSB) is a 7th order sub-basin. The entire drainage basin area reflects late youth to early mature stage of development of the fluvial geomorphic cycle, which is dominated by rain and snow fed lower order streams. It has low stream frequency (Fs) and moderate drainage density (Dd) of 2.69 km/$km^2$. Bifurcation ratios (Rb) of various stream orders indicate that streams up to 3rd order are surging through highly dissected mountainous terrain, which facilitates high overland flow and less recharge into the subsurface resulting in low groundwater potential in the zones of 1st, 2nd, and 3rd order streams of the Suketi river basin. The circulatory ratio (Rc) of 0.65 and elongation ratio (Re) of 0.80 show elongated nature of the Suketi river basin, while infiltration number (If) of 10.66 indicates dominance of relief features and low groundwater potential in the high altitude mountainous terrain. The asymmetry factor (Af) of Suketi river basin indicates that the palaeo-tectonic tilting, at drainage basin scale, was towards the downstream right side of the drainage basin. The slope map of Suketi river basin has been classified into three main zones, which delineate the runoff zone in the mountains, recharge zone in the transition zone between mountains and valley plane, and discharge zone in the plane areas of Balh valley.</p>
+				</abstract>
+				<keywords>Morphometric analysis;drainage characteristics;groundwater resources;Suketi river basin;Himachal Himalaya;India.</keywords>
+				<authors>
+					<author>
+						<name first="Anil M." last="Pophare">Anil M. Pophare</name>
+						<affiliation>Department of Geology, RTM Nagpur University, Nagpur 440 001, India.</affiliation>
+						<email>apophare@gmail.com</email>
+					</author>
+					<author>
+						<name first="Umesh S." last="Balpande">Umesh S. Balpande</name>
+						<affiliation>Central Ground Water Board, Central Region, Nagpur 440 001, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-01-08</date>
+					<date type="R">2014-05-21</date>
+					<date type="A">2014-06-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spatial distribution of soil erosion and suspended sediment transport rate for Chou-Shui river basin</title>
+				<feature></feature>
+				<page>1517-1539</page>
+				<abstract>
+					<p>In this study, a Physiographic Soil Erosion–Deposition Model (PSED) is applied for better management of a watershed. The PSED model can effectively evaluate the key parameters of watershed management: surface runoff discharge, suspended sediment transport rate, quantity of soil erosion, and spatial distribution of soil erosion and deposition. A basin usually contains multiple watersheds. These watersheds may have complex topography and heterogeneous physiographic properties. The PSED model, containing a physiographic rainfall-runoff model and a basin scale erosion–deposition model, can simulate the physical mechanism of the entire erosion process based on a detailed calculation of bed-load transportation, surface soil entrainment, and the deposition mechanism. With the assistance of Geographic Information Systems (GIS), the PSED model can handle and analyze extremely large hydrologic and physiographic datasets and simulate the physical erosion process without the need for simplification. We verified the PSED model using three typhoon events and 40 rainfall events. The application of PSED to Chou-Shui River basin shows that the PSED model can accurately estimate discharge hydrographs, suspended sediment transport rates, and sediment yield. Additionally, we obtained reasonable quantities of soil erosion as well as the spatial distribution of soil erosion and deposition. The results show that the PSED model is capable of calculating spatially distributed soil erosion and suspended sediment transport rates for a basin with multiple watersheds even if these watersheds have complex topography and heterogeneous physiographic properties.</p>
+				</abstract>
+				<keywords>Physiographic soil erosion–deposition model (PSED);spatially distributed soil erosion;suspended sediment transport rate;sediment yield.</keywords>
+				<authors>
+					<author>
+						<name first="Chin-Ping" last="Lin">Chin-Ping Lin</name>
+						<affiliation>Department of Civil Engineering, National Pingtung University of Science and Technology, Pingtung, Taiwan.</affiliation>
+					</author>
+					<author>
+						<name first="Ching-Nuo" last="Chen">Ching-Nuo Chen</name>
+						<affiliation>International Master’s Program of Soil and Water Engg., National Pingtung University of Science and Technology, Pingtung, Taiwan.</affiliation>
+					</author>
+					<author>
+						<name first="Yu-Min" last="Wang">Yu-Min Wang</name>
+						<affiliation>Department of Civil Engineering, National Pingtung University of Science and Technology, Pingtung, Taiwan.</affiliation>
+						<email>wangym@mail.npust.edu.tw</email>
+					</author>
+					<author>
+						<name first="Chih-Heng" last="Tsai">Chih-Heng Tsai</name>
+						<affiliation>Department of Information Communication, University of Kang Ning, No. 188, Sec. 5, Anzhong Road, Tainan 70970, Taiwan.</affiliation>
+					</author>
+					<author>
+						<name first="Chang-Tai" last="Tsai">Chang-Tai Tsai</name>
+						<affiliation>Department of Hydraulics and Ocean Engineering, National Cheng-Kung University, No. 1, University Road, Tainan City 70101, Taiwan.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-28</date>
+					<date type="R">2014-05-18</date>
+					<date type="A">2014-05-29</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Impact of over-exploitation on groundwater quality: A case study from WR-2Watershed, India</title>
+				<feature></feature>
+				<page>1541-1566</page>
+				<abstract>
+					<p>The WR-2 watershed is located in the Deccan trap basaltic terrain of Maharashtra State, India. The watershed area incorporates a rich orange orchard belt that requires a huge quantity of water for irrigation. This requirement is mostly met through groundwater, extracted from the shallow aquifers of the WR-2 watershed. However, over the years, excess withdrawal of groundwater from these aquifers has resulted in depletion of groundwater level. The declining trends of groundwater level, both long term and short term, have had a negative impact on the groundwater quality of the study area. This effect can be gauged through the rising electrical conductivity (EC) of groundwater in the shallow aquifers (dug wells) of the WR-2 watershed. It is observed that the long term declining trend of groundwater level, during 1977–2010, varied from 0.03 to 0.04 m per year, whereas the corresponding trend of rising EC varied from 1.90 to 2.94 $\mu $S/cm per year. During 2007–2010, about 56% dug wells showed a positive correlation between depleting groundwater level and rising EC values. The groundwater level depletion during this period ranged from 0.03 to 0.67 m per year, whereas the corresponding trend of rising EC ranged from 0.52 to 46.91 $\mu $S/cm per year. Moreover, the water quality studies reveal that groundwater from more than 50% of the dug wells of the WR-2 watershed is not suitable for drinking purpose. The groundwater, though mostly suitable for irrigation purpose, is corrosive and saturated with respect to mineral equilibrium and shows a tendency towards chemical scale formation.</p>
+				</abstract>
+				<keywords>Groundwater;over-exploitation;groundwater quality;WR-2 watershed;India.</keywords>
+				<authors>
+					<author>
+						<name first="Anil M." last="Pophare">Anil M. Pophare</name>
+						<affiliation>Department of Geology, RTM Nagpur University, Nagpur 440 001, India.</affiliation>
+						<email>apophare@gmail.com</email>
+					</author>
+					<author>
+						<name first="Bhushan R." last="Lamsoge">Bhushan R. Lamsoge</name>
+						<affiliation>Central Ground Water Board, Nagpur 440 001, India.</affiliation>
+					</author>
+					<author>
+						<name first="Yashwant B." last="Katpatal">Yashwant B. Katpatal</name>
+						<affiliation>Visvesvaraya National Institute of Technology, Nagpur 440 010, India.</affiliation>
+					</author>
+					<author>
+						<name first="Vijay P." last="Nawale">Vijay P. Nawale</name>
+						<affiliation>Geological Survey of India, Hyderabad, India.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-06-27</date>
+					<date type="R">2013-06-10</date>
+					<date type="A">2013-09-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Hydrologic factors controlling groundwater salinity in northwestern coastal zone, Egypt</title>
+				<feature></feature>
+				<page>1567-1578</page>
+				<abstract>
+					<p>The aim of this article is to assess the main factors influencing salinity of groundwater in the coastal area between El Dabaa and Sidi Barani, Egypt. The types and ages of the main aquifers in this area are the fractured limestone of Middle Miocene, the calcareous sandstone of Pliocene and the Oolitic Limestone of Pleistocene age. The aquifers in the area are recharged by seasonal rainfall of the order of 150 mm/year. The relationship of groundwater salinity against the absolute water level, the well drilling depth, and the ability of aquifer to recharge has been discussed in the present work. The ability of aquifer to locally recharge by direct rainfall is a measure of the vertical permeability due to lithological and structural factors that control groundwater salinity in the investigated aquifers. On the other hand, the fracturing system as well as the attitude of the surface water divide has a prime role in changing both the mode of occurrence and the salinity of groundwater in the area. Directly to the west of Matrouh, where the coastal plain is the narrowest, and east of Barrani, where the coastal plain is the widest, are good examples of this concept, where the water salinity attains its maximum and minimum limits respectively. Accordingly, well drilling in the Miocene aquifer, in the area between El Negila and Barrani to get groundwater of salinities less than 5000 mg/l is recommended in this area, at flow rate less than $10m^{3}$/hr/well. In other words, one can expect that the brackish water is probably found where the surface water divide is far from the shore line, where the Wadi fill deposits dominate (Quaternary aquifer), acting as a possible water salinity by direct rainfall and runoff.</p>
+				</abstract>
+				<keywords>Brackish groundwater;aquifer;northwestern coast;Egypt.</keywords>
+				<authors>
+					<author>
+						<name first="Nahla A." last="Morad">Nahla A. Morad</name>
+						<affiliation>Hydrology Department, Desert Research Centre, Cairo, Egypt.</affiliation>
+					</author>
+					<author>
+						<name first="M. H." last="Masoud">M. H. Masoud</name>
+						<affiliation>Hydrology Department, Desert Research Centre, Cairo, Egypt.</affiliation>
+						<affiliation>Water Research Centre, King Abdulaziz University, Jeddah, Saudi Arabia.</affiliation>
+						<email>zakimilad@hotmail.com</email>
+					</author>
+					<author>
+						<name first="S. M. Abdel" last="Moghith">S. M. Abdel Moghith</name>
+						<affiliation>Hydrology Department, Desert Research Centre, Cairo, Egypt.</affiliation>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-30</date>
+					<date type="R">2014-03-13</date>
+					<date type="A">2014-05-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Comparison of surrogate models with different methods in groundwater remediation process</title>
+				<feature></feature>
+				<page></page>
 				<abstract>
 					<p></p>
 				</abstract>
 				<keywords></keywords>
-				<authors>V R Durai and Rashmi Bhardwaj
+				<authors>Jiannan Luo and Wenxi Lu
 					<author>
-						<name first="" last="">V R Durai</name>
+						<name first="" last=""></name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -30148,6 +31108,238 @@
 					<date type="A">2014-09-30</date>
 				</dates>
 			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<abstract>
+					<p></p>
+				</abstract>
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-09-30</date>
+					<date type="R">2014-09-30</date>
+					<date type="A">2014-09-30</date>
+				</dates>
+			</entry>
+			
 			
 			
 			
