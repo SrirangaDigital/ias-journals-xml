@@ -1383,7 +1383,7 @@
 	<volume vnum="026">
 		<issue inum="01-02" month="02-04" year="2001">
 			<entry issup="0">
-				<title>Foreword</title>
+				<title>Foreword: Advances in Solidification Processing</title>
 				<feature></feature>
 				<page>0001-0003</page>
 				<abstract />
@@ -1416,8 +1416,8 @@
 				<authors>
 					<author>
 						<name first="A." last="Ghosh">A. Ghosh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Materials and Metallurgical Engineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email>ahin@iitk.ac.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -1438,12 +1438,12 @@
 				<authors>
 					<author>
 						<name first="G." last="Phanikumar">G. Phanikumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Metallurgy, Indian Institute of Science, Bangalore 560012, India</affiliation>
+						<email>kamanio@metalrg.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="K." last="Chattopadhyay">K. Chattopadhyay</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Metallurgy, Indian Institute of Science, Bangalore 560012, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1459,23 +1459,23 @@
 				<feature></feature>
 				<page>0035-0057</page>
 				<abstract>
-					<p></p>
+					<p>Mechanical, thermal, and adhesive properties of thermal spray coatings are primarily determined by the phase and microstructure of single splats, which ultimately depend on rapid solidification of each splat and on the interactions between the splats and between the splat and the substrate. Significant efforts are being made to develop a better understanding of the physical mechanisms underlying these phenomena. This paper reviews a series of work in the area of mathematical modelling of phase and microstructure formation during the rapid solidification of single splats and coatings. The model development has been complimented by special experiments. Conditions under which plariar interface solidification occurs, columnar cellular or dendriric growth takes place, or banded structure forms, have been identified. A microstructure map can therefore be built using the model presented here. The process parameters that promote crystalline nucleation and grain structure formation can be isolated and the effect of interfacial heat transfer, splat substrate temperature difference, and substrate melting and resolidification can be examined using the model. The model predictions agree qualitatively well with the experimental data for alumina, yttria, partially-stabilized zirconia, and molybdenum.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Thermal spray coatings;splats;rapid solidifications.</keywords>
 				<authors>
 					<author>
-						<name first="G-X." last="Wang">G-X. Wang</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Guo-Xiang" last="Wang">Guo-Xiang Wang</name>
+						<affiliation>Department of Mechanical Engineering, The University of Akron, Akron, OH 44325-3903. USA</affiliation>
+						<email>gwang@uakron.edu</email>
 					</author>
 					<author>
 						<name first="V." last="Prasad">V. Prasad</name>
-						<affiliation></affiliation>
+						<affiliation>Center for Thermal Spray Research, College of Engineering and Applied Sciences, State University of New York at Stony Brook, Stony Brook, NY 11794-2200, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S." last="Sampath">S. Sampath</name>
-						<affiliation></affiliation>
+						<affiliation>Center for Thermal Spray Research, College of Engineering and Applied Sciences, State University of New York at Stony Brook, Stony Brook, NY 11794-2200, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1497,8 +1497,8 @@
 				<authors>
 					<author>
 						<name first="B. K." last="Dhindaw">B. K. Dhindaw</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Metallurgical and Materials Engineering Department, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email>dhindaw@metal.iitkgp.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -1513,24 +1513,24 @@
 				<feature></feature>
 				<page>0071-0101</page>
 				<abstract>
-					<p></p>
+					<p>A brief review of single crystal growth techniques and the associated problems is presented. Emphasis is placed on models for various transport and defect phenomena involoved in the growth process with the ultimate aim of integrating them into a comprehensive numerical model. The sources of dislocation nucleation in the growing crystal are discussed, and the propagation and multiplication of these under the action of thermal stresses is discussed. A brief description of a high-level numerical technique based on multiple adaptive grid generation and finite volume discretization is presented, followed by the result of a representative numerical simulation.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Transport phenomena;crystal growth defects; thermal stresses; multiple adaptive grid generation; finite volume discretization.</keywords>
 				<authors>
 					<author>
 						<name first="S." last="Pendurti">S. Pendurti</name>
-						<affiliation></affiliation>
+						<affiliation>Consortium for Crystal Growth Research, Department of Mechanical Engineering, State University of New York at Stony Brook, Stony Brook, NY 11794-2300, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="H." last="Zhang">H. Zhang</name>
-						<affiliation></affiliation>
+						<affiliation>Consortium for Crystal Growth Research, Department of Mechanical Engineering, State University of New York at Stony Brook, Stony Brook, NY 11794-2300, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="V." last="Prasad">V. Prasad</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Consortium for Crystal Growth Research, Department of Mechanical Engineering, State University of New York at Stony Brook, Stony Brook, NY 11794-2300, USA</affiliation>
+						<email>vprasad@notes.cc.sunysb.edu</email>
 					</author>
 				</authors>
 				<dates>
@@ -1551,32 +1551,32 @@
 				<authors>
 					<author>
 						<name first="K. N." last="Seetharamu">K. N. Seetharamu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mechanical Engineering, Universiti Sains Malaysia, Perak Branch Campus, 31750 Tronoh, Malaysia</affiliation>
+						<email>knseetharamu@hotmail.com</email>
 					</author>
 					<author>
 						<name first="R." last="Paragasam">R. Paragasam</name>
-						<affiliation></affiliation>
+						<affiliation>School of Mechanical Engineering, Universiti Sains Malaysia, Perak Branch Campus, 31750 Tronoh, Malaysia</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="G. A." last="Quadir">G. A. Quadir</name>
-						<affiliation></affiliation>
+						<name first="Ghulam A." last="Quadir">Ghulam A. Quadir</name>
+						<affiliation>School of Mechanical Engineering, Universiti Sains Malaysia, Perak Branch Campus, 31750 Tronoh, Malaysia</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Z. A." last="Zainal">Z. A. Zainal</name>
-						<affiliation></affiliation>
+						<affiliation>School of Mechanical Engineering, Universiti Sains Malaysia, Perak Branch Campus, 31750 Tronoh, Malaysia</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="B. S." last="Prasad">B. S. Prasad</name>
-						<affiliation></affiliation>
+						<name first="B. Sathya" last="Prasad">B. Sathya Prasad</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Chennai 600 036, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="T." last="Sundararajan">T. Sundararajan</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Chennai 600 036, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1592,18 +1592,18 @@
 				<feature></feature>
 				<page>0121-0138</page>
 				<abstract>
-					<p></p>
+					<p>The impact of thermosolutal convection during directional solidification is explored via results of numerical investigations. Results from fully transient numerical simulations of directional solidification in a differentially heated cavity under terrestrial conditions and Bridgman crystal growth in space are discussed. The pivotal role of both thermal and solutal convection in the solidification process is illustrated by examining these two cases. In particular, radial and longitudinal macrosegregation resulting from this thermosolutal convection is discussed.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Thermosolutal convection; directional solidification; macrosegregation.</keywords>
 				<authors>
 					<author>
-						<name first="S. V." last="Garimella">S. V. Garimella</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Suresh V." last="Garimella">Suresh V. Garimella</name>
+						<affiliation>School of Mechanical Engineering, Purdue University, West Lafayette, IN 47907-1288, USA</affiliation>
+						<email>sureshg@ecn.purdue.edu</email>
 					</author>
 					<author>
-						<name first="J. E." last="Simpson">J. E. Simpson</name>
-						<affiliation></affiliation>
+						<name first="James E." last="Simpson">James E. Simpson</name>
+						<affiliation>School of Mechanical Engineering, Purdue University, West Lafayette, IN 47907-1288, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1625,18 +1625,18 @@
 				<authors>
 					<author>
 						<name first="A. K." last="Singh">A. K. Singh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Tata Research Development and Design Centre, 54B, Hadapsar Industrial Estate, Pune 411 013, India</affiliation>
+						<email>aksingh@pune.tcs.co.in</email>
 					</author>
 					<author>
 						<name first="R." last="Pardeshi">R. Pardeshi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Tata Research Development and Design Centre, 54B, Hadapsar Industrial Estate, Pune 411 013, India</affiliation>
+						<email>ravindrap@pune.tcs.co.in</email>
 					</author>
 					<author>
 						<name first="B." last="Basu">B. Basu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Tata Research Development and Design Centre, 54B, Hadapsar Industrial Estate, Pune 411 013, India</affiliation>
+						<email>bbasu@pune.tcs.co.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -1651,18 +1651,20 @@
 				<feature></feature>
 				<page>0163-0178</page>
 				<abstract>
-					<p></p>
+					<p>Changes in the IT industry are known to proceed at a scorching pace. In sharp contrast, the rate of development in the steel industry is generally slow. Nonetheless, The impact of recent technical developments on the steel industry has been quite significant. The production chain from iron ore to final rolled steel is a long one and the shortening of this length has long been the endeavour of scientists and engineers. The initial development came in the form of speeding up the process of steelmaking by reducing the slow open-hearth process (8 h tap-to-tap time) with the 45 min tap-tp-tap time of the Basic Oxygen Furnace (BOF) process. Significant developments thereafter have been in the process of continuous production of billets and blooms from liquid steel thereby doing away with the large blooming mills needed for rolling ingots.</p>
+					<p>For a fairly long time after the stabilisation of continuous casting. hot rolling involved reheating thick (200-250 mm) slabs and reducing them in a hot-strip mill. The advent of thin-slab casters has made even these large hot-strip mills redundant. The new installtion produce thin slabs (50-70 mm) that are directly rolled into strips without the need of an intermediate furnace for raising the stock temperature; the so-called tunnel furance prior to the rolling stands serving only to equalise stock temperatures. Additionally, what started as a step for reducing investment in hot rolling has, in fact, given new opportunity for direct hot rolling of thickness that were, for long, considered to be feasible only through the cold-rolling route.</p>
+					<p>This article discuss the slow but steady encroachment of hot-rolled sheets into the domain of strip thickness hitherto produced by cold rolling and tries to show how the development of thin-slab casters has allowed this process to be accelerated. A techno-economic analysis of thin-slab casting has been presented along with the benefits that arise when a thin-slab caster is linked to the blast furnace and basic oxygen route of steelmaking.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Thin-slab casting; hot rolling; compact strip processing.</keywords>
 				<authors>
 					<author>
-						<name first="A." last="Chatterjee">A. Chatterjee</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Amit" last="Chatterjee">Amit Chatterjee</name>
+						<affiliation>Tata Steel, Jamshedpur 831001, India</affiliation>
+						<email>achatterjee@lot.tatasteel.com</email>
 					</author>
 					<author>
-						<name first="S." last="Chandra">S. Chandra</name>
-						<affiliation></affiliation>
+						<name first="Sanjay" last="Chandra">Sanjay Chandra</name>
+						<affiliation>Tata Steel, Jamshedpur 831001, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1684,12 +1686,12 @@
 				<authors>
 					<author>
 						<name first="S." last="Mazumdar">S. Mazumdar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>R&amp;D Centre for Iron and Steel, Steel Authority of India Ltd (SAIL), Ranchi, India</affiliation>
+						<email>maz@rdcis.bih.nic.in</email>
 					</author>
 					<author>
 						<name first="S. K." last="Ray">S. K. Ray</name>
-						<affiliation></affiliation>
+						<affiliation>R&amp;D Centre for Iron and Steel, Steel Authority of India Ltd (SAIL), Ranchi, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1711,8 +1713,8 @@
 				<authors>
 					<author>
 						<name first="G." last="Ravichandran">G. Ravichandran</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Welding Research Institute, BHEL, Tiruchirappalli 620 014, India</affiliation>
+						<email>drgravi@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
@@ -1725,197 +1727,199 @@
 		</issue>
 		<issue inum="03" month="06" year="2001">
 			<entry issup="0">
-			<title>An indigenously developed electronic control system for Langmuir$–$Blodgett film deposition set-up</title>
+				<title>An indigenously developed electronic control system for Langmuir$–$Blodgett film deposition set-up</title>
 				<feature></feature>
 				<page>0213-0225</page>
 				<abstract>
-				<p>An indigenous and simple electronic control system for Langmuir$–$Blodgett (LB) film deposition set-up has been developed. This set-up consists of a microstepping circuit to drive the stepper motors with precision and smooth motion, essential for controlled movement of the barriers and substrate in the LB set-up. Linear variable differential transformer (LVDT)-based displacement measuring device has been developed and used to measure the surface pressure of the monolayer material spread on the water surface. A control program is written which incorporates all operational modes required to drive the set-up and to acquire the data $\textit{in situ}$ using a set of user-friendly commands. This control set-up has been successfully used to plot the pressure-area isotherm of various amphiphilic compounds such as ferric stearate, zinc arachidate etc. and for deposition of ordered LB films of ferric stearate.</p>
+					<p>An indigenous and simple electronic control system for Langmuir$–$Blodgett (LB) film deposition set-up has been developed. This set-up consists of a microstepping circuit to drive the stepper motors with precision and smooth motion, essential for controlled movement of the barriers and substrate in the LB set-up. Linear variable differential transformer (LVDT)-based displacement measuring device has been developed and used to measure the surface pressure of the monolayer material spread on the water surface. A control program is written which incorporates all operational modes required to drive the set-up and to acquire the data $\textit{in situ}$ using a set of user-friendly commands. This control set-up has been successfully used to plot the pressure-area isotherm of various amphiphilic compounds such as ferric stearate, zinc arachidate etc. and for deposition of ordered LB films of ferric stearate.</p>
 				</abstract>
 				<keywords>Electronic control system, Langmuir–Blodgett set-up, microstepping.</keywords>
 				<authors>
 					<author>
 						<name first="C. P." last="Navathe">C. P. Navathe</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<email>cpn@cat.ernet.in</email>
 					</author>
 					<author>
 						<name first="B. L." last="Dashora">B. L. Dashora</name>
-						<affiliation></affiliation>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="A." last="Jaiswal">A. Jaiswal</name>
-						<affiliation></affiliation>
+						<name first="Archana" last="Jaiswal">Archana Jaiswal</name>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<affiliation>Inter University Consortium for DAE Facilities, Indore 452 017, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="D. S." last="Thakur">D. S. Thakur</name>
-						<affiliation></affiliation>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="U. N." last="Roy">U. N. Roy</name>
-						<affiliation></affiliation>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="L. M." last="Kukreja">L. M. Kukreja</name>
-						<affiliation></affiliation>
+						<affiliation>Laser Programme, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-11-23</date>
+					<date type="R">2001-03-09</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry issup="0">
-			<title>Robust correlation tracker</title>
+				<title>Robust correlation tracker</title>
 				<feature></feature>
 				<page>0227-0236</page>
 				<abstract>
-				<p>Correlation tracking plays an important role in the automation of weapon systems. Area correlation is an effective technique for tracking targets that have neither prominent features nor high contrast with the background and  the ‘target’ can even be an area or a scene of interest. Even though this technique is robust under varying conditions of target background and light conditions, it has some problems like target drift and false registration. When the tracker or target is moving, the registration point drifts due to the discrete pixel size and aspect angle change.</p>
-				<p>In this research work, an attempt has been made to improve the performance of a correlation tracker for tracking ground targets with very poor contrast. In the present work only the CCD visible images with very poor target to background contrast are considered.</p>
-				<p>Applying novel linear and nonlinear filters, the problems present in the correlation tracker are overcome. Confidence and redundancy measures have been proposed to improve the performance by detecting misregistration. The proposed algorithm is tested on different sequences of images and its performance is satisfactory.</p>
+					<p>Correlation tracking plays an important role in the automation of weapon systems. Area correlation is an effective technique for tracking targets that have neither prominent features nor high contrast with the background and  the ‘target’ can even be an area or a scene of interest. Even though this technique is robust under varying conditions of target background and light conditions, it has some problems like target drift and false registration. When the tracker or target is moving, the registration point drifts due to the discrete pixel size and aspect angle change.</p>
+					<p>In this research work, an attempt has been made to improve the performance of a correlation tracker for tracking ground targets with very poor contrast. In the present work only the CCD visible images with very poor target to background contrast are considered.</p>
+					<p>Applying novel linear and nonlinear filters, the problems present in the correlation tracker are overcome. Confidence and redundancy measures have been proposed to improve the performance by detecting misregistration. The proposed algorithm is tested on different sequences of images and its performance is satisfactory.</p>
 				</abstract>
 				<keywords>Image processing;correlation;trackers.</keywords>
 				<authors>
 					<author>
-						<name first="M. S." last="Kishore">M. S. Kishore</name>
-						<affiliation></affiliation>
+						<name first="M. Sankar" last="Kishore">M. Sankar Kishore</name>
+						<affiliation>Research Centre Imarat, Vignyanakancha PO, Hyderabad 500 069, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="K. V." last="Rao">K. V. Rao</name>
-						<affiliation></affiliation>
+						<name first="K. Veerabhadra" last="Rao">K. Veerabhadra Rao</name>
+						<affiliation>Research Centre Imarat, Vignyanakancha PO, Hyderabad 500 069, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">1999-12-13</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry issup="0">
-			<title>Radar signal design problem with neural network processing</title>
+				<title>Radar signal design problem with neural network processing</title>
 				<feature></feature>
 				<page>0237-0241</page>
 				<abstract>
-				<p>Binary and ternary sequences with peaky autocorrelation, measured in terms of high discrimination and merit factor have been searched earlier, using optimization techniques. It is shown that the use of neural network processing of the return signal is much more advantageous. It opens up a new signal design problem, which is solved by an optimization technique called Hamming scan, for both binary and ternary sequences.</p>
+					<p>Binary and ternary sequences with peaky autocorrelation, measured in terms of high discrimination and merit factor have been searched earlier, using optimization techniques. It is shown that the use of neural network processing of the return signal is much more advantageous. It opens up a new signal design problem, which is solved by an optimization technique called Hamming scan, for both binary and ternary sequences.</p>
 				</abstract>
-				<keywords>. Radar signal design;neural network processing;peaky autocorrelation;high discrimination;merit facotr.</keywords>
+				<keywords>Radar signal design;neural network processing;peaky autocorrelation;high discrimination;merit facotr.</keywords>
 				<authors>
 					<author>
-						<name first="C. K." last="Rao">C. K. Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="C. Krishnamohan" last="Rao">C. Krishnamohan Rao</name>
+						<affiliation>VNR Vignana Jyothi Institute of Engineering and Technology, Jawaharlal Nehru Technological University, Hyderabad 500 072, India</affiliation>
+						<affiliation>Department of Electrical &amp; Computer Engineering, University of Missouri – Rolla, Rolla, MO 65409, USA</affiliation>
+						<email>ckm_rao@hotmail.com</email>
 					</author>
 					<author>
 						<name first="P. S." last="Moharir">P. S. Moharir</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>National Geophysical Research Institute, Uppal Road, Hyderabad 500 007, India</affiliation>
+						<email>pmoharir@rediffmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">1999-09-21</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry issup="0">
-			<title>Advances in nonlinear vibration analysis of structures. Part-I. Beams</title>
+				<title>Advances in nonlinear vibration analysis of structures. Part-I. Beams</title>
 				<feature></feature>
 				<page>0243-0249</page>
 				<abstract>
-				<p>The development of nonlinear vibration formulations for beams in the literature can be seen to have gone through distinct phases $–$ earlier continuum solutions, development of appropriate forms, extra-variational simplifications, debate and discussions, variationally correct formulations and finally applications. A review of work in each of these phases is very necessary in order to have a complete understanding of the process of evolution of this field. This paper attempts to achieve precisely this objective.</p>
+					<p>The development of nonlinear vibration formulations for beams in the literature can be seen to have gone through distinct phases $–$ earlier continuum solutions, development of appropriate forms, extra-variational simplifications, debate and discussions, variationally correct formulations and finally applications. A review of work in each of these phases is very necessary in order to have a complete understanding of the process of evolution of this field. This paper attempts to achieve precisely this objective.</p>
 				</abstract>
-				<keywords>Nonlinear vibrations;beams.</keywords>	
+				<keywords>Nonlinear vibrations;beams.</keywords>
 				<authors>
 					<author>
 						<name first="Sudhakar R." last="Marur">Sudhakar R. Marur</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>CSS Foundation, B4/4, Vaigai Nagar, Madurai 625 016, India</affiliation>
+						<email>smarur@iitiim.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-07-25</date>
+					<date type="R">2000-08-16</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry issup="0">
-			<title>Finite element simulation of internal flows with heat transfer using a velocity correction approach</title>
+				<title>Finite element simulation of internal flows with heat transfer using a velocity correction approach</title>
 				<feature></feature>
 				<page>0251-0283</page>
 				<abstract>
-				<p>This paper enumerates finite-element based prediction of internal flow problems, with heat transfer. The present numerical simulations employ a velocity correction algorithm, with a Galerkin weighted residual formulation. Two problems each in laminar and turbulent flow regimes are investigated, by solving full Navier$–$Stokes equations. Flow over a backward-facing step is studied with extensive validations. The robustness of the algorithm is demonstrated by solving a very complex problem viz. a disk and doughnut baffled heat exchanger, which has several obstructions in its flow path. The effect of wall conductivity in turbulent heat transfer is also studied by performing a conjugate analysis. Temporal evolution of flow in a channel due to circular, square and elliptic obstructions is investigated, to simulate the vortex dynamics. Flow past an in-line tube bank of a heat exchanger shell is numerically studied. Resulting heat and fluid flow patterns are analysed. Important design parameters of interest such as the Nusselt number, Strouhal number, skin friction coefficient, pressure drop etc. are obtained. It is successfully demonstrated that the velocity correction approach with a Galerkin weighted residual formulation is able to effectively simulate a wide range of fluid flow features.</p>
+					<p>This paper enumerates finite-element based prediction of internal flow problems, with heat transfer. The present numerical simulations employ a velocity correction algorithm, with a Galerkin weighted residual formulation. Two problems each in laminar and turbulent flow regimes are investigated, by solving full Navier$–$Stokes equations. Flow over a backward-facing step is studied with extensive validations. The robustness of the algorithm is demonstrated by solving a very complex problem viz. a disk and doughnut baffled heat exchanger, which has several obstructions in its flow path. The effect of wall conductivity in turbulent heat transfer is also studied by performing a conjugate analysis. Temporal evolution of flow in a channel due to circular, square and elliptic obstructions is investigated, to simulate the vortex dynamics. Flow past an in-line tube bank of a heat exchanger shell is numerically studied. Resulting heat and fluid flow patterns are analysed. Important design parameters of interest such as the Nusselt number, Strouhal number, skin friction coefficient, pressure drop etc. are obtained. It is successfully demonstrated that the velocity correction approach with a Galerkin weighted residual formulation is able to effectively simulate a wide range of fluid flow features.</p>
 				</abstract>
 				<keywords>Velocity correction method;finite element simulation;turbulent flows;internal flows;bluff body flows;heat exchangers</keywords>
 				<authors>
 					<author>
-						<name first="B. S. V." last="Patnaik">B. S. V. Patnaik</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="B. S. Varaprasad" last="Patnaik">B. S. Varaprasad Patnaik</name>
+						<affiliation>Department of Computational Science, National University of Singapore, Singapore 117543</affiliation>
+						<email>bsv_patnaik@hotmail.com</email>
 					</author>
 					<author>
 						<name first="Y. T. K." last="Gowda">Y. T. K. Gowda</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, PES College of Engineering, Mandya 571 401, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="M. S." last="Ravisankar">M. S. Ravisankar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, Texas A&amp;M University, College Station, TX 77843, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="P. A. A." last="Narayana">P. A. A. Narayana</name>
-						<affiliation></affiliation>
+						<name first="P. A. Aswatha" last="Narayana">P. A. Aswatha Narayana</name>
+						<affiliation>School of Mechanical Engineering, USM, 14300, Nibong Tebal, Malaysia</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="K. N." last="Seetharamu">K. N. Seetharamu</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Mechanical Engineering, USM, 14300, Nibong Tebal, Malaysia</affiliation>
+						<email>knseetharamu@hotmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-01-14</date>
+					<date type="R">2001-01-09</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry issup="0">
-			<title>A cylindrical furnace for absorption spectral studies</title>
+				<title>A cylindrical furnace for absorption spectral studies</title>
 				<feature></feature>
 				<page>0285-0289</page>
 				<abstract>
-				<p>A cylindrical furnace with three heating zones, capable of providing a temperature of $1100^\circ C$, has been fabricated to enable recording of absorption spectra of high temperature species. The temperature of the furnace can be controlled to $\pm 1^\circ C$ of the set temperature. The salient feature of this furnace is that the material being heated can be prevented from depositing on the windows of the absorption cell by maintaining a higher temperature at both the ends of the absorption cell.</p>
+					<p>A cylindrical furnace with three heating zones, capable of providing a temperature of $1100^\circ C$, has been fabricated to enable recording of absorption spectra of high temperature species. The temperature of the furnace can be controlled to $\pm 1^\circ C$ of the set temperature. The salient feature of this furnace is that the material being heated can be prevented from depositing on the windows of the absorption cell by maintaining a higher temperature at both the ends of the absorption cell.</p>
 				</abstract>
 				<keywords>Electrical furnace;free radicals;absorption spectra;high temperature species.</keywords>
 				<authors>
 					<author>
 						<name first="R." last="Venkatasubramanian">R. Venkatasubramanian</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Spectroscopy Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email>rvs1@vsnl.com; bjshetty@apsara.barc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-10-25</date>
+					<date type="R">2001-04-04</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
 			</entry>
 			<entry issup="0">
-			<title>Erratum</title>
-				<feature></feature>
+				<title>The cumulative numbers of the two previous issues on the front cover (February–April 2001) should have been 117/118.</title>
+				<feature>Erratum</feature>
 				<page>0291-0291</page>
 				<abstract />
 				<keywords />
@@ -1929,24 +1933,24 @@
 				<feature></feature>
 				<page>0293-0316</page>
 				<abstract>
-				<p>This paper presents the state-of-the-art on application of optimisation techniques in groundwater quality and quantity management. In order to solve optimisation-based groundwater management models, researchers have used various mathematical programming techniques such as linear programming (LP), nonlinear programming (NLP), mixed-integer programming (MIP), optimal control theory-based mathematical programming, differential dynamic programming (DDP), stochastic programming (SP), combinatorial optimisation (CO), and multiple objective programming for multipurpose management. Studies reported in the literature on the application of these methods are reviewed in this paper.</p>
+					<p>This paper presents the state-of-the-art on application of optimisation techniques in groundwater quality and quantity management. In order to solve optimisation-based groundwater management models, researchers have used various mathematical programming techniques such as linear programming (LP), nonlinear programming (NLP), mixed-integer programming (MIP), optimal control theory-based mathematical programming, differential dynamic programming (DDP), stochastic programming (SP), combinatorial optimisation (CO), and multiple objective programming for multipurpose management. Studies reported in the literature on the application of these methods are reviewed in this paper.</p>
 				</abstract>
 				<keywords>Groundwater quantity &amp;quality management;embedding technique;response matrix approach;optimisation techniques;simulation model;optimisation model.</keywords>
 				<authors>
 					<author>
 						<name first="Amlan" last="Das">Amlan Das</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Civil Engineering Department, Regional Engineering College, Durgapur 713 209, India</affiliation>
+						<email>adas wrpm@yahoo.com</email>
 					</author>
 					<author>
 						<name first="Bithin" last="Datta">Bithin Datta</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Civil Engineering Department, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email>bithin@iitk.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-03-01</date>
+					<date type="R">2001-04-09</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -1956,24 +1960,24 @@
 				<feature></feature>
 				<page>0317-0352</page>
 				<abstract>
-				<p>Seawater intrusion in coastal aquifers is generally three dimensional (3-D) in nature. In the literature, there is a general lack of reported results on 3-D simulations. This paper presents some typical example simulations of 3-D seawater intrusion process for a speciﬁed hypothetical study area. The simulation results presented in this paper are based on the density-dependent miscible ﬂow and transport modelling approach for simulation of seawater intrusion in coastal aquifers. A nonlinear optimization-based simulation methodology was used in this study. Various steady state simulations are performed for a speciﬁed study area. Response evaluations consider the effects of vertical recharge on seawater intrusion, effects of boundary conditions, and effects of spatially varying pumping from the aquifer. The 3-D simulations demonstrate the viability of using a planned strategy of spatially varying withdrawals from the aquifer to manage seawater intrusion. It is demonstrated that series of pumps near the ocean-face boundary induce a hydraulic head distribution that can be effectively used for controlling seawater intrusion.</p>
+					<p>Seawater intrusion in coastal aquifers is generally three dimensional (3-D) in nature. In the literature, there is a general lack of reported results on 3-D simulations. This paper presents some typical example simulations of 3-D seawater intrusion process for a speciﬁed hypothetical study area. The simulation results presented in this paper are based on the density-dependent miscible ﬂow and transport modelling approach for simulation of seawater intrusion in coastal aquifers. A nonlinear optimization-based simulation methodology was used in this study. Various steady state simulations are performed for a speciﬁed study area. Response evaluations consider the effects of vertical recharge on seawater intrusion, effects of boundary conditions, and effects of spatially varying pumping from the aquifer. The 3-D simulations demonstrate the viability of using a planned strategy of spatially varying withdrawals from the aquifer to manage seawater intrusion. It is demonstrated that series of pumps near the ocean-face boundary induce a hydraulic head distribution that can be effectively used for controlling seawater intrusion.</p>
 				</abstract>
 				<keywords>Seawater intrusion;coastal aquifers;density-dependent ﬂow and transport;$3-D$ aquifer responses.</keywords>
 				<authors>
 					<author>
 						<name first="Amlan" last="Das">Amlan Das</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Civil Engineering, Regional Engineering College, Durgapur 713 209, India.</affiliation>
+						<email>adas wrpm@yahoo.com</email>
 					</author>
 					<author>
 						<name first="Bithin" last="Datta">Bithin Datta</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology, Kanpur 208 016, India.</affiliation>
+						<email>bithin@iitk.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-03-01</date>
+					<date type="R">2001-04-09</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -1983,24 +1987,24 @@
 				<feature></feature>
 				<page>0353-0362</page>
 				<abstract>
-				<p>This paper gives a simple integral formula to evaluate the torque on a slowly rotating symmetric body partially immersed in a viscous liquid covered by an adsorbed surface ﬁlm. Besides the results known earlier, new results have also been derived for small values of the surface shear viscosity parameter $k$. It is seen that the effect of $K$ in all cases is to increase the torque.</p>
+					<p>This paper gives a simple integral formula to evaluate the torque on a slowly rotating symmetric body partially immersed in a viscous liquid covered by an adsorbed surface ﬁlm. Besides the results known earlier, new results have also been derived for small values of the surface shear viscosity parameter $k$. It is seen that the effect of $K$ in all cases is to increase the torque.</p>
 				</abstract>
 				<keywords>Slow rotation;axially symmetric bodies;surfactant layer</keywords>
 				<authors>
 					<author>
 						<name first="Sunil" last="Datta">Sunil Datta</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
+						<email>datta_s@hotmail.com</email>
 					</author>
 					<author>
 						<name first="Nidhi" last="Pandya">Nidhi Pandya</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-11-08</date>
+					<date type="R">2001-02-22</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2010,24 +2014,24 @@
 				<feature></feature>
 				<page>0363-0370</page>
 				<abstract>
-				<p>The aim of this paper is to investigate surface waves in anisotropic ﬁbre-reinforced solid elastic media. First, the theory of general surface waves has been derived and applied to study the particular cases of surface waves – Rayleigh, Love and Stoneley types. The wave velocity equations are found to be in agreement with the corresponding classical result when the anisotropic elastic parameters tends to zero. It is important to note that the Rayleigh type of wave velocity in the ﬁbre-reinforced elastic medium increases to a considerable amount in comparison with the Rayleigh wave velocity in isotropic materials.</p>
+					<p>The aim of this paper is to investigate surface waves in anisotropic ﬁbre-reinforced solid elastic media. First, the theory of general surface waves has been derived and applied to study the particular cases of surface waves – Rayleigh, Love and Stoneley types. The wave velocity equations are found to be in agreement with the corresponding classical result when the anisotropic elastic parameters tends to zero. It is important to note that the Rayleigh type of wave velocity in the ﬁbre-reinforced elastic medium increases to a considerable amount in comparison with the Rayleigh wave velocity in isotropic materials.</p>
 				</abstract>
 				<keywords>Fibre-reinforced medium;surface waves;Rayleigh waves;Love waves;Stoneley waves.</keywords>
 				<authors>
 					<author>
 						<name first="P. R." last="Sengupta">P. R. Sengupta</name>
-						<affiliation></affiliation>
+						<affiliation>201, Manicktala Main Road, Suite No. 42, Calcutta, 700 054, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Sisir" last="Nath">Sisir Nath</name>
-						<affiliation></affiliation>
+						<affiliation>University of Kalyani, Department of Mathematics, Kalyani 741 235, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-01-06</date>
+					<date type="R">2001-01-15</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2037,19 +2041,19 @@
 				<feature></feature>
 				<page>0371-0377</page>
 				<abstract>
-				<p>By expressing the dynamic visco-elastic characteristic of a material in terms of the complex shear modulus, the vertical vibrations of a visco-elastic half-space as well as that of a mass in visco-elastic half-space are considered here. Torsional vibrations of a visco-elastic half-space is also considered. Numerical results are derived for two cases and shown graphically.</p>
+					<p>By expressing the dynamic visco-elastic characteristic of a material in terms of the complex shear modulus, the vertical vibrations of a visco-elastic half-space as well as that of a mass in visco-elastic half-space are considered here. Torsional vibrations of a visco-elastic half-space is also considered. Numerical results are derived for two cases and shown graphically.</p>
 				</abstract>
 				<keywords>Visco-elasticity;complex moduli;torsional vibrations;tangential displacement.</keywords>
 				<authors>
 					<author>
 						<name first="Prakash Chandra" last="Pal">Prakash Chandra Pal</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Applied Mathematics. Indian School of Mines, Dhanbad 826 004, India</affiliation>
+						<email>pcpal ism@yahoo.co.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-09-07</date>
+					<date type="R">2001-03-21</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2059,19 +2063,19 @@
 				<feature></feature>
 				<page>0379-0385</page>
 				<abstract>
-				<p>A projectile is stabilised using either gyroscopic or aerodynamic stability. But subcalibre projectiles with sabot have both spin and ﬁns. Separate stability criteria are researched generally for each type of projectile. In this paper a stability criterion which can be used for all such bodies has been developed through the Liapunov second method.</p>
+					<p>A projectile is stabilised using either gyroscopic or aerodynamic stability. But subcalibre projectiles with sabot have both spin and ﬁns. Separate stability criteria are researched generally for each type of projectile. In this paper a stability criterion which can be used for all such bodies has been developed through the Liapunov second method.</p>
 				</abstract>
 				<keywords>Projectiles;aerodynamic stability;potential function;spin;sabot;ﬁns.</keywords>
 				<authors>
 					<author>
 						<name first="S. D." last="Naik">S. D. Naik</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute of Armament Technology, Pune 411 025, India</affiliation>
+						<email>insdnaik@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-02-16</date>
+					<date type="R">2001-03-12</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2083,19 +2087,19 @@
 				<feature></feature>
 				<page>0387-0412</page>
 				<abstract>
-				<p>Different data analysis techniques for characterisation of the turbulent ﬂow past a surface-mounted rib are reviewed. Deﬁciencies of the existing techniques are explained and modiﬁed techniques for determination of coherent structure magnitude and phase jitter are suggested. The effect of fundamental excitation on the ﬂow is studied by using these turbulent signal analysis techniques. The appropriate length scale for characterizing the large-scale structures present in the reattaching shear layer of the surface-mounted rib is found to be the momentum thickness at the downstream edge of the rib, and the corresponding Strouhal number is 0.013. This is in contrast to a rib in the free stream, where the rib height is the correct scaling parameter. The post reattachment region is observed to be dominated by large-scale structures contrary to the traditional belief that large eddies break into small scales at the reattachment location. Low magnitude of phase jitter in the near ﬁeld region is observed, indicating coherence of the ﬂow structures. Phase decorrelation begins to occur beyond three rib heights from the downstream edge of the rib. From the quadrant analysis results, the outer edge of the shear layer is observed to be dominated by large-scale ejection motions.</p>
+					<p>Different data analysis techniques for characterisation of the turbulent ﬂow past a surface-mounted rib are reviewed. Deﬁciencies of the existing techniques are explained and modiﬁed techniques for determination of coherent structure magnitude and phase jitter are suggested. The effect of fundamental excitation on the ﬂow is studied by using these turbulent signal analysis techniques. The appropriate length scale for characterizing the large-scale structures present in the reattaching shear layer of the surface-mounted rib is found to be the momentum thickness at the downstream edge of the rib, and the corresponding Strouhal number is 0.013. This is in contrast to a rib in the free stream, where the rib height is the correct scaling parameter. The post reattachment region is observed to be dominated by large-scale structures contrary to the traditional belief that large eddies break into small scales at the reattachment location. Low magnitude of phase jitter in the near ﬁeld region is observed, indicating coherence of the ﬂow structures. Phase decorrelation begins to occur beyond three rib heights from the downstream edge of the rib. From the quadrant analysis results, the outer edge of the shear layer is observed to be dominated by large-scale ejection motions.</p>
 				</abstract>
 				<keywords>Phase jitter;pattern recognition method;quadrant analysis;turbulator;coherent structures.</keywords>
 				<authors>
 					<author>
 						<name first="P. K." last="Panigrahi">P. K. Panigrahi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email>panig@iitk.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-12-29</date>
+					<date type="R">2001-02-19</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2105,19 +2109,19 @@
 				<feature></feature>
 				<page>0413-0437</page>
 				<abstract>
-				<p>This paper presents the detailed turbulent kinetic energy budget and higher order statistics of ﬂow behind a surface-mounted rib with and without superimposed acoustic excitation. Pattern recognition technique is used to determine the large-scale structure magnitude. It is observed that most of the turbulence contributions after the reattachment region are from the large-scale structures contrary to the belief that mostly random turbulent structures are present after reattachment. The dissipation is not a small-scale phenomena only. It may result due to the interaction between large-scale structures. From the results of higher order moments, the outer edge of the shear layer is observed to be non-Gaussian in nature with signiﬁcant deviation from the Gaussian skewness and ﬂatness value. The kinetic energy budget results show positive intermodal production in the outer edge of the shear layer indicating the presence of back scattering. The non-Gaussian velocity distribution, ejection motions and back-scattering present in the outer shear layer may be conjectured to be correlated with each other.</p>
+					<p>This paper presents the detailed turbulent kinetic energy budget and higher order statistics of ﬂow behind a surface-mounted rib with and without superimposed acoustic excitation. Pattern recognition technique is used to determine the large-scale structure magnitude. It is observed that most of the turbulence contributions after the reattachment region are from the large-scale structures contrary to the belief that mostly random turbulent structures are present after reattachment. The dissipation is not a small-scale phenomena only. It may result due to the interaction between large-scale structures. From the results of higher order moments, the outer edge of the shear layer is observed to be non-Gaussian in nature with signiﬁcant deviation from the Gaussian skewness and ﬂatness value. The kinetic energy budget results show positive intermodal production in the outer edge of the shear layer indicating the presence of back scattering. The non-Gaussian velocity distribution, ejection motions and back-scattering present in the outer shear layer may be conjectured to be correlated with each other.</p>
 				</abstract>
 				<keywords>Pattern recognition method;higher order moments;kinetic energy budget;turbulator;coherent structures.</keywords>
 				<authors>
 					<author>
 						<name first="P. K." last="Panigrahi">P. K. Panigrahi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email>panig@iitk.ac.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1999-12-29</date>
+					<date type="R">2001-02-19</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2127,19 +2131,19 @@
 				<feature></feature>
 				<page>0439-0445</page>
 				<abstract>
-				<p>Generalized solution for the location of critical ﬂow section in collector channels is presented. Based on the concept of the singularity, the dynamic equation of spatially varied ﬂow (SVF) is solved using the ﬂow resistance equations of von Karman (for rough regime) and Jain (for transitional and smooth regimes). The advantage of using Jain’s equations is that they provide the explicit forms of the Colebrook$–$White and Nikuradse equations. Computational steps for the determination of critical ﬂow section in a collector channel, being dependent on channel geometry, roughness, longitudinal bed slope and inﬂow discharge, are given for different channel shapes.</p>
+					<p>Generalized solution for the location of critical ﬂow section in collector channels is presented. Based on the concept of the singularity, the dynamic equation of spatially varied ﬂow (SVF) is solved using the ﬂow resistance equations of von Karman (for rough regime) and Jain (for transitional and smooth regimes). The advantage of using Jain’s equations is that they provide the explicit forms of the Colebrook$–$White and Nikuradse equations. Computational steps for the determination of critical ﬂow section in a collector channel, being dependent on channel geometry, roughness, longitudinal bed slope and inﬂow discharge, are given for different channel shapes.</p>
 				</abstract>
 				<keywords>Collector channel;critical ﬂow section;hydraulics;open channel ﬂow;spatially varied ﬂow.</keywords>
 				<authors>
 					<author>
 						<name first="Subhasish" last="Dey">Subhasish Dey</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email>sdey@civil.iitkgp.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-11-13</date>
+					<date type="R">2001-05-20</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2149,29 +2153,29 @@
 				<feature></feature>
 				<page>0447-0463</page>
 				<abstract>
-				<p>Product design and fabrication constitute an important business activity in any manufacturing ﬁrm. Designing an optimized product fabrication process is an important problem in itself and is of signiﬁcant practical and research interest. In this paper, we look into a printed circuit board (PCB) fabrication process and investigate ways in which the fabrication cycle time can be minimized. Single class queueing networks constitute the modelling framework for our study. The model developed in this paper and the analysis experiments carried out are based on extensive data collected on a PCB fabrication company located in Bangalore, India. This is a representative PCB fabrication company involving multiple, concurrent fabrication works with contention for human/technical resources. Our model seeks to capture faithfully the ﬂow of the fabrication process in this company and such other organisations, using queueing networks. Using the model developed, we explore how the cycle times can be reduced using input control, load balancing, and variability reduction. The model presented is sufﬁciently generic and conceptual; its scope extends beyond that of a PCB fabrication organization.</p>
+					<p>Product design and fabrication constitute an important business activity in any manufacturing ﬁrm. Designing an optimized product fabrication process is an important problem in itself and is of signiﬁcant practical and research interest. In this paper, we look into a printed circuit board (PCB) fabrication process and investigate ways in which the fabrication cycle time can be minimized. Single class queueing networks constitute the modelling framework for our study. The model developed in this paper and the analysis experiments carried out are based on extensive data collected on a PCB fabrication company located in Bangalore, India. This is a representative PCB fabrication company involving multiple, concurrent fabrication works with contention for human/technical resources. Our model seeks to capture faithfully the ﬂow of the fabrication process in this company and such other organisations, using queueing networks. Using the model developed, we explore how the cycle times can be reduced using input control, load balancing, and variability reduction. The model presented is sufﬁciently generic and conceptual; its scope extends beyond that of a PCB fabrication organization.</p>
 				</abstract>
 				<keywords>Queueing;manufacturing;modelling;cycle times.</keywords>
 				<authors>
 					<author>
 						<name first="K. S." last="Aithal">K. S. Aithal</name>
-						<affiliation></affiliation>
+						<affiliation>Central Manufacturing Technology Institute, Tumkur Road, Bangalore 560 022, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Y." last="Narahari">Y. Narahari</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science and Automation, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>hari@csa.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="E." last="Manjunath">E. Manjunath</name>
-						<affiliation></affiliation>
+						<affiliation>Central Manufacturing Technology Institute, Tumkur Road, Bangalore 560 022, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-03-09</date>
+					<date type="R">2000-10-30</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2181,24 +2185,25 @@
 				<feature></feature>
 				<page>0465-0474</page>
 				<abstract>
-				<p>Acoustic emission (AE) signals are conventionally modelled as damped or decaying sinusoidal functions. A major drawback of this model is its negligible or zero rise time. This paper proposes an alternative model, which provides for the rising part of the signal without sacriﬁcing the analytical tractability and simplicity of the conventional model. Signals obtained from the proposed model through computer programs are illustrated for demonstrating their parity with actual AE signals. Analytic expressions for the time-domain parameters, viz., peak amplitude and rise time used in conventional AE signal analysis, are also derived. The model is believed to be also of use in modelling the output signal of any transducer that has ﬁnite rise time and fall time.</p>
+					<p>Acoustic emission (AE) signals are conventionally modelled as damped or decaying sinusoidal functions. A major drawback of this model is its negligible or zero rise time. This paper proposes an alternative model, which provides for the rising part of the signal without sacriﬁcing the analytical tractability and simplicity of the conventional model. Signals obtained from the proposed model through computer programs are illustrated for demonstrating their parity with actual AE signals. Analytic expressions for the time-domain parameters, viz., peak amplitude and rise time used in conventional AE signal analysis, are also derived. The model is believed to be also of use in modelling the output signal of any transducer that has ﬁnite rise time and fall time.</p>
 				</abstract>
 				<keywords>Acoustic emission;signal parameters;signal model;exponential model;double exponential model.</keywords>
 				<authors>
 					<author>
 						<name first="M. A." last="Majeed">M. A. Majeed</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Aerospace Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Department of Computer Science &amp; Engineering, Noorul Islam College of Engineering, Kumaracoil, Thuckalay 629 175, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="C. R. L." last="Murthy">C. R. L. Murthy</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Aerospace Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>crlmurty@aero.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-11-28</date>
+					<date type="R">2001-02-16</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2208,23 +2213,23 @@
 				<feature></feature>
 				<page>0475-0484</page>
 				<abstract>
-				<p>A double Blumlein pulse generator is constructed using a coaxial cable. This power supply is capable of providing a voltage up to $20 kV$ across a matched load and $40kV$ across an open load with a charging voltage of $10 kV$. It is designed to provide a pulse width of $110ns$. A rise time of $\sim 10ns$ is obtained with present spark gap. A rotating spark gap is also designed and constructed to get a pulse repetition rate of $25Hz$. Although, in the present work this pulse generator is used to study the streamer discharge in air, it is useful in many other applications also.</p>
+					<p>A double Blumlein pulse generator is constructed using a coaxial cable. This power supply is capable of providing a voltage up to $20 kV$ across a matched load and $40kV$ across an open load with a charging voltage of $10 kV$. It is designed to provide a pulse width of $110ns$. A rise time of $\sim 10ns$ is obtained with present spark gap. A rotating spark gap is also designed and constructed to get a pulse repetition rate of $25Hz$. Although, in the present work this pulse generator is used to study the streamer discharge in air, it is useful in many other applications also.</p>
 				</abstract>
 				<keywords>Pulse power supply;pulse forming line;Blumlein-spark gap;water load;streamer discharge.</keywords>			
 				<authors>
 					<author>
 						<name first="Deepak K." last="Gupta">Deepak K. Gupta</name>
-						<affiliation></affiliation>
+						<affiliation>Institute for Plasma Research, Bhat, Gandhinagar 382 428, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P. I." last="John">P. I. John</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute for Plasma Research, Bhat, Gandhinagar 382 428, India</affiliation>
+						<email>john@ipr.res.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2000-06-28</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -2235,28 +2240,28 @@
 				<feature></feature>
 				<page>0485-0494</page>
 				<abstract>
-				<p>We propose a novel method of combining artiﬁcial neural networks (ANNs) with chaotic noise reduction techniques that captures the metric and dynamic invariants of a chaotic time series, e.g. a time series obtained by iterating the logistic map in chaotic regimes. Our results indicate that while the feedforward neural network is capable of capturing the dynamical and metric invariants of chaotic time series within an error of about 25%, ANNs along with chaotic noise reduction techniques, such as Hammel’s method or the local projective method, can signiﬁcantly improve these results. This further suggests that the effort on the ANN to train data corresponding to complex structures can be signiﬁcantly reduced. This technique can be applied in areas like signal processing, data communication, image processing etc.</p>
+					<p>We propose a novel method of combining artiﬁcial neural networks (ANNs) with chaotic noise reduction techniques that captures the metric and dynamic invariants of a chaotic time series, e.g. a time series obtained by iterating the logistic map in chaotic regimes. Our results indicate that while the feedforward neural network is capable of capturing the dynamical and metric invariants of chaotic time series within an error of about 25%, ANNs along with chaotic noise reduction techniques, such as Hammel’s method or the local projective method, can signiﬁcantly improve these results. This further suggests that the effort on the ANN to train data corresponding to complex structures can be signiﬁcantly reduced. This technique can be applied in areas like signal processing, data communication, image processing etc.</p>
 				</abstract>
 				<keywords>Backpropagation algorithm;noise reduction;logistic map.</keywords>
 				<authors>
 					<author>
 						<name first="C. Chandra Shekara" last="Bhat">C. Chandra Shekara Bhat</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Computational Materials Science, Unit-I,Regional Research Laboratory (CSIR) Thiruvananthapuram 695 019, India</affiliation>
+						<email>csb@csrrltrd.ren.nic.in</email>
 					</author>
 					<author>
 						<name first="M. R." last="Kaimal">M. R. Kaimal</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science, University of Kerala, Kariavattom PO, Thiruvananthapuram 695 581, India</affiliation>
+						<email>dcsku@md2.vsnl.net.in</email>
 					</author>
 					<author>
 						<name first="T. R." last="Ramamohan">T. R. Ramamohan</name>
-						<affiliation></affiliation>
+						<affiliation>Computational Materials Science, Unit-I,Regional Research Laboratory (CSIR) Thiruvananthapuram 695 019, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2000-03-27</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -2269,19 +2274,19 @@
 				<feature></feature>
 				<page>0495-0515</page>
 				<abstract>
-				<p>A new aerodynamic modelling approach is proposed for the longitudinal static characteristics of a simple delta wing. It captures the static variation of normal force and pitching moment characteristics throughout the angle of attack range. The pressure model is based on parametrizing the surface pressure distribution on a simple delta wing. The model is then extended to a wing/body combination where body-alone data are also available. The model is shown to be simple and consistent with experimental data. The pressure model can be used as a ﬁrst approximation for the load estimation on the delta wing at high angles of attack.</p>
+					<p>A new aerodynamic modelling approach is proposed for the longitudinal static characteristics of a simple delta wing. It captures the static variation of normal force and pitching moment characteristics throughout the angle of attack range. The pressure model is based on parametrizing the surface pressure distribution on a simple delta wing. The model is then extended to a wing/body combination where body-alone data are also available. The model is shown to be simple and consistent with experimental data. The pressure model can be used as a ﬁrst approximation for the load estimation on the delta wing at high angles of attack.</p>
 				</abstract>
 				<keywords>Delta wing;surface pressure;aerodynamic modelling;high angle of attack.</keywords>
 				<authors>
 					<author>
-						<name first="A." last="Pashilkar">A. Pashilkar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="A. A." last="Pashilkar">A. A. Pashilkar</name>
+						<affiliation>Flight Mechanics &amp; Control Division, National Aerospace Laboratories, Bangalore 560 017, India</affiliation>
+						<email>apash@css.cmmacs.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-12-21</date>
+					<date type="R">2001-03-27</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2291,29 +2296,30 @@
 				<feature></feature>
 				<page>0517-0528</page>
 				<abstract>
-				<p>A numerical model to simulate moisture ﬂow through unsaturated zones is developed using the ﬁnite element method, and is validated by comparing the model results with those available in the literature. The sensitivities of different processes such as gravity drainage and inﬁltration to the variations in the unsaturated soil properties are studied by varying the unsaturated parameters $\alpha$ and $n$ over a wide range. The model is also applied to predict moisture contents during a ﬁeld internal drainage test.</p>
+					<p>A numerical model to simulate moisture ﬂow through unsaturated zones is developed using the ﬁnite element method, and is validated by comparing the model results with those available in the literature. The sensitivities of different processes such as gravity drainage and inﬁltration to the variations in the unsaturated soil properties are studied by varying the unsaturated parameters $\alpha$ and $n$ over a wide range. The model is also applied to predict moisture contents during a ﬁeld internal drainage test.</p>
 				</abstract>
 				<keywords>Unsaturated zone;capillary fringe;ﬁnite element method.</keywords>
 				<authors>
 					<author>
 						<name first="K. S. Hari" last="Prasad">K. S. Hari Prasad</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Civil Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology, Roorkee 247 667, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="M. S. Mohan" last="Kumar">M. S. Mohan Kumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Civil Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>msmk@civil.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="M." last="Sekhar">M. Sekhar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Civil Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">1997-10-13</date>
+					<date type="R">2001-11-20</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2323,24 +2329,24 @@
 				<feature></feature>
 				<page>0529-0547</page>
 				<abstract>
-				<p>Disturbances caused by impulsive concentrated mechanical and thermal sources in a homogeneous, isotropic generalized thermo-microstretch elastic medium are studied by the use of Laplace$–$Hankel transform techniques. The integral transforms are inverted using a numerical technique. Analytical expressions for displacement components, stress, couple stress, microstress and temperature ﬁeld are derived for different models of generalized thermoelasticity and illustrated graphically. These results for stresses and displacements can be used in estimating the effects of a surface pressure wave. Stretch and micropolar effects on various expressions obtained analytically are also depicted graphically.</p>
+					<p>Disturbances caused by impulsive concentrated mechanical and thermal sources in a homogeneous, isotropic generalized thermo-microstretch elastic medium are studied by the use of Laplace$–$Hankel transform techniques. The integral transforms are inverted using a numerical technique. Analytical expressions for displacement components, stress, couple stress, microstress and temperature ﬁeld are derived for different models of generalized thermoelasticity and illustrated graphically. These results for stresses and displacements can be used in estimating the effects of a surface pressure wave. Stretch and micropolar effects on various expressions obtained analytically are also depicted graphically.</p>
 				</abstract>
 				<keywords>Thermo-microstretch;mechanical/thermal/impulsive sources;Laplace–Hankel transforms.</keywords>
 				<authors>
 					<author>
 						<name first="Rajneesh" last="Kumar">Rajneesh Kumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
+						<email>search@vidya.kuk.ernet.in</email>
 					</author>
 					<author>
 						<name first="Sunita" last="Deswal">Sunita Deswal</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-06-26</date>
+					<date type="R">2001-06-06</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2350,24 +2356,24 @@
 				<feature></feature>
 				<page>0549-0590</page>
 				<abstract>
-				<p>The ﬁnite element method entails several approximations. Hence it is essential to subject all new ﬁnite elements to an adequate set of pathological tests in order to assess their performance. Many such tests have been proposed by researchers from time to time. We present an adequate set of tests, which every new ﬁnite element should pass. A thorough account of the patch test is also included in view of its signiﬁcance in the validation of new elements.</p>
+					<p>The ﬁnite element method entails several approximations. Hence it is essential to subject all new ﬁnite elements to an adequate set of pathological tests in order to assess their performance. Many such tests have been proposed by researchers from time to time. We present an adequate set of tests, which every new ﬁnite element should pass. A thorough account of the patch test is also included in view of its signiﬁcance in the validation of new elements.</p>
 				</abstract>
 				<keywords>New ﬁnite elements;pathological tests;patch test.</keywords>
 				<authors>
 					<author>
 						<name first="K. Mallikarjuna" last="Rao">K. Mallikarjuna Rao</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="U." last="Shrinivasa">U. Shrinivasa</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>udipi@mecheng.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-08-03</date>
+					<date type="R">2001-11-06</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2377,29 +2383,29 @@
 				<feature></feature>
 				<page>0591-0602</page>
 				<abstract>
-				<p>This paper describes the design of an in-vacuum, water-cooled beam stop (X-ray shutter) for the materials science (X-ray diffraction) beamline proposed to be built on the wavelength shifter in the Indus-2 $(2.5 GeV)$ synchrotron radiation source. The radiation source impinges $\sim 1 kW$ power on the beam stop and the heat transfer capabilities of the beam stop have been evaluated. Temperature distribution in the beam stop has been obtained under various cooling conditions using the ﬁnite element analysis calculations with ANSYS software. Design parameters of the beam stop have been optimised. It is also shown that radiation cooling alone is not sufﬁcient for taking away the heat load. Water-cooling of the beam stop is essential.</p>
+					<p>This paper describes the design of an in-vacuum, water-cooled beam stop (X-ray shutter) for the materials science (X-ray diffraction) beamline proposed to be built on the wavelength shifter in the Indus-2 $(2.5 GeV)$ synchrotron radiation source. The radiation source impinges $\sim 1 kW$ power on the beam stop and the heat transfer capabilities of the beam stop have been evaluated. Temperature distribution in the beam stop has been obtained under various cooling conditions using the ﬁnite element analysis calculations with ANSYS software. Design parameters of the beam stop have been optimised. It is also shown that radiation cooling alone is not sufﬁcient for taking away the heat load. Water-cooling of the beam stop is essential.</p>
 				</abstract>
 				<keywords>Indus-2;synchrotron source;beamlines;ﬁnite element analysis;heat load.</keywords>
 				<authors>
 					<author>
 						<name first="A. K." last="Sinha">A. K. Sinha</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Synchrotron Utilisation Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<email>anil@cat.ernet.in</email>
 					</author>
 					<author>
 						<name first="K. J. S." last="Sawhney">K. J. S. Sawhney</name>
-						<affiliation></affiliation>
+						<affiliation>Synchrotron Utilisation Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="R. V." last="Nandedkar">R. V. Nandedkar</name>
-						<affiliation></affiliation>
+						<affiliation>Synchrotron Utilisation Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-07-31</date>
+					<date type="R">2001-04-11</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2409,39 +2415,39 @@
 				<feature></feature>
 				<page>0603-0611</page>
 				<abstract>
-				<p>A second-order autocorrelator for single-shot measurement of ultrashort laser pulse durations has been set up. It is based on recording the spatial proﬁle of non-collinear phase-matched second harmonic generation in a KDP crystal using a CCD camera$–$framegrabber combination. Performance of the system is described from measurement of 250 femtosecond transform-limited laser pulses from a passively mode-locked, diode pumped Nd:glass laser. It can also be used for measurement of picosecond laser pulses in the multi-shot scanning mode.</p>
+					<p>A second-order autocorrelator for single-shot measurement of ultrashort laser pulse durations has been set up. It is based on recording the spatial proﬁle of non-collinear phase-matched second harmonic generation in a KDP crystal using a CCD camera$–$framegrabber combination. Performance of the system is described from measurement of 250 femtosecond transform-limited laser pulses from a passively mode-locked, diode pumped Nd:glass laser. It can also be used for measurement of picosecond laser pulses in the multi-shot scanning mode.</p>
 				</abstract>
 				<keywords>Autocorrelation;femtosecond laser pulses;$Nd$:glass laser;second harmonic radiation.</keywords>
 				<authors>
 					<author>
 						<name first="M." last="Raghuramaiah">M. Raghuramaiah</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Plasma Radiation Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<email>raghuram@cat.ernet.in</email>
 					</author>
 					<author>
 						<name first="A. K." last="Sharma">A. K. Sharma</name>
-						<affiliation></affiliation>
+						<affiliation>Plasma Radiation Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P. A." last="Naik">P. A. Naik</name>
-						<affiliation></affiliation>
+						<affiliation>Plasma Radiation Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P. D." last="Gupta">P. D. Gupta</name>
-						<affiliation></affiliation>
+						<affiliation>Plasma Radiation Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="R. A." last="Ganeev">R. A. Ganeev</name>
-						<affiliation></affiliation>
+						<affiliation>On visit from NPO Akadempribor, Uzbek Academy of Sciences, Tashkent 700 143, Uzbekistan</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-05-02</date>
+					<date type="R">2001-09-04</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2464,21 +2470,12 @@
 				<authors />
 				<dates />
 			</entry>
-			<entry issup="0">
-				<title>Volume Contents</title>
-				<feature></feature>
-				<page>i-iii</page>
-				<abstract />
-				<keywords />
-				<authors />
-				<dates />
-			</entry>
 		</issue>
 	</volume>
 	<volume vnum="027">
 		<issue inum="01" month="02" year="2002">
 			<entry issup="0">
-				<title>Foreword</title>
+				<title>Foreword: Indian Language Document Analysis and Understanding</title>
 				<feature></feature>
 				<page>0001-0001</page>
 				<abstract />
@@ -2513,18 +2510,18 @@
 				<authors>
 					<author>
 						<name first="Rangachar" last="Kasturi">Rangachar Kasturi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science &amp; Engineering, The Pennsylvania State University, University Park, PA 16802, USA</affiliation>
+						<email>kasturi@cse.psu.edu</email>
 					</author>
 					<author>
 						<name first="Lawrence" last="O’Gorman">Lawrence O’Gorman</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Avaya Labs, Room 1B04, 233 Mt. Airy Road, Basking Ridge, NJ 07920, USA</affiliation>
+						<email>logorman@avaya.com</email>
 					</author>
 					<author>
-						<name first="V." last="Govindaraju">V. Govindaraju</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Venu" last="Govindaraju">Venu Govindaraju</name>
+						<affiliation>CEDAR, State University of New York at Buffalo, Amherst, NY 14228, USA</affiliation>
+						<email>govind@cedar.buffalo.edu</email>
 					</author>
 				</authors>
 				<dates>
@@ -2545,18 +2542,18 @@
 				<authors>
 					<author>
 						<name first="B. B." last="Chaudhuri">B. B. Chaudhuri</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Computer Vision and Pattern Recognition Unit, Indian statistical Institute, 203, B T Road, Kolkata 700 108, India</affiliation>
+						<email>bbc@isical.ac.in</email>
 					</author>
 					<author>
 						<name first="U." last="Pal">U. Pal</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Computer Vision and Pattern Recognition Unit, Indian statistical Institute, 203, B T Road, Kolkata 700 108, India</affiliation>
+						<email>umapada@isical.ac.in</email>
 					</author>
 					<author>
 						<name first="M." last="Mitra">M. Mitra</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Computer Vision and Pattern Recognition Unit, Indian statistical Institute, 203, B T Road, Kolkata 700 108, India</affiliation>
+						<email>mandar@isical.ac.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2577,13 +2574,14 @@
 				<authors>
 					<author>
 						<name first="T. V." last="Ashwin">T. V. Ashwin</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Research Staff Member, IBM India Research Laboratories, I I T Campus, New Delhi 110 016, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P. S." last="Sastry">P. S. Sastry</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>sastry@ee.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2604,18 +2602,18 @@
 				<authors>
 					<author>
 						<name first="Reena" last="Bajaj">Reena Bajaj</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, New Delhi 110016, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Lipika" last="Dey">Lipika Dey</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Indian Institute of Technology, New Delhi 110016, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="S." last="Chaudhury">S. Chaudhury</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Santanu" last="Chaudhury">Santanu Chaudhury</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, New Delhi 110016, India</affiliation>
+						<email>santanuc@ee.iitd.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2636,18 +2634,18 @@
 				<authors>
 					<author>
 						<name first="D." last="Dhanya">D. Dhanya</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Biomedical Laboratory, Department of Electrical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>dhanya@ee.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="A. G." last="Ramakrishnan">A. G. Ramakrishnan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Biomedical Laboratory, Department of Electrical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>ramkiag@ee.iisc.ernet.in</email>
 					</author>
 					<author>
 						<name first="Peeta Basa" last="Pati">Peeta Basa Pati</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Biomedical Laboratory, Department of Electrical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>pati@ee.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2667,14 +2665,15 @@
 				<keywords>Document processing;optical character recognition;script identiﬁ-cation;probabilistic neural network;multi-script multi-lingual document.</keywords>
 				<authors>
 					<author>
-						<name first="N. V. Subba" last="Reddy">N. V. Subba Reddy</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="S. Basavaraj" last="Patil">S. Basavaraj Patil</name>
+						<affiliation>Kuvempu University Research Centre, Department of Computer Science and Engineering, University B D T College of Engineering, Davangere 577 004, India</affiliation>
+						<email>sbpati9@hotmail.com</email>
 					</author>
 					<author>
-						<name first="S. Basavaraj" last="Patil">S. Basavaraj Patil</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="N. V." last="Subbareddy">N. V. Subbareddy</name>
+						<affiliation>Kuvempu University Research Centre, Department of Computer Science and Engineering, University B D T College of Engineering, Davangere 577 004, India</affiliation>
+						<affiliation>Department of Computer Science &amp; Engineering, Manipal Institute of Technology, Manipal 576 119, India</affiliation>
+						<email>dr_nvsreddy@rediffmail.com</email>
 					</author>
 				</authors>
 				<dates>
@@ -2695,12 +2694,12 @@
 				<authors>
 					<author>
 						<name first="G. S." last="Lehal">G. S. Lehal</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science and Engineering, Thapar Institute of Engineering &amp; Technology, Patiala 147 004, India</affiliation>
+						<email>gslehal@mailcity.com</email>
 					</author>
 					<author>
 						<name first="Chandan" last="Singh">Chandan Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Computer Science and Engineering, Punjabi University, Patiala 147 002, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -2722,13 +2721,13 @@
 				<authors>
 					<author>
 						<name first="Aniruddha" last="Sen">Aniruddha Sen</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Technology and Computer Science, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005, India</affiliation>
+						<email>asen@mailhost.tifr.res.in</email>
 					</author>
 					<author>
 						<name first="K." last="Samudravijaya">K. Samudravijaya</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Technology and Computer Science, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005, India</affiliation>
+						<email>chief@mailhost.tifr.res.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2741,9 +2740,9 @@
 		</issue>
 		<issue inum="02" month="04" year="2002">
 			<entry issup="0">
-				<title>Foreword </title>
+				<title>Foreword: Formal Verification of Circuits and Systems</title>
 				<feature></feature>
-				<page>0127</page>
+				<page>0127-0127</page>
 				<abstract />
 				<keywords />
 				<authors>
@@ -2771,18 +2770,18 @@
 				<authors>
 					<author>
 						<name first="Supratik" last="Chakraborty">Supratik Chakraborty</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science and Engineering, Indian Institute of Technology – Bombay, Mumbai 400 076, India</affiliation>
+						<email>supratik@cse.iitb.ac.in</email>
 					</author>
 					<author>
 						<name first="David L." last="Dill">David L. Dill</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Computer Science Department, Stanford University, Stanford, CA 94305, USA</affiliation>
+						<email>dill@cs.stanford.edu</email>
 					</author>
 					<author>
 						<name first="Kenneth Y." last="Yun">Kenneth Y. Yun</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Electrical and Computer Engineering Department, University of California, San Diego, La Jolla, CA 92093-0407, USA</affiliation>
+						<email>kyy@paradise.ucsd.edu</email>
 					</author>
 				</authors>
 				<dates>
@@ -2802,19 +2801,19 @@
 				<keywords>Computational tree logic;timing veriﬁcation;temporal query language.</keywords>
 				<authors>
 					<author>
-						<name first="P." last="Dasgupta">P. Dasgupta</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Pallab" last="Dasgupta">Pallab Dasgupta</name>
+						<affiliation>Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur, India 721 302</affiliation>
+						<email>pallab@cse.iitkgp.ernet.in</email>
 					</author>
 					<author>
 						<name first="P. P." last="Chakrabarti">P. P. Chakrabarti</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur, India 721 302</affiliation>
+						<email>ppchak@cse.iitkgp.ernet.in</email>
 					</author>
 					<author>
 						<name first="Jatindra Kumar" last="Deka">Jatindra Kumar Deka</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur, India 721 302</affiliation>
+						<email>jatin@cse.iitkgp.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2835,13 +2834,13 @@
 				<authors>
 					<author>
 						<name first="Deepak" last="D’Souza">Deepak D’Souza</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Chennai Mathematical Institute, 92 G N Chetty Road, Chennai 600 017, India</affiliation>
+						<email>deepak@cmi.ac.in</email>
 					</author>
 					<author>
-						<name first="P." last="Thiagarajan">P. Thiagarajan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="P. S." last="Thiagarajan">P. S. Thiagarajan</name>
+						<affiliation>Chennai Mathematical Institute, 92 G N Chetty Road, Chennai 600 017, India</affiliation>
+						<email>pst@cmi.ac.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2861,14 +2860,14 @@
 				<keywords>Assumption-commitment;automata theory;concurrency theory;veriﬁcation;decomposition.</keywords>
 				<authors>
 					<author>
-						<name first="S." last="Mohalik">S. Mohalik</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Swarup" last="Mohalik">Swarup Mohalik</name>
+						<affiliation>Sasken Communications Technology Ltd, Bangalore 560 071, India</affiliation>
+						<email>swarup@sasken.com</email>
 					</author>
 					<author>
 						<name first="R." last="Ramanujam">R. Ramanujam</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>The Institute of Mathematical Sciences, Taramani, Chennai 600 113, India</affiliation>
+						<email>jam@imsc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -2891,17 +2890,17 @@
 				<authors>
 					<author>
 						<name first="Arun R." last="Rao">Arun R. Rao</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="U." last="Shrinivasa">U. Shrinivasa</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>udipi@mecheng.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2001-12-05</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -2917,19 +2916,20 @@
 				<keywords>Acoustic emission;source characterization;efﬁcient parameters;peak amplitude;rise time.</keywords>
 				<authors>
 					<author>
-						<name first="MA" last="Majeed">MA Majeed</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="M. A." last="Majeed">M. A. Majeed</name>
+						<affiliation>Department of Aerospace Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>Department of Computer Science &amp; Engineering, Noorul Islam College of Engineering, Kumaracoil, Thuckalay, India</affiliation>
+						<email>ponnara@mailcity.com</email>
 					</author>
 					<author>
 						<name first="C. R. L." last="Murthy">C. R. L. Murthy</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Aerospace Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>crlmurty@aero.iisci.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-06-13</date>
+					<date type="R">2001-12-18</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -2946,22 +2946,22 @@
 				<authors>
 					<author>
 						<name first="Mihir B." last="Banerjee">Mihir B. Banerjee</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Himachal Pradesh University, Shimla 171 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="J. R." last="Gupta">J. R. Gupta</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Himachal Pradesh University, Shimla 171 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="R. G." last="Shandil">R. G. Shandil</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, Himachal Pradesh University, Shimla 171 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2000-05-17</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -2978,18 +2978,18 @@
 				<authors>
 					<author>
 						<name first="Subhasish" last="Dey">Subhasish Dey</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology, Kharagpur 721302, India</affiliation>
+						<email>sdey@civil.iitkgp.ernet.in</email>
 					</author>
 					<author>
-						<name first="B." last="Ravi">B. Ravi</name>
-						<affiliation></affiliation>
+						<name first="B. Ravi" last="Kumar">B. Ravi Kumar</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology, Kharagpur 721302, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-10-15</date>
+					<date type="R">2002-02-13</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3004,24 +3004,24 @@
 				<keywords>Fluid-bed drying;ﬂuidisation;dried vegetables.</keywords>
 				<authors>
 					<author>
-						<name first="Bobi" last="Z.">Z. Bobi</name>
-						<affiliation></affiliation>
+						<name first="Z." last="Bobić">Z. Bobić</name>
+						<affiliation>Faculty of Food Technology and Biotechnology, University of Zagreb, Pierottijeva 6, 10000 Zagreb, Croatia</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="Bauman" last="I.">I. Bauman</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="I." last="Bauman">I. Bauman</name>
+						<affiliation>Faculty of Food Technology and Biotechnology, University of Zagreb, Pierottijeva 6, 10000 Zagreb, Croatia</affiliation>
+						<email>ibauman@pbf.hr</email>
 					</author>
 					<author>
-						<name first="ĆuriĆ" last="D.">D. ĆuriĆ</name>
-						<affiliation></affiliation>
+						<name first="D." last="Ćurić">D. Ćurić</name>
+						<affiliation>Faculty of Food Technology and Biotechnology, University of Zagreb, Pierottijeva 6, 10000 Zagreb, Croatia</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-06-25</date>
+					<date type="R">2001-11-30</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3037,13 +3037,13 @@
 				<authors>
 					<author>
 						<name first="O. M. I." last="Nwafor">O. M. I. Nwafor</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, Federal University of Technology, Owerri, Imo State, Nigeria</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-11-13</date>
+					<date type="R">2002-05-13</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3059,28 +3059,28 @@
 				<authors>
 					<author>
 						<name first="A. K." last="Nath">A. K. Nath</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Industrial CO$_{2}$ Laser Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<email>aknath@cat.ernet.in</email>
 					</author>
 					<author>
 						<name first="R." last="Sridhar">R. Sridhar</name>
-						<affiliation></affiliation>
+						<affiliation>Industrial CO$_{2}$ Laser Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P." last="Ganesh">P. Ganesh</name>
-						<affiliation></affiliation>
+						<affiliation>Industrial CO$_{2}$ Laser Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="R." last="Kaul">R. Kaul</name>
-						<affiliation></affiliation>
+						<affiliation>Industrial CO$_{2}$ Laser Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-05-24</date>
+					<date type="R">2001-12-28</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3096,28 +3096,28 @@
 				<authors>
 					<author>
 						<name first="Umesh" last="Kumar, Umesh">Umesh Kumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Room No. H-7B, HIRUP, Isotope Applications Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email>umeshk@apsara.barc.ernet.in</email>
 					</author>
 					<author>
 						<name first="G. S." last="Ramakrishna">G. S. Ramakrishna</name>
-						<affiliation></affiliation>
+						<affiliation>Room No. H-7B, HIRUP, Isotope Applications Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S. S." last="Datta">S. S. Datta</name>
-						<affiliation></affiliation>
+						<affiliation>Room No. H-7B, HIRUP, Isotope Applications Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Gursharan" last="Singh">Gursharan Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Room No. H-7B, HIRUP, Isotope Applications Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-06-04</date>
+					<date type="R">2001-10-23</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3132,13 +3132,13 @@
 				<keywords>Decoupling;displacement potentials;ﬁbre-reinforced media;surface waves;transversely isotropic media.</keywords>
 				<authors>
 					<author>
-						<name first="Sarvajit" last="Singh">Sarvajit Singh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Sarva Jit" last="Singh">Sarva Jit Singh</name>
+						<affiliation>Department of Mathematics, Maharshi Dayanand University, Rohtak 124001, India</affiliation>
+						<email>s_j_singh@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2002-03-01</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -3155,17 +3155,17 @@
 				<authors>
 					<author>
 						<name first="P. R." last="Sengupta">P. R. Sengupta</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University of Kalyani, Kalyani 741235, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Sisir" last="Nath">Sisir Nath</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mathematics, University of Kalyani, Kalyani 741235, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2002-04-24</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -3174,13 +3174,11 @@
 		</issue>
 		<issue inum="04" month="08" year="2002">
 			<entry issup="0">
-				<title>Foreword</title>
+				<title>Foreword: Fracture Mechanics of Concrete</title>
 				<feature></feature>
 				<page>0411-0412</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
+				<abstract />
+				<keywords />
 				<authors>
 					<author>
 						<name first="B. K. Raghu" last="Prasad">B. K. Raghu Prasad</name>
@@ -3206,8 +3204,9 @@
 				<authors>
 					<author>
 						<name first="F. H." last="Wittmann">F. H. Wittmann</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Centre for Durability, Maintenance and Repair, Qingdao Institute of Architecture &amp; Engineering, Qingdao 266 033, China</affiliation>
+						<affiliation>Aedificat Institut Freiburg, Dunantstrasse 16, D-79110 Freiburg, Germany</affiliation>
+						<email>fhw@aedificat.de</email>
 					</author>
 				</authors>
 				<dates>
@@ -3227,14 +3226,14 @@
 				<keywords>Concrete structures;size-effects;fractal geometry.</keywords>
 				<authors>
 					<author>
-						<name first="A." last="Carpinteri">A. Carpinteri</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Alberto" last="Carpinteri">Alberto Carpinteri</name>
+						<affiliation>Department of Structural Engineering, Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Torino, Italy</affiliation>
+						<email>carpinteri@polito.it</email>
 					</author>
 					<author>
-						<name first="B." last="Chiaia">B. Chiaia</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Bernardino" last="Chiaia">Bernardino Chiaia</name>
+						<affiliation>Department of Structural Engineering, Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Torino, Italy</affiliation>
+						<email>chiaia@polito.it</email>
 					</author>
 				</authors>
 				<dates>
@@ -3254,13 +3253,13 @@
 				<keywords>Fictitious crack model;fracture process zone (FPZ);high strength concrete (HSC);size effect;three point bend (TPB) beam.</keywords>
 				<authors>
 					<author>
-						<name first="B. L." last="Karihaloo">Karihaloo,B. L.</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="B. L." last="Karihaloo">B. L. Karihaloo</name>
+						<affiliation>Division of Civil Engineering, School of Engineering, Cardiff University, PO Box 925, Queen’s Buildings, Cardiff CF24 0YF, UK</affiliation>
+						<email>karihalooB@cardiff.ac.uk</email>
 					</author>
 					<author>
 						<name first="Q. Z." last="Xiao">Q. Z. Xiao</name>
-						<affiliation></affiliation>
+						<affiliation>Division of Civil Engineering, School of Engineering, Cardiff University, PO Box 925, Queen’s Buildings, Cardiff CF24 0YF, UK</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -3282,12 +3281,12 @@
 				<authors>
 					<author>
 						<name first="V. E." last="Saouma">V. E. Saouma</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Civil, Environmental and Architectural Engineering, University of Colorado, Boulder, CO 803090427, USA</affiliation>
+						<email>saouma@bechtel.Colorado.EDU</email>
 					</author>
 					<author>
 						<name first="D." last="Natekar">D. Natekar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, University of Colorado, Boulder, CO 803090427, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -3311,13 +3310,13 @@
 				<authors>
 					<author>
 						<name first="Jin-Keun" last="Kim">Jin-Keun Kim</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Civil &amp; Environmental Engineering, Korea Advanced Institute of Science &amp; Technology, 373-1, Kusong-dong, Yusong-gu, Daejon-si, 305-701, Korea</affiliation>
+						<email>kimjinkeun@kaist.ac.kr</email>
 					</author>
 					<author>
-						<name first="Seong Tae" last="Yi">Seong Tae Yi</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Seong-Tae" last="Yi">Seong-Tae Yi</name>
+						<affiliation>Department of Civil Engineering, Korea Power Engineering Company Inc., 360-9, Mabuk-ri, Guseong-eup, Yongin-si, Gyeonggi-do, 449-713, Korea</affiliation>
+						<email>yist@kopec.co.kr</email>
 					</author>
 				</authors>
 				<dates>
@@ -3328,7 +3327,7 @@
 				</dates>
 			</entry>
 			<entry issup="0">
-				<title>ATENA $–$ A tool for engineering analysis of fracture in concrete</title>
+				<title>ATENA – A tool for engineering analysis of fracture in concrete</title>
 				<feature></feature>
 				<page>0485-0492</page>
 				<abstract>
@@ -3337,18 +3336,18 @@
 				<keywords>ATENA;analysis of concrete fracture;nonlinear simulation.</keywords>
 				<authors>
 					<author>
-						<name first="V." last="Cervenka">V. Cervenka</name>
-						<affiliation></affiliation>
+						<name first="Vladimir" last="Cervenka">Vladimir Cervenka</name>
+						<affiliation>Cervenka Consulting, Prague, Czech Republic</affiliation>
+						<email>cervenka@cervenka.cz</email>
+					</author>
+					<author>
+						<name first="Jan" last="Cervenka">Jan Cervenka</name>
+						<affiliation>Cervenka Consulting, Prague, Czech Republic</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="J." last="Cervenka">J. Cervenka</name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="R." last="Pukl">R. Pukl</name>
-						<affiliation></affiliation>
+						<name first="Radomir" last="Pukl">Radomir Pukl</name>
+						<affiliation>Cervenka Consulting, Prague, Czech Republic</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -3372,13 +3371,13 @@
 				<authors>
 					<author>
 						<name first="Baljeet" last="Singh">Baljeet Singh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Mathematics Department, Jat College, Rohtak 124 001, India</affiliation>
+						<email>baljeet−gill@hotmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-04-25</date>
+					<date type="R">2002-01-15</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3393,19 +3392,19 @@
 				<keywords>Strain projection;ﬁeld-inconsistent/consistent function subspaces;variational correctness;shear locking;delayed convergence;spurious shear oscillations.</keywords>
 				<authors>
 					<author>
-						<name first="S." last="Mukherjee">S. Mukherjee</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Somenath" last="Mukherjee">Somenath Mukherjee</name>
+						<affiliation>Structures Division, National Aerospace Laboratories, Bangalore 560 017, India</affiliation>
+						<email>somu@cmmacs.ernet.in</email>
 					</author>
 					<author>
-						<name first="G." last="Prathap">G. Prathap</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Gangan" last="Prathap">Gangan Prathap</name>
+						<affiliation>Centre for Mathematical Modelling and Computer Simulation, Bangalore 560 037, India</affiliation>
+						<email>gp@cmmacs.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2002-03-30</date>
+					<date type="R">2002-06-21</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3422,28 +3421,28 @@
 				<authors>
 					<author>
 						<name first="Baldev" last="Raj">Baldev Raj</name>
-						<affiliation></affiliation>
+						<affiliation>Indira Gandhi Centre for Atomic Research, Kalpakkam, 603 102, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S. L." last="Mannan">S. L. Mannan</name>
-						<affiliation></affiliation>
+						<affiliation>Indira Gandhi Centre for Atomic Research, Kalpakkam, 603 102, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="P. R. V." last="Rao">P. R. V. Rao</name>
-						<affiliation></affiliation>
+						<name first="P. R. Vasudeva" last="Rao">P. R. Vasudeva Rao</name>
+						<affiliation>Indira Gandhi Centre for Atomic Research, Kalpakkam, 603 102, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="M. D." last="Mathew">M. D. Mathew</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indira Gandhi Centre for Atomic Research, Kalpakkam, 603 102, India</affiliation>
+						<email>dmg@igcar.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-10-22</date>
+					<date type="R">2002-05-17</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3458,18 +3457,18 @@
 				<keywords>Granular material;sedimentary bed;incipient motion;sediment transport;sediment threshold;ﬂuvial hydraulics.</keywords>
 				<authors>
 					<author>
-						<name first="S." last="Dey">S. Dey</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Subhasish" last="Dey">Subhasish Dey</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology, Kharagpur 721302, India</affiliation>
+						<email>sdey@civil.iitkgp.ernet.in</email>
 					</author>
 					<author>
-						<name first="U. V." last="Raju">U. V. Raju</name>
-						<affiliation></affiliation>
+						<name first="Uddaraju V." last="Raju">Uddaraju V. Raju</name>
+						<affiliation>Department of Civil Engineering, S R K R Engineering College, Bhimavaram 534202, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2002-01-15</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -3486,18 +3485,18 @@
 				<authors>
 					<author>
 						<name first="B. Tirumala" last="Rao">B. Tirumala Rao</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<email>trao@cat.ernet.in</email>
 					</author>
 					<author>
 						<name first="A. K." last="Nath">A. K. Nath</name>
-						<affiliation></affiliation>
+						<affiliation>Centre for Advanced Technology, Indore 452 013, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-05-24</date>
+					<date type="R">2001-12-28</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3513,13 +3512,13 @@
 				<authors>
 					<author>
 						<name first="Manju" last="Shukla">Manju Shukla</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mathematics and Astronomy, Lucknow University, Lucknow 226 007, India</affiliation>
+						<email>datta_s@hotmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-10-18</date>
+					<date type="R">2002-04-19</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3535,13 +3534,13 @@
 				<authors>
 					<author>
 						<name first="K. V." last="Prema">K. V. Prema</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science and Engineering, Manipal Institute of Technology, Manipal 576 119, India</affiliation>
+						<email>prema_kv@rediffmail.com</email>
 					</author>
 					<author>
 						<name first="N. V. Subba" last="Reddy">N. V. Subba Reddy</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Computer Science and Engineering, Manipal Institute of Technology, Manipal 576 119, India</affiliation>
+						<email>dr_nvsreddy@rediffmail.com</email>
 					</author>
 				</authors>
 				<dates>
@@ -3564,22 +3563,22 @@
 				<authors>
 					<author>
 						<name first="A." last="Pradhan">A. Pradhan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Applied Mathematics, Birla Institute of Technology, Mesra, Ranchi 835 215, India</affiliation>
+						<email>anjana_pghorai@yahoo.co.in</email>
 					</author>
 					<author>
 						<name first="S. K." last="Samal">S. K. Samal</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Applied Mathematics, Birla Institute of Technology, Mesra, Ranchi 835 215, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="N. C." last="Mahanti">N. C. Mahanti</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Applied Mathematics, Birla Institute of Technology, Mesra, Ranchi 835 215, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2002-02-25</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -3596,17 +3595,17 @@
 				<authors>
 					<author>
 						<name first="D. P." last="Acharya">D. P. Acharya</name>
-						<affiliation></affiliation>
+						<affiliation>Bangabasi Morning College, Kolkata 700 009, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Asit" last="Mondal">Asit Mondal</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>P-77, C.I.T. Road, Scheme-VI-M (S), B-3/8, Kolkata 700 054, India</affiliation>
+						<email>ak_m3@rediffmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2001-11-23</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -3623,23 +3622,23 @@
 				<authors>
 					<author>
 						<name first="A." last="Chattopadhyay">A. Chattopadhyay</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Applied Mathematics, Indian School of Mines, Dhanbad 826 004, India</affiliation>
+						<email>c_amares@yahoo.com</email>
 					</author>
 					<author>
 						<name first="R. L. K." last="Venkateswarlu">R. L. K. Venkateswarlu</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Applied Mathematics, Indian School of Mines, Dhanbad 826 004, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S." last="Saha">S. Saha</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Applied Mathematics, Indian School of Mines, Dhanbad 826 004, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-05-25</date>
+					<date type="R">2002-08-28</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3655,23 +3654,23 @@
 				<authors>
 					<author>
 						<name first="D. M." last="Kulkarni">D. M. Kulkarni</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Mechanical Engineering Group, Educational Hardware Division, Birla Institute of Technology and Science, Pilani 333 031, India</affiliation>
+						<email>dmk@bits-pilani.ac.in</email>
 					</author>
 					<author>
 						<name first="Ravi" last="Prakash">Ravi Prakash</name>
-						<affiliation></affiliation>
+						<affiliation>Research and Consultancy Division, Birla Institute of Technology and Science, Pilani 333 031, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="A. N." last="Kumar">A. N. Kumar</name>
-						<affiliation></affiliation>
+						<affiliation>Applied Mechanics, Indian Institute of Technology, New Delhi 110 016, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2002-05-16</date>
+					<date type="R">2002-09-20</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3687,22 +3686,22 @@
 				<authors>
 					<author>
 						<name first="Rajneesh" last="Kumar">Rajneesh Kumar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Dept. of Mathematics, Kurukshetra University, Kurukshetra 136 119, India</affiliation>
+						<email>search@vidya.kuk.ernet.in</email>
 					</author>
 					<author>
 						<name first="Aseem" last="Miglani">Aseem Miglani</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Dept. of Mathematics, M M Engineering College, Mullana, Ambala 133 203, India</affiliation>
+						<email>aseem_miglani@rediffmail.com</email>
 					</author>
 					<author>
 						<name first="N. R." last="Garg">N. R. Garg</name>
-						<affiliation></affiliation>
+						<affiliation>Dept. of Mathematics, Maharshi Dayanand University, Rohtak 124 001, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
+					<date type="M">2001-05-15</date>
 					<date type="R"></date>
 					<date type="A"></date>
 					<date type="E"></date>
@@ -3719,23 +3718,23 @@
 				<authors>
 					<author>
 						<name first="Vishwadeep" last="Saxena">Vishwadeep Saxena</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="K." last="Muralidhar">K. Muralidhar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
+						<email>kmurli@iitk.ac.in</email>
 					</author>
 					<author>
 						<name first="V." last="Eswaran">V. Eswaran</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Technology, Kanpur 208 016, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-11-23</date>
+					<date type="R">2002-03-05</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3751,18 +3750,18 @@
 				<authors>
 					<author>
 						<name first="Tulay" last="Yildirim">Tulay Yildirim</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Yildiz Technical University, Electronics and Communications Engineering Department, 34349 Besiktas-Istanbul, Turkey</affiliation>
+						<email>tulay@yildiz.edu.tr</email>
 					</author>
 					<author>
 						<name first="Lale" last="Ozyilmaz">Lale Ozyilmaz</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Yildiz Technical University, Electronics and Communications Engineering Department, 34349 Besiktas-Istanbul, Turkey</affiliation>
+						<email>ozyilmaz@yildiz.edu.tr</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-11-26</date>
+					<date type="R">2002-09-25</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3779,18 +3778,19 @@
 				<authors>
 					<author>
 						<name first="P." last="Nagabhushan">P. Nagabhushan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Studies in Computer Science, University of Mysore, Manasgangotri, Mysore 570 006, India</affiliation>
+						<email>pnagabhushan@hotmail.com</email>
 					</author>
 					<author>
 						<name first="Basavaraj S." last="Anami">Basavaraj S. Anami</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Studies in Computer Science, University of Mysore, Manasgangotri, Mysore 570 006, India</affiliation>
+						<affiliation>Department of Computer Science &amp; Engineering, Basaveshwar Engineering College, Bagalkot 587 102, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2000-11-06</date>
+					<date type="R">2001-11-20</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3806,23 +3806,23 @@
 				<authors>
 					<author>
 						<name first="P. Murali" last="Krishna">P. Murali Krishna</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Signal Processing and Artificial Neural Networks Laboratory, Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
+						<email>mkrishna@ee.iitb.ac.in</email>
 					</author>
 					<author>
 						<name first="Vikram M." last="Gadre">Vikram M. Gadre</name>
-						<affiliation></affiliation>
+						<affiliation>Signal Processing and Artificial Neural Networks Laboratory, Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Uday B." last="Desai">Uday B. Desai</name>
-						<affiliation></affiliation>
+						<affiliation>Signal Processing and Artificial Neural Networks Laboratory, Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
+					<date type="M">2001-12-10</date>
+					<date type="R">2002-03-13</date>
 					<date type="A"></date>
 					<date type="E"></date>
 				</dates>
@@ -3845,15 +3845,6 @@
 				<authors />
 				<dates />
 			</entry>
-			<entry issup="0">
-				<title>Volume Contents</title>
-				<feature></feature>
-				<page>i-iii</page>
-				<abstract />
-				<keywords />
-				<authors />
-				<dates />
-			</entry>
 		</issue>
 	</volume>
 	<volume vnum="028">
@@ -3861,12 +3852,17 @@
 			<entry issup="0">
 				<title>Editor's Note</title>
 				<feature></feature>
-				<page />
+				<page>0000a-0000a</page>
 				<abstract />
 				<keywords />
 				<authors>
 					<author>
 						<name first="Gangan" last="Prathap">Gangan Prathap</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Roddam" last="Narasimha">Roddam Narasimha</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -3879,7 +3875,7 @@
 				</dates>
 			</entry>
 			<entry issup="0">
-				<title>Foreword</title>
+				<title>Foreword: Frontiers in Materials Science and Technology</title>
 				<feature></feature>
 				<page>0001-0004</page>
 				<abstract />
@@ -3899,7 +3895,7 @@
 				</dates>
 			</entry>
 			<entry issup="0">
-				<title>Summary</title>
+				<title>Summary: Frontiers in Materials Science and Technology</title>
 				<feature></feature>
 				<page>0005-0015</page>
 				<abstract />
@@ -3934,8 +3930,8 @@
 				<authors>
 					<author>
 						<name first="Robert W." last="Cahn">Robert W. Cahn</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Materials Science and Metallurgy, Cambridge University, Pembroke Street, Cambridge CB2 3QZ, England</affiliation>
+						<email>rwc12@cam.ac.uk</email>
 					</author>
 				</authors>
 				<dates>
@@ -3955,18 +3951,18 @@
 				<keywords>Nanocrystalline materials;nanocrystalline structure;thermal stability;metastable phases.</keywords>
 				<authors>
 					<author>
-						<name first="R. S." last="Murty">R. S. Murty</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="B. S." last="Murty">B. S. Murty</name>
+						<affiliation>Department of Metallurgical and Materials Engineering, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
+						<email>bsm@iitkgp.ernet.in</email>
 					</author>
 					<author>
 						<name first="M. K." last="Datta">M. K. Datta</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Metallurgical and Materials Engineering, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S. K." last="Pabi">S. K. Pabi</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Metallurgical and Materials Engineering, Indian Institute of Technology, Kharagpur 721 302, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -3988,12 +3984,12 @@
 				<authors>
 					<author>
 						<name first="R." last="Divakar">R. Divakar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Physical Metallurgy Section, Materials Characterisation Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
+						<email>divakar@igcar.ernet.in</email>
 					</author>
 					<author>
 						<name first="V. S." last="Raghunathan">V. S. Raghunathan</name>
-						<affiliation></affiliation>
+						<affiliation>Physical Metallurgy Section, Materials Characterisation Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4015,12 +4011,13 @@
 				<authors>
 					<author>
 						<name first="Alok" last="Singh">Alok Singh</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Physical Metallurgy Section, Materials Characterisation Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
+						<email>alok@quasi.nims.go.jp</email>
 					</author>
 					<author>
 						<name first="A. P." last="Tsai">A. P. Tsai</name>
-						<affiliation></affiliation>
+						<affiliation>Physical Metallurgy Section, Materials Characterisation Group, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
+						<affiliation>National Institute for Materials Science, 1-2-1 Sengen, Tsukuba 305-0047, Japan</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4042,8 +4039,8 @@
 				<authors>
 					<author>
 						<name first="R. V." last="Ramanujan">R. V. Ramanujan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>School of Materials Engineering, Nanyang Avenue, Nanyang Technological University, Singapore 639 798</affiliation>
+						<email>ramanujam@ntu.edu.sg</email>
 					</author>
 				</authors>
 				<dates>
@@ -4064,8 +4061,9 @@
 				<authors>
 					<author>
 						<name first="K. A." last="Padmanabhan">K. A. Padmanabhan</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute of Nanotechnology, Research Center for Technology and Environment, P O Box 3640, Karlsruhe, Germany</affiliation>
+						<affiliation>Sylvan International Universities, 203/204, Mahavir Chambers, Liberty Crossroads, Hyderabad 500 029, India</affiliation>
+						<email>kap19452002@yahoo.co.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -4086,8 +4084,8 @@
 				<authors>
 					<author>
 						<name first="M." last="Kamaraj">M. Kamaraj</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Metallurgical Engineering, Indian Institute of Technology – Madras, Chennai 600 036, India</affiliation>
+						<email>kamaraj@iitm.ac.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -4108,33 +4106,33 @@
 				<authors>
 					<author>
 						<name first="M." last="Benyoucef">M. Benyoucef</name>
-						<affiliation></affiliation>
+						<affiliation>Faculte Des Sciences et Techniques Gu´eliz, Marrakech, Maroc</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="A." last="Coujou">A. Coujou</name>
-						<affiliation></affiliation>
+						<affiliation>Cemes-Loe, 29 Rue J Marvig, 31055 Toulouse, France</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="F." last="Pettinari-Sturmel">F. Pettinari-Sturmel</name>
-						<affiliation></affiliation>
+						<affiliation>Cemes-Loe, 29 Rue J Marvig, 31055 Toulouse, France</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S." last="Raujol">S. Raujol</name>
-						<affiliation></affiliation>
+						<affiliation>Cemes-Loe, 29 Rue J Marvig, 31055 Toulouse, France</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="B." last="Boubker">B. Boubker</name>
-						<affiliation></affiliation>
+						<affiliation>Faculte Des Sciences Ben M’Sick, Casablanca, Maroc</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="N." last="Clément">N. Clément</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Cemes-Loe, 29 Rue J Marvig, 31055 Toulouse, France</affiliation>
+						<email>clement@cemes.fr</email>
 					</author>
 				</authors>
 				<dates>
@@ -4154,23 +4152,23 @@
 				<keywords>Thermomechanical fatigue;life prediction;fracture mechanics;fatigue crack propagation;$IMI 834$;$X8019$.</keywords>
 				<authors>
 					<author>
-						<name first="H-J." last="Christ">H-J. Christ</name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="H-J" last="Christ">H-J Christ</name>
+						<affiliation>Institut für Werkstofftechnik, Universität Siegen, D-57068 Siegen, Germany</affiliation>
+						<email>Christ@ifwt.mb.uni-siegen.de</email>
 					</author>
 					<author>
 						<name first="A." last="Jung">A. Jung</name>
-						<affiliation></affiliation>
+						<affiliation>Institut für Werkstofftechnik, Universität Siegen, D-57068 Siegen, Germany</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="H. J." last="Maier">H. J. Maier</name>
-						<affiliation></affiliation>
+						<affiliation>Institut für Werkstofftechnik, Universität Siegen, D-57068 Siegen, Germany</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="R." last="Teteruk">R. Teteruk</name>
-						<affiliation></affiliation>
+						<affiliation>Institut für Werkstofftechnik, Universität Siegen, D-57068 Siegen, Germany</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4193,22 +4191,22 @@
 				<authors>
 					<author>
 						<name first="S." last="Tarafder">S. Tarafder</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Fatigue &amp; Fracture Group, National Metallurgical Laboratory, Jamshedpur 831 007, India</affiliation>
+						<email>star@csnml.ren.nic.in</email>
 					</author>
 					<author>
 						<name first="V. R." last="Ranganath">V. R. Ranganath</name>
-						<affiliation></affiliation>
+						<affiliation>Fatigue &amp; Fracture Group, National Metallurgical Laboratory, Jamshedpur 831 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="S." last="Sivaprasad">S. Sivaprasad</name>
-						<affiliation></affiliation>
+						<affiliation>Fatigue &amp; Fracture Group, National Metallurgical Laboratory, Jamshedpur 831 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P." last="Johri">P. Johri</name>
-						<affiliation></affiliation>
+						<affiliation>Fatigue &amp; Fracture Group, National Metallurgical Laboratory, Jamshedpur 831 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4230,13 +4228,13 @@
 				<authors>
 					<author>
 						<name first="Th" last="Nebel">Th Nebel</name>
-						<affiliation></affiliation>
+						<affiliation>Institute of Materials Science, University of Kaiserslautern, P.O. Box 3049, 67653 Kaiserslautern, Germany</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="D." last="Eifler">D. Eifler</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Institute of Materials Science, University of Kaiserslautern, P.O. Box 3049, 67653 Kaiserslautern, Germany</affiliation>
+						<email>eifler@mv.uni-kl.de</email>
 					</author>
 				</authors>
 				<dates>
@@ -4257,17 +4255,18 @@
 				<authors>
 					<author>
 						<name first="N. Eswara" last="Prasad">N. Eswara Prasad</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Defence Metallurgical Research Laboratory, P.O. Kanchanbagh, Hyderabad 500 058, India</affiliation>
+						<email>nep@dmrl.ernet.in</email>
 					</author>
 					<author>
 						<name first="A. A." last="Gokhale">A. A. Gokhale</name>
-						<affiliation></affiliation>
+						<affiliation>Defence Metallurgical Research Laboratory, P.O. Kanchanbagh, Hyderabad 500 058, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P. Rama" last="Rao">P. Rama Rao</name>
-						<affiliation></affiliation>
+						<affiliation>Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560 064, India</affiliation>
+						<affiliation>International Advanced Research Centre for Powder Metallurgy and New Materials, Balapur Post, Hyderabad 500 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4289,8 +4288,8 @@
 				<authors>
 					<author>
 						<name first="G. K." last="Dey">G. K. Dey</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Materials Science Division, Bhabha Atomic Research Centre, Trombay, Mumbai 400 085, India</affiliation>
+						<email>gkdey@apsara.barc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -4312,23 +4311,23 @@
 				<authors>
 					<author>
 						<name first="A." last="Bharathi">A. Bharathi</name>
-						<affiliation></affiliation>
+						<affiliation>Materials Science Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Y." last="Hariharan">Y. Hariharan</name>
-						<affiliation></affiliation>
+						<affiliation>Materials Science Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Jemima" last="Balaselvi">Jemima Balaselvi</name>
-						<affiliation></affiliation>
+						<affiliation>Materials Science Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="C. S." last="Sundar">C. S. Sundar</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Materials Science Division, Indira Gandhi Centre for Atomic Research, Kalpakkam 603 102, India</affiliation>
+						<email>css@igcar.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -4349,8 +4348,8 @@
 				<authors>
 					<author>
 						<name first="P." last="Chaddah">P. Chaddah</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Cryogenics and Superconductivity Section, Centre for Advanced Technology, Indore 452 013, India</affiliation>
+						<email>chaddah@cat.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -4371,13 +4370,13 @@
 				<authors>
 					<author>
 						<name first="M." last="Pal">M. Pal</name>
-						<affiliation></affiliation>
+						<affiliation>Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="D." last="Chakravorty">D. Chakravorty</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032, India</affiliation>
+						<email>mlsdc@mahendra.iacs.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -4398,17 +4397,17 @@
 				<authors>
 					<author>
 						<name first="Volker" last="Piotter">Volker Piotter</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Forschungszentrum Karlsruhe GmbH, Institut fuer Materialforschung III, P O Box 3640, 76021 Karlsruhe, Germany</affiliation>
+						<email>volker.piotter@imf.fzk.de</email>
 					</author>
 					<author>
 						<name first="Thomas" last="Gietzelt">Thomas Gietzelt</name>
-						<affiliation></affiliation>
+						<affiliation>Forschungszentrum Karlsruhe GmbH, Institut fuer Materialforschung III, P O Box 3640, 76021 Karlsruhe, Germany</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Lothar" last="Merz">Lothar Merz</name>
-						<affiliation></affiliation>
+						<affiliation>Forschungszentrum Karlsruhe GmbH, Institut fuer Materialforschung III, P O Box 3640, 76021 Karlsruhe, Germany</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4430,12 +4429,12 @@
 				<authors>
 					<author>
 						<name first="R." last="Knitter">R. Knitter</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Forschungszentrum Karlsruhe GmbH, Institute for Materials Research III, Postfach 3640, D-76021 Karlsruhe, Germany</affiliation>
+						<email>regina.knitter@imf.fzk.de</email>
 					</author>
 					<author>
 						<name first="W." last="Bauer">W. Bauer</name>
-						<affiliation></affiliation>
+						<affiliation>Forschungszentrum Karlsruhe GmbH, Institute for Materials Research III, Postfach 3640, D-76021 Karlsruhe, Germany</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4457,8 +4456,8 @@
 				<authors>
 					<author>
 						<name first="M. K." last="Surappa">M. K. Surappa</name>
-						<affiliation></affiliation>
-						<email></email>
+						<affiliation>Department of Metallurgy, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<email>mirle@metalrg.iisc.ernet.in</email>
 					</author>
 				</authors>
 				<dates>
@@ -4479,7 +4478,7 @@
 				<authors>
 					<author>
 						<name first="Satish M." last="Manocha">Satish M. Manocha</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Materials Science, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4501,7 +4500,7 @@
 				<authors>
 					<author>
 						<name first="Lalit M." last="Manocha">Lalit M. Manocha</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Materials Science, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
