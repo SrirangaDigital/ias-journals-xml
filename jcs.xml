@@ -1564,7 +1564,7 @@
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Athilakshmi</name>
+						<name first="" last="Athilakshmi">Athilakshmi</name>
 						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India</affiliation>
 						<affiliation>Crescent Engineering College, Vandalur, Chennai 600 048, India</affiliation>
 						<email></email>
@@ -5987,7 +5987,8 @@
 					</author>
 					<author>
 						<name first="A." last="Govindaraj">A. Govindaraj</name>
-						<affiliation></affiliation>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<affiliation>CSIR Centre of Excellence in Chemistry, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur,Bangalore 560 064, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7413,17 +7414,17 @@
 				<authors>
 					<author>
 						<name first="Kannan" last="Raghuraman">Kannan Raghuraman</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Swadhin. K." last="Mandal">Swadhin K. Mandal</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="T. S." last="Venkatakrishnan">T. S. Venkatakrishnan</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
@@ -7433,7 +7434,7 @@
 					</author>
 					<author>
 						<name first="Munirathinam" last="Nethaji">Munirathinam Nethaji</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -12033,8 +12034,7 @@
 					</author>
 					<author>
 						<name first="P. V." last="Khadikar">P. V. Khadikar</name>
-						<affi	<volume vnum="116">
-liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khatipura, Indore 452 007, India</affiliation>
+						<affiliation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khatipura, Indore 452 007, India</affiliation>
 						<email>pvkhadikar@rediffmail.com</email>
 					</author>
 				</authors>
@@ -14887,7 +14887,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Alejandro Toro-Labbé</name>
+						<name first="Alejandro" last="Toro-Labbé">Alejandro Toro-Labbé</name>
 						<affiliation>Laboratorio de Química Teórica Computacional (QTC), Departamento de Química Física, Facultad de Química, Pontificia Universidad Cátolica de Chile, Casilla 306, Correo 22, Santiago, Chile</affiliation>
 						<email>ato1a@pac.cl</email>
 					</author>
@@ -15212,7 +15212,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email>josepm.luis@udg.es</email>
 					</author>
 					<author>
-						<name first="" last="">Miquel Solà</name>
+						<name first="Miquel" last="Solà">Miquel Solà</name>
 						<affiliation>Institut de Química Computacional and Departament de Química, Universitat de Girona, E-17071 Girona, Catalonia, Spain</affiliation>
 						<email>miquel.sola@udg.es</email>
 					</author>
@@ -16793,7 +16793,6 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 					<author>
 						<name first="S. N." last="Holihosur">S. N. Holihosur</name>
 						<affiliation>Department of Zoology, Karnatak University, Dharwad 580 003</affiliation>
-						<affiliation></affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -18161,17 +18160,9 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Subject Index</title>
 				<feature>Special Issue on Modern Trends in Inorganic Chemistry XI</feature>
 				<page>0627-0637</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -18183,17 +18174,9 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Author Index</title>
 				<feature>Special Issue on Modern Trends in Inorganic Chemistry XI</feature>
 				<page>0638-0643</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -19605,13 +19588,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<page>0325-0331</page>
 				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -21876,17 +21853,9 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Contents</title>
 				<feature></feature>
 				<page>0293-0294</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -21898,9 +21867,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Note on plagiarism</title>
 				<feature></feature>
 				<page>0295-0295</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -22218,17 +22185,9 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Contents</title>
 				<feature></feature>
 				<page>0353-0354</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -23574,17 +23533,9 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Subject Index</title>
 				<feature>Special Issue on New Directions of Research in Molecules and Materials</feature>
 				<page>0645-0656</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -23596,17 +23547,9 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Author Index</title>
 				<feature>Special Issue on New Directions of Research in Molecules and Materials</feature>
 				<page>0657-0662</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -23968,7 +23911,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Ai-Min Ding</name>
+						<name first="Ai-Min" last="Ding">Ai-Min Ding</name>
 						<affiliation>Department of Chemistry, Hefei Teachers College, Hefei, Anhui 230061, China</affiliation>
 						<email></email>
 					</author>
@@ -24056,9 +23999,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<title>Contents</title>
 				<feature></feature>
 				<page>0107-0110</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
@@ -25456,11 +25397,6 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 					<author>
 						<name first="Arash" last="Ghorbani-Choghamarani">Arash Ghorbani-Choghamarani</name>
 						<affiliation>Department of Chemistry, Faculty of Sciences, Ilam University, Ilam 69315516, Iran</affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last="">Gholamabbas chehardolia,*, mohammad ali zolfigolb,*, toktam faal-rastegarb, shadpour mallakpourc and arash ghorbani-choghamarani</name>
-						<affiliation></affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -27312,7 +27248,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Charusita chakravarty</name>
+						<name first="Charusita Chakravarty" last="">Charusita Chakravarty</name>
 						<affiliation>Department of Chemistry, Indian Institute of Technology Delhi, New Delhi 110 016</affiliation>
 						<email>charus@chemistry.iitd.ernet.in</email>
 					</author>
@@ -35069,7 +35005,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Ritesh haldara and tapas kumar majia</name>
+						<name first="Tapas Kumar" last="Majia">Tapas Kumar Majia</name>
 						<affiliation>Molecular Materials Laboratory, aNew Chemistry Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560064, India</affiliation>
 						<affiliation>Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur, Bangalore 560064, India</affiliation>
 						<email>tmaji@jncasr.ac.in</email>
@@ -35403,7 +35339,6 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<page>0001-0009</page>
 				<abstract />
 				<keywords></keywords>
-				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -37462,7 +37397,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">A. K. Shukla</name>
+						<name first="A. K." last="Shukla">A. K. Shukla</name>
 						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore, 560 012, India</affiliation>
 						<email>akshukla2006@gmail.com</email>
 					</author>
@@ -38302,32 +38237,32 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<keywords>Hybrid ultracapacitor; substrate-integrated PbO$_2$ electrode; silica-gel electrolyte.</keywords>
 				<authors>
 					<author>
-						<name first="" last="">A Banerjee</name>
-						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<name first="A." last="Banerjee">A. Banerjee</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">M. K. Ravikumar</name>
-						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<name first="M. K." last="Ravikumar">M. K. Ravikumar</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">A. Jalajakshi</name>
-						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<name first="A." last="Jalajakshi">A. Jalajakshi</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">P. Suresh Kumar</name>
-						<affiliation>aSolid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
+						<name first="P. Suresh" last="Kumar">P. Suresh Kumar</name>
+						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">S. A. Gaffoor</name>
+						<name first="S. A." last="Gaffoor">S. A. Gaffoor</name>
 						<affiliation>NED Energy Limited, 6-3-1109/1, Navbharat Chambers, Raj Bhavan Road, Hyderabad 500 082, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">A. K. Shukla</name>
+						<name first="A. K." last="Shukla">A. K. Shukla</name>
 						<affiliation>Solid State and Structural Chemistry Unit, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email>akshukla2006@gmail.com</email>
 					</author>
@@ -41099,7 +41034,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<keywords>Gas phase oxidation; vanadium containing solid core mesoporous silica shell; diphenylmethane.</keywords>
 				<authors>
 					<author>
-						<name first="" last="">N. Venkatathri</name>
+						<name first="N." last="Venkatathri">N. Venkatathri</name>
 						<affiliation>Department of Chemistry, National Institute of Technology, Warangal 506 004, India</affiliation>
 						<email>venkatathrin@yahoo.com</email>
 					</author>
@@ -43270,7 +43205,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<keywords>Phosphorus ylide; coordination mode; ambidentate ligand; mononuclear silver(I) complexes.</keywords>
 				<authors>
 					<author>
-						<name first="" last="">Seyed Javad Sabounchei</name>
+						<name first="Seyed Javad" last="Sabounchei">Seyed Javad Sabounchei</name>
 						<affiliation>Faculty of Chemistry, University of Bu–Ali Sina, Hamedan, 65174, Iran</affiliation>
 						<email>jsabounchei@yahoo.co.uk</email>
 					</author>
@@ -43344,7 +43279,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email>israelb@unam.mx</email>
 					</author>
 					<author>
-						<name first="" last="">A. Morales-Hernández</name>
+						<name first="A." last="Morales-Hernández">A. Morales-Hernández</name>
 						<affiliation>Departamento de Materiales Metálicos y Cerámicos, Instituto de Investigaciones en Materiales, Universidad Nacional Autónoma de México, México D.F. 04510, México</affiliation>
 						<email></email>
 					</author>
@@ -52097,17 +52032,17 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 				<keywords>Amino-pyrene; pi-conjugated systems; supramolecular self-assembly; molecular electronics; fluorescent probes and chemosensors.</keywords>
 				<authors>
 					<author>
-						<name first="" last="">Deepak asthana, geeta hundal and pritam mukhopadhyay</name>
+						<name first="Deepak" last="Asthana">Deepak Asthana</name>
 						<affiliation>Supramolecular &amp; Material Chemistry Lab, School of Physical Sciences, Jawaharlal Nehru University, New Delhi 110067, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Deepak asthana, geeta hundal and pritam mukhopadhyay</name>
+						<name first="Geeta" last="Hundal">Geeta Hundal</name>
 						<affiliation>Supramolecular &amp; Material Chemistry Lab, School of Physical Sciences, Jawaharlal Nehru University, New Delhi 110067, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Deepak asthana, geeta hundal and pritam mukhopadhyay</name>
+						<name first="Pritam" last="Mukhopadhyay">Pritam Mukhopadhyay</name>
 						<affiliation>Supramolecular &amp; Material Chemistry Lab, School of Physical Sciences, Jawaharlal Nehru University, New Delhi 110067, India</affiliation>
 						<email>m_pritam@jnu.ac.in</email>
 					</author>
@@ -54903,7 +54838,7 @@ liation>Research Division, Laxmi Fumigation and Pest Control Pvt. Ltd., 3, Khati
 						<email></email>
 					</author>
 					<author>
-						<name first="" last="">Bikash mandalb, i basumallickb and susanta ghosha</name>
+						<name first="Susanta" last="Ghosha">Susanta Ghosha</name>
 						<affiliation>Electrochemistry Laboratory, Integrated Science Education and Research Centre, Visva-Bharati University, Santiniketan 731235, India</affiliation>
 						<email>susanta.ghosh@visva-bharati.ac.in</email>
 					</author>
