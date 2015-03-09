@@ -5508,7 +5508,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Nonadiabatic corrections to a quantum dot quantum computer working in adiabatic limit</title>
-				<feature></feature>
+				<feature>Brief Report</feature>
 				<page>0161-0164</page>
 				<abstract>
 					<p>The time of operation of an adiabatic quantum computer must be less than the decoherence time, otherwise the computer would be nonoperative. So far, the nonadiabatic corrections to an adiabatic quantum computer are merely theoretical considerations. By the above reason, we consider the particular case of a quantum-dot-confined electron spin qubit working adiabatically in the nanoscale regime (e.g., in the MeV range of energies) and include nonadiabatic corrections in it. If the decoherence times of a quantum dot computer are $\tilde$100 ns [J M Kikkawa and D D Awschalom, $\textit{Phys. Rev. Lett}$. ${\bf 80}$, 4313 (1998)] then the predicted number of one qubit gate (primitive) operations of the Loss–DiVincenzo quantum computer in such an interval of time must be $&gt; 10^{10}$. However, if the quantum-dot-confined electron spin qubit is very excited (i.e., the semiclassical limit) the number of operations of such a computer would be approximately the same as that of a classical computer. Our results suggest that for an adiabatic quantum computer to operate successfully within the decoherence times, it is necessary to take into account nonadiabatic corrections.</p>
@@ -5533,7 +5533,7 @@
 			<entry hassup="0">
 				<title>Preface</title>
 				<feature></feature>
-				<page>0164-0164</page>
+				<page>0165-0165</page>
 				<abstract />
 				<keywords></keywords>
 				<authors>
@@ -6318,7 +6318,7 @@
 		<issue inum="04" month="10" year="2014">
 			<entry hassup="0">
 				<title>Solitary wave solutions to nonlinear evolution equations in mathematical physics</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0457-0471</page>
 				<abstract>
 					<p>This paper obtains solitons as well as other solutions to a few nonlinear evolution equations that appear in various areas of mathematical physics. The two analytical integrators that are applied to extract solutions are tan–cot method and functional variable approaches. The soliton solutions can be used in the further study of shallow water waves in (1+1) as well as (2+1) dimensions.</p>
@@ -6351,7 +6351,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Inclined periodic homoclinic breather and rogue waves for the (1+1)-dimensional Boussinesq equation</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0473-0480</page>
 				<abstract>
 					<p>A new method, homoclinic (heteroclinic) breather limit method (HBLM), for seeking rogue wave solution to nonlinear evolution equation (NEE) is proposed. (1+1)-dimensional Boussinesq equation is used as an example to illustrate the effectiveness of the suggested method. Rational homoclinic wave solution, a new family of two-wave solution, is obtained by inclined periodic homoclinic breather wave solution and is just a rogue wave solution. This result shows that rogue wave originates by the extreme behaviour of homoclinic breather wave in (1+1)-dimensional nonlinear wave fields.</p>
@@ -6383,7 +6383,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Biased trapping issue on weighted hierarchical networks</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0481-0491</page>
 				<abstract>
 					<p>In this paper, we present trapping issues of weight-dependent walks on weighted hierarchical networks which are based on the classic scale-free hierarchical networks. Assuming that edge’s weight is used as local information by a random walker, we introduce a biased walk. The biased walk is that a walker, at each step, chooses one of its neighbours with a probability proportional to the weight of the edge. We focus on a particular case with the immobile trap positioned at the hub node which has the largest degree in the weighted hierarchical networks. Using a method based on generating functions, we determine explicitly the mean first-passage time (MFPT) for the trapping issue. Let parameter $a (0 &lt; a &lt; 1)$ be the weight factor. We show that the efficiency of the trapping process depends on the parameter a; the smaller the value of a, the more efficient is the trapping process.</p>
@@ -6415,7 +6415,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Enriched vibrational resonance in certain discrete systems</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0493-0504</page>
 				<abstract>
 					<p>We wish to report the occurrence of vibrational resonance in certain discrete systems like sine square map and sine circle map, in a unique fashion, comprising of multiple resonant peaks which pave the way for enrichment. As the systems of our choice are capable of exhibiting vibrational resonance behaviour unlike the earlier reports, they are taken for investigation and the necessary numerical and analytical results are presented. Further, we study the effect of external forcing on various attractors of these systems with appropriate bifurcation and Lyapunov exponent diagrams.</p>
@@ -6447,7 +6447,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Dynamics of coupled field solitons: A collective coordinate approach</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0505-0517</page>
 				<abstract>
 					<p>In this paper we consider a class of systems of two coupled real scalar fields in bidimensional space-time, with the main motivation of studying classical stability of soliton solutions using collective coordinate approach. First, we present the class of systems of the collective coordinate equations which are derived using the presented method. After that, we follow the dynamics of the coupled fields with local inhomogeneity like a delta function potential wall as well as a delta function potential well. The results of the investigation of the two coupled fields are compared to each other and the differences are discussed. The method can predict most of the characters of the interaction.</p>
@@ -6479,7 +6479,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Emergence of new magic numbers, $N = 16$ and 32 by tensor interaction in Skyrme–Hartree–Fock theory</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0519-0532</page>
 				<abstract>
 					<p>Melting of $N = 20$ shell and development of $N = 16$ and 32 shells for neutronrich nuclei have been studied extensively by including tensor interaction in Skyrme–Hartree–Fock theory optimized to reproduce the splitting $\Delta 1 f$ shells of ${}^{40,48}$Ca and ${}^{56}$Ni nuclei. Evolution of gap generated by the energy difference of single-particle levels $v2s_{1/2}$ and $v1d_{3/2}$ has been found to be responsible for shell closure at $N = 16$. The splitting pattern of spin–orbit partners $2p$ shell model state in Ca, Ti, Cr, Fe and Ni isotopes indicates the formation of a new shell at $N = 32$ region.</p> 
@@ -6501,7 +6501,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Capture cross-section and rate of the ${}^{14}$C($n, \gamma$)${}^{15}$C reaction from the Coulomb dissociation of ${}^{15}$C</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0533-0543</page>
 				<abstract>
 					<p>We calculate the Coulomb dissociation of ${}^{15}$C on a Pb target at 68 MeV/u incident beam energy within the fully quantum mechanical distorted wave Born approximation formalism of breakup reactions. The capture cross-section and the subsequent rate of the ${}^{14}$C($n, \gamma$)${}^{15}$C reaction are calculated from the photodisintegration of ${}^{15}$C, using the principle of detailed balance. Our theoretical model is free from the uncertainties associated with the multipole strength distributions of the projectile.</p>
@@ -6533,7 +6533,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Calculation of excitation functions of the ${}^{54,56,57,58}$Fe($p, n$) reaction from threshold to 30 MeV</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0545-0555</page>
 				<abstract>
 					<p>The cross-sections for the formation of ${}^{54,56,57,58}$Co in the ${}^{54,56,57,58}$Fe($p, n$) reaction from threshold to 30 MeV protons have been theoretically calculated using the TALYS-1.4 nuclear model code, whereby we have studied major nuclear reaction mechanisms, including direct, preequilibrium and compound nuclear reaction. Subsequently, the level density and shell damping parameters have been adjusted and at the same time, the odd–even effects are well comprehended. The excitation functions have been compared with experimental nuclear data. It is observed that the theoretical cross-sections match fairly well. Proton-induced reaction cross-sections provide clues to understand the nuclear structure and offers a good testing ground for ideas about nuclear forces. In addition, complete information in this field is very much required for application in accelerator-driven subcritical system.</p>
@@ -6565,7 +6565,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Immiscible multicomponent lattice Boltzmann model for fluids with high relaxation time ratio</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0557-0570</page>
 				<abstract>
 					<p>An immiscible multicomponent lattice Boltzmann model is developed for fluids with high relaxation time ratios, which is based on the model proposed by Shan and Chen (SC). In the SC model, an interaction potential between particles is incorporated into the discrete lattice Boltzmann equation through the equilibrium velocity. Compared to the SC model, external forces in our model are discretized directly into the discrete lattice Boltzmann equation, as proposed by Guo $\textit{et al}$. We develop it into a new multicomponent lattice Boltzmann (LB) model which has the ability to simulate immiscible multicomponent fluids with relaxation time ratio as large as 29.0 and to reduce `spurious velocity’. In this work, the improved model is validated and studied using the central bubble case and the rising bubble case. It finds good applications in both static and dynamic cases for multicomponent simulations with different relaxation time ratios.</p>
@@ -6602,7 +6602,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Molecular and impedance spectroscopy of Na$_2$Mo$_2$O$_7$ ceramics</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0571-0577</page>
 				<abstract>
 					<p>The fine (i.e. 38 nm) powder of polycrystalline Na$_2$Mo$_2$O$_7$ was prepared by the hightemperature solid-state reaction technique. The formation of the compound in orthorhombic system is confirmed by preliminary structural analysis using X-ray diffraction (XRD) data. Spectroscopic studies of the compound have been carried out by vibration spectroscopy (Raman/FTIR) to understand its molecular structure at microscopic level. The complex impedance spectroscopy (CIS) technique has been used to study the electrical properties of the material as a function of frequency (10$^2$–10$^6$ Hz) at different temperatures (23–450$^\circ$C), and also to investigate the fundamental mechanism involved in the material. Impedance analysis also indicates that below 300$^\circ$C, the electrical conduction in the material is due to grain interior only. At and above 325$^\circ$C, the contribution of grain boundary is clearly evident. The electrical processes in the material are found to be temperature-dependent and are due to the relaxation phenomena in it. A frequency-dependent maximum of the imaginary electrical impedance is found to obey the Vogel–Fulcher law.</p> 
@@ -6634,7 +6634,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Dielectric relaxation of ethanol and $N$-methyl acetamide polar mixture in C$_6$H$_6$ at 9.90 GHz</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0579-0595</page>
 				<abstract>
 					<p>Debye relaxation times $(\tau_{jk})$ and dipole moments $(\mu_{jk})$ of binary ($jk$) polar mixtures of ethanol (EtOH) and $N$-methyl acetamide (NMA) dissolved in benzene(i) are studied by studying conductivity of solution at 9.90 GHz for different temperatures, different mole fractions ($x_j$) of ethanol and different weight fractions $(w_{jk})$ of the mixtures, respectively. The variation of $\tau_{jk}−x_j$ from linear slope of imaginary ($\sigma''_{ijk}$) against real ($\sigma'_{ijk}$) part of total conductivity ($\sigma^{\ast}_{ijk}$) curve reveals solute–solute (dimer) or solute–solvent (monomer) molecular associations up to $x_j$ = 0.0−0.3 and thereafter, solute–solvent molecular associations. $\tau_{jk}$s from the ratio of slopes of $\sigma''_{ijk}$−w_{jk}$ and $\sigma'_{ijk}$−w_{jk}$ curves exhibit solute–solvent molecular association for all $x_j$s which are consistent with the $\mu_{jk}−x_j$ curves at all temperatures except at 35$^\circ$C. This signifies the validity of both the proposed methods in estimating $\tau$ and $\mu$. The molecular dynamics of the polar mixture are ascertained from Eyring rate theory. Theoretical dipole moments from bond angles and bond moments ($\mu_{\text{theo}}$) are also calculated to predict associational aspects.</p> 
@@ -6666,7 +6666,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Coherent nonlinear electromagnetic response in twisted bilayer and few-layer graphene</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0597-0617</page>
 				<abstract>
 					<p>The phenomenon of Rabi oscillations far from resonance is described in bilayer and few-layer graphene. These oscillations in the population and polarization at the Dirac point in $n$-layer graphene are seen in the nth harmonic termin the external driving frequency. The underlying reason behind these oscillations is attributable to the pseudospin degree of freedom possessed by all these systems. Conventional Rabi oscillations, which occur only near resonance, are seen in multiple harmonics in multilayer graphene. However, the experimentally measurable current density exhibits anomalous behaviour only in the first harmonic in all the graphene systems. A fully numerical solution of the optical Bloch equations is in complete agreement with the analytical results, thereby justifying the approximation schemes used in the latter. The same phenomena are also described in twisted bilayer graphene with and without an electric potential difference between the layers. It is found that the anomalous Rabi frequency is strongly dependent on twist angle for weak applied fields – a feature absent in single-layer graphene, whereas the conventional Rabi frequency is relatively independent of the twist angle.</p>
@@ -6703,7 +6703,7 @@
 			</entry>
 			<entry hassup="0">
 				<title>Quark matter coupled to domain walls in Bianchi types II, VIII and IX Universes</title>
-				<feature></feature>
+				<feature>Research Articles</feature>
 				<page>0619-0630</page>
 				<abstract>
 					<p>In this study of Bianchi types II, VIII and IX Universes, quark matter coupled to domain walls in the context of general relativity are explored. To obtain deterministic solution of the Einstein’s field equations, various techniques are adopted. The features of the obtained solution are discussed.</p>
@@ -6986,39 +6986,39 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Density content of nuclear symmetry energy from nuclear observables</title>
 				<feature></feature>
-				<page>0695-0704</page>%%%%%% prathibha
+				<page>0695-0704</page>
 				<abstract>
-					<p></p>
+					<p>The nuclear symmetry energy at a given density measures the energy transferred in converting symmetric nuclear matter into the pure neutron matter. The density content of nuclear symmetry energy remains poorly constrained. Our recent results for the density content of the nuclear symmetry energy, around the saturation density, extracted using experimental data for accurately known nuclear masses, giant resonances and neutron-skin thickness in heavy nuclei are summarized.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Symmetry energy parameters; nuclear matter; neutron skin.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="B. K." last="Agrawal">B. K. Agrawal</name>
+						<affiliation>Saha Institute of Nuclear Physics, 1/AF Bidhan Nagar, Kolkata 700 064, India</affiliation>
+						<email>bijay.agrawal@saha.ac.in</email>
 					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-10-11</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Net-proton measurements at RHIC and the quantum chromodynamics phase diagram</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0705-0712</page>
 				<abstract>
-					<p></p>
+					<p>Two measurements related to the proton and antiproton production near midrapidity in $\sqrt{s_{NN}}$ = 7.7, 11.5, 19.6, 27, 39, 62.4 and 200 GeV Au+Au collisions using the STAR detector at the Relativistic Heavy Ion Collider (RHIC) are discussed. At intermediate impact parameters, the net-proton midrapidity d$v_1$/d$y$, where $v_1$ and $y$ are directed flow and rapidity, respectively, shows non-monotonic variation as a function of beam energy. This non-monotonic variation is characterized by the presence of a minimum in d$v_1$/d$y$ between $\sqrt{s_{NN}}$ = 11.5 and 19.6 GeV and a change in the sign of d$v_1$/d$y$ twice between $\sqrt{s_{NN}}$ = 7.7 and 39 GeV. At small impact parameters the product of the moments of net-proton distribution, kurtosis $\times$ variance ($\kappa \sigma^2$) and skewness $\times$ standard deviation ($S\sigma$) are observed to be significantly below the corresponding measurements at large impact parameter collisions for $\sqrt{s_{NN}}$ = 19.6 and 27 GeV. The $\kappa \sigma^2$ and $S\sigma$ values at these beam energies deviate from the expectations from Poisson statistics and that from a hadron resonance gas model. Both these measurements have implications towards understanding the quantum chromodynamics (QCD) phase structures, the first-order phase transition and the critical point in the high baryonic chemical potential region of the phase diagram.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Quantum chromodynamics phase diagram; critical point; first-order phase transition; heavy-ion collisions; quark gluon plasma; net-proton.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Bedangadas" last="Mohanty">Bedangadas Mohanty</name>
+						<affiliation>School of Physical Sciences, National Institute of Science Education and Research, Bhubaneswar 751 005, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7026,21 +7026,26 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-10-17</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Physics studies with brilliant narrow-width $\gamma$-beams at the new ELI-NP Facility</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0713-0718</page>
 				<abstract>
-					<p></p>
+					<p>The Extreme Light Infrastructure Nuclear Physics (ELI-NP) Facility in Magurele is a European research centre for ultrahigh intensity lasers, laser–matter interaction, nuclear science and material science using laser-driven radiation beams. It is the first project within the European Strategic Forum for Research Infrastructure (ESFRI) agenda financed by the European Regional Development Fund. The nuclear physics research programme of the facility is focussed on studies with brilliant narrow-width $\gamma$-beams and experiments in extreme laser fields.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Brilliant narrow-width $\gamma$-beam; $\gamma$-ray-induced nuclear reactions; photofission; nuclear resonance fluorescence.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Dimiter L." last="Balabanski">Dimiter L. Balabanski</name>
+						<affiliation>ELI-NP, IFIN-HH, 30 Reactorului Str., 077125 Bucharest-Magurele, Romania</affiliation>
+						<email>dimiter.balabanski@eli-np.ro</email>
+					</author>
+					<author>
+						<name first="ELI-NP Science" last="Team">ELI-NP Science Team</name>
+						<affiliation>ELI-NP, IFIN-HH, 30 Reactorului Str., 077125 Bucharest-Magurele, Romania</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7048,43 +7053,48 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-04</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Recent results from digital INGA at BARC–TIFR Pelletron Linac Facility and future plans</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0719-0728</page>
 				<abstract>
-					<p></p>
+					<p>An experimental campaign aimed at studying various high spin phenomena using the Indian National Gamma Array (INGA) at the BARC–TIFR Pelletron Linac Facility has been successfully completed. The array consisting of a large number of Compton-suppressed clover detectors was coupled to a digital data acquisition system with 96 channels. The present system provides higher throughput, better energy resolution and better stability of gain for the multidetector Compton-suppressed clover array compared to its previous conventional system with analog shaping. Selected results from this array are discussed which highlight the exotic shapes, novel excitation modes and interesting isomers of the nuclei. The preliminary results from the experimental efforts to improve the sensitivity and capability of the array by adding ancillary detectors are also described briefly.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Triaxial nuclear shapes; nuclear isomer; Indian National Gamma Array.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="R." last="Palit">R. Palit</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai 400 005, India</affiliation>
+						<email>palit@tifr.res.in</email>
 					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-01</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Nuclear triaxiality in the $A \tilde$ 160–170 mass region: the story so far</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0729-0737</page>
 				<abstract>
-					<p></p>
+					<p>Research in nuclear triaxial deformation has revealed many exciting facts and figures over the last one and a half-decades. Although wobbling motion of nuclei was experimentally discovered at the beginning of the last decade, after almost 25 years of its prediction by Bohr and Mottelson, efforts are still being put to understand this rare nuclear phenomenon in greater detail. The concept of transverse wobbling is one such recent attempt which successfully explains the evolution of experimentally observed wobbling frequency with spin. The population of triaxial strongly deformed (TSD) bands in the $A \tilde$160–170 region is favoured for which neutron number ($N = 92$ or 94) is a topic of current debate. Experimental efforts are being put following Bengtsson’s calculations which indicate that the elevated yrast lines for $N = 92$ isotones favour TSD population. In $A\tilde$170 mass region, the ambiguity over the real character of certain strongly deformed bands has recently been removed by extensive experimental and theoretical efforts, and the bands have now been firmly established as either enhanced deformed (ED) or superdeformed (SD).</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Triaxiality; wobbling excitation; ULTIMATE CRANKER; transverse/longitudinal wobbling; enhanced deformed; superdeformed.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Mukhopadhyay">S. Mukhopadhyay</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email>somm@barc.gov.in</email>
+					</author>
+					<author>
+						<name first="W. C." last="Ma">W. C. Ma</name>
+						<affiliation>Department of Physics, Mississippi State University, Mississippi State, Mississippi 39762, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7092,43 +7102,48 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-01</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Electron scattering for exotic nuclei</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0739-0747</page>
 				<abstract>
-					<p></p>
+					<p>A brand-new electron scattering facility, the SCRIT Electron Scattering Facility, will soon start its operation at RIKEN RI Beam Factory, Japan. This is the world’s first electron scattering facility dedicated to the structure studies of short-lived nuclei. The goal of this facility is to determine the charge density distributions of short-lived exotic nuclei by elastic electron scattering. The first collision between electrons and exotic nuclei will be observed in the year 2014.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>SCRIT; electron scattering; exotic nucleus; charge density distribution.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Toshimi" last="Suda">Toshimi Suda</name>
+						<affiliation>Research Center for Electron-Photon Science, Tohoku University, 1-2-1 Mikamine, Sendai, 982-0826, Japan</affiliation>
+						<email>suda@lns.tohoku.ac.jp</email>
 					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-04</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Role of near threshold resonances in intermediate energy nuclear physics</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0749-0759</page>
 				<abstract>
-					<p></p>
+					<p>The presence of a resonance close to the threshold strongly effects the dynamics of the interacting particles at low energies. Production of ${}^{12}$C, the element for life, in ${}^4$He burning in Sun is a classic example of such a situation. In intermediate energy nuclear physics, this situation arises in the interactions of an $\eta$-meson with a nucleon and that of a $K^−$-meson with a proton at low energies, where both these systems have a resonance or a bound state near their thresholds, resulting in a strong attractive interaction. If putting these mesons in nuclear environment produces a strong attraction, it is possible that, in nature there may exist $\eta$- and $K^−$-nuclear bound states. Such a tantalizing possibility has led to experimental and theoretical programmes to search for them. These efforts have produced positive results. This paper gives a brief critical overview of these studies, emphasizing especially the efforts led by Bhabha Atomic Research Centre (BARC).</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>$\eta$-mesic nuclei; kaon bound states; binding energies.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="B. K." last="Jain">B. K. Jain</name>
+						<affiliation>UM-DAE Centre for Excellence in Basic Sciences, Mumbai University, Mumbai 400 098, India</affiliation>
+						<email>brajeshk@gmail.com</email>
+					</author>
+					<author>
+						<name first="N. J." last="Upadhyay">N. J. Upadhyay</name>
+						<affiliation>Department of Physics and Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7136,21 +7151,31 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-04</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Opportunities and problems in determining proton and light nuclear radii</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0761-0771</page>
 				<abstract>
-					<p></p>
+					<p>We briefly review the so-called `proton puzzle’, i.e., the disagreement of the newly extracted value of the proton charge radius $r_p$ from muonic hydrogen spectroscopy with other extractions, its possible significance and related problems. After describing the conventional theory to extract the proton radius from atomic spectroscopy we focus on a novel consistent approach based on the Breit equation. With this new tool, we confirm that the radius has indeed become smaller compared to the value extracted from scattering experiments, but the existence of different theoretical approaches casts some doubt on the accuracy of the new value. Precision measurements in atomic physics do provide the opportunity to extract light nuclear radii but the accuracy is limited by the methods of incorporating the nuclear structure effects.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Proton charge radius; electromagnetic form factors; Breit equation.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="N. G." last="Kelkar">N G Kelkar</name>
+						<affiliation>Department de Fisica, Cra 1E, 18A-10, Universidad de los Andes, Bogotá, Colombia</affiliation>
+						<email>nkelkar@uniandes.edu.co</email>
+					</author>
+					<author>
+						<name first="M." last="Nowakowski">M. Nowakowski</name>
+						<affiliation>Department de Fisica, Cra 1E, 18A-10, Universidad de los Andes, Bogotá, Colombia</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="D. Bedoya" last="Fierro">D. Bedoya Fierro</name>
+						<affiliation>Department de Fisica, Cra 1E, 18A-10, Universidad de los Andes, Bogotá, Colombia</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7158,87 +7183,192 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-10-30</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Heavy flavour hadron spectroscopy: An overview</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0773-0782</page>
 				<abstract>
-					<p></p>
+					<p>A comprehensive overview and some of the theoretical attempts towards understanding heavy flavour hadron spectroscopy are presented. Apart from the conventional quark structure (quark, antiquarks structure for the mesons and three-quarks structure of baryons) of hadrons, multiquark hadrons the hadron molecular states etc., also will be reviewed. Various issues and challenges in understanding the physics and dynamics of the quarks at the hadronic dimensions are highlighted. Looking into the present and future experimental prospects at different heavy flavour laboratories like BES-III, CLEO-c, BaBar, Belle, LHC etc., the scope for theoretical extensions of the present knowledge of heavy flavour physics would be very demanding. In this context, many relevant contributions from the forthcoming PANDA Facility are expected. Scopes and outlook of the hadron physics at the heavy flavour sector in view of the future experimental facilities are highlighted.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Heavy flavour; spectroscopy; potential models; exotics.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="P. C." last="Vinodkumar">P. C. Vinodkumar</name>
+						<affiliation>Department of Physics, Sardar Patel University, Vallabh Vidyanagar 388 120, India</affiliation>
+						<email>p.c.vinodkumar@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-10-31</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Spin polarizability of hyperons</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0783-0798</page>
 				<abstract>
-					<p></p>
+					<p>We review the recent progress of the theoretical understanding of spin polarizabilities of the hyperon in the framework of $SU$(3) heavy baryon chiral perturbation theory (HBChPT). We present the results of a systematic leading-order calculation of hyperon Compton scattering and extract the forward spin polarizability ($\gamma$0) of hyperons. The results obtained for $\gamma_0$ in the case of nucleons agree with the known results of $SU$(2) HBChPT when kaon loops are not considered.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Compton scattering; polarizabilities; heavy baryon chiral perturbation theory.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="K. B. Vijaya" last="Kumar">K. B. Vijaya Kumar</name>
+						<affiliation>Department of Physics, Mangalore University, Mangalagangothri 574 199, India</affiliation>
+						<email>kbvijayakumar@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-04</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Determination of neutron-induced fission cross-sections of unstable nuclei via surrogate reaction method</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0799-0806</page>
 				<abstract>
-					<p></p>
+					<p>Heavy ion reaction studies around Coulomb barrier energies have been generally used to investigate the effect of the structure of projectile/target on reaction dynamics. Other than providing an understanding of basic physics of the reaction dynamics, some of these reactions have been used as tools to serve as surrogates of neutron-induced compound nuclear fission cross-sections involving unstable targets. In this paper, we report some of the recent results on the determination of neutron-induced fission cross-sections of unstable actinides present in Th–U and U–Pu fuel cycles by surrogate reaction method by employing transfer-induced fission studies with ${}^{6,7}$Li beams.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Neutron-induced fission; surrogate reaction.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="B. K." last="Nayak">B. K. Nayak</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email>bknayak@barc.gov.in</email>
 					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-04</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Neutron detector array at IUAC: Design features and instrumentation developments</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0807-0815</page>
 				<abstract>
-					<p></p>
+					<p>The characteristics and performance of the newly commissioned neutron detector array at IUAC are described. The array consists of 100 BC501 liquid scintillators mounted in a semispherical geometry and are kept at a distance of 175 cm from the reaction point. Each detector is a $5''\times 5''$ cylindrical cell coupled to $5''$ diameter photomultiplier tube (PMT). Signal processing is realized using custom-designed home-made integrated electronic modules which perform neutron–gamma discrimination using zero cross timing and time-of-flight (TOF) technique. Compact custom-built high voltage power supply developed using DC–DC converters are used to bias the detector. The neutrons are recorded in coincidence with fission fragments which are detected using multi-wire proportional counters mounted inside a 1m diameter SS target chamber. The detectors and electronics have been tested off-line using radioactive sources and the results are presented.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Fusion–fission reactions; instrumentation; scintillation detectors.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="P." last="Sugathan">P. Sugathan</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email>sugathan@iuac.res.in</email>
+					</author>
+					<author>
+						<name first="A." last="Jhingan">A. Jhingan</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K. S." last="Golda">K. S. Golda</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="T." last="Varughese">T. Varughese</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S." last="Venkataramanan">S. Venkataramanan</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="N." last="Saneesh">N. Saneesh</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="V. V." last="Satyanarayana">V. V. Satyanarayana</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Suman">S. K. Suman</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Antony">J. Antony</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Ruby" last="Shanti">Ruby Shanti</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="K." last="Singh">K. Singh</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Saini">S. K. Saini</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Gupta">A. Gupta</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="A." last="Kothari">A. Kothari</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="P." last="Barua">P. Barua</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajesh" last="Kumar">Rajesh Kumar</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="J." last="Zacharias">J. Zacharias</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. P." last="Singh">R. P. Singh</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="B. R." last="Behera">B. R. Behera</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. K." last="Mandal">S. K. Mandal</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="I. M." last="Govil">I. M. Govil</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="R. K." last="Bhowmik">R. K. Bhowmik</name>
+						<affiliation>Inter University Accelerator Centre, Aruna Asaf Ali Marg, New Delhi 110 067, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7246,21 +7376,26 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-02</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>A novel approach for modelling the cluster detector and the SPI spectrometer</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0817-0827</page>
 				<abstract>
-					<p></p>
+					<p>A probabilistic approach has been presented in six recent papers (R Kshetri, $\textit{J. Instrum.}$ 2012 7 P04008; $\textit{ibid}$., P07006; $\textit{ibid.}$, P07008; $\textit{ibid.}$, P08015; $\textit{ibid.}$, P12007; $\textit{Appl. Radiat. Isotopes}$ 2013 75 30) for modelling a general composite detector. In this paper, a simplistic view has been presented on the application of our formalism to composite detectors consisting of hexagonal closely packed encapsulated HPGe detector modules.We have presented modified calculations for the peak-to-total (PT) and peak-to-background (PB) ratios of the cluster and spectrometer for integral satellite (SPI) for the first time considering up to four-fold events. Instead of using an empirical method or simulation, we present a novel approach for calculating the peak-to-total ratio of the SPI spectrometer for high $\gamma$ energies. Our work can provide guidance for designing new composite detectors and for performing experimental studies with the SPI spectrometer for high-energy $\gamma$-rays.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>SPI spectrometer; cluster detector; $\gamma$-rays; peak-to-total ratio; peak-to-background ratio; phenomenological modelling.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Ritesh" last="Kshetri">Ritesh Kshetri</name>
+						<affiliation>Department of Physics, Sidho-Kanho-Birsha University, Ranchi Road, P.O. Sainik School, Purulia 723 104, India</affiliation>
+						<email>ritesh.kshetri@gmail.com</email>
+					</author>
+					<author>
+						<name first="Pintu" last="Bhattachary">Pintu Bhattachary</name>
+						<affiliation>Department of Physics, Sidho-Kanho-Birsha University, Ranchi Road, P.O. Sainik School, Purulia 723 104, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7268,20 +7403,49 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-10-30</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Neutrino and dark matter physics with sub-keV germanium detectors</title>
 				<feature></feature>
-				<page>0000-0000</page>
+				<page>0829-0838</page>
 				<abstract>
-					<p></p>
+					<p>Germanium detectors with sub-keV sensitivities open a window to study neutrino physics to search for light weakly interacting massive particle (WIMP) dark matter. We summarize the recent results on spin-independent couplings of light WIMPs from the TEXONO experiment at the Kuo-Sheng Reactor Neutrino Laboratory. Highlights of the physics motivation, our R&amp;D programme, as well as the status and plans are presented.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Neutrino interactions; dark matter; radiation detector.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
+						<name first="Arun Kumar" last="Soma">Arun Kumar Soma</name>
+						<affiliation>Institute of Physics, Academia Sinica, Taipei 11529, Taiwan</affiliation>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Lakhwinder" last="Singh">Lakhwinder Singh</name>
+						<affiliation>Institute of Physics, Academia Sinica, Taipei 11529, Taiwan</affiliation>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Manoj Kumar" last="Singh">Manoj Kumar Singh</name>
+						<affiliation>Institute of Physics, Academia Sinica, Taipei 11529, Taiwan</affiliation>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Venktesh" last="Singh">Venktesh Singh</name>
+						<affiliation>Institute of Physics, Academia Sinica, Taipei 11529, Taiwan</affiliation>
+						<affiliation>Department of Physics, Banaras Hindu University, Varanasi 221 005, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Henry T." last="Wong">Henry T. Wong</name>
+						<affiliation>Institute of Physics, Academia Sinica, Taipei 11529, Taiwan</affiliation>
+						<email>htwong@phys.sinica.edu.tw</email>
+					</author>
+					<author>
+						<name first="on behalf of the TEXONO" last="Collaboration">on behalf of the TEXONO Collaboration</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -7290,643 +7454,445 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-04</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>List of Participants</title>
 				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
+				<page>0839-0850</page>
+				<abstract />
 				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
-				<abstract>
-					<p></p>
-				</abstract>
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
+				<authors />
+				<dates />
 			</entry>
 		</issue>
-		<issue inum="" month="" year="">
+		<issue inum="06" month="12" year="2014">
 			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
+				<title>Charged particle-induced nuclear fission reactions – Progress and prospects</title>
+				<feature>Invited Review</feature>
+				<page>0851-0884</page>
 				<abstract>
-					<p></p>
+					<p>The nuclear fission phenomenon continues to be an enigma, even after nearly 75 years of its discovery. Considerable progress has been made towards understanding the fission process. Both light projectiles and heavy ions have been employed to investigate nuclear fission. An extensive database of the properties of fissionable nuclei has been generated. The theoretical developments to describe the fission phenomenon have kept pace with the progress in the corresponding experimental measurements. As the fission process initiated by the neutrons has been well documented, the present article will be restricted to charged particle-induced fission reactions. The progress made in recent years and the prospects in the area of nuclear fission research will be the focus of this review.</p>
 				</abstract>
-				<keywords></keywords>
+				<keywords>Nuclear fission; charged particle-induced fission; heavy ions; fission angular distributions; mass distributions; fission barrier; moment of inertia; shell effect in fission.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Kailas">S. Kailas</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<affiliation>University of Mumbai-Department of Atomic Energy Centre for Excellence in Basic Sciences, Mumbai 400 098, India</affiliation>
+						<email>kailas@barc.gov.in</email>
+					</author>
+					<author>
+						<name first="K." last="Mahata">K. Mahata</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
+					<date type="M">2014-04-17</date>
+					<date type="R">2014-06-13</date>
+					<date type="A">2014-07-15</date>
+					<date type="E">2014-11-15</date>
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
+				<title>Analytical solutions of time–space fractional, advection–dispersion andWhitham–Broer–Kaup equations</title>
+				<feature>Research Articles</feature>
+				<page>0885-0906</page>
 				<abstract>
-					<p></p>
+					<p>In this article, we study time–space fractional advection–dispersion (FADE) equation and time–space fractional Whitham–Broer–Kaup (FWBK) equation that have significant roles in hydrology. We introduce suitable transformations to convert fractional-order derivatives to integerorder derivatives and as a result these equations transform into partial differential equations (PDEs). Then the Lie symmetries and the corresponding optimal systems of the resulting PDEs are derived. The symmetry reductions and exact independent solutions based on optimal system are investigated which constitute the exact solutions of original fractional differential equations.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Modified Riemann–Liouville fractional derivative; Lie symmetries, optimal system; invariant solutions.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="M. D." last="Khan">M. D. Khan</name>
+						<affiliation>Department of Mathematics, School of Science and Engineering, Lahore University of Management Sciences, Lahore Cantt 54792, Pakistan</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="I." last="Naeem">I. Naeem</name>
+						<affiliation>Department of Mathematics, School of Science and Engineering, Lahore University of Management Sciences, Lahore Cantt 54792, Pakistan</affiliation>
+						<email>imran.naeem@lums.edu.pk</email>
+					</author>
+					<author>
+						<name first="M." last="Imran">M. Imran</name>
+						<affiliation>Department of Mathematics &amp; Natural Sciences, Gulf University for Science &amp; Technology, Kuwait</affiliation>
 						<email></email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
+					<date type="M">2014-01-14</date>
+					<date type="R">2014-02-23</date>
+					<date type="A">2014-03-04</date>
+					<date type="E">2014-09-05</date>
 				</dates>
 			</entry>
-		</issue>
-		<issue inum="" month="" year="">
 			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
+				<title>Two atoms scattering at low and cold energies</title>
+				<feature>Research Articles</feature>
+				<page>0907-0914</page>
 				<abstract>
-					<p></p>
+					<p>A modified static-exchange model is developed to study the collision of an atom with another atom. It includes the effect of long-range dipole–dipole van der Waals interaction between two atoms in addition to the exact effect of short-range force due to Coulomb exchange between two system electrons. Both these interactions dominate at colder energies. The system is treated as a four-centre problem in the centre-of-mass frame. The present $\textit{ab-initio}$ model is useful to study the two-atomic collisions at low energies, as well as cold energies. The new code is applied to study the scattering of positronium (Ps) by hydrogen (H), both in their ground states.</p> 
 				</abstract>
-				<keywords></keywords>
+				<keywords>Coulomb interaction; elastic scattering; interatomic potential; dipole–dipole; long range; scattering length; four-centre; $\textit{ab-initio}$.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
+						<name first="Hasi" last="Ray">Hasi Ray</name>
+						<affiliation>National Institute of Technical Teachers’ Training and Research Kolkata, Salt Lake City, Kolkata 700 106, India</affiliation>
+						<affiliation>New Alipore College, New Alipore, Kolkata 700 053, India</affiliation>
+						<affiliation>Study Centre, S-1/407/6, B. P. Township, Kolkata 700 032, India</affiliation>
+						<email>hasi_ray@yahoo.com, hasi.ray1@gmail.com</email>
 					</author>
 				</authors>
 				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
+					<date type="M">2013-06-27</date>
+					<date type="R">2014-03-05</date>
+					<date type="A">2014-03-13</date>
+					<date type="E">2014-09-14</date>
 				</dates>
 			</entry>
-		</issue>
-		<issue inum="" month="" year="">
 			<entry hassup="0">
-				<title></title>
-				<feature></feature>
-				<page>0000-0000</page>
+				<title>Spin–spin entanglement in moving frames: Properties of negativity</title>
+				<feature>Research Articles</feature>
+				<page>0915-0923</page>
 				<abstract>
-					<p></p>
+					<p>In the present article, we use negativity to investigate the entanglement between two massive particles in the spin degrees of freedom, as seen by moving observers. Assuming that the occurrence of spin-momentum states is determined by Gaussian probability distributions, we show that the degree of entanglement monotonically descends to a diminishingly small value at high rapidities. We further report, how the characteristics of this behaviour vary as the widths of distributions change. In particular, the degree of maximally entangled spin–spin states, resulting from equal distribution widths, is shown to exhibit extrema, depending on the width, at certain rapidities. The material presented in this paper then supports the idea that, for relativistic particles, a consistent reduced spin density (from which the negativity is derived) is impossible to construct.</p> 
 				</abstract>
+				<keywords>Relativistic entanglement; negativity; Gaussian distribution.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Rastgoo">S. Rastgoo</name>
+						<affiliation>Physics Department, College of Sciences, Shiraz University, Shiraz 71454, Iran</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="M. M." last="Golshan">M. M. Golshan</name>
+						<affiliation>Physics Department, College of Sciences, Shiraz University, Shiraz 71454, Iran</affiliation>
+						<email>golshan@susc.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-29</date>
+					<date type="R">2014-01-26</date>
+					<date type="A">2014-03-04</date>
+					<date type="E">2014-09-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dynamics, stability analysis and quantization of $\beta$-Fermi–Pasta–Ulam lattice</title>
+				<feature>Research Articles</feature>
+				<page>0925-0944</page>
+				<abstract>
+					<p>We study the well-known one-dimensional problem of $N$ particles with nonlinear interaction. The $\beta$-Fermi–Pasta–Ulam model is the special case of quadratic and quartic interaction potential among nearest neighbours. We enumerate and classify the simple periodic orbits for this system and find the stability zones, employing Floquet theory. We quantize the nonlinear normal modes and construct a wavefunction for what we believe is a primitive nonlinear analogue of a `phonon’.</p>
+				</abstract>
+				<keywords>Phonon; Fermi–Pasta–Ulam lattice; Floquet theory; semiclassical quantization.</keywords>
+				<authors>
+					<author>
+						<name first="Rupali L." last="Sonone">Rupali L. Sonone</name>
+						<affiliation>Department of Physics, University of Pune, Pune 411 007, India</affiliation>
+						<email>vaidehisonone@gmail.com</email>
+					</author>
+					<author>
+						<name first="Sudhir R." last="Jain">Sudhir R. Jain</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-30</date>
+					<date type="R">2014-03-06</date>
+					<date type="A">2014-03-20</date>
+					<date type="E">2014-09-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Dependence of synchronization frequency of Kuramoto oscillators on symmetry of intrinsic frequency in ring network</title>
+				<feature>Research Articles</feature>
+				<page>0945-0953</page>
+				<abstract>
+					<p>Kuramoto oscillators have been proposed earlier as a model for interacting systems that exhibit synchronization. In this article, we study the difference between networks with symmetric and asymmetric distribution of natural frequencies. We first indicate that synchronization frequency of oscillators in a completely connected network is always equal to the mean of the natural frequency distribution. In particular, shape of the natural frequency distribution does not affect the synchronization frequency in this case. Then, we analyse the case of oscillators in a directed ring network, where asymmetry in the natural frequency distribution is seen to shift the synchronization frequency of the network. We also present an estimate of the shift in the frequencies for slightly asymmetric distributions.</p>
+				</abstract>
+				<keywords>Kuramoto; synchronization; asymmetry; frequency distribution.</keywords>
+				<authors>
+					<author>
+						<name first="Arindam" last="Saha">Arindam Saha</name>
+						<affiliation>Department of Physical Sciences, Indian Institute of Science Education and Research, Kolkata 741 252, India</affiliation>
+						<email>arindam1002@iiserkol.ac.in</email>
+					</author>
+					<author>
+						<name first="R. E." last="Amritkar">R. E. Amritkar</name>
+						<affiliation>Department of Theoretical Physics, Physical Research Laboratory, Ahmedabad 380 009, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-09</date>
+					<date type="R">2014-03-19</date>
+					<date type="A">2014-03-20</date>
+					<date type="E">2014-09-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Flexible equation of state for a hard sphere and Lennard–Jones fluid near critical temperature</title>
+				<feature>Research Articles</feature>
+				<page>0955-0962</page>
+				<abstract>
+					<p>Author uses the condition in terms of contact point radial distribution function $G(\sigma, \lambda(\eta_c, \alpha))$ containing the self-consistent function $\lambda(\eta_c, \alpha)$ and condition of continuity at $\sigma/2$ = contact point, to determine equation of state, (EoS). Different EoSs in terms of built-in parameter, $m$, can be obtained with a suitable choice of $\lambda(\eta_c, \alpha)$ and the present EoSs have less r.m.s. deviation than Barker–Henderson BH2 for LJ fluids, and results are much closer to molecular dynamics (MD) simulations than expectations and reproduce the existing simulation data and present EoS for LJ potential, with the help of a set of minimum single-scaled parameter, $a_0(\eta_c, \alpha)$ for a given reduced temperature, $T^\ast = (1/\beta \epsilon)$= 1.4, 2, 3, 4, 5, 6. It has been found that parameter $\alpha$ = 1.059128388 can be used to fix up the critical temperature parameter $T_c$ = 1.3120(7) to that of a computer simulation result.</p>
+				</abstract>
+				<keywords>Equation of state; Lennard–Jones potential; hard-sphere potential; liquid mixture; computer simulation.</keywords>
+				<authors>
+					<author>
+						<name first="S. B." last="Khasare">S. B. Khasare</name>
+						<affiliation>Department of Physics, Science College, Congress Nagar, Nagpur 440 012, India</affiliation>
+						<email>shailendra.khasare@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-28</date>
+					<date type="R">2014-03-06</date>
+					<date type="A">2014-03-13</date>
+					<date type="E">2014-09-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nucleonic helicity distributions revisited with an emphasis on their evolutions and twists</title>
+				<feature>Research Articles</feature>
+				<page>0963-0974</page>
+				<abstract>
+					<p>In this work, we uphold and extend the formalism advocated by us more than a decade ago in order to extract information on various distribution functions describing nucleonic helicity structure and calculate a complete set of splitting functions relevant for their quantum chromodynamics (QCD) evolutions using light-front Hamiltonian perturbation theory in light front gauge $A^+$ = 0. Twist-two structures of the helicity distributions are self-evident in our calculation. Sum rules associated with these helicity distributions are also verified in a frame-independent way.</p> 
+				</abstract>
+				<keywords>Polarized deep inelastic scattering; orbital angular momentum; light-front time-ordered perturbative quantum chromodynamics; anomalous dimensions.</keywords>
+				<authors>
+					<author>
+						<name first="Rajen" last="Kundu">Rajen Kundu</name>
+						<affiliation>Department of Physics, R.K.M.V.C. College, Rahara, Kolkata 700 118, India</affiliation>
+						<email>rajenkundu@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-01</date>
+					<date type="R">2014-02-27</date>
+					<date type="A">2014-03-04</date>
+					<date type="E">2014-11-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Shape of Te isotopes in mean-field formalism</title>
+				<feature>Research Articles</feature>
+				<page>0975-0983</page>
+				<abstract>
+					<p>The systematic investigation of ground-state shape evolution from $\gamma$-unstable $O$(6) to spherical $U$(5) for even−even ${}^{112−134}$Te has been presented by using the quadrupole momentconstrained Hartree–Fock–Bogoliubov (HFB) method. By examining potential energy curves of Te isotopes, it has been suggested that ${}^{124}$Te nucleus may hold $E$(5) symmetry.</p>
+				</abstract>
+				<keywords>Hartree–Fock–Bogoliubov method; shape evolution; quantum phase transition; potential energy curves.</keywords>
+				<authors>
+					<author>
+						<name first="T." last="Bayram">T. Bayram</name>
+						<affiliation>Department of Physics, Sinop University, 57000 Sinop, Turkey</affiliation>
+						<email>tbayram@sinop.edu.tr</email>
+					</author>
+					<author>
+						<name first="A. H." last="Yilmaz">A. H. Yilmaz</name>
+						<affiliation>Department of Physics, Karadeniz Technical University, 61080 Trabzon, Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-02-08</date>
+					<date type="R">2014-02-14</date>
+					<date type="A">2014-03-04</date>
+					<date type="E">2014-11-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Measurement of nonlinear refractive index in open-aperture $Z$-scan experiments</title>
+				<feature>Research Articles</feature>
+				<page>0985-0994</page>
+				<abstract>
+					<p>We present an experimental study on measurement of nonlinear refractive index ($n_2$) of organic liquids when the thermo-optic effects manifest into large nonlinear phase shifts ($\Delta\phi_0$) in an open-aperture $Z$-scan configuration. Although we do not obtain the familiar peak–valley normalized transmittance curve as in the case of closed-aperture $Z$-scan technique, we use a theoretical model using Gaussian beam decomposition (GD) technique to estimate the value of $n_2$. Using this recipe, we obtain the nonlinear refractive index $n_2 = −(4.90 \pm 1.20) \times 10^{−15}$ cm$^2$/W for toluene (organic solvent) and $n_2 = −(10.60 \pm  2.10) \times  10^{−15}$ cm$^2$/W for an organic polymer solution (10$^{−4}$ Min toluene). By carrying out absorption measurements directly with an unfocussed Gaussian beam, we found nonlinear absorptions $\beta_{\text{tol}} = (2.42 \pm 0.20) \times 10^{−13}$ m/W and $\beta_{\text{poly}} = (2.79 \pm 0.24) \times  10^{−13}$ m/W which are close to the expected results.</p>
+				</abstract>
+				<keywords>Nonlinear refractive index; nonlinear phase; Gaussian beam.</keywords>
+				<authors>
+					<author>
+						<name first="Ritwick" last="Das">Ritwick Das</name>
+						<affiliation>School of Physical Sciences, National Institute of Science Education and Research, Bhubaneswar 751 005, India</affiliation>
+						<email>ritwick.das@niser.ac.in</email>
+					</author>
+					<author>
+						<name first="Mukesh Kumar" last="Shukla">Mukesh Kumar Shukla</name>
+						<affiliation>School of Physical Sciences, National Institute of Science Education and Research, Bhubaneswar 751 005, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-07</date>
+					<date type="R">2014-02-25</date>
+					<date type="A">2014-03-04</date>
+					<date type="E">2014-09-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Beam filter and splitter based on surface plasmon propagation in ring metal heterowaveguide</title>
+				<feature>Research Articles</feature>
+				<page>0995-1002</page>
+				<abstract>
+					<p>Surface plasmon polaritons (SPPs) beam filter (BF) and beam splitter (BS) constructed using metal heterostructures are proposed and demonstrated numerically. Both structures have a ring metal heterowaveguide, which is constructed by a metal cylinder and a ring dielectric cladding. The two-dimensional finite-difference time-domain (2D-FDTD) method is employed to study the properties of the proposed BF and BS, and the results show that SPPs can effectively propagate on bended plasmonic waveguides with dielectric claddings. By introducing dielectric and plasmonic waveguides on both sides of the resonant ring, SPPs can be efficiently excited at the output of the waveguide ring resonator (WRR) through mode coupling. The planar metal heterostructures provide a way for constructing various nanoscale counterparts of conventional planar integrated devices such as filters, splitters, resonators, sensors, optical switches, and so on.</p>
+				</abstract>
+				<keywords>Surface plasmon polaritons; waveguide ring resonator; beam splitter; finite-difference time-domain method.</keywords>
+				<authors>
+					<author>
+						<name first="Gaige" last="Zheng">Gaige Zheng</name>
+						<affiliation>Optics and Photonic Technology Laboratory, Nanjing University of Information Science and Technology, Nanjing 210044, China</affiliation>
+						<affiliation>School of Physics and Optoelectronic Engineering, Nanjing University of Information Science &amp; Technology, Nanjing 210044, China</affiliation>
+						<email>eriot@126.com</email>
+					</author>
+					<author>
+						<name first="Linhu" last="Xu">Linhua Xu</name>
+						<affiliation>Optics and Photonic Technology Laboratory, Nanjing University of Information Science and Technology, Nanjing 210044, China</affiliation>
+						<affiliation>School of Physics and Optoelectronic Engineering, Nanjing University of Information Science &amp; Technology, Nanjing 210044, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yunyun" last="Chen">Yunyun Chen</name>
+						<affiliation>Optics and Photonic Technology Laboratory, Nanjing University of Information Science and Technology, Nanjing 210044, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wei" last="Su">Wei Su</name>
+						<affiliation>School of Science, Nanjing University of Science &amp; Technology, Nanjing 210094, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yuzhu" last="Liu">Yuzhu Liu</name>
+						<affiliation>Paul Scherrer Institute, WSLA-004, Villigen CH 5232, Switzerland</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-22</date>
+					<date type="R">2014-01-09</date>
+					<date type="A">2014-03-20</date>
+					<date type="E">2014-09-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Investigation of quasi-one-dimensional finite phononic crystal with conical section</title>
+				<feature>Research Articles</feature>
+				<page>1003-1013</page>
+				<abstract>
+					<p>In this paper, we studied the propagation of elastic longitudinal waves in quasi-onedimensional (1D) finite phononic crystal with conical section, and derived expressions of frequencyresponse functions. It is found that, contrary to the 1D phononic crystal with a constant section, the value of attenuation inside the band gaps decreases quickly when cross-sectional area increases, and the initial frequency also decreases, but the cut-off frequency increases, thus the width of the band gap increases. The effects of lattice constant and the filling fraction on the band gap are also analysed, and the change trends of the initial frequency and cut-off frequency are consistent with those of constant section. It is shown that the results using this method are in good agreement with the results analysed by the finite element software, ANSYS.We hope that the results will be helpful in practical applications of phononic crystals.</p>
+				</abstract>
+				<keywords>Finite phononic crystal; band gap; frequency-response functions.</keywords>
+				<authors>
+					<author>
+						<name first="Zhiqiang" last="Fu">Zhiqiang Fu</name>
+						<affiliation>School of Science, Xi’an University of Architecture and Technology, No. 13, Yanta Road, Xi’an, Shaanxi 710055, People’s Republic of China</affiliation>
+						<affiliation>Institute of Applied Acoustics, Shaanxi Normal University, No. 199, Chang’an South Road, Xi’an, Shaanxi 710062, People’s Republic of China</affiliation>
+						<email>fuzhi2004@sohu.com</email>
+					</author>
+					<author>
+						<name first="Shuyu" last="Lin">Shuyu Lin</name>
+						<affiliation>Institute of Applied Acoustics, Shaanxi Normal University, No. 199, Chang’an South Road, Xi’an, Shaanxi 710062, People’s Republic of China</affiliation>
+						<email>sylin@snnu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Shi" last="Chen">Shi Chen</name>
+						<affiliation>Institute of Applied Acoustics, Shaanxi Normal University, No. 199, Chang’an South Road, Xi’an, Shaanxi 710062, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaojun" last="Xian">Xiaojun Xian</name>
+						<affiliation>Institute of Applied Acoustics, Shaanxi Normal University, No. 199, Chang’an South Road, Xi’an, Shaanxi 710062, People’s Republic of China</affiliation>
+						<affiliation>China Electronics Technology Group Corporation 26th Research Institute, Chongqing 400060, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Chenghui" last="Wang">Chenghui Wang</name>
+						<affiliation>School of Science, Xi’an University of Architecture and Technology, No. 13, Yanta Road, Xi’an, Shaanxi 710055, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-04-29</date>
+					<date type="R">2014-02-28</date>
+					<date type="A">2014-03-13</date>
+					<date type="E">2014-11-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The effect of positive dust mass on instability in four-component magnetodustyplasma in the presence of polarization force</title>
+				<feature>Research Articles</feature>
+				<page>1015-1024</page>
+				<abstract>
+					<p>A theoretical investigation has been carried out on the growth rate of instability of the low-frequency electrostatic waves in a partially ionized four-component magnetodustyplasma in the presence of polarization force. Utilizing the method of linear mode analysis, the results of investigation have been presented. The findings of the investigation reveal that the polarization force, the external magnetic field and the dust temperature have a tendency to destabilize the system by increasing the growth rate of instability. On the other hand, the positive dust mass causes the instability growth rate to decrease, thereby stabilizing the system.</p>
+				</abstract>
+				<keywords>Positive dust; polarization force; instability; magnetized dusty plasma.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Emamuddin">M. Emamuddin</name>
+						<affiliation>Post Graduate Education, Training and Research Centre, National University, Gazipur 1704, Bangladesh</affiliation>
+						<email>umd.emam@yahoo.com</email>
+					</author>
+					<author>
+						<name first="A. A." last="Mamun">A. A. Mamun</name>
+						<affiliation>Department of Physics, Jahangirnagar University, Savar, Dhaka 1342, Bangladesh</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-02</date>
+					<date type="R">2014-03-15</date>
+					<date type="A">2014-03-20</date>
+					<date type="E">2014-09-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Plasmonic properties of gold-coated nanoporous anodic alumina with linearly organized pores</title>
+				<feature>Research Articles</feature>
+				<page>1025-1033</page>
+				<abstract>
+					<p>Anodization of aluminium surfaces containing linearly oriented scratches leads to the formation of nanoporous anodic alumina (NAA) with the nanopores arranged preferentially along the scratch marks. NAA, when coated with a thin gold film, support plasmonic resonances. Dark-field spectroscopy revealed that gold-coated NAA with such linearly arranged pores shows a polarization-dependent scattering, that is larger when the incident light is polarized parallel to the scratch direction than when polarized perpendicular to the scratch direction. Fluorescence studies from rhodamine-6G (R6G) molecules dissolved in polymethylmethacrylate (PMMA) and deposited on these NAA templates showed that fluorescence can be strongly enhanced with the bare NAA due to multiple light scattering in the NAA, while fluorescence from the molecules deposited on gold-coated NAA is strongly quenched due to the strong plasmonic coupling.</p>
+				</abstract>
+				<keywords>Plasmon; dark-field; fluorescence.</keywords>
+				<authors>
+					<author>
+						<name first="Dheeraj" last="Pratap">Dheeraj Pratap</name>
+						<affiliation>Department of Physics, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<email>pdheeraj@iitk.ac.in</email>
+					</author>
+					<author>
+						<name first="P." last="Mandal">P. Mandal</name>
+						<affiliation>Department of Physics, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="S. Anantha" last="Ramakrishna">S. Anantha Ramakrishna</name>
+						<affiliation>Department of Physics, Indian Institute of Technology Kanpur, Kanpur 208 016, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-09-17</date>
+					<date type="R"></date>
+					<date type="A">2014-03-13</date>
+					<date type="E">2014-09-04</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Erratum to: Nuclear triaxiality in the $A\tilde$160–170 mass region: the story so far</title>
+				<feature>Erratum</feature>
+				<page>1035-1035</page>
+				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Mukhopadhyay">S. Mukhopadhyay</name>
+						<affiliation>Nuclear Physics Division, Bhabha Atomic Research Centre, Mumbai 400 085, India</affiliation>
+						<email>somm@barc.gov.in</email>
+					</author>
+					<author>
+						<name first="W. C." last="Ma">W. C. Ma</name>
+						<affiliation>Department of Physics, Mississippi State University, Mississippi State, Mississippi 39762, USA</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7934,8 +7900,26 @@
 					<date type="M"></date>
 					<date type="R"></date>
 					<date type="A"></date>
-					<date type="E"></date>
+					<date type="E">2014-11-25</date>
 				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>1037-1042</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>1043-1049</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
