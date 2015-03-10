@@ -131,7 +131,6 @@
 					<author>
 						<name first="V." last="Renugopalakrishnan">V. Renugopalakrishnan</name>
 						<affiliation>Harvard Medical School, Children’s Hospital, 300 Longwood Avenue, Boston, MA 02115, USA</affiliation>
-						<affiliation>Harvard Medical School, 423 Brookline Avenue, PMB 334, Boston, MA 02215, USA</affiliation>
 						<email>renu1@harv.edu</email>
 					</author>
 					<author>
@@ -147,6 +146,7 @@
 					<author>
 						<name first="A. T." last="Hagler">A. T. Hagler</name>
 						<affiliation>Biosym/MSI Inc., 9685 Scranton Road, San Diego, CA 92121, USA</affiliation>
+						<affiliation>Harvard Medical School, 423 Brookline Avenue, PMB 334, Boston, MA 02215, USA</affiliation>
 						<email>biosemiconductors@yahoo.com</email>
 					</author>
 				</authors>
@@ -4702,31 +4702,6 @@
 	<volume vnum="113">
 		<issue inum="01" month="02" year="2001">
 			<entry hassup="0">
-				<title>Editors’ note</title>
-				<feature></feature>
-				<page>0000a-0000a</page>
-				<abstract />
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="Uday" last="Maitra">Uday Maitra</name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="S. S." last="Krishnamurthy">S. S. Krishnamurthy</name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
 				<title>Peroxidase-like catalytic activities of ionic metalloporphyrins supported on functionalised polystyrene surface</title>
 				<feature>Inorganic and Analytical</feature>
 				<page>0001-0009</page>
@@ -9093,12 +9068,7 @@
 				<abstract />
 				<keywords></keywords>
 				<authors />
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
@@ -9107,12 +9077,7 @@
 				<abstract />
 				<keywords></keywords>
 				<authors />
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Author Index</title>
@@ -9121,12 +9086,7 @@
 				<abstract />
 				<keywords></keywords>
 				<authors />
-				<dates>
-					<date type="M"></date>
-					<date type="R"></date>
-					<date type="A"></date>
-					<date type="E"></date>
-				</dates>
+				<dates />
 			</entry>
 		</issue>
 	</volume>
@@ -44057,7 +44017,7 @@
 					<author>
 						<name first="Rajitha" last="Gali">Rajitha Gali</name>
 						<affiliation>Department of Chemistry, National Institute of Technology, Warangal 506 004, India</affiliation>
-						<email></email>
+						<email>rajitha_nitw@yahoo.com</email>
 					</author>
 					<author>
 						<name first="Ravibabu" last="Velpula">Ravibabu Velpula</name>
@@ -44067,7 +44027,7 @@
 					<author>
 						<name first="Rajitha" last="Bavantula">Rajitha Bavantula</name>
 						<affiliation>Department of Chemistry, National Institute of Technology, Warangal 506 004, India</affiliation>
-						<email>rajitha_nitw@yahoo.com, rajitabhargavi@yahoo.com</email>
+						<email>rajitabhargavi@yahoo.com</email>
 					</author>
 				</authors>
 				<dates>
