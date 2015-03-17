@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE cs SYSTEM "jphy.dtd">
+<!DOCTYPE bsi SYSTEM "bhavans.dtd">
 
 <jphy>
 	<volume vnum="076">
@@ -626,7 +626,7 @@
 					</author>
 					<author>
 						<name first="J. G." last="Ray">J. G. Ray</name>
-						<affiliation>Department of Oral Pathology, Dr R Ahmed Dental College & Hospital, Kolkata 700 014, India</affiliation>
+						<affiliation>Department of Oral Pathology, Dr R Ahmed Dental College &amp; Hospital, Kolkata 700 014, India</affiliation>
 						<email></email>
 					</author>
 					<author>
@@ -1235,7 +1235,7 @@
 				<feature />
 				<page>0407-0420</page>
 				<abstract>
-					<p>We study a particular approach for analysing worldsheet conformal invariance for bosonic string propagating in a curved background using Hamiltonian formalism. We work in the Schrödinger picture of a single-particle description of the problem where the particle moves in an inﬁnite-dimensional space. Background independence is maintained in this approach by adopting DeWitt’s (Phys. Rev. {\bf 85}, 653–661, 1952) coordinate-independent formulation of quantum mechanics. This enables us to construct certain background-independent notion of Virasoro generators, called DeWitt–Virasoro (DWV) generators, and invariant matrix elements of an arbitrary operator constructed out of them in spin-zero representation. We show that the DWV algebra is given by the Witt algebra with additional anomalous terms that vanish for Ricci-ﬂat backgrounds. The actual quantum Virasoro generators should be obtained by ﬁrst introducing the vacuum state and then normal ordering the DWV generators with respect to that. We demonstrate the procedure in ﬂat and pp-wave backgrounds.</p>
+					<p>We study a particular approach for analysing worldsheet conformal invariance for bosonic string propagating in a curved background using Hamiltonian formalism. We work in the Schrödinger picture of a single-particle description of the problem where the particle moves in an inﬁnite-dimensional space. Background independence is maintained in this approach by adopting DeWitt’s (Phys. Rev. 85, 653–661, 1952) coordinate-independent formulation of quantum mechanics. This enables us to construct certain background-independent notion of Virasoro generators, called DeWitt–Virasoro (DWV) generators, and invariant matrix elements of an arbitrary operator constructed out of them in spin-zero representation. We show that the DWV algebra is given by the Witt algebra with additional anomalous terms that vanish for Ricci-ﬂat backgrounds. The actual quantum Virasoro generators should be obtained by ﬁrst introducing the vacuum state and then normal ordering the DWV generators with respect to that. We demonstrate the procedure in ﬂat and pp-wave backgrounds.</p>
 				</abstract>
 				<keywords>Quantum mechanics in curved space; non-linear sigma model; Virasoro algebra.</keywords>
 				<authors>
@@ -1380,7 +1380,7 @@
 				<feature />
 				<page>0471-0476</page>
 				<abstract>
-					<p>We have calculated the excitation energies ($\Delta E$) and optical oscillator strengths (OOS), of both length ($f_L$) and velocity ($f_V$) forms, for the $1s^2 2s^2 2p^6 3s^2 3p^6 3d {}^2 D^e \to 1s^2 2s^2 2p^6 3s^2 3p^5 3d^2 {}^2P^o, {}^2D^o, {}^2F^o$ transitions in V$^{4+}$ ion of the potassium isoelectronic sequence by employing multiconﬁguration Hartree–Fock (MCHF) method exactly in the same way as we did in our earlier work (Tiwary et al, Pramana – J. Phys. {\bf 46}, 381 (1996)). We have compared the available relevant experimental data and our earlier theoretical results obtained by employing the conﬁguration interaction (CI) method (Tiwary et al, J. Phys. B: At. Mol. Phys. {\bf 16}, 2457 (1983)). Our present investigation clearly demonstrates that the MCHF method is more accurate than the CI method.</p>
+					<p>We have calculated the excitation energies ($\Delta E$) and optical oscillator strengths (OOS), of both length ($f_L$) and velocity ($f_V$) forms, for the $1s^2 2s^2 2p^6 3s^2 3p^6 3d {}^2 D^e \to 1s^2 2s^2 2p^6 3s^2 3p^5 3d^2 {}^2P^o, {}^2D^o, {}^2F^o$ transitions in V$^{4+}$ ion of the potassium isoelectronic sequence by employing multiconﬁguration Hartree–Fock (MCHF) method exactly in the same way as we did in our earlier work (Tiwary et al, Pramana – J. Phys. {\bf 46}, 381 (1996)). We have compared the available relevant experimental data and our earlier theoretical results obtained by employing the conﬁguration interaction (CI) method (Tiwary et al, J. Phys. B: At. Mol. Phys. ${\bf 16}$, 2457 (1983)). Our present investigation clearly demonstrates that the MCHF method is more accurate than the CI method.</p>
 				</abstract>
 				<keywords>Multiconﬁguration Hartree–Fock; conﬁguration interaction; excitation energies; oscillator strengths.</keywords>
 				<authors>
@@ -1997,7 +1997,7 @@
 				<feature />
 				<page>0681-0690</page>
 				<abstract>
-					<p>Bianchi type-V string cosmological models in general relativity are investigated. To get the exact solution of Einstein’s ﬁeld equations, we have taken some scale transformations used by Camci et al [Astrophys. Space Sci. {\bf 275}, 391 (2001)]. It is shown that Einstein’s ﬁeld equations are solvable for any arbitrary cosmic scale function. Solutions for particular forms of cosmic scale functions are also obtained. Some physical and geometrical aspects of the models are discussed.</p> 
+					<p>Bianchi type-V string cosmological models in general relativity are investigated. To get the exact solution of Einstein’s ﬁeld equations, we have taken some scale transformations used by Camci et al [Astrophys. Space Sci. ${\bf 275}$, 391 (2001)]. It is shown that Einstein’s ﬁeld equations are solvable for any arbitrary cosmic scale function. Solutions for particular forms of cosmic scale functions are also obtained. Some physical and geometrical aspects of the models are discussed.</p> 
 				</abstract>
 				<keywords>Cosmology; Bianchi type-V Universe; string theory.</keywords>
 				<authors>
@@ -2498,7 +2498,7 @@
 					<p>This is a summary of the activities of the $\textit{Physics at the LHC}$ working group in the XIth Workshop on High Energy Physics Phenomenology (WHEPP-XI) held at the Physical Research Laboratory, Ahmedabad, India in January 2010. We discuss the activities of each sub-working group on physics issues at colliders such as Tevatron and Large Hadron Collider (LHC). The main issues discussed involve (1) results on W mass measurement and associated QCD uncertainties, (2) an attempt to understand the asymmetry measured at Tevatron in the top quark production, and (3) phenomenology of warped space dimension model.</p>
 				</abstract>
 				<keywords>Large Hadron Collider; top quark; $W$-mass; QCD and EW radiative corrections; extra dimensions.</keywords>
-				<authors>%%%%%% prathibha
+				<authors>
 					<author>
 						<name first="D. K." last="Ghosh">D. K. Ghosh</name>
 						<affiliation>Department of Theoretical Physics and Centre for Theoretical Sciences, Indian Association for the Cultivation of Science, Kolkata 700 032, India</affiliation>
@@ -2514,278 +2514,196 @@
 						<affiliation>Harish-Chandra Research Institute, Allahabad 211 019, India</affiliation>
 						<email></email>
 					</author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+					<author>
+						<name first="N." last="Agarwal">N. Agarwal</name>
+						<affiliation>Department of Physics, Allahabad University, Allahabad 211 002, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="P." last="Agarwal">P. Agarwal</name>
+						<affiliation>Institute of Physics, Bhubaneswar 751 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="P." last="Bandyopadhyay">P. Bandyopadhyay</name>
+						<affiliation>Harish-Chandra Research Institute, Allahabad 211 019, India</affiliation>
+						<affiliation>Korea Institute for Advanced Study, Seoul, Korea</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R." last="Basu">R. Basu</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="B." last="Bhattacherjee">B. Bhattacherjee</name>
+						<affiliation>Tata Institute of Fundamental Research, Mumbai 400 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S. S." last="Biswal">S. S. Biswal</name>
+						<affiliation>Tata Institute of Fundamental Research, Mumbai 400 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="D." last="Choudhury">D. Choudhury</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="M." last="Dahiya">M. Dahiya</name>
+						<affiliation>SGTB Khalsa College, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Dutta">S. Dutta</name>
+						<affiliation>SGTB Khalsa College, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="N." last="Gaur">N. Gaur</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="K." last="Ghosh">K. Ghosh</name>
+						<affiliation>Department of Physics, University of Calcutta, Kolkata 700 072, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. M." last="Godbole">R. M. Godbole</name>
+						<affiliation>Centre for High Energy Physics, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Gopalakrishna">S. Gopalakrishna</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India</affiliation>
+						<affiliation>School of Physics, The University of Melbourne, Australia</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R." last="Islam">R. Islam</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="W." last="Kilgore">W. Kilgore</name>
+						<affiliation>Physics Department, Brookhaven National Laboratory, Upton, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="M." last="Kumar">M. Kumar</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="M. C." last="Kumar">M. C. Kumar</name>
+						<affiliation>Harish-Chandra Research Institute, Allahabad 211 019, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Majee">S. Majee</name>
+						<affiliation>CP3, Université catholique de Louvain, Louvain-la-Neuve, Belgium</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Majhi">S. Majhi</name>
+						<affiliation>Saha Institute of Nuclear Physics, Kolkata 700 064, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="T." last="Mandal">T. Mandal</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="H. S." last="Mani">H. S. Mani</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="P." last="Mathews">P. Mathews</name>
+						<affiliation>Saha Institute of Nuclear Physics, Kolkata 700 064, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Mitra">S. Mitra</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A." last="Mukherjee">A. Mukherjee</name>
+						<affiliation>Physics Department, Indian Institute of Technology, Mumbai 400 076, I</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="K." last="Rao">K. Rao</name>
+						<affiliation>Department of Physics, University of Helsinki, Helsinki, Finland</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="V." last="Rawoot">V. Rawoot</name>
+						<affiliation>Department of Physics, Mumbai University, Mumbai 400 032, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S. D." last="Rindani">S. D. Rindani</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="T. S." last="Roy">T. S. Roy</name>
+						<affiliation>Department of Physics, University of Oregon, Eugene, USA</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="P." last="Saha">P. Saha</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R." last="Santos">R. Santos</name>
+						<affiliation>NExT Institute and School of Physics and Astronomy, University of Southampton, UK</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="S." last="Seth">S. Seth</name>
+						<affiliation>Saha Institute of Nuclear Physics, Kolkata 700 064, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="P." last="Sharma">P. Sharma</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A." last="Shivaji">A. Shivaji</name>
+						<affiliation>Institute of Physics, Bhubaneswar 751 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. K." last="Singh">R. K. Singh</name>
+						<affiliation>Institut für Theoretische Physik und Astronomie, Universität Würzburg, Germany</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="J. P." last="Singh">J. P. Singh</name>
+						<affiliation>Department of Physics, M.S. University of Baroda, Vadodara 390 002, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R." last="Tibrewala">R. Tibrewala</name>
+						<affiliation>Institute of Mathematical Sciences, Chennai 600 113, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A." last="Tripathi">A. Tripathi</name>
+						<affiliation>Tata Institute of Fundamental Research, Mumbai 400 005, India</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="M." last="Won">M. Won</name>
+						<affiliation>LIP - Departamento de Física, Universidade de Coimbra, Coimbra, Portugal</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4733,7 +4651,7 @@
 				<feature />
 				<page>0571-0579</page>
 				<abstract>
-					<p>Kilohertz quasiperiodic oscillations (kHz QPOs) are observed in binary stellar systems. For such a system, the stellar radius is very close to the marginally stable orbit $R_{\text{ms}}$ as predicted by Einstein’s general relativity. Many models have been proposed to explain the origin of the kHz QPO features in the binaries. Here we start from the work of Li et al (Phys. Rev. Lett. {\bf 83}, 3776 (1999)) who in 1999, from the unique millisecond X-ray pulsations, suggested SAX J1808.4−3658 to be a strange star, from an accurate determination of its rotation period. It showed kHz QPOs eight years ago and so far it is the only set that has been observed. We suggest that the mass of four compact stars SAX J1808.4−3658, KS 1731−260, SAX J1750.8−2900 and IGR J17191−2821 can be determined from the difference in the observed kHz QPOs of these stars. It is exciting to be able to give an estimate of the mass of the star and three other compact stars in low-mass X-ray binaries using their observed kHz QPOs.</p>
+					<p>Kilohertz quasiperiodic oscillations (kHz QPOs) are observed in binary stellar systems. For such a system, the stellar radius is very close to the marginally stable orbit $R_{\text{ms}}$ as predicted by Einstein’s general relativity. Many models have been proposed to explain the origin of the kHz QPO features in the binaries. Here we start from the work of Li et al (Phys. Rev. Lett. ${\bf 83}$, 3776 (1999)) who in 1999, from the unique millisecond X-ray pulsations, suggested SAX J1808.4−3658 to be a strange star, from an accurate determination of its rotation period. It showed kHz QPOs eight years ago and so far it is the only set that has been observed. We suggest that the mass of four compact stars SAX J1808.4−3658, KS 1731−260, SAX J1750.8−2900 and IGR J17191−2821 can be determined from the difference in the observed kHz QPOs of these stars. It is exciting to be able to give an estimate of the mass of the star and three other compact stars in low-mass X-ray binaries using their observed kHz QPOs.</p>
 				</abstract>
 				<keywords>Khz QPOs; strange stars.</keywords>
 				<authors>
@@ -5646,7 +5564,7 @@
 				<feature>Synchronization, Coupled Systems and Networks</feature>
 				<page>0881-0889</page>
 				<abstract>
-					<p>The dynamics of indirectly coupled Lorenz circuits is investigated experimentally. The in-phase and anti-phase synchronization of indirectly coupled chaotic oscillators reported in Phys. Rev. {\bf E 81}, 046216 (2010) is veriﬁed by physical experiments with electronic circuits. Two chaotic systems coupled through a common dynamic environment shows the verity of synchronization behaviours such as anti-phase synchronization, in-phase synchronization, identical synchronization, anti-synchronization, etc.</p>
+					<p>The dynamics of indirectly coupled Lorenz circuits is investigated experimentally. The in-phase and anti-phase synchronization of indirectly coupled chaotic oscillators reported in Phys. Rev. ${\bf E 81}$, 046216 (2010) is veriﬁed by physical experiments with electronic circuits. Two chaotic systems coupled through a common dynamic environment shows the verity of synchronization behaviours such as anti-phase synchronization, in-phase synchronization, identical synchronization, anti-synchronization, etc.</p>
 				</abstract>
 				<keywords>Synchronization; indirect coupling; electronic circuit.</keywords>
 				<authors>
@@ -6122,7 +6040,7 @@
 				<feature />
 				<page>1105-1117</page>
 				<abstract>
-					<p>In the seventies, Nambu (Phys. Rev. {\bf D7}, 2405 (1973)) proposed a new approach to classical dynamics based on an $N$-dimensional Nambu–Poisson (NP) manifold replacing the primitive even-dimensional Poisson manifold and on $N–1$ Hamiltonians in place of a single Hamiltonian. This approach has had many promoters including Bayen and Flato (Phys. Rev. {\bf D11}, 3049 (1975)), Mukunda and Sudarshan (Phys. Rev. {\bf D13}, 2846 (1976)), and Takhtajan (Comm. Math. Phys. {\bf 160}, 295 (1994)) among others. While Nambu had originally considered $N = 3$, the illustration of his ideas for $N = 4$ and 6 was  given by Chatterjee  (Lett. Math. Phys. {\bf 36}, 117 (1996)) who observed that the classical description of dynamical systems having dynamical symmetries is described elegantly by Nambu’s formalism of mechanics. However, his considerations do not quite yield the beautiful canonical form conjectured by Nambu himself for the $N$-ary NP bracket. By making a judicious choice for the ‘extra constant of motion’ of namely, $\alpha$ and $\beta$, which are the orientation angles in Kepler problem and isotropic harmonic oscillator (HO) respectively, we show that the dynamical systems with dynamical symmetries can be recast in the beautiful form suggested by Nambu. We believe that the techniques used and the theorems suggested by us in this work are of general interest because of their involvement in the transition from Hamiltonian mechanics to Nambu mechanics.</p>
+					<p>In the seventies, Nambu (Phys. Rev. ${\bf D7}$, 2405 (1973)) proposed a new approach to classical dynamics based on an $N$-dimensional Nambu–Poisson (NP) manifold replacing the primitive even-dimensional Poisson manifold and on $N–1$ Hamiltonians in place of a single Hamiltonian. This approach has had many promoters including Bayen and Flato (Phys. Rev. ${\bf D11}$, 3049 (1975)), Mukunda and Sudarshan (Phys. Rev. {\bf D13}, 2846 (1976)), and Takhtajan (Comm. Math. Phys. {\bf 160}, 295 (1994)) among others. While Nambu had originally considered $N = 3$, the illustration of his ideas for $N = 4$ and 6 was  given by Chatterjee  (Lett. Math. Phys. {\bf 36}, 117 (1996)) who observed that the classical description of dynamical systems having dynamical symmetries is described elegantly by Nambu’s formalism of mechanics. However, his considerations do not quite yield the beautiful canonical form conjectured by Nambu himself for the $N$-ary NP bracket. By making a judicious choice for the ‘extra constant of motion’ of namely, $\alpha$ and $\beta$, which are the orientation angles in Kepler problem and isotropic harmonic oscillator (HO) respectively, we show that the dynamical systems with dynamical symmetries can be recast in the beautiful form suggested by Nambu. We believe that the techniques used and the theorems suggested by us in this work are of general interest because of their involvement in the transition from Hamiltonian mechanics to Nambu mechanics.</p>
 				</abstract>
 				<keywords>Hamiltonian mechanics; Nambu mechanics.</keywords>
 				<authors>
@@ -6753,7 +6671,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>Coupled-channel analysis for 20.4 MeV energy of p-^{64}Zn inelastic scattering</title>
+				<title>Coupled-channel analysis for 20.4 MeV energy of $p-^{64}$Zn inelastic scattering</title>
 				<feature>Research Articles</feature>
 				<page>0215-0224</page>
 				<abstract>
@@ -7115,7 +7033,7 @@
 				<feature>Research Articles</feature>
 				<page>0319-0331</page>
 				<abstract>
-					<p>TiO$_2$ Nano rods can be used as dye-sensitized solar cells, various sensors and photocatalysts. These nanorods are synthesized by a hydrothermal corrosion process in NaOH solution at $200^\circ$C using  TiO$_2$ powder as the source material. In the present work, the synthesis of TiO$_2$ nanorods in anatase, rutile and Ti$_7$O$_{13}$ phases and synthesis of TiO$_2$ nanorods by incorporating SiO$_2$ dopant, using the sol–gel method and alkaline corrosion are reported. The morphologies and crystal structures of the TiO2 nanorods are characterized using ﬁeld emission scanning electron microscopy (FE-SEM), atomic force microscopy (AFM) and X-ray diffraction (XRD) study. The obtained results show not only an aggregation structure at high calcination temperatures with spherical particles but also Ti–O–Si bonds having four-fold coordination with oxygen in SiO$^{4−}$.</p>
+					<p>TiO$_2$ Nano rods can be used as dye-sensitized solar cells, various sensors and photocatalysts. These nanorods are synthesized by a hydrothermal corrosion process in NaOH solution at $200^{\circ}$C using  TiO$_2$ powder as the source material. In the present work, the synthesis of TiO$_2$ nanorods in anatase, rutile and Ti$_7$O$_{13}$ phases and synthesis of TiO$_2$ nanorods by incorporating SiO$_2$ dopant, using the sol–gel method and alkaline corrosion are reported. The morphologies and crystal structures of the TiO2 nanorods are characterized using ﬁeld emission scanning electron microscopy (FE-SEM), atomic force microscopy (AFM) and X-ray diffraction (XRD) study. The obtained results show not only an aggregation structure at high calcination temperatures with spherical particles but also Ti–O–Si bonds having four-fold coordination with oxygen in SiO$^{4−}$.</p>
 				</abstract>
 				<keywords>Nanostructure; nanorods; TiO$_2$; SiO$_2$ dopant; sol–gel method.</keywords>
 				<authors>
@@ -7959,7 +7877,7 @@
 				<feature>Research Articles</feature>
 				<page>0625-0634</page>
 				<abstract>
-					<p>In this work, ZnO thin ﬁlms have been prepared by spray pyrolysis deposition method on the glass substrates. The effect of deposition parameters, such as deposition rate, substrate temperature and solution volume has been studied by X-ray diffraction (XRD) method, UV–Vis–NIR spectroscopy, scanning electron microscopy (SEM), and electrical measurements. The XRD patterns indicate polycrystalline wurtzite structure with preferred direction along (0 0 2) planes. Thin ﬁlms have transparency around 90&#37; in the visible range. The optical band gap was determined at 3.27 eV which did not change signiﬁcantly. Evolution of electrical results containing the carriers' density, sheet resistance and resistivity are in agreement with structural results. All the results suggest the best deposition parameters are: deposition rate, $R = 3$ ml/min, substrate temperature, $T_s = 450^\circ$C and thickness of the thin ﬁlms $t = 110–130$ nm.</p>
+					<p>In this work, ZnO thin ﬁlms have been prepared by spray pyrolysis deposition method on the glass substrates. The effect of deposition parameters, such as deposition rate, substrate temperature and solution volume has been studied by X-ray diffraction (XRD) method, UV–Vis–NIR spectroscopy, scanning electron microscopy (SEM), and electrical measurements. The XRD patterns indicate polycrystalline wurtzite structure with preferred direction along (0 0 2) planes. Thin ﬁlms have transparency around 90&#37; in the visible range. The optical band gap was determined at 3.27 eV which did not change signiﬁcantly. Evolution of electrical results containing the carriers' density, sheet resistance and resistivity are in agreement with structural results. All the results suggest the best deposition parameters are: deposition rate, $R = 3$ ml/min, substrate temperature, $T_s = 450^{\circ}$C and thickness of the thin ﬁlms $t = 110–130$ nm.</p>
 				</abstract>
 				<keywords>ZnO; spray pyrolysis; X-ray diffraction; thin ﬁlms.</keywords>
 				<authors>
@@ -12653,11 +12571,11 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>Search for the Standard Model Higgs boson in the decay channel $H \rightarrow ZZ^{(∗)} \rightarrow 4l$ at CMS</title>
+				<title>Search for the Standard Model Higgs boson in the decay channel $H \rightarrow ZZ^{(\ast)} \rightarrow 4l$ at CMS</title>
 				<feature>Poster Presentations</feature>
 				<page>1321-1324</page>
 				<abstract>
-					<p>A search for the Standard Model ({\bf SM}) Higgs boson in the decay channel $H \rightarrow ZZ^{(∗)} \rightarrow 4l$ with each $Z$ boson decaying to an electron or muon pair is presented using $pp$ collisions from the {\bf LHC} at $\sqrt{s} = 7$ TeV. The data analysed correspond to an integrated luminosity of $1.66 \pm 0.07$ fb$^{−1}$ recorded by the {\bf CMS} detector in 2010 and 2011. The search covers Higgs boson mass $(m_{\text{H}})$ hypotheses of $110 &#60; m_{\text{H}} &#60; 600$ GeV/c$^{2}$. Twenty-one events are observed, while $21.2 \pm 0.8$ events are expected from Standard Model ({\bf SM}) background processes. The events are not clustered in mass excluding interpretation as the {\bf SM} Higgs boson and its $(4l)$ mass distribution is consistent with the expectation of {\bf SM} continuum production of $ZZ^{(∗)}$ pairs. Upper limits at $95\%$ {\bf CL} on the cross-section $\times$ branching ratio for a {\bf SM} Higgs boson with SM like decays exclude cross-sections from about once to twice the expected {\bf SM} cross-section for masses in the range of $150 &#60; m_{\text{H}}&#60; 420$ GeV/c$^{2}$.</p>
+					<p>A search for the Standard Model ({\bf SM}) Higgs boson in the decay channel $H \rightarrow ZZ^{(\ast)} \rightarrow 4l$ with each $Z$ boson decaying to an electron or muon pair is presented using $pp$ collisions from the {\bf LHC} at $\sqrt{s} = 7$ TeV. The data analysed correspond to an integrated luminosity of $1.66 \pm 0.07$ fb$^{−1}$ recorded by the {\bf CMS} detector in 2010 and 2011. The search covers Higgs boson mass $(m_{\text{H}})$ hypotheses of $110 &#60; m_{\text{H}} &#60; 600$ GeV/c$^{2}$. Twenty-one events are observed, while $21.2 \pm 0.8$ events are expected from Standard Model (SM) background processes. The events are not clustered in mass excluding interpretation as the SM Higgs boson and its $(4l)$ mass distribution is consistent with the expectation of SM continuum production of $ZZ^{(\ast)}$ pairs. Upper limits at $95\%$ CL on the cross-section $\times$ branching ratio for a SM Higgs boson with SM like decays exclude cross-sections from about once to twice the expected SM cross-section for masses in the range of $150 &#60; m_{\text{H}}&#60; 420$ GeV/c$^{2}$.</p>
 				</abstract>
 				<keywords>CMS; Standard Model Higgs Boson.</keywords>
 				<authors>
@@ -12783,7 +12701,7 @@
 				<feature>Poster Presentations</feature>
 				<page>1341-1344</page>
 				<abstract>
-					<p>A search for a Higgs boson decaying into two photons in $pp$ collisions at the {\bf LHC} at a centre-of-mass energy of 7 TeV is presented. The analysis is performed on a dataset corresponding to 1.66 fb$^{−1}$ of data recorded in 2011 by the {\bf CMS} experiment. Limits are set on the cross-section of a Standard Model Higgs boson decaying into two photons, and on the cross-section of a fermiophobic Higgs boson decaying into two photons.</p>
+					<p>A search for a Higgs boson decaying into two photons in $pp$ collisions at the LHC at a centre-of-mass energy of 7 TeV is presented. The analysis is performed on a dataset corresponding to 1.66 fb$^{−1}$ of data recorded in 2011 by the CMS experiment. Limits are set on the cross-section of a Standard Model Higgs boson decaying into two photons, and on the cross-section of a fermiophobic Higgs boson decaying into two photons.</p>
 				</abstract>
 				<keywords>CMS; Large Hadron Collider; low-mass Higgs; photons; electromagnetic calorimeter.</keywords>
 				<authors>
@@ -12903,7 +12821,7 @@
 				<feature></feature>
 				<page>1395-1405</page>
 				<abstract>
-					<p>Event-to-event fluctuation pattern of pions produced by proton and pion beams is studied in terms of the newly defined erraticity measures $\chi (p, q)$, $\chi_{q}^{'} and $\mu_{q}^{'}$ proposed by Cao and Hwa. The analysis reveals the erratic behaviour of the produced pions signifying the chaotic multiparticle production in high-energy hadron–nucleus interactions ($\pi^{-}$ –AgBr interactions at 350 GeV/c and $p$–AgBr interactions at 400 GeV/c). However, the chaoticity does not depend on whether the projectile is proton or pion. The results are compared with the results of the {\bf VENUS}-generated data for the above interactions which suggests that {\bf VENUS} event generator is unable to reproduce the event-to-event fluctuations of spatial patterns of final states. A comparative study of $p$–AgBr interactions and $p– p$ collisions at 400 GeV/c from {\bf NA27}, with the help of a quantitative parameter for the assessment of pion fluctuation, indicates conclusively that particle production process is more chaotic for hadron–nucleus interactions than for hadron–hadron interactions.</p>
+					<p>Event-to-event fluctuation pattern of pions produced by proton and pion beams is studied in terms of the newly defined erraticity measures $\chi (p, q)$, $\chi_{q}^{'}$ and $\mu_{q}^{'}$ proposed by Cao and Hwa. The analysis reveals the erratic behaviour of the produced pions signifying the chaotic multiparticle production in high-energy hadron–nucleus interactions ($\pi^{-}$ –AgBr interactions at 350 GeV/c and $p$–AgBr interactions at 400 GeV/c). However, the chaoticity does not depend on whether the projectile is proton or pion. The results are compared with the results of the VENUS-generated data for the above interactions which suggests that VENUS event generator is unable to reproduce the event-to-event fluctuations of spatial patterns of final states. A comparative study of $p$–AgBr interactions and $p–p$ collisions at 400 GeV/c from NA27, with the help of a quantitative parameter for the assessment of pion fluctuation, indicates conclusively that particle production process is more chaotic for hadron–nucleus interactions than for hadron–hadron interactions.</p>
 				</abstract>
 				<keywords>Hadron–nucleus interaction; erraticity; entropy index.</keywords>
 				<authors>
@@ -13014,7 +12932,7 @@
 				<feature></feature>
 				<page>1443-1456</page>
 				<abstract>
-					<p>This paper investigates the direct gigabit modulation characteristics of semiconductor lasers using the return to zero ({\bf RZ}) and non-return to zero ({\bf NRZ}) formats. The modulation characteristics include the frequency chirp, eye diagram, and turn-on jitter ({\bf TOJ}). The differences in the relative contributions of the intrinsic noise of the laser and the pseudorandom bit-pattern effect to the modulation characteristics are presented. We introduce an approximate estimation to the transient properties that control the digital modulation performance, namely, the modulation bit rate and the minimum (setting) bit rate required to yield a modulated laser signal free from the bit pattern effect. The results showed that the frequency chirp increases with the increase of the modulation current under both {\bf RZ} and {\bf NRZ} formats, and decreases remarkably with the increase of the bias current. The chirp is higher under the {\bf RZ} modulation format than under the {\bf NRZ} format. When the modulation bit rate is higher than the setting bit rate of the relaxation oscillation, the laser exhibits enhanced {\bf TOJ} and the eye diagram is partially closed. {\bf TOJ} decreases with the increase of the bias and/or modulation current for both formats of modulation.</p>
+					<p>This paper investigates the direct gigabit modulation characteristics of semiconductor lasers using the return to zero ({\bf RZ}) and non-return to zero ({\bf NRZ}) formats. The modulation characteristics include the frequency chirp, eye diagram, and turn-on jitter ({\bf TOJ}). The differences in the relative contributions of the intrinsic noise of the laser and the pseudorandom bit-pattern effect to the modulation characteristics are presented. We introduce an approximate estimation to the transient properties that control the digital modulation performance, namely, the modulation bit rate and the minimum (setting) bit rate required to yield a modulated laser signal free from the bit pattern effect. The results showed that the frequency chirp increases with the increase of the modulation current under both {\bf RZ} and {\bf NRZ} formats, and decreases remarkably with the increase of the bias current. The chirp is higher under the RZ modulation format than under the NRZ format. When the modulation bit rate is higher than the setting bit rate of the relaxation oscillation, the laser exhibits enhanced {\bf TOJ} and the eye diagram is partially closed. {\bf TOJ} decreases with the increase of the bias and/or modulation current for both formats of modulation.</p>
 				</abstract>
 				<keywords>Chirp; digital modulation; eye diagram; jitter; semiconductor laser; simulation.</keywords>
 				<authors>
@@ -13080,7 +12998,7 @@
 				<feature></feature>
 				<page>1471-1483</page>
 				<abstract>
-					<p>The main aim of the study of thin target foil–laser interaction experiments is to understand the physics of hydrodynamics of the foil acceleration, which is highly relevant to inertial confinement fusion ({\bf ICF}). This paper discusses a simple, inexpensive multiframe optical shadow-graphy diagnostics developed for dynamic imaging of high velocity laser-accelerated target foils of different thicknesses. The diagnostic has a spatial and temporal resolution of 12 $\mu$m and 500 ps respectively in the measurements. The target velocity is in the range of $10^{6} - 10^{7}$ cm/s. Hydrodynamic efficiency of such targets was measured by energy balance experiments together with the measurement of kinetic energy of the laser-driven targets. Effect of target foil thickness on the hydrodynamics of aluminum foils was studied for determining the optimum conditions for obtaining a directed kinetic energy transfer of the accelerated foil. The diagnostics has also been successfully used to study ablatively accelerated targets of other novel materials.</p>
+					<p>The main aim of the study of thin target foil–laser interaction experiments is to understand the physics of hydrodynamics of the foil acceleration, which is highly relevant to inertial confinement fusion (ICF). This paper discusses a simple, inexpensive multiframe optical shadow-graphy diagnostics developed for dynamic imaging of high velocity laser-accelerated target foils of different thicknesses. The diagnostic has a spatial and temporal resolution of 12 $\mu$m and 500 ps respectively in the measurements. The target velocity is in the range of $10^{6} - 10^{7}$ cm/s. Hydrodynamic efficiency of such targets was measured by energy balance experiments together with the measurement of kinetic energy of the laser-driven targets. Effect of target foil thickness on the hydrodynamics of aluminum foils was studied for determining the optimum conditions for obtaining a directed kinetic energy transfer of the accelerated foil. The diagnostics has also been successfully used to study ablatively accelerated targets of other novel materials.</p>
 				</abstract>
 				<keywords>Laser ablation; hydrodynamics; inertial confinement fusion; optical shadowgraphy.</keywords>
 				<authors>
@@ -13406,7 +13324,7 @@
 				<feature>Research Articles</feature>
 				<page>0061-0068</page>
 				<abstract>
-					<p>In this paper, we have obtained the solution of the unpolarized coupled Dokshitzer–Gribove–Lipatov–Alterelli–Parisi ({\bf DGLAP}) evolution equation in leading order at the small-$x$ limit. Here, we have used a Taylor series expansion, separation of functions and then the method of characteristics to solve the evolution equations. We have also calculated $t$-evolution of singlet and gluon distribution functions and the results are compared with {\bf E665} and {\bf NNPDF} data for singlet structure function and {\bf GRV1998} and {\bf MRST2004} gluon parametrizations. It is shown that our results are in good agreement with the parametrizations especially at small-x and high-$Q^{2}$ region. From global parametrizations and our results, we have seen that the singlet and gluon distribution functions increase when $Q^{2}$ increases for fixed values of $x$.</p>
+					<p>In this paper, we have obtained the solution of the unpolarized coupled Dokshitzer–Gribove–Lipatov–Alterelli–Parisi (DGLAP) evolution equation in leading order at the small-$x$ limit. Here, we have used a Taylor series expansion, separation of functions and then the method of characteristics to solve the evolution equations. We have also calculated $t$-evolution of singlet and gluon distribution functions and the results are compared with E665 and NNPDF data for singlet structure function and GRV1998 and MRST2004 gluon parametrizations. It is shown that our results are in good agreement with the parametrizations especially at small-x and high-$Q^{2}$ region. From global parametrizations and our results, we have seen that the singlet and gluon distribution functions increase when $Q^{2}$ increases for fixed values of $x$.</p>
 				</abstract>
 				<keywords>Deep inelastic scattering; Dokshitzer–Gribove–Lipatov–Alterelli–Parisi equation; small-$x$; method of characteristics; structure function.</keywords>
 				<authors>
@@ -13527,7 +13445,7 @@
 				<feature>Research Articles</feature>
 				<page>0105-0120</page>
 				<abstract>
-					<p>The small reactor design for the remote and less developed areas of the user countries should have simple features in view of the lack of infra-structure and resources. Many researchers consider long core life with no on-site refuelling activity as a primary feature for the small reactor design. Long core life can be achieved by enhancing internal conversion rate of fertile to fissile materials. For that purpose, thorium cycle can be adopted because a high fissile production rate of $^{233}$U converted from $^{232}$Th can be expected in the thermal energy region. A simple nuclear reactor core arranged 19 assemblies in hexagonal structure, using thorium-based fuel and heavy water as coolant and moderator was simulated using {\bf MCNPX2.6} code, aiming an optimized critical assembly. Optimized reflector thickness and gap between assemblies were determined to achieve minimum neutron leakage and void reactivity. The result was a more compact core, where assemblies were designed having 19-fuel pins in 1.25 pitch-to-diameter ratio. Optimum reflector thickness of 15 cm resulted in minimal neutron leakage in view of economic limitations. A 0.5 cm gap between assembles achieved more safety and $2.2\%$ enrichment requirements. The present feasibility study suggests a thermal core of acceptable neutronic parameters to achieve a simple and safe core.</p>
+					<p>The small reactor design for the remote and less developed areas of the user countries should have simple features in view of the lack of infra-structure and resources. Many researchers consider long core life with no on-site refuelling activity as a primary feature for the small reactor design. Long core life can be achieved by enhancing internal conversion rate of fertile to fissile materials. For that purpose, thorium cycle can be adopted because a high fissile production rate of $^{233}$U converted from $^{232}$Th can be expected in the thermal energy region. A simple nuclear reactor core arranged 19 assemblies in hexagonal structure, using thorium-based fuel and heavy water as coolant and moderator was simulated using MCNPX2.6 code, aiming an optimized critical assembly. Optimized reflector thickness and gap between assemblies were determined to achieve minimum neutron leakage and void reactivity. The result was a more compact core, where assemblies were designed having 19-fuel pins in 1.25 pitch-to-diameter ratio. Optimum reflector thickness of 15 cm resulted in minimal neutron leakage in view of economic limitations. A 0.5 cm gap between assembles achieved more safety and $2.2\%$ enrichment requirements. The present feasibility study suggests a thermal core of acceptable neutronic parameters to achieve a simple and safe core.</p>
 				</abstract>
 				<keywords>Critical; MCNPX2.6; reactor core; thorium oxide.</keywords>
 				<authors>
@@ -13654,7 +13572,7 @@
 				<feature>Research Articles</feature>
 				<page>0133-0141</page>
 				<abstract>
-					<p>Polyethersulphone (PES) was modified to improve the hydrophilicity of its surface, which in turn helps in improving its adhesive property. The modified {\bf PES} surface was characterized by contact angle measurement, X-ray photoelectron spectroscopy ({\bf XPS}), atomic force microscopy ({\bf AFM}) and Vicker’s microhardness measurement. The contact angles of the modified {\bf PES} reduces from $49^{\circ}$ to $10^{\circ}$ for water. The surface free energy ({\bf SFE}) calculated from measured contact angles increases from 66.3 to 79.5 mJ/m$^{2}$ with the increase in plasma treatment time. The increase in {\bf SFE} after plasma treatment is attributed to the functionalization of the polymer surface with hydrophilic groups. The {\bf XPS} analysis shows that the ratio of {\bf O/C} increases from 0.177 to 0.277 for modified PES polymer. AFM shows that the average surface roughness increases from 6.9 nm to 23.7 nm due to the increase in plasma treatment time. The microhardness of the film also increases with plasma treatment.</p>
+					<p>Polyethersulphone (PES) was modified to improve the hydrophilicity of its surface, which in turn helps in improving its adhesive property. The modified PES surface was characterized by contact angle measurement, X-ray photoelectron spectroscopy (XPS), atomic force microscopy (AFM) and Vicker’s microhardness measurement. The contact angles of the modified PES reduces from $49^{\circ}$ to $10^{\circ}$ for water. The surface free energy (SFE) calculated from measured contact angles increases from 66.3 to 79.5 mJ/m$^{2}$ with the increase in plasma treatment time. The increase in SFE after plasma treatment is attributed to the functionalization of the polymer surface with hydrophilic groups. The XPS analysis shows that the ratio of O/C increases from 0.177 to 0.277 for modified PES polymer. AFM shows that the average surface roughness increases from 6.9 nm to 23.7 nm due to the increase in plasma treatment time. The microhardness of the film also increases with plasma treatment.</p>
 				</abstract>
 				<keywords>Polyethersulphone; Ar plasma; surface energy; X-ray photoelectron spectroscopy; atomic force microscopy; microhardness.</keywords>
 				<authors>
@@ -14077,7 +13995,7 @@
 				<feature>Research Articles</feature>
 				<page>0277-0282</page>
 				<abstract>
-					<p>Transport of high current ($\sim$kA range with particle energy $\sim 1$ MeV) planar electron beams is a topic of increasing interest for applications in high-power (1–10 GW) and high-frequency (10–20 GHz) microwave devices such as backward wave oscillator ({\bf BWO}), klystrons, gyro-{\bf BWO}s, etc. In this paper, we give a simulated result for transport of electron beams with velocity  $V_{b} = 5.23 \times 10^{8}$ cm s$^{−1}$ , relativistic factor $\gamma = 1.16$, and beam voltage = $\sim$80 kV in notched wiggler magnet array. The calculation includes self-consistent effects of beam-generated fields. Our results show that the notched wiggler configuration with $\sim$6.97 kG magnetic field strength can provide vertical and horizontal confinements for a sheet electron beam with 0.3 cm thickness and 2 cm width. The feasibility calculation addresses to a system expected to drive for 13–20 GHz {\bf BWO} with rippled waveguide parameters as width $w = 3.0$ cm, thickness $t = 1.0$ cm, corrugation depth $h = 0.225$ cm, and spatial periodicity $d = 1.67$ cm.</p>
+					<p>Transport of high current ($\sim$kA range with particle energy $\sim 1$ MeV) planar electron beams is a topic of increasing interest for applications in high-power (1–10 GW) and high-frequency (10–20 GHz) microwave devices such as backward wave oscillator (BWO), klystrons, gyro-BWOs, etc. In this paper, we give a simulated result for transport of electron beams with velocity  $V_{b} = 5.23 \times 10^{8}$ cm s$^{−1}$ , relativistic factor $\gamma = 1.16$, and beam voltage = $\sim$80 kV in notched wiggler magnet array. The calculation includes self-consistent effects of beam-generated fields. Our results show that the notched wiggler configuration with $\sim$6.97 kG magnetic field strength can provide vertical and horizontal confinements for a sheet electron beam with 0.3 cm thickness and 2 cm width. The feasibility calculation addresses to a system expected to drive for 13–20 GHz BWO with rippled waveguide parameters as width $w = 3.0$ cm, thickness $t = 1.0$ cm, corrugation depth $h = 0.225$ cm, and spatial periodicity $d = 1.67$ cm.</p>
 				</abstract>
 				<keywords>Sheet beams; wiggler magnetic field; beam focussing.</keywords>
 				<authors>
@@ -14330,7 +14248,7 @@
 				<feature>Brief Reports</feature>
 				<page>0355-0360</page>
 				<abstract>
-					<p>The nuclear structures of $^{18}$O and $^{18}$F nuclei are studied using particle–particle Tamm–Dancoff approximation ({\bf pp TDA}) and particle–particle random phase approximation ({\bf pp RPA}). All possible single-particle states of the allowed angular momenta are considered in the {\bf 0p} and 1s–{\bf 0d} shells. The Hamiltonian is diagonalized in the presence of Warburton and Brown interactions. The results containing energy-level schemes and transition strength $B(E2)$ are compared with the available experimental data.</p>
+					<p>The nuclear structures of $^{18}$O and $^{18}$F nuclei are studied using particle–particle Tamm–Dancoff approximation (pp TDA) and particle–particle random phase approximation (pp RPA). All possible single-particle states of the allowed angular momenta are considered in the 0p and 1s–0d shells. The Hamiltonian is diagonalized in the presence of Warburton and Brown interactions. The results containing energy-level schemes and transition strength $B(E2)$ are compared with the available experimental data.</p>
 				</abstract>
 				<keywords>Nuclear structure; collective excitations and transition strength.</keywords>
 				<authors>
@@ -14386,7 +14304,7 @@
 				<feature>Review</feature>
 				<page>0369-0412</page>
 				<abstract>
-					<p>Effects of universal extra dimensions on Standard Model observables first arise at the one-loop level. The quantization of this class of theories is therefore essential in order to perform predictions. A comprehensive study of the $SU_{C}(3) \times SU_{L}(2) \times U_{Y}(1)$ Standard Model defined in a space-time manifold with one universal extra dimension, compactified on the oribifold $S^{1}/Z_{2}$, is presented. The fact that the four-dimensional Kaluza–Klein theory is subjected to two types of gauge transformations is stressed and its quantization under the basis of the {\bf BRST} symmetry discussed. $A SU_{C}(3) \times SU_{L}(2) \times U_{Y}(1)$-covariant gauge-fixing procedure for the Kaluza–Klein excitations is introduced. The connection between gauge and mass eigenstate fields is established in an exact way. An exhaustive list of the explicit expressions for all physical couplings induced by the Yang–Mills, Currents, Higgs, and Yukawa sectors is presented. The one-loop renormalizability of the standard Green’s functions, which implies that the Standard Model observables do not depend on a cut-off scale, is stressed.</p>
+					<p>Effects of universal extra dimensions on Standard Model observables first arise at the one-loop level. The quantization of this class of theories is therefore essential in order to perform predictions. A comprehensive study of the $SU_{C}(3) \times SU_{L}(2) \times U_{Y}(1)$ Standard Model defined in a space-time manifold with one universal extra dimension, compactified on the oribifold $S^{1}/Z_{2}$, is presented. The fact that the four-dimensional Kaluza–Klein theory is subjected to two types of gauge transformations is stressed and its quantization under the basis of the BRST symmetry discussed. $A SU_{C}(3) \times SU_{L}(2) \times U_{Y}(1)$-covariant gauge-fixing procedure for the Kaluza–Klein excitations is introduced. The connection between gauge and mass eigenstate fields is established in an exact way. An exhaustive list of the explicit expressions for all physical couplings induced by the Yang–Mills, Currents, Higgs, and Yukawa sectors is presented. The one-loop renormalizability of the standard Green’s functions, which implies that the Standard Model observables do not depend on a cut-off scale, is stressed.</p>
 				</abstract>
 				<keywords>Extra dimensions; Standard Model.</keywords>
 				<authors>
@@ -15815,7 +15733,7 @@
 				<feature></feature>
 				<page>0995-1010</page>
 				<abstract>
-					<p>We have theoretically investigated the high harmonic generation ({\bf HHG}) spectra of H$_{2}^{+}$ and HD$^{+}$ using a time-dependent wave packet approach for the nuclear motion with pulsed lasers of peak intensities $(I_{0})$ of $3.5 \times 10^{14}$ and $4.5 \times 10^{14}$ W/cm$^{2}$, wavelengths ($\lambda_{L}$) of 800 and 1064 nm, and pulse durations $(T)$ of 40 and 50 fs, for initial vibrational levels $\nu_{0} = 0$ and 1. We have argued that for these conditions the harmonic generation due to the transitions in the electronic continuum by tunnelling or multiphoton ionization will not be important. Thus, the characteristic features of {\bf HHG} spectra in our model arise only due to the nuclear motions on the two lowest field-coupled electronic states between which both interelectronic and intraelectronic (due to intrinsic dipole moments, for HD$^{+}$) radiative transitions can take place. For HD$^{+}$, the effect of nonadiabatic ({\bf NA}) interaction between the two lowest Born–Oppenheimer ({\bf BO}) electronic states has been taken into account and comparison has been made with the {\bf HHG} spectra of HD$^{+}$ obtained in the {\bf BO} approximation. Even harmonics and a second plateau in the {\bf HHG} spectra of HD$^{+}$ with the {\bf NA} interaction and hyper-Raman lines in the spectra of both H$_{2}^{+}$ and HD$^{+}$ for $\nu_{0} = 1$ have been observed for higher value of $I_{0}$ or $\lambda_{L}$. Our calculations indicate reasonable efficiencies of harmonic generation even without involving the electronic continuum.</p>
+					<p>We have theoretically investigated the high harmonic generation (HHG) spectra of H$_{2}^{+}$ and HD$^{+}$ using a time-dependent wave packet approach for the nuclear motion with pulsed lasers of peak intensities $(I_{0})$ of $3.5 \times 10^{14}$ and $4.5 \times 10^{14}$ W/cm$^{2}$, wavelengths ($\lambda_{L}$) of 800 and 1064 nm, and pulse durations $(T)$ of 40 and 50 fs, for initial vibrational levels $\nu_{0} = 0$ and 1. We have argued that for these conditions the harmonic generation due to the transitions in the electronic continuum by tunnelling or multiphoton ionization will not be important. Thus, the characteristic features of HHG spectra in our model arise only due to the nuclear motions on the two lowest field-coupled electronic states between which both interelectronic and intraelectronic (due to intrinsic dipole moments, for HD$^{+}$) radiative transitions can take place. For HD$^{+}$, the effect of nonadiabatic (NA) interaction between the two lowest Born–Oppenheimer (BO) electronic states has been taken into account and comparison has been made with the HHG spectra of HD$^{+}$ obtained in the BO approximation. Even harmonics and a second plateau in the HHG spectra of HD$^{+}$ with the NA interaction and hyper-Raman lines in the spectra of both H$_{2}^{+}$ and HD$^{+}$ for $\nu_{0} = 1$ have been observed for higher value of $I_{0}$ or $\lambda_{L}$. Our calculations indicate reasonable efficiencies of harmonic generation even without involving the electronic continuum.</p>
 				</abstract>
 				<keywords>High harmonic generation; H$_{2}^{+}$ ; HD$^{+}$; wave packet; nonadiabatic interaction.</keywords>
 				<authors>
@@ -15965,7 +15883,7 @@
 				<feature></feature>
 				<page>1055-1064</page>
 				<abstract>
-					<p>$^{1}${\bf H MAS NMR} spectra of Bi$_{0.05}$Eu$_{0.05}$Y$_{0.90}$PO$_{4}$·$x$H$_{2}$O show chemical shift from −0.56 ppm at 300 {\bf K} to −3.8 ppm at 215 {\bf K} and another one at 5–6 ppm, which are related to the confined or interstitial water in the hexagonal structure and water molecules on the surface of the particles, respectively. Negative value of the chemical shift indicates that {\bf H} of {\bf H$_{2}$O} is closer to metal ions (Y$^{3+}$ or Eu$^{3+}$), which is a source of luminescence quencher. {\bf H} coupling and decoupling $^{31}${\bf P MAS NMR} spectra at 300 and 250 {\bf K} show the same chemical shift (−0.4 ppm) indicating that there is no direct bond between {\bf P} and {\bf H}. It is concluded that the confined water is not frozen even at 215 {\bf K} because of the less number of H-bonding.</p>
+					<p>${}^{1}$H MAS NMR spectra of Bi$_{0.05}$Eu$_{0.05}$Y$_{0.90}$PO$_{4}$·$x$H$_{2}$O show chemical shift from −0.56 ppm at 300 K to −3.8 ppm at 215 K and another one at 5–6 ppm, which are related to the confined or interstitial water in the hexagonal structure and water molecules on the surface of the particles, respectively. Negative value of the chemical shift indicates that H of {\bf H$_{2}$O} is closer to metal ions (Y$^{3+}$ or Eu$^{3+}$), which is a source of luminescence quencher. H coupling and decoupling $^{31}$P MAS NMR spectra at 300 and 250 K show the same chemical shift (−0.4 ppm) indicating that there is no direct bond between P and H. It is concluded that the confined water is not frozen even at 215 K because of the less number of H-bonding.</p>
 				</abstract>
 				<keywords>Confined water; hexagonal structure; luminescence.</keywords>
 				<authors>
