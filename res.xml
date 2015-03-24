@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/xsl" href="style.xsl"?>
 
 <journal title="Resonance - Journal of Science Education" short="Resonance" mnemonic="res">
-	<volume vnum="01">
+	<volume vnum="001">
 		<issue inum="01" month="01" year="1996">
 			<entry hassup="0">
 				<title>A New Venture</title>
@@ -102,7 +102,7 @@
 				<authors>
 					<author>
 						<name first="R. K." last="Shyamasundar">R. K. Shyamasundar</name>
-						<affiliation>Computer Science Group, Toto Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005, India.</affiliation>
+						<affiliation>Computer Science Group, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -120,7 +120,7 @@
 				<authors>
 					<author>
 						<name first="Subramania" last="Ranganathan">Subramania Ranganathan</name>
-						<affiliation>Senior Scientist (lNSA) Biomolecular Research Unit, Regional Research Laboratory, Thiruvananthapuram 695 019, India</affiliation>
+						<affiliation>Senior Scientist (INSA) Biomolecular Research Unit, Regional Research Laboratory, Thiruvananthapuram 695 019, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -173,7 +173,7 @@
 				<page>0048-0055</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation>Supercomputer Education and Research Centre, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
@@ -192,7 +192,7 @@
 				<authors>
 					<author>
 						<name first="N. R." last="Krishnaswamy">N. R. Krishnaswamy</name>
-						<affiliation>Visiting Professor, NMKRV College for Women with PG Centre, Jayanagar 11/ Block. Bangalore 560011, India.</affiliation>
+						<affiliation>Visiting Professor, NMKRV College for Women with PG Centre, Jayanagar III Block. Bangalore 560011, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -210,7 +210,7 @@
 				<authors>
 					<author>
 						<name first="Raghavendra" last="Gadagkar">Raghavendra Gadagkar</name>
-						<affiliation>Centre for Ecological Sciences, Indian InstHute of Science, Bangalore 560012, India.</affiliation>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -264,7 +264,7 @@
 				<authors>
 					<author>
 						<name first="M. D. Subash" last="Chandran">M. D. Subash Chandran</name>
-						<affiliation>Centre for Ecological Sciences, Indian Institute of SCience, Bangalore 560 012, India.</affiliation>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -282,7 +282,7 @@
 				<authors>
 					<author>
 						<name first="Uday" last="Maitra">Uday Maitra</name>
-						<affiliation>Department of Organic Chemistry, Indian Institute of SCience, Bangolore 560 012, India.</affiliation>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -341,7 +341,7 @@
 				<authors>
 					<author>
 						<name first="Photon" last="Rao">Photon Rao</name>
-						<affiliation>Integrated Ph.D. student in the Department of Organic Chemistry, Indian Institute of SCience, Bangolore 560 012, India.</affiliation>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -359,7 +359,7 @@
 				<authors>
 					<author>
 						<name first="Sanjeev" last="Galande">Sanjeev Galande</name>
-						<affiliation>Research scholar at the Department of Organic Chemistry, Indian Institute of SCience, Bangolore 560 012, India.</affiliation>
+						<affiliation>Department of Organic Chemistry, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -470,24 +470,28 @@
 				<feature>Books Received</feature>
 				<page>0118-0118</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>India to host 1996 IMO 1994 Fields Medals 1995 Nobel Prizes</title>
 				<feature>Information and Announcements</feature>
 				<page>0119-0121</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0124-0124</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Pierre-Simon de Fermat (1601-1665)</title>
 				<feature>Featured Scientist</feature>
 				<page>0130-0130</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="1996">
@@ -534,7 +538,8 @@
 				<authors>
 					<author>
 						<name first="Roddam" last="Narasimha">Roddam Narasimha</name>
-						<affiliation>Indian Institute of Science/jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore 560012, India.</affiliation>
+						<affiliation>Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<affiliation>Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -552,7 +557,7 @@
 				<authors>
 					<author>
 						<name first="Jayant V." last="Narlikar">Jayant V. Narlikar</name>
-						<affiliation>Jayant V Narlikar IUCAA, PB No. 4, Ganeshkhind, Pune 411 007, India</affiliation>
+						<affiliation>IUCAA, PB No. 4, Ganeshkhind, Pune 411 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -605,7 +610,7 @@
 				<page>0032-0039</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation>Supercomputer Education and Research Centre, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
@@ -642,12 +647,12 @@
 				<authors>
 					<author>
 						<name first="Jitendra R." last="Raol">Jitendra R. Raol</name>
-						<affiliation>Flight Mechanics and Control Division, National Aerospace laboratories, PB 1779, Bangalore 560017, India.</affiliation>
+						<affiliation>Flight Mechanics and Control Division, National Aerospace Laboratories, PB 1779, Bangalore 560017, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Sunilkumar S." last="Mankame">Sunilkumar S. Mankame</name>
-						<affiliation></affiliation>
+						<affiliation>Regional Engineering College, Calicut</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -665,7 +670,7 @@
 				<authors>
 					<author>
 						<name first="Rajeeva L." last="Karandikar">Rajeeva L. Karandikar</name>
-						<affiliation>Statistics and Mathematics Unit, Indian Statistical Institute, 7 S J S Sansanwal Marg New Delhi 110 016, India.</affiliation>
+						<affiliation>Statistics and Mathematics Unit, Indian Statistical Institute, 7 S J S Sansanwal Marg, New Delhi 110 016, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -736,8 +741,8 @@
 				<page>0084-0089</page>
 				<authors>
 					<author>
-						<name first="Milind G." last="Watve">Milind G. Watve</name>
-						<affiliation>Abasaheb Garware College, Karve Road, Pune 411 004, India.</affiliation>
+						<name first="Milind" last="Watve">Milind Watve</name>
+						<affiliation>M E Society, Abasaheb Garware College, Karve Road, Pune 411 004, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -903,24 +908,28 @@
 				<feature>Books Received</feature>
 				<page>0120-0120</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Integrated Ph. D. Programme in Biological, Chemical and Physical Sciences at Indian Institute of Sciences Introductory Summer School on Astronomy and Astrophysics.</title>
 				<feature>Information and Announcements</feature>
 				<page>0121-0125</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0128-0128</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Satyendra Nath Bose (1894-1974)</title>
 				<feature>Featured Scientist</feature>
 				<page>0130-0130</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="1996">
@@ -967,7 +976,7 @@
 				<authors>
 					<author>
 						<name first="Jayant V." last="Narlikar">Jayant V. Narlikar</name>
-						<affiliation>IUCM, PB No.4, Ganeshkhind, Pune 411 007, India</affiliation>
+						<affiliation>IUCAA, PB No.4, Ganeshkhind, Pune 411 007, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -985,7 +994,7 @@
 				<authors>
 					<author>
 						<name first="R. K." last="Shyamasundar">R. K. Shyamasundar</name>
-						<affiliation>Computer Science Group, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005, India.</affiliation>
+						<affiliation>Computer Science Group, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1075,7 +1084,7 @@
 				<authors>
 					<author>
 						<name first="L." last="Geetha">L. Geetha</name>
-						<affiliation>Centre for Ecological Sciences Indian Institute of Science Bangalore 560 012, India.</affiliation>
+						<affiliation>Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1163,12 +1172,14 @@
 				<feature>Classroom</feature>
 				<page>0114-0114</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Hydrocarbon Acts Funny!</title>
 				<feature>Think It Over</feature>
 				<page>0115-0115</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The 1995 Nobel Prize in Physiology or Medicine - Flies Take Off at Last!</title>
@@ -1229,24 +1240,28 @@
 				<feature>Books Received</feature>
 				<page>0125-0125</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Academy Initiative in University Education.</title>
 				<feature>Information and Announcements</feature>
 				<page>0125-0125</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0128-0128</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Robert Burns Woodward (1917-1979)</title>
 				<feature>Featured Scientist</feature>
 				<page>0130-0130</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="1996">
@@ -1346,8 +1361,8 @@
 				<page>0031-0036</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
-						<affiliation>Supercomputer Education and Research Centre, Indian Institute of SCience, Bangalore 560 012, India.</affiliation>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
+						<affiliation>Supercomputer Education and Research Centre, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1417,12 +1432,14 @@
 				<feature>Classroom</feature>
 				<page>0061-0063</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Customers in a Book Exhibition / Self-Copying Program / Discussion on questions raised in Vol. 1. No. 1.</title>
 				<feature>Think It Over</feature>
 				<page>0064-0066</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The Origins of Science Thales' Leap</title>
@@ -1556,12 +1573,14 @@
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Charles Robert Darwin (1809-1882)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="1996">
@@ -1685,7 +1704,7 @@
 					</author>
 					<author>
 						<name first="T. S. K. V." last="Iyer">T. S. K. V. Iyer</name>
-						<affiliation></affiliation>
+						<affiliation>Birla Institute of Technology and Science, Pilani.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -1778,12 +1797,14 @@
 				<feature>Classroom</feature>
 				<page>0071-0078</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Capillarity / To Switch or Not to Switch.</title>
 				<feature>Think It Over</feature>
 				<page>0079-0081</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Evidence for Bird Mafia!</title>
@@ -1869,24 +1890,28 @@
 				<feature>Books Received</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>37th International Mathematical Olympiad / Indian Statistical Institute</title>
 				<feature>Information and Announcements</feature>
 				<page>0092-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0095-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John Von Neumann (1903-1957)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="1996">
@@ -2098,12 +2123,14 @@
 				<feature>Classroom</feature>
 				<page>0077-0078</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Problem of the vacillating mathematician / Batteries</title>
 				<feature>Think It Over</feature>
 				<page>0079-0080</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The Origins of Science After Thales</title>
@@ -2164,6 +2191,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="1996">
@@ -2227,7 +2255,7 @@
 				<page>0016-0022</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -2352,12 +2380,14 @@
 				<feature>Classroom</feature>
 				<page>0071-0073</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>100 kgs with 5 stones / Finding the Odd Ball / The Dwarf / Discussion of Questions raised in Vol 1, N04.</title>
 				<feature>Think It Over</feature>
 				<page>0074-0078</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Memory as a Life - Walking down Memory Lanes</title>
@@ -2384,7 +2414,7 @@
 				<authors>
 					<author>
 						<name first="Hermann" last="Bondi">Hermann Bondi</name>
-						<affiliation></affiliation>
+						<affiliation>Churchhill College, Cambridge.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -2400,18 +2430,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Erwin Bunning (1906-1990)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="1996">
@@ -2628,12 +2661,14 @@
 				<feature>Classroom</feature>
 				<page>0071-0077</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Self-Copying Program</title>
 				<feature>Think It Over</feature>
 				<page>0078-0081</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>New Orbital Hybridization Schemes for Metal Hydrides - Keeping p Orbitals out of the Picture</title>
@@ -2694,24 +2729,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0090-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Books Received</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Harish-Chandra (1923-1983)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="1996">
@@ -2959,6 +2998,7 @@
 				<feature>Think It Over</feature>
 				<page>0080-0082</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Galaxies — Off to a Flying Start? New Telescopes Tell us Stars Were Made Very Early</title>
@@ -3019,18 +3059,21 @@
 				<feature>Books Received</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sonya Vasilievna Krukovskaya (1850-1891)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="1996">
@@ -3309,18 +3352,21 @@
 				<feature></feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Errata</title>
 				<feature>Errata</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Barbara McClintock (1902-1992)</title>
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="1996">
@@ -3420,7 +3466,7 @@
 				<page>0018-0028</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation>Supercomputer Education and Research Centre Indian Institute of Science Bangalore 560 012, India</affiliation>
 						<email>ghoshal@serc.iisc .ernet.in, Fax : (080) 334 1683</email>
 					</author>
@@ -3580,13 +3626,7 @@
 				<title>This section of Resonance is meant to raise thought-provoking</title>
 				<feature>Think It Over</feature>
 				<page>0092-0092</page>
-				<authors>
-					<author>
-						<name first="C. G." last="Ramankutty">C. G. Ramankutty</name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -3599,23 +3639,13 @@
 				<feature>Information and Announcements</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Course Programme</title>
 				<feature>Information and Announcements</feature>
 				<page>0093-0093</page>
-				<authors>
-					<author>
-						<name first="Geetha" last="Iyer">Geetha Iyer</name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="Keshav" last="Mukunda">Keshav Mukunda</name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
 				<dates>
 					<date type="M"></date>
 					<date type="R"></date>
@@ -3628,18 +3658,21 @@
 				<feature></feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Books Received</feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Karl Raimund Popper (1902-1994)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="1996">
@@ -3918,16 +3951,18 @@
 				<feature>Information and Announcements</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Srinivasa Ramanujan (1887-1920)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="02">
+	<volume vnum="002">
 		<issue inum="01" month="01" year="1997">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -4142,6 +4177,7 @@
 				<feature>Think It Over</feature>
 				<page>0066-0067</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Discovery of Fullerenes Giving a New Shape to Carbon Chemistry</title>
@@ -4186,12 +4222,7 @@
 				<authors>
 					<author>
 						<name first="A. K." last="Vijaykumar">A. K. Vijaykumar</name>
-						<affiliation></affiliation>
-						<email></email>
-					</author>
-					<author>
-						<name first="R." last="Nityananda">R. Nityananda</name>
-						<affiliation></affiliation>
+						<affiliation>3104, Sector 35-D, Chandigarh 160 022, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -4208,7 +4239,7 @@
 				<page>0081-0094</page>
 				<authors>
 					<author>
-						<name first="Salim" last="Ali">Salim Ali</name>
+						<name first="Sálim" last="Ali">Sálim Ali</name>
 						<affiliation></affiliation>
 						<email></email>
 					</author>
@@ -4225,18 +4256,21 @@
 				<feature></feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Information and Announcements</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Salim Moizuddin Abdul Ali (1896-1987)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="1997">
@@ -4359,7 +4393,7 @@
 				<page>0025-0033</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation>Supercomputer Education and Research Centre Indian Institute of Science Bangalore 560 012, India</affiliation>
 						<email>ghoshal@serc.iisc.ernet.in, Fax: (080) 334 1683</email>
 					</author>
@@ -4584,24 +4618,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Books Received</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Thomas Samuel Kuhn (1922-1996)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="1997">
@@ -4957,18 +4995,21 @@
 				<feature></feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Books Received</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Gottfried Wilhelm Leibniz (1646-1716)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="1997">
@@ -5275,12 +5316,14 @@
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S Chandrasekhar (1910-1995)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="1997">
@@ -5380,7 +5423,7 @@
 				<page>0015-0022</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation>Supercomputer Education and Research Centre, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email>ghoshal@serc.iisc.ernet.in, Fax: (080) 334 1683</email>
 					</author>
@@ -5636,12 +5679,14 @@
 				<feature></feature>
 				<page>0088-0088</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Leonhard Euler (1707-1783)</title>
 				<feature>Featured Scientist</feature>
 				<page>0090-0090</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="1997">
@@ -5936,6 +5981,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="1997">
@@ -6089,7 +6135,7 @@
 				<page>0048-0054</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation>Supercomputer Education and Research Centre, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email>ghoshal@serc.iisc.ernet.in, Fax: (080) 334 1683</email>
 					</author>
@@ -6262,7 +6308,7 @@
 						<email></email>
 					</author>
 					<author>
-						<name first="Milind G." last="Watve">Milind G. Watve</name>
+						<name first="Milind" last="Watve">Milind Watve</name>
 						<affiliation>Life Research Foundation, Pune.</affiliation>
 						<email></email>
 					</author>
@@ -6297,24 +6343,28 @@
 				<feature></feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Books Received</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Indian Team to the 38th International Mathematical Olympiad</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Alan Mathison Turing (1912-1954)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="1997">
@@ -6672,12 +6722,14 @@
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Jean-Victor Poncelet (1788-1867)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="1997">
@@ -6746,8 +6798,8 @@
 				<page>0011-0017</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
-						<affiliation>Supercomputer Education and Research Centre Indian Institute of Science Bangolore 560 012, India</affiliation>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
+						<affiliation>Supercomputer Education and Research Centre Indian Institute of Science Bangalore 560 012, India</affiliation>
 						<email>ghoshal@serc.iisc.ernet.in, Fax: (080) 334 1683</email>
 					</author>
 				</authors>
@@ -7038,12 +7090,14 @@
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ronald Aylmer Fisher (1890-1962)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="1997">
@@ -7185,7 +7239,7 @@
 				<authors>
 					<author>
 						<name first="D. P. Sen" last="Gupta">D. P. Sen Gupta</name>
-						<affiliation>Department of Electrical Engineering, Indian Institute of Science, Bangolore 560 012, India</affiliation>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7220,18 +7274,18 @@
 				<page>0062-0068</page>
 				<authors>
 					<author>
-						<name first="T. S. K. V." last="Iyer">T. S. K. V. Iyer</name>
-						<affiliation></affiliation>
+						<name first="Balakrishnan" last="Ramasamy">Balakrishnan Ramasamy</name>
+						<affiliation>BITS, Pilani.</affiliation>
 						<email></email>
 					</author>
 					<author>
-						<name first="Balakrishnan" last="Ramasamy">Balakrishnan Ramasamy</name>
-						<affiliation></affiliation>
+						<name first="T. S. K. V." last="Iyer">T. S. K. V. Iyer</name>
+						<affiliation>BITS, Pilani.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="P." last="Varadharajan">P. Varadharajan</name>
-						<affiliation></affiliation>
+						<affiliation>BITS, Pilani.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -7374,12 +7428,14 @@
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Linus Carl Pauling (1901-1994)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="1997">
@@ -7466,7 +7522,7 @@
 				<page>0014-0022</page>
 				<authors>
 					<author>
-						<name first="S. K." last="Ghoshal">S. K. Ghoshal</name>
+						<name first="Siddhartha Kumar" last="Ghoshal">Siddhartha Kumar Ghoshal</name>
 						<affiliation>Supercomputer Education and Research Centre, Indian Institute of Science, Bangalore 560 012, India</affiliation>
 						<email>ghoshal@serc.iisc.ernet.in, Fax:(080) 334 1683</email>
 					</author>
@@ -7714,6 +7770,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0111-0111</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Addendum to 'Nilakantha, Euler and pai'</title>
@@ -7738,12 +7795,14 @@
 				<feature></feature>
 				<page>0112-0112</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Chandrasekhara Venkata Raman (1888-1970)</title>
 				<feature>Featured Scientist</feature>
 				<page>0114-0114</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="1997">
@@ -8029,16 +8088,18 @@
 				<feature></feature>
 				<page>0112-0112</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Joseph John Thomson (1856-1940)</title>
 				<feature>Featured Scientist</feature>
 				<page>0114-0114</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="03">
+	<volume vnum="003">
 		<issue inum="01" month="01" year="1998">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -8320,30 +8381,35 @@
 				<feature>Reflections</feature>
 				<page>0089-0090</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>IUC-DAEF</title>
 				<feature>Information and Announcements</feature>
 				<page>0091-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Third Annual Internatio-nal Environmental Essay Contest</title>
 				<feature>Information and Announcements</feature>
 				<page>0094-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Abdus Salam (1926-1996)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="1998">
@@ -8673,12 +8739,14 @@
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Jagadis Chandra Bose (1858-1937)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="1998">
@@ -9034,18 +9102,21 @@
 				<feature></feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Books Received</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Paul Erdos (1913-1996)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="1998">
@@ -9303,12 +9374,14 @@
 				<feature></feature>
 				<page>0112-0112</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Andrei Nikolaevich Kolmogorov (1903-1987)</title>
 				<feature>Featured Scientist</feature>
 				<page>0114-0114</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="1998">
@@ -9587,6 +9660,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="1998">
@@ -9947,6 +10021,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="1998">
@@ -10225,6 +10300,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="1998">
@@ -10478,6 +10554,7 @@
 				<feature></feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Inter-University Centre for Astronomy and Astrophysics (IUCAA)</title>
@@ -10502,6 +10579,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="1998">
@@ -10823,18 +10901,21 @@
 				<feature>Books Received</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Amalie Emmy Noether (1882-1935)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="1998">
@@ -11097,6 +11178,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="1998">
@@ -11375,18 +11457,21 @@
 				<feature></feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Nobel Prizes – 1998</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Seymour Cray (1925-1996)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="1998">
@@ -11506,7 +11591,8 @@
 				<authors>
 					<author>
 						<name first="V." last="Rajaraman">V. Rajaraman</name>
-						<affiliation>IBM Professor of Information Technology, Jawaharlal Nehru Centre for Advanced Scientific Research and Hon.Professor, Supercomputer Education &amp; Research Centre Indian Institute of Science, Bangolore 560012, India</affiliation>
+						<affiliation>IBM Professor of Information Technology, Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore 560012, India</affiliation>
+						<affiliation>Hon.Professor, Supercomputer Education &amp; Research Centre Indian Institute of Science, Bangalore 560012, India</affiliation>
 						<email>rajaram@serc.iisc.ernet.in</email>
 					</author>
 				</authors>
@@ -11684,28 +11770,32 @@
 				<feature></feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0111-0114</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0114-0120</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>J B S Haldane (1892-1964)</title>
 				<feature>Featured Scientist</feature>
 				<page>0122-0122</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="04">
+	<volume vnum="004">
 		<issue inum="01" month="01" year="1999">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -12043,12 +12133,14 @@
 				<feature></feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Norbert Wiener (1894-1964)</title>
 				<feature>Featured Scientist</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="1999">
@@ -12387,6 +12479,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="1999">
@@ -12708,6 +12801,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="1999">
@@ -13050,6 +13144,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="1999">
@@ -13317,12 +13412,14 @@
 				<feature></feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Andre Weil (1906-1998)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="1999">
@@ -13583,6 +13680,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="1999">
@@ -13876,6 +13974,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="1999">
@@ -14154,6 +14253,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0114-0114</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="1999">
@@ -14458,6 +14558,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="1999">
@@ -14721,12 +14822,14 @@
 				<feature>Classics</feature>
 				<page>0093-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Evariste Galois (1811-1832)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="1999">
@@ -14993,12 +15096,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0103-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Max Delbruck (1906-1981)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="1999">
@@ -15269,10 +15374,11 @@
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="05">
+	<volume vnum="005">
 		<issue inum="01" month="01" year="2000">
 			<entry hassup="0">
 				<title>Editorial / Associate Editor’s Column</title>
@@ -15495,18 +15601,21 @@
 				<feature>Book Review</feature>
 				<page>0107-0107</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Book Review</feature>
 				<page>0108-0108</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Thomas Alva Edison (1847-1931)</title>
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2000">
@@ -15832,12 +15941,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Henri Poincare (1854-1912)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2000">
@@ -16099,6 +16210,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2000">
@@ -16381,12 +16493,14 @@
 				<feature>Classics</feature>
 				<page>0121-0122</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Albert Einstein (1879-1955)</title>
 				<feature>Featured Scientist</feature>
 				<page>0125-0125</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2000">
@@ -16706,12 +16820,14 @@
 				<feature>Classics</feature>
 				<page>0104-0108</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Dmitrii Ivanovich Mendeleev (1834-1907)</title>
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2000">
@@ -16964,12 +17080,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Karl von Linne (Carolus Linnaeus) (1707-1778)</title>
 				<feature>Featured Scientist</feature>
 				<page>0109-0109</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2000">
@@ -17066,7 +17184,7 @@
 			<entry hassup="0">
 				<title>Ionosphere and its Influence on Radio Communications</title>
 				<feature>General Article</feature>
-				<page>0028-0044</page>
+				<page>0028-0043</page>
 				<authors>
 					<author>
 						<name first="R. S." last="Dabas">R. S. Dabas</name>
@@ -17236,12 +17354,14 @@
 				<feature></feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sisir Kumar Mitra (1889-1963)</title>
 				<feature>Featured Scientist</feature>
 				<page>0109-0109</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2000">
@@ -17293,12 +17413,12 @@
 					</author>
 					<author>
 						<name first="G." last="Hariprasad">G. Hariprasad</name>
-						<affiliation></affiliation>
+						<affiliation>US Department of Veteran Affairs Medical Center, Columbia, MO (USA).</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="L." last="Giribabu">L. Giribabu</name>
-						<affiliation>Senior Research Fellow in the School of Chemistry, Central University, Hyderabad.</affiliation>
+						<affiliation>School of Chemistry, University of Hyderabad, Hyderabad 500 046, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -17458,18 +17578,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0103-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0108-0108</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Jacob Bernoulli (1654-1705)</title>
 				<feature>Featured Scientist</feature>
 				<page>0109-0109</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2000">
@@ -17691,12 +17814,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0107-0108</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Gregor Mendel (1822-1884)</title>
 				<feature>Featured Scientist</feature>
 				<page>0113-0113</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2000">
@@ -17766,7 +17891,7 @@
 					</author>
 					<author>
 						<name first="Dilip D." last="Dhavale">Dilip D. Dhavale</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Chemistry, University of Pune, Pune 411 007, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -17954,24 +18079,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Evolutionary Biology Research in India</title>
 				<feature>Information and Announcements</feature>
 				<page>0102-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>NCBS Symposium on Cell and Developmental Biology</title>
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Theodosius Dobzhansky (1900-1975)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2000">
@@ -18095,17 +18224,17 @@
 				<authors>
 					<author>
 						<name first="Amol A." last="Kulkarni">Amol A. Kulkarni</name>
-						<affiliation></affiliation>
+						<affiliation>Chemical Engineering Department, University Department of Chemical Technology, Nathalal Parik Marg, Matunga, Mumbai 400 019, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Mugdha" last="Deshpande">Mugdha Deshpande</name>
-						<affiliation></affiliation>
+						<affiliation>Chemical Engineering at University of Minnesota, USA.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="A. B." last="Pandit">A. B. Pandit</name>
-						<affiliation>Chemical Engineering Department University Department of Chemical Technology Nathalal Parik Marg Matunga Mumbai 400 019, India.</affiliation>
+						<affiliation>Chemical Engineering Department, University Department of Chemical Technology, Nathalal Parik Marg, Matunga, Mumbai 400 019, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -18193,18 +18322,21 @@
 				<feature></feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Nobel Prize - 2000</title>
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Vannevar Bush (1890-1974)</title>
 				<feature>Featured Scientist</feature>
 				<page>0108-0108</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2000">
@@ -18374,17 +18506,17 @@
 				<authors>
 					<author>
 						<name first="Amol A." last="Kulkarni">Amol A. Kulkarni</name>
-						<affiliation></affiliation>
+						<affiliation>Chemical Engineering Division, University Department of Chemical Technology, Nathalal Parik Marg, Matunga, Mumbai 400 019, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Mugdha" last="Deshpande">Mugdha Deshpande</name>
-						<affiliation></affiliation>
+						<affiliation>Chemical Engineering at University of Minnesota, USA.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="A. B." last="Pandit">A. B. Pandit</name>
-						<affiliation>Chemical Engineering Department University Department of Chemical Technology Nathalal Parik Marg Matunga Mumbai 400 019, India.</affiliation>
+						<affiliation>Chemical Engineering Department, University Department of Chemical Technology, Nathalal Parik Marg, Matunga, Mumbai 400 019, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -18472,10 +18604,11 @@
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="06">
+	<volume vnum="006">
 		<issue inum="01" month="01" year="2001">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -18798,30 +18931,35 @@
 				<feature>Classics</feature>
 				<page>0095-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>World Mathematical Year-2000 Event</title>
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Physical Research Laboratory</title>
 				<feature>Information and Announcements</feature>
 				<page>0100-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Crossword Puzzle</title>
 				<feature>Information and Announcements</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acharya Prafulla Chandra Ray (1861-1944)</title>
 				<feature>Featured Scientist</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2001">
@@ -18891,12 +19029,12 @@
 					</author>
 					<author>
 						<name first="Dilip D." last="Dhavale">Dilip D. Dhavale</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Chemistry, University of Pune, Pune 411 007, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Prabodh G." last="Pol">Prabodh G. Pol</name>
-						<affiliation></affiliation>
+						<affiliation>Chemistry at Fergusson College, Pune.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -19098,6 +19236,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2001">
@@ -19332,6 +19471,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2001">
@@ -19420,12 +19560,12 @@
 					</author>
 					<author>
 						<name first="Dilip D." last="Dhavale">Dilip D. Dhavale</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Chemistry, University of Pune, Pune 411 007, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Jeevan G." last="Chandwadkar">Jeevan G. Chandwadkar</name>
-						<affiliation></affiliation>
+						<affiliation>Department of Chemistry, University of Pune, Pune 411 007, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -19595,30 +19735,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0093-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Genetics and Evolution</title>
 				<feature>Information and Announcements</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Chemistry CD</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Guidelines for Authors</title>
 				<feature>Information and Announcements</feature>
 				<page>0097-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>William Donald Hamilton (1936-2000)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2001">
@@ -19879,12 +20024,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0097-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Friedrich August Kekule (1829-1896)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2001">
@@ -19972,7 +20119,7 @@
 				<authors>
 					<author>
 						<name first="Vasant" last="Natarajan">Vasant Natarajan</name>
-						<affiliation>Department of Physics, Indian Institute of SCience, Bangalore 560 012. India.</affiliation>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore 560 012. India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -20132,12 +20279,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Henrietta Swan Leavitt (1868-1921)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2001">
@@ -20377,18 +20526,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Instructional School on Linear Algebra - Sponsored by Indian Academy of Sciences</title>
 				<feature>Information and Announcements</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Kurt Friedrich Godel (1906-1978)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2001">
@@ -20610,12 +20762,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Galileo Galilei (1564-1642)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2001">
@@ -20827,36 +20981,42 @@
 				<feature>Information and Announcements</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Resonance RISC CD Released</title>
 				<feature>Information and Announcements</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Also on Web</title>
 				<feature>Information and Announcements</feature>
 				<page>0111-0111</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>International Conference on Algebra and Geometry</title>
 				<feature>Information and Announcements</feature>
 				<page>0112-0112</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Methods in Behavioural Ecology</title>
 				<feature>Information and Announcements</feature>
 				<page>0113-0113</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0113-0113</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Crossword Puzzle</title>
@@ -20881,6 +21041,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0116-0116</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2001">
@@ -20925,6 +21086,7 @@
 				<feature>Article-in-a-Box</feature>
 				<page>0005-0005</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Professor G. N. Ramachandran’s Contributions to X-ray Crystallography</title>
@@ -21198,18 +21360,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>G N Ramachandran (1922-2001)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2001">
@@ -21477,24 +21642,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0090-0090</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Summer Research Fellowships – 2002</title>
 				<feature>Information and Announcements</feature>
 				<page>0091-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Microscale Experiments in Chemistry: Initiatives in Implementation</title>
 				<feature>Information and Announcements</feature>
 				<page>0092-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Solution to Crossword Puzzle</title>
@@ -21513,6 +21682,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2001">
@@ -21777,35 +21947,33 @@
 				<title>Academy Initiative in University Science Education</title>
 				<feature>Information and Announcements</feature>
 				<page>0093-0093</page>
-				<authors>
-					<author>
-						<name first="Prof. N." last="Mukunda">Prof. N. Mukunda</name>
-						<affiliation>Chairman, Education Panel</affiliation>
-						<email></email>
-					</author>
-				</authors>
+				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Planetary Sciences and Exploration Programme</title>
 				<feature>Information and Announcements</feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Vikram A Sarabhai (1919-1971)</title>
 				<feature>Featured Scientist</feature>
 				<page>0107-0107</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="07">
+	<volume vnum="007">
 		<issue inum="01" month="01" year="2002">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -22050,25 +22218,22 @@
 				<title>International Olympiad in Informatics</title>
 				<feature>Information and Announcements</feature>
 				<page>0102-0107</page>
-				<authors>
-					<author>
-						<name first="Madhavan" last="Mukund">Madhavan Mukund</name>
-						<affiliation>Chennai Mathematical Institute Chennai, India.</affiliation>
-						<email>madhavan@cmi.ac.in</email>
-					</author>
-				</authors>
+				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Vidyanantha</title>
 				<feature>Information and Announcements</feature>
 				<page>0108-0108</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Guglielmo Marconi (1874-1937)</title>
 				<feature>Featured Scientist</feature>
 				<page>0112-0112</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2002">
@@ -22290,12 +22455,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Claude Elwood Shannon (1916-2001)</title>
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2002">
@@ -22360,7 +22527,7 @@
 				<authors>
 					<author>
 						<name first="B." last="Ananthanarayan">B. Ananthanarayan</name>
-						<affiliation>Centre for Theoretical Studies Indian Institute of Science Bangalore 560012, India.</affiliation>
+						<affiliation>Centre for Theoretical Studies, Indian Institute of Science, Bangalore 560012, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
@@ -22380,7 +22547,7 @@
 					</author>
 					<author>
 						<name first="Ritesh K." last="Singh">Ritesh K. Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Indian Institute of Science, Bangalore 560012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -22627,6 +22794,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2002">
@@ -22778,12 +22946,12 @@
 				<authors>
 					<author>
 						<name first="B." last="Sudhir">B. Sudhir</name>
-						<affiliation></affiliation>
+						<affiliation>Metallurgy Department, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Sanjeev" last="Kumar">Sanjeev Kumar</name>
-						<affiliation>Department of Chemical Engineering Indian Institute of Science Bangalore 560 012, India.</affiliation>
+						<affiliation>Department of Chemical Engineering, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
 						<email>sanjeev@chemeng.iisc.ernet.in</email>
 					</author>
 				</authors>
@@ -22835,6 +23003,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Introduction</title>
@@ -22877,6 +23046,7 @@
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2002">
@@ -23101,24 +23271,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0103-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Epilogue for Star Charts</title>
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acknowledgements</title>
 				<feature></feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sir M Visvesvaraya (1860-1961)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2002">
@@ -23252,7 +23426,7 @@
 				<authors>
 					<author>
 						<name first="B." last="Ananthanarayan">B. Ananthanarayan</name>
-						<affiliation>Centre for Theoretical Studies Indian Institufe of SCience Bangalore 560012, India.</affiliation>
+						<affiliation>Centre for Theoretical Studies, Indian Institufe of Science, Bangalore 560012, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
@@ -23272,7 +23446,7 @@
 					</author>
 					<author>
 						<name first="Ritesh K." last="Singh">Ritesh K. Singh</name>
-						<affiliation></affiliation>
+						<affiliation>Indian Institute of Science, Bangalore 560012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -23383,12 +23557,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Charles Babbage (1791-1871)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2002">
@@ -23563,7 +23739,7 @@
 					</author>
 					<author>
 						<name first="J." last="Balasingh">J. Balasingh</name>
-						<affiliation></affiliation>
+						<affiliation>St. John's College, Tirunelveli</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -23697,18 +23873,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Delonix regia Raf.</title>
 				<feature>Flowering Trees</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Howard Martin Temin (1934-1994)</title>
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2002">
@@ -23930,24 +24109,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0089-0089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Spectroscopy, Chemical Reactions and Biology</title>
 				<feature>Information and Announcements</feature>
 				<page>0089-0090</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Amherstia nobilis</title>
 				<feature>Flowering Trees</feature>
 				<page>0091-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Manali Kallat Vainu Bappu (1927-1982)</title>
 				<feature>Featured Scientist</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2002">
@@ -24010,6 +24193,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0018-0018</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>How to Count – An Exposition of Polya’s Theory of Enumeration</title>
@@ -24158,12 +24342,14 @@
 				<feature>Information and Announcements</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Physics of Earthquakes</title>
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>On Amherstia nobilis</title>
@@ -24182,12 +24368,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Fritz Haber (1868-1934)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2002">
@@ -24409,12 +24597,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S P Timoshenko (1878-1972)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2002">
@@ -24590,6 +24780,7 @@
 				<feature>Research News</feature>
 				<page>0077-0079</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ecology and Sustainable Development</title>
@@ -24650,36 +24841,42 @@
 				<feature></feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Quantum Chemistry</title>
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Nobel Prize – 2002</title>
 				<feature>Information and Announcements</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>NCBS Neurobiology Symposium on Networks and Behaviour</title>
 				<feature>Information and Announcements</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Polyalthia longifolia Bl. of Annonaceae</title>
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Stephen Jay Gould (1941-2002)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2002">
@@ -25014,16 +25211,18 @@
 				<feature>Flowering Trees</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>K S Krishnan (1898-1961)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="08">
+	<volume vnum="008">
 		<issue inum="01" month="01" year="2003">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -25256,24 +25455,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Books Received</title>
 				<feature>Books Received</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Feronialimonia(L.) Swingle</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S Minakshisundaram (1913-1968)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2003">
@@ -25397,7 +25600,7 @@
 				<authors>
 					<author>
 						<name first="S. P. Govinda" last="Raju">S. P. Govinda Raju</name>
-						<affiliation>Aerospace Engineering Department Indian Institute of Science Bangolore 560 012, India.</affiliation>
+						<affiliation>Aerospace Engineering Department Indian Institute of Science Bangalore 560 012, India.</affiliation>
 						<email></email>
 					</author>
 				</authors>
@@ -25508,18 +25711,21 @@
 				<feature>Books Received</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Flowering Trees</title>
 				<feature>Flowering Trees</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>D N Wadia (1883-1969)</title>
 				<feature>Featured Scientist</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2003">
@@ -25815,24 +26021,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>KVPY Fellowships 2003</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cassia fistula L.</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Panchanan Maheshwari (1904-1966)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2003">
@@ -25959,6 +26169,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0043-0043</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Precession of the Equinoxes and its Importance in Calendar Making</title>
@@ -26037,6 +26248,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0065-0065</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>500 Years of Tantrasangraha – A Landmark in the History of Astronomy</title>
@@ -26115,12 +26327,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0089-0089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S Minakshisundaram (1913-1968)</title>
 				<feature>Featured Scientist</feature>
 				<page>0090-0090</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2003">
@@ -26332,18 +26546,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0088-0088</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ficus bengalensis L.</title>
 				<feature>Flowering Trees</feature>
 				<page>0089-0089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>James Clerk Maxwell (1831-1879)</title>
 				<feature>Featured Scientist</feature>
 				<page>0090-0090</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2003">
@@ -26555,24 +26772,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0091-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Physics of the Atmosphere and the Ocean</title>
 				<feature>Information and Announcements</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Phoenix sylvestris Roxb. of palmaceae</title>
 				<feature>Flowering Trees</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Paul J Flory (1910-1985)</title>
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2003">
@@ -26786,24 +27007,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0105-0106</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>School on Mathematical/Numerical Modelling in Earth, Atmospheric and Space Sciences</title>
 				<feature>Information and Announcements</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Syzygium cumini (L.)</title>
 				<feature>Flowering Trees</feature>
 				<page>0109-0109</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Jacques Monod (1910-1976)</title>
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2003">
@@ -27046,24 +27271,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0111-0111</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Earth Sciences</title>
 				<feature>Information and Announcements</feature>
 				<page>0111-0111</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Zizyphus jujuba Lam. of Rhamnaceae</title>
 				<feature>Flowering Trees</feature>
 				<page>0112-0112</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Paul Adrien Maurice Dirac (1902-1984)</title>
 				<feature>Featured Scientist</feature>
 				<page>0113-0113</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2003">
@@ -27336,30 +27565,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Lasers and Applications in Chemical Processes</title>
 				<feature>Information and Announcements</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Mathematics</title>
 				<feature>Information and Announcements</feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Moringa oleifera</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Raj Chandra Bose (1901-1987)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2003">
@@ -27655,48 +27889,56 @@
 				<feature>Classics</feature>
 				<page>0092-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>SERC School on Coherent Optics and Applications</title>
 				<feature>Information and Announcements</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Workshop on Methods in Behavioural Ecology</title>
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>National Workshop on Recent Advances in Mathematics</title>
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Symposium on Molecules, Machines and Networks</title>
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Workshop on Single Molecule Biophysics</title>
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Calophyllum inophyllum</title>
 				<feature>Flowering Trees</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Satish Dhawan (1920-2002)</title>
 				<feature>Featured Scientist</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2003">
@@ -27890,6 +28132,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Of Flies and Fly Culture</title>
@@ -27932,12 +28175,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0103-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Thomas Hunt Morgan (1866-1945)</title>
 				<feature>Featured Scientist</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2003">
@@ -28213,16 +28458,18 @@
 				<feature>Flowering Trees</feature>
 				<page>0117-0117</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Wilbur Wright (1867-1912)</title>
 				<feature>Featured Scientist</feature>
 				<page>0118-0118</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="09">
+	<volume vnum="009">
 		<issue inum="01" month="01" year="2004">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -28455,18 +28702,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Lawsonia inermis</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Blaise Pascal (1623-1662)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2004">
@@ -28742,12 +28992,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Thiruvenkata Rajendra Seshadri (1900-1975)</title>
 				<feature>Featured Scientist</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2004">
@@ -29010,12 +29262,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0089-0089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Rosalind Franklin (1920-1958)</title>
 				<feature>Featured Scientist</feature>
 				<page>0090-0090</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2004">
@@ -29134,7 +29388,7 @@
 				<authors>
 					<author>
 						<name first="Sandeep" last="Prabhakara">Sandeep Prabhakara</name>
-						<affiliation></affiliation>
+						<affiliation>Indian Institute of Technology, Kharagpur 721 302, India.</affiliation>
 						<email></email>
 					</author>
 					<author>
@@ -29237,12 +29491,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Birbal Sahni (1891-1949)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2004">
@@ -29454,6 +29710,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0086-0086</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ramanujan: Essays and Surveys</title>
@@ -29496,18 +29753,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Mangifera india</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Beatrice Tinsley (1941-1981)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2004">
@@ -29808,12 +30068,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S S Pillai (1901-1950)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2004">
@@ -30112,30 +30374,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Referesher Course in Plant Genetic Engineering</title>
 				<feature>Information and Announcements</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Referesher Course on Animal Behaviour</title>
 				<feature>Information and Announcements</feature>
 				<page>0103-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Melia dubia</title>
 				<feature>Flowering Trees</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>George Gamow (1904-1968)</title>
 				<feature>Featured Scientist</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2004">
@@ -30393,6 +30660,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0088-0088</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Personal Reflections</title>
@@ -30435,24 +30703,28 @@
 				<feature>Classics</feature>
 				<page>0099-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Planetary Exploration Programme – Fifth Workshop on Moon and Meteorites</title>
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ficus religiosa</title>
 				<feature>Flowering Trees</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Werner Heisenberg (1901-1976)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2004">
@@ -30664,18 +30936,21 @@
 				<feature>Classics</feature>
 				<page>0090-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Tectona grandis</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Jaroslav Heyrovsky (1831-1879)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2004">
@@ -30923,6 +31198,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0087-0087</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The Holding Power of Anchors</title>
@@ -30947,12 +31223,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Geoffrey Ingram Taylor (1886-1975)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2004">
@@ -31032,17 +31310,18 @@
 				<authors>
 					<author>
 						<name first="A. Hari" last="Kishore">A. Hari Kishore</name>
-						<affiliation>Research and Development Assistant in Transcription and Disease Laboratory at JNCASR, Bangalore.</affiliation>
+						<affiliation>Transcription and Disease Laboratory, Jawaharlal Nehru Centre for Advanced Scientific Research. Jakkur, Bangalore 560 064, India</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Sushma S." last="Iyengar">Sushma S. Iyengar</name>
-						<affiliation></affiliation>
+						<affiliation>Jawaharlal Nehru Centre for Advanced Scientific Research. Jakkur, Bangalore 560 064, India</affiliation>
+						<affiliation>ALMPG Institute of Basic Medical Sciences, Madras University, Chennai.</affiliation>
 						<email></email>
 					</author>
 					<author>
 						<name first="Tapas K." last="Kundu">Tapas K. Kundu</name>
-						<affiliation>Transcription and Disease laboratory Molecular Biology and Genetics Unit Jawaharlal Nehru Centre for Advanced Scientific Research. Jakkur, Bangalore 560 064, India</affiliation>
+						<affiliation>Transcription and Disease Laboratory Molecular Biology and Genetics Unit Jawaharlal Nehru Centre for Advanced Scientific Research. Jakkur, Bangalore 560 064, India</affiliation>
 						<email>tapas@jncasr.ac.in</email>
 					</author>
 				</authors>
@@ -31135,6 +31414,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0071-0071</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Blackbelts in Biochemistry: On Being and Becoming</title>
@@ -31241,18 +31521,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Annona squamosa</title>
 				<feature>Flowering Trees</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Francis Crick (1916-2004)</title>
 				<feature>Featured Scientist</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2004">
@@ -31571,34 +31854,39 @@
 				<feature>Information and Announcements</feature>
 				<page>0086-0086</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Resonance – journal of science education - Index-2004</title>
 				<feature></feature>
 				<page>0087-0089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0089-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Saraca asoca</title>
 				<feature>Flowering Trees</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>K Venkataraman (1901-1981)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="10">
+	<volume vnum="010">
 		<issue inum="01" month="01" year="2005">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -31664,6 +31952,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0016-0016</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Numerical Methods in Linguistics - An Introduction to Glottochronology</title>
@@ -31860,24 +32149,28 @@
 				<feature>Personal Reflections</feature>
 				<page>0093-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Experimental Physics – Indian Institute of Technology, Guwahat</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cassine paniculata</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Florence Jessie Mac Williams (1917-1990)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2005">
@@ -32100,24 +32393,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Satellite Images: Tsunami 2004</title>
 				<feature>Information and Announcements</feature>
 				<page>0095-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Artocarpus heterophyllus</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Donald Redfield Griffin (1915-2003)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2005">
@@ -32385,18 +32682,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Anthocephalus cadamba</title>
 				<feature>Flowering Trees</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Paul Langevin (1872-1946)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2005">
@@ -32601,18 +32901,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0091-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Terminalia arjuna</title>
 				<feature>Flowering Trees</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Shiing-Shen Chern (1911-2004)</title>
 				<feature>Featured Scientist</feature>
 				<page>0094-0094</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2005">
@@ -32826,24 +33129,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Probability, Stochastic Processes and Applications</title>
 				<feature>Information and Announcements</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Dalbergia sissoo</title>
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Robert W Floyd (1936-2001)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2005">
@@ -33114,18 +33421,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Feronia limonia</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Wilhelm Conrad Roentgen (1845-1923)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2005">
@@ -33208,7 +33518,7 @@
 				<authors>
 					<author>
 						<name first="Binod Kumar" last="Sahoo">Binod Kumar Sahoo</name>
-						<affiliation>Senior Research Fellow supported by a NBHM Fellowship.</affiliation>
+						<affiliation></affiliation>
 						<email></email>
 					</author>
 					<author>
@@ -33347,24 +33657,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Errata</title>
 				<feature>Errata</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cochlospermum religiosum</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ernst Walter Mayr (1904-2005)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2005">
@@ -33568,18 +33882,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0103-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Milletia ovalifolia</title>
 				<feature>Flowering Trees</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Theodore Von Karman (1881-1963)</title>
 				<feature>Featured Scientist</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2005">
@@ -33660,6 +33977,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0036-0036</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Beginnings of Group Cohomology</title>
@@ -33756,12 +34074,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Saunders Mac Lane (1909-2005)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2005">
@@ -33973,6 +34293,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>A Conversation About Solid State Physics</title>
@@ -34002,12 +34323,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Hans Albrecht Bethe (1906-2005)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2005">
@@ -34293,36 +34616,42 @@
 				<feature>Information and Announcements</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>A DST Sponsored Workshop on Methods in Behavioural Ecology</title>
 				<feature>Information and Announcements</feature>
 				<page>0107-0107</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>JEST 2006</title>
 				<feature>Information and Announcements</feature>
 				<page>0107-0107</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>National Board for Higher Mathematics</title>
 				<feature>Information and Announcements</feature>
 				<page>0108-0108</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Tamarindus indica</title>
 				<feature>Flowering Trees</feature>
 				<page>0109-0109</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John Maynard Smith (1920-2004)</title>
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2005">
@@ -34864,34 +35193,39 @@
 				<feature></feature>
 				<page>0257-0258</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0259-0264</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Index</title>
 				<feature></feature>
 				<page>0265-0266</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Prima Vera</title>
 				<feature>Flowering Trees</feature>
 				<page>0267-0267</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>C. V. Raman</title>
 				<feature>Featured Scientist</feature>
 				<page>0268-0268</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="11">
+	<volume vnum="011">
 		<issue inum="01" month="01" year="2006">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -35108,18 +35442,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ficus benghalensis</title>
 				<feature>Flowering Trees</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Amedeo Avogadro (1776-1856)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2006">
@@ -35336,12 +35673,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>David A Huffman (1925-1999)</title>
 				<feature>Featured Scientist</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2006">
@@ -35556,12 +35895,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Aryabhata (476-550 AD)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2006">
@@ -35798,30 +36139,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Advanced Training in Mathematics Schools</title>
 				<feature>Information and Announcements</feature>
 				<page>0107-0107</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>21st Annual Conference of Ramanujan Mathematical Society</title>
 				<feature>Information and Announcements</feature>
 				<page>0108-0108</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Pler ocarpus</title>
 				<feature>Flowering Trees</feature>
 				<page>0109-0109</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Joseph Louis Lagrange (1736-1813)</title>
 				<feature>Featured Scientist</feature>
 				<page>0110-0110</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2006">
@@ -35940,7 +36286,7 @@
 				<authors>
 					<author>
 						<name first="Vasant" last="Natarajan">Vasant Natarajan</name>
-						<affiliation>Department of Physics Indian Institute of Science Bangolore 560012. India.</affiliation>
+						<affiliation>Department of Physics Indian Institute of Science Bangalore 560012. India.</affiliation>
 						<email>vasant@physics.iisc.ernet.in</email>
 					</author>
 					<author>
@@ -36033,30 +36379,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0087-0087</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Kishore Vaigyanik Protsahan Yojana (KVPY) 2006</title>
 				<feature>Information and Announcements</feature>
 				<page>0088-0089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write...</title>
 				<feature>Information and Announcements</feature>
 				<page>0090-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Pterygota alata</title>
 				<feature>Flowering Trees</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Colin Stephenson Pittendrigh (1918-1996)</title>
 				<feature>Featured Scientist</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2006">
@@ -36324,18 +36675,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0094-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Broussonetia papyrifera</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cyril Stanley Smith (1903-1992)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2006">
@@ -36545,24 +36899,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Tensors and their Applications in Engineering Sciences</title>
 				<feature>Information and Announcements</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Azadirachta indica A. Juss.</title>
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sir Ronald Ross (1857-1932)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2006">
@@ -36835,18 +37193,21 @@
 				<feature>Think It Over</feature>
 				<page>0103-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Adenaruhera paronina</title>
 				<feature>Flowering Trees</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Gilbert Thomas Walker (1868-1958)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2006">
@@ -37047,30 +37408,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Experimental Chemistry</title>
 				<feature>Information and Announcements</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write</title>
 				<feature>Information and Announcements</feature>
 				<page>0094-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Metia azadarach</title>
 				<feature>Flowering Trees</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Robert Koch (1843-1910)</title>
 				<feature>Featured Scientist</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2006">
@@ -37274,30 +37640,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write...</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Guidelines to Authors</title>
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Firmiana colorata</title>
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Archimedes (287 BC-212 BC)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2006">
@@ -37514,24 +37885,28 @@
 				<feature>Feature Article</feature>
 				<page>0093-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Nobel Prize 2006</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cananga odorata</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Bernhard Riemann (1826-1866)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2006">
@@ -37614,7 +37989,7 @@
 				<authors>
 					<author>
 						<name first="H. S." last="Mani">H. S. Mani</name>
-						<affiliation>The Institute of Mathematical SCiences, Chennai 600 113, India</affiliation>
+						<affiliation>The Institute of Mathematical Sciences, Chennai 600 113, India</affiliation>
 						<email>hsmani@imsc.res.in</email>
 					</author>
 				</authors>
@@ -37720,6 +38095,7 @@
 				<feature>Errata</feature>
 				<page>0062-0062</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Newton's Principia</title>
@@ -37744,40 +38120,46 @@
 				<feature>Information and Announcements</feature>
 				<page>0087-0087</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write</title>
 				<feature>Information and Announcements</feature>
 				<page>0088-0089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0093-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0095-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Artocarpus hirsutus</title>
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Isaac Newton (1642/43-1727)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="12">
+	<volume vnum="012">
 		<issue inum="01" month="01" year="2007">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -38010,18 +38392,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0091-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Alstonia macrophylla</title>
 				<feature>Flowering Trees</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Louis Pasteur (1822-1885)</title>
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2007">
@@ -38175,30 +38560,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Advances in Biophysics</title>
 				<feature>Information and Announcements</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>IISc Young Science Fellowship Programme (YSFP) for Toppers in PUC/12th Standard</title>
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cordia Sebestena</title>
 				<feature>Flowering Trees</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Paul R Halmos (1916-2006)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2007">
@@ -38386,6 +38776,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0076-0076</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Exploring Mathematical Ideas with a Deck of Cards</title>
@@ -38428,12 +38819,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Nikola Tesla (1856-1943)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2007">
@@ -38660,12 +39053,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Euclid (circa 325BC-circa 265BC)</title>
 				<feature>Featured Scientist</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2007">
@@ -38872,12 +39267,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>J H Van 't Hoff (1852-1911)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2007">
@@ -39132,18 +39529,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Barringtonia asiatica</title>
 				<feature>Flowering Trees</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>E K Janaki Ammal (1897-1984)</title>
 				<feature>Featured Scientist</feature>
 				<page>0107-0107</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2007">
@@ -39315,30 +39715,35 @@
 				<feature>Classroom</feature>
 				<page>0095-0095</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>2007 Abel Prize for S. R. S. Varadhan</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Marine Geology and Geophysics</title>
 				<feature>Information and Announcements</feature>
 				<page>0096-0096</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Wrightia tinctoria</title>
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Josiah Willard Gibbs (1839-1903)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2007">
@@ -39532,12 +39937,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John Backus (1924-2007)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2007">
@@ -39700,6 +40107,7 @@
 				<feature>Classroom</feature>
 				<page>0079-0079</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The Essential Microbe</title>
@@ -39753,18 +40161,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acacia polycantha</title>
 				<feature>Flowering Trees</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Oswald T Avery (1877-1955)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2007">
@@ -40007,12 +40418,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Victor Franz Hess (1883-1964)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2007">
@@ -40216,6 +40629,7 @@
 				<feature>Classroom</feature>
 				<page>0088-0088</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The Shrinking Unit Ball</title>
@@ -40240,12 +40654,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0091-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Clyde Tombaugh (1906-1997)</title>
 				<feature>Featured Scientist</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2007">
@@ -40421,6 +40837,7 @@
 				<feature>Think It Over</feature>
 				<page>0057-0057</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The Philosophy of the Physical Sciences</title>
@@ -40445,58 +40862,67 @@
 				<feature>Information and Announcements</feature>
 				<page>0074-0074</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on "Vistas in Zoological Teaching"</title>
 				<feature>Information and Announcements</feature>
 				<page>0075-0075</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>First International Earth Science Olympiad - South Korea</title>
 				<feature>Information and Announcements</feature>
 				<page>0076-0076</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Nobel Prize - 2008</title>
 				<feature>Information and Announcements</feature>
 				<page>0077-0077</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write</title>
 				<feature>Information and Announcements</feature>
 				<page>0078-0078</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Author Index</title>
 				<feature></feature>
 				<page>0081-0082</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>0083-0088</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Syzygium hemisphericum</title>
 				<feature>Flowering Trees</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Maria Goeppert Mayer (1906-1972)</title>
 				<feature>Featured Scientist</feature>
 				<page>0093-0093</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="13">
+	<volume vnum="013">
 		<issue inum="01" month="01" year="2008">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -40690,12 +41116,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>David D Perkins (1919-2007)</title>
 				<feature>Featured Scientist</feature>
 				<page>0102-0102</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2008">
@@ -40884,12 +41312,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0209-0209</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Max Planck (1858-1947)</title>
 				<feature>Featured Scientist</feature>
 				<page>0210-0210</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2008">
@@ -41071,6 +41501,7 @@
 				<feature>Book Review</feature>
 				<page>0282-0282</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>On the Tendency of Varieties to Depart Indefinitely from the Original Type</title>
@@ -41118,12 +41549,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0307-0307</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Alfred Russel Wallace (1823-1913)</title>
 				<feature>Featured Scientist</feature>
 				<page>0308-0308</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2008">
@@ -41345,12 +41778,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0403-0403</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Amal Kumar Raychaudhuri (1923-2005)</title>
 				<feature>Featured Scientist</feature>
 				<page>0404-0404</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2008">
@@ -41595,12 +42030,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0503-0503</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Rangaswamy Narasimhan (1926-2007)</title>
 				<feature>Featured Scientist</feature>
 				<page>0504-0504</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2008">
@@ -41794,18 +42231,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0606-0606</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Barringtonia asiatica</title>
 				<feature>Flowering Trees</feature>
 				<page>0607-0607</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Tuticorin Raghavachari Govindachari (1915-2001)</title>
 				<feature>Featured Scientist</feature>
 				<page>0608-0608</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2008">
@@ -41850,6 +42290,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0618-0618</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Irving Langmuir - A Pioneering Industrial Physical Chemist</title>
@@ -41946,6 +42387,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0661-0661</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>The Missing Boarding Pass</title>
@@ -42011,12 +42453,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0701-0701</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Irving Langmuir (1881-1957)</title>
 				<feature>Featured Scientist</feature>
 				<page>0702-0702</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2008">
@@ -42207,6 +42651,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0774-0774</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Lederberg and the ‘Cellularity’ of Bacteria</title>
@@ -42267,12 +42712,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0795-0795</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Joshua Lederberg (1925-2008)</title>
 				<feature>Featured Scientist</feature>
 				<page>0796-0796</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2008">
@@ -42453,12 +42900,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0895-0895</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>G H Hardy (1877-1947)</title>
 				<feature>Featured Scientist</feature>
 				<page>0896-0896</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2008">
@@ -42657,12 +43106,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0991-0991</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Seymour Benzer (1921-2007)</title>
 				<feature>Featured Scientist</feature>
 				<page>0992-0992</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2008">
@@ -42884,42 +43335,49 @@
 				<feature>Information and Announcements</feature>
 				<page>1087-1087</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write...</title>
 				<feature>Information and Announcements</feature>
 				<page>1088-1088</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Errata</title>
 				<feature>Errata</feature>
 				<page>1089-1089</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies Summer Research Fellowship</title>
 				<feature>Information and Announcements</feature>
 				<page>1091-1094</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>List of Fellows</title>
 				<feature></feature>
 				<page>1095-1138</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Grevillea robusta</title>
 				<feature>Flowering Trees</feature>
 				<page>1139-1139</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Anna Mani (1918-2001)</title>
 				<feature>Featured Scientist</feature>
 				<page>1140-1140</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2008">
@@ -43135,40 +43593,46 @@
 				<feature>Information and Announcements</feature>
 				<page>1177-1190</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Seminar on Nano-biotechnology</title>
 				<feature>Information and Announcements</feature>
 				<page>1191-1191</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Authox Index</title>
 				<feature></feature>
 				<page>1194-1195</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>1196-1200</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Gliricidia sepium</title>
 				<feature>Flowering Trees</feature>
 				<page>1201-1201</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S K Rangarajan (1932-2008)</title>
 				<feature>Featured Scientist</feature>
 				<page>1202-1202</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="14">
+	<volume vnum="014">
 		<issue inum="01" month="01" year="2009">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -43366,12 +43830,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0099-0099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sir James Lighthill (1924-1998)</title>
 				<feature>Featured Scientist</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2009">
@@ -43507,6 +43973,7 @@
 				<feature>Information and Announcements</feature>
 				<page>0203-0203</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</title>
@@ -43531,12 +43998,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0209-0209</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Charles Darwin (1809-1882)</title>
 				<feature>Featured Scientist</feature>
 				<page>0210-0210</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2009">
@@ -43730,30 +44199,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0307-0307</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Experimental Chemistry</title>
 				<feature>Information and Announcements</feature>
 				<page>0308-0308</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Darwinism - A Sesqui-Centennial Celebration</title>
 				<feature>Information and Announcements</feature>
 				<page>0309-0309</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Pseudobombax ellipticum</title>
 				<feature>Flowering Trees</feature>
 				<page>0311-0311</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Edwin Powell Hubble (1889-1953)</title>
 				<feature>Featured Scientist</feature>
 				<page>0312-0312</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2009">
@@ -43893,6 +44367,7 @@
 				<feature>Errata</feature>
 				<page>0379-0379</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Perfect Medians, Euler, and Ramanujan</title>
@@ -43989,12 +44464,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0413-0413</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Walter S Sutton (1877-1916)</title>
 				<feature>Featured Scientist</feature>
 				<page>0414-0414</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2009">
@@ -44149,12 +44626,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0519-0519</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Homi Jehangir Bhabha</title>
 				<feature>Featured Scientist</feature>
 				<page>0520-0520</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2009">
@@ -44333,18 +44812,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0630-0630</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Magnolia grandiflora</title>
 				<feature>Flowering Trees</feature>
 				<page>0631-0631</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>James Watt (1736-1819)</title>
 				<feature>Featured Scientist</feature>
 				<page>0632-0632</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2009">
@@ -44553,12 +45035,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0737-0737</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>W. W. Sawyer (1911-2008)</title>
 				<feature>Featured Scientist</feature>
 				<page>0738-0738</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2009">
@@ -44762,30 +45246,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0835-0835</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Theoretical Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0836-0836</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Young Ecologists Talk and Interact</title>
 				<feature>Information and Announcements</feature>
 				<page>0836-0836</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Mallotus philippensis</title>
 				<feature>Flowering Trees</feature>
 				<page>0837-0837</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>T Ramakrishnan (1922-2008)</title>
 				<feature>Featured Scientist</feature>
 				<page>0838-0838</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2009">
@@ -44989,18 +45478,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0930-0930</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Anogeissus latifolia</title>
 				<feature>Flowering Trees</feature>
 				<page>0931-0931</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Alexandre Gustave Eiffel (1832-1923)</title>
 				<feature>Featured Scientist</feature>
 				<page>0932-0932</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2009">
@@ -45176,36 +45668,42 @@
 				<feature>Information and Announcements</feature>
 				<page>1029-1029</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Summer Research Fellowships 2010</title>
 				<feature>Information and Announcements</feature>
 				<page>1030-1031</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>FORMAT FOR LETTER OF RECOMMENDATION</title>
 				<feature>Information and Announcements</feature>
 				<page>1032-1033</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>List of Fellows</title>
 				<feature></feature>
 				<page>1033-1081</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Garuga pinnata</title>
 				<feature>Flowering Trees</feature>
 				<page>1082-1082</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Eugene Paul Wigner (1902-1995)</title>
 				<feature>Featured Scientist</feature>
 				<page>1083-1083</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2009">
@@ -45440,24 +45938,28 @@
 				<feature>Information and Announcements</feature>
 				<page>1132-1132</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course on Frontier in Atomospheric Sciences</title>
 				<feature>Information and Announcements</feature>
 				<page>1133-1133</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Holoptelea integrifolia</title>
 				<feature>Flowering Trees</feature>
 				<page>1137-1137</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John Evershed (1831-1879)</title>
 				<feature>Featured Scientist</feature>
 				<page>1138-1138</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2009">
@@ -45556,6 +46058,7 @@
 				<feature>Errata</feature>
 				<page>1170-1170</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>An Example of Bayesian Inference in Thermal Sciences</title>
@@ -45680,28 +46183,32 @@
 				<feature></feature>
 				<page>1236-1237</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>1238-1242</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Annona glabra</title>
 				<feature>Flowering Trees</feature>
 				<page>1243-1243</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Johannes Kepler (1571-1630)</title>
 				<feature>Featured Scientist</feature>
 				<page>1244-1244</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="15">
+	<volume vnum="015">
 		<issue inum="01" month="01" year="2010">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -45906,12 +46413,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John Dalton (1766-1844)</title>
 				<feature>Featured Scientist</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2010">
@@ -46141,12 +46650,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0199-0199</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>K G Ramanathan (1920-1992)</title>
 				<feature>Featured Scientist</feature>
 				<page>0200-0200</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2010">
@@ -46347,12 +46858,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0295-0295</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>P L Bhatnagar (1912-1976)</title>
 				<feature>Featured Scientist</feature>
 				<page>0296-0296</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2010">
@@ -46570,18 +47083,21 @@
 				<feature>Reflections</feature>
 				<page>0391-0391</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Caesalpinia coriaria</title>
 				<feature>Flowering Trees</feature>
 				<page>0393-0393</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>George K Batchelor (1920-2000)</title>
 				<feature>Featured Scientist</feature>
 				<page>0394-0394</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2010">
@@ -46803,12 +47319,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0489-0489</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sir Rudolf Ernst Peierls (1907-1995)</title>
 				<feature>Featured Scientist</feature>
 				<page>0490-0490</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2010">
@@ -47049,12 +47567,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0583-0583</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Conrad H Waddington (1905-1975)</title>
 				<feature>Featured Scientist</feature>
 				<page>0584-0584</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2010">
@@ -47250,24 +47770,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0678-0678</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write</title>
 				<feature>Information and Announcements</feature>
 				<page>0679-0680</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sterculia foetida</title>
 				<feature>Flowering Trees</feature>
 				<page>0681-0681</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Johannes Diderik van der Waals (1837-1923)</title>
 				<feature>Featured Scientist</feature>
 				<page>0682-0682</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2010">
@@ -47448,12 +47972,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0771-0771</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ferdinand Freudenstein (1926-2006)</title>
 				<feature>Featured Scientist</feature>
 				<page>0772-0772</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2010">
@@ -47657,24 +48183,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0860-0861</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>XXV Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0861-0861</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cerbera manghas</title>
 				<feature>Flowering Trees</feature>
 				<page>0863-0863</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sir William Henry Perkin (1838-1907)</title>
 				<feature>Featured Scientist</feature>
 				<page>0864-0864</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2010">
@@ -47850,24 +48380,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0964-0964</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies Refresher Course on Modern Biotechnological Techniques</title>
 				<feature>Information and Announcements</feature>
 				<page>0964-0964</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Diospyros peregrina</title>
 				<feature>Flowering Trees</feature>
 				<page>0965-0965</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sir Fred Hoyle (1915-2001)</title>
 				<feature>Featured Scientist</feature>
 				<page>0966-0966</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2010">
@@ -48043,18 +48577,21 @@
 				<feature>Information and Announcements</feature>
 				<page>1054-1054</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Salvadora persica</title>
 				<feature>Flowering Trees</feature>
 				<page>1055-1055</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Santiago Ramon y Cajal (1852-1934)</title>
 				<feature>Featured Scientist</feature>
 				<page>1056-1056</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2010">
@@ -48289,34 +48826,39 @@
 				<feature>Information and Announcements</feature>
 				<page>1142-1142</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Author Index</title>
 				<feature></feature>
 				<page>1144-1145</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>1146-1151</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Gyrocarpus americanus</title>
 				<feature>Flowering Trees</feature>
 				<page>1153-1153</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Petrus Josephus Wilhelmus Debye (1884-1966)</title>
 				<feature>Featured Scientist</feature>
 				<page>1154-1154</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="16">
+	<volume vnum="016">
 		<issue inum="01" month="01" year="2011">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -48562,24 +49104,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0100-0100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies Refresher Course on Advances in Biotechnology</title>
 				<feature>Information and Announcements</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acrocarpus fraxinifolius Wight</title>
 				<feature>Flowering Trees</feature>
 				<page>0103-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Antonie van Leeuwenhoek (1632-1723)</title>
 				<feature>Featured Scientist</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2011">
@@ -48849,12 +49395,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0201-0201</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Israel Moiseevich Gelfand (1913-2009)</title>
 				<feature>Featured Scientist</feature>
 				<page>0202-0202</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2011">
@@ -48899,6 +49447,7 @@
 				<feature>General Article</feature>
 				<page>0218-0218</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Smiles</title>
@@ -49056,12 +49605,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0297-0297</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sir Alfred Bray Kempe (1849-1922)</title>
 				<feature>Featured Scientist</feature>
 				<page>0298-0298</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2011">
@@ -49296,12 +49847,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0405-0405</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Robert Henry Dicke (1916-1997)</title>
 				<feature>Featured Scientist</feature>
 				<page>0406-0406</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2011">
@@ -49472,6 +50025,7 @@
 				<feature>Errata</feature>
 				<page>0479-0479</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Why the Universe is Expanding</title>
@@ -49519,12 +50073,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0499-0499</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Yakov Borisovich Zel'dovich (1914-1987)</title>
 				<feature>Featured Scientist</feature>
 				<page>0500-0500</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2011">
@@ -49736,24 +50292,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0601-0601</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Errata</title>
 				<feature>Errata</feature>
 				<page>0602-0602</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Andira inermis</title>
 				<feature>Flowering Trees</feature>
 				<page>0603-0603</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Damodar Dharmananda Kosambi (1907-1966)</title>
 				<feature>Featured Scientist</feature>
 				<page>0604-0604</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2011">
@@ -49924,12 +50484,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0701-0701</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Hermann Emil Fischer (1852-1919)</title>
 				<feature>Featured Scientist</feature>
 				<page>0702-0702</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2011">
@@ -50128,18 +50690,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0794-0794</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Bauhinia alba</title>
 				<feature>Flowering Trees</feature>
 				<page>0795-0795</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>M K Chandrashekaran (1937-2009)</title>
 				<feature>Featured Scientist</feature>
 				<page>0796-0796</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2011">
@@ -50387,6 +50952,7 @@
 				<feature>Errata</feature>
 				<page>0889-0889</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>There's Plenty of Room at the Bottom</title>
@@ -50411,18 +50977,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0906-0906</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Berrya cordifolia</title>
 				<feature>Flowering Trees</feature>
 				<page>0907-0907</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Richard P Feynman (1918-1988)</title>
 				<feature>Featured Scientist</feature>
 				<page>0908-0908</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2011">
@@ -50599,30 +51168,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0999-0999</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Summer Research Fellowships 2012</title>
 				<feature>Information and Announcements</feature>
 				<page>1000-1001</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>FORMAT FOR LETTER OF RECOMMENDATION</title>
 				<feature>Information and Announcements</feature>
 				<page>1002-1002</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Dolichandrone atrovirens</title>
 				<feature>Flowering Trees</feature>
 				<page>1003-1003</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>William Hayes (1913-1994)</title>
 				<feature>Featured Scientist</feature>
 				<page>1004-1004</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2011">
@@ -50821,54 +51395,63 @@
 				<feature>Classics</feature>
 				<page>1092-1097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Experiments for Tomorrow–XXXV Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>1098-1098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Summer Research Fellowship Programme for Students and Teachers – 2012 (SRFP-2012)</title>
 				<feature>Information and Announcements</feature>
 				<page>1099-1099</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Course on Paradigms and Applications of Pattern Recognition in Image Processing and Computer Vision</title>
 				<feature>Information and Announcements</feature>
 				<page>1100-1100</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Course on Cell and Molecular Biology Techniques</title>
 				<feature>Information and Announcements</feature>
 				<page>1101-1101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>National Seminar on the History and Cultural Aspects of Mathematics Education</title>
 				<feature>Information and Announcements</feature>
 				<page>1102-1102</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write</title>
 				<feature>Information and Announcements</feature>
 				<page>1103-1103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Boswellia serrata</title>
 				<feature>Flowering Trees</feature>
 				<page>1105-1105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ernest Rutherford (1871-1937)</title>
 				<feature>Featured Scientist</feature>
 				<page>1106-1106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2011">
@@ -51457,28 +52040,32 @@
 				<feature></feature>
 				<page>1344-1345</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Subject Index</title>
 				<feature></feature>
 				<page>1346-1352</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Indigofera tinctoria</title>
 				<feature>Flowering Trees</feature>
 				<page>1353-1353</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S S Bhatnagar (1894-1955)</title>
 				<feature>Featured Scientist</feature>
 				<page>1354-1354</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="17">
+	<volume vnum="017">
 		<issue inum="01" month="01" year="2012">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -51713,18 +52300,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0101-0101</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Canthium parviflorum</title>
 				<feature>Flowering Trees</feature>
 				<page>0103-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Antoine-Laurent Lavoisier (1743-1794)</title>
 				<feature>Featured Scientist</feature>
 				<page>0104-0104</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2012">
@@ -51925,24 +52515,28 @@
 				<feature>Reflections</feature>
 				<page>0225-0225</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies Refresher Course in Statistical Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0226-0226</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Cassia siamia</title>
 				<feature>Flowering Trees</feature>
 				<page>0227-0227</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Willis Haviland Carrier (1876-1950)</title>
 				<feature>Featured Scientist</feature>
 				<page>0228-0228</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2012">
@@ -52149,18 +52743,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0310-0311</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Celtis tetrandra</title>
 				<feature>Flowering Trees</feature>
 				<page>0317-0317</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Brahmagupta (598-668 CE)</title>
 				<feature>Featured Scientist</feature>
 				<page>0318-0318</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2012">
@@ -52367,18 +52964,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0425-0425</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Baccaurea courtallensis</title>
 				<feature>Flowering Trees</feature>
 				<page>0427-0427</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Rudolf Diesel (1858-1913)</title>
 				<feature>Featured Scientist</feature>
 				<page>0428-0428</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2012">
@@ -52644,18 +53244,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0525-0525</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Brachichiton acerifolius</title>
 				<feature>Flowering Trees</feature>
 				<page>0527-0527</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Wilhelm Ostwald (1853-1932)</title>
 				<feature>Featured Scientist</feature>
 				<page>0528-0528</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2012">
@@ -52836,24 +53439,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0619-0619</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write</title>
 				<feature>Information and Announcements</feature>
 				<page>0620-0620</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Elaeocarpus tuberculatus</title>
 				<feature>Flowering Trees</feature>
 				<page>0621-0621</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Yellapragada Subbarao (1895-1948)</title>
 				<feature>Featured Scientist</feature>
 				<page>0622-0622</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2012">
@@ -53052,24 +53659,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0712-0712</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Our Readers Write</title>
 				<feature>Information and Announcements</feature>
 				<page>0713-0713</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Flacourtia montana</title>
 				<feature>Flowering Trees</feature>
 				<page>0719-0719</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Henry Eyring (1901-1981)</title>
 				<feature>Featured Scientist</feature>
 				<page>0720-0720</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2012">
@@ -53281,18 +53892,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0817-0817</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Memecylon umbellatum</title>
 				<feature>Flowering Trees</feature>
 				<page>0819-0819</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Dennis M Ritchie (1941-2011)</title>
 				<feature>Featured Scientist</feature>
 				<page>0820-0820</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2012">
@@ -53496,18 +54110,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0921-0921</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Lophopetalum wightianum</title>
 				<feature>Flowering Trees</feature>
 				<page>0923-0923</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S S Pillai (1901-1950)</title>
 				<feature>Featured Scientist</feature>
 				<page>0924-0924</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2012">
@@ -53708,24 +54325,28 @@
 				<feature>Information and Announcements</feature>
 				<page>1013-1014</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies Summer Refresher Fellowship Programme for Students and Teachers - 2012</title>
 				<feature>Information and Announcements</feature>
 				<page>1015-1018</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Lophopetalum wightianum</title>
 				<feature>Flowering Trees</feature>
 				<page>1019-1019</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sambhu Nath De (1915-1985)</title>
 				<feature>Featured Scientist</feature>
 				<page>1020-1020</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2012">
@@ -53906,24 +54527,28 @@
 				<feature>Information and Announcements</feature>
 				<page>1116-1116</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Forty Seventh Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>1117-1117</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Knema attenuata</title>
 				<feature>Flowering Trees</feature>
 				<page>1119-1119</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Jack St.Clair Kilby (1923-2005)</title>
 				<feature>Featured Scientist</feature>
 				<page>1120-1120</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2012">
@@ -54091,34 +54716,39 @@
 				<feature>Information and Announcements</feature>
 				<page>1198-1198</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Index 2012</title>
 				<feature>Information and Announcements</feature>
 				<page>1199-1208</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Polyalthia coffeoides</title>
 				<feature>Flowering Trees</feature>
 				<page>1214-1214</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Har Gobind Khorana (1923-2005)</title>
 				<feature>Featured Scientist</feature>
 				<page>1215-1215</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="18">
+	<volume vnum="018">
 		<issue inum="01" month="01" year="2013">
 			<entry hassup="0">
 				<title>General Editorial</title>
 				<feature>Editorial</feature>
 				<page>0001-0003</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -54350,12 +54980,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0107-0107</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John Archibald Wheeler (1911-2008)</title>
 				<feature>Featured Scientist</feature>
 				<page>0108-0108</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2013">
@@ -54518,54 +55150,63 @@
 				<feature>Information and Announcements</feature>
 				<page>0194-0194</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course in Quantum Mechanics</title>
 				<feature>Information and Announcements</feature>
 				<page>0195-0195</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course in Statistical Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0196-0196</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course on Modern Biiotechnology: Concepts and Practice</title>
 				<feature>Information and Announcements</feature>
 				<page>0197-0197</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Forty Ninth Refresher Coyurse in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0198-0198</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>National Instructional Workshop in Cryptology</title>
 				<feature>Information and Announcements</feature>
 				<page>0199-0199</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>IISc Undergraduate Programme: Admissions for 2013</title>
 				<feature>Information and Announcements</feature>
 				<page>0200-0200</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Tetrameles nudiflora</title>
 				<feature>Flowering Trees</feature>
 				<page>0201-0201</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>D K Banerjee (1912-1993)</title>
 				<feature>Featured Scientist</feature>
 				<page>0202-0202</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2013">
@@ -54812,24 +55453,28 @@
 				<feature>Reflections</feature>
 				<page>0297-0297</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Order Form</title>
 				<feature>Reflections</feature>
 				<page>0298-0298</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Syzygium laetum</title>
 				<feature>Flowering Trees</feature>
 				<page>0299-0299</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Marin Mersenne (1588-1648)</title>
 				<feature>Featured Scientist</feature>
 				<page>0300-0300</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2013">
@@ -55033,24 +55678,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0390-0391</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Fiftieth Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0392-0392</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sterculia Guttata</title>
 				<feature>Flowering Trees</feature>
 				<page>0393-0393</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>S Pancharatnam (1934-1969)</title>
 				<feature>Featured Scientist</feature>
 				<page>0394-0394</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2013">
@@ -55244,12 +55893,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0495-0495</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Shreeram S Abhyankar (1930-2012)</title>
 				<feature>Featured Scientist</feature>
 				<page>0496-0496</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2013">
@@ -55453,18 +56104,21 @@
 				<feature></feature>
 				<page>0586-0586</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Clausena anisata</title>
 				<feature>Flowering Trees</feature>
 				<page>0593-0593</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Alfred Bernhard Nobel (1833-1896)</title>
 				<feature>Featured Scientist</feature>
 				<page>0594-0594</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2013">
@@ -55650,30 +56304,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0684-0684</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course in Statistical Mechanics</title>
 				<feature>Information and Announcements</feature>
 				<page>0685-0685</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course in Quantum Mechanics</title>
 				<feature>Information and Announcements</feature>
 				<page>0686-0686</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Clausena anisata</title>
 				<feature>Flowering Trees</feature>
 				<page>0687-0687</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sadhan Basu (1922-1992)</title>
 				<feature>Featured Scientist</feature>
 				<page>0688-0688</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2013">
@@ -55877,18 +56536,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0781-0781</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Clausena anisata</title>
 				<feature>Flowering Trees</feature>
 				<page>0782-0782</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Justus von Liebig (1803-1873)</title>
 				<feature>Featured Scientist</feature>
 				<page>0783-0783</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="2013">
@@ -56121,42 +56783,49 @@
 				<feature>Information and Announcements</feature>
 				<page>0866-0866</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Courses: Quantum Mechanics (28 Nov.–12 Dec. 2013)</title>
 				<feature>Information and Announcements</feature>
 				<page>0867-0867</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Courses: Theoretical Physics (2–5 Dec. 2013)</title>
 				<feature>Information and Announcements</feature>
 				<page>0868-0868</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Courses: Evolutionary Ecology of Plants &amp; Animals (11–26 Nov. 2013)</title>
 				<feature>Information and Announcements</feature>
 				<page>0869-0869</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Courses: Quantum Mechanics (2–14 Dec. 2013)</title>
 				<feature>Information and Announcements</feature>
 				<page>0870-0870</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Hardwickia binata</title>
 				<feature>Flowering Trees</feature>
 				<page>0871-0871</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John Edensor Littlewood (1885–1977)</title>
 				<feature>Featured Scientist</feature>
 				<page>0872-0872</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2013">
@@ -56328,12 +56997,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0961-0961</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Niels Bohr (1885–1962)</title>
 				<feature>Featured Scientist</feature>
 				<page>0962-0962</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2013">
@@ -56496,30 +57167,35 @@
 				<feature>Information and Announcements</feature>
 				<page>1051-1051</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Nobel Prize 2013</title>
 				<feature>Information and Announcements</feature>
 				<page>1052-1052</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Summer Research Fellowship Programme for Students and Teachers – 2014</title>
 				<feature>Information and Announcements</feature>
 				<page>1053-1053</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Hevea brasiliensis</title>
 				<feature>Flowering Trees</feature>
 				<page>1055-1055</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Leonar Michaelis (1875–1949); Maud Leonora Menten (1879–1960)</title>
 				<feature>Featured Scientist</feature>
 				<page>1056-1056</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2013">
@@ -56736,46 +57412,53 @@
 				<feature>Information and Announcements</feature>
 				<page>1150-1150</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Fifty-Eighth Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>1151-1151</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>First Refresher Course in Materials Preparation and Measurement of Properties</title>
 				<feature>Information and Announcements</feature>
 				<page>1152-1152</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Course on Quantum Mechanics</title>
 				<feature>Information and Announcements</feature>
 				<page>1153-1153</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Index 2013</title>
 				<feature>Information and Announcements</feature>
 				<page>1155-1164</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Ligustrum robustum</title>
 				<feature>Flowering Trees</feature>
 				<page>1165-1165</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Thomas Bayes (1702–1761); R A Fisher (1890–1962); P C Mahalanobis (1893–1972); R C Bose (1901–1987); D Basu (1924–2001)</title>
 				<feature>Featured Scientist</feature>
 				<page>1166-1166</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="19">
+	<volume vnum="019">
 		<issue inum="01" month="01" year="2014">
 			<entry hassup="0">
 				<title>General Editorial on Publication Ethics</title>
@@ -56800,6 +57483,7 @@
 				<feature>General Editorial</feature>
 				<page>0003-0003</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -56955,30 +57639,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0097-0097</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Sixtieth Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0098-0098</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Guidelines for Authors</title>
 				<feature>Information and Announcements</feature>
 				<page>0099-0103</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Polyalthia angustifolia</title>
 				<feature>Flowering Trees</feature>
 				<page>0105-0105</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Enrico Fermi (1901–1954)</title>
 				<feature>Featured Scientist</feature>
 				<page>0106-0106</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2014">
@@ -57197,24 +57886,28 @@
 				<feature>Our Readers Write</feature>
 				<page>0191-0191</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies’ Refresher Course on Bioinformatics in Modern Biology</title>
 				<feature>Information and Announcements</feature>
 				<page>0192-0192</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Macadamia ternifolia</title>
 				<feature>Flowering Trees</feature>
 				<page>0193-0193</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Norman Ernest Borlaug (1914–2009)</title>
 				<feature>Featured Scientist</feature>
 				<page>0194-0194</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2014">
@@ -57372,30 +58065,35 @@
 				<feature>Information and Announcements</feature>
 				<page>0297-0298</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sixty-first Science Academies' Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0299-0299</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Sixtieth Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0300-0300</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Lophopetalum wightianum</title>
 				<feature>Flowering Trees</feature>
 				<page>0301-0301</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>John McCarthy(1927–2011)</title>
 				<feature>Featured Scientist</feature>
 				<page>0194-0194</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="04" month="04" year="2014">
@@ -57571,12 +58269,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0391-0391</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>George Polya (1887–1925)</title>
 				<feature>Featured Scientist</feature>
 				<page>0392-0392</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="05" month="05" year="2014">
@@ -57762,12 +58462,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0483-0483</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Salvador E Luria(11912–1991)</title>
 				<feature>Featured Scientist</feature>
 				<page>0484-0484</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="06" month="06" year="2014">
@@ -57907,12 +58609,14 @@
 				<feature>Flowering Trees</feature>
 				<page>0585-0585</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Adolf von Baeyer</title>
 				<feature>Featured Scientist</feature>
 				<page>0586-0586</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="07" month="07" year="2014">
@@ -57957,6 +58661,7 @@
 				<feature>Table of Contents</feature>
 				<page>0590-0591</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Smiles</title>
@@ -58109,42 +58814,49 @@
 				<feature>Information and Announcements</feature>
 				<page>0658-0658</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Third Refresher Course in Materials Preparation and Measurement of Properties</title>
 				<feature>Information and Announcements</feature>
 				<page>0659-0659</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Refresher Course in Application of Quantum Mechanics to 'Atoms, Molecules and Radiation'</title>
 				<feature>Information and Announcements</feature>
 				<page>0660-0660</page>
 				<authors />
+				<dates />
 			</entry>
 				<entry hassup="0">
 				<title>Science Academies' Refresher Course on Foundation of Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0661-0661</page>
 				<authors />
+				<dates />
 			</entry>
 				<entry hassup="0">
 				<title>Guidelines for Authors</title>
 				<feature>Guidelines for Authors</feature>
 				<page>0662-0666</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Acacia mangium</title>
 				<feature>Flowering Trees</feature>
 				<page>0667-0667</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Robert Burns Woodward(1917–1979)</title>
 				<feature>Featured Scientist</feature>
 				<page>0668-0668</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
     	<issue inum="08" month="08" year="2014">
@@ -58171,6 +58883,7 @@
 				<feature>Table of Contents</feature>
 				<page>0668-0669</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Smiles</title>
@@ -58346,24 +59059,28 @@
 				<feature>Information and Announcements</feature>
 				<page>0775-0775</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Sixty-sisth Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0776-0776</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Antidesma montanum</title>
 				<feature>Flowering Trees</feature>
 				<page>0777-0777</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Aneesur Rahman(1927–1987)</title>
 				<feature>Featured Scientist</feature>
 				<page>0778-0778</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
         <issue inum="09" month="09" year="2014">
@@ -58408,6 +59125,7 @@
 				<feature>Table of Contents</feature>
 				<page>0784-0785</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Smiles</title>
@@ -58632,54 +59350,63 @@
 				<feature>Information and Announcements</feature>
 				<page>0873-0873</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course on Crystallography, Mineralogy, Igneous Petrology and Thermodynamics</title>
 				<feature>Information and Announcements</feature>
 				<page>0874-0874</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course in Theoretical Physics</title>
 				<feature>Information and Announcements</feature>
 				<page>0875-0875</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Refresher Course in Advances in Chemical Sciences and Sustainable Development</title>
 				<feature>Information and Announcements</feature>
 				<page>0876-0876</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Academies' Summer Research Fellowship Programme for Students and Teachers - 2015</title>
 				<feature>Information and Announcements</feature>
 				<page>0877-0877</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Order Form</title>
 				<feature>Order Form</feature>
 				<page>0878-0878</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Errata: Resonance, Vol.19, No.7, July 2014</title>
 				<feature>Errata</feature>
 				<page>0879-0881</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Breynia vitis-idaea</title>
 				<feature>Flowering Trees</feature>
 				<page>0883-0883</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Vladimir Igorevich Arnold</title>
 				<feature>Featured Scientist</feature>
 				<page>0884-0884</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2014">
@@ -58706,6 +59433,7 @@
 				<feature>Table of Contents</feature>
 				<page>0884-0885</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Smiles</title>
@@ -58891,18 +59619,21 @@
 				<feature>Information and Announcements</feature>
 				<page>0970-0970</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Colebrookea oppositifolia</title>
 				<feature>Flowering Trees</feature>
 				<page>0971-0971</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Yelavarthy Nayudamma</title>
 				<feature>Featured Scientist</feature>
 				<page>0972-0972</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="11" month="11" year="2014">
@@ -58947,6 +59678,7 @@
 				<feature>Table of Contents</feature>
 				<page>0974-0975</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Smiles</title>
@@ -59194,18 +59926,21 @@
 				<feature>Order Form</feature>
 				<page>1068-1068</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Canthium dicoccum (Gaertn.)</title>
 				<feature>Flowering Trees</feature>
 				<page>1069-1069</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Georg Cantor</title>
 				<feature>Featured Scientist</feature>
 				<page>1070-1070</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2014">
@@ -59255,6 +59990,7 @@
 				<feature>Table of Contents</feature>
 				<page>1074-1075</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Science Smiles</title>
@@ -59446,46 +60182,53 @@
 				<feature>Information and Announcements</feature>
 				<page>1197-1197</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Fourth Refresher Course in Materials Preparation and Measurement of Properties</title>
 				<feature>Information and Announcements</feature>
 				<page>1198-1198</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Summer Research Fellowship Programme - 2015</title>
 				<feature>Information and Announcements</feature>
 				<page>1199-1199</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Order Form</title>
 				<feature>Order Form</feature>
 				<page>1200-1200</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Index 2014</title>
 				<feature></feature>
 				<page>1201-1208</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Diospyros melanoxylon</title>
 				<feature>Flowering Trees</feature>
 				<page>1209-1209</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>William Henry Bragg (1862-1942) William Lawrence Bragg (1890-1971)</title>
 				<feature>Featured Scientist</feature>
 				<page>1210-1210</page>
 				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="20">
+	<volume vnum="020">
 		<issue inum="01" month="01" year="2015">
 			<entry hassup="0">
 				<title>Editorial</title>
@@ -59528,6 +60271,7 @@
 				<feature>Table of Contents</feature>
 				<page>0004-0005</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Asima Chatterjee: A Unique Natural Products Chemist</title>
@@ -59711,12 +60455,245 @@
 				<feature>Flowering Trees</feature>
 				<page>0091-0091</page>
 				<authors />
+				<dates />
 			</entry>
 			<entry hassup="0">
 				<title>Asima Chatterjee (1917-2006)</title>
 				<feature>Featured Scientist</feature>
 				<page>0092-0092</page>
 				<authors />
+				<dates />
+			</entry>
+		</issue>
+		<issue inum="02" month="02" year="2015">
+			<entry hassup="0">
+				<title>General Editorial on Publication Ethics</title>
+				<feature></feature>
+				<page>0091-0092</page>
+				<authors>
+					<author>
+						<name first="R." last="Ramaswamy">R. Ramaswamy</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Rajaram" last="Nityananda">Rajaram Nityananda</name>
+						<affiliation></affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Academy Policy on Plagiarism</title>
+				<feature></feature>
+				<page>0093-0093</page>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0094-0094</page>
+				<authors>
+					<author>
+						<name first="Ayan" last="Guha">Ayan Guha</name>
+						<affiliation></affiliation>
+						<email>ionguha@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0095-0095</page>
+				<authors>
+					<author>
+						<name first="Rajaram" last="Nityananda">Rajaram Nityananda</name>
+						<affiliation></affiliation>
+						<email>rajaram.nityananda@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Buckminster Fuller and his Fabulous Designs</title>
+				<feature>General Article</feature>
+				<page>0098-0122</page>
+				<authors>
+					<author>
+						<name first="G. K." last="Ananthasuresh">G. K. Ananthasuresh</name>
+						<affiliation>Department of Mechanical Engineering, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<email>suresh@mecheng.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fullerenes Revisited: Materials Chemistry and Applications of C$_{60}$ Molecules</title>
+				<feature>General Article</feature>
+				<page>0123-0135</page>
+				<authors>
+					<author>
+						<name first="Pradeep P." last="Shanbogh">Pradeep P. Shanbogh</name>
+						<affiliation>Poornaprajna Institute of Scientific Research, City Campus No. 4, 16th Cross, Sadashivnagar, Bangalore 560 080, India.</affiliation>
+						<email>pradeep@poornaprajna.org</email>
+					</author>
+					<author>
+						<name first="Nalini G." last="Sundaram">Nalini G. Sundaram</name>
+						<affiliation>Poornaprajna Institute of Scientific Research, City Campus No. 4, 16th Cross, Sadashivnagar, Bangalore 560 080, India.</affiliation>
+						<email>nalini@poornaprajna.org</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Realm of Matrices: Exponential and Logarithm Functions</title>
+				<feature>General Article</feature>
+				<page>0136-0150</page>
+				<authors>
+					<author>
+						<name first="Debapriya" last="Biswas">Debapriya Biswas</name>
+						<affiliation>Department of Mathematics, Indian Institute of Technology-Kharagpur, Kharagpur 721302, India.</affiliation>
+						<email>d_priya05@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Single-Molecule Spectroscopy: Every Molecule is Different!</title>
+				<feature>General Article</feature>
+				<page>0151-0164</page>
+				<authors>
+					<author>
+						<name first="Kankan" last="Bhattacharyya">Kankan Bhattacharyya</name>
+						<affiliation>Department of Physical Chemistry, Indian Association for the Cultivation of Science Jadavpur, Kolkata 700 032 India.</affiliation>
+						<email>pckb@iacs.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chemical Utilisation of CO$_{2}$: A Challenge for the Sustainable World</title>
+				<feature>General Article</feature>
+				<page>0165-0176</page>
+				<authors>
+					<author>
+						<name first="Dinesh" last="Jagadeesan">Dinesh Jagadeesan</name>
+						<affiliation>Physical and Materials, Chemistry Division, CSIR–National Chemical Laboratory, Dr Homi Bhabha Road, Pashan, Pune 411 008, India.</affiliation>
+						<email>djagadeesan@ncl.res.in</email>
+					</author>
+					<author>
+						<name first="Bhaskar" last="Joshi">Bhaskar Joshi</name>
+						<affiliation>Physical and Materials, Chemistry Division, CSIR–National Chemical Laboratory, Dr Homi Bhabha Road, Pashan, Pune 411 008, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Prashant" last="Parameswaran">Prashant Parameswaran</name>
+						<affiliation>Physical and Materials, Chemistry Division, CSIR–National Chemical Laboratory, Dr Homi Bhabha Road, Pashan, Pune 411 008, India.</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Rediscovering Genetics with Drosophila</title>
+				<feature>Classroom</feature>
+				<page>0177-0183</page>
+				<authors>
+					<author>
+						<name first="Neeru" last="Dhamija">Neeru Dhamija</name>
+						<affiliation>Department of Biochemistry, Daulat Ram College, University of Delhi, Delhi 110007, India.</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Sunita" last="Joshi">Sunita Joshi</name>
+						<affiliation>Department of Biochemistry, Daulat Ram College, University of Delhi, Delhi 110007, India.</affiliation>
+						<email>sunjoshi5@yahoo.co.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="R"></date>
+					<date type="A"></date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Science Academies’ Seventieth Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0184-0184</page>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Science Academies’Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0185-0185</page>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Indian Institute of Science - Undergraduate Programme: Admissions for 2015</title>
+				<feature>Information and Announcements</feature>
+				<page>0186-0186</page>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Excoecaria crenulata</title>
+				<feature>Flowering Trees</feature>
+				<page>0187-0187</page>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Richard Buckminster Fuller</title>
+				<feature>Featured Scientist</feature>
+				<page>0188-0188</page>
+				<authors />
+				<dates />
 			</entry>
 		</issue>
 	</volume>
