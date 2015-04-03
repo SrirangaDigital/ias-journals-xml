@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE cs SYSTEM "journal.dtd">
-<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 
 <journal title="Resonance - Journal of Science Education" short="Resonance" mnemonic="res">
 	<volume vnum="001">
@@ -58118,7 +58117,7 @@
 			<entry hassup="0">
 				<title>George Pólya – Educator Extraordinaire</title>
 				<feature>Article-in-a-Box</feature>
-				<page>0303-00306</page>
+				<page>0303-0306</page>
 				<authors>
 					<author>
 						<name first="B." last="Sury">B. Sury</name>
@@ -58133,7 +58132,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-			<entry hassup="0">			
+			<entry hassup="0">
 				<title>Science Smiles</title>
 				<feature>Science Smiles</feature>
 				<page>0307-0307</page>
@@ -58859,7 +58858,7 @@
 				<dates />
 			</entry>
 		</issue>
-    	<issue inum="08" month="08" year="2014">
+		<issue inum="08" month="08" year="2014">
 			<entry hassup="0">
 				<title>Editorial</title>
 				<feature>Editorial</feature>
@@ -59083,7 +59082,7 @@
 				<dates />
 			</entry>
 		</issue>
-        <issue inum="09" month="09" year="2014">
+		<issue inum="09" month="09" year="2014">
 			<entry hassup="0">
 				<title>Editorial</title>
 				<feature>Editorial</feature>
@@ -59220,7 +59219,7 @@
 						<email></email>
 					</author>
 					<author>
-						<name first="Nandakumar " last="Kalarikkal">Nandakumar  Kalarikkal</name>
+						<name first="Nandakumar " last="Kalarikkal">Nandakumar Kalarikkal</name>
 						<affiliation>Mahatma Gandhi University, Kerala.</affiliation>
 						<email></email>
 					</author>
@@ -59428,7 +59427,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-            <entry hassup="0">
+			<entry hassup="0">
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
 				<page>0884-0885</page>
@@ -59575,7 +59574,7 @@
 						<name first="B." last="Sury">B. Sury</name>
 						<affiliation></affiliation>
 						<email></email>
-					</author>	
+					</author>
 				</authors>
 				<dates>
 					<date type="M"></date>
@@ -59673,7 +59672,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-            <entry hassup="0">
+			<entry hassup="0">
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
 				<page>0974-0975</page>
@@ -59985,7 +59984,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-            <entry hassup="0">
+			<entry hassup="0">
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
 				<page>1074-1075</page>
@@ -60266,7 +60265,7 @@
 					<date type="E"></date>
 				</dates>
 			</entry>
-            <entry hassup="0">
+			<entry hassup="0">
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
 				<page>0004-0005</page>
