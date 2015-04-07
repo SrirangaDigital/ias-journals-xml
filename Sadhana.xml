@@ -834,7 +834,7 @@
 				<feature></feature>
 				<page>0343-0352</page>
 				<abstract>
-					<p>Dynamic analogues of vin Karman-Donnell type shell equations for doubly curved, thin isotropic shells in rectangular planform are formulated and expressed in displacement components. These nonlinear partial differential equations of motion are linearized by using a quadratic extrapolation technique. The spatial and temporal discretization of differential equatoins have been carried out  by finite-degree Chebyshev polynomials and implicit Houbolt time-marching techniques respectively. Multiple regression besed on the least square error norm is employed to eliminate the incompatability generated due to spatial discretization (equations $>$ unknowns). Spatial convergence study revealed that nine term expansion of each displacement in $x$ and $y$ respectively, is sufficient to yield fairly accurate results. Clamped and simply supported immovable doubly curved shallow shells are analysed. Results have been compared with those obtained by other numerical methods. Considering uniformly distributed normal loading, the results of static and dynamic analyses are presented.</p>
+					<p>Dynamic analogues of vin Karman-Donnell type shell equations for doubly curved, thin isotropic shells in rectangular planform are formulated and expressed in displacement components. These nonlinear partial differential equations of motion are linearized by using a quadratic extrapolation technique. The spatial and temporal discretization of differential equatoins have been carried out by finite-degree Chebyshev polynomials and implicit Houbolt time-marching techniques respectively. Multiple regression besed on the least square error norm is employed to eliminate the incompatability generated due to spatial discretization (equations $>$ unknowns). Spatial convergence study revealed that nine term expansion of each displacement in $x$ and $y$ respectively, is sufficient to yield fairly accurate results. Clamped and simply supported immovable doubly curved shallow shells are analysed. Results have been compared with those obtained by other numerical methods. Considering uniformly distributed normal loading, the results of static and dynamic analyses are presented.</p>
 				</abstract>
 				<keywords>Nonlinear mechanics;doubly curved shells;analytical solutions;Chebyshev technique.</keywords>
 				<authors>
@@ -890,7 +890,7 @@
 				<feature></feature>
 				<page>0367-0380</page>
 				<abstract>
-					<p>The objective of the present paper is to investigate the large amplitude vibratory  behaviour of unsymmetrically laminated plates. For this purpose, an efficient and accurate four-node shear flexible rectangular material finite element(MFE) with six degrees offreedom per node (three displacements $(u;v;w)$ along the $x, y$ and $z$ axes, two rotations ($\theta_x$ and $\theta_y$) about $y$ and $x$ axes and twist $(\theta_{xy})$) is developed. The element assumes bi-cubic polynomial distribution with sixteen generalized undetermined coefficients for the transverse displacement. The fields for section rotations $\theta_x$ and $\theta_y$, and in-plane displacements $u$ and $v$ are derived using moment-shear equilibrium and in-plane equilibrium equations of composite strips along the $x$- and $y$-axes. The displacement field so derived not only depends on the element coordinates but is a function of extensional, bending-extensional coupling, bending and transverse shear stiffness as well. The element stiffness and mass matrices are computed numerically by employing $3\times 3$ Gauss-Legendre product rules. The element is found to be free of $shear\ locking$ and does not exhibit any spurious modes. In orderto compute the nonlinearfrequencies, linear mode shape corresponding to the fundamental frequency is assumed as the spatial distribution and nonlinear finite element equations are reduced to a single nonlinear second-order differential equation. This equation is solved by employing the $direct\ numerical\ integration\ method$. A series of numerical examples are solved to demonstrate the efficacy of the proposed element.</p>
+					<p>The objective of the present paper is to investigate the large amplitude vibratory behaviour of unsymmetrically laminated plates. For this purpose, an efficient and accurate four-node shear flexible rectangular material finite element(MFE) with six degrees offreedom per node (three displacements $(u;v;w)$ along the $x, y$ and $z$ axes, two rotations ($\theta_x$ and $\theta_y$) about $y$ and $x$ axes and twist $(\theta_{xy})$) is developed. The element assumes bi-cubic polynomial distribution with sixteen generalized undetermined coefficients for the transverse displacement. The fields for section rotations $\theta_x$ and $\theta_y$, and in-plane displacements $u$ and $v$ are derived using moment-shear equilibrium and in-plane equilibrium equations of composite strips along the $x$- and $y$-axes. The displacement field so derived not only depends on the element coordinates but is a function of extensional, bending-extensional coupling, bending and transverse shear stiffness as well. The element stiffness and mass matrices are computed numerically by employing $3\times 3$ Gauss-Legendre product rules. The element is found to be free of $shear\ locking$ and does not exhibit any spurious modes. In orderto compute the nonlinearfrequencies, linear mode shape corresponding to the fundamental frequency is assumed as the spatial distribution and nonlinear finite element equations are reduced to a single nonlinear second-order differential equation. This equation is solved by employing the $direct\ numerical\ integration\ method$. A series of numerical examples are solved to demonstrate the efficacy of the proposed element.</p>
 				</abstract>
 				<keywords>Nonlinear oscillations;unsymmetrically laminated plates;finite element method;direct numerical integration method.</keywords>
 				<authors>
@@ -1407,7 +1407,7 @@
 				<feature></feature>
 				<page>0005-0024</page>
 				<abstract>
-					<p>Microsegregation gets eliminated significantly if subsequent hot working and/or annealing are done on cast products. Macrosegregation however persists, causing problems in quality, and hence, has to be attended to. Microsegregation is a consequence of rejection of solutes by the solid into the interdendritic liquid. Scheil’s  equation is mostly employed. However, other equations have been proposed, which take into account diffusion in solid phase and/or incomplete mixing in liquid.</p>
+					<p>Microsegregation gets eliminated significantly if subsequent hot working and/or annealing are done on cast products. Macrosegregation however persists, causing problems in quality, and hence, has to be attended to. Microsegregation is a consequence of rejection of solutes by the solid into the interdendritic liquid. Scheil’s equation is mostly employed. However, other equations have been proposed, which take into account diffusion in solid phase and/or incomplete mixing in liquid.</p>
 					<p>Macrosegregation results from movements of microsegregated regions over macroscopic distances due to motion of liquid and free crystals. Motion of impure interdendritic liquid causes regions of positive macrosegregation, whereas purer solid crystals yield negative macrosegregation. Flow of interdendritic liquid is primarily natural convection due to thermal and solutal buoyancy, and partly forced convection due to suction by shrinkage cavity formation etc.</p>
 					<p>The present paper briefly deals with fundamentals of the above and contains some recent studies as well. Experimental investigations in molten alloys do not allow visualization of the complex flow pattern as well as other phenomena, such as dendrite-tip detachment. Experiments with room temperature analogues, and mathematical modelling have supplemented these efforts. However, the complexity of the phenomena demands simplifying assumptions. The agreement with experimental data is mostly qualitative.</p>
 					<p>The paper also briefly discusses centreline macrosegregation during continuous casting of steel, methods to avoid it, and the, importance of early columnar-to-equiaxed transition (CET) as well as the fundamentals of CET.</p>
@@ -1545,7 +1545,7 @@
 				<feature></feature>
 				<page>0103-0120</page>
 				<abstract>
-					<p>The process of solidification process is complex in nature and the simulation of such process is required in industry before it is actually undertaken. Finite element method is used to simulate the heat transfer process  accompanying the solidification process. The metal and the mould along with the air gap formation is accounted in the heat transfer simulation. Distortion of  the casting is caused due to non-uniform shrinkage associated with the process. Residual stresses are induced in the final castings. Simulation of the shrinkage and the thermal stresses are also carried out using finite element methods. The material behaviour is considered as visco-plastic. The simulations are compared with available experimental data and the comparison is found to be good. Special considerations regarding the simulation of solidification process are also brought out.</p>
+					<p>The process of solidification process is complex in nature and the simulation of such process is required in industry before it is actually undertaken. Finite element method is used to simulate the heat transfer process accompanying the solidification process. The metal and the mould along with the air gap formation is accounted in the heat transfer simulation. Distortion of the casting is caused due to non-uniform shrinkage associated with the process. Residual stresses are induced in the final castings. Simulation of the shrinkage and the thermal stresses are also carried out using finite element methods. The material behaviour is considered as visco-plastic. The simulations are compared with available experimental data and the comparison is found to be good. Special considerations regarding the simulation of solidification process are also brought out.</p>
 				</abstract>
 				<keywords>Casting;solidification;heat transfer;thermal stress;finite element method.</keywords>
 				<authors>
@@ -1779,7 +1779,7 @@
 				<feature></feature>
 				<page>0227-0236</page>
 				<abstract>
-					<p>Correlation tracking plays an important role in the automation of weapon systems. Area correlation is an effective technique for tracking targets that have neither prominent features nor high contrast with the background and  the ‘target’ can even be an area or a scene of interest. Even though this technique is robust under varying conditions of target background and light conditions, it has some problems like target drift and false registration. When the tracker or target is moving, the registration point drifts due to the discrete pixel size and aspect angle change.</p>
+					<p>Correlation tracking plays an important role in the automation of weapon systems. Area correlation is an effective technique for tracking targets that have neither prominent features nor high contrast with the background and the ‘target’ can even be an area or a scene of interest. Even though this technique is robust under varying conditions of target background and light conditions, it has some problems like target drift and false registration. When the tracker or target is moving, the registration point drifts due to the discrete pixel size and aspect angle change.</p>
 					<p>In this research work, an attempt has been made to improve the performance of a correlation tracker for tracking ground targets with very poor contrast. In the present work only the CCD visible images with very poor target to background contrast are considered.</p>
 					<p>Applying novel linear and nonlinear filters, the problems present in the correlation tracker are overcome. Confidence and redundancy measures have been proposed to improve the performance by detecting misregistration. The proposed algorithm is tested on different sequences of images and its performance is satisfactory.</p>
 				</abstract>
@@ -1983,7 +1983,7 @@
 				</dates>
 			</entry>
 			<entry issup="0">
-				<title>Axial symmetric rotation of a partially  immersed body in a liquid with a surfactant layer</title>
+				<title>Axial symmetric rotation of a partially immersed body in a liquid with a surfactant layer</title>
 				<feature></feature>
 				<page>0353-0362</page>
 				<abstract>
@@ -7837,7 +7837,7 @@
 				<feature></feature>
 				<page>0347-0385</page>
 				<abstract>
-					<p>Pricing ﬁnancial options is amongst the most important and challenging  problems in the modern ﬁnancial industry. Except in the simplest cases, the prices of options do not have a simple closed form solution and efﬁcient computational methods are needed to determine them. Monte Carlo methods have increasingly become a popular computational tool to price complex ﬁnancial options, especially when the underlying space of assets has a large dimensionality, as the performance of other numerical methods typically suffer from the ‘curse of dimensionality’. However, even Monte-Carlo techniques can be quite slow as the problem-size increases, motivating research in variance reduction techniques to increase the efﬁciency of the simulations. In this paper, we review some of the popular variance reduction techniques and their application to pricing options. We particularly focus on the recent Monte-Carlo techniques proposed to tackle the difﬁcult problem of pricing American options. These include: regression-based methods, random tree methods and stochastic mesh methods. Further, we show how importance sampling, a popular variance reduction technique, may be combined  with these methods to enhance their effectiveness. We also brieﬂy review the evolving options market in India.</p>
+					<p>Pricing ﬁnancial options is amongst the most important and challenging problems in the modern ﬁnancial industry. Except in the simplest cases, the prices of options do not have a simple closed form solution and efﬁcient computational methods are needed to determine them. Monte Carlo methods have increasingly become a popular computational tool to price complex ﬁnancial options, especially when the underlying space of assets has a large dimensionality, as the performance of other numerical methods typically suffer from the ‘curse of dimensionality’. However, even Monte-Carlo techniques can be quite slow as the problem-size increases, motivating research in variance reduction techniques to increase the efﬁciency of the simulations. In this paper, we review some of the popular variance reduction techniques and their application to pricing options. We particularly focus on the recent Monte-Carlo techniques proposed to tackle the difﬁcult problem of pricing American options. These include: regression-based methods, random tree methods and stochastic mesh methods. Further, we show how importance sampling, a popular variance reduction technique, may be combined with these methods to enhance their effectiveness. We also brieﬂy review the evolving options market in India.</p>
 				</abstract>
 				<keywords>Pricing ﬁnancial options;Monte Carlo methods;importance sampling;options market.</keywords>
 				<authors>
@@ -7864,7 +7864,7 @@
 				<feature></feature>
 				<page>0387-0402</page>
 				<abstract>
-					<p>In this paper we develop a quadratic programming model for partner selection and planning in integrated supply chain networks embedded with both sell-side and buy-side electronic marketplaces. Such a scenario arises in several  practical applications. In particular, we consider a contract manufacturer who procures components from suppliers through a component marketplace and sells its manufactured sub-assemblies to original equipment manufacturers (OEMs), through a sub-assembly marketplace. In these web-enabled supply chains, embedded with upstream and downstream electronic marketplaces, we need methods for online supply-chain partner selection based on pricing and delivery schedules. In this paper, we develop and present such a model that selects partners, synchronizes supply chain activities and optimizes the proﬁt through optimal revenue pricing and cost minimization.</p>
+					<p>In this paper we develop a quadratic programming model for partner selection and planning in integrated supply chain networks embedded with both sell-side and buy-side electronic marketplaces. Such a scenario arises in several practical applications. In particular, we consider a contract manufacturer who procures components from suppliers through a component marketplace and sells its manufactured sub-assemblies to original equipment manufacturers (OEMs), through a sub-assembly marketplace. In these web-enabled supply chains, embedded with upstream and downstream electronic marketplaces, we need methods for online supply-chain partner selection based on pricing and delivery schedules. In this paper, we develop and present such a model that selects partners, synchronizes supply chain activities and optimizes the proﬁt through optimal revenue pricing and cost minimization.</p>
 				</abstract>
 				<keywords>Supply chain management;dynamic pricing;partner selection;supply chain planning;electronic marketplaces.</keywords>
 				<authors>
@@ -7891,7 +7891,7 @@
 				<feature></feature>
 				<page>0403-0429</page>
 				<abstract>
-					<p>Although information plays a major role in effective functioning of supply chain networks (SCNs), studies that deal speciﬁcally with the dynamics of supply chains are few. This problem is relatively new since fast communications and the means to employ it for effective management of supply chains did not exist till recently. In order to provide a vehicle for dynamic modelling and analysis of supply chain operations in vague and uncertain environments, we propose  a fuzzy enhanced high level petri net (FEHLPN) model. The proposed model captures the capability of petri nets for graphical and analytical representation of dynamic SCNs with the management of uncertain information provided by fuzzy logic. The dynamics associated with two production planning and control policies are modelled, viz. make-to-stock and assemble-to-order in vague and ambiguous situations in electronic commerce environment. A fuzzy set and fuzzy truth-values are attached to an uncertain fuzzy token to model imprecision and uncertainty. The proposed FEHLPN incorporates essential aspects of rule-based systems, such as conservation of facts, refraction, and closed-world assumption.</p>
+					<p>Although information plays a major role in effective functioning of supply chain networks (SCNs), studies that deal speciﬁcally with the dynamics of supply chains are few. This problem is relatively new since fast communications and the means to employ it for effective management of supply chains did not exist till recently. In order to provide a vehicle for dynamic modelling and analysis of supply chain operations in vague and uncertain environments, we propose a fuzzy enhanced high level petri net (FEHLPN) model. The proposed model captures the capability of petri nets for graphical and analytical representation of dynamic SCNs with the management of uncertain information provided by fuzzy logic. The dynamics associated with two production planning and control policies are modelled, viz. make-to-stock and assemble-to-order in vague and ambiguous situations in electronic commerce environment. A fuzzy set and fuzzy truth-values are attached to an uncertain fuzzy token to model imprecision and uncertainty. The proposed FEHLPN incorporates essential aspects of rule-based systems, such as conservation of facts, refraction, and closed-world assumption.</p>
 				</abstract>
 				<keywords>Supply chains;modelling of dynamics;fuzzy enhanced petri nets;uncertainty</keywords>
 				<authors>
@@ -8013,7 +8013,7 @@
 				<page>0475-0498</page>
 				<abstract>
 					<p>In this study, we use the strategic proﬁt model (SPM) and the economic value-added (EVA to measure shareholder value). SPM measures the return on net worth (RONW) which is deﬁned as the return on assets (ROA) multiplied by the ﬁnancial leverage. EVA is deﬁned as the ﬁrm’s net operating proﬁt after taxes (NOPAT) minus the capital charge. Both, RONW and EVA provide an indication of how much shareholder value a ﬁrm creates for its shareholders, year on year.</p>
-					<p>With the increasing focus on creation of shareholder value and core competencies, many companies are outsourcing their information technology (IT) related activities to third party software companies. Indian software companies have become leaders in providing these services. Companies from several other countries  are also competing for the top slot. We use the SPM and EVA models to analyse the four listed players of the software industry using the publicly available published data. We compare the ﬁnancial data obtained from the models, and use peer average data to provide customized recommendations for each company to improve their shareholder value. Assuming that the companies follow these rules, we also predict future RONW and EVA for the companies for the ﬁnancial year 2005. Finally, we make several recommendations to software providers for effectively competing in the global arena.</p>
+					<p>With the increasing focus on creation of shareholder value and core competencies, many companies are outsourcing their information technology (IT) related activities to third party software companies. Indian software companies have become leaders in providing these services. Companies from several other countries are also competing for the top slot. We use the SPM and EVA models to analyse the four listed players of the software industry using the publicly available published data. We compare the ﬁnancial data obtained from the models, and use peer average data to provide customized recommendations for each company to improve their shareholder value. Assuming that the companies follow these rules, we also predict future RONW and EVA for the companies for the ﬁnancial year 2005. Finally, we make several recommendations to software providers for effectively competing in the global arena.</p>
 				</abstract>
 				<keywords>Shareholder value;strategic proﬁt model (SPM);economic value-added (EVA).</keywords>
 				<authors>
@@ -8381,7 +8381,7 @@
 				<feature></feature>
 				<page>0661-0671</page>
 				<abstract>
-					<p>This paper deals with the determination of unknown heating temperatures  and temperature distributions on the upper surface of a thin circular plate, deﬁned as $0 \leq r \leq a,−b/2 \leq z \leq b/2$. The expressions of unknown heating temperatures and temperature distributions are obtained in series form, involving Bessel’s functions with the help of the integral transform technique. Thermoelastic deformations are discussed with the help of temperature and are illustrated numerically.</p>
+					<p>This paper deals with the determination of unknown heating temperatures and temperature distributions on the upper surface of a thin circular plate, deﬁned as $0 \leq r \leq a,−b/2 \leq z \leq b/2$. The expressions of unknown heating temperatures and temperature distributions are obtained in series form, involving Bessel’s functions with the help of the integral transform technique. Thermoelastic deformations are discussed with the help of temperature and are illustrated numerically.</p>
 				</abstract>
 				<keywords>Inverse transient;thermoelastic deformation</keywords>
 				<authors>
@@ -8408,7 +8408,7 @@
 				<feature></feature>
 				<page>0673-0686</page>
 				<abstract>
-					<p>Laminated composites with ceramic front layers and metallic or composite  backing layers have gained attractiveness as lightweight armours, as they exhibit the same ballistic performance with lower areal densities as compared to steels. Drop-weight testing (DWT) has potential for evaluating the low velocity impact behaviour of materials. This testing gives signiﬁcant ideas and information about failure mechanisms and behaviour of materials under low velocity impact. In this study, DWT of alumina/aluminum laminated composites was done in order to investigate the effects of lamination type, density with respect to area and mechanical  property of backing material on the low velocity ballistic performance of these composites. The experimental results showed that the laminated composite with ceramic front layer and aged-aluminum alloy as backing layer was the most effective among different investigated specimens against low velocity impact loads.</p>
+					<p>Laminated composites with ceramic front layers and metallic or composite backing layers have gained attractiveness as lightweight armours, as they exhibit the same ballistic performance with lower areal densities as compared to steels. Drop-weight testing (DWT) has potential for evaluating the low velocity impact behaviour of materials. This testing gives signiﬁcant ideas and information about failure mechanisms and behaviour of materials under low velocity impact. In this study, DWT of alumina/aluminum laminated composites was done in order to investigate the effects of lamination type, density with respect to area and mechanical property of backing material on the low velocity ballistic performance of these composites. The experimental results showed that the laminated composite with ceramic front layer and aged-aluminum alloy as backing layer was the most effective among different investigated specimens against low velocity impact loads.</p>
 				</abstract>
 				<keywords>Laminated composite;impact;drop-weight testing.</keywords>
 				<authors>
@@ -8506,7 +8506,7 @@
 				<feature></feature>
 				<page>0713-0722</page>
 				<abstract>
-					<p>We investigate the application of induction motor stator current spectral analysis (MCSA) for detection of rolling element bearing damage from the outer raceway. In this work, MCSA and vibration analysis are applied to induction motor to detect outer raceway defects in faulty bearings. Data acquisition, recording,and fast fourier transform (FFT) algorithms are done by using the LabVIEW programming language. Experimental results verify the relationship between vibration  analysis and MCSA, and identify the presence of outer raceway bearing defects in induction machines. This work also indicates that detecting fault frequencies by motor currents is more difﬁcult than detecting them by vibration analysis. The use of intensive resolution FFT is recommended in MCSA for detecting faults easily. Reinstalling a faulty bearing can alter the characteristic frequencies and it is difficult to compare results from different bearings or even from the same bearing in different installations.</p>
+					<p>We investigate the application of induction motor stator current spectral analysis (MCSA) for detection of rolling element bearing damage from the outer raceway. In this work, MCSA and vibration analysis are applied to induction motor to detect outer raceway defects in faulty bearings. Data acquisition, recording,and fast fourier transform (FFT) algorithms are done by using the LabVIEW programming language. Experimental results verify the relationship between vibration analysis and MCSA, and identify the presence of outer raceway bearing defects in induction machines. This work also indicates that detecting fault frequencies by motor currents is more difﬁcult than detecting them by vibration analysis. The use of intensive resolution FFT is recommended in MCSA for detecting faults easily. Reinstalling a faulty bearing can alter the characteristic frequencies and it is difficult to compare results from different bearings or even from the same bearing in different installations.</p>
 				</abstract>
 				<keywords>Motor vibration;spectral analysis;stator current;bearing damage.</keywords>
 				<authors>
@@ -8901,7 +8901,7 @@
 				<feature></feature>
 				<page>0069-0078</page>
 				<abstract>
-					<p>An electronic circuit realization of the logistic difference equation is presented using analog electronics. The behaviour of the realized system is evaluated  against computer simulations of the same. The circuit is found to exhibit the entire range of dynamics of the logistic equation: ﬁxed points, periodicity, period doubling, chaos and intermittency. Quantitative measurements of the dynamics of the realized system are presented and are found to be in good agreement with the theoretical values. Some possible applications of such a realization are brieﬂy discussed.</p>
+					<p>An electronic circuit realization of the logistic difference equation is presented using analog electronics. The behaviour of the realized system is evaluated against computer simulations of the same. The circuit is found to exhibit the entire range of dynamics of the logistic equation: ﬁxed points, periodicity, period doubling, chaos and intermittency. Quantitative measurements of the dynamics of the realized system are presented and are found to be in good agreement with the theoretical values. Some possible applications of such a realization are brieﬂy discussed.</p>
 				</abstract>
 				<keywords>Nonlinear dynamics;dynamical systems;chaos;analog computation.</keywords>
 				<authors>
@@ -8967,7 +8967,7 @@
 				<feature></feature>
 				<page>0105-0115</page>
 				<abstract>
-					<p>$Vibrio\ cholerae,\ Vibrio\ vulniﬁcus,\ Vibrio\ parahaemolyticus$ and several  other related $Vibrio$ species show distinctly similar two-chromosomal genome organization. However, the modes of pathogenicity are very different among these species, and this is largely attributed to externally acquired genetic elements. We develop some statistical methods to determine these external genetic elements or genomic islands in genomes based on their differential oligonucleotide usage patterns compared to the rest of the genome. Genomic islands identiﬁed by these unsupervised statistical methods include integron and pathogenicity islands. After statistical determination of the genomic islands, we investigate their gene contents and their possible association with the pathogenic behaviour of the corresponding $Vibrio$ species. These investigations lead to observations that are of evolutionary and biological signiﬁcance.</p>
+					<p>$Vibrio\ cholerae,\ Vibrio\ vulniﬁcus,\ Vibrio\ parahaemolyticus$ and several other related $Vibrio$ species show distinctly similar two-chromosomal genome organization. However, the modes of pathogenicity are very different among these species, and this is largely attributed to externally acquired genetic elements. We develop some statistical methods to determine these external genetic elements or genomic islands in genomes based on their differential oligonucleotide usage patterns compared to the rest of the genome. Genomic islands identiﬁed by these unsupervised statistical methods include integron and pathogenicity islands. After statistical determination of the genomic islands, we investigate their gene contents and their possible association with the pathogenic behaviour of the corresponding $Vibrio$ species. These investigations lead to observations that are of evolutionary and biological signiﬁcance.</p>
 				</abstract>
 				<keywords>Dendrogram;hierarchical clustering;horizontally acquired genes;oligonucleotide distributions;statistical test of signiﬁcance;transposons.</keywords>
 				<authors>
@@ -9131,7 +9131,7 @@
 				<feature></feature>
 				<page>0213-0226</page>
 				<abstract>
-					<p>The constant search for new materials has provided impetus to research in piezoelectric materials. An anti-plane problem for a cracked unbounded two-dimensional poled piezoelectric plate has been investigated. The crack rims open  on account of shear mechanical forces applied at the remote boundary and inplane electric displacement ﬁeld prescribed at the inﬁnite boundary. Thus the crack yields both mechanically and electrically. Consequently, a plastic zone and a saturation zone protrude ahead of each tip of the crack. These developed zones are in turn closed by applying yield point shear stress at the rims of plastic zone and normal closing saturation limit displacement on the rims of saturation zones. Two cases are investigated when</p>
+					<p>The constant search for new materials has provided impetus to research in piezoelectric materials. An anti-plane problem for a cracked unbounded two-dimensional poled piezoelectric plate has been investigated. The crack rims open on account of shear mechanical forces applied at the remote boundary and inplane electric displacement ﬁeld prescribed at the inﬁnite boundary. Thus the crack yields both mechanically and electrically. Consequently, a plastic zone and a saturation zone protrude ahead of each tip of the crack. These developed zones are in turn closed by applying yield point shear stress at the rims of plastic zone and normal closing saturation limit displacement on the rims of saturation zones. Two cases are investigated when</p>
 					<ol type="lower-roman">
 						<li>the developed saturation zone length exceeds that of the developed plastic zone, and</li>
 						<li>saturation zone length is smaller than that of the plastic zone.</li>
@@ -9217,7 +9217,7 @@
 				<feature></feature>
 				<page>0245-0258</page>
 				<abstract>
-					<p>This paper describes an active ﬁlter topology to improve the performance of hysteresis direct torque control (HDTC) of interior permanent magnet synchronous motor (IPMSM). The ﬁlter topology consists of an active ﬁlter and two RLC ﬁlters, and is connected to the main power circuit through a $1:1$ transformer. The active ﬁlter is characterized by detecting the harmonics in the motor phase voltages and injecting equivalent harmonic voltages to produce almost sinusoidal voltage waveform to the motor terminals. The active ﬁlter uses hysteresis voltage controller while the motor main circuit uses hysteresis direct torque control.  The simulation results of this combined control structure show considerable torque ripple reduction in the steady state range and adequate dynamic torque performance as well as considerable harmonic voltage and EMI noise reduction.</p>
+					<p>This paper describes an active ﬁlter topology to improve the performance of hysteresis direct torque control (HDTC) of interior permanent magnet synchronous motor (IPMSM). The ﬁlter topology consists of an active ﬁlter and two RLC ﬁlters, and is connected to the main power circuit through a $1:1$ transformer. The active ﬁlter is characterized by detecting the harmonics in the motor phase voltages and injecting equivalent harmonic voltages to produce almost sinusoidal voltage waveform to the motor terminals. The active ﬁlter uses hysteresis voltage controller while the motor main circuit uses hysteresis direct torque control. The simulation results of this combined control structure show considerable torque ripple reduction in the steady state range and adequate dynamic torque performance as well as considerable harmonic voltage and EMI noise reduction.</p>
 				</abstract>
 				<keywords>Interior permanent magnet synchronous motor;direct torque control;stator ﬂux linkage;active power ﬁlter;voltage harmonics;torque ripples.</keywords>
 				<authors>
@@ -9845,7 +9845,7 @@
 				<feature></feature>
 				<page>0583-0595</page>
 				<abstract>
-					<p>Fly ash particles entrained in the ﬂue gas from boiler furnaces in coal-ﬁred power stations can cause serious erosive wear on steel surfaces along the ﬂow path. Such erosion can signiﬁcantly reduce the operational life of the boiler components. A mathematical model embodying the mechanisms of erosion on behaviour, has been developed to predict erosion rates of coal-ﬁred boiler components  at different temperatures. Various grades of steels used in fabrication of boiler components and published data pertaining to boiler ﬂy ash have been used for the modelling. The model incorporates high temperature tensile properties of the target metal surface at room and elevated temperatures and has been implemented in an user-interactive in-house computer code (EROSIM–1), to predict the erosion rates of various grades of steel. Predictions have been found to be in good agreement with the published data. The model is calibrated with plant and experimental data generated from a high temperature air-jet erosion-testing facility. It is hoped that the calibrated model will be useful for erosion analysis of boiler components.</p>
+					<p>Fly ash particles entrained in the ﬂue gas from boiler furnaces in coal-ﬁred power stations can cause serious erosive wear on steel surfaces along the ﬂow path. Such erosion can signiﬁcantly reduce the operational life of the boiler components. A mathematical model embodying the mechanisms of erosion on behaviour, has been developed to predict erosion rates of coal-ﬁred boiler components at different temperatures. Various grades of steels used in fabrication of boiler components and published data pertaining to boiler ﬂy ash have been used for the modelling. The model incorporates high temperature tensile properties of the target metal surface at room and elevated temperatures and has been implemented in an user-interactive in-house computer code (EROSIM–1), to predict the erosion rates of various grades of steel. Predictions have been found to be in good agreement with the published data. The model is calibrated with plant and experimental data generated from a high temperature air-jet erosion-testing facility. It is hoped that the calibrated model will be useful for erosion analysis of boiler components.</p>
 				</abstract>
 				<keywords>Mathematical model;erosion rate;boiler components;ﬂy ash impingement;tensile properties;steel grades.</keywords>
 				<authors>
@@ -9966,7 +9966,7 @@
 				<feature></feature>
 				<page>0621-0633</page>
 				<abstract>
-					<p>Advances in personal computers (PCs) have increased interest in computer-based road-design systems to provide rapid evaluation of alternative alignments. Optimization techniques can provide road managers with a powerful tool that searches for large numbers of alternative alignments in short spans of time. A forest road optimization model, integrated with two optimization techniques, was developed to help a forest road engineer in evaluating alternative alignments in a faster and more systematic manner. The model aims at designing a path with minimum  total road costs, while conforming to design speciﬁcations, environmental requirements, and driver safety. To monitor the sediment production of the alternative alignments, the average sediment delivered to a stream from a road section was estimated by using a road erosion/delivery model. The results indicated that this model has the potential to initiate a new procedure that will improve the forest road-design process by employing the advanced hardware and software capabilities of PCs and modern optimization techniques.</p>
+					<p>Advances in personal computers (PCs) have increased interest in computer-based road-design systems to provide rapid evaluation of alternative alignments. Optimization techniques can provide road managers with a powerful tool that searches for large numbers of alternative alignments in short spans of time. A forest road optimization model, integrated with two optimization techniques, was developed to help a forest road engineer in evaluating alternative alignments in a faster and more systematic manner. The model aims at designing a path with minimum total road costs, while conforming to design speciﬁcations, environmental requirements, and driver safety. To monitor the sediment production of the alternative alignments, the average sediment delivered to a stream from a road section was estimated by using a road erosion/delivery model. The results indicated that this model has the potential to initiate a new procedure that will improve the forest road-design process by employing the advanced hardware and software capabilities of PCs and modern optimization techniques.</p>
 				</abstract>
 				<keywords>Forest engineering;road design;optimization;road cost;sediment prediction.</keywords>
 				<authors>
@@ -10140,7 +10140,7 @@
 				<feature></feature>
 				<page>0697-0707</page>
 				<abstract>
-					<p>In this paper we present a level set-based algorithm for the solution of incompressible two-phase ﬂow problems. The technique is applied to the numerical simulation of impact of two surge fronts resulting from the collapse of liquid columns. The incompressible Navier–Stokes equations are solved using a projection method based on forward Euler time-stepping. The Hamilton–Jacobi type equation for the transport of level set function is carried out by a high resolution  ﬁfth-order accurate WENO scheme. For efﬁcient implementation of the WENO scheme we have proposed grid staggering for the level set function. The solution of the pressure Poisson equation is obtained using an efﬁcient preconditioned conjugate gradient method. It is shown that the present formulation works very well for large density and viscosity ratios. For the purpose of validation, we have simulated small-amplitude free sloshing of liquid in a container and the well-known two-dimensional broken-dam problem of Martin and Moyce. Simulations of impact of surge fronts have been carried out and the results are discussed.</p>
+					<p>In this paper we present a level set-based algorithm for the solution of incompressible two-phase ﬂow problems. The technique is applied to the numerical simulation of impact of two surge fronts resulting from the collapse of liquid columns. The incompressible Navier–Stokes equations are solved using a projection method based on forward Euler time-stepping. The Hamilton–Jacobi type equation for the transport of level set function is carried out by a high resolution ﬁfth-order accurate WENO scheme. For efﬁcient implementation of the WENO scheme we have proposed grid staggering for the level set function. The solution of the pressure Poisson equation is obtained using an efﬁcient preconditioned conjugate gradient method. It is shown that the present formulation works very well for large density and viscosity ratios. For the purpose of validation, we have simulated small-amplitude free sloshing of liquid in a container and the well-known two-dimensional broken-dam problem of Martin and Moyce. Simulations of impact of surge fronts have been carried out and the results are discussed.</p>
 				</abstract>
 				<keywords>Free surface ﬂows;level set methods;impact of surge fronts.</keywords>
 				<authors>
@@ -11102,7 +11102,7 @@
 				<feature></feature>
 				<page>0309-0328</page>
 				<abstract>
-					<p>Trafﬁc on Indian roads (both urban and inter-urban) consists of a variety of vehicles. These vehicles have widely different static and dynamic characteristics. The trafﬁc is also very different from homogeneous trafﬁc which primarily consists of motorized vehicles. Homogeneous trafﬁc follows strict lane discipline as compared to non-homogeneous trafﬁc. Western trafﬁc planning methodologies mostly address the concerns of homogeneous trafﬁc and therefore often prove inadequate in solving problems involving non-homogeneous trafﬁc conditions as found in Indian cities. This paper presents studies conducted on non-homogeneous trafﬁc. Section 1 presents a methodology to verify the continuity equation, the basic block of any trafﬁc planning analysis. In § 2, the methodology developed is applied to modify the Highway Capacity Manual (HCM) 2000 density method to derive passengercar equivalencies (PCEs) or units (PCUs) for heavy vehicles and recreational vehicles. These PCUs appear as ‘ET’ and ‘ER’ in HCM tables. The density method assumes motorized, four-wheeler trafﬁc, i.e., homogeneous traffic,  and does not include motorized three-wheelers, motorized two-wheelers, and non-motorized trafﬁc often present on Indian highways. By modifying the density method to represent non-homogeneous trafﬁc, which includes signiﬁcant percentages of motorized, three-wheelers, motorized two-wheelers, and non-motorized trafﬁc entities, one can derive more accurate passenger car units for Indian conditions. Transport professionals can use these PCU values for accurate capacity, safety, and operational analysis of highways carrying non-homogeneous trafﬁc.</p>
+					<p>Trafﬁc on Indian roads (both urban and inter-urban) consists of a variety of vehicles. These vehicles have widely different static and dynamic characteristics. The trafﬁc is also very different from homogeneous trafﬁc which primarily consists of motorized vehicles. Homogeneous trafﬁc follows strict lane discipline as compared to non-homogeneous trafﬁc. Western trafﬁc planning methodologies mostly address the concerns of homogeneous trafﬁc and therefore often prove inadequate in solving problems involving non-homogeneous trafﬁc conditions as found in Indian cities. This paper presents studies conducted on non-homogeneous trafﬁc. Section 1 presents a methodology to verify the continuity equation, the basic block of any trafﬁc planning analysis. In § 2, the methodology developed is applied to modify the Highway Capacity Manual (HCM) 2000 density method to derive passengercar equivalencies (PCEs) or units (PCUs) for heavy vehicles and recreational vehicles. These PCUs appear as ‘ET’ and ‘ER’ in HCM tables. The density method assumes motorized, four-wheeler trafﬁc, i.e., homogeneous traffic, and does not include motorized three-wheelers, motorized two-wheelers, and non-motorized trafﬁc often present on Indian highways. By modifying the density method to represent non-homogeneous trafﬁc, which includes signiﬁcant percentages of motorized, three-wheelers, motorized two-wheelers, and non-motorized trafﬁc entities, one can derive more accurate passenger car units for Indian conditions. Transport professionals can use these PCU values for accurate capacity, safety, and operational analysis of highways carrying non-homogeneous trafﬁc.</p>
 				</abstract>
 				<keywords>Non-homogeneous trafﬁc;non-motorized trafﬁc;passenger-car units;modiﬁed density method;trafﬁc simulation.</keywords>
 				<authors>
@@ -11255,7 +11255,7 @@
 				<feature></feature>
 				<page>0409-0426</page>
 				<abstract>
-					<p>Conventional dummy based testing procedures suffer from known limitations. This report addresses issues in ﬁnite element human body models in evaluating pedestrian and occupant crash safety measures. A review of material properties of soft tissues and characterization methods show a scarcity of material properties for characterizing soft tissues in dynamic loading. Experiments imparting  impacts to tissues and subsequent inverse ﬁnite element mapping to extract material properties are described. The effect of muscle activation due to voluntary and non-voluntary reﬂexes on injuries has been investigated through ﬁnite element modelling.</p>
+					<p>Conventional dummy based testing procedures suffer from known limitations. This report addresses issues in ﬁnite element human body models in evaluating pedestrian and occupant crash safety measures. A review of material properties of soft tissues and characterization methods show a scarcity of material properties for characterizing soft tissues in dynamic loading. Experiments imparting impacts to tissues and subsequent inverse ﬁnite element mapping to extract material properties are described. The effect of muscle activation due to voluntary and non-voluntary reﬂexes on injuries has been investigated through ﬁnite element modelling.</p>
 				</abstract>
 				<keywords>Passive and active muscle modelling;human body;ﬁnite element model.</keywords>
 				<authors>
@@ -11380,7 +11380,7 @@
 				<feature></feature>
 				<page>0479-0500</page>
 				<abstract>
-					<p>This paper addresses a research problem of scheduling parallel, nonidentical  batch processors in the presence of dynamic job arrivals, incompatible job-families and non-identical job sizes. We were led to this problem through a realworld application involving the scheduling of heat-treatment operations of steel casting. The scheduling of furnaces for heat-treatment of castings is of considerable interest as a large proportion of the total production time is the processing times of these operations. In view of the computational intractability of this type of problem,  a few heuristic algorithms have been designed for maximizing the utilization of heat-treatment furnaces of steel casting manufacturing. Extensive computational experiments were carried out to compare the performance of the heuristics with the estimated optimal value (using the Weibull technique) and for relative effectiveness among the heuristics. Further, the computational experiments show that the heuristic algorithms proposed in this paper are capable of obtaining near (statistically estimated) optimal utilization of heat-treatment furnaces and are also capable of solving any large size real-life problems with a relatively low computational effort.</p>
+					<p>This paper addresses a research problem of scheduling parallel, nonidentical batch processors in the presence of dynamic job arrivals, incompatible job-families and non-identical job sizes. We were led to this problem through a realworld application involving the scheduling of heat-treatment operations of steel casting. The scheduling of furnaces for heat-treatment of castings is of considerable interest as a large proportion of the total production time is the processing times of these operations. In view of the computational intractability of this type of problem, a few heuristic algorithms have been designed for maximizing the utilization of heat-treatment furnaces of steel casting manufacturing. Extensive computational experiments were carried out to compare the performance of the heuristics with the estimated optimal value (using the Weibull technique) and for relative effectiveness among the heuristics. Further, the computational experiments show that the heuristic algorithms proposed in this paper are capable of obtaining near (statistically estimated) optimal utilization of heat-treatment furnaces and are also capable of solving any large size real-life problems with a relatively low computational effort.</p>
 				</abstract>
 				<keywords>Heat-treatment furnaces;heuristic algorithms;Weibull technique;scheduling batch processors.</keywords>
 				<authors>
@@ -12202,7 +12202,7 @@
 				<feature></feature>
 				<page>0207-0220</page>
 				<abstract>
-					<p>Molybdenum disulphide (MoS$_2$) based solid lubricant mixtures containing  zirconia and graphite were prepared in the laboratory and coated on steel specimens. The experiments were done using reciprocating scratch test for various numbers of cycles. The results showed that the addition of zirconia and graphite into the MoS$_2$ lubricant has improved its properties in terms of both friction and wear. In addition, it was observed that the presence of moisture affects the life of the lubricating ﬁlm. It was shown that at high temperature the moisture evaporation enhanced the coating performance of the ﬁlm.</p>
+					<p>Molybdenum disulphide (MoS$_2$) based solid lubricant mixtures containing zirconia and graphite were prepared in the laboratory and coated on steel specimens. The experiments were done using reciprocating scratch test for various numbers of cycles. The results showed that the addition of zirconia and graphite into the MoS$_2$ lubricant has improved its properties in terms of both friction and wear. In addition, it was observed that the presence of moisture affects the life of the lubricating ﬁlm. It was shown that at high temperature the moisture evaporation enhanced the coating performance of the ﬁlm.</p>
 				</abstract>
 				<keywords>Friction, reciprocating scratch tester, wear, molybdenum disulphide.</keywords>
 				<authors>
@@ -12592,7 +12592,7 @@
 				<feature></feature>
 				<page>0385-0401</page>
 				<abstract>
-					<p>Structural elements supporting motors or engines are frequently seen in technological applications. The operation of a machine may introduce additional dynamic stresses on the beam. It is important, then, to know the natural frequencies of the coupled beam-mass system, in order to obtain a proper design of the structural elements. The literature regarding the free vibration analysis of Bernoulli–Euler single-span beams carrying a number of spring-mass system and Bernoulli–Euler multi-span beams carrying multiple spring-mass systems are plenty, but on  Timoshenko multi-span beams carrying multiple spring-mass systems is fewer. This paper aims at determining the natural frequencies and mode shapes of a Timoshenko multi-span beam. The model allows to analyse the inﬂuence of the shear effect and spring-mass systems on the dynamic behaviour of the beams by using Timoshenko Beam Theory (TBT). The effects of attached spring-mass systems on the free vibration characteristics of the 1–4 span beams are studied. The natural frequencies of Timoshenko multi-span beam calculated by using secant method for non-trivial solution are compared with the natural frequencies of multi-span beam calculated by using Bernoulli–Euler Beam Theory (EBT) in literature; the mode shapes are presented in graphs.</p>
+					<p>Structural elements supporting motors or engines are frequently seen in technological applications. The operation of a machine may introduce additional dynamic stresses on the beam. It is important, then, to know the natural frequencies of the coupled beam-mass system, in order to obtain a proper design of the structural elements. The literature regarding the free vibration analysis of Bernoulli–Euler single-span beams carrying a number of spring-mass system and Bernoulli–Euler multi-span beams carrying multiple spring-mass systems are plenty, but on Timoshenko multi-span beams carrying multiple spring-mass systems is fewer. This paper aims at determining the natural frequencies and mode shapes of a Timoshenko multi-span beam. The model allows to analyse the inﬂuence of the shear effect and spring-mass systems on the dynamic behaviour of the beams by using Timoshenko Beam Theory (TBT). The effects of attached spring-mass systems on the free vibration characteristics of the 1–4 span beams are studied. The natural frequencies of Timoshenko multi-span beam calculated by using secant method for non-trivial solution are compared with the natural frequencies of multi-span beam calculated by using Bernoulli–Euler Beam Theory (EBT) in literature; the mode shapes are presented in graphs.</p>
 				</abstract>
 				<keywords>Free vibration;Timoshenko multi-span beam;spring-mass system;eigenvalue problem.</keywords>
 				<authors>
@@ -12624,7 +12624,7 @@
 				<feature></feature>
 				<page>0403-0432</page>
 				<abstract>
-					<p>The aim of this paper is to develop a simulation model of large deformation problems following a semi-analytical method, incorporating the complications of geometric and material non-linearity in the formulation. The solution algorithm is based on the method of energy principle in structural mechanics, as applicable for conservative systems. A one-dimensional solid circular bar problem has been solved in post-elastic range assuming linear elastic, linear strain hardening material behaviour. Type of loading includes uniform uniaxial loading and gravity loading due to body force, whereas the geometry of the bar is considered to be non-uniformly taper. Results are validated successfully with benchmark solution  and some new results have also been reported. The location of initiation of elasto-plastic front and its growth are found to be functions of geometry of the bar and loading conditions. Some indicative results have been presented for static and dynamic problems and the solution methodology developed for one-dimension has been extended to the elasto-plastic analysis of two-dimensional strain ﬁeld problems of a rotating disk.</p>
+					<p>The aim of this paper is to develop a simulation model of large deformation problems following a semi-analytical method, incorporating the complications of geometric and material non-linearity in the formulation. The solution algorithm is based on the method of energy principle in structural mechanics, as applicable for conservative systems. A one-dimensional solid circular bar problem has been solved in post-elastic range assuming linear elastic, linear strain hardening material behaviour. Type of loading includes uniform uniaxial loading and gravity loading due to body force, whereas the geometry of the bar is considered to be non-uniformly taper. Results are validated successfully with benchmark solution and some new results have also been reported. The location of initiation of elasto-plastic front and its growth are found to be functions of geometry of the bar and loading conditions. Some indicative results have been presented for static and dynamic problems and the solution methodology developed for one-dimension has been extended to the elasto-plastic analysis of two-dimensional strain ﬁeld problems of a rotating disk.</p>
 				</abstract>
 				<keywords>Non-uniform taper bar;rotating disk;elasto-plastic strain analysis;loaded natural frequency.</keywords>
 				<authors>
@@ -13021,7 +13021,7 @@
 				<feature></feature>
 				<page>0615-0628</page>
 				<abstract>
-					<p>The recent increase in the use of speed control of ac induction motor for variable speed drive using pulse width modulation (PWM) inverter is due to the advent of modern power electronic devices and introduction of microprocessors. There are many advantages of using ac induction motor for speed control applicatons  in process and aerospace industries, but due to fast switching of the modern power electronic devices, the parasitic coupling produces undesirable effects. The undesirable effects include radiated and conducted electromagnetic interference (EMI) which adversely affect nearby computers, electronic/electrical instruments and give rise to the ﬂow of bearing current in the induction motor. Due to the ﬂow of bearing current in the induction motor, electrical discharge machining takes place in the inner race of the bearing which reduces the life of the bearing. In high power converters and inverters, the conducted and radiated emissions become a major concern. In this paper, identiﬁcation of bearing current due to conducted emission, the measurement of bearing current in a modiﬁed induction motor and to minimize the bearing current are discussed. The standard current probe, the standard line impedance stabilization network (LISN)), the electronics interface circuits are used to measure high frequency common mode current, bearing current and to minimize the conducted noise from the system. The LISN will prevent the EMI noise entering the system from the supply source by conductive methods, at the same time prevents the EMI generated if any due to PWM, fast switching in the system, will not be allowed to enter the supply line. For comparing the results with Federal Communications Commission (FCC) and Special Committee on Radio Interference (CISPR) standards, the graphs are plotted with frequency $Vs$, line voltage in $dB{_\mu} V$, common mode voltage in $dB{_\mu} V$ and the bearing current in $dB_{\mu} A$ with out and with minimizing circuits.</p>
+					<p>The recent increase in the use of speed control of ac induction motor for variable speed drive using pulse width modulation (PWM) inverter is due to the advent of modern power electronic devices and introduction of microprocessors. There are many advantages of using ac induction motor for speed control applicatons in process and aerospace industries, but due to fast switching of the modern power electronic devices, the parasitic coupling produces undesirable effects. The undesirable effects include radiated and conducted electromagnetic interference (EMI) which adversely affect nearby computers, electronic/electrical instruments and give rise to the ﬂow of bearing current in the induction motor. Due to the ﬂow of bearing current in the induction motor, electrical discharge machining takes place in the inner race of the bearing which reduces the life of the bearing. In high power converters and inverters, the conducted and radiated emissions become a major concern. In this paper, identiﬁcation of bearing current due to conducted emission, the measurement of bearing current in a modiﬁed induction motor and to minimize the bearing current are discussed. The standard current probe, the standard line impedance stabilization network (LISN)), the electronics interface circuits are used to measure high frequency common mode current, bearing current and to minimize the conducted noise from the system. The LISN will prevent the EMI noise entering the system from the supply source by conductive methods, at the same time prevents the EMI generated if any due to PWM, fast switching in the system, will not be allowed to enter the supply line. For comparing the results with Federal Communications Commission (FCC) and Special Committee on Radio Interference (CISPR) standards, the graphs are plotted with frequency $Vs$, line voltage in $dB{_\mu} V$, common mode voltage in $dB{_\mu} V$ and the bearing current in $dB_{\mu} A$ with out and with minimizing circuits.</p>
 				</abstract>
 				<keywords>EMI;a.c. drives;bearing current.</keywords>
 				<authors>
@@ -13751,7 +13751,7 @@
 				<feature></feature>
 				<page>0255-0270</page>
 				<abstract>
-					<p>A two-dimensional numerical analysis of coupled heat and mass transfer processes in a cylindrical metal hydride reactor containing MmNi$_{4·6}$Al$_{0·4}$ is presented. To understand the hydrogen absorption mechanism the governing equations for energy, momentum and mass conservation and reaction kinetic equations are solved simultaneously using the ﬁnite volume method (FVM). Performance studies on MmNi$_{4·6}$Al$_{0·4}$ based hydrogen storage device are carried out by varying  the hydrogen supply pressure, absorption (cooling ﬂuid) temperature, overall heat transfer coefﬁcient and hydride bed thickness. Effect of convection terms in the energy equation on hydrogen storage performance is found to be negligible. The results obtained from the computer simulation showed good agreement with the available experimental data. At the supply conditions of 30 bar and 298 K, MmNi$_{4·6}$Al$_{0·4}$ stores about 1·28 wt%, which is very close to the experimental value of 1·3 wt%. Overall high heat transfer coefﬁcients are found to reduce the absorption time signiﬁcantly.</p>
+					<p>A two-dimensional numerical analysis of coupled heat and mass transfer processes in a cylindrical metal hydride reactor containing MmNi$_{4·6}$Al$_{0·4}$ is presented. To understand the hydrogen absorption mechanism the governing equations for energy, momentum and mass conservation and reaction kinetic equations are solved simultaneously using the ﬁnite volume method (FVM). Performance studies on MmNi$_{4·6}$Al$_{0·4}$ based hydrogen storage device are carried out by varying the hydrogen supply pressure, absorption (cooling ﬂuid) temperature, overall heat transfer coefﬁcient and hydride bed thickness. Effect of convection terms in the energy equation on hydrogen storage performance is found to be negligible. The results obtained from the computer simulation showed good agreement with the available experimental data. At the supply conditions of 30 bar and 298 K, MmNi$_{4·6}$Al$_{0·4}$ stores about 1·28 wt%, which is very close to the experimental value of 1·3 wt%. Overall high heat transfer coefﬁcients are found to reduce the absorption time signiﬁcantly.</p>
 				</abstract>
 				<keywords>Hydrogen storage;metal hydride;coupled heat and mass transfer.</keywords>
 				<authors>
@@ -14239,7 +14239,7 @@
 				<feature></feature>
 				<page>0501-0527</page>
 				<abstract>
-					<p>This paper deﬁnes cooperation as the process of coordinating the objectives and activities of supply chain (SC) members. It also focuses on cooperation as a solution for hybrid coordination mechanism to form the basis for semiconductor industry supply chain management. In the complex and competitive environment of semiconductor industry supply chain, independent system members are facing the difﬁcult task of providing/sharing incentives resulting from e-market activities  in a fair and equitable manner. So, various other activities are necessary for the e-market to make revenue sharing operations more stable and reliable. In this context, the importance of coalition in enhancing the e-market capability, for revenue generation and sharing, is used to develop a possible mechanism for financial compensation to the supply chain members. Interpreting the supply chain as cooperation, the concepts of the Shapely value are used in this paper for analysing the revenue sharing problem. The motivation behind such a scheme is to align the supply chain members’ cost structure with the bidding value during auction and bargaining for e-procurement. The appropriateness of the Shapely value is verified to ensure that a stable solution exists. The practical implication of this paper is how to make right decisions about revenue sharing. The principal contribution of this approach is for establishing a pooling coalition in order to provide a stable and cooperative solution.</p>
+					<p>This paper deﬁnes cooperation as the process of coordinating the objectives and activities of supply chain (SC) members. It also focuses on cooperation as a solution for hybrid coordination mechanism to form the basis for semiconductor industry supply chain management. In the complex and competitive environment of semiconductor industry supply chain, independent system members are facing the difﬁcult task of providing/sharing incentives resulting from e-market activities in a fair and equitable manner. So, various other activities are necessary for the e-market to make revenue sharing operations more stable and reliable. In this context, the importance of coalition in enhancing the e-market capability, for revenue generation and sharing, is used to develop a possible mechanism for financial compensation to the supply chain members. Interpreting the supply chain as cooperation, the concepts of the Shapely value are used in this paper for analysing the revenue sharing problem. The motivation behind such a scheme is to align the supply chain members’ cost structure with the bidding value during auction and bargaining for e-procurement. The appropriateness of the Shapely value is verified to ensure that a stable solution exists. The practical implication of this paper is how to make right decisions about revenue sharing. The principal contribution of this approach is for establishing a pooling coalition in order to provide a stable and cooperative solution.</p>
 				</abstract>
 				<keywords>Supply chain coordination;revenue sharing;Game theory, Shapely value.</keywords>
 				<authors>
@@ -14298,7 +14298,7 @@
 				<feature></feature>
 				<page>0531-0542</page>
 				<abstract>
-					<p>Vanadium oxides have for many decades attracted much attention for their rich and unique physical properties which pose intriguing questions as to their fundamental origins as well as offering numerous potential applications for microelectronics, sensors, and microelectromechanical systems (MEMS). This paper reviews the unique structure and properties of the two most common vanadium  oxides which have entered into microfabricated devices, VO$_2$ and V$_2$O$_5$, and some of the past and future device applications which can be realized using these materials. Two emerging new materials, sodium vanadium bronzes and vanadium oxide nanotubes are also discussed for their potential use in new microelectronic devices.</p>
+					<p>Vanadium oxides have for many decades attracted much attention for their rich and unique physical properties which pose intriguing questions as to their fundamental origins as well as offering numerous potential applications for microelectronics, sensors, and microelectromechanical systems (MEMS). This paper reviews the unique structure and properties of the two most common vanadium oxides which have entered into microfabricated devices, VO$_2$ and V$_2$O$_5$, and some of the past and future device applications which can be realized using these materials. Two emerging new materials, sodium vanadium bronzes and vanadium oxide nanotubes are also discussed for their potential use in new microelectronic devices.</p>
 				</abstract>
 				<keywords>Vanadium oxides;microbolometers;thermoelectrics;sensors;MEMS.</keywords>
 				<authors>
@@ -14627,7 +14627,7 @@
 				<feature></feature>
 				<page>0625-0631</page>
 				<abstract>
-					<p>Communication systems such as those used on satellite platforms demand high performance from individual components that make up the varoius  systems and sub-systems. Switching and routing of RF signals between various modules is a routine and critical operation that determines the overall efﬁciency of the entire system. In this paper, we present the design and fabrication aspects of a direct contact RF MEMS switch designed to operate in the X band (8–12 GHz) with a target insertion of about 0·5 dB and isolation better than 30 dB. The actuation voltage is expected to be around 50 V. The die size is designed to be 3 mm (H) $\times$ 3 mm(W) $\times$ 2 mm(H). The switch is built from a low residual stress device layer of a highly conducting (0·005 Ohms-cm) silicon on insulator (SOI) wafer. After subsequent lithographic steps, the wafer is bonded to a Pyrex glass wafer which has been previously patterned with gold transmission lines and pull in electrodes. Being built from a single crystal silicon structure, the mechanical robustness of the actuator is much greater than the those in similar membrane-based devices. A 6 mask fabrication process utilizing Deep Reactive Ion Etching to achieve high aspect ratio stiction free structures was developed and implemented. Devices from the ﬁrst fabrication run are being analysed in our laboratory.</p>
+					<p>Communication systems such as those used on satellite platforms demand high performance from individual components that make up the varoius systems and sub-systems. Switching and routing of RF signals between various modules is a routine and critical operation that determines the overall efﬁciency of the entire system. In this paper, we present the design and fabrication aspects of a direct contact RF MEMS switch designed to operate in the X band (8–12 GHz) with a target insertion of about 0·5 dB and isolation better than 30 dB. The actuation voltage is expected to be around 50 V. The die size is designed to be 3 mm (H) $\times$ 3 mm(W) $\times$ 2 mm(H). The switch is built from a low residual stress device layer of a highly conducting (0·005 Ohms-cm) silicon on insulator (SOI) wafer. After subsequent lithographic steps, the wafer is bonded to a Pyrex glass wafer which has been previously patterned with gold transmission lines and pull in electrodes. Being built from a single crystal silicon structure, the mechanical robustness of the actuator is much greater than the those in similar membrane-based devices. A 6 mask fabrication process utilizing Deep Reactive Ion Etching to achieve high aspect ratio stiction free structures was developed and implemented. Devices from the ﬁrst fabrication run are being analysed in our laboratory.</p>
 				</abstract>
 				<keywords>RF MEMS;deep reactive ion etching;silicon-on-insulator.</keywords>
 				<authors>
@@ -25800,6 +25800,572 @@
 				<keywords />
 				<authors />
 				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="040">
+		<issue inum="01" month="02" year="2015">
+			<entry hassup="0">
+				<title>Nature-inspired novel Cuckoo Search Algorithm for genome sequence assembly</title>
+				<feature></feature>
+				<page>0001-0014</page>
+				<abstract>
+					<p>This study aims to produce a novel optimization algorithm, called the Cuckoo Search Algorithm (CS), for solving the genome sequence assembly problem. Assembly of genome sequence is a technique that attempts to rebuild the target sequence from the collection of fragments. This study is the first application of the CS for DNA sequence assembly problem in the literature. The algorithm is based on the levy flight behaviour and brood parasitic behaviour. The CS algorithm is employed to maximize the overlap score by reconstructing the original DNA sequence. Experimental results show the ability of the CS to find better optimal genome assembly. To check the efficiency of the proposed technique the results of the CS is compared with one of the well known evolutionary algorithms namely, particle swarm optimization (PSO) and its variants.</p>
+				</abstract>
+				<keywords>Bioinformatics;Cuckoo search;genome sequence assembly;metaheuristics</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Indumathy">R. Indumathy</name>
+						<affiliation>Department of Electronics and Communication Engineering, Coimbatore Institute of Technology, Coimbatore 641 014, India</affiliation>
+						<email>indumathy.rajagopal@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. Uma" last="Maheswari">S. Uma Maheswari</name>
+						<affiliation>Department of Electronics and Communication Engineering, Coimbatore Institute of Technology, Coimbatore 641 014, India</affiliation>
+						<email>umamaheswari.cit@gmail.com</email>
+					</author>
+					<author>
+						<name first="G." last="Subashini">G. Subashini</name>
+						<affiliation>Department of Information Technology, PSG College of Technology, Coimbatore 641 004, India</affiliation>
+						<email>suba@ity.psgtech.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-05-01</date>
+					<date type="R">2014-01-28</date>
+					<date type="A">2014-08-24</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Contextual snowflake modelling for pattern warehouse logical design</title>
+				<feature></feature>
+				<page>0015-0033</page>
+				<abstract>
+					<p>Pattern warehouse provides the infrastructure for knowledge representation and mining by allowing the patterns to be stored permanently. The goal of this paper is to discuss the pattern warehouse design and related quality issues. In the present work, we focus on conceptual and logical design of pattern warehouse, by introducing a context and ‘kind of knowledge’ hierarchy to this end. For the simplicity, association kinds of patterns are considered for running examples. We have extended well-known ‘snowflake’ schema for pattern warehouse logical design. We have introduced a new concept hierarchy ‘$kind\ of\ knowledge$’ which helps to arrange patterns, the four quality forms (QF) are also discussed which will work as guidelines for pattern warehouse conceptual and logical design to minimize the evaluation and maintenance cost. In particular, we address the three main issues:</p>
+					<ol type="lower-roman">
+						<li>conceptual design</li>
+						<li>snowflake schema and</li>
+						<li>pattern refreshment.</li>
+					</ol>
+				</abstract>
+				<keywords>Pattern warehouse;pattern warehouse management systems (PWMS);data models;knowledge warehousing;conceptual modelling;context modelling;quality forms.</keywords>
+				<authors>
+					<author>
+						<name first="Vivek" last="Tiwari">Vivek Tiwari</name>
+						<affiliation>Maulana Azad National Institute of Technology (MA-NIT), Bhopal 462 007, India</affiliation>
+						<email>vivek.vktonline@gmail.com</email>
+					</author>
+					<author>
+						<name first="Ramjeevan Singh" last="Thakur">Ramjeevan Singh Thakur</name>
+						<affiliation>Maulana Azad National Institute of Technology (MA-NIT), Bhopal 462 007, India</affiliation>
+						<email>ramthakur2000@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-03-10</date>
+					<date type="R">2014-08-22</date>
+					<date type="A">2014-09-15</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>New approach to solve fully fuzzy system of linear equations using single and double parametric form of fuzzy numbers</title>
+				<feature></feature>
+				<page>0035-0049</page>
+				<abstract>
+					<p>This paper proposes two new methods to solve fully fuzzy system of linear equations. The fuzzy system has been converted to a crisp system of linear equations by using single and double parametric form of fuzzy numbers to obtain the non-negative solution. Double parametric form of fuzzy numbers is defined and applied for the first time in this paper for the present analysis. Using single parametric form, the $n \times n$ fully fuzzy system of linear equations have been converted to a $2n \times 2n$ crisp system of linear equations. On the other hand, double parametric form of fuzzy numbers converts the n×n fully fuzzy system of linear equations to a crisp system of same order. Triangular and trapezoidal convex normalized fuzzy sets are used for the present analysis. Known example problems are solved to illustrate the efficacy and reliability of the proposed methods.</p>
+				</abstract>
+				<keywords>Fuzzy number;triangular fuzzy number;trapezoidal fuzzy number;parametric form of fuzzy number;fully fuzzy system of liner equations.</keywords>
+				<authors>
+					<author>
+						<name first="Diptiranjan" last="Behera">Diptiranjan Behera</name>
+						<affiliation>Department of Mathematics, National Institute of Technology Rourkela, Odisha 769 008, India</affiliation>
+						<email>diptiranjanb@gmail.com</email>
+					</author>
+					<author>
+						<name first="S." last="Chakraverty">S. Chakraverty</name>
+						<affiliation>Department of Mathematics, National Institute of Technology Rourkela, Odisha 769 008, India</affiliation>
+						<email>sne_chak@yahoo.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-08-08</date>
+					<date type="R">2014-06-09</date>
+					<date type="A">2014-09-02</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Automated adaptive sliding mode control scheme for a class of real complicated systems</title>
+				<feature></feature>
+				<page>0051-0074</page>
+				<abstract>
+					<p>A class of real complicated systems, including chemical reactions, biological systems, information processing, laser systems, electrical circuits, information exchange, brain activities modelling, secure communication and other related ones can be presented through nonlinear and non-identical hyper-chaotic systems. The main goal of the present investigation is to synchronize two non-identical hyperchaotic master/slave systems, which are given as the models of the complicated systems, based on the realization of an efficient automated adaptive sliding mode control scheme. In the research presented here, the mentioned systems need to be dealt with through the proposed control scheme, since two non-identical systems are completely synchronized. In one such case, the whole of the chosen states of the master and slave systems should be coincided after a few time steps, as long as the effect of the external disturbance, uncertainty and unknown parameters could truly be ignored. Due to the fact that the investigated hyper-chaotic systems have taken into consideration as the representation of a number of complicated processes under mentioned external disturbance, uncertainty and unknown parameters, the traditional control approaches cannot actually be realized, in satisfactory manners.With this purpose, the proposed control scheme has been designed to cope with synchronization error, in a reasonable amount of time, in order to drive applicable hyper-chaotic systems. Consequently, the performance of the proposed control scheme is considered and verified through the numerical simulations.</p>
+				</abstract>
+				<keywords>Complicated systems;efficient automated adaptive sliding mode controlscheme;non-identical hyper-chaotic master/slave systems;synchronization error;numerical simulations.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Shahi">M. Shahi</name>
+						<affiliation>Department of Electrical Engineering, Birjand Branch, Islamic Azad University (IAU), Birjand, Iran</affiliation>
+						<email>m.shahi@iaubir.ac.ir</email>
+					</author>
+					<author>
+						<name first="A. H." last="Mazinan">A. H. Mazinan</name>
+						<affiliation>Department of Control Engineering, Faculty of Electrical Engineering, South Tehran Branch, Islamic Azad University (IAU), No. 209, North Iranshahr St., P.O. Box 11365/4435, Tehran, Iran</affiliation>
+						<email>mazinan@azad.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-14</date>
+					<date type="R">2014-09-14</date>
+					<date type="A">2014-11-01</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Proximity fed gap-coupled half E-shaped microstrip antenna array</title>
+				<feature></feature>
+				<page>0075-0087</page>
+				<abstract>
+					<p>Broadband gap-coupled array configuration of proximity fed rectangular microstrip antenna with half E-shaped microstrip antennas are proposed. The rectangular slot in half E-shaped patch reduces the orthogonal TM$_{01}$ mode resonance frequency of equivalent rectangular patch and along with TM$_{10}$ modes of fed and parasitic rectangular patches, yields broader bandwidth of more than 470 MHz (&gt; 45%). An improvement in radiation pattern and gain characteristics over the bandwidth is obtained by gap-coupling half E-shaped patches along all the edges of proximity fed rectangular patch, which yields bandwidth of nearly 510 MHz ($\sim$49%). Further to enhance the gain, a gap-coupled 3 $\times$ 3 array configuration of half E-shaped patches with proximity fed rectangular microstrip antenna is proposed. The gap-coupled array configuration yields bandwidth of more than 530 MHz (&gt;50%) with broadside radiation pattern and peak gain of 11 dBi.</p>
+				</abstract>
+				<keywords>Rectangular microstrip antenna;broadband microstrip antenna;half Eshaped microstrip antenna;proximity feeding;higher order mode.</keywords>
+				<authors>
+					<author>
+						<name first="Amit A." last="Deshmukh">Amit A. Deshmukh</name>
+						<affiliation>Department of Electronics and Telecommunication Engineering, D. J. Sanghvi College of Engineering, Vile –Parle (W), Mumbai 400 056, India</affiliation>
+						<email>amitdeshmukh76@gmail.com</email>
+					</author>
+					<author>
+						<name first="K. P." last="Ray">K. P. Ray</name>
+						<affiliation>Society for Applied Microwave Electronics Engineering and Research, Indian Institute of Technology Campus, Powai, Mumbai 400 076, India</affiliation>
+						<email>kpray@rediffmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-12-23</date>
+					<date type="R">2014-04-19</date>
+					<date type="A">2014-08-24</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Experimental validation of waveform relaxation technique for power system controller testing</title>
+				<feature></feature>
+				<page>0089-0106</page>
+				<abstract>
+					<p>AWaveform Relaxation (WR) based iterative real-time playback scheme for controller testing was recently proposed in the literature along with proof-ofconcept simulations. This scheme can be a low-cost alternative to Hardware-in-Loop simulation, as it does not require a real-time simulator. To demonstrate practical feasibility of the WR scheme, this paper presents results of experiments with real-time implementation of controllers, iteratively interacting with simulated models of power apparatus via storage and real-time play-back. Two systems are considered: a HVDC controller tested with a detailed model of the converters, and a TCSC based damping controller tested with a low frequency model of a power system. The results are validated with those obtained using simulated models of the controllers. We also present results of an experiment in which the tested HVDC controller is used to control the scaled real-life HVDC apparatus, for which a simulated model was used during controller testing. Convergence and a good match between simulated and real-time implementation are obtained for the HVDC system. The experiments on the TCSC damping controller drawn our attention to a potential convergence problem which may arise due to iteration-dependent round-off noise.</p>
+				</abstract>
+				<keywords>Power systemcontrollers;controller testing;hardware in loop simulation;waveform relaxation method.</keywords>
+				<authors>
+					<author>
+						<name first="S. P." last="Panda">S. P. Panda</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
+						<email>sakti@ee.iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="K. A." last="Salunkhe">K. A. Salunkhe</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
+						<email>salunkheka@ee.iitb.ac.in</email>
+					</author>
+					<author>
+						<name first="A. M." last="Kulkarni">A. M. Kulkarni</name>
+						<affiliation>Department of Electrical Engineering, Indian Institute of Technology, Mumbai 400 076, India</affiliation>
+						<email>anil@ee.iitb.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-07</date>
+					<date type="R">2014-07-26</date>
+					<date type="A">2014-09-08</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Fuzzy delay model based fault simulator for crosstalk delay fault test generation in asynchronous sequential circuits</title>
+				<feature></feature>
+				<page>0107-0119</page>
+				<abstract>
+					<p>In this paper, a fuzzy delay model based crosstalk delay fault simulator is proposed. As design trends move towards nanometer technologies, more number of new parameters affects the delay of the component. Fuzzy delay models are ideal for modelling the uncertainty found in the design and manufacturing steps. The fault simulator based on fuzzy delay detects unstable states, oscillations and non-confluence of settling states in asynchronous sequential circuits. The fuzzy delay model based fault simulator is used to validate the test patterns produced by Elitist Non-dominated sorting Genetic Algorithm (ENGA) based test generator, for detecting crosstalk delay faults in asynchronous sequential circuits. The multi-objective genetic algorithm, ENGA targets two objectives of maximizing fault coverage and minimizing number of transitions. Experimental results are tabulated for SIS benchmark circuits for three gate delay models, namely unit delay model, rise/fall delay model and fuzzy delay model. Experimental results indicate that test validation using fuzzy delay model is more accurate than unit delay model and rise/fall delay model.</p>
+				</abstract>
+				<keywords>Asynchronous sequential circuits;crosstalk delay faults;fuzzy delay model;multi-objective genetic algorithm;fault coverage;transitions.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Jayanthy">S. Jayanthy</name>
+						<affiliation>Department of Electronics and Communication Engineering (ECE), Sri Ramakrishna Engineering College, Coimbatore 641 022, India</affiliation>
+						<email>jayanthy.s@srec.ac.in</email>
+					</author>
+					<author>
+						<name first="M. C." last="Bhuvaneswari">M. C. Bhuvaneswari</name>
+						<affiliation>Department of Electrical and Electronics Engineering (EEE), P.S.G. College of Technology, Coimbatore 641 004, India</affiliation>
+						<email>mcb@eee.psgtech.ac.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-23</date>
+					<date type="R"></date>
+					<date type="A">2014-09-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>An automated technique to determine spatio-temporal changes in satellite island images with vectorization and spatial queries</title>
+				<feature></feature>
+				<page>0121-0137</page>
+				<abstract>
+					<p>For spatio-temporal and topologic analyses, vectorial information (carrying coordinate values defined as point sets) gives better information than its raster (grid of pixels) counterpart. The study presented in this paper is based on</p>
+					<ol type="lower-roman">
+						<li>recognition and extraction of an island object in a set of digital images captured by LandSat-7 satellite and</li>
+						<li>modelling it as a polygon (vectorial) and making it easy to process and easy to understand for computers and information science applications.</li>
+					</ol>
+					<p>Polygon representations of island images then can be stored and manipulated through objectrelational spatial databases. Spatial databases have built-in functions and services for spatial objects defined with geometry types such as points, lines, and polygons. By this way we will be utilizing the rapidly changing and developing object-relational database communities’ studies and discoveries in spatio-temporal and topological analysis for the investigation of digital satellite images. This approach also enables service qualities as well as a better performance. The efficiency and feasibility of the proposed system will be examined by various scenarios such as earthquake, erosion and accretion. Scenarios are based on measuring the effects of the natural phenomena on a selected island on satellite images.</p>
+				</abstract>
+				<keywords>Vectorization;raster data;vector data;spatial databases;spatial queries;data modelling.</keywords>
+				<authors>
+					<author>
+						<name first="Süleyman" last="Eken">Süleyman Eken</name>
+						<affiliation>Department of Computer Engineering, Kocaeli University, 41380 Kocaeli, Turkey</affiliation>
+						<email>suleyman.eken@kocaeli.edu.tr</email>
+					</author>
+					<author>
+						<name first="Ahmet" last="Sayar">Ahmet Sayar</name>
+						<affiliation>Department of Computer Engineering, Kocaeli University, 41380 Kocaeli, Turkey</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-11-09</date>
+					<date type="R">2014-04-16</date>
+					<date type="A">2014-09-21</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Simulation and comparison of perturb and observe and incremental conductance MPPT algorithms for solar energy system connected to grid</title>
+				<feature></feature>
+				<page>0139-0153</page>
+				<abstract>
+					<p>Solar energy is a clean, green and renewable source of energy. It is available in abundance in nature. Solar cells by photovoltaic action are able to convert the solar energy into electric current. The output power of solar cell depends upon factors such as solar irradiation (insolation), temperature and other climatic conditions. Present commercial efficiency of solar cells is not greater than 15% and therefore the available efficiency is to be exploited to the maximum possible value and the maximum power point tracking (MPPT) with the aid of power electronics to solar array can make this possible. There are many algorithms proposed to realize maximum power point tracking. These algorithms have their own merits and limitations. In this paper, an attempt is made to understand the basic functionality of the two most popular algorithms viz. Perturb and Observe (P &amp; O) algorithm and Incremental conductance algorithm. These algorithms are compared by simulating a 100 kW solar power generating station connected to grid. MATLAB M-files are generated to understand MPPT and its dependency on insolation and temperature. MATLAB Simulink software is used to simulate the MPPT systems. Simulation results are presented to verify these assumptions.</p>
+				</abstract>
+				<keywords>Solar array;insolation;MPPT;modelling, P &amp;O;incremental conductance.</keywords>
+				<authors>
+					<author>
+						<name first="Sachin Vrajlal" last="Rajani">Sachin Vrajlal Rajani</name>
+						<affiliation>Department of Electrical Engineering, R.K. University, Rajkot 360020, India</affiliation>
+						<email>sachin_3541@rediffmail.com</email>
+					</author>
+					<author>
+						<name first="Vivek J." last="Pandya">Vivek J. Pandya</name>
+						<affiliation>School of Technolgy, Pandit Dindayal Petroleum University, Gandhinagar 382007, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-11-05</date>
+					<date type="R">2014-10-25</date>
+					<date type="A">2014-10-27</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Design and experiments of the fuel control method for the scramjet engine</title>
+				<feature></feature>
+				<page>0155-0171</page>
+				<abstract>
+					<p>The control method is one of the key application technologies of the engine. And the core of the scramjet control system is the fuel-based control method. The design and the experimental verification of the scramjet fuel-based control method were mainly carried out in this paper. The correlation between the engine thrust, the wall pressure and the equivalence ratio was obtained by means of the numerical simulation. Combined with the results of experiments, the fuel control method and the verification method of the experiment, which chose the wall pressure as the feedback signal, were designed and developed, and the ground test of the fuel control method was carried out. The results of the numerical simulation and the experiment showed that</p>
+					<ol type="lower-roman">
+						<li>the magnitude of the wall pressure at some axial locations of the combustor was proportional to the fuel flow rate and</li>
+						<li>the fuel control method based on the feedback signal, i.e., the wall pressure, and the choice of the location of the wall pressure control point were feasible and rational.</li>
+					</ol>
+				</abstract>
+				<keywords>Scramjet;controlled parameters;fuel control;thrust;wall pressure.</keywords>
+				<authors>
+					<author>
+						<name first="Jianping" last="Li">Jianping Li</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<affiliation>New Concept Jet Propulsion Technology Key Laboratory of Fundamental Science for National Defence, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email>lijianping001@mail.nwpu.edu.cn</email>
+					</author>
+					<author>
+						<name first="Wenyan" last="Song">Wenyan Song</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<affiliation>New Concept Jet Propulsion Technology Key Laboratory of Fundamental Science for National Defence, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Xiaobao" last="Han">Xiaobao Han</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Qiang" last="Fu">Qiang Fu</name>
+						<affiliation>School of Power and Energy, Northwestern Polytechnical University, 127 West Youyi Road , Shaanxi Province, 710072, People’s Republic of China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Jun" last="Niu">Jun Niu</name>
+						<affiliation>The 31st Research Insititute of CASIC: China Aerospace Science &amp; Industry Corp, Beijing 10074, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Wei" last="Xue">Wei Xue</name>
+						<affiliation>The 31st Research Insititute of CASIC: China Aerospace Science &amp; Industry Corp, Beijing 10074, China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-08-16</date>
+					<date type="R">2014-08-30</date>
+					<date type="A">2014-10-21</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Analytic discrete cosine harmonic wavelet transform based OFDM system</title>
+				<feature></feature>
+				<page>0173-0181</page>
+				<abstract>
+					<p>An OFDM based on Analytic Discrete Cosine HarmonicWavelet Transform (ADCHWT_OFDM) has been proposed in this paper. Analytic DCHWT has been realized by applying DCHWT to the original signal and to its Hilbert transform. ADCHWT has been found to be computationally efficient and very effective in improving Bit Error Rate (BER) and Peak to Average Power Ratio (PAPR) performance. Improvement compared to that of Haar-WT OFDM and DFT OFDM is achieved without employing Cyclic Prefix BER is 0.002 for ADCHWT OFDM compared to Haar WT, DFT OFDM which have BER of 0.06 and 0.4, respectively, at 15 dB SNR. PAPR is also reduced by 3 dB compared to DFT OFDM and 0.3 dB reduction compared to Haar WT OFDM.</p>
+				</abstract>
+				<keywords>Analytic discrete cosine harmonic wavelet transform (ADCHWT);OFDM;dual tree complex wavelet transform;DCT;shift invariant wavelet transform;PAPR.</keywords>
+				<authors>
+					<author>
+						<name first="M. N." last="Suma">M. N. Suma</name>
+						<affiliation>BMS College of Engineering, Bull Temple Road, Bangalore 19, India</affiliation>
+						<email>Suma.bms@gmail.com</email>
+					</author>
+					<author>
+						<name first="S. V." last="Narasimhan">S. V. Narasimhan</name>
+						<affiliation>CSIR-National Aerospace Lab, PB 1779, Old Airport Road, Kodihalli, Bangalore - 560 017, India</affiliation>
+						<email>narsim@nal.res.in</email>
+					</author>
+					<author>
+						<name first="B." last="Kanmani">B. Kanmani</name>
+						<affiliation>BMS College of Engineering, Bull Temple Road, Bangalore 19, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-20</date>
+					<date type="R">2014-08-29</date>
+					<date type="A">2014-10-21</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Heat transfer between two parallel porous plates for Couette flow under pressure gradient and Hall current</title>
+				<feature></feature>
+				<page>0183-0197</page>
+				<abstract>
+					<p>The aim of the present paper is to study the unsteady magneto-hydrodynamic viscous Couette flow with heat transfer in a Darcy porous medium between two infinite parallel porous plates considering Hall effect, and temperature dependent physical properties under constant pressure gradient. The parallel plates are assumed to be porous and subjected to a uniform suction from above and injection from below while the fluid is flowing through a porous medium that is assumed to obey Darcy’s law. A numerical solution for the governing nonlinear partial differential equations coupled with set of momentum equations and the energy equation including the viscous and Joule dissipations is adopted. The effect of the porosity of the medium, the Hall current and the temperature dependent viscosity and thermal conductivity on both the velocity and temperature distributions are investigated. It is found that the porosity numberMhas a marked effect on decreasing the velocity distribution (owing to a simultaneous increase in Darcy porous drag). Also the temperature T is decreased considerably with increasing porosity number.With increasing Hall current parameter m, the velocity component u (x-direction) is considerably increased, whereas velocity component w (z-direction) is reduced. Temperatures are decreased in the early stages of flow but effectively increased in the steady state with increasing m.</p>
+				</abstract>
+				<keywords>Flow between two parallel plates;Couette flow;porous medium;heat transfer;finite differences.</keywords>
+				<authors>
+					<author>
+						<name first="Hazem A." last="Attia">Hazem A. Attia</name>
+						<affiliation>Department of Engineering Mathematics and Physics, Faculty of Engineering, El-Fayoum University, El-Fayoum 63514, Egypt</affiliation>
+						<email>ah1113@yahoo.com</email>
+					</author>
+					<author>
+						<name first="W." last="Abbas">W. Abbas</name>
+						<affiliation>Basic and Applied Science Department, College of Engineering and Technology, Arab Academy for Science, Technology, and Maritime Transport, Cairo 2033, Egypt</affiliation>
+						<email>wael_abass@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Mostafa A. M." last="Abdeen">Mostafa A. M. Abdeen</name>
+						<affiliation>Department of Engineering Mathematics and Physics, Faculty of Engineering, Cairo University, Giza 12211, Egypt</affiliation>
+						<email>mostafa_a_m_abdeen@hotmail.com</email>
+					</author>
+					<author>
+						<name first="Ahmed A. M." last="Said">Ahmed A. M. Said</name>
+						<affiliation>Department of Engineering Mathematics and Physics, Faculty of Engineering, Helwan University, Cairo 11718, Egypt</affiliation>
+						<email>engahmidali@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-10</date>
+					<date type="R">2014-06-18</date>
+					<date type="A">2014-09-30</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Elastic buckling analysis of corroded stiffened plates with irregular surfaces</title>
+				<feature></feature>
+				<page>0199-0213</page>
+				<abstract>
+					<p>Numerical simulation is used to study the influence of corrosion damage in stiffened plates focusing on elastic buckling strength. Three-dimensional specta are used to simulate geometries of corroded surfaces and finite element method is employed for computing Euler stress of stiffened plates. The influence of corrosion patterns, amount of corrosion loss and roughness of surface are investigated. Ratio of Euler stress of corroded stiffened plate over Euler stress of un-corroded stiffened plate is used to characterize the effects of corrosion on reduction of buckling strength. Results show that reduction of buckling strength is very sensitive to the amount of corrosion loss and roughness of surface, but less sensitive to the location of corroded region. The potential for decrease in buckling strength as a consequence of corrosion is found to depend on the dominant buckling mode. Residual buckling strength is reduced by as much as 12% for the interaction of plate-web-torsional buckling mode, and by 2% for column buckling.</p>
+				</abstract>
+				<keywords>Corrosion;irregular surfaces;stiffened panel;interaction of buckling modes.</keywords>
+				<authors>
+					<author>
+						<name first="Ahmad" last="Rahbar-Ranji">Ahmad Rahbar-Ranji</name>
+						<affiliation>Department of Ocean Engineering, AmirKabir University of Technology, Hafez Ave., Tehran 15914, Iran</affiliation>
+						<email>rahbar@aut.ac.ir</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-10-25</date>
+					<date type="R">2014-08-04</date>
+					<date type="A">2014-09-04</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A simplified four-unknown shear and normal deformations theory for bidirectional laminated plates</title>
+				<feature></feature>
+				<page>0215-0234</page>
+				<abstract>
+					<p>This paper presents a simplified 4-unknown shear and normal deformations theory for the bending analysis of cross-ply laminated plates. The present theory accounts for an adequate distribution of transverse shear strains through the plate thickness and tangential stress-free on the plate surfaces. The effect of normal strain is also included. The governing, equilibrium equations and boundary conditions are derived by employing the virtual work principle. Numerical results for stresses and displacements are compared well with those obtained using 3-D elasticity solution.</p>
+				</abstract>
+				<keywords>Cross-ply laminates;four-unknown sinusoidal plate theory.</keywords>
+				<authors>
+					<author>
+						<name first="A. M." last="Zenkour">A. M. Zenkour</name>
+						<affiliation>Department of Mathematics, Faculty of Science, King Abdulaziz University, P.O. Box 80203, Jeddah 21589, Saudi Arabia</affiliation>
+						<affiliation>Department of Mathematics, Faculty of Science, Kafrelsheikh University, Kafr El-Sheikh 33516, Egypt</affiliation>
+						<email>zenkour@gmail.com; zenkour@kau.edu.sa</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2012-10-30</date>
+					<date type="R">2014-06-21</date>
+					<date type="A">2014-09-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Interfacial stresses in strengthened beam with shear cohesive zone model</title>
+				<feature></feature>
+				<page>0235-0248</page>
+				<abstract>
+					<p>The failure of strengthened beams with fibre-reinforced polymer (FRP) materials is due to high stress concentration of FRP–concrete interface. Understanding the cause and mechanism of the debonding of the FRP plate and the prediction of the stress distribution at the concrete–FRP interface are important for more effective strengthening technique. This paper presents an analytical solution, based on Smith and Teng’s equations, for interfacial shear and normal stresses in reinforced concrete (RC) beams strengthened with a fibre reinforced polymer (FRP) plate. However, the shear stress–strain relationship is considered to be bilinear curve. The effects of the shear deformations are calculated in an RC beam, an adhesive layer, and an FRP plate. The results of parametric study are compared with those of Smith and Teng. They confirm the accuracy of the proposed approach in predicting both interfacial shear and normal stresses.</p>
+				</abstract>
+				<keywords>Strengthened beam;interfacial stresses;cohesive zone;shear deformation.</keywords>
+				<authors>
+					<author>
+						<name first="Zergua" last="Abdesselam">Zergua Abdesselam</name>
+						<affiliation>Department of Civil Engineering, University of Constantine 1, Constantine, Algeria</affiliation>
+						<email>zergua.abdesselam@umc.edu.dz</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-04-24</date>
+					<date type="R">2014-07-14</date>
+					<date type="A">2014-09-12</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Strengthening of steel–concrete composite girders using carbon fibre reinforced polymer (CFRP) plates</title>
+				<feature></feature>
+				<page>0249-0261</page>
+				<abstract>
+					<p>Applying composites in order to strengthen and renew the infrastructures has globally been accepted. Traditional methods to strengthen the out-of-standard structures are costly, time consuming and requires a lot of labour. Today, new techniques are hired using light and strong substances which also resist against corrosion, known as Carbon Fibre Reinforced Polymer (CFRP) plates. Regarding the high tensile strength and proper module of elasticity, CFRP plates are considered as a suitable alternative to strengthen girders. The behaviour of steel–concrete composite girders being statically loaded and strengthened by CFRP plates in this study. The CFRP plates used in this study have been stuck, with epoxy adhesive, under the tensile sections of three steel girders. The results accompanied with analytical study of moment–curvature and numerical analysis done with ANSYS, show that CFRP plates with epoxy adhesive increases the ultimate loading capacity of steel–concrete composite girder. Plastic stiffness of the girders was also increased.</p>
+				</abstract>
+				<keywords>Strengthening;CFRP;steel–concrete;ANSYS and composite.</keywords>
+				<authors>
+					<author>
+						<name first="S. M." last="Mosavi">S. M. Mosavi</name>
+						<affiliation>Department of Civil Engineering, Tonekabon Branch, Islamic Azad University, Tonekabon, Iran</affiliation>
+						<email>dr.sayedmohammadmosavi@gmail.com</email>
+					</author>
+					<author>
+						<name first="A. Sadeghi" last="Nik">A. Sadeghi Nik</name>
+						<affiliation>Young Researchers and Elite Club, Jouybar Branch, Islamic Azad University, Jouybar, Iran</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-01-30</date>
+					<date type="R">2014-08-21</date>
+					<date type="A">2014-08-22</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantitative study on crack of meso-damage and fracture concrete based on CT technique</title>
+				<feature></feature>
+				<page>0263-0276</page>
+				<abstract>
+					<p>The meso-mechanics experiment of concrete specimen is carried out by means of CT technology, the whole degradation deformation process of meso-cracks generation, propagation, coalescence and failure is obtained under uniaxial compression condition. Based on CT image of concrete meso-damage evolution, the recognition and extraction of meso-cracks are realized by means of the digital imageprocessing (DIP) technique, and the basic geometrical characteristics of meso-crack patterns are statistically analysed from length, width and area. The quantitative analysis of the meso-fracture process of concrete materials is performed. The results demonstrate that the quantitative analysis of the internal meso-crack of concrete can be taken as a quantitative index to reflect the damage and fracture process thereby the meso-fracture mechanism of concrete material is thoroughly investigated. So it has brought forth some new ideas to the study of damage evolution law of concrete under uniaxial compression condition.</p>
+				</abstract>
+				<keywords>Concrete;meso-damage evolution;CT image;meso-crack;quantitative analysis.</keywords>
+				<authors>
+					<author>
+						<name first="Wei" last="Tian">Wei Tian</name>
+						<affiliation>School of Civil Engineering, Chang’an University, Xi’an 710061, China</affiliation>
+						<affiliation>School of Highway, Chang’an University, Xi’an 710064, China</affiliation>
+						<email>tianwei@chd.edu.cn</email>
+					</author>
+					<author>
+						<name first="Faning" last="Dang">Faning Dang</name>
+						<affiliation>Institute of Geotechnical Engineering, Xi’an University of Technology, Xi’an 710048, China</affiliation>
+						<email></email>
+					</author>
+					<author>
+						<name first="Yongli" last="Xie">Yongli Xie</name>
+						<affiliation>School of Highway, Chang’an University, Xi’an 710064, China</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-06-27</date>
+					<date type="R">2014-09-17</date>
+					<date type="A">2014-09-20</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Study of a railway embankment reinforced with jute tassels</title>
+				<feature></feature>
+				<page>0277-0293</page>
+				<abstract>
+					<p>This paper presents the results of laboratory model tests and corresponding numerical analyses carried out on a model slope representing an actual railway embankment which failed on several occasions after overnight heavy rainfall. In the absence of any field data, the displacement behaviour and failure pattern of the model embankment slope are observed in the laboratory under fully saturated condition and under a static load at the crest simulating the actual rail loads. A study is also performed by reinforcing the slope with thin jute tassels of 1 mm diameter. The numerical simulation of the model tests is performed by a commercial program called FLAC. The responses of the model slope with and without jute tassels are observed in fully saturated condition. Significant improvement in deformation of the slope is observed both in the case of numerical analyses and laboratory experiments when jute tassels are utilized as a slope protection measure. The study indicates that the stability of the railway embankment can be improved significantly at low cost by reinforcing it with jute tassels.</p>
+				</abstract>
+				<keywords>Embankment;models (physical);soil reinforcement;jute tassel;slope failures.</keywords>
+				<authors>
+					<author>
+						<name first="Aniruddha" last="Sengupta">Aniruddha Sengupta</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology Kharagpur, Kharagpur 721302, India</affiliation>
+						<email>sengupta@civil.iitkgp.ernet.in</email>
+					</author>
+					<author>
+						<name first="Suvadeep" last="Dalal">Suvadeep Dalal</name>
+						<affiliation>Department of Civil Engineering, Indian Institute of Technology Kharagpur, Kharagpur 721302, India</affiliation>
+						<email></email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2014-02-28</date>
+					<date type="R">2014-07-30</date>
+					<date type="A">2014-09-11</date>
+					<date type="E"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the use of Stockwell transform in structural dynamic analysis</title>
+				<feature></feature>
+				<page>0295-0306</page>
+				<abstract>
+					<p>Time-frequency analysis of earthquake records using Fourier transform is a fundamental, reliable and useful tool in earthquake engineering and engineering seismology. It will be however no longer functional if the frequency variation is analysed in time domain. Short time Fourier transform is utilized for the same purpose but this has also its own limitations and restrictions. In this research, Stockwell transform (S-transform), is evaluated in investigating frequency content of signal in time domain. First, the effectiveness of S-transform was tested by a non-stationary synthetic signal series with a sum of various instantaneous time varying frequency functions. Then, transform was employed to three different earthquake waveforms of Iwate-Miyagi Nairiku earthquake (M$_{\text{w}}$ 6.9, 2008); recorded in near, moderate and far sites. Finally, an application was demonstrated for determining dynamic response of three-story frame structure by using El Centro earthquake compiled with harmonic motion. Unlike widely used continuous wavelet transform, which provides temporal and spectral information simultaneously, S-transform is very straightforward and easy to manipulate for interpretations. All cases considered in this research showed that Stransform can be implemented for further research activities related with frequencydependent strong motion analysis by practitioners and engineers. S-transform can distinguish abrupt frequency changes in structures effectively and accurately.</p>
+				</abstract>
+				<keywords>Time-frequency domain;Stockwell transform;structural dynamic analysis;near-far field earthquake ground motion.</keywords>
+				<authors>
+					<author>
+						<name first="H. Serdar" last="Kuyuk">H. Serdar Kuyuk</name>
+						<affiliation>Seismological Laboratory, UCBerkeley, McCone Hall, Berkeley, California 94720, USA</affiliation>
+						<affiliation>Department of Civil Engineering, Engineering Faculty, Sakarya University, Sakarya 54100, Turkey</affiliation>
+						<email>serdarkuyuk@gmail.com</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2013-07-24</date>
+					<date type="R">2014-04-24</date>
+					<date type="A">2014-09-20</date>
+					<date type="E"></date>
+				</dates>
 			</entry>
 		</issue>
 	</volume>
